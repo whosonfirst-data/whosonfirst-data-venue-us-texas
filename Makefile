@@ -6,7 +6,7 @@ WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
 
 archive:
-	tar --exclude='.git*' --exclude='Makefile.*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./
+	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 bundles:
 	echo "please write me"
@@ -33,11 +33,12 @@ gitignore:
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
 ia:
-	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo,mapzen,whosonfirst" --metadata="creator:Who's On First (Mapzen)"
+	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo;mapzen;whosonfirst" --metadata="creator:Who's On First (Mapzen)"
 
 internetarchive:
 	$(MAKE) dest=$(src) archive
 	$(MAKE) src=$(src) ia
+	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 makefile:
 	mv Makefile Makefile.$(YMD)
