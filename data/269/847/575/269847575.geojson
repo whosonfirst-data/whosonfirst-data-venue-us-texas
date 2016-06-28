@@ -2,13 +2,14 @@
   "id": 269847575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.357239,29.768471,-95.357239,29.768471",
     "geom:latitude":29.768471,
     "geom:longitude":-95.357239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Vine Street, Suite 101",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269847575,
-    "wof:lastmodified":1449037009,
+    "wof:lastmodified":1467084595,
     "wof:name":"FotoFest Headquarters",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.357239,29.768471,-95.357239,29.768471],
-  "geometry": {"coordinates":[-95.357239,29.768471],"type":"Point"}
+  "bbox": [
+    -95.357239,
+    29.768471,
+    -95.357239,
+    29.768471
+],
+  "geometry": {"coordinates":[-95.35723900000001,29.768471],"type":"Point"}
 }

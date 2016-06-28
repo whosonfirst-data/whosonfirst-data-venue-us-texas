@@ -2,13 +2,14 @@
   "id": 286470415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.065345,30.286305,-95.065345,30.286305",
     "geom:latitude":30.286305,
     "geom:longitude":-95.065345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 County Road 3315",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286470415,
-    "wof:lastmodified":1449015881,
+    "wof:lastmodified":1467084255,
     "wof:name":"Arnulfo Gomez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.065345,30.286305,-95.065345,30.286305],
-  "geometry": {"coordinates":[-95.065345,30.286305],"type":"Point"}
+  "bbox": [
+    -95.065345,
+    30.286305,
+    -95.065345,
+    30.286305
+],
+  "geometry": {"coordinates":[-95.06534499999999,30.286305],"type":"Point"}
 }

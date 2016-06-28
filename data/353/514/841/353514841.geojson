@@ -2,13 +2,14 @@
   "id": 353514841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.842014,33.584571,-101.842014,33.584571",
     "geom:latitude":33.584571,
     "geom:longitude":-101.842014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Broadway St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353514841,
-    "wof:lastmodified":1449019548,
+    "wof:lastmodified":1467084349,
     "wof:name":"Creative Juice",
     "wof:parent_id":85878777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "juice"
     ]
 },
-  "bbox": [-101.842014,33.584571,-101.842014,33.584571],
-  "geometry": {"coordinates":[-101.842014,33.584571],"type":"Point"}
+  "bbox": [
+    -101.842014,
+    33.584571,
+    -101.842014,
+    33.584571
+],
+  "geometry": {"coordinates":[-101.84201400000001,33.584571],"type":"Point"}
 }

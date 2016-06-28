@@ -2,13 +2,14 @@
   "id": 387256609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.341951,30.623731,-96.341951,30.623731",
     "geom:latitude":30.623731,
     "geom:longitude":-96.341951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 College Ave",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387256609,
-    "wof:lastmodified":1449059001,
+    "wof:lastmodified":1467084858,
     "wof:name":"Thai Taste",
     "wof:parent_id":85893613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.341951,30.623731,-96.341951,30.623731],
-  "geometry": {"coordinates":[-96.341951,30.623731],"type":"Point"}
+  "bbox": [
+    -96.341951,
+    30.623731,
+    -96.341951,
+    30.623731
+],
+  "geometry": {"coordinates":[-96.34195099999999,30.623731],"type":"Point"}
 }

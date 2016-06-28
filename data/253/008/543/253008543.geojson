@@ -2,13 +2,14 @@
   "id": 253008543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38678,32.776931,-97.38678,32.776931",
     "geom:latitude":32.776931,
     "geom:longitude":-97.38678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Springer Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253008543,
-    "wof:lastmodified":1449063748,
+    "wof:lastmodified":1467084977,
     "wof:name":"Thompson Fine Art",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-97.38678,32.776931,-97.38678,32.776931],
+  "bbox": [
+    -97.38678,
+    32.776931,
+    -97.38678,
+    32.776931
+],
   "geometry": {"coordinates":[-97.38678,32.776931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203126809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.511991,27.526055,-99.511991,27.526055",
     "geom:latitude":27.526055,
     "geom:longitude":-99.511991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Circle Dr",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203126809,
-    "wof:lastmodified":1449025619,
+    "wof:lastmodified":1467084397,
     "wof:name":"Federal Housing Adm",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-99.511991,27.526055,-99.511991,27.526055],
-  "geometry": {"coordinates":[-99.511991,27.526055],"type":"Point"}
+  "bbox": [
+    -99.511991,
+    27.526055,
+    -99.511991,
+    27.526055
+],
+  "geometry": {"coordinates":[-99.51199099999999,27.526055],"type":"Point"}
 }

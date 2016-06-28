@@ -2,13 +2,14 @@
   "id": 387756725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456273,30.287948,-95.456273,30.287948",
     "geom:latitude":30.287948,
     "geom:longitude":-95.456273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Frazier St",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387756725,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1467084843,
     "wof:name":"Park Village Apartments",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.456273,30.287948,-95.456273,30.287948],
+  "bbox": [
+    -95.456273,
+    30.287948,
+    -95.456273,
+    30.287948
+],
   "geometry": {"coordinates":[-95.456273,30.287948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253755111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121235,32.588095,-97.121235,32.588095",
     "geom:latitude":32.588095,
     "geom:longitude":-97.121235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Country Club Dr",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253755111,
-    "wof:lastmodified":1449063652,
+    "wof:lastmodified":1467084973,
     "wof:name":"Country Club At North Shore",
     "wof:parent_id":85873081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.121235,32.588095,-97.121235,32.588095],
+  "bbox": [
+    -97.121235,
+    32.588095,
+    -97.121235,
+    32.588095
+],
   "geometry": {"coordinates":[-97.121235,32.588095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236585557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711992,32.985509,-96.711992,32.985509",
     "geom:latitude":32.985509,
     "geom:longitude":-96.711992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 N Central Expy",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236585557,
-    "wof:lastmodified":1449003924,
+    "wof:lastmodified":1467083976,
     "wof:name":"Philips Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.711992,32.985509,-96.711992,32.985509],
+  "bbox": [
+    -96.711992,
+    32.985509,
+    -96.711992,
+    32.985509
+],
   "geometry": {"coordinates":[-96.711992,32.985509],"type":"Point"}
 }

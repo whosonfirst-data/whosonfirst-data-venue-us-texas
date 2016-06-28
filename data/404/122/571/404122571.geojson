@@ -2,13 +2,14 @@
   "id": 404122571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.13518,32.002404,-102.13518,32.002404",
     "geom:latitude":32.002404,
     "geom:longitude":-102.13518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 Andrews Hwy",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404122571,
-    "wof:lastmodified":1449039815,
+    "wof:lastmodified":1467084651,
     "wof:name":"Community Health Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-102.13518,32.002404,-102.13518,32.002404],
-  "geometry": {"coordinates":[-102.13518,32.002404],"type":"Point"}
+  "bbox": [
+    -102.13518,
+    32.002404,
+    -102.13518,
+    32.002404
+],
+  "geometry": {"coordinates":[-102.13518000000001,32.002404],"type":"Point"}
 }

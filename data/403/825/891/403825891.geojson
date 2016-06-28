@@ -2,13 +2,14 @@
   "id": 403825891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802501,32.87336,-96.802501,32.87336",
     "geom:latitude":32.87336,
     "geom:longitude":-96.802501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6154 Park Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403825891,
-    "wof:lastmodified":1449054668,
+    "wof:lastmodified":1467084750,
     "wof:name":"The Camel Group",
     "wof:parent_id":85870419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bank"
     ]
 },
-  "bbox": [-96.802501,32.87336,-96.802501,32.87336],
-  "geometry": {"coordinates":[-96.802501,32.87336],"type":"Point"}
+  "bbox": [
+    -96.802501,
+    32.87336,
+    -96.802501,
+    32.87336
+],
+  "geometry": {"coordinates":[-96.80250100000001,32.87336],"type":"Point"}
 }

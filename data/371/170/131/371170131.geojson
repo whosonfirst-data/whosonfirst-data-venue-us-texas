@@ -2,13 +2,14 @@
   "id": 371170131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353147,32.578169,-97.353147,32.578169",
     "geom:latitude":32.578169,
     "geom:longitude":-97.353147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Crowley Rd",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371170131,
-    "wof:lastmodified":1449049118,
+    "wof:lastmodified":1467084672,
     "wof:name":"Video Place Of Crowley",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.353147,32.578169,-97.353147,32.578169],
-  "geometry": {"coordinates":[-97.353147,32.578169],"type":"Point"}
+  "bbox": [
+    -97.353147,
+    32.578169,
+    -97.353147,
+    32.578169
+],
+  "geometry": {"coordinates":[-97.35314700000001,32.578169],"type":"Point"}
 }

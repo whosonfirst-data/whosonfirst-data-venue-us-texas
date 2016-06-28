@@ -2,13 +2,14 @@
   "id": 252725763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947015,32.62994,-96.947015,32.62994",
     "geom:latitude":32.62994,
     "geom:longitude":-96.947015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7235 Blackwillow Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252725763,
-    "wof:lastmodified":1449005692,
+    "wof:lastmodified":1467084063,
     "wof:name":"Bettie Enterprises",
     "wof:parent_id":85870473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.947015,32.62994,-96.947015,32.62994],
-  "geometry": {"coordinates":[-96.947015,32.62994],"type":"Point"}
+  "bbox": [
+    -96.947015,
+    32.62994,
+    -96.947015,
+    32.62994
+],
+  "geometry": {"coordinates":[-96.94701499999999,32.62994],"type":"Point"}
 }

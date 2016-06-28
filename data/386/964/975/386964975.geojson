@@ -2,13 +2,14 @@
   "id": 386964975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.84511,32.960449,-96.84511,32.960449",
     "geom:latitude":32.960449,
     "geom:longitude":-96.84511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Wiley Post Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386964975,
-    "wof:lastmodified":1449028876,
+    "wof:lastmodified":1467084463,
     "wof:name":"Seaton Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.84511,32.960449,-96.84511,32.960449],
-  "geometry": {"coordinates":[-96.84511,32.960449],"type":"Point"}
+  "bbox": [
+    -96.84511,
+    32.960449,
+    -96.84511,
+    32.960449
+],
+  "geometry": {"coordinates":[-96.84511000000001,32.960449],"type":"Point"}
 }

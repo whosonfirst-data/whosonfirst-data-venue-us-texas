@@ -2,13 +2,14 @@
   "id": 220096187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.559263,29.921414,-95.559263,29.921414",
     "geom:latitude":29.921414,
     "geom:longitude":-95.559263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10802 Legacy Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220096187,
-    "wof:lastmodified":1449074276,
+    "wof:lastmodified":1467085182,
     "wof:name":"ANB Logistics",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-95.559263,29.921414,-95.559263,29.921414],
+  "bbox": [
+    -95.559263,
+    29.921414,
+    -95.559263,
+    29.921414
+],
   "geometry": {"coordinates":[-95.559263,29.921414],"type":"Point"}
 }

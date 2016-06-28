@@ -2,13 +2,14 @@
   "id": 236907305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785649,32.823745,-96.785649,32.823745",
     "geom:latitude":32.823745,
     "geom:longitude":-96.785649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 N Central Expy Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236907305,
-    "wof:lastmodified":1449004946,
+    "wof:lastmodified":1467084025,
     "wof:name":"Evanesque",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laser"
     ]
 },
-  "bbox": [-96.785649,32.823745,-96.785649,32.823745],
-  "geometry": {"coordinates":[-96.785649,32.823745],"type":"Point"}
+  "bbox": [
+    -96.785649,
+    32.823745,
+    -96.785649,
+    32.823745
+],
+  "geometry": {"coordinates":[-96.78564900000001,32.823745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303945001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.896071,35.123499,-101.896071,35.123499",
     "geom:latitude":35.123499,
     "geom:longitude":-101.896071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8307 Wilshire St.",
     "sg:city":"Amarillo",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303945001,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1467083702,
     "wof:name":"David Does Things \"For Your Home\"",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.896071,35.123499,-101.896071,35.123499],
-  "geometry": {"coordinates":[-101.896071,35.123499],"type":"Point"}
+  "bbox": [
+    -101.896071,
+    35.123499,
+    -101.896071,
+    35.123499
+],
+  "geometry": {"coordinates":[-101.89607100000001,35.123499],"type":"Point"}
 }

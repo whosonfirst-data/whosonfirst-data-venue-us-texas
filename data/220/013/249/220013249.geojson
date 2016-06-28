@@ -2,13 +2,14 @@
   "id": 220013249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.529153,30.344682,-96.529153,30.344682",
     "geom:latitude":30.344682,
     "geom:longitude":-96.529153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Ave C",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220013249,
-    "wof:lastmodified":1449074596,
+    "wof:lastmodified":1467085189,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.529153,30.344682,-96.529153,30.344682],
-  "geometry": {"coordinates":[-96.529153,30.344682],"type":"Point"}
+  "bbox": [
+    -96.529153,
+    30.344682,
+    -96.529153,
+    30.344682
+],
+  "geometry": {"coordinates":[-96.52915299999999,30.344682],"type":"Point"}
 }

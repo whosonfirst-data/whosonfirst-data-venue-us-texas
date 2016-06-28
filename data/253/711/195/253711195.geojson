@@ -2,13 +2,14 @@
   "id": 253711195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146488,32.822151,-97.146488,32.822151",
     "geom:latitude":32.822151,
     "geom:longitude":-97.146488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Pipeline Rd W",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":253711195,
-    "wof:lastmodified":1449065224,
+    "wof:lastmodified":1467085027,
     "wof:name":"Cooper's Golf Park",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "range"
     ]
 },
-  "bbox": [-97.146488,32.822151,-97.146488,32.822151],
-  "geometry": {"coordinates":[-97.146488,32.822151],"type":"Point"}
+  "bbox": [
+    -97.146488,
+    32.822151,
+    -97.146488,
+    32.822151
+],
+  "geometry": {"coordinates":[-97.14648800000001,32.822151],"type":"Point"}
 }

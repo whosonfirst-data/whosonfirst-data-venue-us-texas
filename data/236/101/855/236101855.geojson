@@ -2,13 +2,14 @@
   "id": 236101855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.078246,32.742263,-97.078246,32.742263",
     "geom:latitude":32.742263,
     "geom:longitude":-97.078246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 E Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236101855,
-    "wof:lastmodified":1449003377,
+    "wof:lastmodified":1467083951,
     "wof:name":"Customer One Finance",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.078246,32.742263,-97.078246,32.742263],
-  "geometry": {"coordinates":[-97.078246,32.742263],"type":"Point"}
+  "bbox": [
+    -97.078246,
+    32.742263,
+    -97.078246,
+    32.742263
+],
+  "geometry": {"coordinates":[-97.07824599999999,32.742263],"type":"Point"}
 }

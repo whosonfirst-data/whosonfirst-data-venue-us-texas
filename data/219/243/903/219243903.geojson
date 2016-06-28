@@ -2,13 +2,14 @@
   "id": 219243903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425984,27.706232,-97.425984,27.706232",
     "geom:latitude":27.706232,
     "geom:longitude":-97.425984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Saratoga Blvd",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219243903,
-    "wof:lastmodified":1449071539,
+    "wof:lastmodified":1467085124,
     "wof:name":"Medical Specialist Group",
     "wof:parent_id":85821067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.425984,27.706232,-97.425984,27.706232],
+  "bbox": [
+    -97.425984,
+    27.706232,
+    -97.425984,
+    27.706232
+],
   "geometry": {"coordinates":[-97.425984,27.706232],"type":"Point"}
 }

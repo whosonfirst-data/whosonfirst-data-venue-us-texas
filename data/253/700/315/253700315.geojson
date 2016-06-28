@@ -2,13 +2,14 @@
   "id": 253700315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351791,32.563796,-97.351791,32.563796",
     "geom:latitude":32.563796,
     "geom:longitude":-97.351791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 S Crowley Rd",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253700315,
-    "wof:lastmodified":1449065532,
+    "wof:lastmodified":1467085038,
     "wof:name":"TOTAL CARE",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.351791,32.563796,-97.351791,32.563796],
-  "geometry": {"coordinates":[-97.351791,32.563796],"type":"Point"}
+  "bbox": [
+    -97.351791,
+    32.563796,
+    -97.351791,
+    32.563796
+],
+  "geometry": {"coordinates":[-97.35179100000001,32.563796],"type":"Point"}
 }

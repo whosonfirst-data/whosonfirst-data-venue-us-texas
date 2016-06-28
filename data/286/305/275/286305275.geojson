@@ -2,13 +2,14 @@
   "id": 286305275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.479003,29.703773,-95.479003,29.703773",
     "geom:latitude":29.703773,
     "geom:longitude":-95.479003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Edgemoor Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":286305275,
-    "wof:lastmodified":1449015612,
+    "wof:lastmodified":1467084248,
     "wof:name":"Cardinal Plumbing",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-95.479003,29.703773,-95.479003,29.703773],
-  "geometry": {"coordinates":[-95.479003,29.703773],"type":"Point"}
+  "bbox": [
+    -95.479003,
+    29.703773,
+    -95.479003,
+    29.703773
+],
+  "geometry": {"coordinates":[-95.47900300000001,29.703773],"type":"Point"}
 }

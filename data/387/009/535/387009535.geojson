@@ -2,13 +2,14 @@
   "id": 387009535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.097763,32.705463,-97.097763,32.705463",
     "geom:latitude":32.705463,
     "geom:longitude":-97.097763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 S Collins St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387009535,
-    "wof:lastmodified":1449059842,
+    "wof:lastmodified":1467084881,
     "wof:name":"Sunset Cafe",
     "wof:parent_id":85897285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.097763,32.705463,-97.097763,32.705463],
+  "bbox": [
+    -97.097763,
+    32.705463,
+    -97.097763,
+    32.705463
+],
   "geometry": {"coordinates":[-97.097763,32.705463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253751897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377893,32.483328,-97.377893,32.483328",
     "geom:latitude":32.483328,
     "geom:longitude":-97.377893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 SW Wilshire Blvd # 100",
     "sg:city":"Joshua",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253751897,
-    "wof:lastmodified":1449062987,
+    "wof:lastmodified":1467084951,
     "wof:name":"Dugas Billings",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-97.377893,32.483328,-97.377893,32.483328],
+  "bbox": [
+    -97.377893,
+    32.483328,
+    -97.377893,
+    32.483328
+],
   "geometry": {"coordinates":[-97.377893,32.483328],"type":"Point"}
 }

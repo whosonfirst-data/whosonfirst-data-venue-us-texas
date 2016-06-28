@@ -2,13 +2,14 @@
   "id": 303792873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.703887,30.410746,-97.703887,30.410746",
     "geom:latitude":30.410746,
     "geom:longitude":-97.703887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Medical Oaks Pavilion 12201 Renfert Way, Suite 305",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303792873,
-    "wof:lastmodified":1448998638,
+    "wof:lastmodified":1467083717,
     "wof:name":"Westlake Dermatology",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-97.703887,30.410746,-97.703887,30.410746],
-  "geometry": {"coordinates":[-97.703887,30.410746],"type":"Point"}
+  "bbox": [
+    -97.703887,
+    30.410746,
+    -97.703887,
+    30.410746
+],
+  "geometry": {"coordinates":[-97.70388699999999,30.410746],"type":"Point"}
 }

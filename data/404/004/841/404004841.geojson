@@ -2,13 +2,14 @@
   "id": 404004841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.742426,32.408434,-99.742426,32.408434",
     "geom:latitude":32.408434,
     "geom:longitude":-99.742426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 S Treadaway Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404004841,
-    "wof:lastmodified":1449039461,
+    "wof:lastmodified":1467084647,
     "wof:name":"West Texas Cat",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-99.742426,32.408434,-99.742426,32.408434],
-  "geometry": {"coordinates":[-99.742426,32.408434],"type":"Point"}
+  "bbox": [
+    -99.742426,
+    32.408434,
+    -99.742426,
+    32.408434
+],
+  "geometry": {"coordinates":[-99.74242599999999,32.408434],"type":"Point"}
 }

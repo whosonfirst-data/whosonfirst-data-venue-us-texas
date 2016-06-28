@@ -2,13 +2,14 @@
   "id": 236332981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.779182,30.192912,-97.779182,30.192912",
     "geom:latitude":30.192912,
     "geom:longitude":-97.779182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W William Cannon Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236332981,
-    "wof:lastmodified":1449003503,
+    "wof:lastmodified":1467083956,
     "wof:name":"Cannon South Apartments",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.779182,30.192912,-97.779182,30.192912],
-  "geometry": {"coordinates":[-97.779182,30.192912],"type":"Point"}
+  "bbox": [
+    -97.779182,
+    30.192912,
+    -97.779182,
+    30.192912
+],
+  "geometry": {"coordinates":[-97.77918200000001,30.192912],"type":"Point"}
 }

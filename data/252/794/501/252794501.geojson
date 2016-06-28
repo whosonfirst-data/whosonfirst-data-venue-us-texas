@@ -2,13 +2,14 @@
   "id": 252794501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.096508,32.472668,-96.096508,32.472668",
     "geom:latitude":32.472668,
     "geom:longitude":-96.096508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14100 Co Rd 4015",
     "sg:city":"Mabank",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252794501,
-    "wof:lastmodified":1449005934,
+    "wof:lastmodified":1467084076,
     "wof:name":"Johnny's Pump Svc",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-96.096508,32.472668,-96.096508,32.472668],
+  "bbox": [
+    -96.096508,
+    32.472668,
+    -96.096508,
+    32.472668
+],
   "geometry": {"coordinates":[-96.096508,32.472668],"type":"Point"}
 }

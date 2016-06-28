@@ -2,13 +2,14 @@
   "id": 270287169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545646,29.740706,-95.545646,29.740706",
     "geom:latitude":29.740706,
     "geom:longitude":-95.545646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 W Rivercrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270287169,
-    "wof:lastmodified":1449008805,
+    "wof:lastmodified":1467084155,
     "wof:name":"02 Ranch",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-95.545646,29.740706,-95.545646,29.740706],
+  "bbox": [
+    -95.545646,
+    29.740706,
+    -95.545646,
+    29.740706
+],
   "geometry": {"coordinates":[-95.545646,29.740706],"type":"Point"}
 }

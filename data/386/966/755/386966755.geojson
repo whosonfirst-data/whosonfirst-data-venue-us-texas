@@ -2,13 +2,14 @@
   "id": 386966755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.503166,27.556344,-99.503166,27.556344",
     "geom:latitude":27.556344,
     "geom:longitude":-99.503166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 San Dario Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386966755,
-    "wof:lastmodified":1449028624,
+    "wof:lastmodified":1467084458,
     "wof:name":"Sames Mazda",
     "wof:parent_id":85838603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.503166,27.556344,-99.503166,27.556344],
-  "geometry": {"coordinates":[-99.503166,27.556344],"type":"Point"}
+  "bbox": [
+    -99.503166,
+    27.556344,
+    -99.503166,
+    27.556344
+],
+  "geometry": {"coordinates":[-99.50316599999999,27.556344],"type":"Point"}
 }

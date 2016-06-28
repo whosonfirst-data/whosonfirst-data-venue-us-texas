@@ -2,13 +2,14 @@
   "id": 269600295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.166012,33.359875,-97.166012,33.359875",
     "geom:latitude":33.359875,
     "geom:longitude":-97.166012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11800 Jones Rd",
     "sg:city":"Sanger",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269600295,
-    "wof:lastmodified":1449036368,
+    "wof:lastmodified":1467084578,
     "wof:name":"Vandever James D Trucking Inc",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.166012,33.359875,-97.166012,33.359875],
-  "geometry": {"coordinates":[-97.166012,33.359875],"type":"Point"}
+  "bbox": [
+    -97.166012,
+    33.359875,
+    -97.166012,
+    33.359875
+],
+  "geometry": {"coordinates":[-97.16601199999999,33.359875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370784971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.354869,31.71292,-106.354869,31.71292",
     "geom:latitude":31.71292,
     "geom:longitude":-106.354869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8325 Valley View Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370784971,
-    "wof:lastmodified":1449031338,
+    "wof:lastmodified":1467084525,
     "wof:name":"Manuel Camacho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.354869,31.71292,-106.354869,31.71292],
-  "geometry": {"coordinates":[-106.354869,31.71292],"type":"Point"}
+  "bbox": [
+    -106.354869,
+    31.71292,
+    -106.354869,
+    31.71292
+],
+  "geometry": {"coordinates":[-106.35486899999999,31.71292],"type":"Point"}
 }

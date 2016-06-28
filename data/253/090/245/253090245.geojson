@@ -2,13 +2,14 @@
   "id": 253090245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39006,29.809801,-95.39006,29.809801",
     "geom:latitude":29.809801,
     "geom:longitude":-95.39006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 N Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253090245,
-    "wof:lastmodified":1449065166,
+    "wof:lastmodified":1467085025,
     "wof:name":"Supreme Detail Shop",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.39006,29.809801,-95.39006,29.809801],
-  "geometry": {"coordinates":[-95.39006,29.809801],"type":"Point"}
+  "bbox": [
+    -95.39006,
+    29.809801,
+    -95.39006,
+    29.809801
+],
+  "geometry": {"coordinates":[-95.39006000000001,29.809801],"type":"Point"}
 }

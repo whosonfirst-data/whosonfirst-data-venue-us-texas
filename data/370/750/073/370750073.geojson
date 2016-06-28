@@ -2,13 +2,14 @@
   "id": 370750073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.46915,27.521276,-99.46915,27.521276",
     "geom:latitude":27.521276,
     "geom:longitude":-99.46915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 E Kearney St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370750073,
-    "wof:lastmodified":1449031125,
+    "wof:lastmodified":1467084520,
     "wof:name":"Run Around Messeger Svc",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-99.46915,27.521276,-99.46915,27.521276],
+  "bbox": [
+    -99.46915,
+    27.521276,
+    -99.46915,
+    27.521276
+],
   "geometry": {"coordinates":[-99.46915,27.521276],"type":"Point"}
 }

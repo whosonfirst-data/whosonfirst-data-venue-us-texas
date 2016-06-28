@@ -2,13 +2,14 @@
   "id": 319838273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60546,31.989588,-106.60546,31.989588",
     "geom:latitude":31.989588,
     "geom:longitude":-106.60546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Main St",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319838273,
-    "wof:lastmodified":1449024194,
+    "wof:lastmodified":1467084379,
     "wof:name":"Sewer Plant",
     "wof:parent_id":85893659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-106.60546,31.989588,-106.60546,31.989588],
-  "geometry": {"coordinates":[-106.60546,31.989588],"type":"Point"}
+  "bbox": [
+    -106.60546,
+    31.989588,
+    -106.60546,
+    31.989588
+],
+  "geometry": {"coordinates":[-106.60545999999999,31.989588],"type":"Point"}
 }

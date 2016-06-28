@@ -2,13 +2,14 @@
   "id": 253641237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.155899,32.706829,-97.155899,32.706829",
     "geom:latitude":32.706829,
     "geom:longitude":-97.155899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 W Arkansas Ln #R5",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253641237,
-    "wof:lastmodified":1449065052,
+    "wof:lastmodified":1467085022,
     "wof:name":"A TAX & CREDIT",
     "wof:parent_id":85840401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "taxes-consultants"
     ]
 },
-  "bbox": [-97.155899,32.706829,-97.155899,32.706829],
-  "geometry": {"coordinates":[-97.155899,32.706829],"type":"Point"}
+  "bbox": [
+    -97.155899,
+    32.706829,
+    -97.155899,
+    32.706829
+],
+  "geometry": {"coordinates":[-97.15589900000001,32.706829],"type":"Point"}
 }

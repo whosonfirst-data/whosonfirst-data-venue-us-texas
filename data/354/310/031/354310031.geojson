@@ -2,13 +2,14 @@
   "id": 354310031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.353811,29.52038,-98.353811,29.52038",
     "geom:latitude":29.52038,
     "geom:longitude":-98.353811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6819 Whitland",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354310031,
-    "wof:lastmodified":1449066986,
+    "wof:lastmodified":1467085077,
     "wof:name":"Bueno Enterprise",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.353811,29.52038,-98.353811,29.52038],
-  "geometry": {"coordinates":[-98.353811,29.52038],"type":"Point"}
+  "bbox": [
+    -98.353811,
+    29.52038,
+    -98.353811,
+    29.52038
+],
+  "geometry": {"coordinates":[-98.35381099999999,29.52038],"type":"Point"}
 }

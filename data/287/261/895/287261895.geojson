@@ -2,13 +2,14 @@
   "id": 287261895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529091,25.943701,-97.529091,25.943701",
     "geom:latitude":25.943701,
     "geom:longitude":-97.529091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Ruben M Torres Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":287261895,
-    "wof:lastmodified":1449000680,
+    "wof:lastmodified":1467083818,
     "wof:name":"Information Center",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.529091,25.943701,-97.529091,25.943701],
-  "geometry": {"coordinates":[-97.529091,25.943701],"type":"Point"}
+  "bbox": [
+    -97.529091,
+    25.943701,
+    -97.529091,
+    25.943701
+],
+  "geometry": {"coordinates":[-97.52909099999999,25.943701],"type":"Point"}
 }

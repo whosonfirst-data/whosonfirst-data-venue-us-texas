@@ -2,13 +2,14 @@
   "id": 185821341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.212955,29.772747,-98.212955,29.772747",
     "geom:latitude":29.772747,
     "geom:longitude":-98.212955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 FM 2722",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185821341,
-    "wof:lastmodified":1449007490,
+    "wof:lastmodified":1467084127,
     "wof:name":"Dilloware Inc",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-98.212955,29.772747,-98.212955,29.772747],
-  "geometry": {"coordinates":[-98.212955,29.772747],"type":"Point"}
+  "bbox": [
+    -98.212955,
+    29.772747,
+    -98.212955,
+    29.772747
+],
+  "geometry": {"coordinates":[-98.21295499999999,29.772747],"type":"Point"}
 }

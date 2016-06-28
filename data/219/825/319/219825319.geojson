@@ -2,13 +2,14 @@
   "id": 219825319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.565301,29.498027,-98.565301,29.498027",
     "geom:latitude":29.498027,
     "geom:longitude":-98.565301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7046 Callaghan Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219825319,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1467085102,
     "wof:name":"Taste Of Mexico Inc",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "show"
     ]
 },
-  "bbox": [-98.565301,29.498027,-98.565301,29.498027],
-  "geometry": {"coordinates":[-98.565301,29.498027],"type":"Point"}
+  "bbox": [
+    -98.565301,
+    29.498027,
+    -98.565301,
+    29.498027
+],
+  "geometry": {"coordinates":[-98.56530100000001,29.498027],"type":"Point"}
 }

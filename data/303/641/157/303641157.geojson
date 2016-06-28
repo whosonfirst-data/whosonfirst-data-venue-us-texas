@@ -2,13 +2,14 @@
   "id": 303641157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.816411,30.185977,-97.816411,30.185977",
     "geom:latitude":30.185977,
     "geom:longitude":-97.816411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Manchaca Rd Ste 204",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303641157,
-    "wof:lastmodified":1448999978,
+    "wof:lastmodified":1467083784,
     "wof:name":"Texas Home Loan Mortgage",
     "wof:parent_id":85893505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.816411,30.185977,-97.816411,30.185977],
+  "bbox": [
+    -97.816411,
+    30.185977,
+    -97.816411,
+    30.185977
+],
   "geometry": {"coordinates":[-97.816411,30.185977],"type":"Point"}
 }

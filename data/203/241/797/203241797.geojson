@@ -2,13 +2,14 @@
   "id": 203241797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.417241,29.697159,-95.417241,29.697159",
     "geom:latitude":29.697159,
     "geom:longitude":-95.417241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2459 S Braeswood Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203241797,
-    "wof:lastmodified":1449026836,
+    "wof:lastmodified":1467084420,
     "wof:name":"Medcenter Ambulatory Surgery",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-95.417241,29.697159,-95.417241,29.697159],
+  "bbox": [
+    -95.417241,
+    29.697159,
+    -95.417241,
+    29.697159
+],
   "geometry": {"coordinates":[-95.417241,29.697159],"type":"Point"}
 }

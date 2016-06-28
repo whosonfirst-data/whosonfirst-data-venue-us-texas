@@ -2,13 +2,14 @@
   "id": 370259825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545561,32.863858,-97.545561,32.863858",
     "geom:latitude":32.863858,
     "geom:longitude":-97.545561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Riverbend St",
     "sg:city":"Azle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370259825,
-    "wof:lastmodified":1449029861,
+    "wof:lastmodified":1467084488,
     "wof:name":"Clemons Custom Sprinkler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.545561,32.863858,-97.545561,32.863858],
-  "geometry": {"coordinates":[-97.545561,32.863858],"type":"Point"}
+  "bbox": [
+    -97.545561,
+    32.863858,
+    -97.545561,
+    32.863858
+],
+  "geometry": {"coordinates":[-97.54556100000001,32.863858],"type":"Point"}
 }

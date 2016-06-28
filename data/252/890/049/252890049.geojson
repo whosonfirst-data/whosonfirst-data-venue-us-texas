@@ -2,13 +2,14 @@
   "id": 252890049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766089,32.783459,-96.766089,32.783459",
     "geom:latitude":32.783459,
     "geom:longitude":-96.766089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Parry Ave, Ste 205",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252890049,
-    "wof:lastmodified":1449005667,
+    "wof:lastmodified":1467084062,
     "wof:name":"Leveltwo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-96.766089,32.783459,-96.766089,32.783459],
-  "geometry": {"coordinates":[-96.766089,32.783459],"type":"Point"}
+  "bbox": [
+    -96.766089,
+    32.783459,
+    -96.766089,
+    32.783459
+],
+  "geometry": {"coordinates":[-96.76608899999999,32.783459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303552741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771504,30.227039,-97.771504,30.227039",
     "geom:latitude":30.227039,
     "geom:longitude":-97.771504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W. Ben White Blvd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303552741,
-    "wof:lastmodified":1448999143,
+    "wof:lastmodified":1467083742,
     "wof:name":"THM Pharmacy",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-97.771504,30.227039,-97.771504,30.227039],
-  "geometry": {"coordinates":[-97.771504,30.227039],"type":"Point"}
+  "bbox": [
+    -97.771504,
+    30.227039,
+    -97.771504,
+    30.227039
+],
+  "geometry": {"coordinates":[-97.77150399999999,30.227039],"type":"Point"}
 }

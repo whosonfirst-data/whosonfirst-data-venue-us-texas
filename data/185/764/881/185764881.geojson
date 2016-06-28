@@ -2,13 +2,14 @@
   "id": 185764881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.01408,33.074914,-97.01408,33.074914",
     "geom:latitude":33.074914,
     "geom:longitude":-97.01408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Monti Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185764881,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1467084138,
     "wof:name":"Config Systems Inc",
     "wof:parent_id":85893675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-97.01408,33.074914,-97.01408,33.074914],
-  "geometry": {"coordinates":[-97.01408,33.074914],"type":"Point"}
+  "bbox": [
+    -97.01408,
+    33.074914,
+    -97.01408,
+    33.074914
+],
+  "geometry": {"coordinates":[-97.01408000000001,33.074914],"type":"Point"}
 }

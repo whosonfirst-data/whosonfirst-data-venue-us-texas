@@ -2,13 +2,14 @@
   "id": 387100267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512599,25.915429,-97.512599,25.915429",
     "geom:latitude":25.915429,
     "geom:longitude":-97.512599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Central Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387100267,
-    "wof:lastmodified":1449058929,
+    "wof:lastmodified":1467084857,
     "wof:name":"Amigo Finance",
     "wof:parent_id":85844999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-97.512599,25.915429,-97.512599,25.915429],
-  "geometry": {"coordinates":[-97.512599,25.915429],"type":"Point"}
+  "bbox": [
+    -97.512599,
+    25.915429,
+    -97.512599,
+    25.915429
+],
+  "geometry": {"coordinates":[-97.51259899999999,25.915429],"type":"Point"}
 }

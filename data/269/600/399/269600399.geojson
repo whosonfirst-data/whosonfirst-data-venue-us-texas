@@ -2,13 +2,14 @@
   "id": 269600399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.167608,33.322933,-97.167608,33.322933",
     "geom:latitude":33.322933,
     "geom:longitude":-97.167608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Hoffpauer Way",
     "sg:city":"Sanger",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":269600399,
-    "wof:lastmodified":1449036368,
+    "wof:lastmodified":1467084578,
     "wof:name":"Texas Gates",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.167608,33.322933,-97.167608,33.322933],
+  "bbox": [
+    -97.167608,
+    33.322933,
+    -97.167608,
+    33.322933
+],
   "geometry": {"coordinates":[-97.167608,33.322933],"type":"Point"}
 }

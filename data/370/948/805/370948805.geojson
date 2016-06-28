@@ -2,13 +2,14 @@
   "id": 370948805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.595288,29.517745,-98.595288,29.517745",
     "geom:latitude":29.517745,
     "geom:longitude":-98.595288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Babcock Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370948805,
-    "wof:lastmodified":1449031780,
+    "wof:lastmodified":1467084537,
     "wof:name":"Ftatler Apartment Locators",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-98.595288,29.517745,-98.595288,29.517745],
+  "bbox": [
+    -98.595288,
+    29.517745,
+    -98.595288,
+    29.517745
+],
   "geometry": {"coordinates":[-98.595288,29.517745],"type":"Point"}
 }

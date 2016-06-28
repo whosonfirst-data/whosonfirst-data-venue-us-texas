@@ -2,13 +2,14 @@
   "id": 387183779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.344671,33.330166,-94.344671,33.330166",
     "geom:latitude":33.330166,
     "geom:longitude":-94.344671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Houston Dr",
     "sg:city":"Maud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387183779,
-    "wof:lastmodified":1449058152,
+    "wof:lastmodified":1467084837,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.344671,33.330166,-94.344671,33.330166],
-  "geometry": {"coordinates":[-94.344671,33.330166],"type":"Point"}
+  "bbox": [
+    -94.344671,
+    33.330166,
+    -94.344671,
+    33.330166
+],
+  "geometry": {"coordinates":[-94.34467100000001,33.330166],"type":"Point"}
 }

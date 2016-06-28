@@ -2,13 +2,14 @@
   "id": 286432825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.426288,29.735355,-95.426288,29.735355",
     "geom:latitude":29.735355,
     "geom:longitude":-95.426288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 Audley St Ste 110",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":286432825,
-    "wof:lastmodified":1449015109,
+    "wof:lastmodified":1467084234,
     "wof:name":"Greenway Therapeutic Massage",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-95.426288,29.735355,-95.426288,29.735355],
+  "bbox": [
+    -95.426288,
+    29.735355,
+    -95.426288,
+    29.735355
+],
   "geometry": {"coordinates":[-95.426288,29.735355],"type":"Point"}
 }

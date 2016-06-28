@@ -2,13 +2,14 @@
   "id": 202754029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.503223,30.003294,-95.503223,30.003294",
     "geom:latitude":30.003294,
     "geom:longitude":-95.503223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4226 Bayglen Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202754029,
-    "wof:lastmodified":1449061747,
+    "wof:lastmodified":1467084922,
     "wof:name":"VA Texas Group",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.503223,30.003294,-95.503223,30.003294],
-  "geometry": {"coordinates":[-95.503223,30.003294],"type":"Point"}
+  "bbox": [
+    -95.503223,
+    30.003294,
+    -95.503223,
+    30.003294
+],
+  "geometry": {"coordinates":[-95.50322300000001,30.003294],"type":"Point"}
 }

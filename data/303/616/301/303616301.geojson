@@ -2,13 +2,14 @@
   "id": 303616301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.836227,30.278545,-97.836227,30.278545",
     "geom:latitude":30.278545,
     "geom:longitude":-97.836227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 Port Royal Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303616301,
-    "wof:lastmodified":1448999917,
+    "wof:lastmodified":1467083781,
     "wof:name":"River Stream Property",
     "wof:parent_id":85869975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-97.836227,30.278545,-97.836227,30.278545],
-  "geometry": {"coordinates":[-97.836227,30.278545],"type":"Point"}
+  "bbox": [
+    -97.836227,
+    30.278545,
+    -97.836227,
+    30.278545
+],
+  "geometry": {"coordinates":[-97.83622699999999,30.278545],"type":"Point"}
 }

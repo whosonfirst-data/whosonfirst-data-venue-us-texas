@@ -2,13 +2,14 @@
   "id": 253126015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803615,32.929231,-96.803615,32.929231",
     "geom:latitude":32.929231,
     "geom:longitude":-96.803615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13331 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":253126015,
-    "wof:lastmodified":1449063920,
+    "wof:lastmodified":1467084983,
     "wof:name":"Marine Corps, United States",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "armed"
     ]
 },
-  "bbox": [-96.803615,32.929231,-96.803615,32.929231],
-  "geometry": {"coordinates":[-96.803615,32.929231],"type":"Point"}
+  "bbox": [
+    -96.803615,
+    32.929231,
+    -96.803615,
+    32.929231
+],
+  "geometry": {"coordinates":[-96.80361499999999,32.929231],"type":"Point"}
 }

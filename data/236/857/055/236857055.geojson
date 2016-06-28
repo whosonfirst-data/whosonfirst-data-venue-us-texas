@@ -2,13 +2,14 @@
   "id": 236857055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804593,32.779111,-96.804593,32.779111",
     "geom:latitude":32.779111,
     "geom:longitude":-96.804593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Main St 15th Fl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236857055,
-    "wof:lastmodified":1449003860,
+    "wof:lastmodified":1467083973,
     "wof:name":"The Texas Club",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.804593,32.779111,-96.804593,32.779111],
+  "bbox": [
+    -96.804593,
+    32.779111,
+    -96.804593,
+    32.779111
+],
   "geometry": {"coordinates":[-96.804593,32.779111],"type":"Point"}
 }

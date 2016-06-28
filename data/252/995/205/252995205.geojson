@@ -2,13 +2,14 @@
   "id": 252995205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761975,32.883241,-96.761975,32.883241",
     "geom:latitude":32.883241,
     "geom:longitude":-96.761975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8250 Walnut Hill Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252995205,
-    "wof:lastmodified":1449006396,
+    "wof:lastmodified":1467084102,
     "wof:name":"Carpentier Bradley MD",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.761975,32.883241,-96.761975,32.883241],
-  "geometry": {"coordinates":[-96.761975,32.883241],"type":"Point"}
+  "bbox": [
+    -96.761975,
+    32.883241,
+    -96.761975,
+    32.883241
+],
+  "geometry": {"coordinates":[-96.76197500000001,32.883241],"type":"Point"}
 }

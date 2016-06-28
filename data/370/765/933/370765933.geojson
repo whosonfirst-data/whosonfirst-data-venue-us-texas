@@ -2,13 +2,14 @@
   "id": 370765933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800967,32.780262,-96.800967,32.780262",
     "geom:latitude":32.780262,
     "geom:longitude":-96.800967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370765933,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1467084518,
     "wof:name":"Dallas Dcma",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-96.800967,32.780262,-96.800967,32.780262],
+  "bbox": [
+    -96.800967,
+    32.780262,
+    -96.800967,
+    32.780262
+],
   "geometry": {"coordinates":[-96.800967,32.780262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236189013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.083121,29.312337,-96.083121,29.312337",
     "geom:latitude":29.312337,
     "geom:longitude":-96.083121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Briar Ln",
     "sg:city":"Wharton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236189013,
-    "wof:lastmodified":1449004085,
+    "wof:lastmodified":1467083984,
     "wof:name":"Briar Pointe Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.083121,29.312337,-96.083121,29.312337],
-  "geometry": {"coordinates":[-96.083121,29.312337],"type":"Point"}
+  "bbox": [
+    -96.083121,
+    29.312337,
+    -96.083121,
+    29.312337
+],
+  "geometry": {"coordinates":[-96.08312100000001,29.312337],"type":"Point"}
 }

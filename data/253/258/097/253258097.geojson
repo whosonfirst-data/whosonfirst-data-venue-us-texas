@@ -2,13 +2,14 @@
   "id": 253258097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.939566,29.857405,-97.939566,29.857405",
     "geom:latitude":29.857405,
     "geom:longitude":-97.939566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1348 State Hwy 123",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253258097,
-    "wof:lastmodified":1449065156,
+    "wof:lastmodified":1467085025,
     "wof:name":"Human Service Dept-Food Stamp",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-97.939566,29.857405,-97.939566,29.857405],
+  "bbox": [
+    -97.939566,
+    29.857405,
+    -97.939566,
+    29.857405
+],
   "geometry": {"coordinates":[-97.939566,29.857405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353795291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.628864,32.326885,-96.628864,32.326885",
     "geom:latitude":32.326885,
     "geom:longitude":-96.628864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Ennis Ave",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353795291,
-    "wof:lastmodified":1449019776,
+    "wof:lastmodified":1467084354,
     "wof:name":"Herb Place",
     "wof:parent_id":85897363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-96.628864,32.326885,-96.628864,32.326885],
-  "geometry": {"coordinates":[-96.628864,32.326885],"type":"Point"}
+  "bbox": [
+    -96.628864,
+    32.326885,
+    -96.628864,
+    32.326885
+],
+  "geometry": {"coordinates":[-96.62886399999999,32.326885],"type":"Point"}
 }

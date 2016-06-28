@@ -2,13 +2,14 @@
   "id": 270375199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.506529,29.803286,-95.506529,29.803286",
     "geom:latitude":29.803286,
     "geom:longitude":-95.506529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Long Point Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270375199,
-    "wof:lastmodified":1449008754,
+    "wof:lastmodified":1467084153,
     "wof:name":"Optimus Medical Clinic",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.506529,29.803286,-95.506529,29.803286],
+  "bbox": [
+    -95.506529,
+    29.803286,
+    -95.506529,
+    29.803286
+],
   "geometry": {"coordinates":[-95.506529,29.803286],"type":"Point"}
 }

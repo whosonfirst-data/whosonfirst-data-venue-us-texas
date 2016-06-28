@@ -2,13 +2,14 @@
   "id": 202462959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.450612,25.897156,-97.450612,25.897156",
     "geom:latitude":25.897156,
     "geom:longitude":-97.450612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 Southmost Rd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202462959,
-    "wof:lastmodified":1449062541,
+    "wof:lastmodified":1467084939,
     "wof:name":"Cake Shop",
     "wof:parent_id":85876601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.450612,25.897156,-97.450612,25.897156],
-  "geometry": {"coordinates":[-97.450612,25.897156],"type":"Point"}
+  "bbox": [
+    -97.450612,
+    25.897156,
+    -97.450612,
+    25.897156
+],
+  "geometry": {"coordinates":[-97.45061200000001,25.897156],"type":"Point"}
 }

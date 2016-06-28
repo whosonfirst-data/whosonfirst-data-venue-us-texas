@@ -2,13 +2,14 @@
   "id": 286440375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.601131,29.677519,-95.601131,29.677519",
     "geom:latitude":29.677519,
     "geom:longitude":-95.601131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12661 Bissonnet St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":286440375,
-    "wof:lastmodified":1449016222,
+    "wof:lastmodified":1467084265,
     "wof:name":"H&R Block",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-95.601131,29.677519,-95.601131,29.677519],
+  "bbox": [
+    -95.601131,
+    29.677519,
+    -95.601131,
+    29.677519
+],
   "geometry": {"coordinates":[-95.601131,29.677519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387638607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.844011,35.286928,-101.844011,35.286928",
     "geom:latitude":35.286928,
     "geom:longitude":-101.844011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7512 McLemore Ln",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387638607,
-    "wof:lastmodified":1449056322,
+    "wof:lastmodified":1467084790,
     "wof:name":"Robin's Upholstery",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-101.844011,35.286928,-101.844011,35.286928],
-  "geometry": {"coordinates":[-101.844011,35.286928],"type":"Point"}
+  "bbox": [
+    -101.844011,
+    35.286928,
+    -101.844011,
+    35.286928
+],
+  "geometry": {"coordinates":[-101.84401099999999,35.286928],"type":"Point"}
 }

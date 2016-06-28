@@ -2,13 +2,14 @@
   "id": 219557785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.80406,32.759117,-97.80406,32.759117",
     "geom:latitude":32.759117,
     "geom:longitude":-97.80406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Palo Pinto St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219557785,
-    "wof:lastmodified":1449072922,
+    "wof:lastmodified":1467085153,
     "wof:name":"Parker County Shopper",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "not"
     ]
 },
-  "bbox": [-97.80406,32.759117,-97.80406,32.759117],
-  "geometry": {"coordinates":[-97.80406,32.759117],"type":"Point"}
+  "bbox": [
+    -97.80406,
+    32.759117,
+    -97.80406,
+    32.759117
+],
+  "geometry": {"coordinates":[-97.80406000000001,32.759117],"type":"Point"}
 }

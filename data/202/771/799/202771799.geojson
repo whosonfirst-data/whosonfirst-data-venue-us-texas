@@ -2,13 +2,14 @@
   "id": 202771799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473983,29.707524,-95.473983,29.707524",
     "geom:latitude":29.707524,
     "geom:longitude":-95.473983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5314 Dashwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202771799,
-    "wof:lastmodified":1449061492,
+    "wof:lastmodified":1467084917,
     "wof:name":"Bellaire Pavilion For Mental",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-95.473983,29.707524,-95.473983,29.707524],
+  "bbox": [
+    -95.473983,
+    29.707524,
+    -95.473983,
+    29.707524
+],
   "geometry": {"coordinates":[-95.473983,29.707524],"type":"Point"}
 }

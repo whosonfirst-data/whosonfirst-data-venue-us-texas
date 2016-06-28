@@ -2,13 +2,14 @@
   "id": 303564351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742568,30.167842,-97.742568,30.167842",
     "geom:latitude":30.167842,
     "geom:longitude":-97.742568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7313 Rhett Pl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303564351,
-    "wof:lastmodified":1449000423,
+    "wof:lastmodified":1467083805,
     "wof:name":"Scoot Inn",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-97.742568,30.167842,-97.742568,30.167842],
-  "geometry": {"coordinates":[-97.742568,30.167842],"type":"Point"}
+  "bbox": [
+    -97.742568,
+    30.167842,
+    -97.742568,
+    30.167842
+],
+  "geometry": {"coordinates":[-97.74256800000001,30.167842],"type":"Point"}
 }

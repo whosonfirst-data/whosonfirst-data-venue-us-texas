@@ -2,13 +2,14 @@
   "id": 303208085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74522,30.268738,-97.74522,30.268738",
     "geom:latitude":30.268738,
     "geom:longitude":-97.74522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 West 6th St Ste 2300",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303208085,
-    "wof:lastmodified":1448998404,
+    "wof:lastmodified":1467083705,
     "wof:name":"Austin Ventures",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-97.74522,30.268738,-97.74522,30.268738],
+  "bbox": [
+    -97.74522,
+    30.268738,
+    -97.74522,
+    30.268738
+],
   "geometry": {"coordinates":[-97.74522,30.268738],"type":"Point"}
 }

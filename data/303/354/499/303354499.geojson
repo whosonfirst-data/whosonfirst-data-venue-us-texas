@@ -2,13 +2,14 @@
   "id": 303354499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744059,30.305035,-97.744059,30.305035",
     "geom:latitude":30.305035,
     "geom:longitude":-97.744059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Medical Parkway Suite 130",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":303354499,
-    "wof:lastmodified":1449000290,
+    "wof:lastmodified":1467083799,
     "wof:name":"Toccare Medical Spa",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-97.744059,30.305035,-97.744059,30.305035],
-  "geometry": {"coordinates":[-97.744059,30.305035],"type":"Point"}
+  "bbox": [
+    -97.744059,
+    30.305035,
+    -97.744059,
+    30.305035
+],
+  "geometry": {"coordinates":[-97.74405899999999,30.305035],"type":"Point"}
 }

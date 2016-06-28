@@ -2,13 +2,14 @@
   "id": 303774783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73555,30.358299,-97.73555,30.358299",
     "geom:latitude":30.358299,
     "geom:longitude":-97.73555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W Anderson Ln # 309",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303774783,
-    "wof:lastmodified":1448999066,
+    "wof:lastmodified":1467083739,
     "wof:name":"Austin Winds & Strings",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "musical"
     ]
 },
-  "bbox": [-97.73555,30.358299,-97.73555,30.358299],
+  "bbox": [
+    -97.73555,
+    30.358299,
+    -97.73555,
+    30.358299
+],
   "geometry": {"coordinates":[-97.73555,30.358299],"type":"Point"}
 }

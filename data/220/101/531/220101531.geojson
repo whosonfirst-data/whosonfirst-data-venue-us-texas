@@ -2,13 +2,14 @@
   "id": 220101531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.463034,29.557425,-98.463034,29.557425",
     "geom:latitude":29.557425,
     "geom:longitude":-98.463034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12915 Jones Maltsberger Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220101531,
-    "wof:lastmodified":1449074465,
+    "wof:lastmodified":1467085186,
     "wof:name":"Executive Video Productions",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-98.463034,29.557425,-98.463034,29.557425],
-  "geometry": {"coordinates":[-98.463034,29.557425],"type":"Point"}
+  "bbox": [
+    -98.463034,
+    29.557425,
+    -98.463034,
+    29.557425
+],
+  "geometry": {"coordinates":[-98.46303399999999,29.557425],"type":"Point"}
 }

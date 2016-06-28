@@ -2,13 +2,14 @@
   "id": 185857621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.766128,30.360495,-97.766128,30.360495",
     "geom:latitude":30.360495,
     "geom:longitude":-97.766128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Mesa Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185857621,
-    "wof:lastmodified":1449007644,
+    "wof:lastmodified":1467084129,
     "wof:name":"Weez Works",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.766128,30.360495,-97.766128,30.360495],
-  "geometry": {"coordinates":[-97.766128,30.360495],"type":"Point"}
+  "bbox": [
+    -97.766128,
+    30.360495,
+    -97.766128,
+    30.360495
+],
+  "geometry": {"coordinates":[-97.76612799999999,30.360495],"type":"Point"}
 }

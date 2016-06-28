@@ -2,13 +2,14 @@
   "id": 219372521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.582608,29.786049,-95.582608,29.786049",
     "geom:latitude":29.786049,
     "geom:longitude":-95.582608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 E Tri Oaks Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219372521,
-    "wof:lastmodified":1449072537,
+    "wof:lastmodified":1467085145,
     "wof:name":"Maluski Engineering",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.582608,29.786049,-95.582608,29.786049],
-  "geometry": {"coordinates":[-95.582608,29.786049],"type":"Point"}
+  "bbox": [
+    -95.582608,
+    29.786049,
+    -95.582608,
+    29.786049
+],
+  "geometry": {"coordinates":[-95.58260799999999,29.786049],"type":"Point"}
 }

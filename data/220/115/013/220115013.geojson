@@ -2,13 +2,14 @@
   "id": 220115013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.471629,29.69471,-95.471629,29.69471",
     "geom:latitude":29.69471,
     "geom:longitude":-95.471629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5109 Pine St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220115013,
-    "wof:lastmodified":1449074052,
+    "wof:lastmodified":1467085177,
     "wof:name":"Queen Bees",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.471629,29.69471,-95.471629,29.69471],
-  "geometry": {"coordinates":[-95.471629,29.69471],"type":"Point"}
+  "bbox": [
+    -95.471629,
+    29.69471,
+    -95.471629,
+    29.69471
+],
+  "geometry": {"coordinates":[-95.47162899999999,29.69471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202809007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.232579,32.995256,-97.232579,32.995256",
     "geom:latitude":32.995256,
     "geom:longitude":-97.232579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 US Hwy 377",
     "sg:city":"Argyle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202809007,
-    "wof:lastmodified":1449062212,
+    "wof:lastmodified":1467084932,
     "wof:name":"Argyle Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.232579,32.995256,-97.232579,32.995256],
+  "bbox": [
+    -97.232579,
+    32.995256,
+    -97.232579,
+    32.995256
+],
   "geometry": {"coordinates":[-97.232579,32.995256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387539473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.782553,32.954633,-96.782553,32.954633",
     "geom:latitude":32.954633,
     "geom:longitude":-96.782553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7127 Leameadow Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387539473,
-    "wof:lastmodified":1449059995,
+    "wof:lastmodified":1467084885,
     "wof:name":"Datafundamentalcom",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.782553,32.954633,-96.782553,32.954633],
-  "geometry": {"coordinates":[-96.782553,32.954633],"type":"Point"}
+  "bbox": [
+    -96.782553,
+    32.954633,
+    -96.782553,
+    32.954633
+],
+  "geometry": {"coordinates":[-96.78255299999999,32.954633],"type":"Point"}
 }

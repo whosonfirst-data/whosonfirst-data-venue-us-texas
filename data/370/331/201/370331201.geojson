@@ -2,13 +2,14 @@
   "id": 370331201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.419643,29.761284,-95.419643,29.761284",
     "geom:latitude":29.761284,
     "geom:longitude":-95.419643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 Memorial Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370331201,
-    "wof:lastmodified":1449031146,
+    "wof:lastmodified":1467084521,
     "wof:name":"Epiq Systems Inc",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.419643,29.761284,-95.419643,29.761284],
-  "geometry": {"coordinates":[-95.419643,29.761284],"type":"Point"}
+  "bbox": [
+    -95.419643,
+    29.761284,
+    -95.419643,
+    29.761284
+],
+  "geometry": {"coordinates":[-95.41964299999999,29.761284],"type":"Point"}
 }

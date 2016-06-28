@@ -2,13 +2,14 @@
   "id": 303468269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749284,30.360348,-97.749284,30.360348",
     "geom:latitude":30.360348,
     "geom:longitude":-97.749284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7630 Wood Hollow Dr Apt 2",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303468269,
-    "wof:lastmodified":1448999870,
+    "wof:lastmodified":1467083779,
     "wof:name":"Donkey Bread Inc.",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakers-wholesale"
     ]
 },
-  "bbox": [-97.749284,30.360348,-97.749284,30.360348],
+  "bbox": [
+    -97.749284,
+    30.360348,
+    -97.749284,
+    30.360348
+],
   "geometry": {"coordinates":[-97.749284,30.360348],"type":"Point"}
 }

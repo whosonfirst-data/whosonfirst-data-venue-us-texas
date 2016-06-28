@@ -2,13 +2,14 @@
   "id": 185974237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.500306,31.423752,-103.500306,31.423752",
     "geom:latitude":31.423752,
     "geom:longitude":-103.500306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W 3rd St",
     "sg:city":"Pecos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185974237,
-    "wof:lastmodified":1449008007,
+    "wof:lastmodified":1467084136,
     "wof:name":"Rodriguez Wash Lube Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-103.500306,31.423752,-103.500306,31.423752],
-  "geometry": {"coordinates":[-103.500306,31.423752],"type":"Point"}
+  "bbox": [
+    -103.500306,
+    31.423752,
+    -103.500306,
+    31.423752
+],
+  "geometry": {"coordinates":[-103.50030599999999,31.423752],"type":"Point"}
 }

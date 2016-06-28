@@ -2,13 +2,14 @@
   "id": 387170895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.458553,29.736791,-95.458553,29.736791",
     "geom:latitude":29.736791,
     "geom:longitude":-95.458553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 W Loop Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387170895,
-    "wof:lastmodified":1449056462,
+    "wof:lastmodified":1467084793,
     "wof:name":"Mr Id Card",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "card"
     ]
 },
-  "bbox": [-95.458553,29.736791,-95.458553,29.736791],
-  "geometry": {"coordinates":[-95.458553,29.736791],"type":"Point"}
+  "bbox": [
+    -95.458553,
+    29.736791,
+    -95.458553,
+    29.736791
+],
+  "geometry": {"coordinates":[-95.45855299999999,29.736791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353509033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.318783,30.110625,-97.318783,30.110625",
     "geom:latitude":30.110625,
     "geom:longitude":-97.318783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Chestnut St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353509033,
-    "wof:lastmodified":1449018340,
+    "wof:lastmodified":1467084323,
     "wof:name":"Taylor Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.318783,30.110625,-97.318783,30.110625],
+  "bbox": [
+    -97.318783,
+    30.110625,
+    -97.318783,
+    30.110625
+],
   "geometry": {"coordinates":[-97.318783,30.110625],"type":"Point"}
 }

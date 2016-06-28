@@ -2,13 +2,14 @@
   "id": 219563003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.926865,33.527455,-101.926865,33.527455",
     "geom:latitude":33.527455,
     "geom:longitude":-101.926865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5320 73rd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219563003,
-    "wof:lastmodified":1449070426,
+    "wof:lastmodified":1467085100,
     "wof:name":"Feazell Gin Service",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ginning"
     ]
 },
-  "bbox": [-101.926865,33.527455,-101.926865,33.527455],
-  "geometry": {"coordinates":[-101.926865,33.527455],"type":"Point"}
+  "bbox": [
+    -101.926865,
+    33.527455,
+    -101.926865,
+    33.527455
+],
+  "geometry": {"coordinates":[-101.92686500000001,33.527455],"type":"Point"}
 }

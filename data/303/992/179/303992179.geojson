@@ -2,13 +2,14 @@
   "id": 303992179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.943492,33.575416,-101.943492,33.575416",
     "geom:latitude":33.575416,
     "geom:longitude":-101.943492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 W Loop 289",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":303992179,
-    "wof:lastmodified":1448999272,
+    "wof:lastmodified":1467083749,
     "wof:name":"Bee Hive Homes",
     "wof:parent_id":85855435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "builder"
     ]
 },
-  "bbox": [-101.943492,33.575416,-101.943492,33.575416],
-  "geometry": {"coordinates":[-101.943492,33.575416],"type":"Point"}
+  "bbox": [
+    -101.943492,
+    33.575416,
+    -101.943492,
+    33.575416
+],
+  "geometry": {"coordinates":[-101.94349200000001,33.575416],"type":"Point"}
 }

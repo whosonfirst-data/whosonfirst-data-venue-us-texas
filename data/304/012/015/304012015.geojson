@@ -2,13 +2,14 @@
   "id": 304012015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.922345,33.502912,-101.922345,33.502912",
     "geom:latitude":33.502912,
     "geom:longitude":-101.922345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9811 Slide Rd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":304012015,
-    "wof:lastmodified":1449044096,
+    "wof:lastmodified":1467084669,
     "wof:name":"Dalton's Automotive & Tire Center",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "tune"
     ]
 },
-  "bbox": [-101.922345,33.502912,-101.922345,33.502912],
-  "geometry": {"coordinates":[-101.922345,33.502912],"type":"Point"}
+  "bbox": [
+    -101.922345,
+    33.502912,
+    -101.922345,
+    33.502912
+],
+  "geometry": {"coordinates":[-101.92234500000001,33.502912],"type":"Point"}
 }

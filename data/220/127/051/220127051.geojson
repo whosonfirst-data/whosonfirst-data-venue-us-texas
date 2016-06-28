@@ -2,13 +2,14 @@
   "id": 220127051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.410261,29.521853,-98.410261,29.521853",
     "geom:latitude":29.521853,
     "geom:longitude":-98.410261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4285 Gate Crst",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220127051,
-    "wof:lastmodified":1449074813,
+    "wof:lastmodified":1467085194,
     "wof:name":"Capitol Cash Register Systems",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.410261,29.521853,-98.410261,29.521853],
-  "geometry": {"coordinates":[-98.410261,29.521853],"type":"Point"}
+  "bbox": [
+    -98.410261,
+    29.521853,
+    -98.410261,
+    29.521853
+],
+  "geometry": {"coordinates":[-98.41026100000001,29.521853],"type":"Point"}
 }

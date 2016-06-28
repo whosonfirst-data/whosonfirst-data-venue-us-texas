@@ -2,13 +2,14 @@
   "id": 270459917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.124574,29.557522,-95.124574,29.557522",
     "geom:latitude":29.557522,
     "geom:longitude":-95.124574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16456 Sea Lark Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":270459917,
-    "wof:lastmodified":1449009636,
+    "wof:lastmodified":1467084183,
     "wof:name":"A W",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.124574,29.557522,-95.124574,29.557522],
+  "bbox": [
+    -95.124574,
+    29.557522,
+    -95.124574,
+    29.557522
+],
   "geometry": {"coordinates":[-95.124574,29.557522],"type":"Point"}
 }

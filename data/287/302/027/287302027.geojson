@@ -2,13 +2,14 @@
   "id": 287302027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.323985,26.277925,-98.323985,26.277925",
     "geom:latitude":26.277925,
     "geom:longitude":-98.323985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 W Jefferson Ave",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287302027,
-    "wof:lastmodified":1449000954,
+    "wof:lastmodified":1467083828,
     "wof:name":"Oscar Garcia",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-98.323985,26.277925,-98.323985,26.277925],
-  "geometry": {"coordinates":[-98.323985,26.277925],"type":"Point"}
+  "bbox": [
+    -98.323985,
+    26.277925,
+    -98.323985,
+    26.277925
+],
+  "geometry": {"coordinates":[-98.32398499999999,26.277925],"type":"Point"}
 }

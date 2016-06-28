@@ -2,13 +2,14 @@
   "id": 269739911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112153,31.540981,-97.112153,31.540981",
     "geom:latitude":31.540981,
     "geom:longitude":-97.112153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 la Salle Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269739911,
-    "wof:lastmodified":1449037144,
+    "wof:lastmodified":1467084599,
     "wof:name":"Preferred Properties",
     "wof:parent_id":85881731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.112153,31.540981,-97.112153,31.540981],
-  "geometry": {"coordinates":[-97.112153,31.540981],"type":"Point"}
+  "bbox": [
+    -97.112153,
+    31.540981,
+    -97.112153,
+    31.540981
+],
+  "geometry": {"coordinates":[-97.11215300000001,31.540981],"type":"Point"}
 }

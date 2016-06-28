@@ -2,13 +2,14 @@
   "id": 203107609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.32986,31.697864,-106.32986,31.697864",
     "geom:latitude":31.697864,
     "geom:longitude":-106.32986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8915 Gemotes Pl",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203107609,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1467084385,
     "wof:name":"Santa Barbara Express",
     "wof:parent_id":85859443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.32986,31.697864,-106.32986,31.697864],
+  "bbox": [
+    -106.32986,
+    31.697864,
+    -106.32986,
+    31.697864
+],
   "geometry": {"coordinates":[-106.32986,31.697864],"type":"Point"}
 }

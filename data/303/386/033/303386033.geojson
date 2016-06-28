@@ -2,13 +2,14 @@
   "id": 303386033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.682781,30.260533,-97.682781,30.260533",
     "geom:latitude":30.260533,
     "geom:longitude":-97.682781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6002 Jain Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303386033,
-    "wof:lastmodified":1448999405,
+    "wof:lastmodified":1467083756,
     "wof:name":"Cafe Del Sol",
     "wof:parent_id":85869941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.682781,30.260533,-97.682781,30.260533],
-  "geometry": {"coordinates":[-97.682781,30.260533],"type":"Point"}
+  "bbox": [
+    -97.682781,
+    30.260533,
+    -97.682781,
+    30.260533
+],
+  "geometry": {"coordinates":[-97.68278100000001,30.260533],"type":"Point"}
 }

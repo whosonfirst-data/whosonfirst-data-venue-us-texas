@@ -2,13 +2,14 @@
   "id": 303922725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.021229,36.375716,-103.021229,36.375716",
     "geom:latitude":36.375716,
     "geom:longitude":-103.021229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S 2nd St",
     "sg:city":"Texline",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303922725,
-    "wof:lastmodified":1448998339,
+    "wof:lastmodified":1467083702,
     "wof:name":"USPS - United States Post Office - Texline Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-103.021229,36.375716,-103.021229,36.375716],
-  "geometry": {"coordinates":[-103.021229,36.375716],"type":"Point"}
+  "bbox": [
+    -103.021229,
+    36.375716,
+    -103.021229,
+    36.375716
+],
+  "geometry": {"coordinates":[-103.02122900000001,36.375716],"type":"Point"}
 }

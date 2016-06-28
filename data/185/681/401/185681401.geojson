@@ -2,13 +2,14 @@
   "id": 185681401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317135,32.751022,-97.317135,32.751022",
     "geom:latitude":32.751022,
     "geom:longitude":-97.317135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Luella St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185681401,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1467084129,
     "wof:name":"Butler Place",
     "wof:parent_id":85871635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.317135,32.751022,-97.317135,32.751022],
-  "geometry": {"coordinates":[-97.317135,32.751022],"type":"Point"}
+  "bbox": [
+    -97.317135,
+    32.751022,
+    -97.317135,
+    32.751022
+],
+  "geometry": {"coordinates":[-97.31713499999999,32.751022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185862089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.350028,32.292425,-95.350028,32.292425",
     "geom:latitude":32.292425,
     "geom:longitude":-95.350028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12872 State Hwy 155",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185862089,
-    "wof:lastmodified":1449008263,
+    "wof:lastmodified":1467084140,
     "wof:name":"Quality Consultants",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.350028,32.292425,-95.350028,32.292425],
-  "geometry": {"coordinates":[-95.350028,32.292425],"type":"Point"}
+  "bbox": [
+    -95.350028,
+    32.292425,
+    -95.350028,
+    32.292425
+],
+  "geometry": {"coordinates":[-95.35002799999999,32.292425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270483793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.600739,29.909245,-95.600739,29.909245",
     "geom:latitude":29.909245,
     "geom:longitude":-95.600739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12303 Flaxen Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270483793,
-    "wof:lastmodified":1449010541,
+    "wof:lastmodified":1467084213,
     "wof:name":"Islanders Frozen Drink",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.600739,29.909245,-95.600739,29.909245],
+  "bbox": [
+    -95.600739,
+    29.909245,
+    -95.600739,
+    29.909245
+],
   "geometry": {"coordinates":[-95.600739,29.909245],"type":"Point"}
 }

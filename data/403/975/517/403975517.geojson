@@ -2,13 +2,14 @@
   "id": 403975517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.424782,31.920412,-106.424782,31.920412",
     "geom:latitude":31.920412,
     "geom:longitude":-106.424782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 Sigma St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403975517,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1467084776,
     "wof:name":"Rlg Trucking",
     "wof:parent_id":85893663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.424782,31.920412,-106.424782,31.920412],
-  "geometry": {"coordinates":[-106.424782,31.920412],"type":"Point"}
+  "bbox": [
+    -106.424782,
+    31.920412,
+    -106.424782,
+    31.920412
+],
+  "geometry": {"coordinates":[-106.42478199999999,31.920412],"type":"Point"}
 }

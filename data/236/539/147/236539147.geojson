@@ -2,13 +2,14 @@
   "id": 236539147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120463,33.059204,-97.120463,33.059204",
     "geom:latitude":33.059204,
     "geom:longitude":-97.120463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Green Ridge Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236539147,
-    "wof:lastmodified":1449005328,
+    "wof:lastmodified":1467084044,
     "wof:name":"DBS Inspections",
     "wof:parent_id":85893689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.120463,33.059204,-97.120463,33.059204],
+  "bbox": [
+    -97.120463,
+    33.059204,
+    -97.120463,
+    33.059204
+],
   "geometry": {"coordinates":[-97.120463,33.059204],"type":"Point"}
 }

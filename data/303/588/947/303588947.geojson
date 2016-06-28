@@ -2,13 +2,14 @@
   "id": 303588947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764231,30.216103,-97.764231,30.216103",
     "geom:latitude":30.216103,
     "geom:longitude":-97.764231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Saint Elmo Rd Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303588947,
-    "wof:lastmodified":1449000085,
+    "wof:lastmodified":1467083789,
     "wof:name":"Applied Tool",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "hand"
     ]
 },
-  "bbox": [-97.764231,30.216103,-97.764231,30.216103],
+  "bbox": [
+    -97.764231,
+    30.216103,
+    -97.764231,
+    30.216103
+],
   "geometry": {"coordinates":[-97.764231,30.216103],"type":"Point"}
 }

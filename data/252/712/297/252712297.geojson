@@ -2,13 +2,14 @@
   "id": 252712297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.831315,32.842251,-96.831315,32.842251",
     "geom:latitude":32.842251,
     "geom:longitude":-96.831315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 Victoria Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252712297,
-    "wof:lastmodified":1449005879,
+    "wof:lastmodified":1467084074,
     "wof:name":"Schools",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.831315,32.842251,-96.831315,32.842251],
+  "bbox": [
+    -96.831315,
+    32.842251,
+    -96.831315,
+    32.842251
+],
   "geometry": {"coordinates":[-96.831315,32.842251],"type":"Point"}
 }

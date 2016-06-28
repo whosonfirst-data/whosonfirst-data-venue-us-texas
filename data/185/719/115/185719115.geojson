@@ -2,13 +2,14 @@
   "id": 185719115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.670145,30.123151,-95.670145,30.123151",
     "geom:latitude":30.123151,
     "geom:longitude":-95.670145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26418 N Memory Ln",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185719115,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1467084115,
     "wof:name":"Environmental Solutions",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.670145,30.123151,-95.670145,30.123151],
-  "geometry": {"coordinates":[-95.670145,30.123151],"type":"Point"}
+  "bbox": [
+    -95.670145,
+    30.123151,
+    -95.670145,
+    30.123151
+],
+  "geometry": {"coordinates":[-95.67014500000001,30.123151],"type":"Point"}
 }

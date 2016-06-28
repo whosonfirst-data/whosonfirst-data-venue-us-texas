@@ -2,13 +2,14 @@
   "id": 337567119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476303,29.679913,-95.476303,29.679913",
     "geom:latitude":29.679913,
     "geom:longitude":-95.476303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5207 Caversham Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337567119,
-    "wof:lastmodified":1449027740,
+    "wof:lastmodified":1467084457,
     "wof:name":"Paper Connection",
     "wof:parent_id":85833917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.476303,29.679913,-95.476303,29.679913],
+  "bbox": [
+    -95.476303,
+    29.679913,
+    -95.476303,
+    29.679913
+],
   "geometry": {"coordinates":[-95.476303,29.679913],"type":"Point"}
 }

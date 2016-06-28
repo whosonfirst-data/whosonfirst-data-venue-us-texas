@@ -2,13 +2,14 @@
   "id": 202419817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.584921,29.476917,-98.584921,29.476917",
     "geom:latitude":29.476917,
     "geom:longitude":-98.584921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Bandera Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202419817,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1467084939,
     "wof:name":"Alamo Tint Co",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [-98.584921,29.476917,-98.584921,29.476917],
-  "geometry": {"coordinates":[-98.584921,29.476917],"type":"Point"}
+  "bbox": [
+    -98.584921,
+    29.476917,
+    -98.584921,
+    29.476917
+],
+  "geometry": {"coordinates":[-98.58492099999999,29.476917],"type":"Point"}
 }

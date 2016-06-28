@@ -2,13 +2,14 @@
   "id": 269542253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216668,33.221505,-97.216668,33.221505",
     "geom:latitude":33.221505,
     "geom:longitude":-97.216668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Thomas J Egan Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269542253,
-    "wof:lastmodified":1449038297,
+    "wof:lastmodified":1467084624,
     "wof:name":"North Texas Billing Services",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-97.216668,33.221505,-97.216668,33.221505],
+  "bbox": [
+    -97.216668,
+    33.221505,
+    -97.216668,
+    33.221505
+],
   "geometry": {"coordinates":[-97.216668,33.221505],"type":"Point"}
 }

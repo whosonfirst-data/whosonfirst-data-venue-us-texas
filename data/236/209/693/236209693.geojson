@@ -2,13 +2,14 @@
   "id": 236209693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.949549,32.895729,-96.949549,32.895729",
     "geom:latitude":32.895729,
     "geom:longitude":-96.949549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 W Royal Ln Connr 119 O",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236209693,
-    "wof:lastmodified":1449004820,
+    "wof:lastmodified":1467084018,
     "wof:name":"Wordy Birdy Products",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.949549,32.895729,-96.949549,32.895729],
+  "bbox": [
+    -96.949549,
+    32.895729,
+    -96.949549,
+    32.895729
+],
   "geometry": {"coordinates":[-96.949549,32.895729],"type":"Point"}
 }

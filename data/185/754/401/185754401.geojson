@@ -2,13 +2,14 @@
   "id": 185754401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.386952,27.75229,-97.386952,27.75229",
     "geom:latitude":27.75229,
     "geom:longitude":-97.386952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 S Alameda St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185754401,
-    "wof:lastmodified":1449007658,
+    "wof:lastmodified":1467084130,
     "wof:name":"Cecil Bourne",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.386952,27.75229,-97.386952,27.75229],
-  "geometry": {"coordinates":[-97.386952,27.75229],"type":"Point"}
+  "bbox": [
+    -97.386952,
+    27.75229,
+    -97.386952,
+    27.75229
+],
+  "geometry": {"coordinates":[-97.38695199999999,27.75229],"type":"Point"}
 }

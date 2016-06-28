@@ -2,13 +2,14 @@
   "id": 386937485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455164,29.757805,-95.455164,29.757805",
     "geom:latitude":29.757805,
     "geom:longitude":-95.455164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1177 W Loop Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386937485,
-    "wof:lastmodified":1449028676,
+    "wof:lastmodified":1467084459,
     "wof:name":"Navigant Travel",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-95.455164,29.757805,-95.455164,29.757805],
+  "bbox": [
+    -95.455164,
+    29.757805,
+    -95.455164,
+    29.757805
+],
   "geometry": {"coordinates":[-95.455164,29.757805],"type":"Point"}
 }

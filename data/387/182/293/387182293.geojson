@@ -2,13 +2,14 @@
   "id": 387182293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.155476,30.055151,-99.155476,30.055151",
     "geom:latitude":30.055151,
     "geom:longitude":-99.155476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Junction Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387182293,
-    "wof:lastmodified":1449058515,
+    "wof:lastmodified":1467084846,
     "wof:name":"KERR Screen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silkscreen"
     ]
 },
-  "bbox": [-99.155476,30.055151,-99.155476,30.055151],
-  "geometry": {"coordinates":[-99.155476,30.055151],"type":"Point"}
+  "bbox": [
+    -99.155476,
+    30.055151,
+    -99.155476,
+    30.055151
+],
+  "geometry": {"coordinates":[-99.15547599999999,30.055151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370440725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.284466,29.685474,-95.284466,29.685474",
     "geom:latitude":29.685474,
     "geom:longitude":-95.284466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7707 Park Place Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370440725,
-    "wof:lastmodified":1449030285,
+    "wof:lastmodified":1467084499,
     "wof:name":"Burger Haus-Houston",
     "wof:parent_id":85869623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alcohol"
     ]
 },
-  "bbox": [-95.284466,29.685474,-95.284466,29.685474],
-  "geometry": {"coordinates":[-95.284466,29.685474],"type":"Point"}
+  "bbox": [
+    -95.284466,
+    29.685474,
+    -95.284466,
+    29.685474
+],
+  "geometry": {"coordinates":[-95.28446599999999,29.685474],"type":"Point"}
 }

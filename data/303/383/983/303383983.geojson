@@ -2,13 +2,14 @@
   "id": 303383983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.681901,30.133315,-97.681901,30.133315",
     "geom:latitude":30.133315,
     "geom:longitude":-97.681901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8413 S Fm 973",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303383983,
-    "wof:lastmodified":1448999156,
+    "wof:lastmodified":1467083743,
     "wof:name":"Austin Carriage",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carriage-rental"
     ]
 },
-  "bbox": [-97.681901,30.133315,-97.681901,30.133315],
+  "bbox": [
+    -97.681901,
+    30.133315,
+    -97.681901,
+    30.133315
+],
   "geometry": {"coordinates":[-97.681901,30.133315],"type":"Point"}
 }

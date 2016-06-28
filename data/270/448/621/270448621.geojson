@@ -2,13 +2,14 @@
   "id": 270448621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.398811,29.939272,-95.398811,29.939272",
     "geom:latitude":29.939272,
     "geom:longitude":-95.398811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 N Sam Houston Pkwy E Suite 255",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":270448621,
-    "wof:lastmodified":1449011013,
+    "wof:lastmodified":1467084228,
     "wof:name":"Newport Audiology Centers/Hearing Aid & Audio Centers of TX",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-95.398811,29.939272,-95.398811,29.939272],
-  "geometry": {"coordinates":[-95.398811,29.939272],"type":"Point"}
+  "bbox": [
+    -95.398811,
+    29.939272,
+    -95.398811,
+    29.939272
+],
+  "geometry": {"coordinates":[-95.39881099999999,29.939272],"type":"Point"}
 }

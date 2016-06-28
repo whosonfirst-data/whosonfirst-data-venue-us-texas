@@ -2,13 +2,14 @@
   "id": 202515895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789239,32.827013,-96.789239,32.827013",
     "geom:latitude":32.827013,
     "geom:longitude":-96.789239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 Abbott Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202515895,
-    "wof:lastmodified":1449060693,
+    "wof:lastmodified":1467084900,
     "wof:name":"Allison W Leclair",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-96.789239,32.827013,-96.789239,32.827013],
-  "geometry": {"coordinates":[-96.789239,32.827013],"type":"Point"}
+  "bbox": [
+    -96.789239,
+    32.827013,
+    -96.789239,
+    32.827013
+],
+  "geometry": {"coordinates":[-96.78923899999999,32.827013],"type":"Point"}
 }

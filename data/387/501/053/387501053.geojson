@@ -2,13 +2,14 @@
   "id": 387501053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766587,32.849239,-96.766587,32.849239",
     "geom:latitude":32.849239,
     "geom:longitude":-96.766587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5937 Milton St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387501053,
-    "wof:lastmodified":1449059950,
+    "wof:lastmodified":1467084883,
     "wof:name":"Rodney Cox",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.766587,32.849239,-96.766587,32.849239],
+  "bbox": [
+    -96.766587,
+    32.849239,
+    -96.766587,
+    32.849239
+],
   "geometry": {"coordinates":[-96.766587,32.849239],"type":"Point"}
 }

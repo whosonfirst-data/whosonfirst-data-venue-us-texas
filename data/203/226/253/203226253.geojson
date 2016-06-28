@@ -2,13 +2,14 @@
   "id": 203226253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489285,25.925688,-97.489285,25.925688",
     "geom:latitude":25.925688,
     "geom:longitude":-97.489285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Paredes Line Rd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203226253,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1467084411,
     "wof:name":"Brownsville Sports Center",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.489285,25.925688,-97.489285,25.925688],
+  "bbox": [
+    -97.489285,
+    25.925688,
+    -97.489285,
+    25.925688
+],
   "geometry": {"coordinates":[-97.489285,25.925688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353666005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.895845,32.883851,-96.895845,32.883851",
     "geom:latitude":32.883851,
     "geom:longitude":-96.895845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2458 Walnut Ridge St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353666005,
-    "wof:lastmodified":1449019191,
+    "wof:lastmodified":1467084341,
     "wof:name":"Plant Interscapes Inc",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-96.895845,32.883851,-96.895845,32.883851],
-  "geometry": {"coordinates":[-96.895845,32.883851],"type":"Point"}
+  "bbox": [
+    -96.895845,
+    32.883851,
+    -96.895845,
+    32.883851
+],
+  "geometry": {"coordinates":[-96.89584499999999,32.883851],"type":"Point"}
 }

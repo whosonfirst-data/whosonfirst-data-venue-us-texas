@@ -2,13 +2,14 @@
   "id": 303457245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771831,30.448517,-97.771831,30.448517",
     "geom:latitude":30.448517,
     "geom:longitude":-97.771831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8304 Foxhound Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303457245,
-    "wof:lastmodified":1448999762,
+    "wof:lastmodified":1467083774,
     "wof:name":"Millerrussell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [-97.771831,30.448517,-97.771831,30.448517],
-  "geometry": {"coordinates":[-97.771831,30.448517],"type":"Point"}
+  "bbox": [
+    -97.771831,
+    30.448517,
+    -97.771831,
+    30.448517
+],
+  "geometry": {"coordinates":[-97.77183100000001,30.448517],"type":"Point"}
 }

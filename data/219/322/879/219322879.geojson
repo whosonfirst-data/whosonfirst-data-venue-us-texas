@@ -2,13 +2,14 @@
   "id": 219322879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.830695,35.154929,-101.830695,35.154929",
     "geom:latitude":35.154929,
     "geom:longitude":-101.830695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Tradewind St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219322879,
-    "wof:lastmodified":1449070340,
+    "wof:lastmodified":1467085099,
     "wof:name":"Haynes Fire Extngisher Svc Sls",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-101.830695,35.154929,-101.830695,35.154929],
-  "geometry": {"coordinates":[-101.830695,35.154929],"type":"Point"}
+  "bbox": [
+    -101.830695,
+    35.154929,
+    -101.830695,
+    35.154929
+],
+  "geometry": {"coordinates":[-101.83069500000001,35.154929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303333167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75095,30.219465,-97.75095,30.219465",
     "geom:latitude":30.219465,
     "geom:longitude":-97.75095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"E RIVERSIDE DR",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303333167,
-    "wof:lastmodified":1449000395,
+    "wof:lastmodified":1467083804,
     "wof:name":"Austin-Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-97.75095,30.219465,-97.75095,30.219465],
+  "bbox": [
+    -97.75095,
+    30.219465,
+    -97.75095,
+    30.219465
+],
   "geometry": {"coordinates":[-97.75095,30.219465],"type":"Point"}
 }

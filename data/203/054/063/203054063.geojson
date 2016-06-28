@@ -2,13 +2,14 @@
   "id": 203054063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.365895,29.515209,-98.365895,29.515209",
     "geom:latitude":29.515209,
     "geom:longitude":-98.365895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6319 Mallard Pt",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203054063,
-    "wof:lastmodified":1449025812,
+    "wof:lastmodified":1467084401,
     "wof:name":"Henry M Cook Jr",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-98.365895,29.515209,-98.365895,29.515209],
-  "geometry": {"coordinates":[-98.365895,29.515209],"type":"Point"}
+  "bbox": [
+    -98.365895,
+    29.515209,
+    -98.365895,
+    29.515209
+],
+  "geometry": {"coordinates":[-98.36589499999999,29.515209],"type":"Point"}
 }

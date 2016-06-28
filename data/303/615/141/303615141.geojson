@@ -2,13 +2,14 @@
   "id": 303615141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787984,30.299703,-97.787984,30.299703",
     "geom:latitude":30.299703,
     "geom:longitude":-97.787984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Laguna Vista Cv",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303615141,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1467083730,
     "wof:name":"Mr Rentals I",
     "wof:parent_id":85869997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-97.787984,30.299703,-97.787984,30.299703],
-  "geometry": {"coordinates":[-97.787984,30.299703],"type":"Point"}
+  "bbox": [
+    -97.787984,
+    30.299703,
+    -97.787984,
+    30.299703
+],
+  "geometry": {"coordinates":[-97.78798399999999,30.299703],"type":"Point"}
 }

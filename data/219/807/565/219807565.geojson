@@ -2,13 +2,14 @@
   "id": 219807565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.186613,29.772372,-95.186613,29.772372",
     "geom:latitude":29.772372,
     "geom:longitude":-95.186613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Uvalde Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219807565,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1467085119,
     "wof:name":"ABC Page",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-95.186613,29.772372,-95.186613,29.772372],
-  "geometry": {"coordinates":[-95.186613,29.772372],"type":"Point"}
+  "bbox": [
+    -95.186613,
+    29.772372,
+    -95.186613,
+    29.772372
+],
+  "geometry": {"coordinates":[-95.18661299999999,29.772372],"type":"Point"}
 }

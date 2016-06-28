@@ -2,13 +2,14 @@
   "id": 252933285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.656856,32.847931,-96.656856,32.847931",
     "geom:latitude":32.847931,
     "geom:longitude":-96.656856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11221 Drummond Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252933285,
-    "wof:lastmodified":1449005637,
+    "wof:lastmodified":1467084060,
     "wof:name":"WBH Services",
     "wof:parent_id":85882147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-96.656856,32.847931,-96.656856,32.847931],
+  "bbox": [
+    -96.656856,
+    32.847931,
+    -96.656856,
+    32.847931
+],
   "geometry": {"coordinates":[-96.656856,32.847931],"type":"Point"}
 }

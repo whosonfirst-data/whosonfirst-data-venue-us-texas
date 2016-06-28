@@ -2,13 +2,14 @@
   "id": 303628817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.809608,30.277541,-97.809608,30.277541",
     "geom:latitude":30.277541,
     "geom:longitude":-97.809608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Westbank Drive Suite 6",
     "sg:city":"West Lake Hills",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303628817,
-    "wof:lastmodified":1449000100,
+    "wof:lastmodified":1467083790,
     "wof:name":"Clavier-Werke School of Music",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "teacher"
     ]
 },
-  "bbox": [-97.809608,30.277541,-97.809608,30.277541],
+  "bbox": [
+    -97.809608,
+    30.277541,
+    -97.809608,
+    30.277541
+],
   "geometry": {"coordinates":[-97.809608,30.277541],"type":"Point"}
 }

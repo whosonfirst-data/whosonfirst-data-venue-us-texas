@@ -2,13 +2,14 @@
   "id": 202707939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.675243,30.650932,-97.675243,30.650932",
     "geom:latitude":30.650932,
     "geom:longitude":-97.675243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 N Austin Ave",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202707939,
-    "wof:lastmodified":1449062261,
+    "wof:lastmodified":1467084933,
     "wof:name":"Shanghai Express",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.675243,30.650932,-97.675243,30.650932],
-  "geometry": {"coordinates":[-97.675243,30.650932],"type":"Point"}
+  "bbox": [
+    -97.675243,
+    30.650932,
+    -97.675243,
+    30.650932
+],
+  "geometry": {"coordinates":[-97.67524299999999,30.650932],"type":"Point"}
 }

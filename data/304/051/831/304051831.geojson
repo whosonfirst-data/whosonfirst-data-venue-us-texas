@@ -2,13 +2,14 @@
   "id": 304051831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.759532,32.43224,-99.759532,32.43224",
     "geom:latitude":32.43224,
     "geom:longitude":-99.759532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 S 14th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":304051831,
-    "wof:lastmodified":1449043946,
+    "wof:lastmodified":1467084666,
     "wof:name":"H&R Block",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-99.759532,32.43224,-99.759532,32.43224],
-  "geometry": {"coordinates":[-99.759532,32.43224],"type":"Point"}
+  "bbox": [
+    -99.759532,
+    32.43224,
+    -99.759532,
+    32.43224
+],
+  "geometry": {"coordinates":[-99.75953199999999,32.43224],"type":"Point"}
 }

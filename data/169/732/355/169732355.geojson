@@ -2,13 +2,14 @@
   "id": 169732355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.74214,32.391009,-99.74214,32.391009",
     "geom:latitude":32.391009,
     "geom:longitude":-99.74214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 S Treadaway Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169732355,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1467084570,
     "wof:name":"Robert's Body Shop",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-99.74214,32.391009,-99.74214,32.391009],
-  "geometry": {"coordinates":[-99.74214,32.391009],"type":"Point"}
+  "bbox": [
+    -99.74214,
+    32.391009,
+    -99.74214,
+    32.391009
+],
+  "geometry": {"coordinates":[-99.74214000000001,32.391009],"type":"Point"}
 }

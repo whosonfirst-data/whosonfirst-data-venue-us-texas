@@ -2,13 +2,14 @@
   "id": 353847585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82134,32.74939,-96.82134,32.74939",
     "geom:latitude":32.74939,
     "geom:longitude":-96.82134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Davis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353847585,
-    "wof:lastmodified":1449019181,
+    "wof:lastmodified":1467084341,
     "wof:name":"Fondeur Apartments Inc",
     "wof:parent_id":85893627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.82134,32.74939,-96.82134,32.74939],
-  "geometry": {"coordinates":[-96.82134,32.74939],"type":"Point"}
+  "bbox": [
+    -96.82134,
+    32.74939,
+    -96.82134,
+    32.74939
+],
+  "geometry": {"coordinates":[-96.82134000000001,32.74939],"type":"Point"}
 }

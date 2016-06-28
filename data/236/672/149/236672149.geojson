@@ -2,13 +2,14 @@
   "id": 236672149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59906,32.770851,-96.59906,32.770851",
     "geom:latitude":32.770851,
     "geom:longitude":-96.59906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Galloway Ave Suite 2",
     "sg:city":"Mesquite",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236672149,
-    "wof:lastmodified":1449001837,
+    "wof:lastmodified":1467083865,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":85878895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.59906,32.770851,-96.59906,32.770851],
-  "geometry": {"coordinates":[-96.59906,32.770851],"type":"Point"}
+  "bbox": [
+    -96.59906,
+    32.770851,
+    -96.59906,
+    32.770851
+],
+  "geometry": {"coordinates":[-96.59905999999999,32.770851],"type":"Point"}
 }

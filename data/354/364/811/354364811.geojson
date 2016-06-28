@@ -2,13 +2,14 @@
   "id": 354364811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.971156,32.37573,-98.971156,32.37573",
     "geom:latitude":32.37573,
     "geom:longitude":-98.971156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Conrad Hilton Blvd",
     "sg:city":"Cisco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354364811,
-    "wof:lastmodified":1449066906,
+    "wof:lastmodified":1467085075,
     "wof:name":"QCO Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.971156,32.37573,-98.971156,32.37573],
-  "geometry": {"coordinates":[-98.971156,32.37573],"type":"Point"}
+  "bbox": [
+    -98.971156,
+    32.37573,
+    -98.971156,
+    32.37573
+],
+  "geometry": {"coordinates":[-98.97115599999999,32.37573],"type":"Point"}
 }

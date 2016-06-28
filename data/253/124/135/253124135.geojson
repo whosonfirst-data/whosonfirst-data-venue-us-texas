@@ -2,13 +2,14 @@
   "id": 253124135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.715376,30.526405,-97.715376,30.526405",
     "geom:latitude":30.526405,
     "geom:longitude":-97.715376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Broken Shoe Dr",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253124135,
-    "wof:lastmodified":1449065566,
+    "wof:lastmodified":1467085039,
     "wof:name":"Ground Crew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.715376,30.526405,-97.715376,30.526405],
-  "geometry": {"coordinates":[-97.715376,30.526405],"type":"Point"}
+  "bbox": [
+    -97.715376,
+    30.526405,
+    -97.715376,
+    30.526405
+],
+  "geometry": {"coordinates":[-97.71537600000001,30.526405],"type":"Point"}
 }

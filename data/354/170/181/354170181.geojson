@@ -2,13 +2,14 @@
   "id": 354170181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.466906,30.045281,-95.466906,30.045281",
     "geom:latitude":30.045281,
     "geom:longitude":-95.466906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Coltwood Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354170181,
-    "wof:lastmodified":1449066083,
+    "wof:lastmodified":1467085055,
     "wof:name":"John Prior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.466906,30.045281,-95.466906,30.045281],
-  "geometry": {"coordinates":[-95.466906,30.045281],"type":"Point"}
+  "bbox": [
+    -95.466906,
+    30.045281,
+    -95.466906,
+    30.045281
+],
+  "geometry": {"coordinates":[-95.46690599999999,30.045281],"type":"Point"}
 }

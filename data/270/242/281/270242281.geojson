@@ -2,13 +2,14 @@
   "id": 270242281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412903,29.921,-95.412903,29.921",
     "geom:latitude":29.921,
     "geom:longitude":-95.412903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10707 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270242281,
-    "wof:lastmodified":1449010806,
+    "wof:lastmodified":1467084221,
     "wof:name":"Home Depot the",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-95.412903,29.921,-95.412903,29.921],
+  "bbox": [
+    -95.412903,
+    29.921,
+    -95.412903,
+    29.921
+],
   "geometry": {"coordinates":[-95.412903,29.921],"type":"Point"}
 }

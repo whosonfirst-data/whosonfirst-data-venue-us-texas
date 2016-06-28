@@ -2,13 +2,14 @@
   "id": 202889985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833476,32.778643,-96.833476,32.778643",
     "geom:latitude":32.778643,
     "geom:longitude":-96.833476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202889985,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1467084886,
     "wof:name":"West Carpet",
     "wof:parent_id":85870337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.833476,32.778643,-96.833476,32.778643],
+  "bbox": [
+    -96.833476,
+    32.778643,
+    -96.833476,
+    32.778643
+],
   "geometry": {"coordinates":[-96.833476,32.778643],"type":"Point"}
 }

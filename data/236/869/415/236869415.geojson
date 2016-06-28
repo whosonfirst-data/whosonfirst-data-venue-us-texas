@@ -2,13 +2,14 @@
   "id": 236869415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801296,32.800866,-96.801296,32.800866",
     "geom:latitude":32.800866,
     "geom:longitude":-96.801296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Allen St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236869415,
-    "wof:lastmodified":1449004932,
+    "wof:lastmodified":1467084024,
     "wof:name":"G&G Limousine",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "limo"
     ]
 },
-  "bbox": [-96.801296,32.800866,-96.801296,32.800866],
-  "geometry": {"coordinates":[-96.801296,32.800866],"type":"Point"}
+  "bbox": [
+    -96.801296,
+    32.800866,
+    -96.801296,
+    32.800866
+],
+  "geometry": {"coordinates":[-96.80129599999999,32.800866],"type":"Point"}
 }

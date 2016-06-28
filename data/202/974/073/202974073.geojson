@@ -2,13 +2,14 @@
   "id": 202974073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.318743,29.726921,-95.318743,29.726921",
     "geom:latitude":29.726921,
     "geom:longitude":-95.318743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5506 Lawndale St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202974073,
-    "wof:lastmodified":1449062324,
+    "wof:lastmodified":1467084934,
     "wof:name":"DLR Properties",
     "wof:parent_id":85869767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.318743,29.726921,-95.318743,29.726921],
+  "bbox": [
+    -95.318743,
+    29.726921,
+    -95.318743,
+    29.726921
+],
   "geometry": {"coordinates":[-95.318743,29.726921],"type":"Point"}
 }

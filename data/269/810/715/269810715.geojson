@@ -2,13 +2,14 @@
   "id": 269810715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359916,29.759241,-95.359916,29.759241",
     "geom:latitude":29.759241,
     "geom:longitude":-95.359916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Prairie Street",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269810715,
-    "wof:lastmodified":1449036864,
+    "wof:lastmodified":1467084591,
     "wof:name":"The Beacon",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-95.359916,29.759241,-95.359916,29.759241],
+  "bbox": [
+    -95.359916,
+    29.759241,
+    -95.359916,
+    29.759241
+],
   "geometry": {"coordinates":[-95.359916,29.759241],"type":"Point"}
 }

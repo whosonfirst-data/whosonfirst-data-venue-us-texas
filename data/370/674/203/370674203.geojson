@@ -2,13 +2,14 @@
   "id": 370674203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.789972,30.221057,-97.789972,30.221057",
     "geom:latitude":30.221057,
     "geom:longitude":-97.789972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4806 Sylvandale Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370674203,
-    "wof:lastmodified":1449031623,
+    "wof:lastmodified":1467084533,
     "wof:name":"Micro-Ovens Of Austin",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oven"
     ]
 },
-  "bbox": [-97.789972,30.221057,-97.789972,30.221057],
-  "geometry": {"coordinates":[-97.789972,30.221057],"type":"Point"}
+  "bbox": [
+    -97.789972,
+    30.221057,
+    -97.789972,
+    30.221057
+],
+  "geometry": {"coordinates":[-97.78997200000001,30.221057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403919099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775641,33.103868,-96.775641,33.103868",
     "geom:latitude":33.103868,
     "geom:longitude":-96.775641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Waskom Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403919099,
-    "wof:lastmodified":1449055640,
+    "wof:lastmodified":1467084773,
     "wof:name":"Borchardt Elementary School",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.775641,33.103868,-96.775641,33.103868],
-  "geometry": {"coordinates":[-96.775641,33.103868],"type":"Point"}
+  "bbox": [
+    -96.775641,
+    33.103868,
+    -96.775641,
+    33.103868
+],
+  "geometry": {"coordinates":[-96.77564099999999,33.103868],"type":"Point"}
 }

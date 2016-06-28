@@ -2,13 +2,14 @@
   "id": 403931919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.856643,32.866475,-96.856643,32.866475",
     "geom:latitude":32.866475,
     "geom:longitude":-96.856643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3623 Cortez Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403931919,
-    "wof:lastmodified":1449055848,
+    "wof:lastmodified":1467084778,
     "wof:name":"Security Consulting",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-96.856643,32.866475,-96.856643,32.866475],
-  "geometry": {"coordinates":[-96.856643,32.866475],"type":"Point"}
+  "bbox": [
+    -96.856643,
+    32.866475,
+    -96.856643,
+    32.866475
+],
+  "geometry": {"coordinates":[-96.85664300000001,32.866475],"type":"Point"}
 }

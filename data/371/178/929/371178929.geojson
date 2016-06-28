@@ -2,13 +2,14 @@
   "id": 371178929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.826023,32.745136,-96.826023,32.745136",
     "geom:latitude":32.745136,
     "geom:longitude":-96.826023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 W 10th St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371178929,
-    "wof:lastmodified":1449049806,
+    "wof:lastmodified":1467084684,
     "wof:name":"Maria Casita",
     "wof:parent_id":85882141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "immigration"
     ]
 },
-  "bbox": [-96.826023,32.745136,-96.826023,32.745136],
-  "geometry": {"coordinates":[-96.826023,32.745136],"type":"Point"}
+  "bbox": [
+    -96.826023,
+    32.745136,
+    -96.826023,
+    32.745136
+],
+  "geometry": {"coordinates":[-96.82602300000001,32.745136],"type":"Point"}
 }

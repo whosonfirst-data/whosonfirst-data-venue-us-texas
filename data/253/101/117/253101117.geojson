@@ -2,13 +2,14 @@
   "id": 253101117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803101,32.925999,-96.803101,32.925999",
     "geom:latitude":32.925999,
     "geom:longitude":-96.803101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6041 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253101117,
-    "wof:lastmodified":1449064378,
+    "wof:lastmodified":1467084998,
     "wof:name":"Rooms To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-96.803101,32.925999,-96.803101,32.925999],
+  "bbox": [
+    -96.803101,
+    32.925999,
+    -96.803101,
+    32.925999
+],
   "geometry": {"coordinates":[-96.803101,32.925999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303335483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.783908,30.242438,-97.783908,30.242438",
     "geom:latitude":30.242438,
     "geom:longitude":-97.783908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303335483,
-    "wof:lastmodified":1448999731,
+    "wof:lastmodified":1467083772,
     "wof:name":"Capital City Collision",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "repairing"
     ]
 },
-  "bbox": [-97.783908,30.242438,-97.783908,30.242438],
+  "bbox": [
+    -97.783908,
+    30.242438,
+    -97.783908,
+    30.242438
+],
   "geometry": {"coordinates":[-97.783908,30.242438],"type":"Point"}
 }

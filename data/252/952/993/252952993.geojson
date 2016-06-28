@@ -2,13 +2,14 @@
   "id": 252952993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.841345,32.880815,-96.841345,32.880815",
     "geom:latitude":32.880815,
     "geom:longitude":-96.841345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 Walnut Meadow Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252952993,
-    "wof:lastmodified":1449006180,
+    "wof:lastmodified":1467084090,
     "wof:name":"Travel4tuition",
     "wof:parent_id":85833361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-96.841345,32.880815,-96.841345,32.880815],
+  "bbox": [
+    -96.841345,
+    32.880815,
+    -96.841345,
+    32.880815
+],
   "geometry": {"coordinates":[-96.841345,32.880815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253153027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.497627,29.547023,-98.497627,29.547023",
     "geom:latitude":29.547023,
     "geom:longitude":-98.497627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Rhapsody Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253153027,
-    "wof:lastmodified":1449064883,
+    "wof:lastmodified":1467085016,
     "wof:name":"Relay San Antonio",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-98.497627,29.547023,-98.497627,29.547023],
-  "geometry": {"coordinates":[-98.497627,29.547023],"type":"Point"}
+  "bbox": [
+    -98.497627,
+    29.547023,
+    -98.497627,
+    29.547023
+],
+  "geometry": {"coordinates":[-98.49762699999999,29.547023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303845703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.849889,30.41184,-97.849889,30.41184",
     "geom:latitude":30.41184,
     "geom:longitude":-97.849889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 N FM 620 Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303845703,
-    "wof:lastmodified":1448998516,
+    "wof:lastmodified":1467083711,
     "wof:name":"Flores Mexican Restaurant",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.849889,30.41184,-97.849889,30.41184],
+  "bbox": [
+    -97.849889,
+    30.41184,
+    -97.849889,
+    30.41184
+],
   "geometry": {"coordinates":[-97.849889,30.41184],"type":"Point"}
 }

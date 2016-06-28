@@ -2,13 +2,14 @@
   "id": 303729109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.697324,30.342635,-97.697324,30.342635",
     "geom:latitude":30.342635,
     "geom:longitude":-97.697324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8025 N I H 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303729109,
-    "wof:lastmodified":1448999350,
+    "wof:lastmodified":1467083753,
     "wof:name":"Five Point Credit Union",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.697324,30.342635,-97.697324,30.342635],
-  "geometry": {"coordinates":[-97.697324,30.342635],"type":"Point"}
+  "bbox": [
+    -97.697324,
+    30.342635,
+    -97.697324,
+    30.342635
+],
+  "geometry": {"coordinates":[-97.69732399999999,30.342635],"type":"Point"}
 }

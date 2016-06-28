@@ -2,13 +2,14 @@
   "id": 236015957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.829864,32.967752,-96.829864,32.967752",
     "geom:latitude":32.967752,
     "geom:longitude":-96.829864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16051 Addison Road",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236015957,
-    "wof:lastmodified":1449002245,
+    "wof:lastmodified":1467083895,
     "wof:name":"Addison Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-96.829864,32.967752,-96.829864,32.967752],
+  "bbox": [
+    -96.829864,
+    32.967752,
+    -96.829864,
+    32.967752
+],
   "geometry": {"coordinates":[-96.829864,32.967752],"type":"Point"}
 }

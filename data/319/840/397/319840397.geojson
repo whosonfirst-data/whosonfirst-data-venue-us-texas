@@ -2,13 +2,14 @@
   "id": 319840397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.675682,30.389575,-103.675682,30.389575",
     "geom:latitude":30.389575,
     "geom:longitude":-103.675682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 N Highway 118",
     "sg:city":"Alpine",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":319840397,
-    "wof:lastmodified":1449024709,
+    "wof:lastmodified":1467084383,
     "wof:name":"Texas Department Of Public Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government-state"
     ]
 },
-  "bbox": [-103.675682,30.389575,-103.675682,30.389575],
-  "geometry": {"coordinates":[-103.675682,30.389575],"type":"Point"}
+  "bbox": [
+    -103.675682,
+    30.389575,
+    -103.675682,
+    30.389575
+],
+  "geometry": {"coordinates":[-103.67568199999999,30.389575],"type":"Point"}
 }

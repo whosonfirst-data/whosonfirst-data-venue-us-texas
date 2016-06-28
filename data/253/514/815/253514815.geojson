@@ -2,13 +2,14 @@
   "id": 253514815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.809001,32.214621,-95.809001,32.214621",
     "geom:latitude":32.214621,
     "geom:longitude":-95.809001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2767 Ranch Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253514815,
-    "wof:lastmodified":1449064309,
+    "wof:lastmodified":1467084996,
     "wof:name":"Athens Sign Co",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-95.809001,32.214621,-95.809001,32.214621],
-  "geometry": {"coordinates":[-95.809001,32.214621],"type":"Point"}
+  "bbox": [
+    -95.809001,
+    32.214621,
+    -95.809001,
+    32.214621
+],
+  "geometry": {"coordinates":[-95.80900099999999,32.214621],"type":"Point"}
 }

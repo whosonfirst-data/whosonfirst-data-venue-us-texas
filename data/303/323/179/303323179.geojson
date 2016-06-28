@@ -2,13 +2,14 @@
   "id": 303323179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759019,30.259809,-97.759019,30.259809",
     "geom:latitude":30.259809,
     "geom:longitude":-97.759019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303323179,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1467083702,
     "wof:name":"That Hot Dog Stand",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dog"
     ]
 },
-  "bbox": [-97.759019,30.259809,-97.759019,30.259809],
+  "bbox": [
+    -97.759019,
+    30.259809,
+    -97.759019,
+    30.259809
+],
   "geometry": {"coordinates":[-97.759019,30.259809],"type":"Point"}
 }

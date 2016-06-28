@@ -2,13 +2,14 @@
   "id": 186192329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.451164,29.030149,-95.451164,29.030149",
     "geom:latitude":29.030149,
     "geom:longitude":-95.451164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Medical Dr",
     "sg:city":"Lake Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186192329,
-    "wof:lastmodified":1449052251,
+    "wof:lastmodified":1467084731,
     "wof:name":"Parks & Wildlife Dept",
     "wof:parent_id":85829137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-95.451164,29.030149,-95.451164,29.030149],
-  "geometry": {"coordinates":[-95.451164,29.030149],"type":"Point"}
+  "bbox": [
+    -95.451164,
+    29.030149,
+    -95.451164,
+    29.030149
+],
+  "geometry": {"coordinates":[-95.45116400000001,29.030149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186102965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.734123,32.445684,-99.734123,32.445684",
     "geom:latitude":32.445684,
     "geom:longitude":-99.734123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Chestnut St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186102965,
-    "wof:lastmodified":1449052827,
+    "wof:lastmodified":1467084743,
     "wof:name":"Jon Hanna",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.734123,32.445684,-99.734123,32.445684],
+  "bbox": [
+    -99.734123,
+    32.445684,
+    -99.734123,
+    32.445684
+],
   "geometry": {"coordinates":[-99.734123,32.445684],"type":"Point"}
 }

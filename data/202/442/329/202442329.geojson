@@ -2,13 +2,14 @@
   "id": 202442329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.301904,32.773199,-97.301904,32.773199",
     "geom:latitude":32.773199,
     "geom:longitude":-97.301904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 Race St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202442329,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1467084911,
     "wof:name":"Pacheco & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.301904,32.773199,-97.301904,32.773199],
-  "geometry": {"coordinates":[-97.301904,32.773199],"type":"Point"}
+  "bbox": [
+    -97.301904,
+    32.773199,
+    -97.301904,
+    32.773199
+],
+  "geometry": {"coordinates":[-97.30190399999999,32.773199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270255301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.3106,29.902599,-95.3106,29.902599",
     "geom:latitude":29.902599,
     "geom:longitude":-95.3106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5303 Aldine Mail Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270255301,
-    "wof:lastmodified":1449009740,
+    "wof:lastmodified":1467084186,
     "wof:name":"Aldine-Mail Route Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.3106,29.902599,-95.3106,29.902599],
-  "geometry": {"coordinates":[-95.3106,29.902599],"type":"Point"}
+  "bbox": [
+    -95.3106,
+    29.902599,
+    -95.3106,
+    29.902599
+],
+  "geometry": {"coordinates":[-95.31059999999999,29.902599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303102093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.814579,30.464256,-97.814579,30.464256",
     "geom:latitude":30.464256,
     "geom:longitude":-97.814579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Dandridge",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303102093,
-    "wof:lastmodified":1449000381,
+    "wof:lastmodified":1467083803,
     "wof:name":"Anderson Mill Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "check"
     ]
 },
-  "bbox": [-97.814579,30.464256,-97.814579,30.464256],
-  "geometry": {"coordinates":[-97.814579,30.464256],"type":"Point"}
+  "bbox": [
+    -97.814579,
+    30.464256,
+    -97.814579,
+    30.464256
+],
+  "geometry": {"coordinates":[-97.81457899999999,30.464256],"type":"Point"}
 }

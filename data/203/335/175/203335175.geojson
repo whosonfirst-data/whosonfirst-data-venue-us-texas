@@ -2,13 +2,14 @@
   "id": 203335175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.796123,32.736314,-97.796123,32.736314",
     "geom:latitude":32.736314,
     "geom:longitude":-97.796123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 S Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203335175,
-    "wof:lastmodified":1449026233,
+    "wof:lastmodified":1467084409,
     "wof:name":"First Convenience Bank",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.796123,32.736314,-97.796123,32.736314],
-  "geometry": {"coordinates":[-97.796123,32.736314],"type":"Point"}
+  "bbox": [
+    -97.796123,
+    32.736314,
+    -97.796123,
+    32.736314
+],
+  "geometry": {"coordinates":[-97.79612299999999,32.736314],"type":"Point"}
 }

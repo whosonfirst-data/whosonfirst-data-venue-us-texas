@@ -2,13 +2,14 @@
   "id": 387640097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729542,30.361277,-97.729542,30.361277",
     "geom:latitude":30.361277,
     "geom:longitude":-97.729542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8140 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387640097,
-    "wof:lastmodified":1449057759,
+    "wof:lastmodified":1467084826,
     "wof:name":"Seaberg Software Inc",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.729542,30.361277,-97.729542,30.361277],
+  "bbox": [
+    -97.729542,
+    30.361277,
+    -97.729542,
+    30.361277
+],
   "geometry": {"coordinates":[-97.729542,30.361277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287165179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.205362,29.585096,-98.205362,29.585096",
     "geom:latitude":29.585096,
     "geom:longitude":-98.205362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"579 Weil Rd",
     "sg:city":"Cibolo",
     "sg:classifiers":[
@@ -87,10 +88,11 @@
         }
     ],
     "wof:id":287165179,
-    "wof:lastmodified":1449001594,
+    "wof:lastmodified":1467083849,
     "wof:name":"Alamo Fence Company",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -107,6 +109,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-98.205362,29.585096,-98.205362,29.585096],
-  "geometry": {"coordinates":[-98.205362,29.585096],"type":"Point"}
+  "bbox": [
+    -98.205362,
+    29.585096,
+    -98.205362,
+    29.585096
+],
+  "geometry": {"coordinates":[-98.20536199999999,29.585096],"type":"Point"}
 }

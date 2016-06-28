@@ -2,13 +2,14 @@
   "id": 387965811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.243563,31.967515,-95.243563,31.967515",
     "geom:latitude":31.967515,
     "geom:longitude":-95.243563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 E Rusk St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387965811,
-    "wof:lastmodified":1449058768,
+    "wof:lastmodified":1467084853,
     "wof:name":"Fenny's Tortilla Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.243563,31.967515,-95.243563,31.967515],
-  "geometry": {"coordinates":[-95.243563,31.967515],"type":"Point"}
+  "bbox": [
+    -95.243563,
+    31.967515,
+    -95.243563,
+    31.967515
+],
+  "geometry": {"coordinates":[-95.24356299999999,31.967515],"type":"Point"}
 }

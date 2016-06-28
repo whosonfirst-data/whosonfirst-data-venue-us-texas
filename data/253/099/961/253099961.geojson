@@ -2,13 +2,14 @@
   "id": 253099961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.584921,29.476917,-98.584921,29.476917",
     "geom:latitude":29.476917,
     "geom:longitude":-98.584921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Bandera Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":253099961,
-    "wof:lastmodified":1449064763,
+    "wof:lastmodified":1467085012,
     "wof:name":"Fruteria Las Gueras",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.584921,29.476917,-98.584921,29.476917],
-  "geometry": {"coordinates":[-98.584921,29.476917],"type":"Point"}
+  "bbox": [
+    -98.584921,
+    29.476917,
+    -98.584921,
+    29.476917
+],
+  "geometry": {"coordinates":[-98.58492099999999,29.476917],"type":"Point"}
 }

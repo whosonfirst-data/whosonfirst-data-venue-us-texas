@@ -2,13 +2,14 @@
   "id": 203015319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430034,31.827209,-99.430034,31.827209",
     "geom:latitude":31.827209,
     "geom:longitude":-99.430034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Walnut St",
     "sg:city":"Coleman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203015319,
-    "wof:lastmodified":1449025365,
+    "wof:lastmodified":1467084392,
     "wof:name":"Victorian Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-99.430034,31.827209,-99.430034,31.827209],
-  "geometry": {"coordinates":[-99.430034,31.827209],"type":"Point"}
+  "bbox": [
+    -99.430034,
+    31.827209,
+    -99.430034,
+    31.827209
+],
+  "geometry": {"coordinates":[-99.43003400000001,31.827209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353400695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595773,31.844236,-106.595773,31.844236",
     "geom:latitude":31.844236,
     "geom:longitude":-106.595773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Country Club Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353400695,
-    "wof:lastmodified":1449018506,
+    "wof:lastmodified":1467084326,
     "wof:name":"TNT Home Improvements",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.595773,31.844236,-106.595773,31.844236],
-  "geometry": {"coordinates":[-106.595773,31.844236],"type":"Point"}
+  "bbox": [
+    -106.595773,
+    31.844236,
+    -106.595773,
+    31.844236
+],
+  "geometry": {"coordinates":[-106.59577299999999,31.844236],"type":"Point"}
 }

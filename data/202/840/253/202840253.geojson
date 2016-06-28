@@ -2,13 +2,14 @@
   "id": 202840253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456983,29.791145,-95.456983,29.791145",
     "geom:latitude":29.791145,
     "geom:longitude":-95.456983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1298 N Post Oak Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202840253,
-    "wof:lastmodified":1449062089,
+    "wof:lastmodified":1467084929,
     "wof:name":"Data Rush Couriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.456983,29.791145,-95.456983,29.791145],
-  "geometry": {"coordinates":[-95.456983,29.791145],"type":"Point"}
+  "bbox": [
+    -95.456983,
+    29.791145,
+    -95.456983,
+    29.791145
+],
+  "geometry": {"coordinates":[-95.45698299999999,29.791145],"type":"Point"}
 }

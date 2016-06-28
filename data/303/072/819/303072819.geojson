@@ -2,13 +2,14 @@
   "id": 303072819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.40285,30.685745,-98.40285,30.685745",
     "geom:latitude":30.685745,
     "geom:longitude":-98.40285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 County Road 135",
     "sg:city":"Burnet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303072819,
-    "wof:lastmodified":1448999409,
+    "wof:lastmodified":1467083756,
     "wof:name":"David Denny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.40285,30.685745,-98.40285,30.685745],
+  "bbox": [
+    -98.40285,
+    30.685745,
+    -98.40285,
+    30.685745
+],
   "geometry": {"coordinates":[-98.40285,30.685745],"type":"Point"}
 }

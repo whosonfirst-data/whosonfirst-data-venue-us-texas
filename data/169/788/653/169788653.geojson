@@ -2,13 +2,14 @@
   "id": 169788653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.696029,30.420319,-97.696029,30.420319",
     "geom:latitude":30.420319,
     "geom:longitude":-97.696029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12602 Limerick Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169788653,
-    "wof:lastmodified":1449034382,
+    "wof:lastmodified":1467084564,
     "wof:name":"Austin Uplift",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.696029,30.420319,-97.696029,30.420319],
+  "bbox": [
+    -97.696029,
+    30.420319,
+    -97.696029,
+    30.420319
+],
   "geometry": {"coordinates":[-97.696029,30.420319],"type":"Point"}
 }

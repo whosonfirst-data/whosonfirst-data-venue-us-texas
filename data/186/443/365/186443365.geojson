@@ -2,13 +2,14 @@
   "id": 186443365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.786713,32.433257,-99.786713,32.433257",
     "geom:latitude":32.433257,
     "geom:longitude":-99.786713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Danville Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186443365,
-    "wof:lastmodified":1449052515,
+    "wof:lastmodified":1467084736,
     "wof:name":"Keen Cleaners",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [-99.786713,32.433257,-99.786713,32.433257],
-  "geometry": {"coordinates":[-99.786713,32.433257],"type":"Point"}
+  "bbox": [
+    -99.786713,
+    32.433257,
+    -99.786713,
+    32.433257
+],
+  "geometry": {"coordinates":[-99.78671300000001,32.433257],"type":"Point"}
 }

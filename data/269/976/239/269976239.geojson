@@ -2,13 +2,14 @@
   "id": 269976239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.285353,29.726359,-95.285353,29.726359",
     "geom:latitude":29.726359,
     "geom:longitude":-95.285353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7912 Ford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269976239,
-    "wof:lastmodified":1449037121,
+    "wof:lastmodified":1467084599,
     "wof:name":"Huerta Bus Svc",
     "wof:parent_id":85824091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shuttle"
     ]
 },
-  "bbox": [-95.285353,29.726359,-95.285353,29.726359],
+  "bbox": [
+    -95.285353,
+    29.726359,
+    -95.285353,
+    29.726359
+],
   "geometry": {"coordinates":[-95.285353,29.726359],"type":"Point"}
 }

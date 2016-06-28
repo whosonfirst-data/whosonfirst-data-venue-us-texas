@@ -2,13 +2,14 @@
   "id": 253390477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.053046,33.448441,-94.053046,33.448441",
     "geom:latitude":33.448441,
     "geom:longitude":-94.053046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Texas Blvd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253390477,
-    "wof:lastmodified":1449065836,
+    "wof:lastmodified":1467085048,
     "wof:name":"City Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.053046,33.448441,-94.053046,33.448441],
-  "geometry": {"coordinates":[-94.053046,33.448441],"type":"Point"}
+  "bbox": [
+    -94.053046,
+    33.448441,
+    -94.053046,
+    33.448441
+],
+  "geometry": {"coordinates":[-94.05304599999999,33.448441],"type":"Point"}
 }

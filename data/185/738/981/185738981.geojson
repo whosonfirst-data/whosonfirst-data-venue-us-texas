@@ -2,13 +2,14 @@
   "id": 185738981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.335018,29.70673,-95.335018,29.70673",
     "geom:latitude":29.70673,
     "geom:longitude":-95.335018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4981 Martin Luther King Jr Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185738981,
-    "wof:lastmodified":1449007767,
+    "wof:lastmodified":1467084132,
     "wof:name":"Express 1 Stop LLC",
     "wof:parent_id":85845065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.335018,29.70673,-95.335018,29.70673],
-  "geometry": {"coordinates":[-95.335018,29.70673],"type":"Point"}
+  "bbox": [
+    -95.335018,
+    29.70673,
+    -95.335018,
+    29.70673
+],
+  "geometry": {"coordinates":[-95.33501800000001,29.70673],"type":"Point"}
 }

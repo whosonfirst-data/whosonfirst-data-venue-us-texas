@@ -2,13 +2,14 @@
   "id": 202819623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.591529,29.618754,-95.591529,29.618754",
     "geom:latitude":29.618754,
     "geom:longitude":-95.591529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Montclair Blvd",
     "sg:city":"Sugar Land",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202819623,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1467084900,
     "wof:name":"Alt Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.591529,29.618754,-95.591529,29.618754],
-  "geometry": {"coordinates":[-95.591529,29.618754],"type":"Point"}
+  "bbox": [
+    -95.591529,
+    29.618754,
+    -95.591529,
+    29.618754
+],
+  "geometry": {"coordinates":[-95.59152899999999,29.618754],"type":"Point"}
 }

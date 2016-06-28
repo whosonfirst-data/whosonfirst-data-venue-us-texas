@@ -2,13 +2,14 @@
   "id": 252811255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703883,32.835192,-96.703883,32.835192",
     "geom:latitude":32.835192,
     "geom:longitude":-96.703883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9540 Casa Linda Plz Ste 381",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252811255,
-    "wof:lastmodified":1449005936,
+    "wof:lastmodified":1467084077,
     "wof:name":"VIP Events",
     "wof:parent_id":85870479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-96.703883,32.835192,-96.703883,32.835192],
+  "bbox": [
+    -96.703883,
+    32.835192,
+    -96.703883,
+    32.835192
+],
   "geometry": {"coordinates":[-96.703883,32.835192],"type":"Point"}
 }

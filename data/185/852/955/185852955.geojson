@@ -2,13 +2,14 @@
   "id": 185852955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790011,30.227143,-97.790011,30.227143",
     "geom:latitude":30.227143,
     "geom:longitude":-97.790011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185852955,
-    "wof:lastmodified":1449007962,
+    "wof:lastmodified":1467084135,
     "wof:name":"First Texas Health Coalition",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.790011,30.227143,-97.790011,30.227143],
-  "geometry": {"coordinates":[-97.790011,30.227143],"type":"Point"}
+  "bbox": [
+    -97.790011,
+    30.227143,
+    -97.790011,
+    30.227143
+],
+  "geometry": {"coordinates":[-97.79001100000001,30.227143],"type":"Point"}
 }

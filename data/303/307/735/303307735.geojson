@@ -2,13 +2,14 @@
   "id": 303307735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765306,30.276313,-97.765306,30.276313",
     "geom:latitude":30.276313,
     "geom:longitude":-97.765306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303307735,
-    "wof:lastmodified":1448998746,
+    "wof:lastmodified":1467083723,
     "wof:name":"Gateway Concrete",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cement"
     ]
 },
-  "bbox": [-97.765306,30.276313,-97.765306,30.276313],
+  "bbox": [
+    -97.765306,
+    30.276313,
+    -97.765306,
+    30.276313
+],
   "geometry": {"coordinates":[-97.765306,30.276313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203393383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.547779,29.779169,-95.547779,29.779169",
     "geom:latitude":29.779169,
     "geom:longitude":-95.547779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Frostwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203393383,
-    "wof:lastmodified":1449025513,
+    "wof:lastmodified":1467084395,
     "wof:name":"Houston Cardiac Clinic",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.547779,29.779169,-95.547779,29.779169],
-  "geometry": {"coordinates":[-95.547779,29.779169],"type":"Point"}
+  "bbox": [
+    -95.547779,
+    29.779169,
+    -95.547779,
+    29.779169
+],
+  "geometry": {"coordinates":[-95.54777900000001,29.779169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253359115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556053,33.673481,-95.556053,33.673481",
     "geom:latitude":33.673481,
     "geom:longitude":-95.556053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":253359115,
-    "wof:lastmodified":1449062779,
+    "wof:lastmodified":1467084944,
     "wof:name":"Mike's Custom Paint & Body",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.556053,33.673481,-95.556053,33.673481],
-  "geometry": {"coordinates":[-95.556053,33.673481],"type":"Point"}
+  "bbox": [
+    -95.556053,
+    33.673481,
+    -95.556053,
+    33.673481
+],
+  "geometry": {"coordinates":[-95.55605300000001,33.673481],"type":"Point"}
 }

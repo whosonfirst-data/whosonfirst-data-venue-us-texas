@@ -2,13 +2,14 @@
   "id": 304044539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.735402,32.450806,-99.735402,32.450806",
     "geom:latitude":32.450806,
     "geom:longitude":-99.735402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Cedar St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":304044539,
-    "wof:lastmodified":1449043885,
+    "wof:lastmodified":1467084666,
     "wof:name":"Abilene Quick Print & Copy Center",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "plotting"
     ]
 },
-  "bbox": [-99.735402,32.450806,-99.735402,32.450806],
-  "geometry": {"coordinates":[-99.735402,32.450806],"type":"Point"}
+  "bbox": [
+    -99.735402,
+    32.450806,
+    -99.735402,
+    32.450806
+],
+  "geometry": {"coordinates":[-99.73540199999999,32.450806],"type":"Point"}
 }

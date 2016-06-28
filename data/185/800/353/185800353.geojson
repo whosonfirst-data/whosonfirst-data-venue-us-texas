@@ -2,13 +2,14 @@
   "id": 185800353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.572882,29.603279,-95.572882,29.603279",
     "geom:latitude":29.603279,
     "geom:longitude":-95.572882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 Custer Creek Dr",
     "sg:city":"Missouri City",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":185800353,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1467084114,
     "wof:name":"West Texan Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.572882,29.603279,-95.572882,29.603279],
-  "geometry": {"coordinates":[-95.572882,29.603279],"type":"Point"}
+  "bbox": [
+    -95.572882,
+    29.603279,
+    -95.572882,
+    29.603279
+],
+  "geometry": {"coordinates":[-95.57288200000001,29.603279],"type":"Point"}
 }

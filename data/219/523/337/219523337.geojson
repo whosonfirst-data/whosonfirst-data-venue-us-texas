@@ -2,13 +2,14 @@
   "id": 219523337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773094,33.082576,-96.773094,33.082576",
     "geom:latitude":33.082576,
     "geom:longitude":-96.773094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 Christopher Way",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219523337,
-    "wof:lastmodified":1449072414,
+    "wof:lastmodified":1467085142,
     "wof:name":"Discount Taxi Co",
     "wof:parent_id":85879895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-96.773094,33.082576,-96.773094,33.082576],
+  "bbox": [
+    -96.773094,
+    33.082576,
+    -96.773094,
+    33.082576
+],
   "geometry": {"coordinates":[-96.773094,33.082576],"type":"Point"}
 }

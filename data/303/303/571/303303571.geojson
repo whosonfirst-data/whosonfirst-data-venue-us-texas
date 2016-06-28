@@ -2,13 +2,14 @@
   "id": 303303571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764611,30.302936,-97.764611,30.302936",
     "geom:latitude":30.302936,
     "geom:longitude":-97.764611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 Exposition Blvd Ste 119-B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303303571,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1467083692,
     "wof:name":"Sapire Search Group",
     "wof:parent_id":85867207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "litigation"
     ]
 },
-  "bbox": [-97.764611,30.302936,-97.764611,30.302936],
+  "bbox": [
+    -97.764611,
+    30.302936,
+    -97.764611,
+    30.302936
+],
   "geometry": {"coordinates":[-97.764611,30.302936],"type":"Point"}
 }

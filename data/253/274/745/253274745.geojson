@@ -2,13 +2,14 @@
   "id": 253274745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.896995,32.755493,-98.896995,32.755493",
     "geom:latitude":32.755493,
     "geom:longitude":-98.896995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 E Walker St",
     "sg:city":"Breckenridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253274745,
-    "wof:lastmodified":1449063185,
+    "wof:lastmodified":1467084957,
     "wof:name":"Production Meter & Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.896995,32.755493,-98.896995,32.755493],
+  "bbox": [
+    -98.896995,
+    32.755493,
+    -98.896995,
+    32.755493
+],
   "geometry": {"coordinates":[-98.896995,32.755493],"type":"Point"}
 }

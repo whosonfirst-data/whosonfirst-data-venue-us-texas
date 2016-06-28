@@ -2,13 +2,14 @@
   "id": 252742835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761299,32.806801,-96.761299,32.806801",
     "geom:latitude":32.806801,
     "geom:longitude":-96.761299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5645 Gaston Ave Apt 101",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252742835,
-    "wof:lastmodified":1449005482,
+    "wof:lastmodified":1467084052,
     "wof:name":"Gaston Uptown",
     "wof:parent_id":85870347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.761299,32.806801,-96.761299,32.806801],
-  "geometry": {"coordinates":[-96.761299,32.806801],"type":"Point"}
+  "bbox": [
+    -96.761299,
+    32.806801,
+    -96.761299,
+    32.806801
+],
+  "geometry": {"coordinates":[-96.76129899999999,32.806801],"type":"Point"}
 }

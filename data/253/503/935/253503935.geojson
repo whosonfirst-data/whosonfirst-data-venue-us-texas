@@ -2,13 +2,14 @@
   "id": 253503935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.319295,32.350941,-95.319295,32.350941",
     "geom:latitude":32.350941,
     "geom:longitude":-95.319295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Glenwood Blvd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":253503935,
-    "wof:lastmodified":1449065818,
+    "wof:lastmodified":1467085048,
     "wof:name":"ASAP Walker Heating and Cooling",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.319295,32.350941,-95.319295,32.350941],
+  "bbox": [
+    -95.319295,
+    32.350941,
+    -95.319295,
+    32.350941
+],
   "geometry": {"coordinates":[-95.319295,32.350941],"type":"Point"}
 }

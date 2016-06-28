@@ -2,13 +2,14 @@
   "id": 186500715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.539409,29.858313,-95.539409,29.858313",
     "geom:latitude":29.858313,
     "geom:longitude":-95.539409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14518 Hempstead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186500715,
-    "wof:lastmodified":1449051063,
+    "wof:lastmodified":1467084705,
     "wof:name":"GPM Intl Inc",
     "wof:parent_id":85869161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-95.539409,29.858313,-95.539409,29.858313],
-  "geometry": {"coordinates":[-95.539409,29.858313],"type":"Point"}
+  "bbox": [
+    -95.539409,
+    29.858313,
+    -95.539409,
+    29.858313
+],
+  "geometry": {"coordinates":[-95.53940900000001,29.858313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303504373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.950679,30.36263,-97.950679,30.36263",
     "geom:latitude":30.36263,
     "geom:longitude":-97.950679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15304 Pheasant Ln Ste 103",
     "sg:city":"Lakeway",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":303504373,
-    "wof:lastmodified":1448998545,
+    "wof:lastmodified":1467083712,
     "wof:name":"Cwr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.950679,30.36263,-97.950679,30.36263],
-  "geometry": {"coordinates":[-97.950679,30.36263],"type":"Point"}
+  "bbox": [
+    -97.950679,
+    30.36263,
+    -97.950679,
+    30.36263
+],
+  "geometry": {"coordinates":[-97.95067899999999,30.36263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286864501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.373899,28.957532,-95.373899,28.957532",
     "geom:latitude":28.957532,
     "geom:longitude":-95.373899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Brazosport Blvd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":286864501,
-    "wof:lastmodified":1449018124,
+    "wof:lastmodified":1467084318,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-95.373899,28.957532,-95.373899,28.957532],
-  "geometry": {"coordinates":[-95.373899,28.957532],"type":"Point"}
+  "bbox": [
+    -95.373899,
+    28.957532,
+    -95.373899,
+    28.957532
+],
+  "geometry": {"coordinates":[-95.37389899999999,28.957532],"type":"Point"}
 }

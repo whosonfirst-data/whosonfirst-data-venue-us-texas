@@ -2,13 +2,14 @@
   "id": 303224071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746231,30.275654,-97.746231,30.275654",
     "geom:latitude":30.275654,
     "geom:longitude":-97.746231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Nueces Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303224071,
-    "wof:lastmodified":1448999905,
+    "wof:lastmodified":1467083781,
     "wof:name":"Texas District and County Attorneys Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.746231,30.275654,-97.746231,30.275654],
-  "geometry": {"coordinates":[-97.746231,30.275654],"type":"Point"}
+  "bbox": [
+    -97.746231,
+    30.275654,
+    -97.746231,
+    30.275654
+],
+  "geometry": {"coordinates":[-97.74623099999999,30.275654],"type":"Point"}
 }

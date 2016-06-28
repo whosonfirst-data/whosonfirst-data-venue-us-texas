@@ -2,13 +2,14 @@
   "id": 353458283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.996555,30.941897,-93.996555,30.941897",
     "geom:latitude":30.941897,
     "geom:longitude":-93.996555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 N Wheeler St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353458283,
-    "wof:lastmodified":1449020060,
+    "wof:lastmodified":1467084360,
     "wof:name":"Paint Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-93.996555,30.941897,-93.996555,30.941897],
+  "bbox": [
+    -93.996555,
+    30.941897,
+    -93.996555,
+    30.941897
+],
   "geometry": {"coordinates":[-93.996555,30.941897],"type":"Point"}
 }

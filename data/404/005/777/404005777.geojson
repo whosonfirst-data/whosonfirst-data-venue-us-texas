@@ -2,13 +2,14 @@
   "id": 404005777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.711742,29.81296,-95.711742,29.81296",
     "geom:latitude":29.81296,
     "geom:longitude":-95.711742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19543 Maywood Falls Cir",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404005777,
-    "wof:lastmodified":1449040237,
+    "wof:lastmodified":1467084659,
     "wof:name":"Digitalmagic",
     "wof:parent_id":85804499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-95.711742,29.81296,-95.711742,29.81296],
+  "bbox": [
+    -95.711742,
+    29.81296,
+    -95.711742,
+    29.81296
+],
   "geometry": {"coordinates":[-95.711742,29.81296],"type":"Point"}
 }

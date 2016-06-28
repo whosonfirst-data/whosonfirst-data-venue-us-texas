@@ -2,13 +2,14 @@
   "id": 303810179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.758244,30.372368,-97.758244,30.372368",
     "geom:latitude":30.372368,
     "geom:longitude":-97.758244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 Spicewood Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303810179,
-    "wof:lastmodified":1448998826,
+    "wof:lastmodified":1467083727,
     "wof:name":"Tafts",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-97.758244,30.372368,-97.758244,30.372368],
+  "bbox": [
+    -97.758244,
+    30.372368,
+    -97.758244,
+    30.372368
+],
   "geometry": {"coordinates":[-97.758244,30.372368],"type":"Point"}
 }

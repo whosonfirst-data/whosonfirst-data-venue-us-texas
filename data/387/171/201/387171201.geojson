@@ -2,13 +2,14 @@
   "id": 387171201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.935319,29.903576,-93.935319,29.903576",
     "geom:latitude":29.903576,
     "geom:longitude":-93.935319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2446 Memorial Blvd",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387171201,
-    "wof:lastmodified":1449059937,
+    "wof:lastmodified":1467084883,
     "wof:name":"El Paisano",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.935319,29.903576,-93.935319,29.903576],
-  "geometry": {"coordinates":[-93.935319,29.903576],"type":"Point"}
+  "bbox": [
+    -93.935319,
+    29.903576,
+    -93.935319,
+    29.903576
+],
+  "geometry": {"coordinates":[-93.93531900000001,29.903576],"type":"Point"}
 }

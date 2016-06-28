@@ -2,13 +2,14 @@
   "id": 387067243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.862062,30.221498,-97.862062,30.221498",
     "geom:latitude":30.221498,
     "geom:longitude":-97.862062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5631 Wagon Train Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387067243,
-    "wof:lastmodified":1449056359,
+    "wof:lastmodified":1467084791,
     "wof:name":"Alliance Education",
     "wof:parent_id":85869989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.862062,30.221498,-97.862062,30.221498],
-  "geometry": {"coordinates":[-97.862062,30.221498],"type":"Point"}
+  "bbox": [
+    -97.862062,
+    30.221498,
+    -97.862062,
+    30.221498
+],
+  "geometry": {"coordinates":[-97.86206199999999,30.221498],"type":"Point"}
 }

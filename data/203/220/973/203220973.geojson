@@ -2,13 +2,14 @@
   "id": 203220973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.523875,29.484088,-98.523875,29.484088",
     "geom:latitude":29.484088,
     "geom:longitude":-98.523875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Mardell St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203220973,
-    "wof:lastmodified":1449026803,
+    "wof:lastmodified":1467084420,
     "wof:name":"Robinson Taxidermy",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-98.523875,29.484088,-98.523875,29.484088],
+  "bbox": [
+    -98.523875,
+    29.484088,
+    -98.523875,
+    29.484088
+],
   "geometry": {"coordinates":[-98.523875,29.484088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353661095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.286436,29.597252,-95.286436,29.597252",
     "geom:latitude":29.597252,
     "geom:longitude":-95.286436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Main St",
     "sg:city":"Pearland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353661095,
-    "wof:lastmodified":1449020531,
+    "wof:lastmodified":1467084370,
     "wof:name":"Columns Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "column"
     ]
 },
-  "bbox": [-95.286436,29.597252,-95.286436,29.597252],
-  "geometry": {"coordinates":[-95.286436,29.597252],"type":"Point"}
+  "bbox": [
+    -95.286436,
+    29.597252,
+    -95.286436,
+    29.597252
+],
+  "geometry": {"coordinates":[-95.28643599999999,29.597252],"type":"Point"}
 }

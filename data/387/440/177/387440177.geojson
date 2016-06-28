@@ -2,13 +2,14 @@
   "id": 387440177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.415538,31.781554,-106.415538,31.781554",
     "geom:latitude":31.781554,
     "geom:longitude":-106.415538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5959 Gateway Blvd W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387440177,
-    "wof:lastmodified":1449057448,
+    "wof:lastmodified":1467084818,
     "wof:name":"Medical Specialty Billing",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-106.415538,31.781554,-106.415538,31.781554],
+  "bbox": [
+    -106.415538,
+    31.781554,
+    -106.415538,
+    31.781554
+],
   "geometry": {"coordinates":[-106.415538,31.781554],"type":"Point"}
 }

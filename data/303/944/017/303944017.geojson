@@ -2,13 +2,14 @@
   "id": 303944017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.891134,35.141975,-101.891134,35.141975",
     "geom:latitude":35.141975,
     "geom:longitude":-101.891134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6334 Canyon Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303944017,
-    "wof:lastmodified":1448999341,
+    "wof:lastmodified":1467083753,
     "wof:name":"Howard's Mechanical",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-101.891134,35.141975,-101.891134,35.141975],
-  "geometry": {"coordinates":[-101.891134,35.141975],"type":"Point"}
+  "bbox": [
+    -101.891134,
+    35.141975,
+    -101.891134,
+    35.141975
+],
+  "geometry": {"coordinates":[-101.89113399999999,35.141975],"type":"Point"}
 }

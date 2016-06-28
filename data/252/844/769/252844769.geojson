@@ -2,13 +2,14 @@
   "id": 252844769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.881433,32.878083,-96.881433,32.878083",
     "geom:latitude":32.878083,
     "geom:longitude":-96.881433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 Congressman Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252844769,
-    "wof:lastmodified":1449005875,
+    "wof:lastmodified":1467084073,
     "wof:name":"Global Tobacco",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.881433,32.878083,-96.881433,32.878083],
+  "bbox": [
+    -96.881433,
+    32.878083,
+    -96.881433,
+    32.878083
+],
   "geometry": {"coordinates":[-96.881433,32.878083],"type":"Point"}
 }

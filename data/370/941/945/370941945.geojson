@@ -2,13 +2,14 @@
   "id": 370941945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.828242,32.748866,-96.828242,32.748866",
     "geom:latitude":32.748866,
     "geom:longitude":-96.828242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 W 7th St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370941945,
-    "wof:lastmodified":1449031098,
+    "wof:lastmodified":1467084519,
     "wof:name":"Brooklyn Cafe",
     "wof:parent_id":85882141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-96.828242,32.748866,-96.828242,32.748866],
+  "bbox": [
+    -96.828242,
+    32.748866,
+    -96.828242,
+    32.748866
+],
   "geometry": {"coordinates":[-96.828242,32.748866],"type":"Point"}
 }

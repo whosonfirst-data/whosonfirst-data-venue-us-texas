@@ -2,13 +2,14 @@
   "id": 186202375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.500499,28.705322,-100.500499,28.705322",
     "geom:latitude":28.705322,
     "geom:longitude":-100.500499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Monroe St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186202375,
-    "wof:lastmodified":1449052665,
+    "wof:lastmodified":1467084739,
     "wof:name":"Eagle Pass Police Dept",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-100.500499,28.705322,-100.500499,28.705322],
+  "bbox": [
+    -100.500499,
+    28.705322,
+    -100.500499,
+    28.705322
+],
   "geometry": {"coordinates":[-100.500499,28.705322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403714801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742239,30.314382,-97.742239,30.314382",
     "geom:latitude":30.314382,
     "geom:longitude":-97.742239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4408 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403714801,
-    "wof:lastmodified":1449055287,
+    "wof:lastmodified":1467084765,
     "wof:name":"Childrens Workshop",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.742239,30.314382,-97.742239,30.314382],
+  "bbox": [
+    -97.742239,
+    30.314382,
+    -97.742239,
+    30.314382
+],
   "geometry": {"coordinates":[-97.742239,30.314382],"type":"Point"}
 }

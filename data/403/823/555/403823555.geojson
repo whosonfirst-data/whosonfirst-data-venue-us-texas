@@ -2,13 +2,14 @@
   "id": 403823555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487388,29.421694,-98.487388,29.421694",
     "geom:latitude":29.421694,
     "geom:longitude":-98.487388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Hemisfair Plaza Way",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403823555,
-    "wof:lastmodified":1449055944,
+    "wof:lastmodified":1467084780,
     "wof:name":"Forest Service",
     "wof:parent_id":85871053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-98.487388,29.421694,-98.487388,29.421694],
+  "bbox": [
+    -98.487388,
+    29.421694,
+    -98.487388,
+    29.421694
+],
   "geometry": {"coordinates":[-98.487388,29.421694],"type":"Point"}
 }

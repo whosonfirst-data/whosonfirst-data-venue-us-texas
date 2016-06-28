@@ -2,13 +2,14 @@
   "id": 303391343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.710327,30.302892,-97.710327,30.302892",
     "geom:latitude":30.302892,
     "geom:longitude":-97.710327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Norwood Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303391343,
-    "wof:lastmodified":1448999682,
+    "wof:lastmodified":1467083770,
     "wof:name":"Austin Coffee Concierge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.710327,30.302892,-97.710327,30.302892],
-  "geometry": {"coordinates":[-97.710327,30.302892],"type":"Point"}
+  "bbox": [
+    -97.710327,
+    30.302892,
+    -97.710327,
+    30.302892
+],
+  "geometry": {"coordinates":[-97.71032700000001,30.302892],"type":"Point"}
 }

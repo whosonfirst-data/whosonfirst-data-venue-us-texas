@@ -2,13 +2,14 @@
   "id": 270271651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.526624,29.85748,-95.526624,29.85748",
     "geom:latitude":29.85748,
     "geom:longitude":-95.526624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Jameel Rd Ste 130",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270271651,
-    "wof:lastmodified":1449009921,
+    "wof:lastmodified":1467084192,
     "wof:name":"Quantum Builders",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.526624,29.85748,-95.526624,29.85748],
+  "bbox": [
+    -95.526624,
+    29.85748,
+    -95.526624,
+    29.85748
+],
   "geometry": {"coordinates":[-95.526624,29.85748],"type":"Point"}
 }

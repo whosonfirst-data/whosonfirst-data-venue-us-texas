@@ -2,13 +2,14 @@
   "id": 186207037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.487006,31.758304,-106.487006,31.758304",
     "geom:latitude":31.758304,
     "geom:longitude":-106.487006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E San Antonio Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186207037,
-    "wof:lastmodified":1449052238,
+    "wof:lastmodified":1467084730,
     "wof:name":"El Paso Credit Corp",
     "wof:parent_id":85871375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.487006,31.758304,-106.487006,31.758304],
-  "geometry": {"coordinates":[-106.487006,31.758304],"type":"Point"}
+  "bbox": [
+    -106.487006,
+    31.758304,
+    -106.487006,
+    31.758304
+],
+  "geometry": {"coordinates":[-106.48700599999999,31.758304],"type":"Point"}
 }

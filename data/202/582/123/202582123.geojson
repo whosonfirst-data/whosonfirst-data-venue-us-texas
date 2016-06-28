@@ -2,13 +2,14 @@
   "id": 202582123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.157564,32.70531,-97.157564,32.70531",
     "geom:latitude":32.70531,
     "geom:longitude":-97.157564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Michigan Ct",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582123,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1467084917,
     "wof:name":"BRG Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.157564,32.70531,-97.157564,32.70531],
-  "geometry": {"coordinates":[-97.157564,32.70531],"type":"Point"}
+  "bbox": [
+    -97.157564,
+    32.70531,
+    -97.157564,
+    32.70531
+],
+  "geometry": {"coordinates":[-97.15756399999999,32.70531],"type":"Point"}
 }

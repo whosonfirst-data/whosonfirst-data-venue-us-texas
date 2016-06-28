@@ -2,13 +2,14 @@
   "id": 269591783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.326591,33.205088,-97.326591,33.205088",
     "geom:latitude":33.205088,
     "geom:longitude":-97.326591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4919 Schluter Rd",
     "sg:city":"Ponder",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269591783,
-    "wof:lastmodified":1449037423,
+    "wof:lastmodified":1467084607,
     "wof:name":"A & T Tax Svc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-97.326591,33.205088,-97.326591,33.205088],
-  "geometry": {"coordinates":[-97.326591,33.205088],"type":"Point"}
+  "bbox": [
+    -97.326591,
+    33.205088,
+    -97.326591,
+    33.205088
+],
+  "geometry": {"coordinates":[-97.32659099999999,33.205088],"type":"Point"}
 }

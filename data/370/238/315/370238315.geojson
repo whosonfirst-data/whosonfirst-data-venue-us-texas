@@ -2,13 +2,14 @@
   "id": 370238315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.24337,30.560741,-96.24337,30.560741",
     "geom:latitude":30.560741,
     "geom:longitude":-96.24337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Berry Creek",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370238315,
-    "wof:lastmodified":1449030354,
+    "wof:lastmodified":1467084501,
     "wof:name":"Integrated Health Svc",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.24337,30.560741,-96.24337,30.560741],
+  "bbox": [
+    -96.24337,
+    30.560741,
+    -96.24337,
+    30.560741
+],
   "geometry": {"coordinates":[-96.24337,30.560741],"type":"Point"}
 }

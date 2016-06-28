@@ -2,13 +2,14 @@
   "id": 387951855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.352652,31.777373,-106.352652,31.777373",
     "geom:latitude":31.777373,
     "geom:longitude":-106.352652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Ceylon Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387951855,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1467084789,
     "wof:name":"Wilkerson Autioneering",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.352652,31.777373,-106.352652,31.777373],
-  "geometry": {"coordinates":[-106.352652,31.777373],"type":"Point"}
+  "bbox": [
+    -106.352652,
+    31.777373,
+    -106.352652,
+    31.777373
+],
+  "geometry": {"coordinates":[-106.35265200000001,31.777373],"type":"Point"}
 }

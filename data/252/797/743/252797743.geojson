@@ -2,13 +2,14 @@
   "id": 252797743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.675728,29.895339,-95.675728,29.895339",
     "geom:latitude":29.895339,
     "geom:longitude":-95.675728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8002 W Copper Lakes Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252797743,
-    "wof:lastmodified":1449006410,
+    "wof:lastmodified":1467084103,
     "wof:name":"Ecolotrest",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.675728,29.895339,-95.675728,29.895339],
-  "geometry": {"coordinates":[-95.675728,29.895339],"type":"Point"}
+  "bbox": [
+    -95.675728,
+    29.895339,
+    -95.675728,
+    29.895339
+],
+  "geometry": {"coordinates":[-95.67572800000001,29.895339],"type":"Point"}
 }

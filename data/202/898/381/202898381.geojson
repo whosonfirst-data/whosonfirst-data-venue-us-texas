@@ -2,13 +2,14 @@
   "id": 202898381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.989651,35.543162,-100.989651,35.543162",
     "geom:latitude":35.543162,
     "geom:longitude":-100.989651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 N Price Rd",
     "sg:city":"Pampa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202898381,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1467084886,
     "wof:name":"Curtis Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "oil"
     ]
 },
-  "bbox": [-100.989651,35.543162,-100.989651,35.543162],
-  "geometry": {"coordinates":[-100.989651,35.543162],"type":"Point"}
+  "bbox": [
+    -100.989651,
+    35.543162,
+    -100.989651,
+    35.543162
+],
+  "geometry": {"coordinates":[-100.98965099999999,35.543162],"type":"Point"}
 }

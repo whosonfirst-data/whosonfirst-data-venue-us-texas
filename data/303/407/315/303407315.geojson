@@ -2,13 +2,14 @@
   "id": 303407315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.63243,30.289774,-97.63243,30.289774",
     "geom:latitude":30.289774,
     "geom:longitude":-97.63243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 Bagby Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303407315,
-    "wof:lastmodified":1448999479,
+    "wof:lastmodified":1467083759,
     "wof:name":"Air Sanitation",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-97.63243,30.289774,-97.63243,30.289774],
+  "bbox": [
+    -97.63243,
+    30.289774,
+    -97.63243,
+    30.289774
+],
   "geometry": {"coordinates":[-97.63243,30.289774],"type":"Point"}
 }

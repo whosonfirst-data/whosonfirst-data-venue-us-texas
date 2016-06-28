@@ -2,13 +2,14 @@
   "id": 387381935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.320197,30.116749,-97.320197,30.116749",
     "geom:latitude":30.116749,
     "geom:longitude":-97.320197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Cedar St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387381935,
-    "wof:lastmodified":1449056421,
+    "wof:lastmodified":1467084792,
     "wof:name":"ARS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-97.320197,30.116749,-97.320197,30.116749],
-  "geometry": {"coordinates":[-97.320197,30.116749],"type":"Point"}
+  "bbox": [
+    -97.320197,
+    30.116749,
+    -97.320197,
+    30.116749
+],
+  "geometry": {"coordinates":[-97.32019699999999,30.116749],"type":"Point"}
 }

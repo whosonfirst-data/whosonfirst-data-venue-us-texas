@@ -2,13 +2,14 @@
   "id": 354073963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.487777,32.085151,-96.487777,32.085151",
     "geom:latitude":32.085151,
     "geom:longitude":-96.487777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2331 W 3rd Ave",
     "sg:city":"Corsicana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354073963,
-    "wof:lastmodified":1449066165,
+    "wof:lastmodified":1467085057,
     "wof:name":"Donald Hogan Trucking",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.487777,32.085151,-96.487777,32.085151],
-  "geometry": {"coordinates":[-96.487777,32.085151],"type":"Point"}
+  "bbox": [
+    -96.487777,
+    32.085151,
+    -96.487777,
+    32.085151
+],
+  "geometry": {"coordinates":[-96.48777699999999,32.085151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253209815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145547,31.54302,-97.145547,31.54302",
     "geom:latitude":31.54302,
     "geom:longitude":-97.145547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Franklin Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253209815,
-    "wof:lastmodified":1449065464,
+    "wof:lastmodified":1467085036,
     "wof:name":"Texus Medical Inc",
     "wof:parent_id":85881729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-97.145547,31.54302,-97.145547,31.54302],
-  "geometry": {"coordinates":[-97.145547,31.54302],"type":"Point"}
+  "bbox": [
+    -97.145547,
+    31.54302,
+    -97.145547,
+    31.54302
+],
+  "geometry": {"coordinates":[-97.14554699999999,31.54302],"type":"Point"}
 }

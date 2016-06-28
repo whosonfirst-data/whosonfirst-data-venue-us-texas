@@ -2,13 +2,14 @@
   "id": 269624467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234001,32.226379,-98.234001,32.226379",
     "geom:latitude":32.226379,
     "geom:longitude":-98.234001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Bluebonnet St Apt 101",
     "sg:city":"Stephenville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":269624467,
-    "wof:lastmodified":1449037760,
+    "wof:lastmodified":1467084617,
     "wof:name":"Bluebonnet Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-98.234001,32.226379,-98.234001,32.226379],
-  "geometry": {"coordinates":[-98.234001,32.226379],"type":"Point"}
+  "bbox": [
+    -98.234001,
+    32.226379,
+    -98.234001,
+    32.226379
+],
+  "geometry": {"coordinates":[-98.23400100000001,32.226379],"type":"Point"}
 }

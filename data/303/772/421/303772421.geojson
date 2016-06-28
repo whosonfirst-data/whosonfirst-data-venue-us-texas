@@ -2,13 +2,14 @@
   "id": 303772421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.735549,30.353358,-97.735549,30.353358",
     "geom:latitude":30.353358,
     "geom:longitude":-97.735549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Northcross Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303772421,
-    "wof:lastmodified":1448999217,
+    "wof:lastmodified":1467083746,
     "wof:name":"USPS - United States Post Office - Northcross Station",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.735549,30.353358,-97.735549,30.353358],
-  "geometry": {"coordinates":[-97.735549,30.353358],"type":"Point"}
+  "bbox": [
+    -97.735549,
+    30.353358,
+    -97.735549,
+    30.353358
+],
+  "geometry": {"coordinates":[-97.73554900000001,30.353358],"type":"Point"}
 }

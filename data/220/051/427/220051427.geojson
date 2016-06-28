@@ -2,13 +2,14 @@
   "id": 220051427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.534827,29.523674,-98.534827,29.523674",
     "geom:latitude":29.523674,
     "geom:longitude":-98.534827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Old Brook Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220051427,
-    "wof:lastmodified":1449074534,
+    "wof:lastmodified":1467085188,
     "wof:name":"Bugs Be Gone",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disinfecting"
     ]
 },
-  "bbox": [-98.534827,29.523674,-98.534827,29.523674],
-  "geometry": {"coordinates":[-98.534827,29.523674],"type":"Point"}
+  "bbox": [
+    -98.534827,
+    29.523674,
+    -98.534827,
+    29.523674
+],
+  "geometry": {"coordinates":[-98.53482700000001,29.523674],"type":"Point"}
 }

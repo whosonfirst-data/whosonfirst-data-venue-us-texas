@@ -2,13 +2,14 @@
   "id": 353489639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476373,29.732007,-95.476373,29.732007",
     "geom:latitude":29.732007,
     "geom:longitude":-95.476373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Chimney Rock Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353489639,
-    "wof:lastmodified":1449019660,
+    "wof:lastmodified":1467084352,
     "wof:name":"Gulf Coast Shipping",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporter"
     ]
 },
-  "bbox": [-95.476373,29.732007,-95.476373,29.732007],
+  "bbox": [
+    -95.476373,
+    29.732007,
+    -95.476373,
+    29.732007
+],
   "geometry": {"coordinates":[-95.476373,29.732007],"type":"Point"}
 }

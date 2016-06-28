@@ -2,13 +2,14 @@
   "id": 202489541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.281157,29.577098,-95.281157,29.577098",
     "geom:latitude":29.577098,
     "geom:longitude":-95.281157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Halik St",
     "sg:city":"Pearland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202489541,
-    "wof:lastmodified":1449061496,
+    "wof:lastmodified":1467084917,
     "wof:name":"Southern Meter Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meter"
     ]
 },
-  "bbox": [-95.281157,29.577098,-95.281157,29.577098],
-  "geometry": {"coordinates":[-95.281157,29.577098],"type":"Point"}
+  "bbox": [
+    -95.281157,
+    29.577098,
+    -95.281157,
+    29.577098
+],
+  "geometry": {"coordinates":[-95.28115699999999,29.577098],"type":"Point"}
 }

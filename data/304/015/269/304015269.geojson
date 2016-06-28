@@ -2,13 +2,14 @@
   "id": 304015269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.911306,33.531849,-101.911306,33.531849",
     "geom:latitude":33.531849,
     "geom:longitude":-101.911306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 S Loop 289 Ste 22",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304015269,
-    "wof:lastmodified":1449043702,
+    "wof:lastmodified":1467084662,
     "wof:name":"International Tours-Worldwide",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-101.911306,33.531849,-101.911306,33.531849],
+  "bbox": [
+    -101.911306,
+    33.531849,
+    -101.911306,
+    33.531849
+],
   "geometry": {"coordinates":[-101.911306,33.531849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203320795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640994,32.815994,-96.640994,32.815994",
     "geom:latitude":32.815994,
     "geom:longitude":-96.640994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Casa Ridge Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203320795,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1467084393,
     "wof:name":"Texas Searches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-96.640994,32.815994,-96.640994,32.815994],
-  "geometry": {"coordinates":[-96.640994,32.815994],"type":"Point"}
+  "bbox": [
+    -96.640994,
+    32.815994,
+    -96.640994,
+    32.815994
+],
+  "geometry": {"coordinates":[-96.64099400000001,32.815994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236853745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805169,32.783316,-96.805169,32.783316",
     "geom:latitude":32.783316,
     "geom:longitude":-96.805169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Market St Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236853745,
-    "wof:lastmodified":1449002897,
+    "wof:lastmodified":1467083928,
     "wof:name":"Frontline Source Group",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805169,32.783316,-96.805169,32.783316],
-  "geometry": {"coordinates":[-96.805169,32.783316],"type":"Point"}
+  "bbox": [
+    -96.805169,
+    32.783316,
+    -96.805169,
+    32.783316
+],
+  "geometry": {"coordinates":[-96.80516900000001,32.783316],"type":"Point"}
 }

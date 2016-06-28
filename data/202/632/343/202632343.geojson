@@ -2,13 +2,14 @@
   "id": 202632343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.559546,29.483891,-98.559546,29.483891",
     "geom:latitude":29.483891,
     "geom:longitude":-98.559546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Hillcrest Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202632343,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1467084921,
     "wof:name":"Hair & Things",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.559546,29.483891,-98.559546,29.483891],
+  "bbox": [
+    -98.559546,
+    29.483891,
+    -98.559546,
+    29.483891
+],
   "geometry": {"coordinates":[-98.559546,29.483891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303328399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.775398,30.2328,-97.775398,30.2328",
     "geom:latitude":30.2328,
     "geom:longitude":-97.775398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Southport Dr Apt 117",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303328399,
-    "wof:lastmodified":1448999562,
+    "wof:lastmodified":1467083763,
     "wof:name":"Southport Apartments",
     "wof:parent_id":85869931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.775398,30.2328,-97.775398,30.2328],
+  "bbox": [
+    -97.775398,
+    30.2328,
+    -97.775398,
+    30.2328
+],
   "geometry": {"coordinates":[-97.775398,30.2328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270444505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.102192,29.58991,-95.102192,29.58991",
     "geom:latitude":29.58991,
     "geom:longitude":-95.102192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bay Area Blvd Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270444505,
-    "wof:lastmodified":1449010754,
+    "wof:lastmodified":1467084220,
     "wof:name":"Costal Flow Measurement",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "data"
     ]
 },
-  "bbox": [-95.102192,29.58991,-95.102192,29.58991],
+  "bbox": [
+    -95.102192,
+    29.58991,
+    -95.102192,
+    29.58991
+],
   "geometry": {"coordinates":[-95.102192,29.58991],"type":"Point"}
 }

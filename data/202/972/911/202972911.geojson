@@ -2,13 +2,14 @@
   "id": 202972911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.611079,32.977878,-96.611079,32.977878",
     "geom:latitude":32.977878,
     "geom:longitude":-96.611079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Meadow Ln",
     "sg:city":"Sachse",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202972911,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1467084915,
     "wof:name":"Acme Air Conditioning",
     "wof:parent_id":85877679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.611079,32.977878,-96.611079,32.977878],
+  "bbox": [
+    -96.611079,
+    32.977878,
+    -96.611079,
+    32.977878
+],
   "geometry": {"coordinates":[-96.611079,32.977878],"type":"Point"}
 }

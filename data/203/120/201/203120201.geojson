@@ -2,13 +2,14 @@
   "id": 203120201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789775,32.923285,-96.789775,32.923285",
     "geom:latitude":32.923285,
     "geom:longitude":-96.789775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 Hillcrest Plaza Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203120201,
-    "wof:lastmodified":1449026586,
+    "wof:lastmodified":1467084415,
     "wof:name":"Helene S Cohen",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.789775,32.923285,-96.789775,32.923285],
-  "geometry": {"coordinates":[-96.789775,32.923285],"type":"Point"}
+  "bbox": [
+    -96.789775,
+    32.923285,
+    -96.789775,
+    32.923285
+],
+  "geometry": {"coordinates":[-96.78977500000001,32.923285],"type":"Point"}
 }

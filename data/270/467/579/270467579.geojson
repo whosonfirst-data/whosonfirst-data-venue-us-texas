@@ -2,13 +2,14 @@
   "id": 270467579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.520699,29.730101,-95.520699,29.730101",
     "geom:latitude":29.730101,
     "geom:longitude":-95.520699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3222 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270467579,
-    "wof:lastmodified":1449010536,
+    "wof:lastmodified":1467084212,
     "wof:name":"Club Tropicana",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.520699,29.730101,-95.520699,29.730101],
-  "geometry": {"coordinates":[-95.520699,29.730101],"type":"Point"}
+  "bbox": [
+    -95.520699,
+    29.730101,
+    -95.520699,
+    29.730101
+],
+  "geometry": {"coordinates":[-95.52069899999999,29.730101],"type":"Point"}
 }

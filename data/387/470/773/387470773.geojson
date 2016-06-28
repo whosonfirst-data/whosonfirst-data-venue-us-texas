@@ -2,13 +2,14 @@
   "id": 387470773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.691488,30.545621,-97.691488,30.545621",
     "geom:latitude":30.545621,
     "geom:longitude":-97.691488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Tom Gary Cove",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387470773,
-    "wof:lastmodified":1449057022,
+    "wof:lastmodified":1467084807,
     "wof:name":"Freight Liner of Austin",
     "wof:parent_id":85893917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.691488,30.545621,-97.691488,30.545621],
-  "geometry": {"coordinates":[-97.691488,30.545621],"type":"Point"}
+  "bbox": [
+    -97.691488,
+    30.545621,
+    -97.691488,
+    30.545621
+],
+  "geometry": {"coordinates":[-97.69148800000001,30.545621],"type":"Point"}
 }

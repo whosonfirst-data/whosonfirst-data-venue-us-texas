@@ -2,13 +2,14 @@
   "id": 303356315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7399,30.303709,-97.7399,30.303709",
     "geom:latitude":30.303709,
     "geom:longitude":-97.7399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W 38th St Ste G1",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303356315,
-    "wof:lastmodified":1449000130,
+    "wof:lastmodified":1467083792,
     "wof:name":"Austin Ocular Prosthetics Center",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artificial"
     ]
 },
-  "bbox": [-97.7399,30.303709,-97.7399,30.303709],
-  "geometry": {"coordinates":[-97.7399,30.303709],"type":"Point"}
+  "bbox": [
+    -97.7399,
+    30.303709,
+    -97.7399,
+    30.303709
+],
+  "geometry": {"coordinates":[-97.73990000000001,30.303709],"type":"Point"}
 }

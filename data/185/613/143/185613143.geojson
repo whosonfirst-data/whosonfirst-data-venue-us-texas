@@ -2,13 +2,14 @@
   "id": 185613143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.620961,32.861296,-96.620961,32.861296",
     "geom:latitude":32.861296,
     "geom:longitude":-96.620961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4238 Duck Creek Dr",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185613143,
-    "wof:lastmodified":1449007365,
+    "wof:lastmodified":1467084124,
     "wof:name":"Sloan 6 Courier Service",
     "wof:parent_id":85877693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.620961,32.861296,-96.620961,32.861296],
-  "geometry": {"coordinates":[-96.620961,32.861296],"type":"Point"}
+  "bbox": [
+    -96.620961,
+    32.861296,
+    -96.620961,
+    32.861296
+],
+  "geometry": {"coordinates":[-96.62096099999999,32.861296],"type":"Point"}
 }

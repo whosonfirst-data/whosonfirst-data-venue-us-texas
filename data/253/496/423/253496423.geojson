@@ -2,13 +2,14 @@
   "id": 253496423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.301813,32.334975,-95.301813,32.334975",
     "geom:latitude":32.334975,
     "geom:longitude":-95.301813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W 1st St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253496423,
-    "wof:lastmodified":1449065325,
+    "wof:lastmodified":1467085031,
     "wof:name":"Happy Hour Bar",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-95.301813,32.334975,-95.301813,32.334975],
+  "bbox": [
+    -95.301813,
+    32.334975,
+    -95.301813,
+    32.334975
+],
   "geometry": {"coordinates":[-95.301813,32.334975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202921009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.269168,32.731304,-97.269168,32.731304",
     "geom:latitude":32.731304,
     "geom:longitude":-97.269168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 E Rosedale St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202921009,
-    "wof:lastmodified":1449061721,
+    "wof:lastmodified":1467084922,
     "wof:name":"B & G Food Store",
     "wof:parent_id":85897391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.269168,32.731304,-97.269168,32.731304],
-  "geometry": {"coordinates":[-97.269168,32.731304],"type":"Point"}
+  "bbox": [
+    -97.269168,
+    32.731304,
+    -97.269168,
+    32.731304
+],
+  "geometry": {"coordinates":[-97.26916799999999,32.731304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303814925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753958,30.368231,-97.753958,30.368231",
     "geom:latitude":30.368231,
     "geom:longitude":-97.753958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4019 Spicewood Springs Rd Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303814925,
-    "wof:lastmodified":1448998563,
+    "wof:lastmodified":1467083713,
     "wof:name":"L. Shawn Wong, MD",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgery/lasik"
     ]
 },
-  "bbox": [-97.753958,30.368231,-97.753958,30.368231],
+  "bbox": [
+    -97.753958,
+    30.368231,
+    -97.753958,
+    30.368231
+],
   "geometry": {"coordinates":[-97.753958,30.368231],"type":"Point"}
 }

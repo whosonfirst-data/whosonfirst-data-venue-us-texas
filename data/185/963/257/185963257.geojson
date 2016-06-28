@@ -2,13 +2,14 @@
   "id": 185963257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.721668,32.391673,-99.721668,32.391673",
     "geom:latitude":32.391673,
     "geom:longitude":-99.721668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 Eagle Pass Rd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185963257,
-    "wof:lastmodified":1449006766,
+    "wof:lastmodified":1467084114,
     "wof:name":"Dynegy",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-99.721668,32.391673,-99.721668,32.391673],
-  "geometry": {"coordinates":[-99.721668,32.391673],"type":"Point"}
+  "bbox": [
+    -99.721668,
+    32.391673,
+    -99.721668,
+    32.391673
+],
+  "geometry": {"coordinates":[-99.72166799999999,32.391673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303571155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.768916,30.183734,-97.768916,30.183734",
     "geom:latitude":30.183734,
     "geom:longitude":-97.768916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Bluff Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303571155,
-    "wof:lastmodified":1448999786,
+    "wof:lastmodified":1467083775,
     "wof:name":"Central Texas Medical",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.768916,30.183734,-97.768916,30.183734],
+  "bbox": [
+    -97.768916,
+    30.183734,
+    -97.768916,
+    30.183734
+],
   "geometry": {"coordinates":[-97.768916,30.183734],"type":"Point"}
 }

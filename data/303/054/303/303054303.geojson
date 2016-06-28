@@ -2,13 +2,14 @@
   "id": 303054303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.32004,30.111678,-97.32004,30.111678",
     "geom:latitude":30.111678,
     "geom:longitude":-97.32004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Main St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303054303,
-    "wof:lastmodified":1448999269,
+    "wof:lastmodified":1467083749,
     "wof:name":"Bastrop Academy Of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "instruments-supplies"
     ]
 },
-  "bbox": [-97.32004,30.111678,-97.32004,30.111678],
-  "geometry": {"coordinates":[-97.32004,30.111678],"type":"Point"}
+  "bbox": [
+    -97.32004,
+    30.111678,
+    -97.32004,
+    30.111678
+],
+  "geometry": {"coordinates":[-97.32004000000001,30.111678],"type":"Point"}
 }

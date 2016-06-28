@@ -2,13 +2,14 @@
   "id": 354412135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.918241,32.720068,-100.918241,32.720068",
     "geom:latitude":32.720068,
     "geom:longitude":-100.918241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 College Ave",
     "sg:city":"Snyder",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354412135,
-    "wof:lastmodified":1449066275,
+    "wof:lastmodified":1467085060,
     "wof:name":"Spanish Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.918241,32.720068,-100.918241,32.720068],
-  "geometry": {"coordinates":[-100.918241,32.720068],"type":"Point"}
+  "bbox": [
+    -100.918241,
+    32.720068,
+    -100.918241,
+    32.720068
+],
+  "geometry": {"coordinates":[-100.91824099999999,32.720068],"type":"Point"}
 }

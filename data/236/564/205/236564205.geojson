@@ -2,13 +2,14 @@
   "id": 236564205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.147889,32.837532,-97.147889,32.837532",
     "geom:latitude":32.837532,
     "geom:longitude":-97.147889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Airport Fwy",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236564205,
-    "wof:lastmodified":1449005016,
+    "wof:lastmodified":1467084028,
     "wof:name":"Water By The Gallon",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-97.147889,32.837532,-97.147889,32.837532],
-  "geometry": {"coordinates":[-97.147889,32.837532],"type":"Point"}
+  "bbox": [
+    -97.147889,
+    32.837532,
+    -97.147889,
+    32.837532
+],
+  "geometry": {"coordinates":[-97.14788900000001,32.837532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220169963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.525199,29.55117,-98.525199,29.55117",
     "geom:latitude":29.55117,
     "geom:longitude":-98.525199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Tarton Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220169963,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1467085188,
     "wof:name":"Tarton Lane Interiors",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-98.525199,29.55117,-98.525199,29.55117],
+  "bbox": [
+    -98.525199,
+    29.55117,
+    -98.525199,
+    29.55117
+],
   "geometry": {"coordinates":[-98.525199,29.55117],"type":"Point"}
 }

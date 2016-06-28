@@ -2,13 +2,14 @@
   "id": 303321697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.758741,30.239811,-97.758741,30.239811",
     "geom:latitude":30.239811,
     "geom:longitude":-97.758741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Durwood St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303321697,
-    "wof:lastmodified":1448998173,
+    "wof:lastmodified":1467083694,
     "wof:name":"City of Austin Health-Fax",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "state"
     ]
 },
-  "bbox": [-97.758741,30.239811,-97.758741,30.239811],
+  "bbox": [
+    -97.758741,
+    30.239811,
+    -97.758741,
+    30.239811
+],
   "geometry": {"coordinates":[-97.758741,30.239811],"type":"Point"}
 }

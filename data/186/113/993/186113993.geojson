@@ -2,13 +2,14 @@
   "id": 186113993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.541958,29.480462,-98.541958,29.480462",
     "geom:latitude":29.480462,
     "geom:longitude":-98.541958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186113993,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1467084742,
     "wof:name":"Andrea's Flowers & Gifts",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.541958,29.480462,-98.541958,29.480462],
-  "geometry": {"coordinates":[-98.541958,29.480462],"type":"Point"}
+  "bbox": [
+    -98.541958,
+    29.480462,
+    -98.541958,
+    29.480462
+],
+  "geometry": {"coordinates":[-98.54195799999999,29.480462],"type":"Point"}
 }

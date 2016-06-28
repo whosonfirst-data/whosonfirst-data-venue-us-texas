@@ -2,13 +2,14 @@
   "id": 337322497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.57237,33.119099,-98.57237,33.119099",
     "geom:latitude":33.119099,
     "geom:longitude":-98.57237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Avenue F",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337322497,
-    "wof:lastmodified":1449026923,
+    "wof:lastmodified":1467084422,
     "wof:name":"City Convenience Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-98.57237,33.119099,-98.57237,33.119099],
-  "geometry": {"coordinates":[-98.57237,33.119099],"type":"Point"}
+  "bbox": [
+    -98.57237,
+    33.119099,
+    -98.57237,
+    33.119099
+],
+  "geometry": {"coordinates":[-98.57237000000001,33.119099],"type":"Point"}
 }

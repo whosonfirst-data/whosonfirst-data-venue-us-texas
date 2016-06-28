@@ -2,13 +2,14 @@
   "id": 286502025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556704,30.723534,-95.556704,30.723534",
     "geom:latitude":30.723534,
     "geom:longitude":-95.556704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 11th St Ste E",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286502025,
-    "wof:lastmodified":1449016539,
+    "wof:lastmodified":1467084273,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-95.556704,30.723534,-95.556704,30.723534],
+  "bbox": [
+    -95.556704,
+    30.723534,
+    -95.556704,
+    30.723534
+],
   "geometry": {"coordinates":[-95.556704,30.723534],"type":"Point"}
 }

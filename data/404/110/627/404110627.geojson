@@ -2,13 +2,14 @@
   "id": 404110627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753126,30.548237,-97.753126,30.548237",
     "geom:latitude":30.548237,
     "geom:longitude":-97.753126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3713 Galena Hills Loop",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404110627,
-    "wof:lastmodified":1449039411,
+    "wof:lastmodified":1467084646,
     "wof:name":"Guess Financial Svc Inc",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-97.753126,30.548237,-97.753126,30.548237],
-  "geometry": {"coordinates":[-97.753126,30.548237],"type":"Point"}
+  "bbox": [
+    -97.753126,
+    30.548237,
+    -97.753126,
+    30.548237
+],
+  "geometry": {"coordinates":[-97.75312599999999,30.548237],"type":"Point"}
 }

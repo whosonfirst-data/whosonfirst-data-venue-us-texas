@@ -2,13 +2,14 @@
   "id": 370662261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.919036,32.022171,-101.919036,32.022171",
     "geom:latitude":32.022171,
     "geom:longitude":-101.919036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9002 FM 307",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370662261,
-    "wof:lastmodified":1449031367,
+    "wof:lastmodified":1467084526,
     "wof:name":"Greenwood Storage & Carwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "washing"
     ]
 },
-  "bbox": [-101.919036,32.022171,-101.919036,32.022171],
-  "geometry": {"coordinates":[-101.919036,32.022171],"type":"Point"}
+  "bbox": [
+    -101.919036,
+    32.022171,
+    -101.919036,
+    32.022171
+],
+  "geometry": {"coordinates":[-101.91903600000001,32.022171],"type":"Point"}
 }

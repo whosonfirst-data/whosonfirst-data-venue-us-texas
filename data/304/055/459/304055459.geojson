@@ -2,13 +2,14 @@
   "id": 304055459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.746496,32.37748,-99.746496,32.37748",
     "geom:latitude":32.37748,
     "geom:longitude":-99.746496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Windmill Cir Ste A",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304055459,
-    "wof:lastmodified":1449043688,
+    "wof:lastmodified":1467084662,
     "wof:name":"Pickens Painting Contractors Inc",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "painting"
     ]
 },
-  "bbox": [-99.746496,32.37748,-99.746496,32.37748],
-  "geometry": {"coordinates":[-99.746496,32.37748],"type":"Point"}
+  "bbox": [
+    -99.746496,
+    32.37748,
+    -99.746496,
+    32.37748
+],
+  "geometry": {"coordinates":[-99.74649599999999,32.37748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370638961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.473814,27.478643,-99.473814,27.478643",
     "geom:latitude":27.478643,
     "geom:longitude":-99.473814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 S Zapata Hwy",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370638961,
-    "wof:lastmodified":1449029267,
+    "wof:lastmodified":1467084473,
     "wof:name":"Gateway Community Health Ctr",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.473814,27.478643,-99.473814,27.478643],
+  "bbox": [
+    -99.473814,
+    27.478643,
+    -99.473814,
+    27.478643
+],
   "geometry": {"coordinates":[-99.473814,27.478643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219475563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.70556,30.30731,-97.70556,30.30731",
     "geom:latitude":30.30731,
     "geom:longitude":-97.70556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 E 51st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219475563,
-    "wof:lastmodified":1449071850,
+    "wof:lastmodified":1467085130,
     "wof:name":"Chapman/Leonard Studio Equipme",
     "wof:parent_id":85893565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "audio"
     ]
 },
-  "bbox": [-97.70556,30.30731,-97.70556,30.30731],
-  "geometry": {"coordinates":[-97.70556,30.30731],"type":"Point"}
+  "bbox": [
+    -97.70556,
+    30.30731,
+    -97.70556,
+    30.30731
+],
+  "geometry": {"coordinates":[-97.70556000000001,30.30731],"type":"Point"}
 }

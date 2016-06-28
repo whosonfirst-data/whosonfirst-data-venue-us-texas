@@ -2,13 +2,14 @@
   "id": 270433515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.484352,29.735243,-95.484352,29.735243",
     "geom:latitude":29.735243,
     "geom:longitude":-95.484352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Fountain View Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270433515,
-    "wof:lastmodified":1449008927,
+    "wof:lastmodified":1467084159,
     "wof:name":"T M Alterations",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alterations-clothing"
     ]
 },
-  "bbox": [-95.484352,29.735243,-95.484352,29.735243],
+  "bbox": [
+    -95.484352,
+    29.735243,
+    -95.484352,
+    29.735243
+],
   "geometry": {"coordinates":[-95.484352,29.735243],"type":"Point"}
 }

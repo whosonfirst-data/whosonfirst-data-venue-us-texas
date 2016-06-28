@@ -2,13 +2,14 @@
   "id": 253253671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806198,32.994202,-96.806198,32.994202",
     "geom:latitude":32.994202,
     "geom:longitude":-96.806198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17820 Campbell Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253253671,
-    "wof:lastmodified":1449065408,
+    "wof:lastmodified":1467085034,
     "wof:name":"Plano Isd",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.806198,32.994202,-96.806198,32.994202],
-  "geometry": {"coordinates":[-96.806198,32.994202],"type":"Point"}
+  "bbox": [
+    -96.806198,
+    32.994202,
+    -96.806198,
+    32.994202
+],
+  "geometry": {"coordinates":[-96.80619799999999,32.994202],"type":"Point"}
 }

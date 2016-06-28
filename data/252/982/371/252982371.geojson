@@ -2,13 +2,14 @@
   "id": 252982371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.310013,32.588996,-96.310013,32.588996",
     "geom:latitude":32.588996,
     "geom:longitude":-96.310013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Mulberry St",
     "sg:city":"Kaufman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252982371,
-    "wof:lastmodified":1449005601,
+    "wof:lastmodified":1467084058,
     "wof:name":"Kaufman Physical Therapy",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [-96.310013,32.588996,-96.310013,32.588996],
+  "bbox": [
+    -96.310013,
+    32.588996,
+    -96.310013,
+    32.588996
+],
   "geometry": {"coordinates":[-96.310013,32.588996],"type":"Point"}
 }

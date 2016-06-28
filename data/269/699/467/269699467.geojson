@@ -2,13 +2,14 @@
   "id": 269699467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60712,31.075099,-97.60712,31.075099",
     "geom:latitude":31.075099,
     "geom:longitude":-97.60712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Nolanville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269699467,
-    "wof:lastmodified":1449036462,
+    "wof:lastmodified":1467084581,
     "wof:name":"USPS - United States Post Office - Nolanville Main Office",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.60712,31.075099,-97.60712,31.075099],
-  "geometry": {"coordinates":[-97.60712,31.075099],"type":"Point"}
+  "bbox": [
+    -97.60712,
+    31.075099,
+    -97.60712,
+    31.075099
+],
+  "geometry": {"coordinates":[-97.60711999999999,31.075099],"type":"Point"}
 }

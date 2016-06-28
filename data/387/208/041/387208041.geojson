@@ -2,13 +2,14 @@
   "id": 387208041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.880746,33.592209,-101.880746,33.592209",
     "geom:latitude":33.592209,
     "geom:longitude":-101.880746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2903 4th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387208041,
-    "wof:lastmodified":1449056552,
+    "wof:lastmodified":1467084796,
     "wof:name":"Texas Tech University Press",
     "wof:parent_id":85893809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-101.880746,33.592209,-101.880746,33.592209],
+  "bbox": [
+    -101.880746,
+    33.592209,
+    -101.880746,
+    33.592209
+],
   "geometry": {"coordinates":[-101.880746,33.592209],"type":"Point"}
 }

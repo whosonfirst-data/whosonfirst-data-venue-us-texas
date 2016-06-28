@@ -2,13 +2,14 @@
   "id": 303799367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.709358,30.391448,-97.709358,30.391448",
     "geom:latitude":30.391448,
     "geom:longitude":-97.709358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11212 Metric Blvd Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303799367,
-    "wof:lastmodified":1449000580,
+    "wof:lastmodified":1467083813,
     "wof:name":"Pollock Paper Distributors",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.709358,30.391448,-97.709358,30.391448],
-  "geometry": {"coordinates":[-97.709358,30.391448],"type":"Point"}
+  "bbox": [
+    -97.709358,
+    30.391448,
+    -97.709358,
+    30.391448
+],
+  "geometry": {"coordinates":[-97.70935799999999,30.391448],"type":"Point"}
 }

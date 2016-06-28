@@ -2,13 +2,14 @@
   "id": 219354753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720009,30.259852,-97.720009,30.259852",
     "geom:latitude":30.259852,
     "geom:longitude":-97.720009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 E 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219354753,
-    "wof:lastmodified":1449073519,
+    "wof:lastmodified":1467085166,
     "wof:name":"Trans Texas Alliance",
     "wof:parent_id":85841417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.720009,30.259852,-97.720009,30.259852],
+  "bbox": [
+    -97.720009,
+    30.259852,
+    -97.720009,
+    30.259852
+],
   "geometry": {"coordinates":[-97.720009,30.259852],"type":"Point"}
 }

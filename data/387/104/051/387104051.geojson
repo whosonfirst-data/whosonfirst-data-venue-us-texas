@@ -2,13 +2,14 @@
   "id": 387104051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.497537,33.174115,-96.497537,33.174115",
     "geom:latitude":33.174115,
     "geom:longitude":-96.497537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Princeton Dr",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387104051,
-    "wof:lastmodified":1449057671,
+    "wof:lastmodified":1467084824,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85834389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.497537,33.174115,-96.497537,33.174115],
-  "geometry": {"coordinates":[-96.497537,33.174115],"type":"Point"}
+  "bbox": [
+    -96.497537,
+    33.174115,
+    -96.497537,
+    33.174115
+],
+  "geometry": {"coordinates":[-96.49753699999999,33.174115],"type":"Point"}
 }

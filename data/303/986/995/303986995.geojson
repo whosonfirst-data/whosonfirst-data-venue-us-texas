@@ -2,13 +2,14 @@
   "id": 303986995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.842295,33.595432,-101.842295,33.595432",
     "geom:latitude":33.595432,
     "geom:longitude":-101.842295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 2nd Pl",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303986995,
-    "wof:lastmodified":1449000091,
+    "wof:lastmodified":1467083790,
     "wof:name":"SYSCO Watson Food Service",
     "wof:parent_id":85878785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "concessionaire"
     ]
 },
-  "bbox": [-101.842295,33.595432,-101.842295,33.595432],
-  "geometry": {"coordinates":[-101.842295,33.595432],"type":"Point"}
+  "bbox": [
+    -101.842295,
+    33.595432,
+    -101.842295,
+    33.595432
+],
+  "geometry": {"coordinates":[-101.84229499999999,33.595432],"type":"Point"}
 }

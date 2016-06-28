@@ -2,13 +2,14 @@
   "id": 252795883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.255648,30.132871,-96.255648,30.132871",
     "geom:latitude":30.132871,
     "geom:longitude":-96.255648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9050 Browning St",
     "sg:city":"Chappell Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252795883,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1467084084,
     "wof:name":"The Browning Plantation",
     "wof:parent_id":85893589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-96.255648,30.132871,-96.255648,30.132871],
-  "geometry": {"coordinates":[-96.255648,30.132871],"type":"Point"}
+  "bbox": [
+    -96.255648,
+    30.132871,
+    -96.255648,
+    30.132871
+],
+  "geometry": {"coordinates":[-96.25564799999999,30.132871],"type":"Point"}
 }

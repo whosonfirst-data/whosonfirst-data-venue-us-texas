@@ -2,13 +2,14 @@
   "id": 236520091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.134267,32.670585,-97.134267,32.670585",
     "geom:latitude":32.670585,
     "geom:longitude":-97.134267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 S Cooper St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236520091,
-    "wof:lastmodified":1449002591,
+    "wof:lastmodified":1467083913,
     "wof:name":"Barbecue Galore",
     "wof:parent_id":85850295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.134267,32.670585,-97.134267,32.670585],
-  "geometry": {"coordinates":[-97.134267,32.670585],"type":"Point"}
+  "bbox": [
+    -97.134267,
+    32.670585,
+    -97.134267,
+    32.670585
+],
+  "geometry": {"coordinates":[-97.13426699999999,32.670585],"type":"Point"}
 }

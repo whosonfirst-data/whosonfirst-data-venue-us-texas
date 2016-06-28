@@ -2,13 +2,14 @@
   "id": 337492283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.211088,32.588517,-95.211088,32.588517",
     "geom:latitude":32.588517,
     "geom:longitude":-95.211088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Blackbourn St",
     "sg:city":"Hawkins",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337492283,
-    "wof:lastmodified":1449026932,
+    "wof:lastmodified":1467084423,
     "wof:name":"Hawkins Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.211088,32.588517,-95.211088,32.588517],
+  "bbox": [
+    -95.211088,
+    32.588517,
+    -95.211088,
+    32.588517
+],
   "geometry": {"coordinates":[-95.211088,32.588517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303345455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787657,30.239798,-97.787657,30.239798",
     "geom:latitude":30.239798,
     "geom:longitude":-97.787657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 S Lamar Boulevard Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303345455,
-    "wof:lastmodified":1449000374,
+    "wof:lastmodified":1467083803,
     "wof:name":"Woodmoor Apartments",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.787657,30.239798,-97.787657,30.239798],
+  "bbox": [
+    -97.787657,
+    30.239798,
+    -97.787657,
+    30.239798
+],
   "geometry": {"coordinates":[-97.787657,30.239798],"type":"Point"}
 }

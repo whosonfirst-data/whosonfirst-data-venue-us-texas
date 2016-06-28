@@ -2,13 +2,14 @@
   "id": 353970257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325939,32.297926,-95.325939,32.297926",
     "geom:latitude":32.297926,
     "geom:longitude":-95.325939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Capital Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353970257,
-    "wof:lastmodified":1449020730,
+    "wof:lastmodified":1467084374,
     "wof:name":"East Texas Door Co",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-95.325939,32.297926,-95.325939,32.297926],
-  "geometry": {"coordinates":[-95.325939,32.297926],"type":"Point"}
+  "bbox": [
+    -95.325939,
+    32.297926,
+    -95.325939,
+    32.297926
+],
+  "geometry": {"coordinates":[-95.32593900000001,32.297926],"type":"Point"}
 }

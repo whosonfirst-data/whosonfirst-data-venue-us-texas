@@ -2,13 +2,14 @@
   "id": 387715645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475431,29.806161,-95.475431,29.806161",
     "geom:latitude":29.806161,
     "geom:longitude":-95.475431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Antoine Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387715645,
-    "wof:lastmodified":1449059148,
+    "wof:lastmodified":1467084862,
     "wof:name":"Frank Bedoya Import",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-95.475431,29.806161,-95.475431,29.806161],
+  "bbox": [
+    -95.475431,
+    29.806161,
+    -95.475431,
+    29.806161
+],
   "geometry": {"coordinates":[-95.475431,29.806161],"type":"Point"}
 }

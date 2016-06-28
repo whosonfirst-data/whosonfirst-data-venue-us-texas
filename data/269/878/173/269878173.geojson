@@ -2,13 +2,14 @@
   "id": 269878173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.346972,29.722262,-95.346972,29.722262",
     "geom:latitude":29.722262,
     "geom:longitude":-95.346972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Cullen Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269878173,
-    "wof:lastmodified":1449037388,
+    "wof:lastmodified":1467084606,
     "wof:name":"Robertson Stadium",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.346972,29.722262,-95.346972,29.722262],
-  "geometry": {"coordinates":[-95.346972,29.722262],"type":"Point"}
+  "bbox": [
+    -95.346972,
+    29.722262,
+    -95.346972,
+    29.722262
+],
+  "geometry": {"coordinates":[-95.34697199999999,29.722262],"type":"Point"}
 }

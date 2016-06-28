@@ -2,13 +2,14 @@
   "id": 185926683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.689889,29.857741,-95.689889,29.857741",
     "geom:latitude":29.857741,
     "geom:longitude":-95.689889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18415 Flint Hill Dr",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185926683,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1467084121,
     "wof:name":"Couriers",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-95.689889,29.857741,-95.689889,29.857741],
-  "geometry": {"coordinates":[-95.689889,29.857741],"type":"Point"}
+  "bbox": [
+    -95.689889,
+    29.857741,
+    -95.689889,
+    29.857741
+],
+  "geometry": {"coordinates":[-95.68988899999999,29.857741],"type":"Point"}
 }

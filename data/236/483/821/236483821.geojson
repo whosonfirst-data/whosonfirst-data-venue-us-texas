@@ -2,13 +2,14 @@
   "id": 236483821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.238653,26.243778,-98.238653,26.243778",
     "geom:latitude":26.243778,
     "geom:longitude":-98.238653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Primrose Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236483821,
-    "wof:lastmodified":1449004401,
+    "wof:lastmodified":1467083999,
     "wof:name":"All Valley Truck Traffic",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.238653,26.243778,-98.238653,26.243778],
+  "bbox": [
+    -98.238653,
+    26.243778,
+    -98.238653,
+    26.243778
+],
   "geometry": {"coordinates":[-98.238653,26.243778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.349793,30.043239,-95.349793,30.043239",
     "geom:latitude":30.043239,
     "geom:longitude":-95.349793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22715 Jay Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203400391,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1467084388,
     "wof:name":"Melcon Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-95.349793,30.043239,-95.349793,30.043239],
-  "geometry": {"coordinates":[-95.349793,30.043239],"type":"Point"}
+  "bbox": [
+    -95.349793,
+    30.043239,
+    -95.349793,
+    30.043239
+],
+  "geometry": {"coordinates":[-95.34979300000001,30.043239],"type":"Point"}
 }

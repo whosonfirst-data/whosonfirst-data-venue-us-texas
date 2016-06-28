@@ -2,13 +2,14 @@
   "id": 303365791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739899,30.303699,-97.739899,30.303699",
     "geom:latitude":30.303699,
     "geom:longitude":-97.739899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W 38th St Ste F1",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303365791,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1467083711,
     "wof:name":"Tucker David M PHD",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.739899,30.303699,-97.739899,30.303699],
-  "geometry": {"coordinates":[-97.739899,30.303699],"type":"Point"}
+  "bbox": [
+    -97.739899,
+    30.303699,
+    -97.739899,
+    30.303699
+],
+  "geometry": {"coordinates":[-97.73989899999999,30.303699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303050931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.313469,30.185829,-97.313469,30.185829",
     "geom:latitude":30.185829,
     "geom:longitude":-97.313469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Indian Oak Dr",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303050931,
-    "wof:lastmodified":1448999469,
+    "wof:lastmodified":1467083759,
     "wof:name":"The Bastrop Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.313469,30.185829,-97.313469,30.185829],
+  "bbox": [
+    -97.313469,
+    30.185829,
+    -97.313469,
+    30.185829
+],
   "geometry": {"coordinates":[-97.313469,30.185829],"type":"Point"}
 }

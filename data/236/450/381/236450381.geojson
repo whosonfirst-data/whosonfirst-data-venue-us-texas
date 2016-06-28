@@ -2,13 +2,14 @@
   "id": 236450381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.749615,29.452793,-98.749615,29.452793",
     "geom:latitude":29.452793,
     "geom:longitude":-98.749615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12902 Ariel St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236450381,
-    "wof:lastmodified":1449004637,
+    "wof:lastmodified":1467084010,
     "wof:name":"Door Keepers",
     "wof:parent_id":85837993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-98.749615,29.452793,-98.749615,29.452793],
-  "geometry": {"coordinates":[-98.749615,29.452793],"type":"Point"}
+  "bbox": [
+    -98.749615,
+    29.452793,
+    -98.749615,
+    29.452793
+],
+  "geometry": {"coordinates":[-98.74961500000001,29.452793],"type":"Point"}
 }

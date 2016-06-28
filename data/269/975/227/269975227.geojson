@@ -2,13 +2,14 @@
   "id": 269975227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.302498,29.7449,-95.302498,29.7449",
     "geom:latitude":29.7449,
     "geom:longitude":-95.302498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6802 Navigation Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269975227,
-    "wof:lastmodified":1449038512,
+    "wof:lastmodified":1467084629,
     "wof:name":"East End Pharmacy",
     "wof:parent_id":85893757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.302498,29.7449,-95.302498,29.7449],
+  "bbox": [
+    -95.302498,
+    29.7449,
+    -95.302498,
+    29.7449
+],
   "geometry": {"coordinates":[-95.302498,29.7449],"type":"Point"}
 }

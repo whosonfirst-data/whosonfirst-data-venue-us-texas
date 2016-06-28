@@ -2,13 +2,14 @@
   "id": 252729069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408586,29.643124,-98.408586,29.643124",
     "geom:latitude":29.643124,
     "geom:longitude":-98.408586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Menger",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252729069,
-    "wof:lastmodified":1449005968,
+    "wof:lastmodified":1467084078,
     "wof:name":"Northeast Volunteer Fire Dept",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.408586,29.643124,-98.408586,29.643124],
+  "bbox": [
+    -98.408586,
+    29.643124,
+    -98.408586,
+    29.643124
+],
   "geometry": {"coordinates":[-98.408586,29.643124],"type":"Point"}
 }

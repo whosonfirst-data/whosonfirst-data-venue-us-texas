@@ -2,13 +2,14 @@
   "id": 303475601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.761368,30.358028,-97.761368,30.358028",
     "geom:latitude":30.358028,
     "geom:longitude":-97.761368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3908 Far West Blvd Suite A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303475601,
-    "wof:lastmodified":1448999134,
+    "wof:lastmodified":1467083742,
     "wof:name":"Veterinary Eye Center",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "specialty"
     ]
 },
-  "bbox": [-97.761368,30.358028,-97.761368,30.358028],
+  "bbox": [
+    -97.761368,
+    30.358028,
+    -97.761368,
+    30.358028
+],
   "geometry": {"coordinates":[-97.761368,30.358028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354084001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.583803,33.11659,-98.583803,33.11659",
     "geom:latitude":33.11659,
     "geom:longitude":-98.583803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Loving Hwy",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354084001,
-    "wof:lastmodified":1449066120,
+    "wof:lastmodified":1467085056,
     "wof:name":"Graham Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.583803,33.11659,-98.583803,33.11659],
+  "bbox": [
+    -98.583803,
+    33.11659,
+    -98.583803,
+    33.11659
+],
   "geometry": {"coordinates":[-98.583803,33.11659],"type":"Point"}
 }

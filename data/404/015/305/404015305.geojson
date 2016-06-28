@@ -2,13 +2,14 @@
   "id": 404015305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740108,30.268399,-97.740108,30.268399",
     "geom:latitude":30.268399,
     "geom:longitude":-97.740108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E 7th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404015305,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1467084645,
     "wof:name":"Dataphant Inc",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-97.740108,30.268399,-97.740108,30.268399],
-  "geometry": {"coordinates":[-97.740108,30.268399],"type":"Point"}
+  "bbox": [
+    -97.740108,
+    30.268399,
+    -97.740108,
+    30.268399
+],
+  "geometry": {"coordinates":[-97.74010800000001,30.268399],"type":"Point"}
 }

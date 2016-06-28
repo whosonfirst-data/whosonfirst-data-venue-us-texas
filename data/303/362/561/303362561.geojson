@@ -2,13 +2,14 @@
   "id": 303362561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738955,30.291738,-97.738955,30.291738",
     "geom:latitude":30.291738,
     "geom:longitude":-97.738955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 W 24th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303362561,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1467083771,
     "wof:name":"Campus Condos",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.738955,30.291738,-97.738955,30.291738],
+  "bbox": [
+    -97.738955,
+    30.291738,
+    -97.738955,
+    30.291738
+],
   "geometry": {"coordinates":[-97.738955,30.291738],"type":"Point"}
 }

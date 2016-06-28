@@ -2,13 +2,14 @@
   "id": 269539275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111589,33.199982,-97.111589,33.199982",
     "geom:latitude":33.199982,
     "geom:longitude":-97.111589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Spencer Rd Ste A",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":269539275,
-    "wof:lastmodified":1449039030,
+    "wof:lastmodified":1467084639,
     "wof:name":"Denton Municipal Airport",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-97.111589,33.199982,-97.111589,33.199982],
+  "bbox": [
+    -97.111589,
+    33.199982,
+    -97.111589,
+    33.199982
+],
   "geometry": {"coordinates":[-97.111589,33.199982],"type":"Point"}
 }

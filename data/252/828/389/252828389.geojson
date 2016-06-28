@@ -2,13 +2,14 @@
   "id": 252828389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810123,32.810423,-96.810123,32.810423",
     "geom:latitude":32.810423,
     "geom:longitude":-96.810123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Cedar Springs Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252828389,
-    "wof:lastmodified":1449005977,
+    "wof:lastmodified":1467084079,
     "wof:name":"Out Lines",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wear"
     ]
 },
-  "bbox": [-96.810123,32.810423,-96.810123,32.810423],
+  "bbox": [
+    -96.810123,
+    32.810423,
+    -96.810123,
+    32.810423
+],
   "geometry": {"coordinates":[-96.810123,32.810423],"type":"Point"}
 }

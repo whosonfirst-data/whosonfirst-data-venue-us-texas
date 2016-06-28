@@ -2,13 +2,14 @@
   "id": 253668887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353122,32.514871,-97.353122,32.514871",
     "geom:latitude":32.514871,
     "geom:longitude":-97.353122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Wilshire Blvd St. 610",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253668887,
-    "wof:lastmodified":1449064904,
+    "wof:lastmodified":1467085016,
     "wof:name":"Smashburger",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-97.353122,32.514871,-97.353122,32.514871],
+  "bbox": [
+    -97.353122,
+    32.514871,
+    -97.353122,
+    32.514871
+],
   "geometry": {"coordinates":[-97.353122,32.514871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.796479,30.220183,-97.796479,30.220183",
     "geom:latitude":30.220183,
     "geom:longitude":-97.796479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Fair Oaks Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203129893,
-    "wof:lastmodified":1449026469,
+    "wof:lastmodified":1467084413,
     "wof:name":"Amigo Defensive Driving School",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.796479,30.220183,-97.796479,30.220183],
-  "geometry": {"coordinates":[-97.796479,30.220183],"type":"Point"}
+  "bbox": [
+    -97.796479,
+    30.220183,
+    -97.796479,
+    30.220183
+],
+  "geometry": {"coordinates":[-97.79647900000001,30.220183],"type":"Point"}
 }

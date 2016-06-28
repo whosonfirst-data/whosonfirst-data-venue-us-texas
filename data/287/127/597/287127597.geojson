@@ -2,13 +2,14 @@
   "id": 287127597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505649,27.506308,-99.505649,27.506308",
     "geom:latitude":27.506308,
     "geom:longitude":-99.505649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Matamoros St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287127597,
-    "wof:lastmodified":1449001512,
+    "wof:lastmodified":1467083846,
     "wof:name":"El Banquito Downtown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-99.505649,27.506308,-99.505649,27.506308],
-  "geometry": {"coordinates":[-99.505649,27.506308],"type":"Point"}
+  "bbox": [
+    -99.505649,
+    27.506308,
+    -99.505649,
+    27.506308
+],
+  "geometry": {"coordinates":[-99.50564900000001,27.506308],"type":"Point"}
 }

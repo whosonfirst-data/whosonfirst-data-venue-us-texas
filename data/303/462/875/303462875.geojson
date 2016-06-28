@@ -2,13 +2,14 @@
   "id": 303462875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.841835,30.392933,-97.841835,30.392933",
     "geom:latitude":30.392933,
     "geom:longitude":-97.841835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10601 Ranch Road 2222 R-133",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303462875,
-    "wof:lastmodified":1449000470,
+    "wof:lastmodified":1467083808,
     "wof:name":"MyTubs",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.841835,30.392933,-97.841835,30.392933],
+  "bbox": [
+    -97.841835,
+    30.392933,
+    -97.841835,
+    30.392933
+],
   "geometry": {"coordinates":[-97.841835,30.392933],"type":"Point"}
 }

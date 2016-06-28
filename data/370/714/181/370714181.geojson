@@ -2,13 +2,14 @@
   "id": 370714181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.630266,33.204845,-96.630266,33.204845",
     "geom:latitude":33.204845,
     "geom:longitude":-96.630266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Carol St",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370714181,
-    "wof:lastmodified":1449030750,
+    "wof:lastmodified":1467084511,
     "wof:name":"Farmer's Produce",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.630266,33.204845,-96.630266,33.204845],
-  "geometry": {"coordinates":[-96.630266,33.204845],"type":"Point"}
+  "bbox": [
+    -96.630266,
+    33.204845,
+    -96.630266,
+    33.204845
+],
+  "geometry": {"coordinates":[-96.63026600000001,33.204845],"type":"Point"}
 }

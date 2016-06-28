@@ -2,13 +2,14 @@
   "id": 270500503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55381,29.964895,-95.55381,29.964895",
     "geom:latitude":29.964895,
     "geom:longitude":-95.55381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18351 State Highway 249",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":270500503,
-    "wof:lastmodified":1449009233,
+    "wof:lastmodified":1467084169,
     "wof:name":"Sewing & Vacuum Warehouse",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-95.55381,29.964895,-95.55381,29.964895],
+  "bbox": [
+    -95.55381,
+    29.964895,
+    -95.55381,
+    29.964895
+],
   "geometry": {"coordinates":[-95.55381,29.964895],"type":"Point"}
 }

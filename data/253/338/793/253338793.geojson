@@ -2,13 +2,14 @@
   "id": 253338793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.499226,33.186454,-96.499226,33.186454",
     "geom:latitude":33.186454,
     "geom:longitude":-96.499226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 N 3rd St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253338793,
-    "wof:lastmodified":1449063848,
+    "wof:lastmodified":1467084980,
     "wof:name":"Methodist Church Parsonage",
     "wof:parent_id":85834389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-96.499226,33.186454,-96.499226,33.186454],
-  "geometry": {"coordinates":[-96.499226,33.186454],"type":"Point"}
+  "bbox": [
+    -96.499226,
+    33.186454,
+    -96.499226,
+    33.186454
+],
+  "geometry": {"coordinates":[-96.49922599999999,33.186454],"type":"Point"}
 }

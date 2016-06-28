@@ -2,13 +2,14 @@
   "id": 286526245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.675295,30.163852,-95.675295,30.163852",
     "geom:latitude":30.163852,
     "geom:longitude":-95.675295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Rollingwood St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286526245,
-    "wof:lastmodified":1449016091,
+    "wof:lastmodified":1467084261,
     "wof:name":"Enviro Remediation",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [-95.675295,30.163852,-95.675295,30.163852],
-  "geometry": {"coordinates":[-95.675295,30.163852],"type":"Point"}
+  "bbox": [
+    -95.675295,
+    30.163852,
+    -95.675295,
+    30.163852
+],
+  "geometry": {"coordinates":[-95.67529500000001,30.163852],"type":"Point"}
 }

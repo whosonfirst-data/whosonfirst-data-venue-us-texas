@@ -2,13 +2,14 @@
   "id": 202803511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.783431,33.324515,-96.783431,33.324515",
     "geom:latitude":33.324515,
     "geom:longitude":-96.783431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Pecan St",
     "sg:city":"Celina",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202803511,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1467084941,
     "wof:name":"Goodell Realty LC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.783431,33.324515,-96.783431,33.324515],
-  "geometry": {"coordinates":[-96.783431,33.324515],"type":"Point"}
+  "bbox": [
+    -96.783431,
+    33.324515,
+    -96.783431,
+    33.324515
+],
+  "geometry": {"coordinates":[-96.78343099999999,33.324515],"type":"Point"}
 }

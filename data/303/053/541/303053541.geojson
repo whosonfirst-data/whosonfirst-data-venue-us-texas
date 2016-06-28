@@ -2,13 +2,14 @@
   "id": 303053541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.356686,30.107157,-97.356686,30.107157",
     "geom:latitude":30.107157,
     "geom:longitude":-97.356686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Hunters Crossing Blvd Ste 3",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303053541,
-    "wof:lastmodified":1448998575,
+    "wof:lastmodified":1467083714,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-97.356686,30.107157,-97.356686,30.107157],
+  "bbox": [
+    -97.356686,
+    30.107157,
+    -97.356686,
+    30.107157
+],
   "geometry": {"coordinates":[-97.356686,30.107157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253162165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765499,32.90712,-96.765499,32.90712",
     "geom:latitude":32.90712,
     "geom:longitude":-96.765499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11682 Forest Central Dr #6503",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":253162165,
-    "wof:lastmodified":1449065344,
+    "wof:lastmodified":1467085032,
     "wof:name":"The Home Depot",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-96.765499,32.90712,-96.765499,32.90712],
-  "geometry": {"coordinates":[-96.765499,32.90712],"type":"Point"}
+  "bbox": [
+    -96.765499,
+    32.90712,
+    -96.765499,
+    32.90712
+],
+  "geometry": {"coordinates":[-96.76549900000001,32.90712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354365435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.54788,27.631294,-99.54788,27.631294",
     "geom:latitude":27.631294,
     "geom:longitude":-99.54788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14212 Atlanta Dr",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354365435,
-    "wof:lastmodified":1449066210,
+    "wof:lastmodified":1467085058,
     "wof:name":"Mario Pena Us Licensed Custom",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customs"
     ]
 },
-  "bbox": [-99.54788,27.631294,-99.54788,27.631294],
-  "geometry": {"coordinates":[-99.54788,27.631294],"type":"Point"}
+  "bbox": [
+    -99.54788,
+    27.631294,
+    -99.54788,
+    27.631294
+],
+  "geometry": {"coordinates":[-99.54788000000001,27.631294],"type":"Point"}
 }

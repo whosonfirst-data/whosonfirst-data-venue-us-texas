@@ -2,13 +2,14 @@
   "id": 403815561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.438989,29.512935,-98.438989,29.512935",
     "geom:latitude":29.512935,
     "geom:longitude":-98.438989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Country Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403815561,
-    "wof:lastmodified":1449055277,
+    "wof:lastmodified":1467084765,
     "wof:name":"Wernli Exploration Inc",
     "wof:parent_id":85837787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "filed"
     ]
 },
-  "bbox": [-98.438989,29.512935,-98.438989,29.512935],
-  "geometry": {"coordinates":[-98.438989,29.512935],"type":"Point"}
+  "bbox": [
+    -98.438989,
+    29.512935,
+    -98.438989,
+    29.512935
+],
+  "geometry": {"coordinates":[-98.43898900000001,29.512935],"type":"Point"}
 }

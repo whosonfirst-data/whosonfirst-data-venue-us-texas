@@ -2,13 +2,14 @@
   "id": 236700193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.349032,30.892325,-97.349032,30.892325",
     "geom:latitude":30.892325,
     "geom:longitude":-97.349032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15058 Sunshine Rd",
     "sg:city":"Holland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236700193,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1467084022,
     "wof:name":"JS Transformations",
     "wof:parent_id":85849059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-97.349032,30.892325,-97.349032,30.892325],
-  "geometry": {"coordinates":[-97.349032,30.892325],"type":"Point"}
+  "bbox": [
+    -97.349032,
+    30.892325,
+    -97.349032,
+    30.892325
+],
+  "geometry": {"coordinates":[-97.34903199999999,30.892325],"type":"Point"}
 }

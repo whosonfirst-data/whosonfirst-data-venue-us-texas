@@ -2,13 +2,14 @@
   "id": 185962535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.613399,29.7521,-95.613399,29.7521",
     "geom:latitude":29.7521,
     "geom:longitude":-95.613399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12807 Chimes Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185962535,
-    "wof:lastmodified":1449007562,
+    "wof:lastmodified":1467084128,
     "wof:name":"Electronic Billing 2000",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-95.613399,29.7521,-95.613399,29.7521],
+  "bbox": [
+    -95.613399,
+    29.7521,
+    -95.613399,
+    29.7521
+],
   "geometry": {"coordinates":[-95.613399,29.7521],"type":"Point"}
 }

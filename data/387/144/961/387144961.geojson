@@ -2,13 +2,14 @@
   "id": 387144961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.324805,27.88695,-97.324805,27.88695",
     "geom:latitude":27.88695,
     "geom:longitude":-97.324805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Dallas St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387144961,
-    "wof:lastmodified":1449058895,
+    "wof:lastmodified":1467084856,
     "wof:name":"A-1 Property Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.324805,27.88695,-97.324805,27.88695],
+  "bbox": [
+    -97.324805,
+    27.88695,
+    -97.324805,
+    27.88695
+],
   "geometry": {"coordinates":[-97.324805,27.88695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252981349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736203,32.879602,-96.736203,32.879602",
     "geom:latitude":32.879602,
     "geom:longitude":-96.736203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7203 Skillman St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252981349,
-    "wof:lastmodified":1449006535,
+    "wof:lastmodified":1467084109,
     "wof:name":"Spay Neuter Your Pet",
     "wof:parent_id":85870455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.736203,32.879602,-96.736203,32.879602],
+  "bbox": [
+    -96.736203,
+    32.879602,
+    -96.736203,
+    32.879602
+],
   "geometry": {"coordinates":[-96.736203,32.879602],"type":"Point"}
 }

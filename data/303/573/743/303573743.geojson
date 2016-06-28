@@ -2,13 +2,14 @@
   "id": 303573743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.830948,30.205186,-97.830948,30.205186",
     "geom:latitude":30.205186,
     "geom:longitude":-97.830948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 Clarksburg Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303573743,
-    "wof:lastmodified":1448999924,
+    "wof:lastmodified":1467083782,
     "wof:name":"Satellite Superfan",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cable"
     ]
 },
-  "bbox": [-97.830948,30.205186,-97.830948,30.205186],
-  "geometry": {"coordinates":[-97.830948,30.205186],"type":"Point"}
+  "bbox": [
+    -97.830948,
+    30.205186,
+    -97.830948,
+    30.205186
+],
+  "geometry": {"coordinates":[-97.83094800000001,30.205186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370854167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.318661,31.750469,-106.318661,31.750469",
     "geom:latitude":31.750469,
     "geom:longitude":-106.318661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 N Lee Trevino Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370854167,
-    "wof:lastmodified":1449032348,
+    "wof:lastmodified":1467084551,
     "wof:name":"El Paso Honda",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-106.318661,31.750469,-106.318661,31.750469],
-  "geometry": {"coordinates":[-106.318661,31.750469],"type":"Point"}
+  "bbox": [
+    -106.318661,
+    31.750469,
+    -106.318661,
+    31.750469
+],
+  "geometry": {"coordinates":[-106.31866100000001,31.750469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303993915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.898598,33.572319,-101.898598,33.572319",
     "geom:latitude":33.572319,
     "geom:longitude":-101.898598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 24th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303993915,
-    "wof:lastmodified":1448999204,
+    "wof:lastmodified":1467083746,
     "wof:name":"Covenant Women's Hospital",
     "wof:parent_id":85873781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.898598,33.572319,-101.898598,33.572319],
-  "geometry": {"coordinates":[-101.898598,33.572319],"type":"Point"}
+  "bbox": [
+    -101.898598,
+    33.572319,
+    -101.898598,
+    33.572319
+],
+  "geometry": {"coordinates":[-101.89859800000001,33.572319],"type":"Point"}
 }

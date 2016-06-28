@@ -2,13 +2,14 @@
   "id": 270233575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55212,29.702965,-95.55212,29.702965",
     "geom:latitude":29.702965,
     "geom:longitude":-95.55212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6918 Corporate Dr Ste A9",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270233575,
-    "wof:lastmodified":1449011146,
+    "wof:lastmodified":1467084233,
     "wof:name":"Texas Corporate Mortgage",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.55212,29.702965,-95.55212,29.702965],
+  "bbox": [
+    -95.55212,
+    29.702965,
+    -95.55212,
+    29.702965
+],
   "geometry": {"coordinates":[-95.55212,29.702965],"type":"Point"}
 }

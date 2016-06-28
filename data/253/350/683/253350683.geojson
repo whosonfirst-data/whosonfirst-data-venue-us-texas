@@ -2,13 +2,14 @@
   "id": 253350683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760613,32.870477,-95.760613,32.870477",
     "geom:latitude":32.870477,
     "geom:longitude":-95.760613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 E Lennon Dr",
     "sg:city":"Emory",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253350683,
-    "wof:lastmodified":1449064331,
+    "wof:lastmodified":1467084996,
     "wof:name":"Rains Family Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.760613,32.870477,-95.760613,32.870477],
-  "geometry": {"coordinates":[-95.760613,32.870477],"type":"Point"}
+  "bbox": [
+    -95.760613,
+    32.870477,
+    -95.760613,
+    32.870477
+],
+  "geometry": {"coordinates":[-95.76061300000001,32.870477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252895235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785329,32.783313,-96.785329,32.783313",
     "geom:latitude":32.783313,
     "geom:longitude":-96.785329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Main St Ste B",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252895235,
-    "wof:lastmodified":1449005871,
+    "wof:lastmodified":1467084073,
     "wof:name":"Back Space Gallery",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.785329,32.783313,-96.785329,32.783313],
+  "bbox": [
+    -96.785329,
+    32.783313,
+    -96.785329,
+    32.783313
+],
   "geometry": {"coordinates":[-96.785329,32.783313],"type":"Point"}
 }

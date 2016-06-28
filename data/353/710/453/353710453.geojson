@@ -2,13 +2,14 @@
   "id": 353710453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.875166,35.176682,-101.875166,35.176682",
     "geom:latitude":35.176682,
     "geom:longitude":-101.875166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Paramount Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353710453,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1467084324,
     "wof:name":"Downtown Diner",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-101.875166,35.176682,-101.875166,35.176682],
-  "geometry": {"coordinates":[-101.875166,35.176682],"type":"Point"}
+  "bbox": [
+    -101.875166,
+    35.176682,
+    -101.875166,
+    35.176682
+],
+  "geometry": {"coordinates":[-101.87516599999999,35.176682],"type":"Point"}
 }

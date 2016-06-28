@@ -2,13 +2,14 @@
   "id": 370716951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.952835,35.874156,-101.952835,35.874156",
     "geom:latitude":35.874156,
     "geom:longitude":-101.952835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Carson Ave",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370716951,
-    "wof:lastmodified":1449029571,
+    "wof:lastmodified":1467084481,
     "wof:name":"Pick-A-Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.952835,35.874156,-101.952835,35.874156],
-  "geometry": {"coordinates":[-101.952835,35.874156],"type":"Point"}
+  "bbox": [
+    -101.952835,
+    35.874156,
+    -101.952835,
+    35.874156
+],
+  "geometry": {"coordinates":[-101.95283499999999,35.874156],"type":"Point"}
 }

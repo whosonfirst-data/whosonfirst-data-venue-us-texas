@@ -2,13 +2,14 @@
   "id": 220018501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.988441,30.856482,-96.988441,30.856482",
     "geom:latitude":30.856482,
     "geom:longitude":-96.988441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 State Hwy 36",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220018501,
-    "wof:lastmodified":1449074443,
+    "wof:lastmodified":1467085186,
     "wof:name":"Cameron Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.988441,30.856482,-96.988441,30.856482],
-  "geometry": {"coordinates":[-96.988441,30.856482],"type":"Point"}
+  "bbox": [
+    -96.988441,
+    30.856482,
+    -96.988441,
+    30.856482
+],
+  "geometry": {"coordinates":[-96.98844099999999,30.856482],"type":"Point"}
 }

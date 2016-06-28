@@ -2,13 +2,14 @@
   "id": 370260295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733229,30.352224,-97.733229,30.352224",
     "geom:latitude":30.352224,
     "geom:longitude":-97.733229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370260295,
-    "wof:lastmodified":1449029652,
+    "wof:lastmodified":1467084483,
     "wof:name":"Five Star Auto Group",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.733229,30.352224,-97.733229,30.352224],
-  "geometry": {"coordinates":[-97.733229,30.352224],"type":"Point"}
+  "bbox": [
+    -97.733229,
+    30.352224,
+    -97.733229,
+    30.352224
+],
+  "geometry": {"coordinates":[-97.73322899999999,30.352224],"type":"Point"}
 }

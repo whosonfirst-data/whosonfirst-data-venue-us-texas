@@ -2,13 +2,14 @@
   "id": 337628343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.629961,33.111483,-96.629961,33.111483",
     "geom:latitude":33.111483,
     "geom:longitude":-96.629961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 Home Park Dr",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337628343,
-    "wof:lastmodified":1449027592,
+    "wof:lastmodified":1467084451,
     "wof:name":"Extreme Sales Mkt",
     "wof:parent_id":85819839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-96.629961,33.111483,-96.629961,33.111483],
-  "geometry": {"coordinates":[-96.629961,33.111483],"type":"Point"}
+  "bbox": [
+    -96.629961,
+    33.111483,
+    -96.629961,
+    33.111483
+],
+  "geometry": {"coordinates":[-96.62996099999999,33.111483],"type":"Point"}
 }

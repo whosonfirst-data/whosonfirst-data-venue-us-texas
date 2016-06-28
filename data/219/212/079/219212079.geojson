@@ -2,13 +2,14 @@
   "id": 219212079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791012,32.828205,-96.791012,32.828205",
     "geom:latitude":32.828205,
     "geom:longitude":-96.791012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 Lindenwood Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219212079,
-    "wof:lastmodified":1449072670,
+    "wof:lastmodified":1467085148,
     "wof:name":"Park Cities Custom Builder",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.791012,32.828205,-96.791012,32.828205],
-  "geometry": {"coordinates":[-96.791012,32.828205],"type":"Point"}
+  "bbox": [
+    -96.791012,
+    32.828205,
+    -96.791012,
+    32.828205
+],
+  "geometry": {"coordinates":[-96.79101199999999,32.828205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287130451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.508453,27.506371,-99.508453,27.506371",
     "geom:latitude":27.506371,
     "geom:longitude":-99.508453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Matamoros St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287130451,
-    "wof:lastmodified":1449000964,
+    "wof:lastmodified":1467083828,
     "wof:name":"Us Probation And Parole Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-99.508453,27.506371,-99.508453,27.506371],
+  "bbox": [
+    -99.508453,
+    27.506371,
+    -99.508453,
+    27.506371
+],
   "geometry": {"coordinates":[-99.508453,27.506371],"type":"Point"}
 }

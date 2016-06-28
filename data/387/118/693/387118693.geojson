@@ -2,13 +2,14 @@
   "id": 387118693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.914245,35.191265,-101.914245,35.191265",
     "geom:latitude":35.191265,
     "geom:longitude":-101.914245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Medi Park Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387118693,
-    "wof:lastmodified":1449059189,
+    "wof:lastmodified":1467084863,
     "wof:name":"Vinson Mizell MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-101.914245,35.191265,-101.914245,35.191265],
-  "geometry": {"coordinates":[-101.914245,35.191265],"type":"Point"}
+  "bbox": [
+    -101.914245,
+    35.191265,
+    -101.914245,
+    35.191265
+],
+  "geometry": {"coordinates":[-101.91424499999999,35.191265],"type":"Point"}
 }

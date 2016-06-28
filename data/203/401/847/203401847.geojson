@@ -2,13 +2,14 @@
   "id": 203401847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502586,27.510518,-99.502586,27.510518",
     "geom:latitude":27.510518,
     "geom:longitude":-99.502586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 San Dario Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203401847,
-    "wof:lastmodified":1449026567,
+    "wof:lastmodified":1467084415,
     "wof:name":"Labelmax Inc",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "allied"
     ]
 },
-  "bbox": [-99.502586,27.510518,-99.502586,27.510518],
-  "geometry": {"coordinates":[-99.502586,27.510518],"type":"Point"}
+  "bbox": [
+    -99.502586,
+    27.510518,
+    -99.502586,
+    27.510518
+],
+  "geometry": {"coordinates":[-99.50258599999999,27.510518],"type":"Point"}
 }

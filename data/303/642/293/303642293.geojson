@@ -2,13 +2,14 @@
   "id": 303642293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.833033,30.141486,-97.833033,30.141486",
     "geom:latitude":30.141486,
     "geom:longitude":-97.833033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12111 Manchaca Rd Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303642293,
-    "wof:lastmodified":1448998261,
+    "wof:lastmodified":1467083698,
     "wof:name":"Salon Dr",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.833033,30.141486,-97.833033,30.141486],
+  "bbox": [
+    -97.833033,
+    30.141486,
+    -97.833033,
+    30.141486
+],
   "geometry": {"coordinates":[-97.833033,30.141486],"type":"Point"}
 }

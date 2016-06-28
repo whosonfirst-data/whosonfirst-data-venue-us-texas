@@ -2,13 +2,14 @@
   "id": 252853553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748028,32.794288,-96.748028,32.794288",
     "geom:latitude":32.794288,
     "geom:longitude":-96.748028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Beacon Street",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":252853553,
-    "wof:lastmodified":1449005845,
+    "wof:lastmodified":1467084072,
     "wof:name":"Taco Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.748028,32.794288,-96.748028,32.794288],
-  "geometry": {"coordinates":[-96.748028,32.794288],"type":"Point"}
+  "bbox": [
+    -96.748028,
+    32.794288,
+    -96.748028,
+    32.794288
+],
+  "geometry": {"coordinates":[-96.74802800000001,32.794288],"type":"Point"}
 }

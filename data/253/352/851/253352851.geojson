@@ -2,13 +2,14 @@
   "id": 253352851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.396881,33.142265,-96.396881,33.142265",
     "geom:latitude":33.142265,
     "geom:longitude":-96.396881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 State Highway 78 S",
     "sg:city":"Farmersville",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":253352851,
-    "wof:lastmodified":1449064629,
+    "wof:lastmodified":1467085007,
     "wof:name":"Country Cuttery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.396881,33.142265,-96.396881,33.142265],
-  "geometry": {"coordinates":[-96.396881,33.142265],"type":"Point"}
+  "bbox": [
+    -96.396881,
+    33.142265,
+    -96.396881,
+    33.142265
+],
+  "geometry": {"coordinates":[-96.39688099999999,33.142265],"type":"Point"}
 }

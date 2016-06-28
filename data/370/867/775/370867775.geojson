@@ -2,13 +2,14 @@
   "id": 370867775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.392125,29.006323,-95.392125,29.006323",
     "geom:latitude":29.006323,
     "geom:longitude":-95.392125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Copper Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370867775,
-    "wof:lastmodified":1449030553,
+    "wof:lastmodified":1467084505,
     "wof:name":"Datx Rail",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.392125,29.006323,-95.392125,29.006323],
-  "geometry": {"coordinates":[-95.392125,29.006323],"type":"Point"}
+  "bbox": [
+    -95.392125,
+    29.006323,
+    -95.392125,
+    29.006323
+],
+  "geometry": {"coordinates":[-95.39212499999999,29.006323],"type":"Point"}
 }

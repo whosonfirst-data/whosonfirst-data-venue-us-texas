@@ -2,13 +2,14 @@
   "id": 253180015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.822523,32.927539,-96.822523,32.927539",
     "geom:latitude":32.927539,
     "geom:longitude":-96.822523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 LBJ Fwy Ste 250",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253180015,
-    "wof:lastmodified":1449062942,
+    "wof:lastmodified":1467084949,
     "wof:name":"Susan G. Komen for the Cure",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.822523,32.927539,-96.822523,32.927539],
+  "bbox": [
+    -96.822523,
+    32.927539,
+    -96.822523,
+    32.927539
+],
   "geometry": {"coordinates":[-96.822523,32.927539],"type":"Point"}
 }

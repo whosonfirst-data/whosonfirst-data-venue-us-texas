@@ -2,13 +2,14 @@
   "id": 236880455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785103,32.792198,-96.785103,32.792198",
     "geom:latitude":32.792198,
     "geom:longitude":-96.785103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Office Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236880455,
-    "wof:lastmodified":1449005289,
+    "wof:lastmodified":1467084042,
     "wof:name":"Dallas Services For Visually Impaired Children",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.785103,32.792198,-96.785103,32.792198],
-  "geometry": {"coordinates":[-96.785103,32.792198],"type":"Point"}
+  "bbox": [
+    -96.785103,
+    32.792198,
+    -96.785103,
+    32.792198
+],
+  "geometry": {"coordinates":[-96.78510300000001,32.792198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353686317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.584088,29.940441,-95.584088,29.940441",
     "geom:latitude":29.940441,
     "geom:longitude":-95.584088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10819 Barely Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353686317,
-    "wof:lastmodified":1449020190,
+    "wof:lastmodified":1467084363,
     "wof:name":"Motor City Engine",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.584088,29.940441,-95.584088,29.940441],
-  "geometry": {"coordinates":[-95.584088,29.940441],"type":"Point"}
+  "bbox": [
+    -95.584088,
+    29.940441,
+    -95.584088,
+    29.940441
+],
+  "geometry": {"coordinates":[-95.58408799999999,29.940441],"type":"Point"}
 }

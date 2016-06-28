@@ -2,13 +2,14 @@
   "id": 270367043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.488544,29.793226,-95.488544,29.793226",
     "geom:latitude":29.793226,
     "geom:longitude":-95.488544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Pine Chase Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270367043,
-    "wof:lastmodified":1449010094,
+    "wof:lastmodified":1467084198,
     "wof:name":"Mosquito Ban",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.488544,29.793226,-95.488544,29.793226],
+  "bbox": [
+    -95.488544,
+    29.793226,
+    -95.488544,
+    29.793226
+],
   "geometry": {"coordinates":[-95.488544,29.793226],"type":"Point"}
 }

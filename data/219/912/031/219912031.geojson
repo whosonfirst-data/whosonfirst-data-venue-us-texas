@@ -2,13 +2,14 @@
   "id": 219912031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.23475,27.758913,-98.23475,27.758913",
     "geom:latitude":27.758913,
     "geom:longitude":-98.23475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Travis St",
     "sg:city":"San Diego",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219912031,
-    "wof:lastmodified":1449072124,
+    "wof:lastmodified":1467085136,
     "wof:name":"Floral Cabin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.23475,27.758913,-98.23475,27.758913],
-  "geometry": {"coordinates":[-98.23475,27.758913],"type":"Point"}
+  "bbox": [
+    -98.23475,
+    27.758913,
+    -98.23475,
+    27.758913
+],
+  "geometry": {"coordinates":[-98.23475000000001,27.758913],"type":"Point"}
 }

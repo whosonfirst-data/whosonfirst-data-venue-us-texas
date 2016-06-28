@@ -2,13 +2,14 @@
   "id": 303243187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733902,30.275339,-97.733902,30.275339",
     "geom:latitude":30.275339,
     "geom:longitude":-97.733902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E 15th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":303243187,
-    "wof:lastmodified":1448998909,
+    "wof:lastmodified":1467083731,
     "wof:name":"Breckenridge Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "emergency"
     ]
 },
-  "bbox": [-97.733902,30.275339,-97.733902,30.275339],
+  "bbox": [
+    -97.733902,
+    30.275339,
+    -97.733902,
+    30.275339
+],
   "geometry": {"coordinates":[-97.733902,30.275339],"type":"Point"}
 }

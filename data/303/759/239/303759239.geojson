@@ -2,13 +2,14 @@
   "id": 303759239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737552,30.330873,-97.737552,30.330873",
     "geom:latitude":30.330873,
     "geom:longitude":-97.737552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615-B Clay Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303759239,
-    "wof:lastmodified":1449000600,
+    "wof:lastmodified":1467083814,
     "wof:name":"Charles Martin Homes",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.737552,30.330873,-97.737552,30.330873],
-  "geometry": {"coordinates":[-97.737552,30.330873],"type":"Point"}
+  "bbox": [
+    -97.737552,
+    30.330873,
+    -97.737552,
+    30.330873
+],
+  "geometry": {"coordinates":[-97.73755199999999,30.330873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303038907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.196142,26.122775,-98.196142,26.122775",
     "geom:latitude":26.122775,
     "geom:longitude":-98.196142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7310 S Cage Blvd",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303038907,
-    "wof:lastmodified":1448999684,
+    "wof:lastmodified":1467083770,
     "wof:name":"123 Auto Sales & Parts",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-98.196142,26.122775,-98.196142,26.122775],
-  "geometry": {"coordinates":[-98.196142,26.122775],"type":"Point"}
+  "bbox": [
+    -98.196142,
+    26.122775,
+    -98.196142,
+    26.122775
+],
+  "geometry": {"coordinates":[-98.19614199999999,26.122775],"type":"Point"}
 }

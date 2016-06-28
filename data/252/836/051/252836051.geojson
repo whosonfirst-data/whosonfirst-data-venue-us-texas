@@ -2,13 +2,14 @@
   "id": 252836051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.68076,30.69612,-97.68076,30.69612",
     "geom:latitude":30.69612,
     "geom:longitude":-97.68076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Segundo Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252836051,
-    "wof:lastmodified":1449006122,
+    "wof:lastmodified":1467084087,
     "wof:name":"Carlson",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-97.68076,30.69612,-97.68076,30.69612],
-  "geometry": {"coordinates":[-97.68076,30.69612],"type":"Point"}
+  "bbox": [
+    -97.68076,
+    30.69612,
+    -97.68076,
+    30.69612
+],
+  "geometry": {"coordinates":[-97.68076000000001,30.69612],"type":"Point"}
 }

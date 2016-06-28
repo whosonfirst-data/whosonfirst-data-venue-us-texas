@@ -2,13 +2,14 @@
   "id": 303830177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746929,30.394155,-97.746929,30.394155",
     "geom:latitude":30.394155,
     "geom:longitude":-97.746929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Research Blvd Ste 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303830177,
-    "wof:lastmodified":1448998636,
+    "wof:lastmodified":1467083717,
     "wof:name":"Zoe's Kitchen",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mediterranean"
     ]
 },
-  "bbox": [-97.746929,30.394155,-97.746929,30.394155],
-  "geometry": {"coordinates":[-97.746929,30.394155],"type":"Point"}
+  "bbox": [
+    -97.746929,
+    30.394155,
+    -97.746929,
+    30.394155
+],
+  "geometry": {"coordinates":[-97.74692899999999,30.394155],"type":"Point"}
 }

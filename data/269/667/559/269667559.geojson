@@ -2,13 +2,14 @@
   "id": 269667559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46031,31.149494,-97.46031,31.149494",
     "geom:latitude":31.149494,
     "geom:longitude":-97.46031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Spur Dr",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269667559,
-    "wof:lastmodified":1449037694,
+    "wof:lastmodified":1467084615,
     "wof:name":"Rick Bandas",
     "wof:parent_id":85834129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.46031,31.149494,-97.46031,31.149494],
-  "geometry": {"coordinates":[-97.46031,31.149494],"type":"Point"}
+  "bbox": [
+    -97.46031,
+    31.149494,
+    -97.46031,
+    31.149494
+],
+  "geometry": {"coordinates":[-97.46031000000001,31.149494],"type":"Point"}
 }

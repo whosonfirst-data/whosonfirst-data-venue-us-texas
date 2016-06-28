@@ -2,13 +2,14 @@
   "id": 303344265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74882,30.251949,-97.74882,30.251949",
     "geom:latitude":30.251949,
     "geom:longitude":-97.74882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S Congress Ave Apt 531",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303344265,
-    "wof:lastmodified":1448998241,
+    "wof:lastmodified":1467083697,
     "wof:name":"L & W Investigations",
     "wof:parent_id":85867213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "investigator"
     ]
 },
-  "bbox": [-97.74882,30.251949,-97.74882,30.251949],
-  "geometry": {"coordinates":[-97.74882,30.251949],"type":"Point"}
+  "bbox": [
+    -97.74882,
+    30.251949,
+    -97.74882,
+    30.251949
+],
+  "geometry": {"coordinates":[-97.74881999999999,30.251949],"type":"Point"}
 }

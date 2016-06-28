@@ -2,13 +2,14 @@
   "id": 287279315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.154694,26.30027,-98.154694,26.30027",
     "geom:latitude":26.30027,
     "geom:longitude":-98.154694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E University Dr",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287279315,
-    "wof:lastmodified":1449001063,
+    "wof:lastmodified":1467083831,
     "wof:name":"Mg Sales",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-98.154694,26.30027,-98.154694,26.30027],
-  "geometry": {"coordinates":[-98.154694,26.30027],"type":"Point"}
+  "bbox": [
+    -98.154694,
+    26.30027,
+    -98.154694,
+    26.30027
+],
+  "geometry": {"coordinates":[-98.15469400000001,26.30027],"type":"Point"}
 }

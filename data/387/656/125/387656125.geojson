@@ -2,13 +2,14 @@
   "id": 387656125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.19007,32.641574,-97.19007,32.641574",
     "geom:latitude":32.641574,
     "geom:longitude":-97.19007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Glenbrook Dr",
     "sg:city":"Kennedale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387656125,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1467084848,
     "wof:name":"A & G Enterprises",
     "wof:parent_id":85897313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.19007,32.641574,-97.19007,32.641574],
-  "geometry": {"coordinates":[-97.19007,32.641574],"type":"Point"}
+  "bbox": [
+    -97.19007,
+    32.641574,
+    -97.19007,
+    32.641574
+],
+  "geometry": {"coordinates":[-97.19007000000001,32.641574],"type":"Point"}
 }

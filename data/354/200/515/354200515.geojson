@@ -2,13 +2,14 @@
   "id": 354200515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.648785,29.504279,-98.648785,29.504279",
     "geom:latitude":29.504279,
     "geom:longitude":-98.648785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8623 Quail Whisper",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354200515,
-    "wof:lastmodified":1449066599,
+    "wof:lastmodified":1467085067,
     "wof:name":"Arlington Convention",
     "wof:parent_id":85893955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-98.648785,29.504279,-98.648785,29.504279],
+  "bbox": [
+    -98.648785,
+    29.504279,
+    -98.648785,
+    29.504279
+],
   "geometry": {"coordinates":[-98.648785,29.504279],"type":"Point"}
 }

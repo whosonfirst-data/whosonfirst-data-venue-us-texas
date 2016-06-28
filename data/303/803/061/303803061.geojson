@@ -2,13 +2,14 @@
   "id": 303803061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.70363,30.387338,-97.70363,30.387338",
     "geom:latitude":30.387338,
     "geom:longitude":-97.70363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12407 N Mopac Expy #100-359",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303803061,
-    "wof:lastmodified":1449000594,
+    "wof:lastmodified":1467083814,
     "wof:name":"Sellright Home Staging",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [-97.70363,30.387338,-97.70363,30.387338],
+  "bbox": [
+    -97.70363,
+    30.387338,
+    -97.70363,
+    30.387338
+],
   "geometry": {"coordinates":[-97.70363,30.387338],"type":"Point"}
 }

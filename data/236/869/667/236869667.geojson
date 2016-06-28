@@ -2,13 +2,14 @@
   "id": 236869667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801196,32.802216,-96.801196,32.802216",
     "geom:latitude":32.802216,
     "geom:longitude":-96.801196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 McKinney Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236869667,
-    "wof:lastmodified":1449004931,
+    "wof:lastmodified":1467084024,
     "wof:name":"The Dog Lofts",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sitting"
     ]
 },
-  "bbox": [-96.801196,32.802216,-96.801196,32.802216],
+  "bbox": [
+    -96.801196,
+    32.802216,
+    -96.801196,
+    32.802216
+],
   "geometry": {"coordinates":[-96.801196,32.802216],"type":"Point"}
 }

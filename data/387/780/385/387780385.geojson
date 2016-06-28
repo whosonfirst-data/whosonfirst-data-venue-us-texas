@@ -2,13 +2,14 @@
   "id": 387780385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.485488,29.902806,-95.485488,29.902806",
     "geom:latitude":29.902806,
     "geom:longitude":-95.485488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11851 Euclaire Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387780385,
-    "wof:lastmodified":1449058958,
+    "wof:lastmodified":1467084857,
     "wof:name":"City Wide Construction",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.485488,29.902806,-95.485488,29.902806],
+  "bbox": [
+    -95.485488,
+    29.902806,
+    -95.485488,
+    29.902806
+],
   "geometry": {"coordinates":[-95.485488,29.902806],"type":"Point"}
 }

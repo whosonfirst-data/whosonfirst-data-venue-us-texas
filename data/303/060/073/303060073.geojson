@@ -2,13 +2,14 @@
   "id": 303060073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.873556,30.124181,-97.873556,30.124181",
     "geom:latitude":30.124181,
     "geom:longitude":-97.873556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Country Ln",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303060073,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1467083801,
     "wof:name":"Salon Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.873556,30.124181,-97.873556,30.124181],
-  "geometry": {"coordinates":[-97.873556,30.124181],"type":"Point"}
+  "bbox": [
+    -97.873556,
+    30.124181,
+    -97.873556,
+    30.124181
+],
+  "geometry": {"coordinates":[-97.87355599999999,30.124181],"type":"Point"}
 }

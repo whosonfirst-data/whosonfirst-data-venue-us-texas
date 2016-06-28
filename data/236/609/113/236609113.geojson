@@ -2,13 +2,14 @@
   "id": 236609113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.196536,32.934472,-97.196536,32.934472",
     "geom:latitude":32.934472,
     "geom:longitude":-97.196536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 W Southlake Blvd",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236609113,
-    "wof:lastmodified":1449002769,
+    "wof:lastmodified":1467083922,
     "wof:name":"Vintage American Home Builder",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.196536,32.934472,-97.196536,32.934472],
-  "geometry": {"coordinates":[-97.196536,32.934472],"type":"Point"}
+  "bbox": [
+    -97.196536,
+    32.934472,
+    -97.196536,
+    32.934472
+],
+  "geometry": {"coordinates":[-97.19653599999999,32.934472],"type":"Point"}
 }

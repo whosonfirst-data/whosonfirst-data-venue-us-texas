@@ -2,13 +2,14 @@
   "id": 236127121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.632572,30.36761,-95.632572,30.36761",
     "geom:latitude":30.36761,
     "geom:longitude":-95.632572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Pine Lake Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236127121,
-    "wof:lastmodified":1449004923,
+    "wof:lastmodified":1467084024,
     "wof:name":"SBA Inc",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.632572,30.36761,-95.632572,30.36761],
+  "bbox": [
+    -95.632572,
+    30.36761,
+    -95.632572,
+    30.36761
+],
   "geometry": {"coordinates":[-95.632572,30.36761],"type":"Point"}
 }

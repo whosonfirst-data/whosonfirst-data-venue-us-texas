@@ -2,13 +2,14 @@
   "id": 252866207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.641456,30.631355,-97.641456,30.631355",
     "geom:latitude":30.631355,
     "geom:longitude":-97.641456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Thunderbay Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252866207,
-    "wof:lastmodified":1449005926,
+    "wof:lastmodified":1467084076,
     "wof:name":"Scott Mc Fall",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.641456,30.631355,-97.641456,30.631355],
-  "geometry": {"coordinates":[-97.641456,30.631355],"type":"Point"}
+  "bbox": [
+    -97.641456,
+    30.631355,
+    -97.641456,
+    30.631355
+],
+  "geometry": {"coordinates":[-97.64145600000001,30.631355],"type":"Point"}
 }

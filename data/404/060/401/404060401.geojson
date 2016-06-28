@@ -2,13 +2,14 @@
   "id": 404060401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.509387,33.66168,-95.509387,33.66168",
     "geom:latitude":33.66168,
     "geom:longitude":-95.509387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Lamar Rd",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404060401,
-    "wof:lastmodified":1449040226,
+    "wof:lastmodified":1467084658,
     "wof:name":"Paris Travel Consultants Inc",
     "wof:parent_id":85821611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-95.509387,33.66168,-95.509387,33.66168],
+  "bbox": [
+    -95.509387,
+    33.66168,
+    -95.509387,
+    33.66168
+],
   "geometry": {"coordinates":[-95.509387,33.66168],"type":"Point"}
 }

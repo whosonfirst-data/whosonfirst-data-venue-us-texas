@@ -2,13 +2,14 @@
   "id": 253044367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855717,32.941845,-96.855717,32.941845",
     "geom:latitude":32.941845,
     "geom:longitude":-96.855717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15120 Marsh Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253044367,
-    "wof:lastmodified":1449064363,
+    "wof:lastmodified":1467084998,
     "wof:name":"Taco Cabana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.855717,32.941845,-96.855717,32.941845],
+  "bbox": [
+    -96.855717,
+    32.941845,
+    -96.855717,
+    32.941845
+],
   "geometry": {"coordinates":[-96.855717,32.941845],"type":"Point"}
 }

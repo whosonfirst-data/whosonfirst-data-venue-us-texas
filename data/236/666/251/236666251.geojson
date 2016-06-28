@@ -2,13 +2,14 @@
   "id": 236666251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.538469,31.518789,-96.538469,31.518789",
     "geom:latitude":31.518789,
     "geom:longitude":-96.538469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 S Ellis St",
     "sg:city":"Groesbeck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236666251,
-    "wof:lastmodified":1449002736,
+    "wof:lastmodified":1467083920,
     "wof:name":"Groesbeck ISD Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.538469,31.518789,-96.538469,31.518789],
-  "geometry": {"coordinates":[-96.538469,31.518789],"type":"Point"}
+  "bbox": [
+    -96.538469,
+    31.518789,
+    -96.538469,
+    31.518789
+],
+  "geometry": {"coordinates":[-96.53846900000001,31.518789],"type":"Point"}
 }

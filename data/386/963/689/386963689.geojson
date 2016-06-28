@@ -2,13 +2,14 @@
   "id": 386963689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.474089,27.530615,-99.474089,27.530615",
     "geom:latitude":27.530615,
     "geom:longitude":-99.474089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 E Saunders St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386963689,
-    "wof:lastmodified":1449028661,
+    "wof:lastmodified":1467084459,
     "wof:name":"I C Smiles",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.474089,27.530615,-99.474089,27.530615],
-  "geometry": {"coordinates":[-99.474089,27.530615],"type":"Point"}
+  "bbox": [
+    -99.474089,
+    27.530615,
+    -99.474089,
+    27.530615
+],
+  "geometry": {"coordinates":[-99.47408900000001,27.530615],"type":"Point"}
 }

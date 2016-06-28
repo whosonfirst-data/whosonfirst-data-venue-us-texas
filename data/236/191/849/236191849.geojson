@@ -2,13 +2,14 @@
   "id": 236191849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.988887,32.82837,-96.988887,32.82837",
     "geom:latitude":32.82837,
     "geom:longitude":-96.988887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2934 W Pioneer Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236191849,
-    "wof:lastmodified":1449003689,
+    "wof:lastmodified":1467083965,
     "wof:name":"Park Manor Apartments",
     "wof:parent_id":85850385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.988887,32.82837,-96.988887,32.82837],
-  "geometry": {"coordinates":[-96.988887,32.82837],"type":"Point"}
+  "bbox": [
+    -96.988887,
+    32.82837,
+    -96.988887,
+    32.82837
+],
+  "geometry": {"coordinates":[-96.98888700000001,32.82837],"type":"Point"}
 }

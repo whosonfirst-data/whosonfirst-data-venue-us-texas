@@ -2,13 +2,14 @@
   "id": 303655685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.863047,30.228122,-97.863047,30.228122",
     "geom:latitude":30.228122,
     "geom:longitude":-97.863047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 W William Cannon Dr Ste 302",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303655685,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1467083762,
     "wof:name":"Nextcare",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.863047,30.228122,-97.863047,30.228122],
-  "geometry": {"coordinates":[-97.863047,30.228122],"type":"Point"}
+  "bbox": [
+    -97.863047,
+    30.228122,
+    -97.863047,
+    30.228122
+],
+  "geometry": {"coordinates":[-97.86304699999999,30.228122],"type":"Point"}
 }

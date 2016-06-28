@@ -2,13 +2,14 @@
   "id": 403947821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.383736,29.814594,-95.383736,29.814594",
     "geom:latitude":29.814594,
     "geom:longitude":-95.383736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 N Loop Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403947821,
-    "wof:lastmodified":1449055573,
+    "wof:lastmodified":1467084771,
     "wof:name":"Advanced Transmission",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.383736,29.814594,-95.383736,29.814594],
+  "bbox": [
+    -95.383736,
+    29.814594,
+    -95.383736,
+    29.814594
+],
   "geometry": {"coordinates":[-95.383736,29.814594],"type":"Point"}
 }

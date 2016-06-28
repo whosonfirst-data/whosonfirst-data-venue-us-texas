@@ -2,13 +2,14 @@
   "id": 370918889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.305147,29.703515,-95.305147,29.703515",
     "geom:latitude":29.703515,
     "geom:longitude":-95.305147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4302 Telephone Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370918889,
-    "wof:lastmodified":1449031377,
+    "wof:lastmodified":1467084526,
     "wof:name":"Stop N Go 3616",
     "wof:parent_id":85869309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.305147,29.703515,-95.305147,29.703515],
-  "geometry": {"coordinates":[-95.305147,29.703515],"type":"Point"}
+  "bbox": [
+    -95.305147,
+    29.703515,
+    -95.305147,
+    29.703515
+],
+  "geometry": {"coordinates":[-95.30514700000001,29.703515],"type":"Point"}
 }

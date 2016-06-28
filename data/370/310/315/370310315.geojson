@@ -2,13 +2,14 @@
   "id": 370310315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752008,30.300245,-97.752008,30.300245",
     "geom:latitude":30.300245,
     "geom:longitude":-97.752008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 Harris Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370310315,
-    "wof:lastmodified":1449031172,
+    "wof:lastmodified":1467084521,
     "wof:name":"Citybag",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.752008,30.300245,-97.752008,30.300245],
+  "bbox": [
+    -97.752008,
+    30.300245,
+    -97.752008,
+    30.300245
+],
   "geometry": {"coordinates":[-97.752008,30.300245],"type":"Point"}
 }

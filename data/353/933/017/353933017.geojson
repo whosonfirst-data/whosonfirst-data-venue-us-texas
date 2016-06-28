@@ -2,13 +2,14 @@
   "id": 353933017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.462613,31.423119,-100.462613,31.423119",
     "geom:latitude":31.423119,
     "geom:longitude":-100.462613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3136 Executive Dr",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353933017,
-    "wof:lastmodified":1449018778,
+    "wof:lastmodified":1467084332,
     "wof:name":"Lighthouse Family Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-100.462613,31.423119,-100.462613,31.423119],
+  "bbox": [
+    -100.462613,
+    31.423119,
+    -100.462613,
+    31.423119
+],
   "geometry": {"coordinates":[-100.462613,31.423119],"type":"Point"}
 }

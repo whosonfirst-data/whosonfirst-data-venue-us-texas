@@ -2,13 +2,14 @@
   "id": 186172275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325244,29.928905,-95.325244,29.928905",
     "geom:latitude":29.928905,
     "geom:longitude":-95.325244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14950 Heathrow Forrest Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186172275,
-    "wof:lastmodified":1449051452,
+    "wof:lastmodified":1467084714,
     "wof:name":"P S G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-95.325244,29.928905,-95.325244,29.928905],
+  "bbox": [
+    -95.325244,
+    29.928905,
+    -95.325244,
+    29.928905
+],
   "geometry": {"coordinates":[-95.325244,29.928905],"type":"Point"}
 }

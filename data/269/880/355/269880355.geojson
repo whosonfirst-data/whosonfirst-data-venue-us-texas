@@ -2,13 +2,14 @@
   "id": 269880355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.344067,29.723631,-95.344067,29.723631",
     "geom:latitude":29.723631,
     "geom:longitude":-95.344067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"University of Houston 567 University Center Satellite",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":269880355,
-    "wof:lastmodified":1449038997,
+    "wof:lastmodified":1467084639,
     "wof:name":"Burger Studio",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-95.344067,29.723631,-95.344067,29.723631],
+  "bbox": [
+    -95.344067,
+    29.723631,
+    -95.344067,
+    29.723631
+],
   "geometry": {"coordinates":[-95.344067,29.723631],"type":"Point"}
 }

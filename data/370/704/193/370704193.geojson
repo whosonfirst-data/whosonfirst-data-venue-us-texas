@@ -2,13 +2,14 @@
   "id": 370704193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.577249,30.31776,-95.577249,30.31776",
     "geom:latitude":30.31776,
     "geom:longitude":-95.577249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14017 Parrish Trl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370704193,
-    "wof:lastmodified":1449029980,
+    "wof:lastmodified":1467084491,
     "wof:name":"Record Hole",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.577249,30.31776,-95.577249,30.31776],
-  "geometry": {"coordinates":[-95.577249,30.31776],"type":"Point"}
+  "bbox": [
+    -95.577249,
+    30.31776,
+    -95.577249,
+    30.31776
+],
+  "geometry": {"coordinates":[-95.57724899999999,30.31776],"type":"Point"}
 }

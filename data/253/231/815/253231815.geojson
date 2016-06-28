@@ -2,13 +2,14 @@
   "id": 253231815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.323083,30.177145,-96.323083,30.177145",
     "geom:latitude":30.177145,
     "geom:longitude":-96.323083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Walker League Ln",
     "sg:city":"Brenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253231815,
-    "wof:lastmodified":1449064336,
+    "wof:lastmodified":1467084996,
     "wof:name":"Washington County Water Well",
     "wof:parent_id":85893589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-96.323083,30.177145,-96.323083,30.177145],
+  "bbox": [
+    -96.323083,
+    30.177145,
+    -96.323083,
+    30.177145
+],
   "geometry": {"coordinates":[-96.323083,30.177145],"type":"Point"}
 }

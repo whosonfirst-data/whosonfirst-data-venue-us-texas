@@ -2,13 +2,14 @@
   "id": 303120949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.045151,30.15757,-99.045151,30.15757",
     "geom:latitude":30.15757,
     "geom:longitude":-99.045151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Quinn Ct Unit 228",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303120949,
-    "wof:lastmodified":1449000211,
+    "wof:lastmodified":1467083795,
     "wof:name":"Life Studies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishers-periodical"
     ]
 },
-  "bbox": [-99.045151,30.15757,-99.045151,30.15757],
+  "bbox": [
+    -99.045151,
+    30.15757,
+    -99.045151,
+    30.15757
+],
   "geometry": {"coordinates":[-99.045151,30.15757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286984153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.120529,30.09617,-94.120529,30.09617",
     "geom:latitude":30.09617,
     "geom:longitude":-94.120529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N 7th St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286984153,
-    "wof:lastmodified":1449016853,
+    "wof:lastmodified":1467084283,
     "wof:name":"7th Street Warehouse",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "self"
     ]
 },
-  "bbox": [-94.120529,30.09617,-94.120529,30.09617],
+  "bbox": [
+    -94.120529,
+    30.09617,
+    -94.120529,
+    30.09617
+],
   "geometry": {"coordinates":[-94.120529,30.09617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236859685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800913,32.781514,-96.800913,32.781514",
     "geom:latitude":32.781514,
     "geom:longitude":-96.800913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Elm St 41st Fl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236859685,
-    "wof:lastmodified":1449004119,
+    "wof:lastmodified":1467083985,
     "wof:name":"International Speakers Bureau",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "event"
     ]
 },
-  "bbox": [-96.800913,32.781514,-96.800913,32.781514],
-  "geometry": {"coordinates":[-96.800913,32.781514],"type":"Point"}
+  "bbox": [
+    -96.800913,
+    32.781514,
+    -96.800913,
+    32.781514
+],
+  "geometry": {"coordinates":[-96.80091299999999,32.781514],"type":"Point"}
 }

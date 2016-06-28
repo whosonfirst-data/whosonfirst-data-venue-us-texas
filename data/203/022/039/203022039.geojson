@@ -2,13 +2,14 @@
   "id": 203022039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.379906,32.627652,-97.379906,32.627652",
     "geom:latitude":32.627652,
     "geom:longitude":-97.379906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3948 Blue Pond Cir",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203022039,
-    "wof:lastmodified":1449025546,
+    "wof:lastmodified":1467084396,
     "wof:name":"Smith Drafting Svc",
     "wof:parent_id":85871607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-97.379906,32.627652,-97.379906,32.627652],
-  "geometry": {"coordinates":[-97.379906,32.627652],"type":"Point"}
+  "bbox": [
+    -97.379906,
+    32.627652,
+    -97.379906,
+    32.627652
+],
+  "geometry": {"coordinates":[-97.37990600000001,32.627652],"type":"Point"}
 }

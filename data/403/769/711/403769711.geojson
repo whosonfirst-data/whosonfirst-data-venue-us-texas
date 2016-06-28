@@ -2,13 +2,14 @@
   "id": 403769711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508203,29.546843,-98.508203,29.546843",
     "geom:latitude":29.546843,
     "geom:longitude":-98.508203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11813 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403769711,
-    "wof:lastmodified":1449055072,
+    "wof:lastmodified":1467084760,
     "wof:name":"Soccer Corner",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-98.508203,29.546843,-98.508203,29.546843],
-  "geometry": {"coordinates":[-98.508203,29.546843],"type":"Point"}
+  "bbox": [
+    -98.508203,
+    29.546843,
+    -98.508203,
+    29.546843
+],
+  "geometry": {"coordinates":[-98.50820299999999,29.546843],"type":"Point"}
 }

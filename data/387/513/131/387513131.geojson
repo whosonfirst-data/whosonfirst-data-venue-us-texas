@@ -2,13 +2,14 @@
   "id": 387513131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.381284,31.878023,-102.381284,31.878023",
     "geom:latitude":31.878023,
     "geom:longitude":-102.381284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 37th St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387513131,
-    "wof:lastmodified":1449058628,
+    "wof:lastmodified":1467084849,
     "wof:name":"Sierra Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-102.381284,31.878023,-102.381284,31.878023],
-  "geometry": {"coordinates":[-102.381284,31.878023],"type":"Point"}
+  "bbox": [
+    -102.381284,
+    31.878023,
+    -102.381284,
+    31.878023
+],
+  "geometry": {"coordinates":[-102.38128399999999,31.878023],"type":"Point"}
 }

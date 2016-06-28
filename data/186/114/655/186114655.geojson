@@ -2,13 +2,14 @@
   "id": 186114655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.305131,30.619277,-96.305131,30.619277",
     "geom:latitude":30.619277,
     "geom:longitude":-96.305131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Holleman Dr E",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186114655,
-    "wof:lastmodified":1449051495,
+    "wof:lastmodified":1467084715,
     "wof:name":"Sevilla Apartments",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.305131,30.619277,-96.305131,30.619277],
+  "bbox": [
+    -96.305131,
+    30.619277,
+    -96.305131,
+    30.619277
+],
   "geometry": {"coordinates":[-96.305131,30.619277],"type":"Point"}
 }

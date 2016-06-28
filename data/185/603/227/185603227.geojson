@@ -2,13 +2,14 @@
   "id": 185603227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970253,29.897864,-97.970253,29.897864",
     "geom:latitude":29.897864,
     "geom:longitude":-97.970253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Ranch Rd 12",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185603227,
-    "wof:lastmodified":1449007985,
+    "wof:lastmodified":1467084135,
     "wof:name":"First Choice Moving Svc",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.970253,29.897864,-97.970253,29.897864],
+  "bbox": [
+    -97.970253,
+    29.897864,
+    -97.970253,
+    29.897864
+],
   "geometry": {"coordinates":[-97.970253,29.897864],"type":"Point"}
 }

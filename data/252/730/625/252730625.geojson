@@ -2,13 +2,14 @@
   "id": 252730625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.216389,29.936425,-98.216389,29.936425",
     "geom:latitude":29.936425,
     "geom:longitude":-98.216389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Monarch",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252730625,
-    "wof:lastmodified":1449006348,
+    "wof:lastmodified":1467084099,
     "wof:name":"Monarch Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mail"
     ]
 },
-  "bbox": [-98.216389,29.936425,-98.216389,29.936425],
-  "geometry": {"coordinates":[-98.216389,29.936425],"type":"Point"}
+  "bbox": [
+    -98.216389,
+    29.936425,
+    -98.216389,
+    29.936425
+],
+  "geometry": {"coordinates":[-98.21638900000001,29.936425],"type":"Point"}
 }

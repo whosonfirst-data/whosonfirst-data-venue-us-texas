@@ -2,13 +2,14 @@
   "id": 403986683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.870258,33.546999,-101.870258,33.546999",
     "geom:latitude":33.546999,
     "geom:longitude":-101.870258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 University Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403986683,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1467084774,
     "wof:name":"Costello Painting",
     "wof:parent_id":85878797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.870258,33.546999,-101.870258,33.546999],
-  "geometry": {"coordinates":[-101.870258,33.546999],"type":"Point"}
+  "bbox": [
+    -101.870258,
+    33.546999,
+    -101.870258,
+    33.546999
+],
+  "geometry": {"coordinates":[-101.87025800000001,33.546999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286850341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348921,29.224381,-95.348921,29.224381",
     "geom:latitude":29.224381,
     "geom:longitude":-95.348921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6104 5th St",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286850341,
-    "wof:lastmodified":1449016894,
+    "wof:lastmodified":1467084284,
     "wof:name":"Danbury Fire Department",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.348921,29.224381,-95.348921,29.224381],
+  "bbox": [
+    -95.348921,
+    29.224381,
+    -95.348921,
+    29.224381
+],
   "geometry": {"coordinates":[-95.348921,29.224381],"type":"Point"}
 }

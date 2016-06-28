@@ -2,13 +2,14 @@
   "id": 185819133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.90229,35.176458,-101.90229,35.176458",
     "geom:latitude":35.176458,
     "geom:longitude":-101.90229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 W 34th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185819133,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1467084118,
     "wof:name":"D M L 2",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.90229,35.176458,-101.90229,35.176458],
-  "geometry": {"coordinates":[-101.90229,35.176458],"type":"Point"}
+  "bbox": [
+    -101.90229,
+    35.176458,
+    -101.90229,
+    35.176458
+],
+  "geometry": {"coordinates":[-101.90228999999999,35.176458],"type":"Point"}
 }

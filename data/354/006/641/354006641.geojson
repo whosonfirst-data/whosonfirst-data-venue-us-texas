@@ -2,13 +2,14 @@
   "id": 354006641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.94844,33.53463,-101.94844,33.53463",
     "geom:latitude":33.53463,
     "geom:longitude":-101.94844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6302 Iola Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354006641,
-    "wof:lastmodified":1449067304,
+    "wof:lastmodified":1467085085,
     "wof:name":"Graham's Central Station",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.94844,33.53463,-101.94844,33.53463],
-  "geometry": {"coordinates":[-101.94844,33.53463],"type":"Point"}
+  "bbox": [
+    -101.94844,
+    33.53463,
+    -101.94844,
+    33.53463
+],
+  "geometry": {"coordinates":[-101.94844000000001,33.53463],"type":"Point"}
 }

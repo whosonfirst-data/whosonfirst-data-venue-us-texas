@@ -2,13 +2,14 @@
   "id": 387150167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.537967,29.582499,-98.537967,29.582499",
     "geom:latitude":29.582499,
     "geom:longitude":-98.537967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15303 Huebner Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387150167,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1467084786,
     "wof:name":"National Unity Insurance Co",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.537967,29.582499,-98.537967,29.582499],
-  "geometry": {"coordinates":[-98.537967,29.582499],"type":"Point"}
+  "bbox": [
+    -98.537967,
+    29.582499,
+    -98.537967,
+    29.582499
+],
+  "geometry": {"coordinates":[-98.53796699999999,29.582499],"type":"Point"}
 }

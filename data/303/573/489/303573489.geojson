@@ -2,13 +2,14 @@
   "id": 303573489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757032,30.214772,-97.757032,30.214772",
     "geom:latitude":30.214772,
     "geom:longitude":-97.757032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Saint Elmo Rd Elmo",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303573489,
-    "wof:lastmodified":1448999924,
+    "wof:lastmodified":1467083782,
     "wof:name":"Point Collision Center",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "repairing"
     ]
 },
-  "bbox": [-97.757032,30.214772,-97.757032,30.214772],
+  "bbox": [
+    -97.757032,
+    30.214772,
+    -97.757032,
+    30.214772
+],
   "geometry": {"coordinates":[-97.757032,30.214772],"type":"Point"}
 }

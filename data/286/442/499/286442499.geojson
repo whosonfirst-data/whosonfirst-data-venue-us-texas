@@ -2,13 +2,14 @@
   "id": 286442499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.558225,29.683577,-95.558225,29.683577",
     "geom:latitude":29.683577,
     "geom:longitude":-95.558225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9303 W Sam Houston Pkwy S",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286442499,
-    "wof:lastmodified":1449016480,
+    "wof:lastmodified":1467084271,
     "wof:name":"Zenith Learning",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tutoring"
     ]
 },
-  "bbox": [-95.558225,29.683577,-95.558225,29.683577],
-  "geometry": {"coordinates":[-95.558225,29.683577],"type":"Point"}
+  "bbox": [
+    -95.558225,
+    29.683577,
+    -95.558225,
+    29.683577
+],
+  "geometry": {"coordinates":[-95.55822499999999,29.683577],"type":"Point"}
 }

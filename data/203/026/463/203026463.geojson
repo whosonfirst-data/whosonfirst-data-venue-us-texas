@@ -2,13 +2,14 @@
   "id": 203026463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.704225,32.330558,-99.704225,32.330558",
     "geom:latitude":32.330558,
     "geom:longitude":-99.704225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Baize Rd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203026463,
-    "wof:lastmodified":1449026065,
+    "wof:lastmodified":1467084406,
     "wof:name":"Wesley's Auto",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-99.704225,32.330558,-99.704225,32.330558],
-  "geometry": {"coordinates":[-99.704225,32.330558],"type":"Point"}
+  "bbox": [
+    -99.704225,
+    32.330558,
+    -99.704225,
+    32.330558
+],
+  "geometry": {"coordinates":[-99.70422499999999,32.330558],"type":"Point"}
 }

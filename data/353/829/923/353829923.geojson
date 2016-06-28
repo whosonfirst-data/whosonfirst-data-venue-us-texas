@@ -2,13 +2,14 @@
   "id": 353829923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707101,30.667761,-97.707101,30.667761",
     "geom:latitude":30.667761,
     "geom:longitude":-97.707101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Booty Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353829923,
-    "wof:lastmodified":1449020631,
+    "wof:lastmodified":1467084372,
     "wof:name":"A Plus Svc",
     "wof:parent_id":85893919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.707101,30.667761,-97.707101,30.667761],
-  "geometry": {"coordinates":[-97.707101,30.667761],"type":"Point"}
+  "bbox": [
+    -97.707101,
+    30.667761,
+    -97.707101,
+    30.667761
+],
+  "geometry": {"coordinates":[-97.70710099999999,30.667761],"type":"Point"}
 }

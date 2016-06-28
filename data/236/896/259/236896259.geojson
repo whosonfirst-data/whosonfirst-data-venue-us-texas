@@ -2,13 +2,14 @@
   "id": 236896259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781427,32.831308,-96.781427,32.831308",
     "geom:latitude":32.831308,
     "geom:longitude":-96.781427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 N Central Expy Ste 300",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236896259,
-    "wof:lastmodified":1449002727,
+    "wof:lastmodified":1467083920,
     "wof:name":"Associa",
     "wof:parent_id":85867223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bureau"
     ]
 },
-  "bbox": [-96.781427,32.831308,-96.781427,32.831308],
-  "geometry": {"coordinates":[-96.781427,32.831308],"type":"Point"}
+  "bbox": [
+    -96.781427,
+    32.831308,
+    -96.781427,
+    32.831308
+],
+  "geometry": {"coordinates":[-96.78142699999999,32.831308],"type":"Point"}
 }

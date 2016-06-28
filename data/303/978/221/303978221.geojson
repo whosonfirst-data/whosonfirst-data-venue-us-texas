@@ -2,13 +2,14 @@
   "id": 303978221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.381051,33.185941,-101.381051,33.185941",
     "geom:latitude":33.185941,
     "geom:longitude":-101.381051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W 5th St",
     "sg:city":"Post",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303978221,
-    "wof:lastmodified":1448999533,
+    "wof:lastmodified":1467083762,
     "wof:name":"General Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-101.381051,33.185941,-101.381051,33.185941],
+  "bbox": [
+    -101.381051,
+    33.185941,
+    -101.381051,
+    33.185941
+],
   "geometry": {"coordinates":[-101.381051,33.185941],"type":"Point"}
 }

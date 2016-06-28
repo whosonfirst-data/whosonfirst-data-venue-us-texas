@@ -2,13 +2,14 @@
   "id": 236440453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.003504,32.709647,-97.003504,32.709647",
     "geom:latitude":32.709647,
     "geom:longitude":-97.003504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Oak Ln",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236440453,
-    "wof:lastmodified":1449002688,
+    "wof:lastmodified":1467083918,
     "wof:name":"National Federation of Blind",
     "wof:parent_id":85829447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blind"
     ]
 },
-  "bbox": [-97.003504,32.709647,-97.003504,32.709647],
-  "geometry": {"coordinates":[-97.003504,32.709647],"type":"Point"}
+  "bbox": [
+    -97.003504,
+    32.709647,
+    -97.003504,
+    32.709647
+],
+  "geometry": {"coordinates":[-97.00350400000001,32.709647],"type":"Point"}
 }

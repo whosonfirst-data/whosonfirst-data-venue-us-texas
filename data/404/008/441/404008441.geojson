@@ -2,13 +2,14 @@
   "id": 404008441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.979211,30.850538,-96.979211,30.850538",
     "geom:latitude":30.850538,
     "geom:longitude":-96.979211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Crockett Ave",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404008441,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1467084646,
     "wof:name":"St Francis of Assist Angl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.979211,30.850538,-96.979211,30.850538],
-  "geometry": {"coordinates":[-96.979211,30.850538],"type":"Point"}
+  "bbox": [
+    -96.979211,
+    30.850538,
+    -96.979211,
+    30.850538
+],
+  "geometry": {"coordinates":[-96.97921100000001,30.850538],"type":"Point"}
 }

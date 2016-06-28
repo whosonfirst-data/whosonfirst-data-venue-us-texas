@@ -2,13 +2,14 @@
   "id": 252989587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.251216,29.652149,-95.251216,29.652149",
     "geom:latitude":29.652149,
     "geom:longitude":-95.251216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252989587,
-    "wof:lastmodified":1449006198,
+    "wof:lastmodified":1467084091,
     "wof:name":"Brake Check",
     "wof:parent_id":85816393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-95.251216,29.652149,-95.251216,29.652149],
+  "bbox": [
+    -95.251216,
+    29.652149,
+    -95.251216,
+    29.652149
+],
   "geometry": {"coordinates":[-95.251216,29.652149],"type":"Point"}
 }

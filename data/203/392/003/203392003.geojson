@@ -2,13 +2,14 @@
   "id": 203392003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503773,32.751987,-97.503773,32.751987",
     "geom:latitude":32.751987,
     "geom:longitude":-97.503773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10244 Maria Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203392003,
-    "wof:lastmodified":1449026458,
+    "wof:lastmodified":1467084413,
     "wof:name":"Evans Photography",
     "wof:parent_id":85871621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.503773,32.751987,-97.503773,32.751987],
+  "bbox": [
+    -97.503773,
+    32.751987,
+    -97.503773,
+    32.751987
+],
   "geometry": {"coordinates":[-97.503773,32.751987],"type":"Point"}
 }

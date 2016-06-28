@@ -2,13 +2,14 @@
   "id": 253140089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.770429,32.392404,-99.770429,32.392404",
     "geom:latitude":32.392404,
     "geom:longitude":-99.770429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633 Carrie Ann Ln",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253140089,
-    "wof:lastmodified":1449063245,
+    "wof:lastmodified":1467084959,
     "wof:name":"Beyond Belief",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.770429,32.392404,-99.770429,32.392404],
-  "geometry": {"coordinates":[-99.770429,32.392404],"type":"Point"}
+  "bbox": [
+    -99.770429,
+    32.392404,
+    -99.770429,
+    32.392404
+],
+  "geometry": {"coordinates":[-99.77042899999999,32.392404],"type":"Point"}
 }

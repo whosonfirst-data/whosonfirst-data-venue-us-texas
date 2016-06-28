@@ -2,13 +2,14 @@
   "id": 370412987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445907,32.231306,-95.445907,32.231306",
     "geom:latitude":32.231306,
     "geom:longitude":-95.445907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17192 Pennie Ln",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370412987,
-    "wof:lastmodified":1449029783,
+    "wof:lastmodified":1467084486,
     "wof:name":"Roadworks Environmental",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.445907,32.231306,-95.445907,32.231306],
-  "geometry": {"coordinates":[-95.445907,32.231306],"type":"Point"}
+  "bbox": [
+    -95.445907,
+    32.231306,
+    -95.445907,
+    32.231306
+],
+  "geometry": {"coordinates":[-95.44590700000001,32.231306],"type":"Point"}
 }

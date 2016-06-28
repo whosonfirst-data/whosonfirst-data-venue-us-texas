@@ -2,13 +2,14 @@
   "id": 303200525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741752,30.264173,-97.741752,30.264173",
     "geom:latitude":30.264173,
     "geom:longitude":-97.741752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 San Jacinto Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303200525,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1467083740,
     "wof:name":"Second Street Market Inc",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.741752,30.264173,-97.741752,30.264173],
-  "geometry": {"coordinates":[-97.741752,30.264173],"type":"Point"}
+  "bbox": [
+    -97.741752,
+    30.264173,
+    -97.741752,
+    30.264173
+],
+  "geometry": {"coordinates":[-97.74175200000001,30.264173],"type":"Point"}
 }

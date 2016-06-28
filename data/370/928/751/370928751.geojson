@@ -2,13 +2,14 @@
   "id": 370928751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944041,29.812024,-97.944041,29.812024",
     "geom:latitude":29.812024,
     "geom:longitude":-97.944041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 State Hwy 123",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370928751,
-    "wof:lastmodified":1449031996,
+    "wof:lastmodified":1467084542,
     "wof:name":"San Marcos Air Conditioning",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-97.944041,29.812024,-97.944041,29.812024],
+  "bbox": [
+    -97.944041,
+    29.812024,
+    -97.944041,
+    29.812024
+],
   "geometry": {"coordinates":[-97.944041,29.812024],"type":"Point"}
 }

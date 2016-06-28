@@ -2,13 +2,14 @@
   "id": 219602163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.617893,32.878014,-96.617893,32.878014",
     "geom:latitude":32.878014,
     "geom:longitude":-96.617893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Southern Dr",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219602163,
-    "wof:lastmodified":1449072053,
+    "wof:lastmodified":1467085135,
     "wof:name":"USA Home Owners",
     "wof:parent_id":85877693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.617893,32.878014,-96.617893,32.878014],
+  "bbox": [
+    -96.617893,
+    32.878014,
+    -96.617893,
+    32.878014
+],
   "geometry": {"coordinates":[-96.617893,32.878014],"type":"Point"}
 }

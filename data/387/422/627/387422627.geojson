@@ -2,13 +2,14 @@
   "id": 387422627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401727,32.818309,-97.401727,32.818309",
     "geom:latitude":32.818309,
     "geom:longitude":-97.401727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 NW Loop 820",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387422627,
-    "wof:lastmodified":1449056380,
+    "wof:lastmodified":1467084791,
     "wof:name":"Fort Worth Reps Inc",
     "wof:parent_id":85871665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-97.401727,32.818309,-97.401727,32.818309],
-  "geometry": {"coordinates":[-97.401727,32.818309],"type":"Point"}
+  "bbox": [
+    -97.401727,
+    32.818309,
+    -97.401727,
+    32.818309
+],
+  "geometry": {"coordinates":[-97.40172699999999,32.818309],"type":"Point"}
 }

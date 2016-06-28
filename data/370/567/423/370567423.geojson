@@ -2,13 +2,14 @@
   "id": 370567423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67259,29.885593,-97.67259,29.885593",
     "geom:latitude":29.885593,
     "geom:longitude":-97.67259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Manor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370567423,
-    "wof:lastmodified":1449032497,
+    "wof:lastmodified":1467084555,
     "wof:name":"Manor Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.67259,29.885593,-97.67259,29.885593],
+  "bbox": [
+    -97.67259,
+    29.885593,
+    -97.67259,
+    29.885593
+],
   "geometry": {"coordinates":[-97.67259,29.885593],"type":"Point"}
 }

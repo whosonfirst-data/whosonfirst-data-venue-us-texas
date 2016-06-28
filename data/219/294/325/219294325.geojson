@@ -2,13 +2,14 @@
   "id": 219294325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.462961,29.522479,-98.462961,29.522479",
     "geom:latitude":29.522479,
     "geom:longitude":-98.462961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9035 Aero St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219294325,
-    "wof:lastmodified":1449072914,
+    "wof:lastmodified":1467085153,
     "wof:name":"Excavation & Utilities-Texas",
     "wof:parent_id":85837787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.462961,29.522479,-98.462961,29.522479],
-  "geometry": {"coordinates":[-98.462961,29.522479],"type":"Point"}
+  "bbox": [
+    -98.462961,
+    29.522479,
+    -98.462961,
+    29.522479
+],
+  "geometry": {"coordinates":[-98.46296100000001,29.522479],"type":"Point"}
 }

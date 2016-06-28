@@ -2,13 +2,14 @@
   "id": 253268747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82305,32.946319,-96.82305,32.946319",
     "geom:latitude":32.946319,
     "geom:longitude":-96.82305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Beltline Rd Ste 708",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253268747,
-    "wof:lastmodified":1449064507,
+    "wof:lastmodified":1467085003,
     "wof:name":"Jools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.82305,32.946319,-96.82305,32.946319],
-  "geometry": {"coordinates":[-96.82305,32.946319],"type":"Point"}
+  "bbox": [
+    -96.82305,
+    32.946319,
+    -96.82305,
+    32.946319
+],
+  "geometry": {"coordinates":[-96.82304999999999,32.946319],"type":"Point"}
 }

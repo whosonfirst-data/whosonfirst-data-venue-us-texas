@@ -2,13 +2,14 @@
   "id": 387774529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.300591,30.588591,-96.300591,30.588591",
     "geom:latitude":30.588591,
     "geom:longitude":-96.300591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Brothers Blvd",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387774529,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1467084822,
     "wof:name":"Ad Guy",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-96.300591,30.588591,-96.300591,30.588591],
+  "bbox": [
+    -96.300591,
+    30.588591,
+    -96.300591,
+    30.588591
+],
   "geometry": {"coordinates":[-96.300591,30.588591],"type":"Point"}
 }

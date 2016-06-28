@@ -2,13 +2,14 @@
   "id": 371002903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.283547,32.795049,-97.283547,32.795049",
     "geom:latitude":32.795049,
     "geom:longitude":-97.283547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 NE 28th St",
     "sg:city":"Haltom City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371002903,
-    "wof:lastmodified":1449049914,
+    "wof:lastmodified":1467084686,
     "wof:name":"Southwest Drive Axle",
     "wof:parent_id":85871525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.283547,32.795049,-97.283547,32.795049],
+  "bbox": [
+    -97.283547,
+    32.795049,
+    -97.283547,
+    32.795049
+],
   "geometry": {"coordinates":[-97.283547,32.795049],"type":"Point"}
 }

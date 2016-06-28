@@ -2,13 +2,14 @@
   "id": 287198845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.450401,29.661699,-98.450401,29.661699",
     "geom:latitude":29.661699,
     "geom:longitude":-98.450401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23365 US Highway 281 N",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287198845,
-    "wof:lastmodified":1449000984,
+    "wof:lastmodified":1467083829,
     "wof:name":"Bulverde Bexar Veterinary Clinic",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-98.450401,29.661699,-98.450401,29.661699],
+  "bbox": [
+    -98.450401,
+    29.661699,
+    -98.450401,
+    29.661699
+],
   "geometry": {"coordinates":[-98.450401,29.661699],"type":"Point"}
 }

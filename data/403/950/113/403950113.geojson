@@ -2,13 +2,14 @@
   "id": 403950113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.490434,31.683315,-96.490434,31.683315",
     "geom:latitude":31.683315,
     "geom:longitude":-96.490434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W Milam St",
     "sg:city":"Mexia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403950113,
-    "wof:lastmodified":1449055157,
+    "wof:lastmodified":1467084762,
     "wof:name":"AAA Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.490434,31.683315,-96.490434,31.683315],
-  "geometry": {"coordinates":[-96.490434,31.683315],"type":"Point"}
+  "bbox": [
+    -96.490434,
+    31.683315,
+    -96.490434,
+    31.683315
+],
+  "geometry": {"coordinates":[-96.49043399999999,31.683315],"type":"Point"}
 }

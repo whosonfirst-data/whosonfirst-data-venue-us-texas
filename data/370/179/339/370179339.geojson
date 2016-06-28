@@ -2,13 +2,14 @@
   "id": 370179339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.783128,30.256688,-97.783128,30.256688",
     "geom:latitude":30.256688,
     "geom:longitude":-97.783128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Briarcrest Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370179339,
-    "wof:lastmodified":1449032129,
+    "wof:lastmodified":1467084546,
     "wof:name":"MEDTRANSLATOR.COM",
     "wof:parent_id":85869925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.783128,30.256688,-97.783128,30.256688],
+  "bbox": [
+    -97.783128,
+    30.256688,
+    -97.783128,
+    30.256688
+],
   "geometry": {"coordinates":[-97.783128,30.256688],"type":"Point"}
 }

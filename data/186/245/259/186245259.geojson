@@ -2,13 +2,14 @@
   "id": 186245259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507879,29.547213,-98.507879,29.547213",
     "geom:latitude":29.547213,
     "geom:longitude":-98.507879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11781 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245259,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1467084745,
     "wof:name":"Bob's Comics",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-98.507879,29.547213,-98.507879,29.547213],
+  "bbox": [
+    -98.507879,
+    29.547213,
+    -98.507879,
+    29.547213
+],
   "geometry": {"coordinates":[-98.507879,29.547213],"type":"Point"}
 }

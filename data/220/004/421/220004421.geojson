@@ -2,13 +2,14 @@
   "id": 220004421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.269286,32.35218,-95.269286,32.35218",
     "geom:latitude":32.35218,
     "geom:longitude":-95.269286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 E Erwin St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220004421,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1467085183,
     "wof:name":"Squires Sheet Metal",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "metalwork"
     ]
 },
-  "bbox": [-95.269286,32.35218,-95.269286,32.35218],
-  "geometry": {"coordinates":[-95.269286,32.35218],"type":"Point"}
+  "bbox": [
+    -95.269286,
+    32.35218,
+    -95.269286,
+    32.35218
+],
+  "geometry": {"coordinates":[-95.26928599999999,32.35218],"type":"Point"}
 }

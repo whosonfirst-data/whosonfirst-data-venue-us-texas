@@ -2,13 +2,14 @@
   "id": 235955323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.505845,28.710259,-100.505845,28.710259",
     "geom:latitude":28.710259,
     "geom:longitude":-100.505845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 Washington St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235955323,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1467084145,
     "wof:name":"Our Lady Of Refuge School",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.505845,28.710259,-100.505845,28.710259],
-  "geometry": {"coordinates":[-100.505845,28.710259],"type":"Point"}
+  "bbox": [
+    -100.505845,
+    28.710259,
+    -100.505845,
+    28.710259
+],
+  "geometry": {"coordinates":[-100.50584499999999,28.710259],"type":"Point"}
 }

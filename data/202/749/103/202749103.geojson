@@ -2,13 +2,14 @@
   "id": 202749103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.185234,30.17353,-95.185234,30.17353",
     "geom:latitude":30.17353,
     "geom:longitude":-95.185234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Tall Timbers Rd",
     "sg:city":"New Caney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202749103,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1467084903,
     "wof:name":"Cakes & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retail"
     ]
 },
-  "bbox": [-95.185234,30.17353,-95.185234,30.17353],
-  "geometry": {"coordinates":[-95.185234,30.17353],"type":"Point"}
+  "bbox": [
+    -95.185234,
+    30.17353,
+    -95.185234,
+    30.17353
+],
+  "geometry": {"coordinates":[-95.18523399999999,30.17353],"type":"Point"}
 }

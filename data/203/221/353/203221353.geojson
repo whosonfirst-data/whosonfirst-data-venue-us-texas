@@ -2,13 +2,14 @@
   "id": 203221353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750571,30.291563,-97.750571,30.291563",
     "geom:latitude":30.291563,
     "geom:longitude":-97.750571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203221353,
-    "wof:lastmodified":1449025745,
+    "wof:lastmodified":1467084400,
     "wof:name":"Liberty Catering Incorporated",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.750571,30.291563,-97.750571,30.291563],
-  "geometry": {"coordinates":[-97.750571,30.291563],"type":"Point"}
+  "bbox": [
+    -97.750571,
+    30.291563,
+    -97.750571,
+    30.291563
+],
+  "geometry": {"coordinates":[-97.75057099999999,30.291563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353768891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.516646,29.71766,-95.516646,29.71766",
     "geom:latitude":29.71766,
     "geom:longitude":-95.516646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Harwin Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353768891,
-    "wof:lastmodified":1449019247,
+    "wof:lastmodified":1467084343,
     "wof:name":"Ssan Zip",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.516646,29.71766,-95.516646,29.71766],
-  "geometry": {"coordinates":[-95.516646,29.71766],"type":"Point"}
+  "bbox": [
+    -95.516646,
+    29.71766,
+    -95.516646,
+    29.71766
+],
+  "geometry": {"coordinates":[-95.51664599999999,29.71766],"type":"Point"}
 }

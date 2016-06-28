@@ -2,13 +2,14 @@
   "id": 354022141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.555478,33.865975,-98.555478,33.865975",
     "geom:latitude":33.865975,
     "geom:longitude":-98.555478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Westward Dr",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354022141,
-    "wof:lastmodified":1449066479,
+    "wof:lastmodified":1467085064,
     "wof:name":"Stepping Stones In Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.555478,33.865975,-98.555478,33.865975],
-  "geometry": {"coordinates":[-98.555478,33.865975],"type":"Point"}
+  "bbox": [
+    -98.555478,
+    33.865975,
+    -98.555478,
+    33.865975
+],
+  "geometry": {"coordinates":[-98.55547799999999,33.865975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186033343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.69951,29.039629,-95.69951,29.039629",
     "geom:latitude":29.039629,
     "geom:longitude":-95.69951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Main St",
     "sg:city":"Sweeny",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186033343,
-    "wof:lastmodified":1449050957,
+    "wof:lastmodified":1467084703,
     "wof:name":"Stop N Go",
     "wof:parent_id":85829137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.69951,29.039629,-95.69951,29.039629],
+  "bbox": [
+    -95.69951,
+    29.039629,
+    -95.69951,
+    29.039629
+],
   "geometry": {"coordinates":[-95.69951,29.039629],"type":"Point"}
 }

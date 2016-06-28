@@ -2,13 +2,14 @@
   "id": 370773365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.31274,29.927068,-95.31274,29.927068",
     "geom:latitude":29.927068,
     "geom:longitude":-95.31274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Toho Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370773365,
-    "wof:lastmodified":1449029519,
+    "wof:lastmodified":1467084479,
     "wof:name":"R F Hull Well Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "construction"
     ]
 },
-  "bbox": [-95.31274,29.927068,-95.31274,29.927068],
-  "geometry": {"coordinates":[-95.31274,29.927068],"type":"Point"}
+  "bbox": [
+    -95.31274,
+    29.927068,
+    -95.31274,
+    29.927068
+],
+  "geometry": {"coordinates":[-95.31274000000001,29.927068],"type":"Point"}
 }

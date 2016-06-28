@@ -2,13 +2,14 @@
   "id": 270129975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.45041,29.746492,-95.45041,29.746492",
     "geom:latitude":29.746492,
     "geom:longitude":-95.45041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4265 San Felipe St Ste 100st",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270129975,
-    "wof:lastmodified":1449010589,
+    "wof:lastmodified":1467084214,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.45041,29.746492,-95.45041,29.746492],
-  "geometry": {"coordinates":[-95.45041,29.746492],"type":"Point"}
+  "bbox": [
+    -95.45041,
+    29.746492,
+    -95.45041,
+    29.746492
+],
+  "geometry": {"coordinates":[-95.45041000000001,29.746492],"type":"Point"}
 }

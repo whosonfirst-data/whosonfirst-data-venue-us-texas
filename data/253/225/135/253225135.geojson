@@ -2,13 +2,14 @@
   "id": 253225135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.353321,33.179574,-96.353321,33.179574",
     "geom:latitude":33.179574,
     "geom:longitude":-96.353321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Red Oak Cir",
     "sg:city":"Farmersville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253225135,
-    "wof:lastmodified":1449063744,
+    "wof:lastmodified":1467084976,
     "wof:name":"Whitlocks Wedding Wands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.353321,33.179574,-96.353321,33.179574],
-  "geometry": {"coordinates":[-96.353321,33.179574],"type":"Point"}
+  "bbox": [
+    -96.353321,
+    33.179574,
+    -96.353321,
+    33.179574
+],
+  "geometry": {"coordinates":[-96.35332099999999,33.179574],"type":"Point"}
 }

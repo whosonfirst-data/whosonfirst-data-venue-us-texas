@@ -2,13 +2,14 @@
   "id": 270347289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.421399,29.678544,-95.421399,29.678544",
     "geom:latitude":29.678544,
     "geom:longitude":-95.421399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 S Loop W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270347289,
-    "wof:lastmodified":1449009814,
+    "wof:lastmodified":1467084188,
     "wof:name":"Train Louis MD",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.421399,29.678544,-95.421399,29.678544],
-  "geometry": {"coordinates":[-95.421399,29.678544],"type":"Point"}
+  "bbox": [
+    -95.421399,
+    29.678544,
+    -95.421399,
+    29.678544
+],
+  "geometry": {"coordinates":[-95.42139899999999,29.678544],"type":"Point"}
 }

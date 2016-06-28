@@ -2,13 +2,14 @@
   "id": 236894943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80494,32.839417,-96.80494,32.839417",
     "geom:latitude":32.839417,
     "geom:longitude":-96.80494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 Normandy Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236894943,
-    "wof:lastmodified":1449002930,
+    "wof:lastmodified":1467083929,
     "wof:name":"ASAP Apartment Finders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.80494,32.839417,-96.80494,32.839417],
+  "bbox": [
+    -96.80494,
+    32.839417,
+    -96.80494,
+    32.839417
+],
   "geometry": {"coordinates":[-96.80494,32.839417],"type":"Point"}
 }

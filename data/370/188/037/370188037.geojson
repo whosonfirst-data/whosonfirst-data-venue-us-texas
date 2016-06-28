@@ -2,13 +2,14 @@
   "id": 370188037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.50553,32.278486,-96.50553,32.278486",
     "geom:latitude":32.278486,
     "geom:longitude":-96.50553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Whitfill Rd",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370188037,
-    "wof:lastmodified":1449030760,
+    "wof:lastmodified":1467084511,
     "wof:name":"Western Lawn",
     "wof:parent_id":85897363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-96.50553,32.278486,-96.50553,32.278486],
-  "geometry": {"coordinates":[-96.50553,32.278486],"type":"Point"}
+  "bbox": [
+    -96.50553,
+    32.278486,
+    -96.50553,
+    32.278486
+],
+  "geometry": {"coordinates":[-96.50552999999999,32.278486],"type":"Point"}
 }

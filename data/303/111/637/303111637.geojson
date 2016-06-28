@@ -2,13 +2,14 @@
   "id": 303111637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.330334,30.379886,-97.330334,30.379886",
     "geom:latitude":30.379886,
     "geom:longitude":-97.330334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Pleasant Grove Rd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303111637,
-    "wof:lastmodified":1449000647,
+    "wof:lastmodified":1467083817,
     "wof:name":"Pleasant Grove Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-97.330334,30.379886,-97.330334,30.379886],
-  "geometry": {"coordinates":[-97.330334,30.379886],"type":"Point"}
+  "bbox": [
+    -97.330334,
+    30.379886,
+    -97.330334,
+    30.379886
+],
+  "geometry": {"coordinates":[-97.33033399999999,30.379886],"type":"Point"}
 }

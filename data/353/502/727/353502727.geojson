@@ -2,13 +2,14 @@
   "id": 353502727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793487,32.774721,-96.793487,32.774721",
     "geom:latitude":32.774721,
     "geom:longitude":-96.793487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S Ervay St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353502727,
-    "wof:lastmodified":1449019431,
+    "wof:lastmodified":1467084347,
     "wof:name":"VA Medical Center",
     "wof:parent_id":85870319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.793487,32.774721,-96.793487,32.774721],
+  "bbox": [
+    -96.793487,
+    32.774721,
+    -96.793487,
+    32.774721
+],
   "geometry": {"coordinates":[-96.793487,32.774721],"type":"Point"}
 }

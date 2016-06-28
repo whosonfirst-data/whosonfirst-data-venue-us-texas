@@ -2,13 +2,14 @@
   "id": 269669233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.458672,31.06101,-97.458672,31.06101",
     "geom:latitude":31.06101,
     "geom:longitude":-97.458672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E 6th Ave",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":269669233,
-    "wof:lastmodified":1449036423,
+    "wof:lastmodified":1467084579,
     "wof:name":"Montgomery Chiropractic",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "therapist"
     ]
 },
-  "bbox": [-97.458672,31.06101,-97.458672,31.06101],
-  "geometry": {"coordinates":[-97.458672,31.06101],"type":"Point"}
+  "bbox": [
+    -97.458672,
+    31.06101,
+    -97.458672,
+    31.06101
+],
+  "geometry": {"coordinates":[-97.45867200000001,31.06101],"type":"Point"}
 }

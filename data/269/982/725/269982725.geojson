@@ -2,13 +2,14 @@
   "id": 269982725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.462636,30.001745,-95.462636,30.001745",
     "geom:latitude":30.001745,
     "geom:longitude":-95.462636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Bammelwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269982725,
-    "wof:lastmodified":1449036539,
+    "wof:lastmodified":1467084583,
     "wof:name":"Bammelwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.462636,30.001745,-95.462636,30.001745],
+  "bbox": [
+    -95.462636,
+    30.001745,
+    -95.462636,
+    30.001745
+],
   "geometry": {"coordinates":[-95.462636,30.001745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303409781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.827561,30.453759,-97.827561,30.453759",
     "geom:latitude":30.453759,
     "geom:longitude":-97.827561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11416 N Fm 620",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":303409781,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1467083741,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "charity"
     ]
 },
-  "bbox": [-97.827561,30.453759,-97.827561,30.453759],
+  "bbox": [
+    -97.827561,
+    30.453759,
+    -97.827561,
+    30.453759
+],
   "geometry": {"coordinates":[-97.827561,30.453759],"type":"Point"}
 }

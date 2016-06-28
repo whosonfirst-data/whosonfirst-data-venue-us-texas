@@ -2,13 +2,14 @@
   "id": 202441751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.920409,32.780474,-96.920409,32.780474",
     "geom:latitude":32.780474,
     "geom:longitude":-96.920409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 Winnequah St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202441751,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1467084891,
     "wof:name":"Moreno Tile",
     "wof:parent_id":85815731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-96.920409,32.780474,-96.920409,32.780474],
-  "geometry": {"coordinates":[-96.920409,32.780474],"type":"Point"}
+  "bbox": [
+    -96.920409,
+    32.780474,
+    -96.920409,
+    32.780474
+],
+  "geometry": {"coordinates":[-96.92040900000001,32.780474],"type":"Point"}
 }

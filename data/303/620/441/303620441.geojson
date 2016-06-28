@@ -2,13 +2,14 @@
   "id": 303620441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.785397,30.264018,-97.785397,30.264018",
     "geom:latitude":30.264018,
     "geom:longitude":-97.785397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Wallingwood Dr 1300A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303620441,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1467083802,
     "wof:name":"Austin Texas Property Management",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-97.785397,30.264018,-97.785397,30.264018],
+  "bbox": [
+    -97.785397,
+    30.264018,
+    -97.785397,
+    30.264018
+],
   "geometry": {"coordinates":[-97.785397,30.264018],"type":"Point"}
 }

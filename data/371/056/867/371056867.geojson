@@ -2,13 +2,14 @@
   "id": 371056867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.021341,31.981009,-98.021341,31.981009",
     "geom:latitude":31.981009,
     "geom:longitude":-98.021341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E 2nd St",
     "sg:city":"Hico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371056867,
-    "wof:lastmodified":1449049296,
+    "wof:lastmodified":1467084675,
     "wof:name":"Pita Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-98.021341,31.981009,-98.021341,31.981009],
-  "geometry": {"coordinates":[-98.021341,31.981009],"type":"Point"}
+  "bbox": [
+    -98.021341,
+    31.981009,
+    -98.021341,
+    31.981009
+],
+  "geometry": {"coordinates":[-98.02134100000001,31.981009],"type":"Point"}
 }

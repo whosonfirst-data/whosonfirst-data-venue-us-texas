@@ -2,13 +2,14 @@
   "id": 387703023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.268183,32.522895,-97.268183,32.522895",
     "geom:latitude":32.522895,
     "geom:longitude":-97.268183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Timber Ct",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387703023,
-    "wof:lastmodified":1449057257,
+    "wof:lastmodified":1467084813,
     "wof:name":"Skytrax Online Services",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.268183,32.522895,-97.268183,32.522895],
-  "geometry": {"coordinates":[-97.268183,32.522895],"type":"Point"}
+  "bbox": [
+    -97.268183,
+    32.522895,
+    -97.268183,
+    32.522895
+],
+  "geometry": {"coordinates":[-97.26818299999999,32.522895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370569441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.898401,35.128782,-101.898401,35.128782",
     "geom:latitude":35.128782,
     "geom:longitude":-101.898401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Meadowgreen Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370569441,
-    "wof:lastmodified":1449032332,
+    "wof:lastmodified":1467084551,
     "wof:name":"Bruce E Payne Petroleum Land",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lease"
     ]
 },
-  "bbox": [-101.898401,35.128782,-101.898401,35.128782],
-  "geometry": {"coordinates":[-101.898401,35.128782],"type":"Point"}
+  "bbox": [
+    -101.898401,
+    35.128782,
+    -101.898401,
+    35.128782
+],
+  "geometry": {"coordinates":[-101.89840100000001,35.128782],"type":"Point"}
 }

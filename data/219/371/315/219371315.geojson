@@ -2,13 +2,14 @@
   "id": 219371315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.285159,32.880426,-97.285159,32.880426",
     "geom:latitude":32.880426,
     "geom:longitude":-97.285159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4649 Grant Park Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219371315,
-    "wof:lastmodified":1449073152,
+    "wof:lastmodified":1467085158,
     "wof:name":"Timothy Center",
     "wof:parent_id":85871625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-97.285159,32.880426,-97.285159,32.880426],
-  "geometry": {"coordinates":[-97.285159,32.880426],"type":"Point"}
+  "bbox": [
+    -97.285159,
+    32.880426,
+    -97.285159,
+    32.880426
+],
+  "geometry": {"coordinates":[-97.28515899999999,32.880426],"type":"Point"}
 }

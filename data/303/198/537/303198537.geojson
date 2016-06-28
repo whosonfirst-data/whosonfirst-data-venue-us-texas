@@ -2,13 +2,14 @@
   "id": 303198537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.801954,30.126322,-97.801954,30.126322",
     "geom:latitude":30.126322,
     "geom:longitude":-97.801954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 S I H 35",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303198537,
-    "wof:lastmodified":1448999006,
+    "wof:lastmodified":1467083736,
     "wof:name":"Garden Ridge",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-97.801954,30.126322,-97.801954,30.126322],
-  "geometry": {"coordinates":[-97.801954,30.126322],"type":"Point"}
+  "bbox": [
+    -97.801954,
+    30.126322,
+    -97.801954,
+    30.126322
+],
+  "geometry": {"coordinates":[-97.80195399999999,30.126322],"type":"Point"}
 }

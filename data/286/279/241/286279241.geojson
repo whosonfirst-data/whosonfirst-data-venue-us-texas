@@ -2,13 +2,14 @@
   "id": 286279241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.606294,29.759817,-95.606294,29.759817",
     "geom:latitude":29.759817,
     "geom:longitude":-95.606294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 S Dairy Ashford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286279241,
-    "wof:lastmodified":1449016546,
+    "wof:lastmodified":1467084274,
     "wof:name":"Sandhawk Energy",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "energy"
     ]
 },
-  "bbox": [-95.606294,29.759817,-95.606294,29.759817],
-  "geometry": {"coordinates":[-95.606294,29.759817],"type":"Point"}
+  "bbox": [
+    -95.606294,
+    29.759817,
+    -95.606294,
+    29.759817
+],
+  "geometry": {"coordinates":[-95.60629400000001,29.759817],"type":"Point"}
 }

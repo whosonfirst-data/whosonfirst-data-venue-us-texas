@@ -2,13 +2,14 @@
   "id": 370941537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.104598,31.975105,-102.104598,31.975105",
     "geom:latitude":31.975105,
     "geom:longitude":-102.104598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Industrial Loop",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370941537,
-    "wof:lastmodified":1449031098,
+    "wof:lastmodified":1467084519,
     "wof:name":"Holmes Engineering",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-102.104598,31.975105,-102.104598,31.975105],
+  "bbox": [
+    -102.104598,
+    31.975105,
+    -102.104598,
+    31.975105
+],
   "geometry": {"coordinates":[-102.104598,31.975105],"type":"Point"}
 }

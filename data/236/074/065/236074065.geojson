@@ -2,13 +2,14 @@
   "id": 236074065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.750532,32.675852,-94.750532,32.675852",
     "geom:latitude":32.675852,
     "geom:longitude":-94.750532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3586 US Hwy 259",
     "sg:city":"Diana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236074065,
-    "wof:lastmodified":1449003433,
+    "wof:lastmodified":1467083953,
     "wof:name":"Roberts Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.750532,32.675852,-94.750532,32.675852],
-  "geometry": {"coordinates":[-94.750532,32.675852],"type":"Point"}
+  "bbox": [
+    -94.750532,
+    32.675852,
+    -94.750532,
+    32.675852
+],
+  "geometry": {"coordinates":[-94.75053200000001,32.675852],"type":"Point"}
 }

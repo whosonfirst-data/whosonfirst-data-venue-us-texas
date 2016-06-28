@@ -2,13 +2,14 @@
   "id": 252746417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529875,32.875729,-97.529875,32.875729",
     "geom:latitude":32.875729,
     "geom:longitude":-97.529875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 SE Parkway St",
     "sg:city":"Azle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252746417,
-    "wof:lastmodified":1449005393,
+    "wof:lastmodified":1467084047,
     "wof:name":"Azle Oxygen Supply",
     "wof:parent_id":85871641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oxygen"
     ]
 },
-  "bbox": [-97.529875,32.875729,-97.529875,32.875729],
+  "bbox": [
+    -97.529875,
+    32.875729,
+    -97.529875,
+    32.875729
+],
   "geometry": {"coordinates":[-97.529875,32.875729],"type":"Point"}
 }

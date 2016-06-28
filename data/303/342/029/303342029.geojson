@@ -2,13 +2,14 @@
   "id": 303342029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750927,30.237418,-97.750927,30.237418",
     "geom:latitude":30.237418,
     "geom:longitude":-97.750927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Oltorf St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303342029,
-    "wof:lastmodified":1449000390,
+    "wof:lastmodified":1467083804,
     "wof:name":"Havens Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.750927,30.237418,-97.750927,30.237418],
+  "bbox": [
+    -97.750927,
+    30.237418,
+    -97.750927,
+    30.237418
+],
   "geometry": {"coordinates":[-97.750927,30.237418],"type":"Point"}
 }

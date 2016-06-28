@@ -2,13 +2,14 @@
   "id": 253510345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.338592,32.240381,-95.338592,32.240381",
     "geom:latitude":32.240381,
     "geom:longitude":-95.338592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Frostwood Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253510345,
-    "wof:lastmodified":1449064584,
+    "wof:lastmodified":1467085005,
     "wof:name":"Worth Consulting Inc",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-95.338592,32.240381,-95.338592,32.240381],
-  "geometry": {"coordinates":[-95.338592,32.240381],"type":"Point"}
+  "bbox": [
+    -95.338592,
+    32.240381,
+    -95.338592,
+    32.240381
+],
+  "geometry": {"coordinates":[-95.33859200000001,32.240381],"type":"Point"}
 }

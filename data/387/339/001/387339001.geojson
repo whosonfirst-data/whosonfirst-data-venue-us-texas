@@ -2,13 +2,14 @@
   "id": 387339001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746259,30.269024,-97.746259,30.269024",
     "geom:latitude":30.269024,
     "geom:longitude":-97.746259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387339001,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1467084827,
     "wof:name":"Alterpoint Inc",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "software"
     ]
 },
-  "bbox": [-97.746259,30.269024,-97.746259,30.269024],
-  "geometry": {"coordinates":[-97.746259,30.269024],"type":"Point"}
+  "bbox": [
+    -97.746259,
+    30.269024,
+    -97.746259,
+    30.269024
+],
+  "geometry": {"coordinates":[-97.74625899999999,30.269024],"type":"Point"}
 }

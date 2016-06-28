@@ -2,13 +2,14 @@
   "id": 253088197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.852412,32.580651,-96.852412,32.580651",
     "geom:latitude":32.580651,
     "geom:longitude":-96.852412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Wesley Dr",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253088197,
-    "wof:lastmodified":1449065101,
+    "wof:lastmodified":1467085023,
     "wof:name":"In Three Days",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-96.852412,32.580651,-96.852412,32.580651],
+  "bbox": [
+    -96.852412,
+    32.580651,
+    -96.852412,
+    32.580651
+],
   "geometry": {"coordinates":[-96.852412,32.580651],"type":"Point"}
 }

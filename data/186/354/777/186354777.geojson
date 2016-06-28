@@ -2,13 +2,14 @@
   "id": 186354777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.455693,31.802141,-106.455693,31.802141",
     "geom:latitude":31.802141,
     "geom:longitude":-106.455693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3228 Sacramento Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186354777,
-    "wof:lastmodified":1449052721,
+    "wof:lastmodified":1467084741,
     "wof:name":"El Paso Police Dept",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-106.455693,31.802141,-106.455693,31.802141],
+  "bbox": [
+    -106.455693,
+    31.802141,
+    -106.455693,
+    31.802141
+],
   "geometry": {"coordinates":[-106.455693,31.802141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220102671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444517,27.797104,-97.444517,27.797104",
     "geom:latitude":27.797104,
     "geom:longitude":-97.444517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Garfield Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220102671,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1467085195,
     "wof:name":"Eugene Welding Svc",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.444517,27.797104,-97.444517,27.797104],
+  "bbox": [
+    -97.444517,
+    27.797104,
+    -97.444517,
+    27.797104
+],
   "geometry": {"coordinates":[-97.444517,27.797104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303465559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767659,30.361342,-97.767659,30.361342",
     "geom:latitude":30.361342,
     "geom:longitude":-97.767659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 Venado Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303465559,
-    "wof:lastmodified":1448999764,
+    "wof:lastmodified":1467083774,
     "wof:name":"Chabad Ctr For Jewish Living",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "church"
     ]
 },
-  "bbox": [-97.767659,30.361342,-97.767659,30.361342],
-  "geometry": {"coordinates":[-97.767659,30.361342],"type":"Point"}
+  "bbox": [
+    -97.767659,
+    30.361342,
+    -97.767659,
+    30.361342
+],
+  "geometry": {"coordinates":[-97.76765899999999,30.361342],"type":"Point"}
 }

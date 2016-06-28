@@ -2,13 +2,14 @@
   "id": 303496537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.918106,30.309315,-97.918106,30.309315",
     "geom:latitude":30.309315,
     "geom:longitude":-97.918106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11701 Bee Caves Rd Suite 218",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303496537,
-    "wof:lastmodified":1449000190,
+    "wof:lastmodified":1467083794,
     "wof:name":"Portella Enterprises",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.918106,30.309315,-97.918106,30.309315],
-  "geometry": {"coordinates":[-97.918106,30.309315],"type":"Point"}
+  "bbox": [
+    -97.918106,
+    30.309315,
+    -97.918106,
+    30.309315
+],
+  "geometry": {"coordinates":[-97.91810599999999,30.309315],"type":"Point"}
 }

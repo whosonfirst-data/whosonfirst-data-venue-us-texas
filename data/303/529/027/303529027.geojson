@@ -2,13 +2,14 @@
   "id": 303529027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881104,30.23889,-97.881104,30.23889",
     "geom:latitude":30.23889,
     "geom:longitude":-97.881104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 Hill Meadow Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303529027,
-    "wof:lastmodified":1448999188,
+    "wof:lastmodified":1467083745,
     "wof:name":"Moonlight Electric",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-97.881104,30.23889,-97.881104,30.23889],
-  "geometry": {"coordinates":[-97.881104,30.23889],"type":"Point"}
+  "bbox": [
+    -97.881104,
+    30.23889,
+    -97.881104,
+    30.23889
+],
+  "geometry": {"coordinates":[-97.88110399999999,30.23889],"type":"Point"}
 }

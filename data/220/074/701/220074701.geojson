@@ -2,13 +2,14 @@
   "id": 220074701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.328941,30.041639,-95.328941,30.041639",
     "geom:latitude":30.041639,
     "geom:longitude":-95.328941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 Coachgate Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220074701,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1467085187,
     "wof:name":"First Network Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-95.328941,30.041639,-95.328941,30.041639],
+  "bbox": [
+    -95.328941,
+    30.041639,
+    -95.328941,
+    30.041639
+],
   "geometry": {"coordinates":[-95.328941,30.041639],"type":"Point"}
 }

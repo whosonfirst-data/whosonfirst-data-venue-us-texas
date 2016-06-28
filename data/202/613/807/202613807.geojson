@@ -2,13 +2,14 @@
   "id": 202613807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.289573,29.769545,-95.289573,29.769545",
     "geom:latitude":29.769545,
     "geom:longitude":-95.289573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Labco St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202613807,
-    "wof:lastmodified":1449061304,
+    "wof:lastmodified":1467084913,
     "wof:name":"H & R Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.289573,29.769545,-95.289573,29.769545],
+  "bbox": [
+    -95.289573,
+    29.769545,
+    -95.289573,
+    29.769545
+],
   "geometry": {"coordinates":[-95.289573,29.769545],"type":"Point"}
 }

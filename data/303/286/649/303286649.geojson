@@ -2,13 +2,14 @@
   "id": 303286649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.723464,30.258987,-97.723464,30.258987",
     "geom:latitude":30.258987,
     "geom:longitude":-97.723464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Chicon Suite F",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303286649,
-    "wof:lastmodified":1448998753,
+    "wof:lastmodified":1467083723,
     "wof:name":"The Art Project",
     "wof:parent_id":85841417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.723464,30.258987,-97.723464,30.258987],
-  "geometry": {"coordinates":[-97.723464,30.258987],"type":"Point"}
+  "bbox": [
+    -97.723464,
+    30.258987,
+    -97.723464,
+    30.258987
+],
+  "geometry": {"coordinates":[-97.72346400000001,30.258987],"type":"Point"}
 }

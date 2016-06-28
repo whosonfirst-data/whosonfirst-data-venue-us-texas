@@ -2,13 +2,14 @@
   "id": 354406567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.470126,29.231277,-98.470126,29.231277",
     "geom:latitude":29.231277,
     "geom:longitude":-98.470126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18802 Leal Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354406567,
-    "wof:lastmodified":1449066851,
+    "wof:lastmodified":1467085074,
     "wof:name":"Luna AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.470126,29.231277,-98.470126,29.231277],
-  "geometry": {"coordinates":[-98.470126,29.231277],"type":"Point"}
+  "bbox": [
+    -98.470126,
+    29.231277,
+    -98.470126,
+    29.231277
+],
+  "geometry": {"coordinates":[-98.47012599999999,29.231277],"type":"Point"}
 }

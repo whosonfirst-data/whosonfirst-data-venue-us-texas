@@ -2,13 +2,14 @@
   "id": 370425597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.099446,31.994463,-102.099446,31.994463",
     "geom:latitude":31.994463,
     "geom:longitude":-102.099446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Village Cir",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370425597,
-    "wof:lastmodified":1449030283,
+    "wof:lastmodified":1467084499,
     "wof:name":"Heart Center",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-102.099446,31.994463,-102.099446,31.994463],
+  "bbox": [
+    -102.099446,
+    31.994463,
+    -102.099446,
+    31.994463
+],
   "geometry": {"coordinates":[-102.099446,31.994463],"type":"Point"}
 }

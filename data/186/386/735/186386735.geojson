@@ -2,13 +2,14 @@
   "id": 186386735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33625,27.883989,-97.33625,27.883989",
     "geom:latitude":27.883989,
     "geom:longitude":-97.33625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 Bayview Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186386735,
-    "wof:lastmodified":1449051783,
+    "wof:lastmodified":1467084721,
     "wof:name":"The Rodman Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-97.33625,27.883989,-97.33625,27.883989],
-  "geometry": {"coordinates":[-97.33625,27.883989],"type":"Point"}
+  "bbox": [
+    -97.33625,
+    27.883989,
+    -97.33625,
+    27.883989
+],
+  "geometry": {"coordinates":[-97.33625000000001,27.883989],"type":"Point"}
 }

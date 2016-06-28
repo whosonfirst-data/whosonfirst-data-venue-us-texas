@@ -2,13 +2,14 @@
   "id": 303820851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751835,30.404475,-97.751835,30.404475",
     "geom:latitude":30.404475,
     "geom:longitude":-97.751835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10610 Morado Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303820851,
-    "wof:lastmodified":1448999383,
+    "wof:lastmodified":1467083755,
     "wof:name":"Elite Concierge",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "courier"
     ]
 },
-  "bbox": [-97.751835,30.404475,-97.751835,30.404475],
+  "bbox": [
+    -97.751835,
+    30.404475,
+    -97.751835,
+    30.404475
+],
   "geometry": {"coordinates":[-97.751835,30.404475],"type":"Point"}
 }

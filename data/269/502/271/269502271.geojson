@@ -2,13 +2,14 @@
   "id": 269502271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.988419,32.738665,-97.988419,32.738665",
     "geom:latitude":32.738665,
     "geom:longitude":-97.988419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 White Bull Ln",
     "sg:city":"Millsap",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":269502271,
-    "wof:lastmodified":1449037242,
+    "wof:lastmodified":1467084602,
     "wof:name":"Millsap Veterinary Clinic",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.988419,32.738665,-97.988419,32.738665],
-  "geometry": {"coordinates":[-97.988419,32.738665],"type":"Point"}
+  "bbox": [
+    -97.988419,
+    32.738665,
+    -97.988419,
+    32.738665
+],
+  "geometry": {"coordinates":[-97.98841899999999,32.738665],"type":"Point"}
 }

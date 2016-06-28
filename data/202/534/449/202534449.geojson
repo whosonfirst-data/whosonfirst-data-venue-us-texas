@@ -2,13 +2,14 @@
   "id": 202534449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833881,32.85567,-96.833881,32.85567",
     "geom:latitude":32.85567,
     "geom:longitude":-96.833881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 Bluffview Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202534449,
-    "wof:lastmodified":1449060774,
+    "wof:lastmodified":1467084902,
     "wof:name":"Volcano Marketing Inc",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.833881,32.85567,-96.833881,32.85567],
-  "geometry": {"coordinates":[-96.833881,32.85567],"type":"Point"}
+  "bbox": [
+    -96.833881,
+    32.85567,
+    -96.833881,
+    32.85567
+],
+  "geometry": {"coordinates":[-96.83388100000001,32.85567],"type":"Point"}
 }

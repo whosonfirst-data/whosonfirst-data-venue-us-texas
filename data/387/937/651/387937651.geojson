@@ -2,13 +2,14 @@
   "id": 387937651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.391044,35.671667,-101.391044,35.671667",
     "geom:latitude":35.671667,
     "geom:longitude":-101.391044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Deahl St",
     "sg:city":"Borger",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387937651,
-    "wof:lastmodified":1449056821,
+    "wof:lastmodified":1467084803,
     "wof:name":"Weatherford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-101.391044,35.671667,-101.391044,35.671667],
-  "geometry": {"coordinates":[-101.391044,35.671667],"type":"Point"}
+  "bbox": [
+    -101.391044,
+    35.671667,
+    -101.391044,
+    35.671667
+],
+  "geometry": {"coordinates":[-101.39104399999999,35.671667],"type":"Point"}
 }

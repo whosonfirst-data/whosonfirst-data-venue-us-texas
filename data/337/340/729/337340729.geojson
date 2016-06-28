@@ -2,13 +2,14 @@
   "id": 337340729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.461318,29.74829,-95.461318,29.74829",
     "geom:latitude":29.74829,
     "geom:longitude":-95.461318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Post Oak Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":337340729,
-    "wof:lastmodified":1449027566,
+    "wof:lastmodified":1467084450,
     "wof:name":"Americas",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "caterer"
     ]
 },
-  "bbox": [-95.461318,29.74829,-95.461318,29.74829],
-  "geometry": {"coordinates":[-95.461318,29.74829],"type":"Point"}
+  "bbox": [
+    -95.461318,
+    29.74829,
+    -95.461318,
+    29.74829
+],
+  "geometry": {"coordinates":[-95.46131800000001,29.74829],"type":"Point"}
 }

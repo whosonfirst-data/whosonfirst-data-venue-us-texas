@@ -2,13 +2,14 @@
   "id": 387019511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.611797,29.540685,-98.611797,29.540685",
     "geom:latitude":29.540685,
     "geom:longitude":-98.611797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6392 Babcock Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387019511,
-    "wof:lastmodified":1449058289,
+    "wof:lastmodified":1467084840,
     "wof:name":"Guardian Auto",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.611797,29.540685,-98.611797,29.540685],
+  "bbox": [
+    -98.611797,
+    29.540685,
+    -98.611797,
+    29.540685
+],
   "geometry": {"coordinates":[-98.611797,29.540685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185609813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.390347,27.718037,-97.390347,27.718037",
     "geom:latitude":27.718037,
     "geom:longitude":-97.390347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 S Padre Island Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185609813,
-    "wof:lastmodified":1449007204,
+    "wof:lastmodified":1467084122,
     "wof:name":"Hcp Inc",
     "wof:parent_id":85821067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.390347,27.718037,-97.390347,27.718037],
-  "geometry": {"coordinates":[-97.390347,27.718037],"type":"Point"}
+  "bbox": [
+    -97.390347,
+    27.718037,
+    -97.390347,
+    27.718037
+],
+  "geometry": {"coordinates":[-97.39034700000001,27.718037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203407993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511963,25.920691,-97.511963,25.920691",
     "geom:latitude":25.920691,
     "geom:longitude":-97.511963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Central Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203407993,
-    "wof:lastmodified":1449026001,
+    "wof:lastmodified":1467084405,
     "wof:name":"Border Patrol",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-97.511963,25.920691,-97.511963,25.920691],
-  "geometry": {"coordinates":[-97.511963,25.920691],"type":"Point"}
+  "bbox": [
+    -97.511963,
+    25.920691,
+    -97.511963,
+    25.920691
+],
+  "geometry": {"coordinates":[-97.51196299999999,25.920691],"type":"Point"}
 }

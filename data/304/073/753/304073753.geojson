@@ -2,13 +2,14 @@
   "id": 304073753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.092476,31.855595,-103.092476,31.855595",
     "geom:latitude":31.855595,
     "geom:longitude":-103.092476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Poplar St",
     "sg:city":"Kermit",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304073753,
-    "wof:lastmodified":1449043628,
+    "wof:lastmodified":1467084661,
     "wof:name":"Library Public",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government-county"
     ]
 },
-  "bbox": [-103.092476,31.855595,-103.092476,31.855595],
+  "bbox": [
+    -103.092476,
+    31.855595,
+    -103.092476,
+    31.855595
+],
   "geometry": {"coordinates":[-103.092476,31.855595],"type":"Point"}
 }

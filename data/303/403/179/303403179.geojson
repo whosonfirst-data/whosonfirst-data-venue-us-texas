@@ -2,13 +2,14 @@
   "id": 303403179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.688576,30.295851,-97.688576,30.295851",
     "geom:latitude":30.295851,
     "geom:longitude":-97.688576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Manor Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303403179,
-    "wof:lastmodified":1449000219,
+    "wof:lastmodified":1467083796,
     "wof:name":"Austin Childrens Shelter",
     "wof:parent_id":85893565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-97.688576,30.295851,-97.688576,30.295851],
+  "bbox": [
+    -97.688576,
+    30.295851,
+    -97.688576,
+    30.295851
+],
   "geometry": {"coordinates":[-97.688576,30.295851],"type":"Point"}
 }

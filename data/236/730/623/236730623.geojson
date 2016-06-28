@@ -2,13 +2,14 @@
   "id": 236730623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.715008,32.856827,-97.715008,32.856827",
     "geom:latitude":32.856827,
     "geom:longitude":-97.715008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Brown Creek Rd",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236730623,
-    "wof:lastmodified":1449004612,
+    "wof:lastmodified":1467084008,
     "wof:name":"Ft Worth Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-97.715008,32.856827,-97.715008,32.856827],
+  "bbox": [
+    -97.715008,
+    32.856827,
+    -97.715008,
+    32.856827
+],
   "geometry": {"coordinates":[-97.715008,32.856827],"type":"Point"}
 }

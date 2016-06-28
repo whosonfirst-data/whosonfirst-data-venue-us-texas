@@ -2,13 +2,14 @@
   "id": 202437323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.867806,30.337456,-97.867806,30.337456",
     "geom:latitude":30.337456,
     "geom:longitude":-97.867806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Miami Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202437323,
-    "wof:lastmodified":1449061933,
+    "wof:lastmodified":1467084926,
     "wof:name":"Over The Garden Gate",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.867806,30.337456,-97.867806,30.337456],
+  "bbox": [
+    -97.867806,
+    30.337456,
+    -97.867806,
+    30.337456
+],
   "geometry": {"coordinates":[-97.867806,30.337456],"type":"Point"}
 }

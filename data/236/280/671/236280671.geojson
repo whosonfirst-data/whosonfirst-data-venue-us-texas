@@ -2,13 +2,14 @@
   "id": 236280671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753346,32.751187,-96.753346,32.751187",
     "geom:latitude":32.751187,
     "geom:longitude":-96.753346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Brigham Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236280671,
-    "wof:lastmodified":1449003235,
+    "wof:lastmodified":1467083944,
     "wof:name":"Body of Christ",
     "wof:parent_id":85897325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.753346,32.751187,-96.753346,32.751187],
-  "geometry": {"coordinates":[-96.753346,32.751187],"type":"Point"}
+  "bbox": [
+    -96.753346,
+    32.751187,
+    -96.753346,
+    32.751187
+],
+  "geometry": {"coordinates":[-96.75334599999999,32.751187],"type":"Point"}
 }

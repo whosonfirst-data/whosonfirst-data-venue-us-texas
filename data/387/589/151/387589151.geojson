@@ -2,13 +2,14 @@
   "id": 387589151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60319,30.509375,-97.60319,30.509375",
     "geom:latitude":30.509375,
     "geom:longitude":-97.60319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Mulligan Dr",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387589151,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1467084836,
     "wof:name":"Robert Halls & Associates",
     "wof:parent_id":85893901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.60319,30.509375,-97.60319,30.509375],
+  "bbox": [
+    -97.60319,
+    30.509375,
+    -97.60319,
+    30.509375
+],
   "geometry": {"coordinates":[-97.60319,30.509375],"type":"Point"}
 }

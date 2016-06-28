@@ -2,13 +2,14 @@
   "id": 303801195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706976,30.414888,-97.706976,30.414888",
     "geom:latitude":30.414888,
     "geom:longitude":-97.706976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12202 N Mo Pac Expy Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303801195,
-    "wof:lastmodified":1449000133,
+    "wof:lastmodified":1467083792,
     "wof:name":"Wells Branch Pet & Bird Clinic",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-97.706976,30.414888,-97.706976,30.414888],
+  "bbox": [
+    -97.706976,
+    30.414888,
+    -97.706976,
+    30.414888
+],
   "geometry": {"coordinates":[-97.706976,30.414888],"type":"Point"}
 }

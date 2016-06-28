@@ -2,13 +2,14 @@
   "id": 270222709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.520834,29.705716,-95.520834,29.705716",
     "geom:latitude":29.705716,
     "geom:longitude":-95.520834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7634 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270222709,
-    "wof:lastmodified":1449010296,
+    "wof:lastmodified":1467084205,
     "wof:name":"Walgreens",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-95.520834,29.705716,-95.520834,29.705716],
-  "geometry": {"coordinates":[-95.520834,29.705716],"type":"Point"}
+  "bbox": [
+    -95.520834,
+    29.705716,
+    -95.520834,
+    29.705716
+],
+  "geometry": {"coordinates":[-95.52083399999999,29.705716],"type":"Point"}
 }

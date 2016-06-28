@@ -2,13 +2,14 @@
   "id": 404011903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.344517,32.747348,-96.344517,32.747348",
     "geom:latitude":32.747348,
     "geom:longitude":-96.344517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13209 Chestnut Cir",
     "sg:city":"Terrell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404011903,
-    "wof:lastmodified":1449040073,
+    "wof:lastmodified":1467084656,
     "wof:name":"Lawrence Water Supply",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-96.344517,32.747348,-96.344517,32.747348],
+  "bbox": [
+    -96.344517,
+    32.747348,
+    -96.344517,
+    32.747348
+],
   "geometry": {"coordinates":[-96.344517,32.747348],"type":"Point"}
 }

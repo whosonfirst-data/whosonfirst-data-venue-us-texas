@@ -2,13 +2,14 @@
   "id": 370511593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400583,29.707342,-95.400583,29.707342",
     "geom:latitude":29.707342,
     "geom:longitude":-95.400583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Bates",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370511593,
-    "wof:lastmodified":1449030657,
+    "wof:lastmodified":1467084508,
     "wof:name":"Dr Grady Hallman",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.400583,29.707342,-95.400583,29.707342],
+  "bbox": [
+    -95.400583,
+    29.707342,
+    -95.400583,
+    29.707342
+],
   "geometry": {"coordinates":[-95.400583,29.707342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219211161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.430624,32.194563,-95.430624,32.194563",
     "geom:latitude":32.194563,
     "geom:longitude":-95.430624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19823 State Hwy 155",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219211161,
-    "wof:lastmodified":1449071266,
+    "wof:lastmodified":1467085118,
     "wof:name":"All PA Enterprises",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-95.430624,32.194563,-95.430624,32.194563],
-  "geometry": {"coordinates":[-95.430624,32.194563],"type":"Point"}
+  "bbox": [
+    -95.430624,
+    32.194563,
+    -95.430624,
+    32.194563
+],
+  "geometry": {"coordinates":[-95.43062399999999,32.194563],"type":"Point"}
 }

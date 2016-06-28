@@ -2,13 +2,14 @@
   "id": 303805551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746305,30.3616,-97.746305,30.3616",
     "geom:latitude":30.3616,
     "geom:longitude":-97.746305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 North Mo-Pac Expy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303805551,
-    "wof:lastmodified":1448998933,
+    "wof:lastmodified":1467083732,
     "wof:name":"Andrew Verrett, DDS",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.746305,30.3616,-97.746305,30.3616],
-  "geometry": {"coordinates":[-97.746305,30.3616],"type":"Point"}
+  "bbox": [
+    -97.746305,
+    30.3616,
+    -97.746305,
+    30.3616
+],
+  "geometry": {"coordinates":[-97.74630500000001,30.3616],"type":"Point"}
 }

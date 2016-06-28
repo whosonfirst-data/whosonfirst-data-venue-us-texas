@@ -2,13 +2,14 @@
   "id": 386944023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.450202,31.081425,-97.450202,31.081425",
     "geom:latitude":31.081425,
     "geom:longitude":-97.450202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Julianne Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386944023,
-    "wof:lastmodified":1449028780,
+    "wof:lastmodified":1467084461,
     "wof:name":"Camatic Seating",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stadium"
     ]
 },
-  "bbox": [-97.450202,31.081425,-97.450202,31.081425],
+  "bbox": [
+    -97.450202,
+    31.081425,
+    -97.450202,
+    31.081425
+],
   "geometry": {"coordinates":[-97.450202,31.081425],"type":"Point"}
 }

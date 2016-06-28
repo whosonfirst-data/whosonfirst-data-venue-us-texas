@@ -2,13 +2,14 @@
   "id": 303257503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743141,30.278177,-97.743141,30.278177",
     "geom:latitude":30.278177,
     "geom:longitude":-97.743141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 West 15th Street Suite B10",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303257503,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1467083727,
     "wof:name":"Murphy's Deli",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.743141,30.278177,-97.743141,30.278177],
-  "geometry": {"coordinates":[-97.743141,30.278177],"type":"Point"}
+  "bbox": [
+    -97.743141,
+    30.278177,
+    -97.743141,
+    30.278177
+],
+  "geometry": {"coordinates":[-97.74314099999999,30.278177],"type":"Point"}
 }

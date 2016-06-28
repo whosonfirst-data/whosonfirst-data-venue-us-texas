@@ -2,13 +2,14 @@
   "id": 303328277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764658,30.254409,-97.764658,30.254409",
     "geom:latitude":30.254409,
     "geom:longitude":-97.764658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 Lamar Sqaure Dr.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303328277,
-    "wof:lastmodified":1448999562,
+    "wof:lastmodified":1467083763,
     "wof:name":"Self Storage",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-97.764658,30.254409,-97.764658,30.254409],
+  "bbox": [
+    -97.764658,
+    30.254409,
+    -97.764658,
+    30.254409
+],
   "geometry": {"coordinates":[-97.764658,30.254409],"type":"Point"}
 }

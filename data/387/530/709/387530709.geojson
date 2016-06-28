@@ -2,13 +2,14 @@
   "id": 387530709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.259536,30.647375,-96.259536,30.647375",
     "geom:latitude":30.647375,
     "geom:longitude":-96.259536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10940 State Hwy 30",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387530709,
-    "wof:lastmodified":1449058135,
+    "wof:lastmodified":1467084836,
     "wof:name":"Brazos County Dump Site",
     "wof:parent_id":85824183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-96.259536,30.647375,-96.259536,30.647375],
+  "bbox": [
+    -96.259536,
+    30.647375,
+    -96.259536,
+    30.647375
+],
   "geometry": {"coordinates":[-96.259536,30.647375],"type":"Point"}
 }

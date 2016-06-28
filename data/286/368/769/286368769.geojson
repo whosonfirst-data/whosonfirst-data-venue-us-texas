@@ -2,13 +2,14 @@
   "id": 286368769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412262,29.868779,-95.412262,29.868779",
     "geom:latitude":29.868779,
     "geom:longitude":-95.412262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7450 N Shepherd Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286368769,
-    "wof:lastmodified":1449015835,
+    "wof:lastmodified":1467084254,
     "wof:name":"Mayfair Park Apartments",
     "wof:parent_id":85869551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.412262,29.868779,-95.412262,29.868779],
+  "bbox": [
+    -95.412262,
+    29.868779,
+    -95.412262,
+    29.868779
+],
   "geometry": {"coordinates":[-95.412262,29.868779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387304243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.319241,31.740498,-106.319241,31.740498",
     "geom:latitude":31.740498,
     "geom:longitude":-106.319241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11405 Rojas Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387304243,
-    "wof:lastmodified":1449058939,
+    "wof:lastmodified":1467084857,
     "wof:name":"IQS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.319241,31.740498,-106.319241,31.740498],
-  "geometry": {"coordinates":[-106.319241,31.740498],"type":"Point"}
+  "bbox": [
+    -106.319241,
+    31.740498,
+    -106.319241,
+    31.740498
+],
+  "geometry": {"coordinates":[-106.31924100000001,31.740498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303427767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.687983,30.474759,-97.687983,30.474759",
     "geom:latitude":30.474759,
     "geom:longitude":-97.687983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16601 Fm 1325",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303427767,
-    "wof:lastmodified":1448998850,
+    "wof:lastmodified":1467083728,
     "wof:name":"Capital City Construction",
     "wof:parent_id":85893911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.687983,30.474759,-97.687983,30.474759],
+  "bbox": [
+    -97.687983,
+    30.474759,
+    -97.687983,
+    30.474759
+],
   "geometry": {"coordinates":[-97.687983,30.474759],"type":"Point"}
 }

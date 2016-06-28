@@ -2,13 +2,14 @@
   "id": 219189695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.451771,32.73742,-97.451771,32.73742",
     "geom:latitude":32.73742,
     "geom:longitude":-97.451771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S Cherry Ln",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219189695,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1467085152,
     "wof:name":"Cardiac Care of Texas Pllc",
     "wof:parent_id":85871573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.451771,32.73742,-97.451771,32.73742],
-  "geometry": {"coordinates":[-97.451771,32.73742],"type":"Point"}
+  "bbox": [
+    -97.451771,
+    32.73742,
+    -97.451771,
+    32.73742
+],
+  "geometry": {"coordinates":[-97.45177099999999,32.73742],"type":"Point"}
 }

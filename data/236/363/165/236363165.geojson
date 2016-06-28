@@ -2,13 +2,14 @@
   "id": 236363165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.327658,31.741252,-106.327658,31.741252",
     "geom:latitude":31.741252,
     "geom:longitude":-106.327658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 Gateway Blvd E",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236363165,
-    "wof:lastmodified":1449004766,
+    "wof:lastmodified":1467084016,
     "wof:name":"El Paso Tile & Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.327658,31.741252,-106.327658,31.741252],
+  "bbox": [
+    -106.327658,
+    31.741252,
+    -106.327658,
+    31.741252
+],
   "geometry": {"coordinates":[-106.327658,31.741252],"type":"Point"}
 }

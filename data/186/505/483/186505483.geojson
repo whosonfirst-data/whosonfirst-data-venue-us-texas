@@ -2,13 +2,14 @@
   "id": 186505483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.504291,29.833429,-95.504291,29.833429",
     "geom:latitude":29.833429,
     "geom:longitude":-95.504291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12708 Hempstead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186505483,
-    "wof:lastmodified":1449052571,
+    "wof:lastmodified":1467084737,
     "wof:name":"Budget Host Hempstead Inn",
     "wof:parent_id":85831221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-95.504291,29.833429,-95.504291,29.833429],
-  "geometry": {"coordinates":[-95.504291,29.833429],"type":"Point"}
+  "bbox": [
+    -95.504291,
+    29.833429,
+    -95.504291,
+    29.833429
+],
+  "geometry": {"coordinates":[-95.50429099999999,29.833429],"type":"Point"}
 }

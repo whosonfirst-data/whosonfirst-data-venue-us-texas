@@ -2,13 +2,14 @@
   "id": 370769483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.251477,32.75835,-97.251477,32.75835",
     "geom:latitude":32.75835,
     "geom:longitude":-97.251477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Brentwood Stair Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370769483,
-    "wof:lastmodified":1449030220,
+    "wof:lastmodified":1467084497,
     "wof:name":"Brentwood Stair Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.251477,32.75835,-97.251477,32.75835],
-  "geometry": {"coordinates":[-97.251477,32.75835],"type":"Point"}
+  "bbox": [
+    -97.251477,
+    32.75835,
+    -97.251477,
+    32.75835
+],
+  "geometry": {"coordinates":[-97.25147699999999,32.75835],"type":"Point"}
 }

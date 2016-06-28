@@ -2,13 +2,14 @@
   "id": 286408363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.463074,29.689236,-95.463074,29.689236",
     "geom:latitude":29.689236,
     "geom:longitude":-95.463074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4872 Beechnut St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":286408363,
-    "wof:lastmodified":1449015532,
+    "wof:lastmodified":1467084246,
     "wof:name":"Bath Junkie",
     "wof:parent_id":85833917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-95.463074,29.689236,-95.463074,29.689236],
-  "geometry": {"coordinates":[-95.463074,29.689236],"type":"Point"}
+  "bbox": [
+    -95.463074,
+    29.689236,
+    -95.463074,
+    29.689236
+],
+  "geometry": {"coordinates":[-95.46307400000001,29.689236],"type":"Point"}
 }

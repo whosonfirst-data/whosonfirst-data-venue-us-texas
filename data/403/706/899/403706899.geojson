@@ -2,13 +2,14 @@
   "id": 403706899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.476341,27.548486,-99.476341,27.548486",
     "geom:latitude":27.548486,
     "geom:longitude":-99.476341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Hemlock Dr",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403706899,
-    "wof:lastmodified":1449054732,
+    "wof:lastmodified":1467084752,
     "wof:name":"Orozcos Wholesale",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-99.476341,27.548486,-99.476341,27.548486],
-  "geometry": {"coordinates":[-99.476341,27.548486],"type":"Point"}
+  "bbox": [
+    -99.476341,
+    27.548486,
+    -99.476341,
+    27.548486
+],
+  "geometry": {"coordinates":[-99.47634100000001,27.548486],"type":"Point"}
 }

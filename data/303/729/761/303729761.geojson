@@ -2,13 +2,14 @@
   "id": 303729761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.689126,30.340086,-97.689126,30.340086",
     "geom:latitude":30.340086,
     "geom:longitude":-97.689126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Rutherford Ln # 250",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303729761,
-    "wof:lastmodified":1448999351,
+    "wof:lastmodified":1467083753,
     "wof:name":"O K Paper",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.689126,30.340086,-97.689126,30.340086],
+  "bbox": [
+    -97.689126,
+    30.340086,
+    -97.689126,
+    30.340086
+],
   "geometry": {"coordinates":[-97.689126,30.340086],"type":"Point"}
 }

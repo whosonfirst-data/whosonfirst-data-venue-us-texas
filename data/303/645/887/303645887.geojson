@@ -2,13 +2,14 @@
   "id": 303645887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.791272,30.167303,-97.791272,30.167303",
     "geom:latitude":30.167303,
     "geom:longitude":-97.791272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 W Slaughter Ln Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303645887,
-    "wof:lastmodified":1448998367,
+    "wof:lastmodified":1467083704,
     "wof:name":"Hillside Liquor",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "spirit"
     ]
 },
-  "bbox": [-97.791272,30.167303,-97.791272,30.167303],
-  "geometry": {"coordinates":[-97.791272,30.167303],"type":"Point"}
+  "bbox": [
+    -97.791272,
+    30.167303,
+    -97.791272,
+    30.167303
+],
+  "geometry": {"coordinates":[-97.79127200000001,30.167303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303698021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734339,30.308799,-97.734339,30.308799",
     "geom:latitude":30.308799,
     "geom:longitude":-97.734339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303698021,
-    "wof:lastmodified":1449000416,
+    "wof:lastmodified":1467083805,
     "wof:name":"Tex Health Central Texas",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.734339,30.308799,-97.734339,30.308799],
-  "geometry": {"coordinates":[-97.734339,30.308799],"type":"Point"}
+  "bbox": [
+    -97.734339,
+    30.308799,
+    -97.734339,
+    30.308799
+],
+  "geometry": {"coordinates":[-97.73433900000001,30.308799],"type":"Point"}
 }

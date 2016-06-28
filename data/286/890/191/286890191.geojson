@@ -2,13 +2,14 @@
   "id": 286890191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.035508,29.807526,-95.035508,29.807526",
     "geom:latitude":29.807526,
     "geom:longitude":-95.035508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Jones Rd",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286890191,
-    "wof:lastmodified":1449015820,
+    "wof:lastmodified":1467084254,
     "wof:name":"Restoration House Church",
     "wof:parent_id":85859107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-95.035508,29.807526,-95.035508,29.807526],
-  "geometry": {"coordinates":[-95.035508,29.807526],"type":"Point"}
+  "bbox": [
+    -95.035508,
+    29.807526,
+    -95.035508,
+    29.807526
+],
+  "geometry": {"coordinates":[-95.03550799999999,29.807526],"type":"Point"}
 }

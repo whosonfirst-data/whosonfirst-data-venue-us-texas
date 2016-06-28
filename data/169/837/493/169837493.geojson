@@ -2,13 +2,14 @@
   "id": 169837493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.325994,32.795112,-97.325994,32.795112",
     "geom:latitude":32.795112,
     "geom:longitude":-97.325994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 NE 28th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169837493,
-    "wof:lastmodified":1449033204,
+    "wof:lastmodified":1467084560,
     "wof:name":"Fort Worth Shooters Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "enforcement"
     ]
 },
-  "bbox": [-97.325994,32.795112,-97.325994,32.795112],
-  "geometry": {"coordinates":[-97.325994,32.795112],"type":"Point"}
+  "bbox": [
+    -97.325994,
+    32.795112,
+    -97.325994,
+    32.795112
+],
+  "geometry": {"coordinates":[-97.32599399999999,32.795112],"type":"Point"}
 }

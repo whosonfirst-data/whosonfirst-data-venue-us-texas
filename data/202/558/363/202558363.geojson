@@ -2,13 +2,14 @@
   "id": 202558363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.307626,30.111351,-97.307626,30.111351",
     "geom:latitude":30.111351,
     "geom:longitude":-97.307626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1186 State Hwy 95",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202558363,
-    "wof:lastmodified":1449060812,
+    "wof:lastmodified":1467084903,
     "wof:name":"Discount Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.307626,30.111351,-97.307626,30.111351],
+  "bbox": [
+    -97.307626,
+    30.111351,
+    -97.307626,
+    30.111351
+],
   "geometry": {"coordinates":[-97.307626,30.111351],"type":"Point"}
 }

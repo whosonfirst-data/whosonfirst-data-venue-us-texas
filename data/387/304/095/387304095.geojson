@@ -2,13 +2,14 @@
   "id": 387304095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510247,31.801381,-106.510247,31.801381",
     "geom:latitude":31.801381,
     "geom:longitude":-106.510247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387304095,
-    "wof:lastmodified":1449058940,
+    "wof:lastmodified":1467084857,
     "wof:name":"Auto Pride Car Wash & Detail",
     "wof:parent_id":85812359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-106.510247,31.801381,-106.510247,31.801381],
-  "geometry": {"coordinates":[-106.510247,31.801381],"type":"Point"}
+  "bbox": [
+    -106.510247,
+    31.801381,
+    -106.510247,
+    31.801381
+],
+  "geometry": {"coordinates":[-106.51024700000001,31.801381],"type":"Point"}
 }

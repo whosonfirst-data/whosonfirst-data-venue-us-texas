@@ -2,13 +2,14 @@
   "id": 252928345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.240384,32.763376,-97.240384,32.763376",
     "geom:latitude":32.763376,
     "geom:longitude":-97.240384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Boca Raton Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252928345,
-    "wof:lastmodified":1449006361,
+    "wof:lastmodified":1467084100,
     "wof:name":"Woodglen Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.240384,32.763376,-97.240384,32.763376],
-  "geometry": {"coordinates":[-97.240384,32.763376],"type":"Point"}
+  "bbox": [
+    -97.240384,
+    32.763376,
+    -97.240384,
+    32.763376
+],
+  "geometry": {"coordinates":[-97.24038400000001,32.763376],"type":"Point"}
 }

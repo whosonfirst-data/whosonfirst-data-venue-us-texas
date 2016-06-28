@@ -2,13 +2,14 @@
   "id": 202543095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753244,32.806531,-96.753244,32.806531",
     "geom:latitude":32.806531,
     "geom:longitude":-96.753244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5928 Victor St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202543095,
-    "wof:lastmodified":1449060607,
+    "wof:lastmodified":1467084898,
     "wof:name":"Baboon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-96.753244,32.806531,-96.753244,32.806531],
+  "bbox": [
+    -96.753244,
+    32.806531,
+    -96.753244,
+    32.806531
+],
   "geometry": {"coordinates":[-96.753244,32.806531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219831747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.383749,29.530597,-98.383749,29.530597",
     "geom:latitude":29.530597,
     "geom:longitude":-98.383749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5351 Sherri Ann Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219831747,
-    "wof:lastmodified":1449072454,
+    "wof:lastmodified":1467085143,
     "wof:name":"Carlois Smith Trees",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.383749,29.530597,-98.383749,29.530597],
-  "geometry": {"coordinates":[-98.383749,29.530597],"type":"Point"}
+  "bbox": [
+    -98.383749,
+    29.530597,
+    -98.383749,
+    29.530597
+],
+  "geometry": {"coordinates":[-98.38374899999999,29.530597],"type":"Point"}
 }

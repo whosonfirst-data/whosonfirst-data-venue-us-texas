@@ -2,13 +2,14 @@
   "id": 270373191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475502,29.795,-95.475502,29.795",
     "geom:latitude":29.795,
     "geom:longitude":-95.475502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Antoine Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270373191,
-    "wof:lastmodified":1449009899,
+    "wof:lastmodified":1467084191,
     "wof:name":"Newman Inspection Group",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-95.475502,29.795,-95.475502,29.795],
-  "geometry": {"coordinates":[-95.475502,29.795],"type":"Point"}
+  "bbox": [
+    -95.475502,
+    29.795,
+    -95.475502,
+    29.795
+],
+  "geometry": {"coordinates":[-95.47550200000001,29.795],"type":"Point"}
 }

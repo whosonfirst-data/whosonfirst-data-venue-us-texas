@@ -2,13 +2,14 @@
   "id": 236902035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804549,32.850658,-96.804549,32.850658",
     "geom:latitude":32.850658,
     "geom:longitude":-96.804549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Preston Rd Ste 301-A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236902035,
-    "wof:lastmodified":1449004213,
+    "wof:lastmodified":1467083990,
     "wof:name":"Highland Park Endodontics",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "endodontist"
     ]
 },
-  "bbox": [-96.804549,32.850658,-96.804549,32.850658],
-  "geometry": {"coordinates":[-96.804549,32.850658],"type":"Point"}
+  "bbox": [
+    -96.804549,
+    32.850658,
+    -96.804549,
+    32.850658
+],
+  "geometry": {"coordinates":[-96.80454899999999,32.850658],"type":"Point"}
 }

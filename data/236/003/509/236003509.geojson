@@ -2,13 +2,14 @@
   "id": 236003509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.643217,30.634625,-97.643217,30.634625",
     "geom:latitude":30.634625,
     "geom:longitude":-97.643217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Georgetown Inner Loop",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236003509,
-    "wof:lastmodified":1449004937,
+    "wof:lastmodified":1467084024,
     "wof:name":"Williamson County Road Dept",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.643217,30.634625,-97.643217,30.634625],
-  "geometry": {"coordinates":[-97.643217,30.634625],"type":"Point"}
+  "bbox": [
+    -97.643217,
+    30.634625,
+    -97.643217,
+    30.634625
+],
+  "geometry": {"coordinates":[-97.64321700000001,30.634625],"type":"Point"}
 }

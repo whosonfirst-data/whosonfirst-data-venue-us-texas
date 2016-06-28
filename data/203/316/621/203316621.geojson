@@ -2,13 +2,14 @@
   "id": 203316621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.522008,29.47759,-98.522008,29.47759",
     "geom:latitude":29.47759,
     "geom:longitude":-98.522008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Clower St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203316621,
-    "wof:lastmodified":1449026268,
+    "wof:lastmodified":1467084409,
     "wof:name":"Saint Mary Magdalenes Church",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.522008,29.47759,-98.522008,29.47759],
+  "bbox": [
+    -98.522008,
+    29.47759,
+    -98.522008,
+    29.47759
+],
   "geometry": {"coordinates":[-98.522008,29.47759],"type":"Point"}
 }

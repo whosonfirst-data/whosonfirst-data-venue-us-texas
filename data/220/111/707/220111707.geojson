@@ -2,13 +2,14 @@
   "id": 220111707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.516566,27.534669,-99.516566,27.534669",
     "geom:latitude":27.534669,
     "geom:longitude":-99.516566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3803 Eagle Pass Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220111707,
-    "wof:lastmodified":1449074902,
+    "wof:lastmodified":1467085196,
     "wof:name":"Sagra Transfer",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-99.516566,27.534669,-99.516566,27.534669],
+  "bbox": [
+    -99.516566,
+    27.534669,
+    -99.516566,
+    27.534669
+],
   "geometry": {"coordinates":[-99.516566,27.534669],"type":"Point"}
 }

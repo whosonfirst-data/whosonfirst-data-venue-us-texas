@@ -2,13 +2,14 @@
   "id": 370207253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.675266,30.448051,-97.675266,30.448051",
     "geom:latitude":30.448051,
     "geom:longitude":-97.675266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15103 Natural Spring Way",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370207253,
-    "wof:lastmodified":1449031454,
+    "wof:lastmodified":1467084529,
     "wof:name":"Integra Sp II",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.675266,30.448051,-97.675266,30.448051],
-  "geometry": {"coordinates":[-97.675266,30.448051],"type":"Point"}
+  "bbox": [
+    -97.675266,
+    30.448051,
+    -97.675266,
+    30.448051
+],
+  "geometry": {"coordinates":[-97.67526599999999,30.448051],"type":"Point"}
 }

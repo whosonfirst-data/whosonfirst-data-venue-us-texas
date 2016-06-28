@@ -2,13 +2,14 @@
   "id": 236420283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216839,32.803557,-97.216839,32.803557",
     "geom:latitude":32.803557,
     "geom:longitude":-97.216839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7449 Airport Fwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236420283,
-    "wof:lastmodified":1449003185,
+    "wof:lastmodified":1467083942,
     "wof:name":"Texprompt",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-97.216839,32.803557,-97.216839,32.803557],
-  "geometry": {"coordinates":[-97.216839,32.803557],"type":"Point"}
+  "bbox": [
+    -97.216839,
+    32.803557,
+    -97.216839,
+    32.803557
+],
+  "geometry": {"coordinates":[-97.21683899999999,32.803557],"type":"Point"}
 }

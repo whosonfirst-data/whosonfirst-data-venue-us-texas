@@ -2,13 +2,14 @@
   "id": 185920801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432793,29.407494,-98.432793,29.407494",
     "geom:latitude":29.407494,
     "geom:longitude":-98.432793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Pecan Valley Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185920801,
-    "wof:lastmodified":1449007867,
+    "wof:lastmodified":1467084133,
     "wof:name":"Valley Lounge",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-98.432793,29.407494,-98.432793,29.407494],
+  "bbox": [
+    -98.432793,
+    29.407494,
+    -98.432793,
+    29.407494
+],
   "geometry": {"coordinates":[-98.432793,29.407494],"type":"Point"}
 }

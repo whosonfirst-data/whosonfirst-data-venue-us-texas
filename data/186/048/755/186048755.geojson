@@ -2,13 +2,14 @@
   "id": 186048755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805673,33.099351,-96.805673,33.099351",
     "geom:latitude":33.099351,
     "geom:longitude":-96.805673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Preston Rd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186048755,
-    "wof:lastmodified":1449051328,
+    "wof:lastmodified":1467084711,
     "wof:name":"Texas Treasures",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.805673,33.099351,-96.805673,33.099351],
+  "bbox": [
+    -96.805673,
+    33.099351,
+    -96.805673,
+    33.099351
+],
   "geometry": {"coordinates":[-96.805673,33.099351],"type":"Point"}
 }

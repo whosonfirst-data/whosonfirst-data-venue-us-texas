@@ -2,13 +2,14 @@
   "id": 303357299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741931,30.287333,-97.741931,30.287333",
     "geom:latitude":30.287333,
     "geom:longitude":-97.741931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303357299,
-    "wof:lastmodified":1449000269,
+    "wof:lastmodified":1467083798,
     "wof:name":"C. Jane",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-97.741931,30.287333,-97.741931,30.287333],
-  "geometry": {"coordinates":[-97.741931,30.287333],"type":"Point"}
+  "bbox": [
+    -97.741931,
+    30.287333,
+    -97.741931,
+    30.287333
+],
+  "geometry": {"coordinates":[-97.74193099999999,30.287333],"type":"Point"}
 }

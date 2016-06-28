@@ -2,13 +2,14 @@
   "id": 303119651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.86956,30.28697,-98.86956,30.28697",
     "geom:latitude":30.28697,
     "geom:longitude":-98.86956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 N Milam St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303119651,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1467083779,
     "wof:name":"Katherine Weigand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-98.86956,30.28697,-98.86956,30.28697],
-  "geometry": {"coordinates":[-98.86956,30.28697],"type":"Point"}
+  "bbox": [
+    -98.86956,
+    30.28697,
+    -98.86956,
+    30.28697
+],
+  "geometry": {"coordinates":[-98.86956000000001,30.28697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286505999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.153099,30.003401,-95.153099,30.003401",
     "geom:latitude":30.003401,
     "geom:longitude":-95.153099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8075 Fm 1960 Rd E",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286505999,
-    "wof:lastmodified":1449017629,
+    "wof:lastmodified":1467084304,
     "wof:name":"A Food Mart",
     "wof:parent_id":85869399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-95.153099,30.003401,-95.153099,30.003401],
+  "bbox": [
+    -95.153099,
+    30.003401,
+    -95.153099,
+    30.003401
+],
   "geometry": {"coordinates":[-95.153099,30.003401],"type":"Point"}
 }

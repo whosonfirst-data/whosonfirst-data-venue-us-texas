@@ -2,13 +2,14 @@
   "id": 236180003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839859,33.179158,-96.839859,33.179158",
     "geom:latitude":33.179158,
     "geom:longitude":-96.839859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11999 Dallas Pkwy",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":236180003,
-    "wof:lastmodified":1449001779,
+    "wof:lastmodified":1467083861,
     "wof:name":"Market Street",
     "wof:parent_id":85811845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.839859,33.179158,-96.839859,33.179158],
+  "bbox": [
+    -96.839859,
+    33.179158,
+    -96.839859,
+    33.179158
+],
   "geometry": {"coordinates":[-96.839859,33.179158],"type":"Point"}
 }

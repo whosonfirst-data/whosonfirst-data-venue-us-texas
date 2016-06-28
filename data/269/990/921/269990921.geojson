@@ -2,13 +2,14 @@
   "id": 269990921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.206201,29.783149,-95.206201,29.783149",
     "geom:latitude":29.783149,
     "geom:longitude":-95.206201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12523 Orleans St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269990921,
-    "wof:lastmodified":1449037729,
+    "wof:lastmodified":1467084616,
     "wof:name":"James Compean",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-95.206201,29.783149,-95.206201,29.783149],
-  "geometry": {"coordinates":[-95.206201,29.783149],"type":"Point"}
+  "bbox": [
+    -95.206201,
+    29.783149,
+    -95.206201,
+    29.783149
+],
+  "geometry": {"coordinates":[-95.20620099999999,29.783149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236358691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.96047,32.85241,-96.96047,32.85241",
     "geom:latitude":32.85241,
     "geom:longitude":-96.96047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 N. MacArthur Blvd. Suite 500",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236358691,
-    "wof:lastmodified":1449002964,
+    "wof:lastmodified":1467083931,
     "wof:name":"MacArthur OB/Gyn PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-96.96047,32.85241,-96.96047,32.85241],
+  "bbox": [
+    -96.96047,
+    32.85241,
+    -96.96047,
+    32.85241
+],
   "geometry": {"coordinates":[-96.96047,32.85241],"type":"Point"}
 }

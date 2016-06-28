@@ -2,13 +2,14 @@
   "id": 303705555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734547,30.313839,-97.734547,30.313839",
     "geom:latitude":30.313839,
     "geom:longitude":-97.734547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4616 Triangle Ave Ste 407",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303705555,
-    "wof:lastmodified":1449000581,
+    "wof:lastmodified":1467083814,
     "wof:name":"Myo Massage",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.734547,30.313839,-97.734547,30.313839],
-  "geometry": {"coordinates":[-97.734547,30.313839],"type":"Point"}
+  "bbox": [
+    -97.734547,
+    30.313839,
+    -97.734547,
+    30.313839
+],
+  "geometry": {"coordinates":[-97.73454700000001,30.313839],"type":"Point"}
 }

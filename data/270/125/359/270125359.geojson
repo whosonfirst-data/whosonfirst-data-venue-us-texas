@@ -2,13 +2,14 @@
   "id": 270125359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445243,29.741712,-95.445243,29.741712",
     "geom:latitude":29.741712,
     "geom:longitude":-95.445243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 westheimer",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270125359,
-    "wof:lastmodified":1449011042,
+    "wof:lastmodified":1467084229,
     "wof:name":"starbucks",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.445243,29.741712,-95.445243,29.741712],
+  "bbox": [
+    -95.445243,
+    29.741712,
+    -95.445243,
+    29.741712
+],
   "geometry": {"coordinates":[-95.445243,29.741712],"type":"Point"}
 }

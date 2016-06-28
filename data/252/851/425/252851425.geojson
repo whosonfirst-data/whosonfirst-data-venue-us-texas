@@ -2,13 +2,14 @@
   "id": 252851425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.900192,32.870462,-96.900192,32.870462",
     "geom:latitude":32.870462,
     "geom:longitude":-96.900192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10659 King William Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":252851425,
-    "wof:lastmodified":1449006116,
+    "wof:lastmodified":1467084087,
     "wof:name":"Sign Stop Supply",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "signs-maintenance"
     ]
 },
-  "bbox": [-96.900192,32.870462,-96.900192,32.870462],
+  "bbox": [
+    -96.900192,
+    32.870462,
+    -96.900192,
+    32.870462
+],
   "geometry": {"coordinates":[-96.900192,32.870462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286870929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.189323,29.512529,-95.189323,29.512529",
     "geom:latitude":29.512529,
     "geom:longitude":-95.189323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 S Friendswood Dr",
     "sg:city":"Friendswood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286870929,
-    "wof:lastmodified":1449015950,
+    "wof:lastmodified":1467084257,
     "wof:name":"Managed Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-95.189323,29.512529,-95.189323,29.512529],
+  "bbox": [
+    -95.189323,
+    29.512529,
+    -95.189323,
+    29.512529
+],
   "geometry": {"coordinates":[-95.189323,29.512529],"type":"Point"}
 }

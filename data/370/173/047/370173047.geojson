@@ -2,13 +2,14 @@
   "id": 370173047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.774637,30.243665,-97.774637,30.243665",
     "geom:latitude":30.243665,
     "geom:longitude":-97.774637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Kinney Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370173047,
-    "wof:lastmodified":1449029743,
+    "wof:lastmodified":1467084485,
     "wof:name":"Urban Properties",
     "wof:parent_id":85869931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.774637,30.243665,-97.774637,30.243665],
+  "bbox": [
+    -97.774637,
+    30.243665,
+    -97.774637,
+    30.243665
+],
   "geometry": {"coordinates":[-97.774637,30.243665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202806867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.142527,32.657486,-97.142527,32.657486",
     "geom:latitude":32.657486,
     "geom:longitude":-97.142527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 Cold Springs Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202806867,
-    "wof:lastmodified":1449060101,
+    "wof:lastmodified":1467084887,
     "wof:name":"Unique Memories",
     "wof:parent_id":85851301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.142527,32.657486,-97.142527,32.657486],
+  "bbox": [
+    -97.142527,
+    32.657486,
+    -97.142527,
+    32.657486
+],
   "geometry": {"coordinates":[-97.142527,32.657486],"type":"Point"}
 }

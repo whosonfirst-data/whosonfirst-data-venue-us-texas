@@ -2,13 +2,14 @@
   "id": 236444789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.737242,32.975514,-96.737242,32.975514",
     "geom:latitude":32.975514,
     "geom:longitude":-96.737242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Old Campbell Rd Ste 100",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":236444789,
-    "wof:lastmodified":1449004706,
+    "wof:lastmodified":1467084013,
     "wof:name":"Dallas Acupuncture & Nasal Treatment Center",
     "wof:parent_id":85880199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "sport"
     ]
 },
-  "bbox": [-96.737242,32.975514,-96.737242,32.975514],
-  "geometry": {"coordinates":[-96.737242,32.975514],"type":"Point"}
+  "bbox": [
+    -96.737242,
+    32.975514,
+    -96.737242,
+    32.975514
+],
+  "geometry": {"coordinates":[-96.73724199999999,32.975514],"type":"Point"}
 }

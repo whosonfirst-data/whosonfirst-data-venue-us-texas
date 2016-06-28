@@ -2,13 +2,14 @@
   "id": 303463057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.856242,30.361756,-97.856242,30.361756",
     "geom:latitude":30.361756,
     "geom:longitude":-97.856242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9543 Big View Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303463057,
-    "wof:lastmodified":1448999817,
+    "wof:lastmodified":1467083776,
     "wof:name":"Water To Thrive",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "companies-bottled"
     ]
 },
-  "bbox": [-97.856242,30.361756,-97.856242,30.361756],
-  "geometry": {"coordinates":[-97.856242,30.361756],"type":"Point"}
+  "bbox": [
+    -97.856242,
+    30.361756,
+    -97.856242,
+    30.361756
+],
+  "geometry": {"coordinates":[-97.85624199999999,30.361756],"type":"Point"}
 }

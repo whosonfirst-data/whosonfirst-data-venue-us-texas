@@ -2,13 +2,14 @@
   "id": 387637237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.312593,30.598773,-96.312593,30.598773",
     "geom:latitude":30.598773,
     "geom:longitude":-96.312593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Laura Ln",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387637237,
-    "wof:lastmodified":1449056112,
+    "wof:lastmodified":1467084784,
     "wof:name":"Render Safe",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "response"
     ]
 },
-  "bbox": [-96.312593,30.598773,-96.312593,30.598773],
-  "geometry": {"coordinates":[-96.312593,30.598773],"type":"Point"}
+  "bbox": [
+    -96.312593,
+    30.598773,
+    -96.312593,
+    30.598773
+],
+  "geometry": {"coordinates":[-96.31259300000001,30.598773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169800027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.504973,29.888205,-95.504973,29.888205",
     "geom:latitude":29.888205,
     "geom:longitude":-95.504973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10223 Copperwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169800027,
-    "wof:lastmodified":1449032937,
+    "wof:lastmodified":1467084558,
     "wof:name":"Woodland Trails North Civic",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.504973,29.888205,-95.504973,29.888205],
-  "geometry": {"coordinates":[-95.504973,29.888205],"type":"Point"}
+  "bbox": [
+    -95.504973,
+    29.888205,
+    -95.504973,
+    29.888205
+],
+  "geometry": {"coordinates":[-95.50497300000001,29.888205],"type":"Point"}
 }

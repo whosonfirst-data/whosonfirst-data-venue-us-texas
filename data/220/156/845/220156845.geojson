@@ -2,13 +2,14 @@
   "id": 220156845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.44635,29.590945,-98.44635,29.590945",
     "geom:latitude":29.590945,
     "geom:longitude":-98.44635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 Rocky Oak St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220156845,
-    "wof:lastmodified":1449074198,
+    "wof:lastmodified":1467085180,
     "wof:name":"Eway",
     "wof:parent_id":85828145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-98.44635,29.590945,-98.44635,29.590945],
+  "bbox": [
+    -98.44635,
+    29.590945,
+    -98.44635,
+    29.590945
+],
   "geometry": {"coordinates":[-98.44635,29.590945],"type":"Point"}
 }

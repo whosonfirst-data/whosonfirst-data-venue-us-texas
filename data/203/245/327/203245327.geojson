@@ -2,13 +2,14 @@
   "id": 203245327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.227488,32.769622,-97.227488,32.769622",
     "geom:latitude":32.769622,
     "geom:longitude":-97.227488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Oakwood Trl",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203245327,
-    "wof:lastmodified":1449026810,
+    "wof:lastmodified":1467084420,
     "wof:name":"Michael Bardis Landscape Arch",
     "wof:parent_id":85871577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-97.227488,32.769622,-97.227488,32.769622],
-  "geometry": {"coordinates":[-97.227488,32.769622],"type":"Point"}
+  "bbox": [
+    -97.227488,
+    32.769622,
+    -97.227488,
+    32.769622
+],
+  "geometry": {"coordinates":[-97.22748799999999,32.769622],"type":"Point"}
 }

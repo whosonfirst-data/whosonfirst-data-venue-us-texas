@@ -2,13 +2,14 @@
   "id": 353963233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.165607,33.004076,-97.165607,33.004076",
     "geom:latitude":33.004076,
     "geom:longitude":-97.165607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 Westpark Cir",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353963233,
-    "wof:lastmodified":1449018505,
+    "wof:lastmodified":1467084326,
     "wof:name":"Lorac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.165607,33.004076,-97.165607,33.004076],
-  "geometry": {"coordinates":[-97.165607,33.004076],"type":"Point"}
+  "bbox": [
+    -97.165607,
+    33.004076,
+    -97.165607,
+    33.004076
+],
+  "geometry": {"coordinates":[-97.16560699999999,33.004076],"type":"Point"}
 }

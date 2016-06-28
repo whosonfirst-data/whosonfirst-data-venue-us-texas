@@ -2,13 +2,14 @@
   "id": 252892111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76914,32.790097,-96.76914,32.790097",
     "geom:latitude":32.790097,
     "geom:longitude":-96.76914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Peak St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252892111,
-    "wof:lastmodified":1449005568,
+    "wof:lastmodified":1467084057,
     "wof:name":"G B G Inspections",
     "wof:parent_id":85870373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-96.76914,32.790097,-96.76914,32.790097],
-  "geometry": {"coordinates":[-96.76914,32.790097],"type":"Point"}
+  "bbox": [
+    -96.76914,
+    32.790097,
+    -96.76914,
+    32.790097
+],
+  "geometry": {"coordinates":[-96.76913999999999,32.790097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286375719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.452301,29.796,-95.452301,29.796",
     "geom:latitude":29.796,
     "geom:longitude":-95.452301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9540 Hempstead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286375719,
-    "wof:lastmodified":1449015264,
+    "wof:lastmodified":1467084239,
     "wof:name":"Apache Glass Co",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-95.452301,29.796,-95.452301,29.796],
-  "geometry": {"coordinates":[-95.452301,29.796],"type":"Point"}
+  "bbox": [
+    -95.452301,
+    29.796,
+    -95.452301,
+    29.796
+],
+  "geometry": {"coordinates":[-95.45230100000001,29.796],"type":"Point"}
 }

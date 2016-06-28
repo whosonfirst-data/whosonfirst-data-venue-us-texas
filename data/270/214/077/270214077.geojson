@@ -2,13 +2,14 @@
   "id": 270214077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.531996,29.717987,-95.531996,29.717987",
     "geom:latitude":29.717987,
     "geom:longitude":-95.531996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 Harwin Dr Ste 220",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270214077,
-    "wof:lastmodified":1449011054,
+    "wof:lastmodified":1467084230,
     "wof:name":"Sam's Deli",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-95.531996,29.717987,-95.531996,29.717987],
-  "geometry": {"coordinates":[-95.531996,29.717987],"type":"Point"}
+  "bbox": [
+    -95.531996,
+    29.717987,
+    -95.531996,
+    29.717987
+],
+  "geometry": {"coordinates":[-95.53199600000001,29.717987],"type":"Point"}
 }

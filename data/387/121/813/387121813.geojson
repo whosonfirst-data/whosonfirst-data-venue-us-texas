@@ -2,13 +2,14 @@
   "id": 387121813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.751185,30.084159,-93.751185,30.084159",
     "geom:latitude":30.084159,
     "geom:longitude":-93.751185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Dayton St",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387121813,
-    "wof:lastmodified":1449059075,
+    "wof:lastmodified":1467084860,
     "wof:name":"Corner Carwash",
     "wof:parent_id":85808197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-93.751185,30.084159,-93.751185,30.084159],
-  "geometry": {"coordinates":[-93.751185,30.084159],"type":"Point"}
+  "bbox": [
+    -93.751185,
+    30.084159,
+    -93.751185,
+    30.084159
+],
+  "geometry": {"coordinates":[-93.75118500000001,30.084159],"type":"Point"}
 }

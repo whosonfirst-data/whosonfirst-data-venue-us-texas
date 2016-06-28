@@ -2,13 +2,14 @@
   "id": 303146729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.84713,29.958829,-97.84713,29.958829",
     "geom:latitude":29.958829,
     "geom:longitude":-97.84713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Star Meadow Dr",
     "sg:city":"Kyle",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303146729,
-    "wof:lastmodified":1448999132,
+    "wof:lastmodified":1467083742,
     "wof:name":"R Herndon Trucking",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.84713,29.958829,-97.84713,29.958829],
-  "geometry": {"coordinates":[-97.84713,29.958829],"type":"Point"}
+  "bbox": [
+    -97.84713,
+    29.958829,
+    -97.84713,
+    29.958829
+],
+  "geometry": {"coordinates":[-97.84713000000001,29.958829],"type":"Point"}
 }

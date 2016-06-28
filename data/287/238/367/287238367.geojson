@@ -2,13 +2,14 @@
   "id": 287238367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516541,28.03529,-97.516541,28.03529",
     "geom:latitude":28.03529,
     "geom:longitude":-97.516541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S San Patricio St",
     "sg:city":"Sinton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287238367,
-    "wof:lastmodified":1449001002,
+    "wof:lastmodified":1467083829,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.516541,28.03529,-97.516541,28.03529],
+  "bbox": [
+    -97.516541,
+    28.03529,
+    -97.516541,
+    28.03529
+],
   "geometry": {"coordinates":[-97.516541,28.03529],"type":"Point"}
 }

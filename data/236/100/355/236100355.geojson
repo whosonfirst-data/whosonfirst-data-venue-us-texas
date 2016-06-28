@@ -2,13 +2,14 @@
   "id": 236100355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.866689,32.989246,-96.866689,32.989246",
     "geom:latitude":32.989246,
     "geom:longitude":-96.866689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 Kelly Blvd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236100355,
-    "wof:lastmodified":1449004217,
+    "wof:lastmodified":1467083990,
     "wof:name":"Restaurant Latino and Seafood",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mexican"
     ]
 },
-  "bbox": [-96.866689,32.989246,-96.866689,32.989246],
-  "geometry": {"coordinates":[-96.866689,32.989246],"type":"Point"}
+  "bbox": [
+    -96.866689,
+    32.989246,
+    -96.866689,
+    32.989246
+],
+  "geometry": {"coordinates":[-96.86668899999999,32.989246],"type":"Point"}
 }

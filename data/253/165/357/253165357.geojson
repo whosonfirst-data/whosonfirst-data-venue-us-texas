@@ -2,13 +2,14 @@
   "id": 253165357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.869326,29.910513,-96.869326,29.910513",
     "geom:latitude":29.910513,
     "geom:longitude":-96.869326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 E Colorado St",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253165357,
-    "wof:lastmodified":1449065817,
+    "wof:lastmodified":1467085048,
     "wof:name":"Something Old Something New",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.869326,29.910513,-96.869326,29.910513],
+  "bbox": [
+    -96.869326,
+    29.910513,
+    -96.869326,
+    29.910513
+],
   "geometry": {"coordinates":[-96.869326,29.910513],"type":"Point"}
 }

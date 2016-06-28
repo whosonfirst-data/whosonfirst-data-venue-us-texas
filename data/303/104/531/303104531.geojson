@@ -2,13 +2,14 @@
   "id": 303104531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.823913,30.502921,-97.823913,30.502921",
     "geom:latitude":30.502921,
     "geom:longitude":-97.823913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Buttercup Creek Blvd",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303104531,
-    "wof:lastmodified":1448999125,
+    "wof:lastmodified":1467083742,
     "wof:name":"Cedar Park Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.823913,30.502921,-97.823913,30.502921],
+  "bbox": [
+    -97.823913,
+    30.502921,
+    -97.823913,
+    30.502921
+],
   "geometry": {"coordinates":[-97.823913,30.502921],"type":"Point"}
 }

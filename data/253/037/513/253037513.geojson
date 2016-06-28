@@ -2,13 +2,14 @@
   "id": 253037513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.902363,33.55337,-101.902363,33.55337",
     "geom:latitude":33.55337,
     "geom:longitude":-101.902363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 45th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253037513,
-    "wof:lastmodified":1449065854,
+    "wof:lastmodified":1467085049,
     "wof:name":"Maximo Hr",
     "wof:parent_id":85878795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-101.902363,33.55337,-101.902363,33.55337],
-  "geometry": {"coordinates":[-101.902363,33.55337],"type":"Point"}
+  "bbox": [
+    -101.902363,
+    33.55337,
+    -101.902363,
+    33.55337
+],
+  "geometry": {"coordinates":[-101.90236299999999,33.55337],"type":"Point"}
 }

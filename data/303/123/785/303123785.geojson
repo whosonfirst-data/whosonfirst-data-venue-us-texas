@@ -2,13 +2,14 @@
   "id": 303123785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677956,30.583115,-97.677956,30.583115",
     "geom:latitude":30.583115,
     "geom:longitude":-97.677956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Park Central Blvd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303123785,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1467083728,
     "wof:name":"Ferguson Waterworks",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "engineer"
     ]
 },
-  "bbox": [-97.677956,30.583115,-97.677956,30.583115],
-  "geometry": {"coordinates":[-97.677956,30.583115],"type":"Point"}
+  "bbox": [
+    -97.677956,
+    30.583115,
+    -97.677956,
+    30.583115
+],
+  "geometry": {"coordinates":[-97.67795599999999,30.583115],"type":"Point"}
 }

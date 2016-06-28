@@ -2,13 +2,14 @@
   "id": 202731179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813269,32.775467,-96.813269,32.775467",
     "geom:latitude":32.775467,
     "geom:longitude":-96.813269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Industrial Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202731179,
-    "wof:lastmodified":1449062362,
+    "wof:lastmodified":1467084935,
     "wof:name":"Beer & Wine Cheap Trini",
     "wof:parent_id":85870315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-96.813269,32.775467,-96.813269,32.775467],
-  "geometry": {"coordinates":[-96.813269,32.775467],"type":"Point"}
+  "bbox": [
+    -96.813269,
+    32.775467,
+    -96.813269,
+    32.775467
+],
+  "geometry": {"coordinates":[-96.81326900000001,32.775467],"type":"Point"}
 }

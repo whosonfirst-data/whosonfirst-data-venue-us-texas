@@ -2,13 +2,14 @@
   "id": 370643307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.494948,29.82443,-95.494948,29.82443",
     "geom:latitude":29.82443,
     "geom:longitude":-95.494948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Bingle Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370643307,
-    "wof:lastmodified":1449032018,
+    "wof:lastmodified":1467084543,
     "wof:name":"AC & Heating",
     "wof:parent_id":85869401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.494948,29.82443,-95.494948,29.82443],
-  "geometry": {"coordinates":[-95.494948,29.82443],"type":"Point"}
+  "bbox": [
+    -95.494948,
+    29.82443,
+    -95.494948,
+    29.82443
+],
+  "geometry": {"coordinates":[-95.49494799999999,29.82443],"type":"Point"}
 }

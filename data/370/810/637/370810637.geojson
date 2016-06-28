@@ -2,13 +2,14 @@
   "id": 370810637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.917243,32.253675,-99.917243,32.253675",
     "geom:latitude":32.253675,
     "geom:longitude":-99.917243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Co Rd 280",
     "sg:city":"Tuscola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370810637,
-    "wof:lastmodified":1449030087,
+    "wof:lastmodified":1467084494,
     "wof:name":"Americare Ambulance Trnspt Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-99.917243,32.253675,-99.917243,32.253675],
+  "bbox": [
+    -99.917243,
+    32.253675,
+    -99.917243,
+    32.253675
+],
   "geometry": {"coordinates":[-99.917243,32.253675],"type":"Point"}
 }

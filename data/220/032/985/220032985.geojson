@@ -2,13 +2,14 @@
   "id": 220032985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.257996,29.565932,-98.257996,29.565932",
     "geom:latitude":29.565932,
     "geom:longitude":-98.257996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Elbel Rd",
     "sg:city":"Schertz",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220032985,
-    "wof:lastmodified":1449074419,
+    "wof:lastmodified":1467085185,
     "wof:name":"Samuel Clemens High School",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"
     ]
 },
-  "bbox": [-98.257996,29.565932,-98.257996,29.565932],
-  "geometry": {"coordinates":[-98.257996,29.565932],"type":"Point"}
+  "bbox": [
+    -98.257996,
+    29.565932,
+    -98.257996,
+    29.565932
+],
+  "geometry": {"coordinates":[-98.25799600000001,29.565932],"type":"Point"}
 }

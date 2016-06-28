@@ -2,13 +2,14 @@
   "id": 387881357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.391357,29.909691,-95.391357,29.909691",
     "geom:latitude":29.909691,
     "geom:longitude":-95.391357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Hambrick Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387881357,
-    "wof:lastmodified":1449058313,
+    "wof:lastmodified":1467084841,
     "wof:name":"Black Dog Ranch",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-95.391357,29.909691,-95.391357,29.909691],
+  "bbox": [
+    -95.391357,
+    29.909691,
+    -95.391357,
+    29.909691
+],
   "geometry": {"coordinates":[-95.391357,29.909691],"type":"Point"}
 }

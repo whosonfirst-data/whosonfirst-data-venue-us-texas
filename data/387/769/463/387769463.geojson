@@ -2,13 +2,14 @@
   "id": 387769463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.668061,29.298547,-98.668061,29.298547",
     "geom:latitude":29.298547,
     "geom:longitude":-98.668061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12516 Robert Glen",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387769463,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1467084816,
     "wof:name":"Southwest Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.668061,29.298547,-98.668061,29.298547],
-  "geometry": {"coordinates":[-98.668061,29.298547],"type":"Point"}
+  "bbox": [
+    -98.668061,
+    29.298547,
+    -98.668061,
+    29.298547
+],
+  "geometry": {"coordinates":[-98.66806099999999,29.298547],"type":"Point"}
 }

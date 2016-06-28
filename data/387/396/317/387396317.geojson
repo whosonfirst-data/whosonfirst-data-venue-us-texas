@@ -2,13 +2,14 @@
   "id": 387396317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.578223,29.513572,-98.578223,29.513572",
     "geom:latitude":29.513572,
     "geom:longitude":-98.578223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7930 Floyd Curl Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387396317,
-    "wof:lastmodified":1449058609,
+    "wof:lastmodified":1467084848,
     "wof:name":"Martha Luna MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.578223,29.513572,-98.578223,29.513572],
-  "geometry": {"coordinates":[-98.578223,29.513572],"type":"Point"}
+  "bbox": [
+    -98.578223,
+    29.513572,
+    -98.578223,
+    29.513572
+],
+  "geometry": {"coordinates":[-98.57822299999999,29.513572],"type":"Point"}
 }

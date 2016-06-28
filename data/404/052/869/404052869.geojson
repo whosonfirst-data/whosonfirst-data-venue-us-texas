@@ -2,13 +2,14 @@
   "id": 404052869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400197,30.025211,-95.400197,30.025211",
     "geom:latitude":30.025211,
     "geom:longitude":-95.400197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Meyer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404052869,
-    "wof:lastmodified":1449039558,
+    "wof:lastmodified":1467084648,
     "wof:name":"Bandamatic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.400197,30.025211,-95.400197,30.025211],
-  "geometry": {"coordinates":[-95.400197,30.025211],"type":"Point"}
+  "bbox": [
+    -95.400197,
+    30.025211,
+    -95.400197,
+    30.025211
+],
+  "geometry": {"coordinates":[-95.40019700000001,30.025211],"type":"Point"}
 }

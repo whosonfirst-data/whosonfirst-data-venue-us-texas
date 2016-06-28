@@ -2,13 +2,14 @@
   "id": 303764001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729133,30.355123,-97.729133,30.355123",
     "geom:latitude":30.355123,
     "geom:longitude":-97.729133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 W Anderson Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303764001,
-    "wof:lastmodified":1449000449,
+    "wof:lastmodified":1467083807,
     "wof:name":"FTD",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.729133,30.355123,-97.729133,30.355123],
+  "bbox": [
+    -97.729133,
+    30.355123,
+    -97.729133,
+    30.355123
+],
   "geometry": {"coordinates":[-97.729133,30.355123],"type":"Point"}
 }

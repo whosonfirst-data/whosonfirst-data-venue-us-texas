@@ -2,13 +2,14 @@
   "id": 236137539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.993457,32.966802,-96.993457,32.966802",
     "geom:latitude":32.966802,
     "geom:longitude":-96.993457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Denton Tap Rd",
     "sg:city":"Coppell",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236137539,
-    "wof:lastmodified":1449004705,
+    "wof:lastmodified":1467084013,
     "wof:name":"Chopsticks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.993457,32.966802,-96.993457,32.966802],
-  "geometry": {"coordinates":[-96.993457,32.966802],"type":"Point"}
+  "bbox": [
+    -96.993457,
+    32.966802,
+    -96.993457,
+    32.966802
+],
+  "geometry": {"coordinates":[-96.99345700000001,32.966802],"type":"Point"}
 }

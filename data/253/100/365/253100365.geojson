@@ -2,13 +2,14 @@
   "id": 253100365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805603,32.937401,-96.805603,32.937401",
     "geom:latitude":32.937401,
     "geom:longitude":-96.805603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5734 Encore Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253100365,
-    "wof:lastmodified":1449065012,
+    "wof:lastmodified":1467085020,
     "wof:name":"Sullivan Travis CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.805603,32.937401,-96.805603,32.937401],
+  "bbox": [
+    -96.805603,
+    32.937401,
+    -96.805603,
+    32.937401
+],
   "geometry": {"coordinates":[-96.805603,32.937401],"type":"Point"}
 }

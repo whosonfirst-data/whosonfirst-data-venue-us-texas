@@ -2,13 +2,14 @@
   "id": 202937505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.453803,29.484684,-98.453803,29.484684",
     "geom:latitude":29.484684,
     "geom:longitude":-98.453803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Austin Hwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202937505,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1467084898,
     "wof:name":"Austin Highway Trans Auto Ctr",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.453803,29.484684,-98.453803,29.484684],
-  "geometry": {"coordinates":[-98.453803,29.484684],"type":"Point"}
+  "bbox": [
+    -98.453803,
+    29.484684,
+    -98.453803,
+    29.484684
+],
+  "geometry": {"coordinates":[-98.45380299999999,29.484684],"type":"Point"}
 }

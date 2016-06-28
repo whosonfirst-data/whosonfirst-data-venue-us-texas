@@ -2,13 +2,14 @@
   "id": 203265795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.445561,31.856267,-106.445561,31.856267",
     "geom:latitude":31.856267,
     "geom:longitude":-106.445561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Edgar Park Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203265795,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1467084396,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85814117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.445561,31.856267,-106.445561,31.856267],
+  "bbox": [
+    -106.445561,
+    31.856267,
+    -106.445561,
+    31.856267
+],
   "geometry": {"coordinates":[-106.445561,31.856267],"type":"Point"}
 }

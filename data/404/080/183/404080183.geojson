@@ -2,13 +2,14 @@
   "id": 404080183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.405903,30.687362,-98.405903,30.687362",
     "geom:latitude":30.687362,
     "geom:longitude":-98.405903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Apache Trl",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404080183,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1467084660,
     "wof:name":"JP Custom Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-98.405903,30.687362,-98.405903,30.687362],
+  "bbox": [
+    -98.405903,
+    30.687362,
+    -98.405903,
+    30.687362
+],
   "geometry": {"coordinates":[-98.405903,30.687362],"type":"Point"}
 }

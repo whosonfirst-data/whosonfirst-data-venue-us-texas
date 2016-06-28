@@ -2,13 +2,14 @@
   "id": 303629861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825502,30.275643,-97.825502,30.275643",
     "geom:latitude":30.275643,
     "geom:longitude":-97.825502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Barclay Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303629861,
-    "wof:lastmodified":1448999992,
+    "wof:lastmodified":1467083785,
     "wof:name":"Network Mortgage",
     "wof:parent_id":85869975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "processing"
     ]
 },
-  "bbox": [-97.825502,30.275643,-97.825502,30.275643],
+  "bbox": [
+    -97.825502,
+    30.275643,
+    -97.825502,
+    30.275643
+],
   "geometry": {"coordinates":[-97.825502,30.275643],"type":"Point"}
 }

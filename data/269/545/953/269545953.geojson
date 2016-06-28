@@ -2,13 +2,14 @@
   "id": 269545953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10524,33.246288,-97.10524,33.246288",
     "geom:latitude":33.246288,
     "geom:longitude":-97.10524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Burning Tree Ln",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269545953,
-    "wof:lastmodified":1449036726,
+    "wof:lastmodified":1467084588,
     "wof:name":"Bella Designs",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-97.10524,33.246288,-97.10524,33.246288],
-  "geometry": {"coordinates":[-97.10524,33.246288],"type":"Point"}
+  "bbox": [
+    -97.10524,
+    33.246288,
+    -97.10524,
+    33.246288
+],
+  "geometry": {"coordinates":[-97.10523999999999,33.246288],"type":"Point"}
 }

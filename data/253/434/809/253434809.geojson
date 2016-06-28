@@ -2,13 +2,14 @@
   "id": 253434809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.640729,32.460463,-94.640729,32.460463",
     "geom:latitude":32.460463,
     "geom:longitude":-94.640729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Old Maple Springs Rd",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":253434809,
-    "wof:lastmodified":1449063445,
+    "wof:lastmodified":1467084967,
     "wof:name":"Longview Stone",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "gravel"
     ]
 },
-  "bbox": [-94.640729,32.460463,-94.640729,32.460463],
-  "geometry": {"coordinates":[-94.640729,32.460463],"type":"Point"}
+  "bbox": [
+    -94.640729,
+    32.460463,
+    -94.640729,
+    32.460463
+],
+  "geometry": {"coordinates":[-94.64072899999999,32.460463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253423673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.738869,32.500593,-94.738869,32.500593",
     "geom:latitude":32.500593,
     "geom:longitude":-94.738869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Marshall Ave",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253423673,
-    "wof:lastmodified":1449063303,
+    "wof:lastmodified":1467084962,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.738869,32.500593,-94.738869,32.500593],
-  "geometry": {"coordinates":[-94.738869,32.500593],"type":"Point"}
+  "bbox": [
+    -94.738869,
+    32.500593,
+    -94.738869,
+    32.500593
+],
+  "geometry": {"coordinates":[-94.73886899999999,32.500593],"type":"Point"}
 }

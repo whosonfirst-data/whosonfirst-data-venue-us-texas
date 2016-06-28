@@ -2,13 +2,14 @@
   "id": 270138715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.237602,29.7735,-95.237602,29.7735",
     "geom:latitude":29.7735,
     "geom:longitude":-95.237602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10337 East Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270138715,
-    "wof:lastmodified":1449009310,
+    "wof:lastmodified":1467084172,
     "wof:name":"East China",
     "wof:parent_id":85893771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-95.237602,29.7735,-95.237602,29.7735],
+  "bbox": [
+    -95.237602,
+    29.7735,
+    -95.237602,
+    29.7735
+],
   "geometry": {"coordinates":[-95.237602,29.7735],"type":"Point"}
 }

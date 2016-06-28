@@ -2,13 +2,14 @@
   "id": 303708399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717598,30.31595,-97.717598,30.31595",
     "geom:latitude":30.31595,
     "geom:longitude":-97.717598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E 53rd St B215",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303708399,
-    "wof:lastmodified":1448998502,
+    "wof:lastmodified":1467083710,
     "wof:name":"Guardian Canine Training",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-97.717598,30.31595,-97.717598,30.31595],
+  "bbox": [
+    -97.717598,
+    30.31595,
+    -97.717598,
+    30.31595
+],
   "geometry": {"coordinates":[-97.717598,30.31595],"type":"Point"}
 }

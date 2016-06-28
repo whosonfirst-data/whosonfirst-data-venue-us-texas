@@ -2,13 +2,14 @@
   "id": 387155095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.301138,31.206218,-97.301138,31.206218",
     "geom:latitude":31.206218,
     "geom:longitude":-97.301138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Main St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387155095,
-    "wof:lastmodified":1449059254,
+    "wof:lastmodified":1467084865,
     "wof:name":"Troy City Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.301138,31.206218,-97.301138,31.206218],
-  "geometry": {"coordinates":[-97.301138,31.206218],"type":"Point"}
+  "bbox": [
+    -97.301138,
+    31.206218,
+    -97.301138,
+    31.206218
+],
+  "geometry": {"coordinates":[-97.30113799999999,31.206218],"type":"Point"}
 }

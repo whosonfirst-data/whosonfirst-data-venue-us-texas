@@ -2,13 +2,14 @@
   "id": 220076409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.00835,33.04482,-97.00835,33.04482",
     "geom:latitude":33.04482,
     "geom:longitude":-97.00835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Stemmons Fwy",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220076409,
-    "wof:lastmodified":1449074668,
+    "wof:lastmodified":1467085191,
     "wof:name":"Lewisville Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-97.00835,33.04482,-97.00835,33.04482],
-  "geometry": {"coordinates":[-97.00835,33.04482],"type":"Point"}
+  "bbox": [
+    -97.00835,
+    33.04482,
+    -97.00835,
+    33.04482
+],
+  "geometry": {"coordinates":[-97.00834999999999,33.04482],"type":"Point"}
 }

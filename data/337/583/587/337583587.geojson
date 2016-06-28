@@ -2,13 +2,14 @@
   "id": 337583587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.356117,31.785663,-106.356117,31.785663",
     "geom:latitude":31.785663,
     "geom:longitude":-106.356117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 McRae Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337583587,
-    "wof:lastmodified":1449027580,
+    "wof:lastmodified":1467084451,
     "wof:name":"My Guardian Watch",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alarm"
     ]
 },
-  "bbox": [-106.356117,31.785663,-106.356117,31.785663],
+  "bbox": [
+    -106.356117,
+    31.785663,
+    -106.356117,
+    31.785663
+],
   "geometry": {"coordinates":[-106.356117,31.785663],"type":"Point"}
 }

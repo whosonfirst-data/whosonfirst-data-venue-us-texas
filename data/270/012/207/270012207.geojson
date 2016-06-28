@@ -2,13 +2,14 @@
   "id": 270012207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.418393,29.81731,-95.418393,29.81731",
     "geom:latitude":29.81731,
     "geom:longitude":-95.418393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 W 34th St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":270012207,
-    "wof:lastmodified":1449010849,
+    "wof:lastmodified":1467084223,
     "wof:name":"M & M Roofing, Siding & Windows",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.418393,29.81731,-95.418393,29.81731],
-  "geometry": {"coordinates":[-95.418393,29.81731],"type":"Point"}
+  "bbox": [
+    -95.418393,
+    29.81731,
+    -95.418393,
+    29.81731
+],
+  "geometry": {"coordinates":[-95.41839299999999,29.81731],"type":"Point"}
 }

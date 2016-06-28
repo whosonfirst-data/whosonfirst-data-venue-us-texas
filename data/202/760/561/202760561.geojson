@@ -2,13 +2,14 @@
   "id": 202760561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.233219,32.705779,-97.233219,32.705779",
     "geom:latitude":32.705779,
     "geom:longitude":-97.233219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 E Loop 820 S",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202760561,
-    "wof:lastmodified":1449062547,
+    "wof:lastmodified":1467084939,
     "wof:name":"Homefield Auto Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.233219,32.705779,-97.233219,32.705779],
-  "geometry": {"coordinates":[-97.233219,32.705779],"type":"Point"}
+  "bbox": [
+    -97.233219,
+    32.705779,
+    -97.233219,
+    32.705779
+],
+  "geometry": {"coordinates":[-97.23321900000001,32.705779],"type":"Point"}
 }

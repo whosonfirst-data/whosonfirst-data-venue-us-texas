@@ -2,13 +2,14 @@
   "id": 370188993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.384087,30.016675,-95.384087,30.016675",
     "geom:latitude":30.016675,
     "geom:longitude":-95.384087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 Cocona Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370188993,
-    "wof:lastmodified":1449030759,
+    "wof:lastmodified":1467084511,
     "wof:name":"McKenna Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.384087,30.016675,-95.384087,30.016675],
-  "geometry": {"coordinates":[-95.384087,30.016675],"type":"Point"}
+  "bbox": [
+    -95.384087,
+    30.016675,
+    -95.384087,
+    30.016675
+],
+  "geometry": {"coordinates":[-95.38408699999999,30.016675],"type":"Point"}
 }

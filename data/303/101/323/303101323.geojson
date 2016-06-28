@@ -2,13 +2,14 @@
   "id": 303101323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.802002,30.471901,-97.802002,30.471901",
     "geom:latitude":30.471901,
     "geom:longitude":-97.802002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 Lakeline Mall Dr",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303101323,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1467083756,
     "wof:name":"Garden World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.802002,30.471901,-97.802002,30.471901],
+  "bbox": [
+    -97.802002,
+    30.471901,
+    -97.802002,
+    30.471901
+],
   "geometry": {"coordinates":[-97.802002,30.471901],"type":"Point"}
 }

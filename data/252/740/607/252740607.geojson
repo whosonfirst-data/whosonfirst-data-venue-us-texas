@@ -2,13 +2,14 @@
   "id": 252740607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752078,32.815684,-96.752078,32.815684",
     "geom:latitude":32.815684,
     "geom:longitude":-96.752078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Abrams Road",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252740607,
-    "wof:lastmodified":1449005909,
+    "wof:lastmodified":1467084075,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85870367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.752078,32.815684,-96.752078,32.815684],
+  "bbox": [
+    -96.752078,
+    32.815684,
+    -96.752078,
+    32.815684
+],
   "geometry": {"coordinates":[-96.752078,32.815684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303039689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.786888,26.481859,-97.786888,26.481859",
     "geom:latitude":26.481859,
     "geom:longitude":-97.786888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Hidalgo Ave",
     "sg:city":"Raymondville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303039689,
-    "wof:lastmodified":1449000262,
+    "wof:lastmodified":1467083797,
     "wof:name":"Time & Temperature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "time"
     ]
 },
-  "bbox": [-97.786888,26.481859,-97.786888,26.481859],
+  "bbox": [
+    -97.786888,
+    26.481859,
+    -97.786888,
+    26.481859
+],
   "geometry": {"coordinates":[-97.786888,26.481859],"type":"Point"}
 }

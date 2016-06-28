@@ -2,13 +2,14 @@
   "id": 387524287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.600935,29.462849,-98.600935,29.462849",
     "geom:latitude":29.462849,
     "geom:longitude":-98.600935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5835 Kepler Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387524287,
-    "wof:lastmodified":1449056075,
+    "wof:lastmodified":1467084783,
     "wof:name":"CC Electric Co",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.600935,29.462849,-98.600935,29.462849],
-  "geometry": {"coordinates":[-98.600935,29.462849],"type":"Point"}
+  "bbox": [
+    -98.600935,
+    29.462849,
+    -98.600935,
+    29.462849
+],
+  "geometry": {"coordinates":[-98.60093500000001,29.462849],"type":"Point"}
 }

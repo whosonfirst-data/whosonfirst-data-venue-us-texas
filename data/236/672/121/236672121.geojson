@@ -2,13 +2,14 @@
   "id": 236672121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.603073,32.770623,-96.603073,32.770623",
     "geom:latitude":32.770623,
     "geom:longitude":-96.603073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Kearney St Ste 200",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236672121,
-    "wof:lastmodified":1449001838,
+    "wof:lastmodified":1467083866,
     "wof:name":"Rockwall Medical Association",
     "wof:parent_id":85878895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.603073,32.770623,-96.603073,32.770623],
-  "geometry": {"coordinates":[-96.603073,32.770623],"type":"Point"}
+  "bbox": [
+    -96.603073,
+    32.770623,
+    -96.603073,
+    32.770623
+],
+  "geometry": {"coordinates":[-96.60307299999999,32.770623],"type":"Point"}
 }

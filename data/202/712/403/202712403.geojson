@@ -2,13 +2,14 @@
   "id": 202712403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.947408,32.734795,-94.947408,32.734795",
     "geom:latitude":32.734795,
     "geom:longitude":-94.947408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Walnut St",
     "sg:city":"Gilmer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202712403,
-    "wof:lastmodified":1449061205,
+    "wof:lastmodified":1467084911,
     "wof:name":"Trinity Aggregate Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.947408,32.734795,-94.947408,32.734795],
+  "bbox": [
+    -94.947408,
+    32.734795,
+    -94.947408,
+    32.734795
+],
   "geometry": {"coordinates":[-94.947408,32.734795],"type":"Point"}
 }

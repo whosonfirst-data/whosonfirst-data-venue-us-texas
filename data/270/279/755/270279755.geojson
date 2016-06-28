@@ -2,13 +2,14 @@
   "id": 270279755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556716,29.859025,-95.556716,29.859025",
     "geom:latitude":29.859025,
     "geom:longitude":-95.556716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10515 Okanella St #100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":270279755,
-    "wof:lastmodified":1449009752,
+    "wof:lastmodified":1467084186,
     "wof:name":"ARS / Rescue Rooter Houston",
     "wof:parent_id":85869161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air"
     ]
 },
-  "bbox": [-95.556716,29.859025,-95.556716,29.859025],
-  "geometry": {"coordinates":[-95.556716,29.859025],"type":"Point"}
+  "bbox": [
+    -95.556716,
+    29.859025,
+    -95.556716,
+    29.859025
+],
+  "geometry": {"coordinates":[-95.55671599999999,29.859025],"type":"Point"}
 }

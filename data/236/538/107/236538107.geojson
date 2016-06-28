@@ -2,13 +2,14 @@
   "id": 236538107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.516168,29.379462,-98.516168,29.379462",
     "geom:latitude":29.379462,
     "geom:longitude":-98.516168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Division Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236538107,
-    "wof:lastmodified":1449001986,
+    "wof:lastmodified":1467083877,
     "wof:name":"Carlos Terrazas",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.516168,29.379462,-98.516168,29.379462],
-  "geometry": {"coordinates":[-98.516168,29.379462],"type":"Point"}
+  "bbox": [
+    -98.516168,
+    29.379462,
+    -98.516168,
+    29.379462
+],
+  "geometry": {"coordinates":[-98.51616799999999,29.379462],"type":"Point"}
 }

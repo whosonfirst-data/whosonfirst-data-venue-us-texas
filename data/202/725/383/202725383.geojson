@@ -2,13 +2,14 @@
   "id": 202725383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.620003,29.57759,-98.620003,29.57759",
     "geom:latitude":29.57759,
     "geom:longitude":-98.620003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6685 Utsa Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202725383,
-    "wof:lastmodified":1449060733,
+    "wof:lastmodified":1467084901,
     "wof:name":"NCN Institute",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.620003,29.57759,-98.620003,29.57759],
+  "bbox": [
+    -98.620003,
+    29.57759,
+    -98.620003,
+    29.57759
+],
   "geometry": {"coordinates":[-98.620003,29.57759],"type":"Point"}
 }

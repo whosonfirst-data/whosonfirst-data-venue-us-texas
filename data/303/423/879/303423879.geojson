@@ -2,13 +2,14 @@
   "id": 303423879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.687514,30.435298,-97.687514,30.435298",
     "geom:latitude":30.435298,
     "geom:longitude":-97.687514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Howard Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -100,10 +101,11 @@
         }
     ],
     "wof:id":303423879,
-    "wof:lastmodified":1448998520,
+    "wof:lastmodified":1467083711,
     "wof:name":"ARS/Rescue Rooter of Austin",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -128,6 +130,11 @@
         "sewer"
     ]
 },
-  "bbox": [-97.687514,30.435298,-97.687514,30.435298],
-  "geometry": {"coordinates":[-97.687514,30.435298],"type":"Point"}
+  "bbox": [
+    -97.687514,
+    30.435298,
+    -97.687514,
+    30.435298
+],
+  "geometry": {"coordinates":[-97.68751399999999,30.435298],"type":"Point"}
 }

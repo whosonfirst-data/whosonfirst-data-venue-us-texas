@@ -2,13 +2,14 @@
   "id": 303215045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742434,30.270009,-97.742434,30.270009",
     "geom:latitude":30.270009,
     "geom:longitude":-97.742434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 W 8th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303215045,
-    "wof:lastmodified":1449000139,
+    "wof:lastmodified":1467083792,
     "wof:name":"Coa Building Svc",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.742434,30.270009,-97.742434,30.270009],
+  "bbox": [
+    -97.742434,
+    30.270009,
+    -97.742434,
+    30.270009
+],
   "geometry": {"coordinates":[-97.742434,30.270009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404184205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.827954,32.38824,-99.827954,32.38824",
     "geom:latitude":32.38824,
     "geom:longitude":-99.827954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7055 US Hwy 277 S",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404184205,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1467084643,
     "wof:name":"Texas Youth Commission",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-99.827954,32.38824,-99.827954,32.38824],
-  "geometry": {"coordinates":[-99.827954,32.38824],"type":"Point"}
+  "bbox": [
+    -99.827954,
+    32.38824,
+    -99.827954,
+    32.38824
+],
+  "geometry": {"coordinates":[-99.82795400000001,32.38824],"type":"Point"}
 }

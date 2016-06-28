@@ -2,13 +2,14 @@
   "id": 202965071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52791,30.349269,-97.52791,30.349269",
     "geom:latitude":30.349269,
     "geom:longitude":-97.52791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11019 US Hwy 290",
     "sg:city":"Manor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202965071,
-    "wof:lastmodified":1449061868,
+    "wof:lastmodified":1467084924,
     "wof:name":"JME Auto Sales",
     "wof:parent_id":85869985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.52791,30.349269,-97.52791,30.349269],
-  "geometry": {"coordinates":[-97.52791,30.349269],"type":"Point"}
+  "bbox": [
+    -97.52791,
+    30.349269,
+    -97.52791,
+    30.349269
+],
+  "geometry": {"coordinates":[-97.52791000000001,30.349269],"type":"Point"}
 }

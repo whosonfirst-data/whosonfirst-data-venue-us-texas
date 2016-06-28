@@ -2,13 +2,14 @@
   "id": 235988779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49169,32.670492,-97.49169,32.670492",
     "geom:latitude":32.670492,
     "geom:longitude":-97.49169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10188 Wandering Way St",
     "sg:city":"Benbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235988779,
-    "wof:lastmodified":1449008381,
+    "wof:lastmodified":1467084143,
     "wof:name":"Auto Theft",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.49169,32.670492,-97.49169,32.670492],
-  "geometry": {"coordinates":[-97.49169,32.670492],"type":"Point"}
+  "bbox": [
+    -97.49169,
+    32.670492,
+    -97.49169,
+    32.670492
+],
+  "geometry": {"coordinates":[-97.49169000000001,32.670492],"type":"Point"}
 }

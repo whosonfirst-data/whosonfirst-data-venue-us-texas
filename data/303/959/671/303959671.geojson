@@ -2,13 +2,14 @@
   "id": 303959671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.30397,34.472983,-101.30397,34.472983",
     "geom:latitude":34.472983,
     "geom:longitude":-101.30397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Main St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303959671,
-    "wof:lastmodified":1449000322,
+    "wof:lastmodified":1467083801,
     "wof:name":"Briscoe County News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.30397,34.472983,-101.30397,34.472983],
-  "geometry": {"coordinates":[-101.30397,34.472983],"type":"Point"}
+  "bbox": [
+    -101.30397,
+    34.472983,
+    -101.30397,
+    34.472983
+],
+  "geometry": {"coordinates":[-101.30397000000001,34.472983],"type":"Point"}
 }

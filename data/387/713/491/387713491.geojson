@@ -2,13 +2,14 @@
   "id": 387713491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.078766,30.341003,-95.078766,30.341003",
     "geom:latitude":30.341003,
     "geom:longitude":-95.078766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 E Houston St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387713491,
-    "wof:lastmodified":1449059558,
+    "wof:lastmodified":1467084873,
     "wof:name":"Cleveland Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.078766,30.341003,-95.078766,30.341003],
+  "bbox": [
+    -95.078766,
+    30.341003,
+    -95.078766,
+    30.341003
+],
   "geometry": {"coordinates":[-95.078766,30.341003],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.837947,35.20248,-101.837947,35.20248",
     "geom:latitude":35.20248,
     "geom:longitude":-101.837947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Polk St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.amarillo-chamber.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875863,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102422445,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1467085095,
     "wof:name":"Amarillo Chamber Of Commerce",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.837947,35.20248,-101.837947,35.20248],
+  "bbox": [
+    -101.837947,
+    35.20248,
+    -101.837947,
+    35.20248
+],
   "geometry": {"coordinates":[-101.837947,35.20248],"type":"Point"}
 }

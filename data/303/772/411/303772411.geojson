@@ -2,13 +2,14 @@
   "id": 303772411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.715631,30.352957,-97.715631,30.352957",
     "geom:latitude":30.352957,
     "geom:longitude":-97.715631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 Research Blvd Ste 104A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303772411,
-    "wof:lastmodified":1448999215,
+    "wof:lastmodified":1467083746,
     "wof:name":"Eureka Designs",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-97.715631,30.352957,-97.715631,30.352957],
+  "bbox": [
+    -97.715631,
+    30.352957,
+    -97.715631,
+    30.352957
+],
   "geometry": {"coordinates":[-97.715631,30.352957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253602255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146701,32.631966,-97.146701,32.631966",
     "geom:latitude":32.631966,
     "geom:longitude":-97.146701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 Park Green Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":253602255,
-    "wof:lastmodified":1449064217,
+    "wof:lastmodified":1467084992,
     "wof:name":"Hughey's Chem-Dry",
     "wof:parent_id":85897301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.146701,32.631966,-97.146701,32.631966],
-  "geometry": {"coordinates":[-97.146701,32.631966],"type":"Point"}
+  "bbox": [
+    -97.146701,
+    32.631966,
+    -97.146701,
+    32.631966
+],
+  "geometry": {"coordinates":[-97.14670099999999,32.631966],"type":"Point"}
 }

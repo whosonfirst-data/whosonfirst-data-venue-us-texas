@@ -2,13 +2,14 @@
   "id": 186364037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.435707,32.81228,-97.435707,32.81228",
     "geom:latitude":32.81228,
     "geom:longitude":-97.435707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6713 Telephone Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186364037,
-    "wof:lastmodified":1449051892,
+    "wof:lastmodified":1467084723,
     "wof:name":"Tarrant County Tax Assessor",
     "wof:parent_id":85829259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-97.435707,32.81228,-97.435707,32.81228],
-  "geometry": {"coordinates":[-97.435707,32.81228],"type":"Point"}
+  "bbox": [
+    -97.435707,
+    32.81228,
+    -97.435707,
+    32.81228
+],
+  "geometry": {"coordinates":[-97.43570699999999,32.81228],"type":"Point"}
 }

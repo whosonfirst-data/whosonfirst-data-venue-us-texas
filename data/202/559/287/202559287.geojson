@@ -2,13 +2,14 @@
   "id": 202559287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.901434,33.107123,-96.901434,33.107123",
     "geom:latitude":33.107123,
     "geom:longitude":-96.901434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7628 W Shore Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202559287,
-    "wof:lastmodified":1449062101,
+    "wof:lastmodified":1467084929,
     "wof:name":"Texas World Auto",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-96.901434,33.107123,-96.901434,33.107123],
-  "geometry": {"coordinates":[-96.901434,33.107123],"type":"Point"}
+  "bbox": [
+    -96.901434,
+    33.107123,
+    -96.901434,
+    33.107123
+],
+  "geometry": {"coordinates":[-96.90143399999999,33.107123],"type":"Point"}
 }

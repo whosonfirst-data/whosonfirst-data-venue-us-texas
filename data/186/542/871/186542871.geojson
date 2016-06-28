@@ -2,13 +2,14 @@
   "id": 186542871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.782624,32.784812,-96.782624,32.784812",
     "geom:latitude":32.784812,
     "geom:longitude":-96.782624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 Elm St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186542871,
-    "wof:lastmodified":1449052400,
+    "wof:lastmodified":1467084734,
     "wof:name":"Elm Street Bar",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "membership"
     ]
 },
-  "bbox": [-96.782624,32.784812,-96.782624,32.784812],
+  "bbox": [
+    -96.782624,
+    32.784812,
+    -96.782624,
+    32.784812
+],
   "geometry": {"coordinates":[-96.782624,32.784812],"type":"Point"}
 }

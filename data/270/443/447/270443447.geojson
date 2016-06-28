@@ -2,13 +2,14 @@
   "id": 270443447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.08732,29.548076,-95.08732,29.548076",
     "geom:latitude":29.548076,
     "geom:longitude":-95.08732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2060 Space Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270443447,
-    "wof:lastmodified":1449010614,
+    "wof:lastmodified":1467084215,
     "wof:name":"Vic Patel Mdz",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.08732,29.548076,-95.08732,29.548076],
-  "geometry": {"coordinates":[-95.08732,29.548076],"type":"Point"}
+  "bbox": [
+    -95.08732,
+    29.548076,
+    -95.08732,
+    29.548076
+],
+  "geometry": {"coordinates":[-95.08732000000001,29.548076],"type":"Point"}
 }

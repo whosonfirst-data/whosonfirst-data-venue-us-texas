@@ -2,13 +2,14 @@
   "id": 303118921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.865294,30.274677,-98.865294,30.274677",
     "geom:latitude":30.274677,
     "geom:longitude":-98.865294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Washington St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303118921,
-    "wof:lastmodified":1449000098,
+    "wof:lastmodified":1467083790,
     "wof:name":"A Star In The Hills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lodging"
     ]
 },
-  "bbox": [-98.865294,30.274677,-98.865294,30.274677],
-  "geometry": {"coordinates":[-98.865294,30.274677],"type":"Point"}
+  "bbox": [
+    -98.865294,
+    30.274677,
+    -98.865294,
+    30.274677
+],
+  "geometry": {"coordinates":[-98.86529400000001,30.274677],"type":"Point"}
 }

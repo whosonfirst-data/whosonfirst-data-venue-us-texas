@@ -2,13 +2,14 @@
   "id": 287260743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509211,25.914041,-97.509211,25.914041",
     "geom:latitude":25.914041,
     "geom:longitude":-97.509211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 W Adams St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287260743,
-    "wof:lastmodified":1449000811,
+    "wof:lastmodified":1467083823,
     "wof:name":"Brownsville Carpet Cleaning",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.509211,25.914041,-97.509211,25.914041],
-  "geometry": {"coordinates":[-97.509211,25.914041],"type":"Point"}
+  "bbox": [
+    -97.509211,
+    25.914041,
+    -97.509211,
+    25.914041
+],
+  "geometry": {"coordinates":[-97.50921099999999,25.914041],"type":"Point"}
 }

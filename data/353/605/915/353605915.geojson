@@ -2,13 +2,14 @@
   "id": 353605915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.540378,29.804733,-95.540378,29.804733",
     "geom:latitude":29.804733,
     "geom:longitude":-95.540378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Witte Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353605915,
-    "wof:lastmodified":1449019516,
+    "wof:lastmodified":1467084349,
     "wof:name":"Cdtp Pool Service Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.540378,29.804733,-95.540378,29.804733],
+  "bbox": [
+    -95.540378,
+    29.804733,
+    -95.540378,
+    29.804733
+],
   "geometry": {"coordinates":[-95.540378,29.804733],"type":"Point"}
 }

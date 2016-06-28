@@ -2,13 +2,14 @@
   "id": 186428019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.006352,30.907992,-94.006352,30.907992",
     "geom:latitude":30.907992,
     "geom:longitude":-94.006352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Springhill St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186428019,
-    "wof:lastmodified":1449052852,
+    "wof:lastmodified":1467084743,
     "wof:name":"Jasper Auction House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-94.006352,30.907992,-94.006352,30.907992],
-  "geometry": {"coordinates":[-94.006352,30.907992],"type":"Point"}
+  "bbox": [
+    -94.006352,
+    30.907992,
+    -94.006352,
+    30.907992
+],
+  "geometry": {"coordinates":[-94.00635200000001,30.907992],"type":"Point"}
 }

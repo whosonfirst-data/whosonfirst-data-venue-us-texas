@@ -2,13 +2,14 @@
   "id": 303191237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.054589,30.399151,-98.054589,30.399151",
     "geom:latitude":30.399151,
     "geom:longitude":-98.054589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 Daviot Dr 78669",
     "sg:city":"Spicewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303191237,
-    "wof:lastmodified":1448999600,
+    "wof:lastmodified":1467083766,
     "wof:name":"Tivoli Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.054589,30.399151,-98.054589,30.399151],
-  "geometry": {"coordinates":[-98.054589,30.399151],"type":"Point"}
+  "bbox": [
+    -98.054589,
+    30.399151,
+    -98.054589,
+    30.399151
+],
+  "geometry": {"coordinates":[-98.05458900000001,30.399151],"type":"Point"}
 }

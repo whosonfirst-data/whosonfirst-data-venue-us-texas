@@ -2,13 +2,14 @@
   "id": 387125999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.602645,32.745324,-96.602645,32.745324",
     "geom:latitude":32.745324,
     "geom:longitude":-96.602645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12914 Hilltop Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387125999,
-    "wof:lastmodified":1449059787,
+    "wof:lastmodified":1467084879,
     "wof:name":"Gauthier Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.602645,32.745324,-96.602645,32.745324],
+  "bbox": [
+    -96.602645,
+    32.745324,
+    -96.602645,
+    32.745324
+],
   "geometry": {"coordinates":[-96.602645,32.745324],"type":"Point"}
 }

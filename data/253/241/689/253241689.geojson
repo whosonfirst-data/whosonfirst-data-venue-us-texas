@@ -2,13 +2,14 @@
   "id": 253241689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.386496,29.506472,-98.386496,29.506472",
     "geom:latitude":29.506472,
     "geom:longitude":-98.386496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 Gawain Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253241689,
-    "wof:lastmodified":1449065726,
+    "wof:lastmodified":1467085044,
     "wof:name":"Victorian Village Apartments",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.386496,29.506472,-98.386496,29.506472],
-  "geometry": {"coordinates":[-98.386496,29.506472],"type":"Point"}
+  "bbox": [
+    -98.386496,
+    29.506472,
+    -98.386496,
+    29.506472
+],
+  "geometry": {"coordinates":[-98.38649599999999,29.506472],"type":"Point"}
 }

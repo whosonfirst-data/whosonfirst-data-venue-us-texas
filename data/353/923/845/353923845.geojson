@@ -2,13 +2,14 @@
   "id": 353923845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.010522,28.801397,-97.010522,28.801397",
     "geom:latitude":28.801397,
     "geom:longitude":-97.010522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Victoria St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353923845,
-    "wof:lastmodified":1449020691,
+    "wof:lastmodified":1467084374,
     "wof:name":"Victoria Internet Providers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-97.010522,28.801397,-97.010522,28.801397],
-  "geometry": {"coordinates":[-97.010522,28.801397],"type":"Point"}
+  "bbox": [
+    -97.010522,
+    28.801397,
+    -97.010522,
+    28.801397
+],
+  "geometry": {"coordinates":[-97.01052199999999,28.801397],"type":"Point"}
 }

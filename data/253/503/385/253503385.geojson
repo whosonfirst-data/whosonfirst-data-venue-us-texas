@@ -2,13 +2,14 @@
   "id": 253503385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.295977,32.346643,-95.295977,32.346643",
     "geom:latitude":32.346643,
     "geom:longitude":-95.295977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E Front St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":253503385,
-    "wof:lastmodified":1449065817,
+    "wof:lastmodified":1467085048,
     "wof:name":"Liberty Printing",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "plotting"
     ]
 },
-  "bbox": [-95.295977,32.346643,-95.295977,32.346643],
-  "geometry": {"coordinates":[-95.295977,32.346643],"type":"Point"}
+  "bbox": [
+    -95.295977,
+    32.346643,
+    -95.295977,
+    32.346643
+],
+  "geometry": {"coordinates":[-95.29597699999999,32.346643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236594431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.504415,32.085204,-96.504415,32.085204",
     "geom:latitude":32.085204,
     "geom:longitude":-96.504415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 W State Highway 22",
     "sg:city":"Corsicana",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236594431,
-    "wof:lastmodified":1449002031,
+    "wof:lastmodified":1467083880,
     "wof:name":"Navarro Regional Hospital",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.504415,32.085204,-96.504415,32.085204],
-  "geometry": {"coordinates":[-96.504415,32.085204],"type":"Point"}
+  "bbox": [
+    -96.504415,
+    32.085204,
+    -96.504415,
+    32.085204
+],
+  "geometry": {"coordinates":[-96.50441499999999,32.085204],"type":"Point"}
 }

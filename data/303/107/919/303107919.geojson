@@ -2,13 +2,14 @@
   "id": 303107919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.631366,30.170308,-97.631366,30.170308",
     "geom:latitude":30.170308,
     "geom:longitude":-97.631366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5816 Ross Rd",
     "sg:city":"Del Valle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303107919,
-    "wof:lastmodified":1448998127,
+    "wof:lastmodified":1467083691,
     "wof:name":"Austin Buddhist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buddhist"
     ]
 },
-  "bbox": [-97.631366,30.170308,-97.631366,30.170308],
+  "bbox": [
+    -97.631366,
+    30.170308,
+    -97.631366,
+    30.170308
+],
   "geometry": {"coordinates":[-97.631366,30.170308],"type":"Point"}
 }

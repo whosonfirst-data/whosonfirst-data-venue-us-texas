@@ -2,13 +2,14 @@
   "id": 270347433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412483,29.670851,-95.412483,29.670851",
     "geom:latitude":29.670851,
     "geom:longitude":-95.412483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9220 Kirby Dr Ste 500",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270347433,
-    "wof:lastmodified":1449009812,
+    "wof:lastmodified":1467084188,
     "wof:name":"Inscite",
     "wof:parent_id":85869809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "removal"
     ]
 },
-  "bbox": [-95.412483,29.670851,-95.412483,29.670851],
-  "geometry": {"coordinates":[-95.412483,29.670851],"type":"Point"}
+  "bbox": [
+    -95.412483,
+    29.670851,
+    -95.412483,
+    29.670851
+],
+  "geometry": {"coordinates":[-95.41248299999999,29.670851],"type":"Point"}
 }

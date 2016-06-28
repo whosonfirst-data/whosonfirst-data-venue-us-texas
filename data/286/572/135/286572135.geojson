@@ -2,13 +2,14 @@
   "id": 286572135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456145,30.17412,-95.456145,30.17412",
     "geom:latitude":30.17412,
     "geom:longitude":-95.456145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9250 Pinecroft Dr",
     "sg:city":"Shenandoah",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":286572135,
-    "wof:lastmodified":1449017003,
+    "wof:lastmodified":1467084287,
     "wof:name":"Memorial Hermann The Woodlands Hospital",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.456145,30.17412,-95.456145,30.17412],
-  "geometry": {"coordinates":[-95.456145,30.17412],"type":"Point"}
+  "bbox": [
+    -95.456145,
+    30.17412,
+    -95.456145,
+    30.17412
+],
+  "geometry": {"coordinates":[-95.45614500000001,30.17412],"type":"Point"}
 }

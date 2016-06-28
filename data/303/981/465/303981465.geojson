@@ -2,13 +2,14 @@
   "id": 303981465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.645119,32.720123,-102.645119,32.720123",
     "geom:latitude":32.720123,
     "geom:longitude":-102.645119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Main St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303981465,
-    "wof:lastmodified":1449000610,
+    "wof:lastmodified":1467083815,
     "wof:name":"Mr Taco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-102.645119,32.720123,-102.645119,32.720123],
-  "geometry": {"coordinates":[-102.645119,32.720123],"type":"Point"}
+  "bbox": [
+    -102.645119,
+    32.720123,
+    -102.645119,
+    32.720123
+],
+  "geometry": {"coordinates":[-102.64511899999999,32.720123],"type":"Point"}
 }

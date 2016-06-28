@@ -2,13 +2,14 @@
   "id": 303382137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743937,30.488929,-97.743937,30.488929",
     "geom:latitude":30.488929,
     "geom:longitude":-97.743937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8420 Cambria Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303382137,
-    "wof:lastmodified":1448998766,
+    "wof:lastmodified":1467083723,
     "wof:name":"Hill Country Photo",
     "wof:parent_id":85893521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.743937,30.488929,-97.743937,30.488929],
+  "bbox": [
+    -97.743937,
+    30.488929,
+    -97.743937,
+    30.488929
+],
   "geometry": {"coordinates":[-97.743937,30.488929],"type":"Point"}
 }

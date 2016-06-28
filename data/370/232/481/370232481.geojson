@@ -2,13 +2,14 @@
   "id": 370232481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.360971,31.737182,-106.360971,31.737182",
     "geom:latitude":31.737182,
     "geom:longitude":-106.360971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7714 N Loop Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370232481,
-    "wof:lastmodified":1449030192,
+    "wof:lastmodified":1467084496,
     "wof:name":"Emeli's Thrift Store",
     "wof:parent_id":85852245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-106.360971,31.737182,-106.360971,31.737182],
-  "geometry": {"coordinates":[-106.360971,31.737182],"type":"Point"}
+  "bbox": [
+    -106.360971,
+    31.737182,
+    -106.360971,
+    31.737182
+],
+  "geometry": {"coordinates":[-106.36097100000001,31.737182],"type":"Point"}
 }

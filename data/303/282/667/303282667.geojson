@@ -2,13 +2,14 @@
   "id": 303282667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.705695,30.254741,-97.705695,30.254741",
     "geom:latitude":30.254741,
     "geom:longitude":-97.705695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 E 5th St #B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":303282667,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1467083768,
     "wof:name":"Live Oak Brewing Company",
     "wof:parent_id":85869935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "brew"
     ]
 },
-  "bbox": [-97.705695,30.254741,-97.705695,30.254741],
-  "geometry": {"coordinates":[-97.705695,30.254741],"type":"Point"}
+  "bbox": [
+    -97.705695,
+    30.254741,
+    -97.705695,
+    30.254741
+],
+  "geometry": {"coordinates":[-97.70569500000001,30.254741],"type":"Point"}
 }

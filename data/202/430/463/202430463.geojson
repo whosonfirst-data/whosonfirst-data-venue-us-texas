@@ -2,13 +2,14 @@
   "id": 202430463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.791994,30.455475,-97.791994,30.455475",
     "geom:latitude":30.455475,
     "geom:longitude":-97.791994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13581 Pond Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202430463,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1467084921,
     "wof:name":"Bits & Pixels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.791994,30.455475,-97.791994,30.455475],
+  "bbox": [
+    -97.791994,
+    30.455475,
+    -97.791994,
+    30.455475
+],
   "geometry": {"coordinates":[-97.791994,30.455475],"type":"Point"}
 }

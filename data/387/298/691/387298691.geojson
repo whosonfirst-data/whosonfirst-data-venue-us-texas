@@ -2,13 +2,14 @@
   "id": 387298691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0511,32.714188,-97.0511,32.714188",
     "geom:latitude":32.714188,
     "geom:longitude":-97.0511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Timberlake Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387298691,
-    "wof:lastmodified":1449057126,
+    "wof:lastmodified":1467084810,
     "wof:name":"Access Logistics",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-97.0511,32.714188,-97.0511,32.714188],
-  "geometry": {"coordinates":[-97.0511,32.714188],"type":"Point"}
+  "bbox": [
+    -97.0511,
+    32.714188,
+    -97.0511,
+    32.714188
+],
+  "geometry": {"coordinates":[-97.05110000000001,32.714188],"type":"Point"}
 }

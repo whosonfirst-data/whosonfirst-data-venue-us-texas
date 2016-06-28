@@ -2,13 +2,14 @@
   "id": 286447867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.472113,30.335096,-95.472113,30.335096",
     "geom:latitude":30.335096,
     "geom:longitude":-95.472113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 N Loop 336 W 200C",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":286447867,
-    "wof:lastmodified":1449017255,
+    "wof:lastmodified":1467084294,
     "wof:name":"Lee Construction",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "drywall"
     ]
 },
-  "bbox": [-95.472113,30.335096,-95.472113,30.335096],
-  "geometry": {"coordinates":[-95.472113,30.335096],"type":"Point"}
+  "bbox": [
+    -95.472113,
+    30.335096,
+    -95.472113,
+    30.335096
+],
+  "geometry": {"coordinates":[-95.47211299999999,30.335096],"type":"Point"}
 }

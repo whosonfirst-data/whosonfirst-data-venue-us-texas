@@ -2,13 +2,14 @@
   "id": 303323189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748944,30.23938,-97.748944,30.23938",
     "geom:latitude":30.23938,
     "geom:longitude":-97.748944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Lone Oak Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303323189,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1467083702,
     "wof:name":"Open Space Design",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-97.748944,30.23938,-97.748944,30.23938],
-  "geometry": {"coordinates":[-97.748944,30.23938],"type":"Point"}
+  "bbox": [
+    -97.748944,
+    30.23938,
+    -97.748944,
+    30.23938
+],
+  "geometry": {"coordinates":[-97.74894399999999,30.23938],"type":"Point"}
 }

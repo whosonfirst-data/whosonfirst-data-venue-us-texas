@@ -2,13 +2,14 @@
   "id": 269537375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.137256,33.214362,-97.137256,33.214362",
     "geom:latitude":33.214362,
     "geom:longitude":-97.137256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Carroll Blvd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":269537375,
-    "wof:lastmodified":1449036737,
+    "wof:lastmodified":1467084588,
     "wof:name":"Denton Funeral Home",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.137256,33.214362,-97.137256,33.214362],
-  "geometry": {"coordinates":[-97.137256,33.214362],"type":"Point"}
+  "bbox": [
+    -97.137256,
+    33.214362,
+    -97.137256,
+    33.214362
+],
+  "geometry": {"coordinates":[-97.13725599999999,33.214362],"type":"Point"}
 }

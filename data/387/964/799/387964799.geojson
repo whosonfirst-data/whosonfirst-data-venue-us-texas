@@ -2,13 +2,14 @@
   "id": 387964799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355492,29.617005,-95.355492,29.617005",
     "geom:latitude":29.617005,
     "geom:longitude":-95.355492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13106 Cullen Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387964799,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1467084858,
     "wof:name":"Storage Lot",
     "wof:parent_id":85869661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-95.355492,29.617005,-95.355492,29.617005],
+  "bbox": [
+    -95.355492,
+    29.617005,
+    -95.355492,
+    29.617005
+],
   "geometry": {"coordinates":[-95.355492,29.617005],"type":"Point"}
 }

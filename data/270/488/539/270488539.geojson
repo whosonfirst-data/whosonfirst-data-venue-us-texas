@@ -2,13 +2,14 @@
   "id": 270488539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.431905,29.946621,-95.431905,29.946621",
     "geom:latitude":29.946621,
     "geom:longitude":-95.431905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Greens Rd Suite 222",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":270488539,
-    "wof:lastmodified":1449011082,
+    "wof:lastmodified":1467084231,
     "wof:name":"ResCare HomeCare",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-95.431905,29.946621,-95.431905,29.946621],
+  "bbox": [
+    -95.431905,
+    29.946621,
+    -95.431905,
+    29.946621
+],
   "geometry": {"coordinates":[-95.431905,29.946621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253645031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.089919,32.673012,-97.089919,32.673012",
     "geom:latitude":32.673012,
     "geom:longitude":-97.089919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E Bardin Rd Suite #131",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253645031,
-    "wof:lastmodified":1449063103,
+    "wof:lastmodified":1467084954,
     "wof:name":"The Dogspaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "sitting"
     ]
 },
-  "bbox": [-97.089919,32.673012,-97.089919,32.673012],
-  "geometry": {"coordinates":[-97.089919,32.673012],"type":"Point"}
+  "bbox": [
+    -97.089919,
+    32.673012,
+    -97.089919,
+    32.673012
+],
+  "geometry": {"coordinates":[-97.08991899999999,32.673012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252809225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130114,32.602167,-97.130114,32.602167",
     "geom:latitude":32.602167,
     "geom:longitude":-97.130114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Jennie Wells Dr",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252809225,
-    "wof:lastmodified":1449006316,
+    "wof:lastmodified":1467084098,
     "wof:name":"American Residential Inspctn",
     "wof:parent_id":85854779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.130114,32.602167,-97.130114,32.602167],
-  "geometry": {"coordinates":[-97.130114,32.602167],"type":"Point"}
+  "bbox": [
+    -97.130114,
+    32.602167,
+    -97.130114,
+    32.602167
+],
+  "geometry": {"coordinates":[-97.13011400000001,32.602167],"type":"Point"}
 }

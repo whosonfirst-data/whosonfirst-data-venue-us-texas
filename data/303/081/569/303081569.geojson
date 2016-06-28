@@ -2,13 +2,14 @@
   "id": 303081569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.831541,30.483208,-97.831541,30.483208",
     "geom:latitude":30.483208,
     "geom:longitude":-97.831541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Cypress Creek Rd Ste 100",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303081569,
-    "wof:lastmodified":1448998876,
+    "wof:lastmodified":1467083729,
     "wof:name":"Blockbuster Video F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-97.831541,30.483208,-97.831541,30.483208],
+  "bbox": [
+    -97.831541,
+    30.483208,
+    -97.831541,
+    30.483208
+],
   "geometry": {"coordinates":[-97.831541,30.483208],"type":"Point"}
 }

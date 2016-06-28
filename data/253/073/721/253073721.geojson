@@ -2,13 +2,14 @@
   "id": 253073721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880571,32.673536,-96.880571,32.673536",
     "geom:latitude":32.673536,
     "geom:longitude":-96.880571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 S. Westmoreland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253073721,
-    "wof:lastmodified":1449063233,
+    "wof:lastmodified":1467084959,
     "wof:name":"The Woods Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.880571,32.673536,-96.880571,32.673536],
+  "bbox": [
+    -96.880571,
+    32.673536,
+    -96.880571,
+    32.673536
+],
   "geometry": {"coordinates":[-96.880571,32.673536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387684825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.331348,30.604601,-96.331348,30.604601",
     "geom:latitude":30.604601,
     "geom:longitude":-96.331348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Park Pl",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387684825,
-    "wof:lastmodified":1449057048,
+    "wof:lastmodified":1467084808,
     "wof:name":"Loran Construction",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.331348,30.604601,-96.331348,30.604601],
-  "geometry": {"coordinates":[-96.331348,30.604601],"type":"Point"}
+  "bbox": [
+    -96.331348,
+    30.604601,
+    -96.331348,
+    30.604601
+],
+  "geometry": {"coordinates":[-96.33134800000001,30.604601],"type":"Point"}
 }

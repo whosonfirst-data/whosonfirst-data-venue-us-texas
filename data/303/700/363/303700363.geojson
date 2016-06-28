@@ -2,13 +2,14 @@
   "id": 303700363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.71686,30.307244,-97.71686,30.307244",
     "geom:latitude":30.307244,
     "geom:longitude":-97.71686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4709 Depew Ave",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303700363,
-    "wof:lastmodified":1449000352,
+    "wof:lastmodified":1467083802,
     "wof:name":"Lost Sock",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.71686,30.307244,-97.71686,30.307244],
+  "bbox": [
+    -97.71686,
+    30.307244,
+    -97.71686,
+    30.307244
+],
   "geometry": {"coordinates":[-97.71686,30.307244],"type":"Point"}
 }

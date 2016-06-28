@@ -2,13 +2,14 @@
   "id": 253410253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145153,33.11986,-94.145153,33.11986",
     "geom:latitude":33.11986,
     "geom:longitude":-94.145153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Rabbit Blvd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253410253,
-    "wof:lastmodified":1449062862,
+    "wof:lastmodified":1467084947,
     "wof:name":"Atlanta High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-94.145153,33.11986,-94.145153,33.11986],
-  "geometry": {"coordinates":[-94.145153,33.11986],"type":"Point"}
+  "bbox": [
+    -94.145153,
+    33.11986,
+    -94.145153,
+    33.11986
+],
+  "geometry": {"coordinates":[-94.14515299999999,33.11986],"type":"Point"}
 }

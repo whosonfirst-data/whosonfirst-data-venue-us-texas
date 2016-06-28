@@ -2,13 +2,14 @@
   "id": 202744055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141916,32.563378,-97.141916,32.563378",
     "geom:latitude":32.563378,
     "geom:longitude":-97.141916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Main St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202744055,
-    "wof:lastmodified":1449061024,
+    "wof:lastmodified":1467084907,
     "wof:name":"Sells Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.141916,32.563378,-97.141916,32.563378],
-  "geometry": {"coordinates":[-97.141916,32.563378],"type":"Point"}
+  "bbox": [
+    -97.141916,
+    32.563378,
+    -97.141916,
+    32.563378
+],
+  "geometry": {"coordinates":[-97.14191599999999,32.563378],"type":"Point"}
 }

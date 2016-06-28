@@ -2,13 +2,14 @@
   "id": 253259581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795094,33.006877,-96.795094,33.006877",
     "geom:latitude":33.006877,
     "geom:longitude":-96.795094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18816 Preston Rd Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":253259581,
-    "wof:lastmodified":1449063487,
+    "wof:lastmodified":1467084969,
     "wof:name":"Ambiance Realty",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.795094,33.006877,-96.795094,33.006877],
-  "geometry": {"coordinates":[-96.795094,33.006877],"type":"Point"}
+  "bbox": [
+    -96.795094,
+    33.006877,
+    -96.795094,
+    33.006877
+],
+  "geometry": {"coordinates":[-96.79509400000001,33.006877],"type":"Point"}
 }

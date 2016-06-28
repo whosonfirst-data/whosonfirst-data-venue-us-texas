@@ -2,13 +2,14 @@
   "id": 387914891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.948681,32.817987,-96.948681,32.817987",
     "geom:latitude":32.817987,
     "geom:longitude":-96.948681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W Pioneer Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387914891,
-    "wof:lastmodified":1449057558,
+    "wof:lastmodified":1467084821,
     "wof:name":"Taco Inn",
     "wof:parent_id":85878303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.948681,32.817987,-96.948681,32.817987],
-  "geometry": {"coordinates":[-96.948681,32.817987],"type":"Point"}
+  "bbox": [
+    -96.948681,
+    32.817987,
+    -96.948681,
+    32.817987
+],
+  "geometry": {"coordinates":[-96.94868099999999,32.817987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303553605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743307,30.216576,-97.743307,30.216576",
     "geom:latitude":30.216576,
     "geom:longitude":-97.743307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 E Ben White Blvd Ste 508",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303553605,
-    "wof:lastmodified":1448998131,
+    "wof:lastmodified":1467083691,
     "wof:name":"Oil Country Corporation",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oils-petroleum"
     ]
 },
-  "bbox": [-97.743307,30.216576,-97.743307,30.216576],
+  "bbox": [
+    -97.743307,
+    30.216576,
+    -97.743307,
+    30.216576
+],
   "geometry": {"coordinates":[-97.743307,30.216576],"type":"Point"}
 }

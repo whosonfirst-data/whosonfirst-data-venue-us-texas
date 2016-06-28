@@ -2,13 +2,14 @@
   "id": 354359321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492077,25.904157,-97.492077,25.904157",
     "geom:latitude":25.904157,
     "geom:longitude":-97.492077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 E Van Buren St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354359321,
-    "wof:lastmodified":1449065901,
+    "wof:lastmodified":1467085051,
     "wof:name":"Transmissions Del Valle",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.492077,25.904157,-97.492077,25.904157],
-  "geometry": {"coordinates":[-97.492077,25.904157],"type":"Point"}
+  "bbox": [
+    -97.492077,
+    25.904157,
+    -97.492077,
+    25.904157
+],
+  "geometry": {"coordinates":[-97.49207699999999,25.904157],"type":"Point"}
 }

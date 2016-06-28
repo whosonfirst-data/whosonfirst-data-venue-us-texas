@@ -2,13 +2,14 @@
   "id": 202505633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.5865,29.534895,-98.5865,29.534895",
     "geom:latitude":29.534895,
     "geom:longitude":-98.5865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Usaa Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202505633,
-    "wof:lastmodified":1449062243,
+    "wof:lastmodified":1467084932,
     "wof:name":"Mesa Ridge Apartments",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.5865,29.534895,-98.5865,29.534895],
+  "bbox": [
+    -98.5865,
+    29.534895,
+    -98.5865,
+    29.534895
+],
   "geometry": {"coordinates":[-98.5865,29.534895],"type":"Point"}
 }

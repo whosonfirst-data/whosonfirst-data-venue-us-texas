@@ -2,13 +2,14 @@
   "id": 303274785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741019,30.268588,-97.741019,30.268588",
     "geom:latitude":30.268588,
     "geom:longitude":-97.741019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E 7th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303274785,
-    "wof:lastmodified":1448998420,
+    "wof:lastmodified":1467083706,
     "wof:name":"Buyspeed",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "software"
     ]
 },
-  "bbox": [-97.741019,30.268588,-97.741019,30.268588],
-  "geometry": {"coordinates":[-97.741019,30.268588],"type":"Point"}
+  "bbox": [
+    -97.741019,
+    30.268588,
+    -97.741019,
+    30.268588
+],
+  "geometry": {"coordinates":[-97.74101899999999,30.268588],"type":"Point"}
 }

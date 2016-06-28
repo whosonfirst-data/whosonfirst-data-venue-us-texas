@@ -2,13 +2,14 @@
   "id": 354310067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.53928,30.209807,-95.53928,30.209807",
     "geom:latitude":30.209807,
     "geom:longitude":-95.53928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 N Linton Ridge Cir",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354310067,
-    "wof:lastmodified":1449066985,
+    "wof:lastmodified":1467085077,
     "wof:name":"Brennan Transfer",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.53928,30.209807,-95.53928,30.209807],
-  "geometry": {"coordinates":[-95.53928,30.209807],"type":"Point"}
+  "bbox": [
+    -95.53928,
+    30.209807,
+    -95.53928,
+    30.209807
+],
+  "geometry": {"coordinates":[-95.53928000000001,30.209807],"type":"Point"}
 }

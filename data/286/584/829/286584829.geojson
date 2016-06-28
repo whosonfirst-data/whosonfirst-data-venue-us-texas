@@ -2,13 +2,14 @@
   "id": 286584829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55231,30.179656,-95.55231,30.179656",
     "geom:latitude":30.179656,
     "geom:longitude":-95.55231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 S Altwood Cir",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286584829,
-    "wof:lastmodified":1449015498,
+    "wof:lastmodified":1467084245,
     "wof:name":"Hasman, Inc",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-95.55231,30.179656,-95.55231,30.179656],
-  "geometry": {"coordinates":[-95.55231,30.179656],"type":"Point"}
+  "bbox": [
+    -95.55231,
+    30.179656,
+    -95.55231,
+    30.179656
+],
+  "geometry": {"coordinates":[-95.55231000000001,30.179656],"type":"Point"}
 }

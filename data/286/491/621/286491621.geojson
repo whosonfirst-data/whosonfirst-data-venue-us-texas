@@ -2,13 +2,14 @@
   "id": 286491621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.227348,30.059736,-95.227348,30.059736",
     "geom:latitude":30.059736,
     "geom:longitude":-95.227348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Russell Palmer Rd",
     "sg:city":"Kingwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286491621,
-    "wof:lastmodified":1449015118,
+    "wof:lastmodified":1467084234,
     "wof:name":"The Country Register Of Texas",
     "wof:parent_id":85828479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government-county"
     ]
 },
-  "bbox": [-95.227348,30.059736,-95.227348,30.059736],
-  "geometry": {"coordinates":[-95.227348,30.059736],"type":"Point"}
+  "bbox": [
+    -95.227348,
+    30.059736,
+    -95.227348,
+    30.059736
+],
+  "geometry": {"coordinates":[-95.22734800000001,30.059736],"type":"Point"}
 }

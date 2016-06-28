@@ -2,13 +2,14 @@
   "id": 304045403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.733528,32.419183,-99.733528,32.419183",
     "geom:latitude":32.419183,
     "geom:longitude":-99.733528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 S 25th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304045403,
-    "wof:lastmodified":1449044094,
+    "wof:lastmodified":1467084669,
     "wof:name":"Juvenile Justice",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.733528,32.419183,-99.733528,32.419183],
-  "geometry": {"coordinates":[-99.733528,32.419183],"type":"Point"}
+  "bbox": [
+    -99.733528,
+    32.419183,
+    -99.733528,
+    32.419183
+],
+  "geometry": {"coordinates":[-99.73352800000001,32.419183],"type":"Point"}
 }

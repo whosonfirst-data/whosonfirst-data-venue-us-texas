@@ -2,13 +2,14 @@
   "id": 253051163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832746,32.824691,-96.832746,32.824691",
     "geom:latitude":32.824691,
     "geom:longitude":-96.832746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Inwood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":253051163,
-    "wof:lastmodified":1449064646,
+    "wof:lastmodified":1467085007,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.832746,32.824691,-96.832746,32.824691],
+  "bbox": [
+    -96.832746,
+    32.824691,
+    -96.832746,
+    32.824691
+],
   "geometry": {"coordinates":[-96.832746,32.824691],"type":"Point"}
 }

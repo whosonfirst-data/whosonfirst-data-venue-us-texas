@@ -2,13 +2,14 @@
   "id": 286323581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.664868,29.816655,-95.664868,29.816655",
     "geom:latitude":29.816655,
     "geom:longitude":-95.664868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17105 Groeschke Rd # 360",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":286323581,
-    "wof:lastmodified":1449015438,
+    "wof:lastmodified":1467084243,
     "wof:name":"Houston Security Iron",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-95.664868,29.816655,-95.664868,29.816655],
+  "bbox": [
+    -95.664868,
+    29.816655,
+    -95.664868,
+    29.816655
+],
   "geometry": {"coordinates":[-95.664868,29.816655],"type":"Point"}
 }

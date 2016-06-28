@@ -2,13 +2,14 @@
   "id": 287278759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.166441,26.291777,-98.166441,26.291777",
     "geom:latitude":26.291777,
     "geom:longitude":-98.166441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 S 9th Ave",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287278759,
-    "wof:lastmodified":1449001166,
+    "wof:lastmodified":1467083834,
     "wof:name":"Edinburg Realty",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-98.166441,26.291777,-98.166441,26.291777],
-  "geometry": {"coordinates":[-98.166441,26.291777],"type":"Point"}
+  "bbox": [
+    -98.166441,
+    26.291777,
+    -98.166441,
+    26.291777
+],
+  "geometry": {"coordinates":[-98.16644100000001,26.291777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270377147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.466847,29.744169,-95.466847,29.744169",
     "geom:latitude":29.744169,
     "geom:longitude":-95.466847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Sage Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270377147,
-    "wof:lastmodified":1449009560,
+    "wof:lastmodified":1467084180,
     "wof:name":"Sterling Relocation",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.466847,29.744169,-95.466847,29.744169],
+  "bbox": [
+    -95.466847,
+    29.744169,
+    -95.466847,
+    29.744169
+],
   "geometry": {"coordinates":[-95.466847,29.744169],"type":"Point"}
 }

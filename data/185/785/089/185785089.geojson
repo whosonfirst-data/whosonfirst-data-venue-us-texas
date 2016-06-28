@@ -2,13 +2,14 @@
   "id": 185785089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.778209,32.410581,-99.778209,32.410581",
     "geom:latitude":32.410581,
     "geom:longitude":-99.778209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Catclaw Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185785089,
-    "wof:lastmodified":1449007955,
+    "wof:lastmodified":1467084135,
     "wof:name":"Rosa's Cafe & Tortilla Factory",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-99.778209,32.410581,-99.778209,32.410581],
+  "bbox": [
+    -99.778209,
+    32.410581,
+    -99.778209,
+    32.410581
+],
   "geometry": {"coordinates":[-99.778209,32.410581],"type":"Point"}
 }

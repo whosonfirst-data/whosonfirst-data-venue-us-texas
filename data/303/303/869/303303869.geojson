@@ -2,13 +2,14 @@
   "id": 303303869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764271,30.303215,-97.764271,30.303215",
     "geom:latitude":30.303215,
     "geom:longitude":-97.764271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2737 Exposition Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303303869,
-    "wof:lastmodified":1448998142,
+    "wof:lastmodified":1467083692,
     "wof:name":"West Austin Travel",
     "wof:parent_id":85867207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-97.764271,30.303215,-97.764271,30.303215],
-  "geometry": {"coordinates":[-97.764271,30.303215],"type":"Point"}
+  "bbox": [
+    -97.764271,
+    30.303215,
+    -97.764271,
+    30.303215
+],
+  "geometry": {"coordinates":[-97.76427099999999,30.303215],"type":"Point"}
 }

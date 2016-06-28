@@ -2,13 +2,14 @@
   "id": 303543035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941971,30.305585,-97.941971,30.305585",
     "geom:latitude":30.305585,
     "geom:longitude":-97.941971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12812 Shops Pkwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303543035,
-    "wof:lastmodified":1448998593,
+    "wof:lastmodified":1467083715,
     "wof:name":"PetSmart",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-97.941971,30.305585,-97.941971,30.305585],
+  "bbox": [
+    -97.941971,
+    30.305585,
+    -97.941971,
+    30.305585
+],
   "geometry": {"coordinates":[-97.941971,30.305585],"type":"Point"}
 }

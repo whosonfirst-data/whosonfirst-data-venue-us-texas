@@ -2,13 +2,14 @@
   "id": 303803093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.701225,30.37614,-97.701225,30.37614",
     "geom:latitude":30.37614,
     "geom:longitude":-97.701225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Neans Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303803093,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1467083814,
     "wof:name":"Jack Miller Consulting",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.701225,30.37614,-97.701225,30.37614],
-  "geometry": {"coordinates":[-97.701225,30.37614],"type":"Point"}
+  "bbox": [
+    -97.701225,
+    30.37614,
+    -97.701225,
+    30.37614
+],
+  "geometry": {"coordinates":[-97.70122499999999,30.37614],"type":"Point"}
 }

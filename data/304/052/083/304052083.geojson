@@ -2,13 +2,14 @@
   "id": 304052083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.754894,32.431552,-99.754894,32.431552",
     "geom:latitude":32.431552,
     "geom:longitude":-99.754894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 Marshall St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":304052083,
-    "wof:lastmodified":1449043798,
+    "wof:lastmodified":1467084664,
     "wof:name":"Grace Tabernacle",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-99.754894,32.431552,-99.754894,32.431552],
-  "geometry": {"coordinates":[-99.754894,32.431552],"type":"Point"}
+  "bbox": [
+    -99.754894,
+    32.431552,
+    -99.754894,
+    32.431552
+],
+  "geometry": {"coordinates":[-99.75489399999999,32.431552],"type":"Point"}
 }

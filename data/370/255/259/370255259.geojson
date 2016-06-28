@@ -2,13 +2,14 @@
   "id": 370255259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.452007,29.75032,-95.452007,29.75032",
     "geom:latitude":29.75032,
     "geom:longitude":-95.452007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Briar Hollow Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370255259,
-    "wof:lastmodified":1449030637,
+    "wof:lastmodified":1467084508,
     "wof:name":"Crossroads Realty Co",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.452007,29.75032,-95.452007,29.75032],
-  "geometry": {"coordinates":[-95.452007,29.75032],"type":"Point"}
+  "bbox": [
+    -95.452007,
+    29.75032,
+    -95.452007,
+    29.75032
+],
+  "geometry": {"coordinates":[-95.45200699999999,29.75032],"type":"Point"}
 }

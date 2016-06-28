@@ -2,13 +2,14 @@
   "id": 387774257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.290034,30.105224,-97.290034,30.105224",
     "geom:latitude":30.105224,
     "geom:longitude":-97.290034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Industrial Blvd",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387774257,
-    "wof:lastmodified":1449057584,
+    "wof:lastmodified":1467084822,
     "wof:name":"Butterkrust Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.290034,30.105224,-97.290034,30.105224],
-  "geometry": {"coordinates":[-97.290034,30.105224],"type":"Point"}
+  "bbox": [
+    -97.290034,
+    30.105224,
+    -97.290034,
+    30.105224
+],
+  "geometry": {"coordinates":[-97.29003400000001,30.105224],"type":"Point"}
 }

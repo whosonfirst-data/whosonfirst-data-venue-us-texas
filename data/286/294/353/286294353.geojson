@@ -2,13 +2,14 @@
   "id": 286294353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545403,29.82,-95.545403,29.82",
     "geom:latitude":29.82,
     "geom:longitude":-95.545403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Gessner Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286294353,
-    "wof:lastmodified":1449017281,
+    "wof:lastmodified":1467084295,
     "wof:name":"Pat's Cleaners",
     "wof:parent_id":85869695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.545403,29.82,-95.545403,29.82],
-  "geometry": {"coordinates":[-95.545403,29.82],"type":"Point"}
+  "bbox": [
+    -95.545403,
+    29.82,
+    -95.545403,
+    29.82
+],
+  "geometry": {"coordinates":[-95.54540299999999,29.82],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203166139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706437,32.973247,-96.706437,32.973247",
     "geom:latitude":32.973247,
     "geom:longitude":-96.706437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Glenville Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203166139,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1467084405,
     "wof:name":"Telecore",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.706437,32.973247,-96.706437,32.973247],
-  "geometry": {"coordinates":[-96.706437,32.973247],"type":"Point"}
+  "bbox": [
+    -96.706437,
+    32.973247,
+    -96.706437,
+    32.973247
+],
+  "geometry": {"coordinates":[-96.70643699999999,32.973247],"type":"Point"}
 }

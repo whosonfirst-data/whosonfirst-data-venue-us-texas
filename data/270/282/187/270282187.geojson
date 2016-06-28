@@ -2,13 +2,14 @@
   "id": 270282187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521419,29.842417,-95.521419,29.842417",
     "geom:latitude":29.842417,
     "geom:longitude":-95.521419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9291 Baythorne Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":270282187,
-    "wof:lastmodified":1449010176,
+    "wof:lastmodified":1467084200,
     "wof:name":"Super Bag",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.521419,29.842417,-95.521419,29.842417],
-  "geometry": {"coordinates":[-95.521419,29.842417],"type":"Point"}
+  "bbox": [
+    -95.521419,
+    29.842417,
+    -95.521419,
+    29.842417
+],
+  "geometry": {"coordinates":[-95.52141899999999,29.842417],"type":"Point"}
 }

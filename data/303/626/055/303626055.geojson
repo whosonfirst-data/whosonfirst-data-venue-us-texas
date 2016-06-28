@@ -2,13 +2,14 @@
   "id": 303626055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.793889,30.271067,-97.793889,30.271067",
     "geom:latitude":30.271067,
     "geom:longitude":-97.793889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Bee Cave Road Suite 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303626055,
-    "wof:lastmodified":1449000566,
+    "wof:lastmodified":1467083813,
     "wof:name":"Spine Austin",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.793889,30.271067,-97.793889,30.271067],
-  "geometry": {"coordinates":[-97.793889,30.271067],"type":"Point"}
+  "bbox": [
+    -97.793889,
+    30.271067,
+    -97.793889,
+    30.271067
+],
+  "geometry": {"coordinates":[-97.79388899999999,30.271067],"type":"Point"}
 }

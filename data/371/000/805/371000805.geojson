@@ -2,13 +2,14 @@
   "id": 371000805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.348491,31.777233,-106.348491,31.777233",
     "geom:latitude":31.777233,
     "geom:longitude":-106.348491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10176 Bermuda Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371000805,
-    "wof:lastmodified":1449049197,
+    "wof:lastmodified":1467084673,
     "wof:name":"Homecoming Headquarters",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.348491,31.777233,-106.348491,31.777233],
+  "bbox": [
+    -106.348491,
+    31.777233,
+    -106.348491,
+    31.777233
+],
   "geometry": {"coordinates":[-106.348491,31.777233],"type":"Point"}
 }

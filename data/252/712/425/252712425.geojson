@@ -2,13 +2,14 @@
   "id": 252712425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832812,32.837866,-96.832812,32.837866",
     "geom:latitude":32.837866,
     "geom:longitude":-96.832812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252712425,
-    "wof:lastmodified":1449005879,
+    "wof:lastmodified":1467084074,
     "wof:name":"VCA Love Field Animal Hospital",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.832812,32.837866,-96.832812,32.837866],
+  "bbox": [
+    -96.832812,
+    32.837866,
+    -96.832812,
+    32.837866
+],
   "geometry": {"coordinates":[-96.832812,32.837866],"type":"Point"}
 }

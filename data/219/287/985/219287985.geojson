@@ -2,13 +2,14 @@
   "id": 219287985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744839,30.285437,-97.744839,30.285437",
     "geom:latitude":30.285437,
     "geom:longitude":-97.744839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Rio Grande St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219287985,
-    "wof:lastmodified":1449070596,
+    "wof:lastmodified":1467085104,
     "wof:name":"San Miguel Management",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.744839,30.285437,-97.744839,30.285437],
+  "bbox": [
+    -97.744839,
+    30.285437,
+    -97.744839,
+    30.285437
+],
   "geometry": {"coordinates":[-97.744839,30.285437],"type":"Point"}
 }

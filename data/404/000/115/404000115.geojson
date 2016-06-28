@@ -2,13 +2,14 @@
   "id": 404000115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48594,29.665635,-95.48594,29.665635",
     "geom:latitude":29.665635,
     "geom:longitude":-95.48594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10605 Mullins Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404000115,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1467084643,
     "wof:name":"Westbury Swimming Pool",
     "wof:parent_id":85833917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.48594,29.665635,-95.48594,29.665635],
+  "bbox": [
+    -95.48594,
+    29.665635,
+    -95.48594,
+    29.665635
+],
   "geometry": {"coordinates":[-95.48594,29.665635],"type":"Point"}
 }

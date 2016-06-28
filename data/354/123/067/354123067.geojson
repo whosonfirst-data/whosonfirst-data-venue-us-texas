@@ -2,13 +2,14 @@
   "id": 354123067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.976536,32.861664,-96.976536,32.861664",
     "geom:latitude":32.861664,
     "geom:longitude":-96.976536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4028 N Story Rd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354123067,
-    "wof:lastmodified":1449066415,
+    "wof:lastmodified":1467085063,
     "wof:name":"WCR Painting",
     "wof:parent_id":85878299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.976536,32.861664,-96.976536,32.861664],
+  "bbox": [
+    -96.976536,
+    32.861664,
+    -96.976536,
+    32.861664
+],
   "geometry": {"coordinates":[-96.976536,32.861664],"type":"Point"}
 }

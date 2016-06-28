@@ -2,13 +2,14 @@
   "id": 403771733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51857,31.820195,-106.51857,31.820195",
     "geom:latitude":31.820195,
     "geom:longitude":-106.51857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403771733,
-    "wof:lastmodified":1449055351,
+    "wof:lastmodified":1467084766,
     "wof:name":"Speech Therapy Group",
     "wof:parent_id":85812359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.51857,31.820195,-106.51857,31.820195],
+  "bbox": [
+    -106.51857,
+    31.820195,
+    -106.51857,
+    31.820195
+],
   "geometry": {"coordinates":[-106.51857,31.820195],"type":"Point"}
 }

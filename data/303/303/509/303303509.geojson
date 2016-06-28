@@ -2,13 +2,14 @@
   "id": 303303509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.78202,30.3,-97.78202,30.3",
     "geom:latitude":30.3,
     "geom:longitude":-97.78202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Scenic Dr Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303303509,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1467083692,
     "wof:name":"Taylor Richards",
     "wof:parent_id":85869997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sale"
     ]
 },
-  "bbox": [-97.78202,30.3,-97.78202,30.3],
+  "bbox": [
+    -97.78202,
+    30.3,
+    -97.78202,
+    30.3
+],
   "geometry": {"coordinates":[-97.78202,30.3],"type":"Point"}
 }

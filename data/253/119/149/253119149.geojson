@@ -2,13 +2,14 @@
   "id": 253119149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905502,33.671483,-96.905502,33.671483",
     "geom:latitude":33.671483,
     "geom:longitude":-96.905502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 US Hwy 82",
     "sg:city":"Whitesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253119149,
-    "wof:lastmodified":1449064947,
+    "wof:lastmodified":1467085018,
     "wof:name":"Whitesboro Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stops"
     ]
 },
-  "bbox": [-96.905502,33.671483,-96.905502,33.671483],
+  "bbox": [
+    -96.905502,
+    33.671483,
+    -96.905502,
+    33.671483
+],
   "geometry": {"coordinates":[-96.905502,33.671483],"type":"Point"}
 }

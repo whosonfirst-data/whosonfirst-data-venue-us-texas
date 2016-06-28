@@ -2,13 +2,14 @@
   "id": 270439849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.483803,29.726299,-95.483803,29.726299",
     "geom:latitude":29.726299,
     "geom:longitude":-95.483803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5930 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":270439849,
-    "wof:lastmodified":1449009287,
+    "wof:lastmodified":1467084171,
     "wof:name":"Firehouse Saloon",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-95.483803,29.726299,-95.483803,29.726299],
-  "geometry": {"coordinates":[-95.483803,29.726299],"type":"Point"}
+  "bbox": [
+    -95.483803,
+    29.726299,
+    -95.483803,
+    29.726299
+],
+  "geometry": {"coordinates":[-95.48380299999999,29.726299],"type":"Point"}
 }

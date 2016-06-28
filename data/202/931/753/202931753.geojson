@@ -2,13 +2,14 @@
   "id": 202931753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077667,32.710573,-97.077667,32.710573",
     "geom:latitude":32.710573,
     "geom:longitude":-97.077667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 E Pioneer Pkwy",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202931753,
-    "wof:lastmodified":1449062419,
+    "wof:lastmodified":1467084936,
     "wof:name":"Storage Spot Of Arlingtion",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.077667,32.710573,-97.077667,32.710573],
-  "geometry": {"coordinates":[-97.077667,32.710573],"type":"Point"}
+  "bbox": [
+    -97.077667,
+    32.710573,
+    -97.077667,
+    32.710573
+],
+  "geometry": {"coordinates":[-97.07766700000001,32.710573],"type":"Point"}
 }

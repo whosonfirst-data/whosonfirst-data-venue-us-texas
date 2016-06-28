@@ -2,13 +2,14 @@
   "id": 270488243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456902,29.961881,-95.456902,29.961881",
     "geom:latitude":29.961881,
     "geom:longitude":-95.456902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 Blackridge Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270488243,
-    "wof:lastmodified":1449011077,
+    "wof:lastmodified":1467084230,
     "wof:name":"Martin's Realty",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.456902,29.961881,-95.456902,29.961881],
+  "bbox": [
+    -95.456902,
+    29.961881,
+    -95.456902,
+    29.961881
+],
   "geometry": {"coordinates":[-95.456902,29.961881],"type":"Point"}
 }

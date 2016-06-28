@@ -2,13 +2,14 @@
   "id": 370412033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.512824,29.511274,-98.512824,29.511274",
     "geom:latitude":29.511274,
     "geom:longitude":-98.512824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Antler Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370412033,
-    "wof:lastmodified":1449029780,
+    "wof:lastmodified":1467084486,
     "wof:name":"Bernal Flooring Inc",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.512824,29.511274,-98.512824,29.511274],
-  "geometry": {"coordinates":[-98.512824,29.511274],"type":"Point"}
+  "bbox": [
+    -98.512824,
+    29.511274,
+    -98.512824,
+    29.511274
+],
+  "geometry": {"coordinates":[-98.51282399999999,29.511274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270176357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.529404,29.671499,-95.529404,29.671499",
     "geom:latitude":29.671499,
     "geom:longitude":-95.529404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8674 S Braeswood Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270176357,
-    "wof:lastmodified":1449010267,
+    "wof:lastmodified":1467084203,
     "wof:name":"Camelot Wine & Spirits",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.529404,29.671499,-95.529404,29.671499],
+  "bbox": [
+    -95.529404,
+    29.671499,
+    -95.529404,
+    29.671499
+],
   "geometry": {"coordinates":[-95.529404,29.671499],"type":"Point"}
 }

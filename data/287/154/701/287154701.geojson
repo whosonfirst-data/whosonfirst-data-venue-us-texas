@@ -2,13 +2,14 @@
   "id": 287154701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.26696,26.90344,-99.26696,26.90344",
     "geom:latitude":26.90344,
     "geom:longitude":-99.26696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Hidalgo Blvd",
     "sg:city":"Zapata",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287154701,
-    "wof:lastmodified":1449001600,
+    "wof:lastmodified":1467083849,
     "wof:name":"Zapata County",
     "wof:parent_id":85833679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "government-county"
     ]
 },
-  "bbox": [-99.26696,26.90344,-99.26696,26.90344],
+  "bbox": [
+    -99.26696,
+    26.90344,
+    -99.26696,
+    26.90344
+],
   "geometry": {"coordinates":[-99.26696,26.90344],"type":"Point"}
 }

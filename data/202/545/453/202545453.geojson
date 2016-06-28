@@ -2,13 +2,14 @@
   "id": 202545453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649228,33.072647,-96.649228,33.072647",
     "geom:latitude":33.072647,
     "geom:longitude":-96.649228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Rolling Knolls Dr",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202545453,
-    "wof:lastmodified":1449060723,
+    "wof:lastmodified":1467084901,
     "wof:name":"LCI Holding Co",
     "wof:parent_id":85879969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-96.649228,33.072647,-96.649228,33.072647],
-  "geometry": {"coordinates":[-96.649228,33.072647],"type":"Point"}
+  "bbox": [
+    -96.649228,
+    33.072647,
+    -96.649228,
+    33.072647
+],
+  "geometry": {"coordinates":[-96.64922799999999,33.072647],"type":"Point"}
 }

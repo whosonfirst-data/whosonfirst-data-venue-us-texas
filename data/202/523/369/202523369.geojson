@@ -2,13 +2,14 @@
   "id": 202523369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.212708,29.599094,-95.212708,29.599094",
     "geom:latitude":29.599094,
     "geom:longitude":-95.212708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11603 Sagehurst Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202523369,
-    "wof:lastmodified":1449061568,
+    "wof:lastmodified":1467084918,
     "wof:name":"Deckerdawgs",
     "wof:parent_id":85869665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.212708,29.599094,-95.212708,29.599094],
-  "geometry": {"coordinates":[-95.212708,29.599094],"type":"Point"}
+  "bbox": [
+    -95.212708,
+    29.599094,
+    -95.212708,
+    29.599094
+],
+  "geometry": {"coordinates":[-95.21270800000001,29.599094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252783313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707535,32.892695,-96.707535,32.892695",
     "geom:latitude":32.892695,
     "geom:longitude":-96.707535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10375 Brockwood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252783313,
-    "wof:lastmodified":1449005433,
+    "wof:lastmodified":1467084049,
     "wof:name":"Graphicsmicrosystem S",
     "wof:parent_id":85870461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.707535,32.892695,-96.707535,32.892695],
-  "geometry": {"coordinates":[-96.707535,32.892695],"type":"Point"}
+  "bbox": [
+    -96.707535,
+    32.892695,
+    -96.707535,
+    32.892695
+],
+  "geometry": {"coordinates":[-96.70753499999999,32.892695],"type":"Point"}
 }

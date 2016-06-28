@@ -2,13 +2,14 @@
   "id": 370538925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.282838,30.600946,-96.282838,30.600946",
     "geom:latitude":30.600946,
     "geom:longitude":-96.282838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Sebesta Rd",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370538925,
-    "wof:lastmodified":1449029516,
+    "wof:lastmodified":1467084479,
     "wof:name":"Mem Data",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hospital"
     ]
 },
-  "bbox": [-96.282838,30.600946,-96.282838,30.600946],
+  "bbox": [
+    -96.282838,
+    30.600946,
+    -96.282838,
+    30.600946
+],
   "geometry": {"coordinates":[-96.282838,30.600946],"type":"Point"}
 }

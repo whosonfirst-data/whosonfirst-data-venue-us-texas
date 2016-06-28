@@ -2,13 +2,14 @@
   "id": 303478573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767387,30.384927,-97.767387,30.384927",
     "geom:latitude":30.384927,
     "geom:longitude":-97.767387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8310 N Capital of Texas Hwy Bldg 1-175",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303478573,
-    "wof:lastmodified":1448998201,
+    "wof:lastmodified":1467083695,
     "wof:name":"Lusardi",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.767387,30.384927,-97.767387,30.384927],
+  "bbox": [
+    -97.767387,
+    30.384927,
+    -97.767387,
+    30.384927
+],
   "geometry": {"coordinates":[-97.767387,30.384927],"type":"Point"}
 }

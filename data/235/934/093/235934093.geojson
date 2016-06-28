@@ -2,13 +2,14 @@
   "id": 235934093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.589136,29.953758,-95.589136,29.953758",
     "geom:latitude":29.953758,
     "geom:longitude":-95.589136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11215 Sunshine Park Dr",
     "sg:city":"Cypress",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235934093,
-    "wof:lastmodified":1449008288,
+    "wof:lastmodified":1467084141,
     "wof:name":"Interactive Exploration Svc",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-95.589136,29.953758,-95.589136,29.953758],
+  "bbox": [
+    -95.589136,
+    29.953758,
+    -95.589136,
+    29.953758
+],
   "geometry": {"coordinates":[-95.589136,29.953758],"type":"Point"}
 }

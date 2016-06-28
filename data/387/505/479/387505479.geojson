@@ -2,13 +2,14 @@
   "id": 387505479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.533741,29.490804,-98.533741,29.490804",
     "geom:latitude":29.490804,
     "geom:longitude":-98.533741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Freiling Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387505479,
-    "wof:lastmodified":1449059300,
+    "wof:lastmodified":1467084866,
     "wof:name":"House Of David",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.533741,29.490804,-98.533741,29.490804],
-  "geometry": {"coordinates":[-98.533741,29.490804],"type":"Point"}
+  "bbox": [
+    -98.533741,
+    29.490804,
+    -98.533741,
+    29.490804
+],
+  "geometry": {"coordinates":[-98.53374100000001,29.490804],"type":"Point"}
 }

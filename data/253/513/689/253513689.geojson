@@ -2,13 +2,14 @@
   "id": 253513689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.196221,32.435736,-95.196221,32.435736",
     "geom:latitude":32.435736,
     "geom:longitude":-95.196221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11902 Fm 3270",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":253513689,
-    "wof:lastmodified":1449064797,
+    "wof:lastmodified":1467085013,
     "wof:name":"Coca Cola Bottling Co. Consolidated",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "beverages-distributors"
     ]
 },
-  "bbox": [-95.196221,32.435736,-95.196221,32.435736],
-  "geometry": {"coordinates":[-95.196221,32.435736],"type":"Point"}
+  "bbox": [
+    -95.196221,
+    32.435736,
+    -95.196221,
+    32.435736
+],
+  "geometry": {"coordinates":[-95.19622099999999,32.435736],"type":"Point"}
 }

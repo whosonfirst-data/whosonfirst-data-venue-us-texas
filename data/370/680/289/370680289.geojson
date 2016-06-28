@@ -2,13 +2,14 @@
   "id": 370680289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.566917,29.849585,-95.566917,29.849585",
     "geom:latitude":29.849585,
     "geom:longitude":-95.566917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5650 Baird Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370680289,
-    "wof:lastmodified":1449031457,
+    "wof:lastmodified":1467084529,
     "wof:name":"Mrs Baird's Bakeries Inc",
     "wof:parent_id":85869785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.566917,29.849585,-95.566917,29.849585],
+  "bbox": [
+    -95.566917,
+    29.849585,
+    -95.566917,
+    29.849585
+],
   "geometry": {"coordinates":[-95.566917,29.849585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252853931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752998,32.7906,-96.752998,32.7906",
     "geom:latitude":32.7906,
     "geom:longitude":-96.752998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 E R L Thornton Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":252853931,
-    "wof:lastmodified":1449005847,
+    "wof:lastmodified":1467084072,
     "wof:name":"Comerica Bank-Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.752998,32.7906,-96.752998,32.7906],
-  "geometry": {"coordinates":[-96.752998,32.7906],"type":"Point"}
+  "bbox": [
+    -96.752998,
+    32.7906,
+    -96.752998,
+    32.7906
+],
+  "geometry": {"coordinates":[-96.75299800000001,32.7906],"type":"Point"}
 }

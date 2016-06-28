@@ -2,13 +2,14 @@
   "id": 404119273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.511288,27.507855,-99.511288,27.507855",
     "geom:latitude":27.507855,
     "geom:longitude":-99.511288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Victoria St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404119273,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1467084654,
     "wof:name":"World Wide Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-99.511288,27.507855,-99.511288,27.507855],
-  "geometry": {"coordinates":[-99.511288,27.507855],"type":"Point"}
+  "bbox": [
+    -99.511288,
+    27.507855,
+    -99.511288,
+    27.507855
+],
+  "geometry": {"coordinates":[-99.51128799999999,27.507855],"type":"Point"}
 }

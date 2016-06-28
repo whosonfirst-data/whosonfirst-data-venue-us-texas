@@ -2,13 +2,14 @@
   "id": 387666913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456499,29.958123,-95.456499,29.958123",
     "geom:latitude":29.958123,
     "geom:longitude":-95.456499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11922 Yeatmah Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387666913,
-    "wof:lastmodified":1449057494,
+    "wof:lastmodified":1467084819,
     "wof:name":"N & V Remodeling",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-95.456499,29.958123,-95.456499,29.958123],
-  "geometry": {"coordinates":[-95.456499,29.958123],"type":"Point"}
+  "bbox": [
+    -95.456499,
+    29.958123,
+    -95.456499,
+    29.958123
+],
+  "geometry": {"coordinates":[-95.45649899999999,29.958123],"type":"Point"}
 }

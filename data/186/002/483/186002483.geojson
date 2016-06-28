@@ -2,13 +2,14 @@
   "id": 186002483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741291,30.297872,-97.741291,30.297872",
     "geom:latitude":30.297872,
     "geom:longitude":-97.741291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186002483,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1467084736,
     "wof:name":"Vanity",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.741291,30.297872,-97.741291,30.297872],
+  "bbox": [
+    -97.741291,
+    30.297872,
+    -97.741291,
+    30.297872
+],
   "geometry": {"coordinates":[-97.741291,30.297872],"type":"Point"}
 }

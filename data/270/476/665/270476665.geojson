@@ -2,13 +2,14 @@
   "id": 270476665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.526874,29.730263,-95.526874,29.730263",
     "geom:latitude":29.730263,
     "geom:longitude":-95.526874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9212 Rasmus Dr.",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270476665,
-    "wof:lastmodified":1449009624,
+    "wof:lastmodified":1467084182,
     "wof:name":"Royal Carriages Limousine",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.526874,29.730263,-95.526874,29.730263],
-  "geometry": {"coordinates":[-95.526874,29.730263],"type":"Point"}
+  "bbox": [
+    -95.526874,
+    29.730263,
+    -95.526874,
+    29.730263
+],
+  "geometry": {"coordinates":[-95.52687400000001,29.730263],"type":"Point"}
 }

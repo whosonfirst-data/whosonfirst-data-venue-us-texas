@@ -2,13 +2,14 @@
   "id": 203070173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.25101,26.197733,-98.25101,26.197733",
     "geom:latitude":26.197733,
     "geom:longitude":-98.25101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 S 26th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203070173,
-    "wof:lastmodified":1449025836,
+    "wof:lastmodified":1467084401,
     "wof:name":"E & E General Svc",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.25101,26.197733,-98.25101,26.197733],
-  "geometry": {"coordinates":[-98.25101,26.197733],"type":"Point"}
+  "bbox": [
+    -98.25101,
+    26.197733,
+    -98.25101,
+    26.197733
+],
+  "geometry": {"coordinates":[-98.25100999999999,26.197733],"type":"Point"}
 }

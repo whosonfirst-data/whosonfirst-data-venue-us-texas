@@ -2,13 +2,14 @@
   "id": 387310611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.769639,32.408136,-99.769639,32.408136",
     "geom:latitude":32.408136,
     "geom:longitude":-99.769639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Village Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387310611,
-    "wof:lastmodified":1449058448,
+    "wof:lastmodified":1467084844,
     "wof:name":"White Drilling",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.769639,32.408136,-99.769639,32.408136],
+  "bbox": [
+    -99.769639,
+    32.408136,
+    -99.769639,
+    32.408136
+],
   "geometry": {"coordinates":[-99.769639,32.408136],"type":"Point"}
 }

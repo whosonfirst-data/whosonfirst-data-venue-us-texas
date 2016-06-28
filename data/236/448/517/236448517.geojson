@@ -2,13 +2,14 @@
   "id": 236448517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73981,32.943428,-96.73981,32.943428",
     "geom:latitude":32.943428,
     "geom:longitude":-96.73981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Central Expy",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236448517,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1467084030,
     "wof:name":"Pappadeaux Seafood Kitchen",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-96.73981,32.943428,-96.73981,32.943428],
-  "geometry": {"coordinates":[-96.73981,32.943428],"type":"Point"}
+  "bbox": [
+    -96.73981,
+    32.943428,
+    -96.73981,
+    32.943428
+],
+  "geometry": {"coordinates":[-96.73981000000001,32.943428],"type":"Point"}
 }

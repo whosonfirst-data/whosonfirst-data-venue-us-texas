@@ -2,13 +2,14 @@
   "id": 236279823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.539448,32.860851,-96.539448,32.860851",
     "geom:latitude":32.860851,
     "geom:longitude":-96.539448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Chaha Rd",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236279823,
-    "wof:lastmodified":1449003112,
+    "wof:lastmodified":1467083938,
     "wof:name":"Lake Colony Apts.",
     "wof:parent_id":85877681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-96.539448,32.860851,-96.539448,32.860851],
-  "geometry": {"coordinates":[-96.539448,32.860851],"type":"Point"}
+  "bbox": [
+    -96.539448,
+    32.860851,
+    -96.539448,
+    32.860851
+],
+  "geometry": {"coordinates":[-96.53944799999999,32.860851],"type":"Point"}
 }

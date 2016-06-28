@@ -2,13 +2,14 @@
   "id": 236012719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.821938,32.966569,-96.821938,32.966569",
     "geom:latitude":32.966569,
     "geom:longitude":-96.821938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15909 Dallas Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236012719,
-    "wof:lastmodified":1449004843,
+    "wof:lastmodified":1467084020,
     "wof:name":"Dallas North Tollway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.821938,32.966569,-96.821938,32.966569],
+  "bbox": [
+    -96.821938,
+    32.966569,
+    -96.821938,
+    32.966569
+],
   "geometry": {"coordinates":[-96.821938,32.966569],"type":"Point"}
 }

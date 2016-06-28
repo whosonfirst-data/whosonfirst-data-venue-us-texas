@@ -2,13 +2,14 @@
   "id": 219961051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.874395,33.005869,-96.874395,33.005869",
     "geom:latitude":33.005869,
     "geom:longitude":-96.874395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Furneaux Ln",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219961051,
-    "wof:lastmodified":1449073844,
+    "wof:lastmodified":1467085172,
     "wof:name":"Furneaux Elementary School",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.874395,33.005869,-96.874395,33.005869],
-  "geometry": {"coordinates":[-96.874395,33.005869],"type":"Point"}
+  "bbox": [
+    -96.874395,
+    33.005869,
+    -96.874395,
+    33.005869
+],
+  "geometry": {"coordinates":[-96.87439500000001,33.005869],"type":"Point"}
 }

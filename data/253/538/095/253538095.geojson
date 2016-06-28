@@ -2,13 +2,14 @@
   "id": 253538095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.210569,32.209004,-95.210569,32.209004",
     "geom:latitude":32.209004,
     "geom:longitude":-95.210569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Landon St",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253538095,
-    "wof:lastmodified":1449063196,
+    "wof:lastmodified":1467084958,
     "wof:name":"Stuart Kazlow",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.210569,32.209004,-95.210569,32.209004],
-  "geometry": {"coordinates":[-95.210569,32.209004],"type":"Point"}
+  "bbox": [
+    -95.210569,
+    32.209004,
+    -95.210569,
+    32.209004
+],
+  "geometry": {"coordinates":[-95.21056900000001,32.209004],"type":"Point"}
 }

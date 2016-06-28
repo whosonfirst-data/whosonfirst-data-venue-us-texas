@@ -2,13 +2,14 @@
   "id": 286922445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359192,29.550578,-95.359192,29.550578",
     "geom:latitude":29.550578,
     "geom:longitude":-95.359192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Hanston Ct",
     "sg:city":"Pearland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286922445,
-    "wof:lastmodified":1449015449,
+    "wof:lastmodified":1467084244,
     "wof:name":"Campbell Workflow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-wholesale"
     ]
 },
-  "bbox": [-95.359192,29.550578,-95.359192,29.550578],
-  "geometry": {"coordinates":[-95.359192,29.550578],"type":"Point"}
+  "bbox": [
+    -95.359192,
+    29.550578,
+    -95.359192,
+    29.550578
+],
+  "geometry": {"coordinates":[-95.35919199999999,29.550578],"type":"Point"}
 }

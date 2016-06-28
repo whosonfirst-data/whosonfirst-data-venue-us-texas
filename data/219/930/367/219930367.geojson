@@ -2,13 +2,14 @@
   "id": 219930367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.902003,33.501319,-101.902003,33.501319",
     "geom:latitude":33.501319,
     "geom:longitude":-101.902003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4216 102nd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219930367,
-    "wof:lastmodified":1449071525,
+    "wof:lastmodified":1467085124,
     "wof:name":"Amicus Financial Advisors LL",
     "wof:parent_id":85878807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advisory"
     ]
 },
-  "bbox": [-101.902003,33.501319,-101.902003,33.501319],
-  "geometry": {"coordinates":[-101.902003,33.501319],"type":"Point"}
+  "bbox": [
+    -101.902003,
+    33.501319,
+    -101.902003,
+    33.501319
+],
+  "geometry": {"coordinates":[-101.90200299999999,33.501319],"type":"Point"}
 }

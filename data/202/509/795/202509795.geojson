@@ -2,13 +2,14 @@
   "id": 202509795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.264395,32.822087,-97.264395,32.822087",
     "geom:latitude":32.822087,
     "geom:longitude":-97.264395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Denton Hwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202509795,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1467084889,
     "wof:name":"Cornerstone Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "complex"
     ]
 },
-  "bbox": [-97.264395,32.822087,-97.264395,32.822087],
-  "geometry": {"coordinates":[-97.264395,32.822087],"type":"Point"}
+  "bbox": [
+    -97.264395,
+    32.822087,
+    -97.264395,
+    32.822087
+],
+  "geometry": {"coordinates":[-97.26439499999999,32.822087],"type":"Point"}
 }

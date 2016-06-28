@@ -2,13 +2,14 @@
   "id": 253675367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37143,32.493273,-97.37143,32.493273",
     "geom:latitude":32.493273,
     "geom:longitude":-97.37143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2865 SW Wilshire Blvd",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253675367,
-    "wof:lastmodified":1449064322,
+    "wof:lastmodified":1467084996,
     "wof:name":"Texas CQB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gun/rifle"
     ]
 },
-  "bbox": [-97.37143,32.493273,-97.37143,32.493273],
+  "bbox": [
+    -97.37143,
+    32.493273,
+    -97.37143,
+    32.493273
+],
   "geometry": {"coordinates":[-97.37143,32.493273],"type":"Point"}
 }

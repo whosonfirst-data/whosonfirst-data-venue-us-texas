@@ -2,13 +2,14 @@
   "id": 219275341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.624598,30.397834,-95.624598,30.397834",
     "geom:latitude":30.397834,
     "geom:longitude":-95.624598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13101 Walden Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219275341,
-    "wof:lastmodified":1449071535,
+    "wof:lastmodified":1467085124,
     "wof:name":"Walden Golf & Country Club",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-95.624598,30.397834,-95.624598,30.397834],
-  "geometry": {"coordinates":[-95.624598,30.397834],"type":"Point"}
+  "bbox": [
+    -95.624598,
+    30.397834,
+    -95.624598,
+    30.397834
+],
+  "geometry": {"coordinates":[-95.62459800000001,30.397834],"type":"Point"}
 }

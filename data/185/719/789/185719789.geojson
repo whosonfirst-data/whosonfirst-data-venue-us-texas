@@ -2,13 +2,14 @@
   "id": 185719789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.825511,32.51427,-94.825511,32.51427",
     "geom:latitude":32.51427,
     "geom:longitude":-94.825511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5904 Old US Hwy 80",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185719789,
-    "wof:lastmodified":1449006808,
+    "wof:lastmodified":1467084115,
     "wof:name":"First Kick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-94.825511,32.51427,-94.825511,32.51427],
-  "geometry": {"coordinates":[-94.825511,32.51427],"type":"Point"}
+  "bbox": [
+    -94.825511,
+    32.51427,
+    -94.825511,
+    32.51427
+],
+  "geometry": {"coordinates":[-94.82551100000001,32.51427],"type":"Point"}
 }

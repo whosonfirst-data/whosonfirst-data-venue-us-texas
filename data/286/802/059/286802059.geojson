@@ -2,13 +2,14 @@
   "id": 286802059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.259036,29.423423,-95.259036,29.423423",
     "geom:latitude":29.423423,
     "geom:longitude":-95.259036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 W Sealy St B",
     "sg:city":"Alvin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286802059,
-    "wof:lastmodified":1449017569,
+    "wof:lastmodified":1467084303,
     "wof:name":"A American Bail Bonding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-95.259036,29.423423,-95.259036,29.423423],
-  "geometry": {"coordinates":[-95.259036,29.423423],"type":"Point"}
+  "bbox": [
+    -95.259036,
+    29.423423,
+    -95.259036,
+    29.423423
+],
+  "geometry": {"coordinates":[-95.25903599999999,29.423423],"type":"Point"}
 }

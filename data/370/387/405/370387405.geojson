@@ -2,13 +2,14 @@
   "id": 370387405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48363,29.40709,-98.48363,29.40709",
     "geom:latitude":29.40709,
     "geom:longitude":-98.48363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Carolina St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370387405,
-    "wof:lastmodified":1449032012,
+    "wof:lastmodified":1467084543,
     "wof:name":"Imsco Inc",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sewing"
     ]
 },
-  "bbox": [-98.48363,29.40709,-98.48363,29.40709],
-  "geometry": {"coordinates":[-98.48363,29.40709],"type":"Point"}
+  "bbox": [
+    -98.48363,
+    29.40709,
+    -98.48363,
+    29.40709
+],
+  "geometry": {"coordinates":[-98.48363000000001,29.40709],"type":"Point"}
 }

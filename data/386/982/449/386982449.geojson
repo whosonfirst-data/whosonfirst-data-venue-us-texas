@@ -2,13 +2,14 @@
   "id": 386982449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.567301,29.823415,-95.567301,29.823415",
     "geom:latitude":29.823415,
     "geom:longitude":-95.567301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Kempwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386982449,
-    "wof:lastmodified":1449028673,
+    "wof:lastmodified":1467084459,
     "wof:name":"M A N B & W Giesel Houston",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-95.567301,29.823415,-95.567301,29.823415],
+  "bbox": [
+    -95.567301,
+    29.823415,
+    -95.567301,
+    29.823415
+],
   "geometry": {"coordinates":[-95.567301,29.823415],"type":"Point"}
 }

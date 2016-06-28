@@ -2,13 +2,14 @@
   "id": 219752961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.860486,35.208597,-101.860486,35.208597",
     "geom:latitude":35.208597,
     "geom:longitude":-101.860486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Milam St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219752961,
-    "wof:lastmodified":1449070982,
+    "wof:lastmodified":1467085112,
     "wof:name":"Southwest Cassette",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-101.860486,35.208597,-101.860486,35.208597],
-  "geometry": {"coordinates":[-101.860486,35.208597],"type":"Point"}
+  "bbox": [
+    -101.860486,
+    35.208597,
+    -101.860486,
+    35.208597
+],
+  "geometry": {"coordinates":[-101.86048599999999,35.208597],"type":"Point"}
 }

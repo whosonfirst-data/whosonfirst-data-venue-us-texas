@@ -2,13 +2,14 @@
   "id": 219922329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.384796,29.578749,-98.384796,29.578749",
     "geom:latitude":29.578749,
     "geom:longitude":-98.384796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15323 Spring Dew",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219922329,
-    "wof:lastmodified":1449070706,
+    "wof:lastmodified":1467085106,
     "wof:name":"Circle 786 Food & Gas",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.384796,29.578749,-98.384796,29.578749],
-  "geometry": {"coordinates":[-98.384796,29.578749],"type":"Point"}
+  "bbox": [
+    -98.384796,
+    29.578749,
+    -98.384796,
+    29.578749
+],
+  "geometry": {"coordinates":[-98.38479599999999,29.578749],"type":"Point"}
 }

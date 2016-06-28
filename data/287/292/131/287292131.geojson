@@ -2,13 +2,14 @@
   "id": 287292131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.25074,26.110769,-98.25074,26.110769",
     "geom:latitude":26.110769,
     "geom:longitude":-98.25074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Double E Dr",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":287292131,
-    "wof:lastmodified":1449000722,
+    "wof:lastmodified":1467083819,
     "wof:name":"Ground Transportation Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "broker"
     ]
 },
-  "bbox": [-98.25074,26.110769,-98.25074,26.110769],
-  "geometry": {"coordinates":[-98.25074,26.110769],"type":"Point"}
+  "bbox": [
+    -98.25074,
+    26.110769,
+    -98.25074,
+    26.110769
+],
+  "geometry": {"coordinates":[-98.25073999999999,26.110769],"type":"Point"}
 }

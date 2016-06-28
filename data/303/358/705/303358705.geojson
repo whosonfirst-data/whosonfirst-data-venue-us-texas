@@ -2,13 +2,14 @@
   "id": 303358705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740876,30.301184,-97.740876,30.301184",
     "geom:latitude":30.301184,
     "geom:longitude":-97.740876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 W 34th St Ste 302",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303358705,
-    "wof:lastmodified":1448999149,
+    "wof:lastmodified":1467083743,
     "wof:name":"Donald Davis, MD",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-97.740876,30.301184,-97.740876,30.301184],
+  "bbox": [
+    -97.740876,
+    30.301184,
+    -97.740876,
+    30.301184
+],
   "geometry": {"coordinates":[-97.740876,30.301184],"type":"Point"}
 }

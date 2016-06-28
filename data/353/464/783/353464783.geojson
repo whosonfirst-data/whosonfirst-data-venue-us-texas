@@ -2,13 +2,14 @@
   "id": 353464783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.473098,31.058374,-97.473098,31.058374",
     "geom:latitude":31.058374,
     "geom:longitude":-97.473098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 W 1st Ave",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353464783,
-    "wof:lastmodified":1449018957,
+    "wof:lastmodified":1467084336,
     "wof:name":"RJC Trucking",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.473098,31.058374,-97.473098,31.058374],
-  "geometry": {"coordinates":[-97.473098,31.058374],"type":"Point"}
+  "bbox": [
+    -97.473098,
+    31.058374,
+    -97.473098,
+    31.058374
+],
+  "geometry": {"coordinates":[-97.47309799999999,31.058374],"type":"Point"}
 }

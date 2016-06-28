@@ -2,13 +2,14 @@
   "id": 202807545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.965088,28.834719,-96.965088,28.834719",
     "geom:latitude":28.834719,
     "geom:longitude":-96.965088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Londonderry Dr",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202807545,
-    "wof:lastmodified":1449060761,
+    "wof:lastmodified":1467084902,
     "wof:name":"Kocin Wallcovering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-96.965088,28.834719,-96.965088,28.834719],
-  "geometry": {"coordinates":[-96.965088,28.834719],"type":"Point"}
+  "bbox": [
+    -96.965088,
+    28.834719,
+    -96.965088,
+    28.834719
+],
+  "geometry": {"coordinates":[-96.96508799999999,28.834719],"type":"Point"}
 }

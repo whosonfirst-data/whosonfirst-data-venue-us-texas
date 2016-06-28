@@ -2,13 +2,14 @@
   "id": 387087503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.166869,26.281077,-98.166869,26.281077",
     "geom:latitude":26.281077,
     "geom:longitude":-98.166869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 US Hwy 281 Bus",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387087503,
-    "wof:lastmodified":1449057864,
+    "wof:lastmodified":1467084829,
     "wof:name":"Anderson Produce",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-98.166869,26.281077,-98.166869,26.281077],
-  "geometry": {"coordinates":[-98.166869,26.281077],"type":"Point"}
+  "bbox": [
+    -98.166869,
+    26.281077,
+    -98.166869,
+    26.281077
+],
+  "geometry": {"coordinates":[-98.16686900000001,26.281077],"type":"Point"}
 }

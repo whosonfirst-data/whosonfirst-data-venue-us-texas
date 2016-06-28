@@ -2,13 +2,14 @@
   "id": 354117503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500622,29.552805,-98.500622,29.552805",
     "geom:latitude":29.552805,
     "geom:longitude":-98.500622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Breesport St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354117503,
-    "wof:lastmodified":1449067136,
+    "wof:lastmodified":1467085081,
     "wof:name":"Pitstop Portable Restrooms",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-98.500622,29.552805,-98.500622,29.552805],
-  "geometry": {"coordinates":[-98.500622,29.552805],"type":"Point"}
+  "bbox": [
+    -98.500622,
+    29.552805,
+    -98.500622,
+    29.552805
+],
+  "geometry": {"coordinates":[-98.50062200000001,29.552805],"type":"Point"}
 }

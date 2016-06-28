@@ -2,13 +2,14 @@
   "id": 303276605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.723515,30.249757,-97.723515,30.249757",
     "geom:latitude":30.249757,
     "geom:longitude":-97.723515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Robert T Martinez Jr St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303276605,
-    "wof:lastmodified":1448998207,
+    "wof:lastmodified":1467083696,
     "wof:name":"City Of Austin",
     "wof:parent_id":85869933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-97.723515,30.249757,-97.723515,30.249757],
-  "geometry": {"coordinates":[-97.723515,30.249757],"type":"Point"}
+  "bbox": [
+    -97.723515,
+    30.249757,
+    -97.723515,
+    30.249757
+],
+  "geometry": {"coordinates":[-97.72351500000001,30.249757],"type":"Point"}
 }

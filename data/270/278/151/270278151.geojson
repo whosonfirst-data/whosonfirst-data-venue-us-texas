@@ -2,13 +2,14 @@
   "id": 270278151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.602443,29.8791,-95.602443,29.8791",
     "geom:latitude":29.8791,
     "geom:longitude":-95.602443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6922 Satsuma Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":270278151,
-    "wof:lastmodified":1449009993,
+    "wof:lastmodified":1467084195,
     "wof:name":"Redmon Heating & Cooling",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.602443,29.8791,-95.602443,29.8791],
-  "geometry": {"coordinates":[-95.602443,29.8791],"type":"Point"}
+  "bbox": [
+    -95.602443,
+    29.8791,
+    -95.602443,
+    29.8791
+],
+  "geometry": {"coordinates":[-95.60244299999999,29.8791],"type":"Point"}
 }

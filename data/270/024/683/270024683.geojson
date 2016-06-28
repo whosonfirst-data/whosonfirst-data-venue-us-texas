@@ -2,13 +2,14 @@
   "id": 270024683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.408859,29.74907,-95.408859,29.74907",
     "geom:latitude":29.74907,
     "geom:longitude":-95.408859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Brun St Ste A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270024683,
-    "wof:lastmodified":1449009811,
+    "wof:lastmodified":1467084188,
     "wof:name":"Skynet State Machines",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-95.408859,29.74907,-95.408859,29.74907],
-  "geometry": {"coordinates":[-95.408859,29.74907],"type":"Point"}
+  "bbox": [
+    -95.408859,
+    29.74907,
+    -95.408859,
+    29.74907
+],
+  "geometry": {"coordinates":[-95.40885900000001,29.74907],"type":"Point"}
 }

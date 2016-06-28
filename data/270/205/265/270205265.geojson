@@ -2,13 +2,14 @@
   "id": 270205265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.504089,29.64686,-95.504089,29.64686",
     "geom:latitude":29.64686,
     "geom:longitude":-95.504089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6450 Dryad Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270205265,
-    "wof:lastmodified":1449010109,
+    "wof:lastmodified":1467084198,
     "wof:name":"Us Common Wealth Information",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-95.504089,29.64686,-95.504089,29.64686],
-  "geometry": {"coordinates":[-95.504089,29.64686],"type":"Point"}
+  "bbox": [
+    -95.504089,
+    29.64686,
+    -95.504089,
+    29.64686
+],
+  "geometry": {"coordinates":[-95.50408899999999,29.64686],"type":"Point"}
 }

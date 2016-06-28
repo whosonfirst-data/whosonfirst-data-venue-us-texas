@@ -2,13 +2,14 @@
   "id": 185753321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500339,29.781548,-95.500339,29.781548",
     "geom:latitude":29.781548,
     "geom:longitude":-95.500339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Tarrington Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185753321,
-    "wof:lastmodified":1449006792,
+    "wof:lastmodified":1467084115,
     "wof:name":"Its All In Hand",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.500339,29.781548,-95.500339,29.781548],
+  "bbox": [
+    -95.500339,
+    29.781548,
+    -95.500339,
+    29.781548
+],
   "geometry": {"coordinates":[-95.500339,29.781548],"type":"Point"}
 }

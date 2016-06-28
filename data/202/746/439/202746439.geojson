@@ -2,13 +2,14 @@
   "id": 202746439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.211959,32.772256,-97.211959,32.772256",
     "geom:latitude":32.772256,
     "geom:longitude":-97.211959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6920 Sandybrook Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202746439,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1467084887,
     "wof:name":"Gonzalez Truck",
     "wof:parent_id":85871649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.211959,32.772256,-97.211959,32.772256],
-  "geometry": {"coordinates":[-97.211959,32.772256],"type":"Point"}
+  "bbox": [
+    -97.211959,
+    32.772256,
+    -97.211959,
+    32.772256
+],
+  "geometry": {"coordinates":[-97.21195899999999,32.772256],"type":"Point"}
 }

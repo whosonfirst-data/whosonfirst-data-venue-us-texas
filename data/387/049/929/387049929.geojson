@@ -2,13 +2,14 @@
   "id": 387049929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.529935,30.34561,-96.529935,30.34561",
     "geom:latitude":30.34561,
     "geom:longitude":-96.529935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 8th St",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387049929,
-    "wof:lastmodified":1449057992,
+    "wof:lastmodified":1467084832,
     "wof:name":"Community Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.529935,30.34561,-96.529935,30.34561],
-  "geometry": {"coordinates":[-96.529935,30.34561],"type":"Point"}
+  "bbox": [
+    -96.529935,
+    30.34561,
+    -96.529935,
+    30.34561
+],
+  "geometry": {"coordinates":[-96.52993499999999,30.34561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270134619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.301803,29.802386,-95.301803,29.802386",
     "geom:latitude":29.802386,
     "geom:longitude":-95.301803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Homestead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270134619,
-    "wof:lastmodified":1449010980,
+    "wof:lastmodified":1467084227,
     "wof:name":"Nelco",
     "wof:parent_id":85847801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.301803,29.802386,-95.301803,29.802386],
-  "geometry": {"coordinates":[-95.301803,29.802386],"type":"Point"}
+  "bbox": [
+    -95.301803,
+    29.802386,
+    -95.301803,
+    29.802386
+],
+  "geometry": {"coordinates":[-95.30180300000001,29.802386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354239427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.160243,31.798157,-106.160243,31.798157",
     "geom:latitude":31.798157,
     "geom:longitude":-106.160243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14900 Greg Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354239427,
-    "wof:lastmodified":1449066090,
+    "wof:lastmodified":1467085055,
     "wof:name":"Casastart Project",
     "wof:parent_id":85871379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.160243,31.798157,-106.160243,31.798157],
-  "geometry": {"coordinates":[-106.160243,31.798157],"type":"Point"}
+  "bbox": [
+    -106.160243,
+    31.798157,
+    -106.160243,
+    31.798157
+],
+  "geometry": {"coordinates":[-106.16024299999999,31.798157],"type":"Point"}
 }

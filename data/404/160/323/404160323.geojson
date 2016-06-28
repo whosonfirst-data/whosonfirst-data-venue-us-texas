@@ -2,13 +2,14 @@
   "id": 404160323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.461177,29.415963,-98.461177,29.415963",
     "geom:latitude":29.415963,
     "geom:longitude":-98.461177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S New Braunfels Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404160323,
-    "wof:lastmodified":1449040120,
+    "wof:lastmodified":1467084657,
     "wof:name":"Sunglo Service Stations",
     "wof:parent_id":85871055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.461177,29.415963,-98.461177,29.415963],
-  "geometry": {"coordinates":[-98.461177,29.415963],"type":"Point"}
+  "bbox": [
+    -98.461177,
+    29.415963,
+    -98.461177,
+    29.415963
+],
+  "geometry": {"coordinates":[-98.46117700000001,29.415963],"type":"Point"}
 }

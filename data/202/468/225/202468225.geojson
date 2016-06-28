@@ -2,13 +2,14 @@
   "id": 202468225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.484265,32.258991,-101.484265,32.258991",
     "geom:latitude":32.258991,
     "geom:longitude":-101.484265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Lamesa Hwy",
     "sg:city":"Big Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202468225,
-    "wof:lastmodified":1449061913,
+    "wof:lastmodified":1467084925,
     "wof:name":"Nanas Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-101.484265,32.258991,-101.484265,32.258991],
-  "geometry": {"coordinates":[-101.484265,32.258991],"type":"Point"}
+  "bbox": [
+    -101.484265,
+    32.258991,
+    -101.484265,
+    32.258991
+],
+  "geometry": {"coordinates":[-101.48426499999999,32.258991],"type":"Point"}
 }

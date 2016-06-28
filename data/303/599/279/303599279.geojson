@@ -2,13 +2,14 @@
   "id": 303599279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.841282,30.197213,-97.841282,30.197213",
     "geom:latitude":30.197213,
     "geom:longitude":-97.841282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Brodie Ln Ste 431",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303599279,
-    "wof:lastmodified":1448999254,
+    "wof:lastmodified":1467083748,
     "wof:name":"Air Movement",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.841282,30.197213,-97.841282,30.197213],
-  "geometry": {"coordinates":[-97.841282,30.197213],"type":"Point"}
+  "bbox": [
+    -97.841282,
+    30.197213,
+    -97.841282,
+    30.197213
+],
+  "geometry": {"coordinates":[-97.84128200000001,30.197213],"type":"Point"}
 }

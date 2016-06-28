@@ -2,13 +2,14 @@
   "id": 387076211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.832963,35.228189,-101.832963,35.228189",
     "geom:latitude":35.228189,
     "geom:longitude":-101.832963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 N Taylor St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387076211,
-    "wof:lastmodified":1449059090,
+    "wof:lastmodified":1467084861,
     "wof:name":"Hilltop Senior Ctr",
     "wof:parent_id":85875853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-101.832963,35.228189,-101.832963,35.228189],
-  "geometry": {"coordinates":[-101.832963,35.228189],"type":"Point"}
+  "bbox": [
+    -101.832963,
+    35.228189,
+    -101.832963,
+    35.228189
+],
+  "geometry": {"coordinates":[-101.83296300000001,35.228189],"type":"Point"}
 }

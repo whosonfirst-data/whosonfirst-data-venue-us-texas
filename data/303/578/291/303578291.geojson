@@ -2,13 +2,14 @@
   "id": 303578291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.770258,30.212933,-97.770258,30.212933",
     "geom:latitude":30.212933,
     "geom:longitude":-97.770258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303578291,
-    "wof:lastmodified":1448998728,
+    "wof:lastmodified":1467083721,
     "wof:name":"South Congress Partyland",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-97.770258,30.212933,-97.770258,30.212933],
+  "bbox": [
+    -97.770258,
+    30.212933,
+    -97.770258,
+    30.212933
+],
   "geometry": {"coordinates":[-97.770258,30.212933],"type":"Point"}
 }

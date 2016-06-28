@@ -2,13 +2,14 @@
   "id": 387221977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.575342,29.449899,-98.575342,29.449899",
     "geom:latitude":29.449899,
     "geom:longitude":-98.575342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3662 Culebra Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387221977,
-    "wof:lastmodified":1449057785,
+    "wof:lastmodified":1467084827,
     "wof:name":"TLC Adult Day Care Ctr",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "day"
     ]
 },
-  "bbox": [-98.575342,29.449899,-98.575342,29.449899],
-  "geometry": {"coordinates":[-98.575342,29.449899],"type":"Point"}
+  "bbox": [
+    -98.575342,
+    29.449899,
+    -98.575342,
+    29.449899
+],
+  "geometry": {"coordinates":[-98.57534200000001,29.449899],"type":"Point"}
 }

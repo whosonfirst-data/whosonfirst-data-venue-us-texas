@@ -2,13 +2,14 @@
   "id": 203261925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.385611,32.772994,-97.385611,32.772994",
     "geom:latitude":32.772994,
     "geom:longitude":-97.385611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Isbell Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203261925,
-    "wof:lastmodified":1449024970,
+    "wof:lastmodified":1467084385,
     "wof:name":"Paschal Tile",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.385611,32.772994,-97.385611,32.772994],
+  "bbox": [
+    -97.385611,
+    32.772994,
+    -97.385611,
+    32.772994
+],
   "geometry": {"coordinates":[-97.385611,32.772994],"type":"Point"}
 }

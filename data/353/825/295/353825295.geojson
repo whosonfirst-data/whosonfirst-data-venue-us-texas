@@ -2,13 +2,14 @@
   "id": 353825295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.394489,30.560076,-98.394489,30.560076",
     "geom:latitude":30.560076,
     "geom:longitude":-98.394489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Applehead Island Dr",
     "sg:city":"Horseshoe Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353825295,
-    "wof:lastmodified":1449018338,
+    "wof:lastmodified":1467084323,
     "wof:name":"Applehead Island Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-98.394489,30.560076,-98.394489,30.560076],
-  "geometry": {"coordinates":[-98.394489,30.560076],"type":"Point"}
+  "bbox": [
+    -98.394489,
+    30.560076,
+    -98.394489,
+    30.560076
+],
+  "geometry": {"coordinates":[-98.39448899999999,30.560076],"type":"Point"}
 }

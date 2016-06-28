@@ -2,13 +2,14 @@
   "id": 202504515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.499079,29.553305,-98.499079,29.553305",
     "geom:latitude":29.553305,
     "geom:longitude":-98.499079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 W Nakoma Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202504515,
-    "wof:lastmodified":1449060545,
+    "wof:lastmodified":1467084897,
     "wof:name":"Mission Car Wash",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-98.499079,29.553305,-98.499079,29.553305],
-  "geometry": {"coordinates":[-98.499079,29.553305],"type":"Point"}
+  "bbox": [
+    -98.499079,
+    29.553305,
+    -98.499079,
+    29.553305
+],
+  "geometry": {"coordinates":[-98.49907899999999,29.553305],"type":"Point"}
 }

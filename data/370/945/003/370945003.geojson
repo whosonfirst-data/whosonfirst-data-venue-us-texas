@@ -2,13 +2,14 @@
   "id": 370945003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.361032,31.728486,-106.361032,31.728486",
     "geom:latitude":31.728486,
     "geom:longitude":-106.361032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7940 Alameda Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370945003,
-    "wof:lastmodified":1449029376,
+    "wof:lastmodified":1467084476,
     "wof:name":"Eddies Auto Sales",
     "wof:parent_id":85852245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.361032,31.728486,-106.361032,31.728486],
-  "geometry": {"coordinates":[-106.361032,31.728486],"type":"Point"}
+  "bbox": [
+    -106.361032,
+    31.728486,
+    -106.361032,
+    31.728486
+],
+  "geometry": {"coordinates":[-106.36103199999999,31.728486],"type":"Point"}
 }

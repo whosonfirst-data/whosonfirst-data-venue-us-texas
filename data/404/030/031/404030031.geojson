@@ -2,13 +2,14 @@
   "id": 404030031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.421411,31.872922,-106.421411,31.872922",
     "geom:latitude":31.872922,
     "geom:longitude":-106.421411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9115 Mount Olympus Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404030031,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1467084647,
     "wof:name":"Foster Lafamilia Home",
     "wof:parent_id":85835851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.421411,31.872922,-106.421411,31.872922],
-  "geometry": {"coordinates":[-106.421411,31.872922],"type":"Point"}
+  "bbox": [
+    -106.421411,
+    31.872922,
+    -106.421411,
+    31.872922
+],
+  "geometry": {"coordinates":[-106.42141100000001,31.872922],"type":"Point"}
 }

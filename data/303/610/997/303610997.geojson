@@ -2,13 +2,14 @@
   "id": 303610997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825707,30.308083,-97.825707,30.308083",
     "geom:latitude":30.308083,
     "geom:longitude":-97.825707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Capital Of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303610997,
-    "wof:lastmodified":1449000526,
+    "wof:lastmodified":1467083811,
     "wof:name":"Mainesburg Gs, Lp",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "pipe"
     ]
 },
-  "bbox": [-97.825707,30.308083,-97.825707,30.308083],
-  "geometry": {"coordinates":[-97.825707,30.308083],"type":"Point"}
+  "bbox": [
+    -97.825707,
+    30.308083,
+    -97.825707,
+    30.308083
+],
+  "geometry": {"coordinates":[-97.82570699999999,30.308083],"type":"Point"}
 }

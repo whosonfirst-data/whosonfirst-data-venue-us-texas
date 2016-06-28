@@ -2,13 +2,14 @@
   "id": 185985991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.389513,29.492031,-98.389513,29.492031",
     "geom:latitude":29.492031,
     "geom:longitude":-98.389513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5123 Village Path",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185985991,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1467084125,
     "wof:name":"Polysteel Forms Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.389513,29.492031,-98.389513,29.492031],
-  "geometry": {"coordinates":[-98.389513,29.492031],"type":"Point"}
+  "bbox": [
+    -98.389513,
+    29.492031,
+    -98.389513,
+    29.492031
+],
+  "geometry": {"coordinates":[-98.38951299999999,29.492031],"type":"Point"}
 }

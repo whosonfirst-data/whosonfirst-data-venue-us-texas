@@ -2,13 +2,14 @@
   "id": 236420025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.655505,33.020918,-96.655505,33.020918",
     "geom:latitude":33.020918,
     "geom:longitude":-96.655505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 18th St",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236420025,
-    "wof:lastmodified":1449003187,
+    "wof:lastmodified":1467083942,
     "wof:name":"Truth Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.655505,33.020918,-96.655505,33.020918],
-  "geometry": {"coordinates":[-96.655505,33.020918],"type":"Point"}
+  "bbox": [
+    -96.655505,
+    33.020918,
+    -96.655505,
+    33.020918
+],
+  "geometry": {"coordinates":[-96.65550500000001,33.020918],"type":"Point"}
 }

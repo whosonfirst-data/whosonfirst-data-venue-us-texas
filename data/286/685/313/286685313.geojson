@@ -2,13 +2,14 @@
   "id": 286685313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.723925,29.791781,-95.723925,29.791781",
     "geom:latitude":29.791781,
     "geom:longitude":-95.723925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Snake River Rd Ste. E",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":286685313,
-    "wof:lastmodified":1449018006,
+    "wof:lastmodified":1467084315,
     "wof:name":"TMS Center Of Texas",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.723925,29.791781,-95.723925,29.791781],
-  "geometry": {"coordinates":[-95.723925,29.791781],"type":"Point"}
+  "bbox": [
+    -95.723925,
+    29.791781,
+    -95.723925,
+    29.791781
+],
+  "geometry": {"coordinates":[-95.72392499999999,29.791781],"type":"Point"}
 }

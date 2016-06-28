@@ -2,13 +2,14 @@
   "id": 337433759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.089261,30.193219,-98.089261,30.193219",
     "geom:latitude":30.193219,
     "geom:longitude":-98.089261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Old Fitzhugh Rd",
     "sg:city":"Dripping Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337433759,
-    "wof:lastmodified":1449027031,
+    "wof:lastmodified":1467084427,
     "wof:name":"Dripping Springs School Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.089261,30.193219,-98.089261,30.193219],
-  "geometry": {"coordinates":[-98.089261,30.193219],"type":"Point"}
+  "bbox": [
+    -98.089261,
+    30.193219,
+    -98.089261,
+    30.193219
+],
+  "geometry": {"coordinates":[-98.08926099999999,30.193219],"type":"Point"}
 }

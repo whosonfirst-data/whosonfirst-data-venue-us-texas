@@ -2,13 +2,14 @@
   "id": 236781035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.458993,30.045731,-95.458993,30.045731",
     "geom:latitude":30.045731,
     "geom:longitude":-95.458993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Candleridge Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236781035,
-    "wof:lastmodified":1449002143,
+    "wof:lastmodified":1467083888,
     "wof:name":"Cache Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.458993,30.045731,-95.458993,30.045731],
-  "geometry": {"coordinates":[-95.458993,30.045731],"type":"Point"}
+  "bbox": [
+    -95.458993,
+    30.045731,
+    -95.458993,
+    30.045731
+],
+  "geometry": {"coordinates":[-95.45899300000001,30.045731],"type":"Point"}
 }

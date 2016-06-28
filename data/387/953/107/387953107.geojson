@@ -2,13 +2,14 @@
   "id": 387953107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.74249,32.394164,-99.74249,32.394164",
     "geom:latitude":32.394164,
     "geom:longitude":-99.74249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4648 S Treadaway Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387953107,
-    "wof:lastmodified":1449058732,
+    "wof:lastmodified":1467084852,
     "wof:name":"United House Calls",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-99.74249,32.394164,-99.74249,32.394164],
+  "bbox": [
+    -99.74249,
+    32.394164,
+    -99.74249,
+    32.394164
+],
   "geometry": {"coordinates":[-99.74249,32.394164],"type":"Point"}
 }

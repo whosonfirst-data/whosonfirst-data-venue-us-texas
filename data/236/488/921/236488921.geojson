@@ -2,13 +2,14 @@
   "id": 236488921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.134323,31.554471,-97.134323,31.554471",
     "geom:latitude":31.554471,
     "geom:longitude":-97.134323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Austin Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236488921,
-    "wof:lastmodified":1449005147,
+    "wof:lastmodified":1467084035,
     "wof:name":"Gossip Bench",
     "wof:parent_id":85881745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.134323,31.554471,-97.134323,31.554471],
-  "geometry": {"coordinates":[-97.134323,31.554471],"type":"Point"}
+  "bbox": [
+    -97.134323,
+    31.554471,
+    -97.134323,
+    31.554471
+],
+  "geometry": {"coordinates":[-97.13432299999999,31.554471],"type":"Point"}
 }

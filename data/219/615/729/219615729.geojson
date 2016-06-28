@@ -2,13 +2,14 @@
   "id": 219615729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.574908,30.716697,-95.574908,30.716697",
     "geom:latitude":30.716697,
     "geom:longitude":-95.574908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Financial Plz",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219615729,
-    "wof:lastmodified":1449071509,
+    "wof:lastmodified":1467085123,
     "wof:name":"Houston Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.574908,30.716697,-95.574908,30.716697],
-  "geometry": {"coordinates":[-95.574908,30.716697],"type":"Point"}
+  "bbox": [
+    -95.574908,
+    30.716697,
+    -95.574908,
+    30.716697
+],
+  "geometry": {"coordinates":[-95.57490799999999,30.716697],"type":"Point"}
 }

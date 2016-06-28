@@ -2,13 +2,14 @@
   "id": 303191389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.096718,29.99629,-98.096718,29.99629",
     "geom:latitude":29.99629,
     "geom:longitude":-98.096718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Wimberley Sq Ste 101A",
     "sg:city":"Wimberley",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303191389,
-    "wof:lastmodified":1448999601,
+    "wof:lastmodified":1467083766,
     "wof:name":"Wimberley Cafe",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "espresso"
     ]
 },
-  "bbox": [-98.096718,29.99629,-98.096718,29.99629],
+  "bbox": [
+    -98.096718,
+    29.99629,
+    -98.096718,
+    29.99629
+],
   "geometry": {"coordinates":[-98.096718,29.99629],"type":"Point"}
 }

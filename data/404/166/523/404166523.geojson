@@ -2,13 +2,14 @@
   "id": 404166523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.815811,30.376618,-97.815811,30.376618",
     "geom:latitude":30.376618,
     "geom:longitude":-97.815811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8511 Horseshoe Ledge",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404166523,
-    "wof:lastmodified":1449039807,
+    "wof:lastmodified":1467084651,
     "wof:name":"Double R Builders",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-97.815811,30.376618,-97.815811,30.376618],
+  "bbox": [
+    -97.815811,
+    30.376618,
+    -97.815811,
+    30.376618
+],
   "geometry": {"coordinates":[-97.815811,30.376618],"type":"Point"}
 }

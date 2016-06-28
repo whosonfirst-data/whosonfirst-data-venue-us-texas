@@ -2,13 +2,14 @@
   "id": 203303001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753526,33.015682,-96.753526,33.015682",
     "geom:latitude":33.015682,
     "geom:longitude":-96.753526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 Creekbend Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203303001,
-    "wof:lastmodified":1449024949,
+    "wof:lastmodified":1467084385,
     "wof:name":"UNI-Ram Corporation",
     "wof:parent_id":85879945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metalworking"
     ]
 },
-  "bbox": [-96.753526,33.015682,-96.753526,33.015682],
-  "geometry": {"coordinates":[-96.753526,33.015682],"type":"Point"}
+  "bbox": [
+    -96.753526,
+    33.015682,
+    -96.753526,
+    33.015682
+],
+  "geometry": {"coordinates":[-96.75352599999999,33.015682],"type":"Point"}
 }

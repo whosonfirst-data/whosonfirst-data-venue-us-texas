@@ -2,13 +2,14 @@
   "id": 370335931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.142361,29.638551,-95.142361,29.638551",
     "geom:latitude":29.638551,
     "geom:longitude":-95.142361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6334 Avenel Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370335931,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1467084525,
     "wof:name":"Deer Park Shopping Center",
     "wof:parent_id":85869217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.142361,29.638551,-95.142361,29.638551],
-  "geometry": {"coordinates":[-95.142361,29.638551],"type":"Point"}
+  "bbox": [
+    -95.142361,
+    29.638551,
+    -95.142361,
+    29.638551
+],
+  "geometry": {"coordinates":[-95.14236099999999,29.638551],"type":"Point"}
 }

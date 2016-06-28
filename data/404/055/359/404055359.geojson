@@ -2,13 +2,14 @@
   "id": 404055359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.791759,29.235004,-98.791759,29.235004",
     "geom:latitude":29.235004,
     "geom:longitude":-98.791759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14841 Main St",
     "sg:city":"Lytle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404055359,
-    "wof:lastmodified":1449039316,
+    "wof:lastmodified":1467084644,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.791759,29.235004,-98.791759,29.235004],
+  "bbox": [
+    -98.791759,
+    29.235004,
+    -98.791759,
+    29.235004
+],
   "geometry": {"coordinates":[-98.791759,29.235004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270499105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.552253,29.959909,-95.552253,29.959909",
     "geom:latitude":29.959909,
     "geom:longitude":-95.552253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8203 Willow Place Dr S # 150",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":270499105,
-    "wof:lastmodified":1449009092,
+    "wof:lastmodified":1467084165,
     "wof:name":"Elizabeth Jeter",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "counselor"
     ]
 },
-  "bbox": [-95.552253,29.959909,-95.552253,29.959909],
-  "geometry": {"coordinates":[-95.552253,29.959909],"type":"Point"}
+  "bbox": [
+    -95.552253,
+    29.959909,
+    -95.552253,
+    29.959909
+],
+  "geometry": {"coordinates":[-95.55225299999999,29.959909],"type":"Point"}
 }

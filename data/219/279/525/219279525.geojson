@@ -2,13 +2,14 @@
   "id": 219279525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.238605,32.87989,-97.238605,32.87989",
     "geom:latitude":32.87989,
     "geom:longitude":-97.238605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6641 Greenacres Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219279525,
-    "wof:lastmodified":1449072022,
+    "wof:lastmodified":1467085134,
     "wof:name":"Jobsite Services",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.238605,32.87989,-97.238605,32.87989],
-  "geometry": {"coordinates":[-97.238605,32.87989],"type":"Point"}
+  "bbox": [
+    -97.238605,
+    32.87989,
+    -97.238605,
+    32.87989
+],
+  "geometry": {"coordinates":[-97.23860500000001,32.87989],"type":"Point"}
 }

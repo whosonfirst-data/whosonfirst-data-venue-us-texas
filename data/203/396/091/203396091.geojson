@@ -2,13 +2,14 @@
   "id": 203396091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.854498,32.754756,-98.854498,32.754756",
     "geom:latitude":32.754756,
     "geom:longitude":-98.854498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2773 US Hwy 180",
     "sg:city":"Breckenridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203396091,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1467084409,
     "wof:name":"Hodges Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.854498,32.754756,-98.854498,32.754756],
-  "geometry": {"coordinates":[-98.854498,32.754756],"type":"Point"}
+  "bbox": [
+    -98.854498,
+    32.754756,
+    -98.854498,
+    32.754756
+],
+  "geometry": {"coordinates":[-98.85449800000001,32.754756],"type":"Point"}
 }

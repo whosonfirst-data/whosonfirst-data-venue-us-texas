@@ -2,13 +2,14 @@
   "id": 387083145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.88521,35.185353,-101.88521,35.185353",
     "geom:latitude":35.185353,
     "geom:longitude":-101.88521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4203 Olsen Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387083145,
-    "wof:lastmodified":1449057907,
+    "wof:lastmodified":1467084830,
     "wof:name":"Watson Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.88521,35.185353,-101.88521,35.185353],
+  "bbox": [
+    -101.88521,
+    35.185353,
+    -101.88521,
+    35.185353
+],
   "geometry": {"coordinates":[-101.88521,35.185353],"type":"Point"}
 }

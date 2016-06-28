@@ -2,13 +2,14 @@
   "id": 252738479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749091,30.28069,-97.749091,30.28069",
     "geom:latitude":30.28069,
     "geom:longitude":-97.749091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 16th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252738479,
-    "wof:lastmodified":1449006194,
+    "wof:lastmodified":1467084091,
     "wof:name":"Vision Team",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.749091,30.28069,-97.749091,30.28069],
-  "geometry": {"coordinates":[-97.749091,30.28069],"type":"Point"}
+  "bbox": [
+    -97.749091,
+    30.28069,
+    -97.749091,
+    30.28069
+],
+  "geometry": {"coordinates":[-97.74909100000001,30.28069],"type":"Point"}
 }

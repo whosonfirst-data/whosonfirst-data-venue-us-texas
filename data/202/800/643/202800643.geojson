@@ -2,13 +2,14 @@
   "id": 202800643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704638,32.897908,-96.704638,32.897908",
     "geom:latitude":32.897908,
     "geom:longitude":-96.704638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11035 Switzer Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202800643,
-    "wof:lastmodified":1449060317,
+    "wof:lastmodified":1467084892,
     "wof:name":"American Power Conversion Inc",
     "wof:parent_id":85870461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-96.704638,32.897908,-96.704638,32.897908],
+  "bbox": [
+    -96.704638,
+    32.897908,
+    -96.704638,
+    32.897908
+],
   "geometry": {"coordinates":[-96.704638,32.897908],"type":"Point"}
 }

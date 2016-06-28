@@ -2,13 +2,14 @@
   "id": 186409249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.150134,26.283327,-98.150134,26.283327",
     "geom:latitude":26.283327,
     "geom:longitude":-98.150134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 S 24th Ave",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186409249,
-    "wof:lastmodified":1449051477,
+    "wof:lastmodified":1467084714,
     "wof:name":"Tropical TX Ctr Mental Hlth",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mental"
     ]
 },
-  "bbox": [-98.150134,26.283327,-98.150134,26.283327],
-  "geometry": {"coordinates":[-98.150134,26.283327],"type":"Point"}
+  "bbox": [
+    -98.150134,
+    26.283327,
+    -98.150134,
+    26.283327
+],
+  "geometry": {"coordinates":[-98.15013399999999,26.283327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186405005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.365293,31.771968,-106.365293,31.771968",
     "geom:latitude":31.771968,
     "geom:longitude":-106.365293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9375 Viscount Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186405005,
-    "wof:lastmodified":1449052798,
+    "wof:lastmodified":1467084742,
     "wof:name":"Shadowridge Apartments",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.365293,31.771968,-106.365293,31.771968],
-  "geometry": {"coordinates":[-106.365293,31.771968],"type":"Point"}
+  "bbox": [
+    -106.365293,
+    31.771968,
+    -106.365293,
+    31.771968
+],
+  "geometry": {"coordinates":[-106.36529299999999,31.771968],"type":"Point"}
 }

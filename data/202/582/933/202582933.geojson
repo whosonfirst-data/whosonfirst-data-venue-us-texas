@@ -2,13 +2,14 @@
   "id": 202582933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.228721,32.238702,-95.228721,32.238702",
     "geom:latitude":32.238702,
     "geom:longitude":-95.228721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Walker St",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202582933,
-    "wof:lastmodified":1449061478,
+    "wof:lastmodified":1467084917,
     "wof:name":"Picture Perfect 2",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-95.228721,32.238702,-95.228721,32.238702],
-  "geometry": {"coordinates":[-95.228721,32.238702],"type":"Point"}
+  "bbox": [
+    -95.228721,
+    32.238702,
+    -95.228721,
+    32.238702
+],
+  "geometry": {"coordinates":[-95.22872099999999,32.238702],"type":"Point"}
 }

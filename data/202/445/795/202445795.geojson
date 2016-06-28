@@ -2,13 +2,14 @@
   "id": 202445795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.304039,26.200035,-98.304039,26.200035",
     "geom:latitude":26.200035,
     "geom:longitude":-98.304039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Stewart Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202445795,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1467084895,
     "wof:name":"Apartment Locators",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-98.304039,26.200035,-98.304039,26.200035],
+  "bbox": [
+    -98.304039,
+    26.200035,
+    -98.304039,
+    26.200035
+],
   "geometry": {"coordinates":[-98.304039,26.200035],"type":"Point"}
 }

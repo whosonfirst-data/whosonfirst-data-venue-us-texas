@@ -2,13 +2,14 @@
   "id": 219767605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.915748,32.645939,-96.915748,32.645939",
     "geom:latitude":32.645939,
     "geom:longitude":-96.915748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Wheatland Rd",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219767605,
-    "wof:lastmodified":1449071415,
+    "wof:lastmodified":1467085121,
     "wof:name":"Healthblocks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.915748,32.645939,-96.915748,32.645939],
-  "geometry": {"coordinates":[-96.915748,32.645939],"type":"Point"}
+  "bbox": [
+    -96.915748,
+    32.645939,
+    -96.915748,
+    32.645939
+],
+  "geometry": {"coordinates":[-96.91574799999999,32.645939],"type":"Point"}
 }

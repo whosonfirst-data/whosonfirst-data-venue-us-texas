@@ -2,13 +2,14 @@
   "id": 353890007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.342509,32.684736,-97.342509,32.684736",
     "geom:latitude":32.684736,
     "geom:longitude":-97.342509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Seminary Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353890007,
-    "wof:lastmodified":1449018830,
+    "wof:lastmodified":1467084334,
     "wof:name":"Mc Leland Tennis Ctr",
     "wof:parent_id":85871623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-97.342509,32.684736,-97.342509,32.684736],
-  "geometry": {"coordinates":[-97.342509,32.684736],"type":"Point"}
+  "bbox": [
+    -97.342509,
+    32.684736,
+    -97.342509,
+    32.684736
+],
+  "geometry": {"coordinates":[-97.34250900000001,32.684736],"type":"Point"}
 }

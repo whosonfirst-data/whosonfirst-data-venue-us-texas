@@ -2,13 +2,14 @@
   "id": 236389205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551483,29.799723,-95.551483,29.799723",
     "geom:latitude":29.799723,
     "geom:longitude":-95.551483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10303 Chatterton Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236389205,
-    "wof:lastmodified":1449004437,
+    "wof:lastmodified":1467084000,
     "wof:name":"CER Supply",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "purchasing"
     ]
 },
-  "bbox": [-95.551483,29.799723,-95.551483,29.799723],
+  "bbox": [
+    -95.551483,
+    29.799723,
+    -95.551483,
+    29.799723
+],
   "geometry": {"coordinates":[-95.551483,29.799723],"type":"Point"}
 }

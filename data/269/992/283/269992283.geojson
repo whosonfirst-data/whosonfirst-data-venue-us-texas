@@ -2,13 +2,14 @@
   "id": 269992283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.201219,29.791536,-95.201219,29.791536",
     "geom:latitude":29.791536,
     "geom:longitude":-95.201219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12655 Woodforest Blvd Ste 710",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269992283,
-    "wof:lastmodified":1449037264,
+    "wof:lastmodified":1467084602,
     "wof:name":"Lord's House Church",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.201219,29.791536,-95.201219,29.791536],
-  "geometry": {"coordinates":[-95.201219,29.791536],"type":"Point"}
+  "bbox": [
+    -95.201219,
+    29.791536,
+    -95.201219,
+    29.791536
+],
+  "geometry": {"coordinates":[-95.20121899999999,29.791536],"type":"Point"}
 }

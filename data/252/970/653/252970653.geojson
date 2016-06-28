@@ -2,13 +2,14 @@
   "id": 252970653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.694797,30.348329,-97.694797,30.348329",
     "geom:latitude":30.348329,
     "geom:longitude":-97.694797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Barwood Park",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252970653,
-    "wof:lastmodified":1449006483,
+    "wof:lastmodified":1467084107,
     "wof:name":"Webtastic Solutions",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.694797,30.348329,-97.694797,30.348329],
-  "geometry": {"coordinates":[-97.694797,30.348329],"type":"Point"}
+  "bbox": [
+    -97.694797,
+    30.348329,
+    -97.694797,
+    30.348329
+],
+  "geometry": {"coordinates":[-97.69479699999999,30.348329],"type":"Point"}
 }

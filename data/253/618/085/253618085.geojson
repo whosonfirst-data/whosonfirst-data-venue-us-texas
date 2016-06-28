@@ -2,13 +2,14 @@
   "id": 253618085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10783,32.761946,-97.10783,32.761946",
     "geom:latitude":32.761946,
     "geom:longitude":-97.10783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 E. Lamar Blvd Ste 110",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253618085,
-    "wof:lastmodified":1449064654,
+    "wof:lastmodified":1467085008,
     "wof:name":"Marrou Hagen & Adkins PC",
     "wof:parent_id":85897297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "taxes-consultants"
     ]
 },
-  "bbox": [-97.10783,32.761946,-97.10783,32.761946],
-  "geometry": {"coordinates":[-97.10783,32.761946],"type":"Point"}
+  "bbox": [
+    -97.10783,
+    32.761946,
+    -97.10783,
+    32.761946
+],
+  "geometry": {"coordinates":[-97.10783000000001,32.761946],"type":"Point"}
 }

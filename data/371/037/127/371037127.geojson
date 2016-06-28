@@ -2,13 +2,14 @@
   "id": 371037127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73839,32.973534,-96.73839,32.973534",
     "geom:latitude":32.973534,
     "geom:longitude":-96.73839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Cambridge Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371037127,
-    "wof:lastmodified":1449050165,
+    "wof:lastmodified":1467084691,
     "wof:name":"Homeinfo",
     "wof:parent_id":85880199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.73839,32.973534,-96.73839,32.973534],
+  "bbox": [
+    -96.73839,
+    32.973534,
+    -96.73839,
+    32.973534
+],
   "geometry": {"coordinates":[-96.73839,32.973534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236781255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59256,32.799312,-96.59256,32.799312",
     "geom:latitude":32.799312,
     "geom:longitude":-96.59256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Sunray Ln",
     "sg:city":"Sunnyvale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236781255,
-    "wof:lastmodified":1449002142,
+    "wof:lastmodified":1467083888,
     "wof:name":"V.L. Owens Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.59256,32.799312,-96.59256,32.799312],
-  "geometry": {"coordinates":[-96.59256,32.799312],"type":"Point"}
+  "bbox": [
+    -96.59256,
+    32.799312,
+    -96.59256,
+    32.799312
+],
+  "geometry": {"coordinates":[-96.59256000000001,32.799312],"type":"Point"}
 }

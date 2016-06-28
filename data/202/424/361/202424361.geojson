@@ -2,13 +2,14 @@
   "id": 202424361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.188116,29.590567,-95.188116,29.590567",
     "geom:latitude":29.590567,
     "geom:longitude":-95.188116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15255 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202424361,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1467084938,
     "wof:name":"Incredible Events",
     "wof:parent_id":85826449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-95.188116,29.590567,-95.188116,29.590567],
-  "geometry": {"coordinates":[-95.188116,29.590567],"type":"Point"}
+  "bbox": [
+    -95.188116,
+    29.590567,
+    -95.188116,
+    29.590567
+],
+  "geometry": {"coordinates":[-95.18811599999999,29.590567],"type":"Point"}
 }

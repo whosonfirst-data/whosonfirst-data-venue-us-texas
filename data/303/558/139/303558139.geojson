@@ -2,13 +2,14 @@
   "id": 303558139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711925,30.216013,-97.711925,30.216013",
     "geom:latitude":30.216013,
     "geom:longitude":-97.711925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 E Oltorf St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303558139,
-    "wof:lastmodified":1448998775,
+    "wof:lastmodified":1467083724,
     "wof:name":"Sam's Deli",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-97.711925,30.216013,-97.711925,30.216013],
-  "geometry": {"coordinates":[-97.711925,30.216013],"type":"Point"}
+  "bbox": [
+    -97.711925,
+    30.216013,
+    -97.711925,
+    30.216013
+],
+  "geometry": {"coordinates":[-97.71192499999999,30.216013],"type":"Point"}
 }

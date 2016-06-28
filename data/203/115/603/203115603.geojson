@@ -2,13 +2,14 @@
   "id": 203115603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.745374,32.782943,-96.745374,32.782943",
     "geom:latitude":32.782943,
     "geom:longitude":-96.745374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 S Haskell Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203115603,
-    "wof:lastmodified":1449024929,
+    "wof:lastmodified":1467084385,
     "wof:name":"Chavez Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-96.745374,32.782943,-96.745374,32.782943],
+  "bbox": [
+    -96.745374,
+    32.782943,
+    -96.745374,
+    32.782943
+],
   "geometry": {"coordinates":[-96.745374,32.782943],"type":"Point"}
 }

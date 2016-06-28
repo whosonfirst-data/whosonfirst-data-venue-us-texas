@@ -2,13 +2,14 @@
   "id": 269815981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371569,29.767327,-95.371569,29.767327",
     "geom:latitude":29.767327,
     "geom:longitude":-95.371569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Washington Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269815981,
-    "wof:lastmodified":1449037312,
+    "wof:lastmodified":1467084604,
     "wof:name":"Nancy's Taqueria",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.371569,29.767327,-95.371569,29.767327],
-  "geometry": {"coordinates":[-95.371569,29.767327],"type":"Point"}
+  "bbox": [
+    -95.371569,
+    29.767327,
+    -95.371569,
+    29.767327
+],
+  "geometry": {"coordinates":[-95.37156899999999,29.767327],"type":"Point"}
 }

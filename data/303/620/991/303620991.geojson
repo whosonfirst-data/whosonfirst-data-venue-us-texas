@@ -2,13 +2,14 @@
   "id": 303620991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.793832,30.260276,-97.793832,30.260276",
     "geom:latitude":30.260276,
     "geom:longitude":-97.793832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Keller Williams SWMC 1801 S Mopac Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303620991,
-    "wof:lastmodified":1449000354,
+    "wof:lastmodified":1467083802,
     "wof:name":"The Austin Real Estate Team",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.793832,30.260276,-97.793832,30.260276],
-  "geometry": {"coordinates":[-97.793832,30.260276],"type":"Point"}
+  "bbox": [
+    -97.793832,
+    30.260276,
+    -97.793832,
+    30.260276
+],
+  "geometry": {"coordinates":[-97.79383199999999,30.260276],"type":"Point"}
 }

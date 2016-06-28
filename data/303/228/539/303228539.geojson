@@ -2,13 +2,14 @@
   "id": 303228539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742201,30.27013,-97.742201,30.27013",
     "geom:latitude":30.27013,
     "geom:longitude":-97.742201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Congress Ave Ste 1410",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303228539,
-    "wof:lastmodified":1448998883,
+    "wof:lastmodified":1467083730,
     "wof:name":"Hotze Runkle PLLC",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.742201,30.27013,-97.742201,30.27013],
-  "geometry": {"coordinates":[-97.742201,30.27013],"type":"Point"}
+  "bbox": [
+    -97.742201,
+    30.27013,
+    -97.742201,
+    30.27013
+],
+  "geometry": {"coordinates":[-97.74220099999999,30.27013],"type":"Point"}
 }

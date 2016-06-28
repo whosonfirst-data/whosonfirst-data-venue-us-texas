@@ -2,13 +2,14 @@
   "id": 387108031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.849331,33.590053,-101.849331,33.590053",
     "geom:latitude":33.590053,
     "geom:longitude":-101.849331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 6th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387108031,
-    "wof:lastmodified":1449056184,
+    "wof:lastmodified":1467084786,
     "wof:name":"Watson Sysco Food Svc",
     "wof:parent_id":85878777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-101.849331,33.590053,-101.849331,33.590053],
-  "geometry": {"coordinates":[-101.849331,33.590053],"type":"Point"}
+  "bbox": [
+    -101.849331,
+    33.590053,
+    -101.849331,
+    33.590053
+],
+  "geometry": {"coordinates":[-101.84933100000001,33.590053],"type":"Point"}
 }

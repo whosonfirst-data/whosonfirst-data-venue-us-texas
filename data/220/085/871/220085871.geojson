@@ -2,13 +2,14 @@
   "id": 220085871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.149398,32.010689,-102.149398,32.010689",
     "geom:latitude":32.010689,
     "geom:longitude":-102.149398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4804 Preston Dr",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220085871,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1467085181,
     "wof:name":"Code Seven",
     "wof:parent_id":85893843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-102.149398,32.010689,-102.149398,32.010689],
-  "geometry": {"coordinates":[-102.149398,32.010689],"type":"Point"}
+  "bbox": [
+    -102.149398,
+    32.010689,
+    -102.149398,
+    32.010689
+],
+  "geometry": {"coordinates":[-102.14939800000001,32.010689],"type":"Point"}
 }

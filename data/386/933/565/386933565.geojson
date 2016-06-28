@@ -2,13 +2,14 @@
   "id": 386933565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.657587,32.837382,-96.657587,32.837382",
     "geom:latitude":32.837382,
     "geom:longitude":-96.657587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10838 Sharondale Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386933565,
-    "wof:lastmodified":1449028683,
+    "wof:lastmodified":1467084459,
     "wof:name":"Audrey Sennett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.657587,32.837382,-96.657587,32.837382],
-  "geometry": {"coordinates":[-96.657587,32.837382],"type":"Point"}
+  "bbox": [
+    -96.657587,
+    32.837382,
+    -96.657587,
+    32.837382
+],
+  "geometry": {"coordinates":[-96.65758700000001,32.837382],"type":"Point"}
 }

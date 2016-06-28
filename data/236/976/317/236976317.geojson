@@ -2,13 +2,14 @@
   "id": 236976317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.824596,32.828025,-96.824596,32.828025",
     "geom:latitude":32.828025,
     "geom:longitude":-96.824596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":236976317,
-    "wof:lastmodified":1449002935,
+    "wof:lastmodified":1467083930,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.824596,32.828025,-96.824596,32.828025],
+  "bbox": [
+    -96.824596,
+    32.828025,
+    -96.824596,
+    32.828025
+],
   "geometry": {"coordinates":[-96.824596,32.828025],"type":"Point"}
 }

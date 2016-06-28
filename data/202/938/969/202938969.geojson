@@ -2,13 +2,14 @@
   "id": 202938969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.672502,30.481036,-97.672502,30.481036",
     "geom:latitude":30.481036,
     "geom:longitude":-97.672502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Louis Henna Blvd",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202938969,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1467084927,
     "wof:name":"Stonehaven At Round Rock",
     "wof:parent_id":85893883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.672502,30.481036,-97.672502,30.481036],
-  "geometry": {"coordinates":[-97.672502,30.481036],"type":"Point"}
+  "bbox": [
+    -97.672502,
+    30.481036,
+    -97.672502,
+    30.481036
+],
+  "geometry": {"coordinates":[-97.67250199999999,30.481036],"type":"Point"}
 }

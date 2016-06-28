@@ -2,13 +2,14 @@
   "id": 303596159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.812183,30.205573,-97.812183,30.205573",
     "geom:latitude":30.205573,
     "geom:longitude":-97.812183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W William Cannon Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303596159,
-    "wof:lastmodified":1448999372,
+    "wof:lastmodified":1467083754,
     "wof:name":"CPM Ventech",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.812183,30.205573,-97.812183,30.205573],
+  "bbox": [
+    -97.812183,
+    30.205573,
+    -97.812183,
+    30.205573
+],
   "geometry": {"coordinates":[-97.812183,30.205573],"type":"Point"}
 }

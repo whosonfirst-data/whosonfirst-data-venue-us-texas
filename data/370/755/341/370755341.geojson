@@ -2,13 +2,14 @@
   "id": 370755341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.420263,32.545558,-95.420263,32.545558",
     "geom:latitude":32.545558,
     "geom:longitude":-95.420263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19375 US Hwy 69",
     "sg:city":"Lindale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370755341,
-    "wof:lastmodified":1449030066,
+    "wof:lastmodified":1467084493,
     "wof:name":"Veteran of Foreign War",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.420263,32.545558,-95.420263,32.545558],
-  "geometry": {"coordinates":[-95.420263,32.545558],"type":"Point"}
+  "bbox": [
+    -95.420263,
+    32.545558,
+    -95.420263,
+    32.545558
+],
+  "geometry": {"coordinates":[-95.42026300000001,32.545558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252736719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.886052,32.778839,-96.886052,32.778839",
     "geom:latitude":32.778839,
     "geom:longitude":-96.886052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252736719,
-    "wof:lastmodified":1449006487,
+    "wof:lastmodified":1467084107,
     "wof:name":"Dupre Logistics",
     "wof:parent_id":85882353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "provider"
     ]
 },
-  "bbox": [-96.886052,32.778839,-96.886052,32.778839],
-  "geometry": {"coordinates":[-96.886052,32.778839],"type":"Point"}
+  "bbox": [
+    -96.886052,
+    32.778839,
+    -96.886052,
+    32.778839
+],
+  "geometry": {"coordinates":[-96.88605200000001,32.778839],"type":"Point"}
 }

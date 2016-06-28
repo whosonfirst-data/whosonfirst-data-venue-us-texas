@@ -2,13 +2,14 @@
   "id": 387118581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.945534,32.449239,-96.945534,32.449239",
     "geom:latitude":32.449239,
     "geom:longitude":-96.945534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3061 Plainview Rd",
     "sg:city":"Midlothian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387118581,
-    "wof:lastmodified":1449059189,
+    "wof:lastmodified":1467084863,
     "wof:name":"Cks Maintenance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.945534,32.449239,-96.945534,32.449239],
-  "geometry": {"coordinates":[-96.945534,32.449239],"type":"Point"}
+  "bbox": [
+    -96.945534,
+    32.449239,
+    -96.945534,
+    32.449239
+],
+  "geometry": {"coordinates":[-96.94553399999999,32.449239],"type":"Point"}
 }

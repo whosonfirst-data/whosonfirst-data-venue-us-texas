@@ -2,13 +2,14 @@
   "id": 287095037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.753347,29.79806,-98.753347,29.79806",
     "geom:latitude":29.79806,
     "geom:longitude":-98.753347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Becker Ln",
     "sg:city":"Boerne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287095037,
-    "wof:lastmodified":1449001112,
+    "wof:lastmodified":1467083833,
     "wof:name":"Graham's Body & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.753347,29.79806,-98.753347,29.79806],
-  "geometry": {"coordinates":[-98.753347,29.79806],"type":"Point"}
+  "bbox": [
+    -98.753347,
+    29.79806,
+    -98.753347,
+    29.79806
+],
+  "geometry": {"coordinates":[-98.75334700000001,29.79806],"type":"Point"}
 }

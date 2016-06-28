@@ -2,13 +2,14 @@
   "id": 219721197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.498632,29.731786,-95.498632,29.731786",
     "geom:latitude":29.731786,
     "geom:longitude":-95.498632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6430 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219721197,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1467085174,
     "wof:name":"Houston Education Assn",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-95.498632,29.731786,-95.498632,29.731786],
+  "bbox": [
+    -95.498632,
+    29.731786,
+    -95.498632,
+    29.731786
+],
   "geometry": {"coordinates":[-95.498632,29.731786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303772607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725169,30.353389,-97.725169,30.353389",
     "geom:latitude":30.353389,
     "geom:longitude":-97.725169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 W Anderson Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -95,10 +96,11 @@
         }
     ],
     "wof:id":303772607,
-    "wof:lastmodified":1448999215,
+    "wof:lastmodified":1467083746,
     "wof:name":"Longhorn Automotive",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -119,6 +121,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.725169,30.353389,-97.725169,30.353389],
-  "geometry": {"coordinates":[-97.725169,30.353389],"type":"Point"}
+  "bbox": [
+    -97.725169,
+    30.353389,
+    -97.725169,
+    30.353389
+],
+  "geometry": {"coordinates":[-97.72516899999999,30.353389],"type":"Point"}
 }

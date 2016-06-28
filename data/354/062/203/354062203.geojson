@@ -2,13 +2,14 @@
   "id": 354062203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.361087,32.505471,-94.361087,32.505471",
     "geom:latitude":32.505471,
     "geom:longitude":-94.361087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 S Washington Ave",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354062203,
-    "wof:lastmodified":1449067553,
+    "wof:lastmodified":1467085091,
     "wof:name":"A-1 Septic Tank Cleaning Svc",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-94.361087,32.505471,-94.361087,32.505471],
+  "bbox": [
+    -94.361087,
+    32.505471,
+    -94.361087,
+    32.505471
+],
   "geometry": {"coordinates":[-94.361087,32.505471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236228473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.616245,32.948175,-96.616245,32.948175",
     "geom:latitude":32.948175,
     "geom:longitude":-96.616245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 N President George Bush Hwy",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236228473,
-    "wof:lastmodified":1449002520,
+    "wof:lastmodified":1467083910,
     "wof:name":"Buffalo Wild Wings",
     "wof:parent_id":85877697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-96.616245,32.948175,-96.616245,32.948175],
-  "geometry": {"coordinates":[-96.616245,32.948175],"type":"Point"}
+  "bbox": [
+    -96.616245,
+    32.948175,
+    -96.616245,
+    32.948175
+],
+  "geometry": {"coordinates":[-96.61624500000001,32.948175],"type":"Point"}
 }

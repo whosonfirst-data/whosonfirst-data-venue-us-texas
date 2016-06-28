@@ -2,13 +2,14 @@
   "id": 303815129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747466,30.393179,-97.747466,30.393179",
     "geom:latitude":30.393179,
     "geom:longitude":-97.747466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12636 Research Blvd Ste A102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303815129,
-    "wof:lastmodified":1448999304,
+    "wof:lastmodified":1467083751,
     "wof:name":"Club Realm",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "venue"
     ]
 },
-  "bbox": [-97.747466,30.393179,-97.747466,30.393179],
+  "bbox": [
+    -97.747466,
+    30.393179,
+    -97.747466,
+    30.393179
+],
   "geometry": {"coordinates":[-97.747466,30.393179],"type":"Point"}
 }

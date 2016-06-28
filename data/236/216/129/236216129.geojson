@@ -2,13 +2,14 @@
   "id": 236216129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645113,32.94478,-96.645113,32.94478",
     "geom:latitude":32.94478,
     "geom:longitude":-96.645113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Belt Line Rd Ste 12",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236216129,
-    "wof:lastmodified":1449004794,
+    "wof:lastmodified":1467084017,
     "wof:name":"Home Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.645113,32.94478,-96.645113,32.94478],
-  "geometry": {"coordinates":[-96.645113,32.94478],"type":"Point"}
+  "bbox": [
+    -96.645113,
+    32.94478,
+    -96.645113,
+    32.94478
+],
+  "geometry": {"coordinates":[-96.64511299999999,32.94478],"type":"Point"}
 }

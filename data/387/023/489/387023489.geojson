@@ -2,13 +2,14 @@
   "id": 387023489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053908,32.80195,-97.053908,32.80195",
     "geom:latitude":32.80195,
     "geom:longitude":-97.053908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 N State Hwy 360",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387023489,
-    "wof:lastmodified":1449059546,
+    "wof:lastmodified":1467084873,
     "wof:name":"Pharma Fab",
     "wof:parent_id":85851835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-97.053908,32.80195,-97.053908,32.80195],
-  "geometry": {"coordinates":[-97.053908,32.80195],"type":"Point"}
+  "bbox": [
+    -97.053908,
+    32.80195,
+    -97.053908,
+    32.80195
+],
+  "geometry": {"coordinates":[-97.05390800000001,32.80195],"type":"Point"}
 }

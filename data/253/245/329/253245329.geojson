@@ -2,13 +2,14 @@
   "id": 253245329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.966248,32.649976,-96.966248,32.649976",
     "geom:latitude":32.649976,
     "geom:longitude":-96.966248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6102 Mountain Creek Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253245329,
-    "wof:lastmodified":1449065701,
+    "wof:lastmodified":1467085043,
     "wof:name":"Public Library",
     "wof:parent_id":85870473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.966248,32.649976,-96.966248,32.649976],
-  "geometry": {"coordinates":[-96.966248,32.649976],"type":"Point"}
+  "bbox": [
+    -96.966248,
+    32.649976,
+    -96.966248,
+    32.649976
+],
+  "geometry": {"coordinates":[-96.96624799999999,32.649976],"type":"Point"}
 }

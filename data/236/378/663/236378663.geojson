@@ -2,13 +2,14 @@
   "id": 236378663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.496687,28.718629,-100.496687,28.718629",
     "geom:latitude":28.718629,
     "geom:longitude":-100.496687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Ave D",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236378663,
-    "wof:lastmodified":1449003960,
+    "wof:lastmodified":1467083978,
     "wof:name":"Fedex Trade Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "customs"
     ]
 },
-  "bbox": [-100.496687,28.718629,-100.496687,28.718629],
-  "geometry": {"coordinates":[-100.496687,28.718629],"type":"Point"}
+  "bbox": [
+    -100.496687,
+    28.718629,
+    -100.496687,
+    28.718629
+],
+  "geometry": {"coordinates":[-100.49668699999999,28.718629],"type":"Point"}
 }

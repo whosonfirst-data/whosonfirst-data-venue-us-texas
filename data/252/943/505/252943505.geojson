@@ -2,13 +2,14 @@
   "id": 252943505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331977,32.755775,-97.331977,32.755775",
     "geom:latitude":32.755775,
     "geom:longitude":-97.331977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252943505,
-    "wof:lastmodified":1449005711,
+    "wof:lastmodified":1467084065,
     "wof:name":"Mortgage Solutions Inc",
     "wof:parent_id":85897401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-97.331977,32.755775,-97.331977,32.755775],
-  "geometry": {"coordinates":[-97.331977,32.755775],"type":"Point"}
+  "bbox": [
+    -97.331977,
+    32.755775,
+    -97.331977,
+    32.755775
+],
+  "geometry": {"coordinates":[-97.33197699999999,32.755775],"type":"Point"}
 }

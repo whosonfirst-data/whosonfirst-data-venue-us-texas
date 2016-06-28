@@ -2,13 +2,14 @@
   "id": 303465521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.755051,30.323459,-97.755051,30.323459",
     "geom:latitude":30.323459,
     "geom:longitude":-97.755051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4603 Highland Ter",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303465521,
-    "wof:lastmodified":1448999763,
+    "wof:lastmodified":1467083774,
     "wof:name":"Any Occasion",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.755051,30.323459,-97.755051,30.323459],
-  "geometry": {"coordinates":[-97.755051,30.323459],"type":"Point"}
+  "bbox": [
+    -97.755051,
+    30.323459,
+    -97.755051,
+    30.323459
+],
+  "geometry": {"coordinates":[-97.75505099999999,30.323459],"type":"Point"}
 }

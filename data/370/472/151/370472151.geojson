@@ -2,13 +2,14 @@
   "id": 370472151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.349958,32.960897,-97.349958,32.960897",
     "geom:latitude":32.960897,
     "geom:longitude":-97.349958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1097 School House Rd",
     "sg:city":"Haslet",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370472151,
-    "wof:lastmodified":1449029347,
+    "wof:lastmodified":1467084475,
     "wof:name":"US Post Office",
     "wof:parent_id":85897369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.349958,32.960897,-97.349958,32.960897],
+  "bbox": [
+    -97.349958,
+    32.960897,
+    -97.349958,
+    32.960897
+],
   "geometry": {"coordinates":[-97.349958,32.960897],"type":"Point"}
 }

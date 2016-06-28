@@ -2,13 +2,14 @@
   "id": 303792675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.723608,30.384922,-97.723608,30.384922",
     "geom:latitude":30.384922,
     "geom:longitude":-97.723608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10025 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303792675,
-    "wof:lastmodified":1448998638,
+    "wof:lastmodified":1467083717,
     "wof:name":"Gatti's Great Pizza",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-97.723608,30.384922,-97.723608,30.384922],
+  "bbox": [
+    -97.723608,
+    30.384922,
+    -97.723608,
+    30.384922
+],
   "geometry": {"coordinates":[-97.723608,30.384922],"type":"Point"}
 }

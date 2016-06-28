@@ -2,13 +2,14 @@
   "id": 303098737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.829019,30.520739,-97.829019,30.520739",
     "geom:latitude":30.520739,
     "geom:longitude":-97.829019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Whitestone Blvd Ste 148",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303098737,
-    "wof:lastmodified":1449000309,
+    "wof:lastmodified":1467083800,
     "wof:name":"My Pad My Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-97.829019,30.520739,-97.829019,30.520739],
+  "bbox": [
+    -97.829019,
+    30.520739,
+    -97.829019,
+    30.520739
+],
   "geometry": {"coordinates":[-97.829019,30.520739],"type":"Point"}
 }

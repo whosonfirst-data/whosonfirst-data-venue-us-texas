@@ -2,13 +2,14 @@
   "id": 202764623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.497256,29.723378,-95.497256,29.723378",
     "geom:latitude":29.723378,
     "geom:longitude":-95.497256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Westpark Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202764623,
-    "wof:lastmodified":1449062531,
+    "wof:lastmodified":1467084938,
     "wof:name":"Electronic Service Depot",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-95.497256,29.723378,-95.497256,29.723378],
-  "geometry": {"coordinates":[-95.497256,29.723378],"type":"Point"}
+  "bbox": [
+    -95.497256,
+    29.723378,
+    -95.497256,
+    29.723378
+],
+  "geometry": {"coordinates":[-95.49725599999999,29.723378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269849697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.36518,29.757453,-95.36518,29.757453",
     "geom:latitude":29.757453,
     "geom:longitude":-95.36518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269849697,
-    "wof:lastmodified":1449036584,
+    "wof:lastmodified":1467084584,
     "wof:name":"Tony's Mediterranean Grill",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mediterranean"
     ]
 },
-  "bbox": [-95.36518,29.757453,-95.36518,29.757453],
+  "bbox": [
+    -95.36518,
+    29.757453,
+    -95.36518,
+    29.757453
+],
   "geometry": {"coordinates":[-95.36518,29.757453],"type":"Point"}
 }

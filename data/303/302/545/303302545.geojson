@@ -2,13 +2,14 @@
   "id": 303302545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753758,30.304364,-97.753758,30.304364",
     "geom:latitude":30.304364,
     "geom:longitude":-97.753758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W 32nd Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303302545,
-    "wof:lastmodified":1448998941,
+    "wof:lastmodified":1467083733,
     "wof:name":"Tree Tops Learning Center",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-97.753758,30.304364,-97.753758,30.304364],
+  "bbox": [
+    -97.753758,
+    30.304364,
+    -97.753758,
+    30.304364
+],
   "geometry": {"coordinates":[-97.753758,30.304364],"type":"Point"}
 }

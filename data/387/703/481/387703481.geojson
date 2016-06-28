@@ -2,13 +2,14 @@
   "id": 387703481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.49554,28.713718,-100.49554,28.713718",
     "geom:latitude":28.713718,
     "geom:longitude":-100.49554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Medina St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387703481,
-    "wof:lastmodified":1449057256,
+    "wof:lastmodified":1467084813,
     "wof:name":"Mr Payroll 237",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-100.49554,28.713718,-100.49554,28.713718],
-  "geometry": {"coordinates":[-100.49554,28.713718],"type":"Point"}
+  "bbox": [
+    -100.49554,
+    28.713718,
+    -100.49554,
+    28.713718
+],
+  "geometry": {"coordinates":[-100.49554000000001,28.713718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370989211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749953,32.798859,-96.749953,32.798859",
     "geom:latitude":32.798859,
     "geom:longitude":-96.749953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Parkview Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370989211,
-    "wof:lastmodified":1449031577,
+    "wof:lastmodified":1467084532,
     "wof:name":"Parkview Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.749953,32.798859,-96.749953,32.798859],
+  "bbox": [
+    -96.749953,
+    32.798859,
+    -96.749953,
+    32.798859
+],
   "geometry": {"coordinates":[-96.749953,32.798859],"type":"Point"}
 }

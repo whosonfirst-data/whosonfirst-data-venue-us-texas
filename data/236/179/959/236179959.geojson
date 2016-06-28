@@ -2,13 +2,14 @@
   "id": 236179959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86817,33.159431,-96.86817,33.159431",
     "geom:latitude":33.159431,
     "geom:longitude":-96.86817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9778 la Mesa Dr",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236179959,
-    "wof:lastmodified":1449004840,
+    "wof:lastmodified":1467084019,
     "wof:name":"Jeff Snowden",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.86817,33.159431,-96.86817,33.159431],
-  "geometry": {"coordinates":[-96.86817,33.159431],"type":"Point"}
+  "bbox": [
+    -96.86817,
+    33.159431,
+    -96.86817,
+    33.159431
+],
+  "geometry": {"coordinates":[-96.86817000000001,33.159431],"type":"Point"}
 }

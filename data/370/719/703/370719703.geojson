@@ -2,13 +2,14 @@
   "id": 370719703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.747397,35.22208,-101.747397,35.22208",
     "geom:latitude":35.22208,
     "geom:longitude":-101.747397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8113 Triangle Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370719703,
-    "wof:lastmodified":1449029530,
+    "wof:lastmodified":1467084480,
     "wof:name":"West Texas Tree & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-101.747397,35.22208,-101.747397,35.22208],
-  "geometry": {"coordinates":[-101.747397,35.22208],"type":"Point"}
+  "bbox": [
+    -101.747397,
+    35.22208,
+    -101.747397,
+    35.22208
+],
+  "geometry": {"coordinates":[-101.74739700000001,35.22208],"type":"Point"}
 }

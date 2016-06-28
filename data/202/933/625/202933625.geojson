@@ -2,13 +2,14 @@
   "id": 202933625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.432208,32.010651,-96.432208,32.010651",
     "geom:latitude":32.010651,
     "geom:longitude":-96.432208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Furrh St",
     "sg:city":"Corsicana",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202933625,
-    "wof:lastmodified":1449060636,
+    "wof:lastmodified":1467084899,
     "wof:name":"Mustang Volunteer Fire Dept",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rescue"
     ]
 },
-  "bbox": [-96.432208,32.010651,-96.432208,32.010651],
+  "bbox": [
+    -96.432208,
+    32.010651,
+    -96.432208,
+    32.010651
+],
   "geometry": {"coordinates":[-96.432208,32.010651],"type":"Point"}
 }

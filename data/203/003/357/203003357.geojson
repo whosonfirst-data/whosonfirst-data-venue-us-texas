@@ -2,13 +2,14 @@
   "id": 203003357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560018,29.800219,-95.560018,29.800219",
     "geom:latitude":29.800219,
     "geom:longitude":-95.560018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10688 Haddington Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203003357,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1467084418,
     "wof:name":"International Foundation",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seismograph"
     ]
 },
-  "bbox": [-95.560018,29.800219,-95.560018,29.800219],
+  "bbox": [
+    -95.560018,
+    29.800219,
+    -95.560018,
+    29.800219
+],
   "geometry": {"coordinates":[-95.560018,29.800219],"type":"Point"}
 }

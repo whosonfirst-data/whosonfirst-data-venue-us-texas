@@ -2,13 +2,14 @@
   "id": 236416975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.461339,31.794765,-106.461339,31.794765",
     "geom:latitude":31.794765,
     "geom:longitude":-106.461339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 N Piedras St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236416975,
-    "wof:lastmodified":1449003077,
+    "wof:lastmodified":1467083936,
     "wof:name":"House Of Pizza",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-106.461339,31.794765,-106.461339,31.794765],
+  "bbox": [
+    -106.461339,
+    31.794765,
+    -106.461339,
+    31.794765
+],
   "geometry": {"coordinates":[-106.461339,31.794765],"type":"Point"}
 }

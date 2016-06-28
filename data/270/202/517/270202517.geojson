@@ -2,13 +2,14 @@
   "id": 270202517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.193567,29.593949,-95.193567,29.593949",
     "geom:latitude":29.593949,
     "geom:longitude":-95.193567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14200 Gulf Fwy Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270202517,
-    "wof:lastmodified":1449010771,
+    "wof:lastmodified":1467084220,
     "wof:name":"Wells Fargo",
     "wof:parent_id":85893781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.193567,29.593949,-95.193567,29.593949],
+  "bbox": [
+    -95.193567,
+    29.593949,
+    -95.193567,
+    29.593949
+],
   "geometry": {"coordinates":[-95.193567,29.593949],"type":"Point"}
 }

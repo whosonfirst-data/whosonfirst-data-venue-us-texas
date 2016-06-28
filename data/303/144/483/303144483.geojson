@@ -2,13 +2,14 @@
   "id": 303144483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.846528,29.960959,-97.846528,29.960959",
     "geom:latitude":29.960959,
     "geom:longitude":-97.846528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Valruth Cir",
     "sg:city":"Kyle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303144483,
-    "wof:lastmodified":1448999907,
+    "wof:lastmodified":1467083781,
     "wof:name":"Star Billing Services",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-97.846528,29.960959,-97.846528,29.960959],
-  "geometry": {"coordinates":[-97.846528,29.960959],"type":"Point"}
+  "bbox": [
+    -97.846528,
+    29.960959,
+    -97.846528,
+    29.960959
+],
+  "geometry": {"coordinates":[-97.84652800000001,29.960959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270444765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.107029,29.577139,-95.107029,29.577139",
     "geom:latitude":29.577139,
     "geom:longitude":-95.107029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Bay Area Blvd # 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270444765,
-    "wof:lastmodified":1449010751,
+    "wof:lastmodified":1467084220,
     "wof:name":"Kai",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [-95.107029,29.577139,-95.107029,29.577139],
+  "bbox": [
+    -95.107029,
+    29.577139,
+    -95.107029,
+    29.577139
+],
   "geometry": {"coordinates":[-95.107029,29.577139],"type":"Point"}
 }

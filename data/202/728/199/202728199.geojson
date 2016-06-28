@@ -2,13 +2,14 @@
   "id": 202728199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545241,29.807927,-95.545241,29.807927",
     "geom:latitude":29.807927,
     "geom:longitude":-95.545241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Gessner Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202728199,
-    "wof:lastmodified":1449060697,
+    "wof:lastmodified":1467084900,
     "wof:name":"Center Individual Language",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.545241,29.807927,-95.545241,29.807927],
+  "bbox": [
+    -95.545241,
+    29.807927,
+    -95.545241,
+    29.807927
+],
   "geometry": {"coordinates":[-95.545241,29.807927],"type":"Point"}
 }

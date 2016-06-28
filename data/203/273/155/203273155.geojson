@@ -2,13 +2,14 @@
   "id": 203273155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.933603,29.694973,-98.933603,29.694973",
     "geom:latitude":29.694973,
     "geom:longitude":-98.933603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Oakridge Ln",
     "sg:city":"Pipe Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203273155,
-    "wof:lastmodified":1449025915,
+    "wof:lastmodified":1467084403,
     "wof:name":"John Towers Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sewer"
     ]
 },
-  "bbox": [-98.933603,29.694973,-98.933603,29.694973],
-  "geometry": {"coordinates":[-98.933603,29.694973],"type":"Point"}
+  "bbox": [
+    -98.933603,
+    29.694973,
+    -98.933603,
+    29.694973
+],
+  "geometry": {"coordinates":[-98.93360300000001,29.694973],"type":"Point"}
 }

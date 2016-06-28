@@ -2,13 +2,14 @@
   "id": 354040475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476594,29.724024,-95.476594,29.724024",
     "geom:latitude":29.724024,
     "geom:longitude":-95.476594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 Chimney Rock Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354040475,
-    "wof:lastmodified":1449067633,
+    "wof:lastmodified":1467085093,
     "wof:name":"Mauricios Express",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.476594,29.724024,-95.476594,29.724024],
-  "geometry": {"coordinates":[-95.476594,29.724024],"type":"Point"}
+  "bbox": [
+    -95.476594,
+    29.724024,
+    -95.476594,
+    29.724024
+],
+  "geometry": {"coordinates":[-95.47659400000001,29.724024],"type":"Point"}
 }

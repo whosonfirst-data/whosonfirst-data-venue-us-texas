@@ -2,13 +2,14 @@
   "id": 354045993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.169517,26.210022,-98.169517,26.210022",
     "geom:latitude":26.210022,
     "geom:longitude":-98.169517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Ferguson Ave",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354045993,
-    "wof:lastmodified":1449067474,
+    "wof:lastmodified":1467085089,
     "wof:name":"Alvarado Car Wash",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-98.169517,26.210022,-98.169517,26.210022],
+  "bbox": [
+    -98.169517,
+    26.210022,
+    -98.169517,
+    26.210022
+],
   "geometry": {"coordinates":[-98.169517,26.210022],"type":"Point"}
 }

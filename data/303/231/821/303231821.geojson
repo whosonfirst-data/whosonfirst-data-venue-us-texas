@@ -2,13 +2,14 @@
   "id": 303231821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744213,30.278749,-97.744213,30.278749",
     "geom:latitude":30.278749,
     "geom:longitude":-97.744213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 San Antonio St Suite 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303231821,
-    "wof:lastmodified":1448999369,
+    "wof:lastmodified":1467083754,
     "wof:name":"Guajardo & Guajardo",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744213,30.278749,-97.744213,30.278749],
+  "bbox": [
+    -97.744213,
+    30.278749,
+    -97.744213,
+    30.278749
+],
   "geometry": {"coordinates":[-97.744213,30.278749],"type":"Point"}
 }

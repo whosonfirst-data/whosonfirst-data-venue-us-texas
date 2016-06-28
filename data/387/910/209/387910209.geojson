@@ -2,13 +2,14 @@
   "id": 387910209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.50123,29.683273,-98.50123,29.683273",
     "geom:latitude":29.683273,
     "geom:longitude":-98.50123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Ceremonial Ridge",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387910209,
-    "wof:lastmodified":1449057693,
+    "wof:lastmodified":1467084825,
     "wof:name":"Memory Lane Gifts",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.50123,29.683273,-98.50123,29.683273],
-  "geometry": {"coordinates":[-98.50123,29.683273],"type":"Point"}
+  "bbox": [
+    -98.50123,
+    29.683273,
+    -98.50123,
+    29.683273
+],
+  "geometry": {"coordinates":[-98.50123000000001,29.683273],"type":"Point"}
 }

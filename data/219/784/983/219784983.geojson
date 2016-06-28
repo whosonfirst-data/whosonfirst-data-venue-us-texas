@@ -2,13 +2,14 @@
   "id": 219784983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.155148,29.28378,-97.155148,29.28378",
     "geom:latitude":29.28378,
     "geom:longitude":-97.155148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Huck St",
     "sg:city":"Yoakum",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219784983,
-    "wof:lastmodified":1449072745,
+    "wof:lastmodified":1467085149,
     "wof:name":"Texas Transportation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "transportation"
     ]
 },
-  "bbox": [-97.155148,29.28378,-97.155148,29.28378],
+  "bbox": [
+    -97.155148,
+    29.28378,
+    -97.155148,
+    29.28378
+],
   "geometry": {"coordinates":[-97.155148,29.28378],"type":"Point"}
 }

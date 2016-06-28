@@ -2,13 +2,14 @@
   "id": 304068365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.544181,32.319263,-102.544181,32.319263",
     "geom:latitude":32.319263,
     "geom:longitude":-102.544181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Broadway St",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":304068365,
-    "wof:lastmodified":1449043871,
+    "wof:lastmodified":1467084665,
     "wof:name":"Andrews Builders Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "store"
     ]
 },
-  "bbox": [-102.544181,32.319263,-102.544181,32.319263],
-  "geometry": {"coordinates":[-102.544181,32.319263],"type":"Point"}
+  "bbox": [
+    -102.544181,
+    32.319263,
+    -102.544181,
+    32.319263
+],
+  "geometry": {"coordinates":[-102.54418099999999,32.319263],"type":"Point"}
 }

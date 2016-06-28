@@ -2,13 +2,14 @@
   "id": 303759821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737699,30.324817,-97.737699,30.324817",
     "geom:latitude":30.324817,
     "geom:longitude":-97.737699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 W. North Loop Blvd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":303759821,
-    "wof:lastmodified":1449000602,
+    "wof:lastmodified":1467083815,
     "wof:name":"Healing Therapies",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.737699,30.324817,-97.737699,30.324817],
-  "geometry": {"coordinates":[-97.737699,30.324817],"type":"Point"}
+  "bbox": [
+    -97.737699,
+    30.324817,
+    -97.737699,
+    30.324817
+],
+  "geometry": {"coordinates":[-97.73769900000001,30.324817],"type":"Point"}
 }

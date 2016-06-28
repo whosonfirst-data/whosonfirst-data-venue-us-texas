@@ -2,13 +2,14 @@
   "id": 203078005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.373038,29.592932,-98.373038,29.592932",
     "geom:latitude":29.592932,
     "geom:longitude":-98.373038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5963 Oak Run St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203078005,
-    "wof:lastmodified":1449026555,
+    "wof:lastmodified":1467084415,
     "wof:name":"Teague & Assoc",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.373038,29.592932,-98.373038,29.592932],
-  "geometry": {"coordinates":[-98.373038,29.592932],"type":"Point"}
+  "bbox": [
+    -98.373038,
+    29.592932,
+    -98.373038,
+    29.592932
+],
+  "geometry": {"coordinates":[-98.37303799999999,29.592932],"type":"Point"}
 }

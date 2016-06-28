@@ -2,13 +2,14 @@
   "id": 202384357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.411346,32.856553,-97.411346,32.856553",
     "geom:latitude":32.856553,
     "geom:longitude":-97.411346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6521 Bob Hanger St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202384357,
-    "wof:lastmodified":1449060418,
+    "wof:lastmodified":1467084894,
     "wof:name":"E B Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.411346,32.856553,-97.411346,32.856553],
-  "geometry": {"coordinates":[-97.411346,32.856553],"type":"Point"}
+  "bbox": [
+    -97.411346,
+    32.856553,
+    -97.411346,
+    32.856553
+],
+  "geometry": {"coordinates":[-97.41134599999999,32.856553],"type":"Point"}
 }

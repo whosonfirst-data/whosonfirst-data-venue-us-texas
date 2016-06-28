@@ -2,13 +2,14 @@
   "id": 252731175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891327,32.749605,-96.891327,32.749605",
     "geom:latitude":32.749605,
     "geom:longitude":-96.891327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"I-30 and N Cockrell Hill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252731175,
-    "wof:lastmodified":1449006391,
+    "wof:lastmodified":1467084102,
     "wof:name":"Wingstop",
     "wof:parent_id":85811623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wing"
     ]
 },
-  "bbox": [-96.891327,32.749605,-96.891327,32.749605],
+  "bbox": [
+    -96.891327,
+    32.749605,
+    -96.891327,
+    32.749605
+],
   "geometry": {"coordinates":[-96.891327,32.749605],"type":"Point"}
 }

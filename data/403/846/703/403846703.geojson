@@ -2,13 +2,14 @@
   "id": 403846703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.564372,29.527968,-98.564372,29.527968",
     "geom:latitude":29.527968,
     "geom:longitude":-98.564372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9650 Data Point Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":403846703,
-    "wof:lastmodified":1449055671,
+    "wof:lastmodified":1467084774,
     "wof:name":"Changing Surface Inc",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.564372,29.527968,-98.564372,29.527968],
-  "geometry": {"coordinates":[-98.564372,29.527968],"type":"Point"}
+  "bbox": [
+    -98.564372,
+    29.527968,
+    -98.564372,
+    29.527968
+],
+  "geometry": {"coordinates":[-98.56437200000001,29.527968],"type":"Point"}
 }

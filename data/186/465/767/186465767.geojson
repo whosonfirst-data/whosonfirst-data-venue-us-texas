@@ -2,13 +2,14 @@
   "id": 186465767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.339916,31.749841,-106.339916,31.749841",
     "geom:latitude":31.749841,
     "geom:longitude":-106.339916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10767 Gateway Blvd W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186465767,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1467084729,
     "wof:name":"Alcoa",
     "wof:parent_id":85823417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.339916,31.749841,-106.339916,31.749841],
+  "bbox": [
+    -106.339916,
+    31.749841,
+    -106.339916,
+    31.749841
+],
   "geometry": {"coordinates":[-106.339916,31.749841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286364427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473503,29.8596,-95.473503,29.8596",
     "geom:latitude":29.8596,
     "geom:longitude":-95.473503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6405 Antoine Dr Ste 15",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286364427,
-    "wof:lastmodified":1449016831,
+    "wof:lastmodified":1467084282,
     "wof:name":"Shrimp Island",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.473503,29.8596,-95.473503,29.8596],
-  "geometry": {"coordinates":[-95.473503,29.8596],"type":"Point"}
+  "bbox": [
+    -95.473503,
+    29.8596,
+    -95.473503,
+    29.8596
+],
+  "geometry": {"coordinates":[-95.47350299999999,29.8596],"type":"Point"}
 }

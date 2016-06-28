@@ -2,13 +2,14 @@
   "id": 287252079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.219299,26.187331,-98.219299,26.187331",
     "geom:latitude":26.187331,
     "geom:longitude":-98.219299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Expressway 83",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":287252079,
-    "wof:lastmodified":1449000777,
+    "wof:lastmodified":1467083821,
     "wof:name":"PetSmart",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "store"
     ]
 },
-  "bbox": [-98.219299,26.187331,-98.219299,26.187331],
-  "geometry": {"coordinates":[-98.219299,26.187331],"type":"Point"}
+  "bbox": [
+    -98.219299,
+    26.187331,
+    -98.219299,
+    26.187331
+],
+  "geometry": {"coordinates":[-98.21929900000001,26.187331],"type":"Point"}
 }

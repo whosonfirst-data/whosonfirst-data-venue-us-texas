@@ -2,13 +2,14 @@
   "id": 303983485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.643114,33.439023,-101.643114,33.439023",
     "geom:latitude":33.439023,
     "geom:longitude":-101.643114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 N 8th St",
     "sg:city":"Slaton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303983485,
-    "wof:lastmodified":1449000360,
+    "wof:lastmodified":1467083802,
     "wof:name":"Slaton Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.643114,33.439023,-101.643114,33.439023],
+  "bbox": [
+    -101.643114,
+    33.439023,
+    -101.643114,
+    33.439023
+],
   "geometry": {"coordinates":[-101.643114,33.439023],"type":"Point"}
 }

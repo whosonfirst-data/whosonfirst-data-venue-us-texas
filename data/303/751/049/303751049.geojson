@@ -2,13 +2,14 @@
   "id": 303751049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.658605,30.369999,-97.658605,30.369999",
     "geom:latitude":30.369999,
     "geom:longitude":-97.658605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10621 Pioneer Farms Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303751049,
-    "wof:lastmodified":1448998258,
+    "wof:lastmodified":1467083698,
     "wof:name":"Pioneer Farms",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "local"
     ]
 },
-  "bbox": [-97.658605,30.369999,-97.658605,30.369999],
-  "geometry": {"coordinates":[-97.658605,30.369999],"type":"Point"}
+  "bbox": [
+    -97.658605,
+    30.369999,
+    -97.658605,
+    30.369999
+],
+  "geometry": {"coordinates":[-97.65860499999999,30.369999],"type":"Point"}
 }

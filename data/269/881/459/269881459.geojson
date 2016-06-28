@@ -2,13 +2,14 @@
   "id": 269881459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.350502,29.725201,-95.350502,29.725201",
     "geom:latitude":29.725201,
     "geom:longitude":-95.350502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3432 Scott St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269881459,
-    "wof:lastmodified":1449037542,
+    "wof:lastmodified":1467084610,
     "wof:name":"Popeyes Famous Fried Chicken",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.350502,29.725201,-95.350502,29.725201],
-  "geometry": {"coordinates":[-95.350502,29.725201],"type":"Point"}
+  "bbox": [
+    -95.350502,
+    29.725201,
+    -95.350502,
+    29.725201
+],
+  "geometry": {"coordinates":[-95.35050200000001,29.725201],"type":"Point"}
 }

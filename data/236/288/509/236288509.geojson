@@ -2,13 +2,14 @@
   "id": 236288509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.637729,29.899675,-95.637729,29.899675",
     "geom:latitude":29.899675,
     "geom:longitude":-95.637729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15310 Glenwood Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236288509,
-    "wof:lastmodified":1449001935,
+    "wof:lastmodified":1467083873,
     "wof:name":"Houston Hgc",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.637729,29.899675,-95.637729,29.899675],
-  "geometry": {"coordinates":[-95.637729,29.899675],"type":"Point"}
+  "bbox": [
+    -95.637729,
+    29.899675,
+    -95.637729,
+    29.899675
+],
+  "geometry": {"coordinates":[-95.63772899999999,29.899675],"type":"Point"}
 }

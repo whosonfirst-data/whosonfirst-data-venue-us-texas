@@ -2,13 +2,14 @@
   "id": 203320895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.327505,30.15091,-95.327505,30.15091",
     "geom:latitude":30.15091,
     "geom:longitude":-95.327505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20562 Lakeside Dr",
     "sg:city":"Porter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203320895,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1467084393,
     "wof:name":"Thompson's Welding Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.327505,30.15091,-95.327505,30.15091],
+  "bbox": [
+    -95.327505,
+    30.15091,
+    -95.327505,
+    30.15091
+],
   "geometry": {"coordinates":[-95.327505,30.15091],"type":"Point"}
 }

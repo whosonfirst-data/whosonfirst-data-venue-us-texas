@@ -2,13 +2,14 @@
   "id": 303327559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760774,30.250368,-97.760774,30.250368",
     "geom:latitude":30.250368,
     "geom:longitude":-97.760774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 S 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303327559,
-    "wof:lastmodified":1448998306,
+    "wof:lastmodified":1467083701,
     "wof:name":"DMX Inc",
     "wof:parent_id":85893501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "composer"
     ]
 },
-  "bbox": [-97.760774,30.250368,-97.760774,30.250368],
+  "bbox": [
+    -97.760774,
+    30.250368,
+    -97.760774,
+    30.250368
+],
   "geometry": {"coordinates":[-97.760774,30.250368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387361001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.388035,29.804076,-95.388035,29.804076",
     "geom:latitude":29.804076,
     "geom:longitude":-95.388035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Cavalcade St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":387361001,
-    "wof:lastmodified":1449058882,
+    "wof:lastmodified":1467084855,
     "wof:name":"Izaguirez On Time Bus Service",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.388035,29.804076,-95.388035,29.804076],
+  "bbox": [
+    -95.388035,
+    29.804076,
+    -95.388035,
+    29.804076
+],
   "geometry": {"coordinates":[-95.388035,29.804076],"type":"Point"}
 }

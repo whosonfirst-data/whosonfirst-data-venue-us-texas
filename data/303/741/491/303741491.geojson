@@ -2,13 +2,14 @@
   "id": 303741491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.710213,30.349825,-97.710213,30.349825",
     "geom:latitude":30.349825,
     "geom:longitude":-97.710213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8079 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303741491,
-    "wof:lastmodified":1448998250,
+    "wof:lastmodified":1467083698,
     "wof:name":"Electro Data Inc",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.710213,30.349825,-97.710213,30.349825],
+  "bbox": [
+    -97.710213,
+    30.349825,
+    -97.710213,
+    30.349825
+],
   "geometry": {"coordinates":[-97.710213,30.349825],"type":"Point"}
 }

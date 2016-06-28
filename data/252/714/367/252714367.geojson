@@ -2,13 +2,14 @@
   "id": 252714367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.091468,30.078201,-94.091468,30.078201",
     "geom:latitude":30.078201,
     "geom:longitude":-94.091468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Main St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252714367,
-    "wof:lastmodified":1449005948,
+    "wof:lastmodified":1467084077,
     "wof:name":"Keystone Shipping Co",
     "wof:parent_id":85859499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-94.091468,30.078201,-94.091468,30.078201],
-  "geometry": {"coordinates":[-94.091468,30.078201],"type":"Point"}
+  "bbox": [
+    -94.091468,
+    30.078201,
+    -94.091468,
+    30.078201
+],
+  "geometry": {"coordinates":[-94.09146800000001,30.078201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202612605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.173049,29.849472,-98.173049,29.849472",
     "geom:latitude":29.849472,
     "geom:longitude":-98.173049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 FM 2673",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202612605,
-    "wof:lastmodified":1449061244,
+    "wof:lastmodified":1467084912,
     "wof:name":"Terry Mc Ginnis Tax CPA",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.173049,29.849472,-98.173049,29.849472],
-  "geometry": {"coordinates":[-98.173049,29.849472],"type":"Point"}
+  "bbox": [
+    -98.173049,
+    29.849472,
+    -98.173049,
+    29.849472
+],
+  "geometry": {"coordinates":[-98.17304900000001,29.849472],"type":"Point"}
 }

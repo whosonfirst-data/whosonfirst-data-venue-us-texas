@@ -2,13 +2,14 @@
   "id": 203169793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.58123,29.725155,-95.58123,29.725155",
     "geom:latitude":29.725155,
     "geom:longitude":-95.58123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11627 Noblewood Crest Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203169793,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1467084406,
     "wof:name":"Horticultural Services Inc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "grounds"
     ]
 },
-  "bbox": [-95.58123,29.725155,-95.58123,29.725155],
-  "geometry": {"coordinates":[-95.58123,29.725155],"type":"Point"}
+  "bbox": [
+    -95.58123,
+    29.725155,
+    -95.58123,
+    29.725155
+],
+  "geometry": {"coordinates":[-95.58123000000001,29.725155],"type":"Point"}
 }

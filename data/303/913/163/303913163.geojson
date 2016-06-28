@@ -2,13 +2,14 @@
   "id": 303913163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.724572,34.19399,-101.724572,34.19399",
     "geom:latitude":34.19399,
     "geom:longitude":-101.724572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Quincy St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":303913163,
-    "wof:lastmodified":1448999063,
+    "wof:lastmodified":1467083739,
     "wof:name":"The Rose Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "flowers"
     ]
 },
-  "bbox": [-101.724572,34.19399,-101.724572,34.19399],
-  "geometry": {"coordinates":[-101.724572,34.19399],"type":"Point"}
+  "bbox": [
+    -101.724572,
+    34.19399,
+    -101.724572,
+    34.19399
+],
+  "geometry": {"coordinates":[-101.72457199999999,34.19399],"type":"Point"}
 }

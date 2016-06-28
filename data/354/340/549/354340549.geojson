@@ -2,13 +2,14 @@
   "id": 354340549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.381627,30.065115,-95.381627,30.065115",
     "geom:latitude":30.065115,
     "geom:longitude":-95.381627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Brown Hill Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354340549,
-    "wof:lastmodified":1449067250,
+    "wof:lastmodified":1467085083,
     "wof:name":"Bobs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.381627,30.065115,-95.381627,30.065115],
-  "geometry": {"coordinates":[-95.381627,30.065115],"type":"Point"}
+  "bbox": [
+    -95.381627,
+    30.065115,
+    -95.381627,
+    30.065115
+],
+  "geometry": {"coordinates":[-95.38162699999999,30.065115],"type":"Point"}
 }

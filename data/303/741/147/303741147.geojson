@@ -2,13 +2,14 @@
   "id": 303741147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.704332,30.344244,-97.704332,30.344244",
     "geom:latitude":30.344244,
     "geom:longitude":-97.704332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 East Anderson Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303741147,
-    "wof:lastmodified":1448998252,
+    "wof:lastmodified":1467083698,
     "wof:name":"Classic Soft Trim",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.704332,30.344244,-97.704332,30.344244],
-  "geometry": {"coordinates":[-97.704332,30.344244],"type":"Point"}
+  "bbox": [
+    -97.704332,
+    30.344244,
+    -97.704332,
+    30.344244
+],
+  "geometry": {"coordinates":[-97.70433199999999,30.344244],"type":"Point"}
 }

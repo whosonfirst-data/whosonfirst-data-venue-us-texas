@@ -2,13 +2,14 @@
   "id": 404179301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455025,29.754504,-95.455025,29.754504",
     "geom:latitude":29.754504,
     "geom:longitude":-95.455025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 W Loop Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404179301,
-    "wof:lastmodified":1449040207,
+    "wof:lastmodified":1467084658,
     "wof:name":"Baker & O'Brien Inc",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.455025,29.754504,-95.455025,29.754504],
-  "geometry": {"coordinates":[-95.455025,29.754504],"type":"Point"}
+  "bbox": [
+    -95.455025,
+    29.754504,
+    -95.455025,
+    29.754504
+],
+  "geometry": {"coordinates":[-95.45502500000001,29.754504],"type":"Point"}
 }

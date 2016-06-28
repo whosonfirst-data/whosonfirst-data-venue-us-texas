@@ -2,13 +2,14 @@
   "id": 220192555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121986,31.578395,-97.121986,31.578395",
     "geom:latitude":31.578395,
     "geom:longitude":-97.121986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 E Waco Dr",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220192555,
-    "wof:lastmodified":1449074620,
+    "wof:lastmodified":1467085190,
     "wof:name":"T J's Used Cars",
     "wof:parent_id":85881747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.121986,31.578395,-97.121986,31.578395],
-  "geometry": {"coordinates":[-97.121986,31.578395],"type":"Point"}
+  "bbox": [
+    -97.121986,
+    31.578395,
+    -97.121986,
+    31.578395
+],
+  "geometry": {"coordinates":[-97.12198600000001,31.578395],"type":"Point"}
 }

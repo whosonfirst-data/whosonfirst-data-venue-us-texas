@@ -2,13 +2,14 @@
   "id": 236858209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625192,31.904597,-106.625192,31.904597",
     "geom:latitude":31.904597,
     "geom:longitude":-106.625192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6881 Westside Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236858209,
-    "wof:lastmodified":1449001919,
+    "wof:lastmodified":1467083872,
     "wof:name":"Crate-All",
     "wof:parent_id":85882363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crating"
     ]
 },
-  "bbox": [-106.625192,31.904597,-106.625192,31.904597],
+  "bbox": [
+    -106.625192,
+    31.904597,
+    -106.625192,
+    31.904597
+],
   "geometry": {"coordinates":[-106.625192,31.904597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202919675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.638545,32.767509,-96.638545,32.767509",
     "geom:latitude":32.767509,
     "geom:longitude":-96.638545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Darien Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202919675,
-    "wof:lastmodified":1449062035,
+    "wof:lastmodified":1467084928,
     "wof:name":"Pete's Booth",
     "wof:parent_id":85878913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.638545,32.767509,-96.638545,32.767509],
-  "geometry": {"coordinates":[-96.638545,32.767509],"type":"Point"}
+  "bbox": [
+    -96.638545,
+    32.767509,
+    -96.638545,
+    32.767509
+],
+  "geometry": {"coordinates":[-96.63854499999999,32.767509],"type":"Point"}
 }

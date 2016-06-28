@@ -2,13 +2,14 @@
   "id": 270040505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.350607,29.701941,-95.350607,29.701941",
     "geom:latitude":29.701941,
     "geom:longitude":-95.350607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Griggs Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270040505,
-    "wof:lastmodified":1449011063,
+    "wof:lastmodified":1467084230,
     "wof:name":"DAV Thrift Store",
     "wof:parent_id":85845065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.350607,29.701941,-95.350607,29.701941],
+  "bbox": [
+    -95.350607,
+    29.701941,
+    -95.350607,
+    29.701941
+],
   "geometry": {"coordinates":[-95.350607,29.701941],"type":"Point"}
 }

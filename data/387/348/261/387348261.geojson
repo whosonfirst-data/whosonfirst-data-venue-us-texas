@@ -2,13 +2,14 @@
   "id": 387348261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495505,25.901294,-97.495505,25.901294",
     "geom:latitude":25.901294,
     "geom:longitude":-97.495505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 E Adams St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387348261,
-    "wof:lastmodified":1449056280,
+    "wof:lastmodified":1467084788,
     "wof:name":"Lopez Supermarket",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.495505,25.901294,-97.495505,25.901294],
-  "geometry": {"coordinates":[-97.495505,25.901294],"type":"Point"}
+  "bbox": [
+    -97.495505,
+    25.901294,
+    -97.495505,
+    25.901294
+],
+  "geometry": {"coordinates":[-97.49550499999999,25.901294],"type":"Point"}
 }

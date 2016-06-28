@@ -2,13 +2,14 @@
   "id": 387682829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.353519,29.689838,-95.353519,29.689838",
     "geom:latitude":29.689838,
     "geom:longitude":-95.353519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6718 Cullen Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387682829,
-    "wof:lastmodified":1449056764,
+    "wof:lastmodified":1467084801,
     "wof:name":"Cullen Medical Supply",
     "wof:parent_id":85869677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.353519,29.689838,-95.353519,29.689838],
-  "geometry": {"coordinates":[-95.353519,29.689838],"type":"Point"}
+  "bbox": [
+    -95.353519,
+    29.689838,
+    -95.353519,
+    29.689838
+],
+  "geometry": {"coordinates":[-95.35351900000001,29.689838],"type":"Point"}
 }

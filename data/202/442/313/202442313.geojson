@@ -2,13 +2,14 @@
   "id": 202442313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.610012,29.457761,-98.610012,29.457761",
     "geom:latitude":29.457761,
     "geom:longitude":-98.610012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Oak Hill Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202442313,
-    "wof:lastmodified":1449061234,
+    "wof:lastmodified":1467084911,
     "wof:name":"Bell Tower Apartments",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.610012,29.457761,-98.610012,29.457761],
+  "bbox": [
+    -98.610012,
+    29.457761,
+    -98.610012,
+    29.457761
+],
   "geometry": {"coordinates":[-98.610012,29.457761],"type":"Point"}
 }

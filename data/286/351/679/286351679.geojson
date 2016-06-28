@@ -2,13 +2,14 @@
   "id": 286351679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.22392,29.592742,-95.22392,29.592742",
     "geom:latitude":29.592742,
     "geom:longitude":-95.22392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12050 1/2 Beamer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286351679,
-    "wof:lastmodified":1449017670,
+    "wof:lastmodified":1467084306,
     "wof:name":"Handi Stop 83",
     "wof:parent_id":85869665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.22392,29.592742,-95.22392,29.592742],
-  "geometry": {"coordinates":[-95.22392,29.592742],"type":"Point"}
+  "bbox": [
+    -95.22392,
+    29.592742,
+    -95.22392,
+    29.592742
+],
+  "geometry": {"coordinates":[-95.22392000000001,29.592742],"type":"Point"}
 }

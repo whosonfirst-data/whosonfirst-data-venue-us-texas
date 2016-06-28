@@ -2,13 +2,14 @@
   "id": 219985925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.361937,32.618924,-97.361937,32.618924",
     "geom:latitude":32.618924,
     "geom:longitude":-97.361937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8425 Vicksburg Ln",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219985925,
-    "wof:lastmodified":1449072130,
+    "wof:lastmodified":1467085136,
     "wof:name":"FFE Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.361937,32.618924,-97.361937,32.618924],
+  "bbox": [
+    -97.361937,
+    32.618924,
+    -97.361937,
+    32.618924
+],
   "geometry": {"coordinates":[-97.361937,32.618924],"type":"Point"}
 }

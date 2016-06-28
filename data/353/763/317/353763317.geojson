@@ -2,13 +2,14 @@
   "id": 353763317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.160476,32.911539,-97.160476,32.911539",
     "geom:latitude":32.911539,
     "geom:longitude":-97.160476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 John McCain Rd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353763317,
-    "wof:lastmodified":1449020784,
+    "wof:lastmodified":1467084375,
     "wof:name":"Simple Simon Software",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.160476,32.911539,-97.160476,32.911539],
+  "bbox": [
+    -97.160476,
+    32.911539,
+    -97.160476,
+    32.911539
+],
   "geometry": {"coordinates":[-97.160476,32.911539],"type":"Point"}
 }

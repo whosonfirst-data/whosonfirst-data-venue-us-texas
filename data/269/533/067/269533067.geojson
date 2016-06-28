@@ -2,13 +2,14 @@
   "id": 269533067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.262627,32.870621,-97.262627,32.870621",
     "geom:latitude":32.870621,
     "geom:longitude":-97.262627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 Denton Hwy",
     "sg:city":"Watauga",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":269533067,
-    "wof:lastmodified":1449036117,
+    "wof:lastmodified":1467084570,
     "wof:name":"Pet Haven",
     "wof:parent_id":85871627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cat"
     ]
 },
-  "bbox": [-97.262627,32.870621,-97.262627,32.870621],
-  "geometry": {"coordinates":[-97.262627,32.870621],"type":"Point"}
+  "bbox": [
+    -97.262627,
+    32.870621,
+    -97.262627,
+    32.870621
+],
+  "geometry": {"coordinates":[-97.26262699999999,32.870621],"type":"Point"}
 }

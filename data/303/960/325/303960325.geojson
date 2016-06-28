@@ -2,13 +2,14 @@
   "id": 303960325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.852785,33.826328,-101.852785,33.826328",
     "geom:latitude":33.826328,
     "geom:longitude":-101.852785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 3rd St",
     "sg:city":"Abernathy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303960325,
-    "wof:lastmodified":1448999875,
+    "wof:lastmodified":1467083779,
     "wof:name":"Savannahpark Of Abernathy",
     "wof:parent_id":85878809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-101.852785,33.826328,-101.852785,33.826328],
+  "bbox": [
+    -101.852785,
+    33.826328,
+    -101.852785,
+    33.826328
+],
   "geometry": {"coordinates":[-101.852785,33.826328],"type":"Point"}
 }

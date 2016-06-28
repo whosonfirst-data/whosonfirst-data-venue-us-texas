@@ -2,13 +2,14 @@
   "id": 253121909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805478,32.925627,-96.805478,32.925627",
     "geom:latitude":32.925627,
     "geom:longitude":-96.805478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Lyndon B Johnson Fwy Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253121909,
-    "wof:lastmodified":1449065107,
+    "wof:lastmodified":1467085024,
     "wof:name":"Claycomb & Associates Inc",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805478,32.925627,-96.805478,32.925627],
-  "geometry": {"coordinates":[-96.805478,32.925627],"type":"Point"}
+  "bbox": [
+    -96.805478,
+    32.925627,
+    -96.805478,
+    32.925627
+],
+  "geometry": {"coordinates":[-96.80547799999999,32.925627],"type":"Point"}
 }

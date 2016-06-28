@@ -2,13 +2,14 @@
   "id": 404007501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.252302,32.929902,-97.252302,32.929902",
     "geom:latitude":32.929902,
     "geom:longitude":-97.252302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Pecan St",
     "sg:city":"Keller",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404007501,
-    "wof:lastmodified":1449040105,
+    "wof:lastmodified":1467084656,
     "wof:name":"Celebration",
     "wof:parent_id":85897409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.252302,32.929902,-97.252302,32.929902],
+  "bbox": [
+    -97.252302,
+    32.929902,
+    -97.252302,
+    32.929902
+],
   "geometry": {"coordinates":[-97.252302,32.929902],"type":"Point"}
 }

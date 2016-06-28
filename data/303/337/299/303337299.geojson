@@ -2,13 +2,14 @@
   "id": 303337299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.783921,30.242462,-97.783921,30.242462",
     "geom:latitude":30.242462,
     "geom:longitude":-97.783921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 S Lamar Blvd Ste 240",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303337299,
-    "wof:lastmodified":1448999263,
+    "wof:lastmodified":1467083749,
     "wof:name":"Edward Jones",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.783921,30.242462,-97.783921,30.242462],
-  "geometry": {"coordinates":[-97.783921,30.242462],"type":"Point"}
+  "bbox": [
+    -97.783921,
+    30.242462,
+    -97.783921,
+    30.242462
+],
+  "geometry": {"coordinates":[-97.78392100000001,30.242462],"type":"Point"}
 }

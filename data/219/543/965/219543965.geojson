@@ -2,13 +2,14 @@
   "id": 219543965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.123293,32.738861,-97.123293,32.738861",
     "geom:latitude":32.738861,
     "geom:longitude":-97.123293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 W Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219543965,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1467085114,
     "wof:name":"Super Import Inc",
     "wof:parent_id":85873087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.123293,32.738861,-97.123293,32.738861],
+  "bbox": [
+    -97.123293,
+    32.738861,
+    -97.123293,
+    32.738861
+],
   "geometry": {"coordinates":[-97.123293,32.738861],"type":"Point"}
 }

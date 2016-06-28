@@ -2,13 +2,14 @@
   "id": 403943473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718223,32.92531,-96.718223,32.92531",
     "geom:latitude":32.92531,
     "geom:longitude":-96.718223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13005 Audelia Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403943473,
-    "wof:lastmodified":1449054998,
+    "wof:lastmodified":1467084758,
     "wof:name":"Cornet Corner",
     "wof:parent_id":85897329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.718223,32.92531,-96.718223,32.92531],
-  "geometry": {"coordinates":[-96.718223,32.92531],"type":"Point"}
+  "bbox": [
+    -96.718223,
+    32.92531,
+    -96.718223,
+    32.92531
+],
+  "geometry": {"coordinates":[-96.71822299999999,32.92531],"type":"Point"}
 }

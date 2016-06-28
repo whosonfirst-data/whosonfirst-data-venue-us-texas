@@ -2,13 +2,14 @@
   "id": 403902551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.378247,31.769845,-106.378247,31.769845",
     "geom:latitude":31.769845,
     "geom:longitude":-106.378247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 Commerce Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403902551,
-    "wof:lastmodified":1449055598,
+    "wof:lastmodified":1467084772,
     "wof:name":"KELP",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-106.378247,31.769845,-106.378247,31.769845],
+  "bbox": [
+    -106.378247,
+    31.769845,
+    -106.378247,
+    31.769845
+],
   "geometry": {"coordinates":[-106.378247,31.769845],"type":"Point"}
 }

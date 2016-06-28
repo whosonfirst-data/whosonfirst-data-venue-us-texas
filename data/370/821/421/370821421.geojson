@@ -2,13 +2,14 @@
   "id": 370821421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.47713,27.459669,-99.47713,27.459669",
     "geom:latitude":27.459669,
     "geom:longitude":-99.47713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 S Zapata Hwy",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370821421,
-    "wof:lastmodified":1449030912,
+    "wof:lastmodified":1467084515,
     "wof:name":"Laredo South Station",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.47713,27.459669,-99.47713,27.459669],
+  "bbox": [
+    -99.47713,
+    27.459669,
+    -99.47713,
+    27.459669
+],
   "geometry": {"coordinates":[-99.47713,27.459669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286559381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51954,30.023352,-95.51954,30.023352",
     "geom:latitude":30.023352,
     "geom:longitude":-95.51954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6975 Louetta Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":286559381,
-    "wof:lastmodified":1449017484,
+    "wof:lastmodified":1467084300,
     "wof:name":"Just Brakes - Brake Services",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "service-equipment"
     ]
 },
-  "bbox": [-95.51954,30.023352,-95.51954,30.023352],
-  "geometry": {"coordinates":[-95.51954,30.023352],"type":"Point"}
+  "bbox": [
+    -95.51954,
+    30.023352,
+    -95.51954,
+    30.023352
+],
+  "geometry": {"coordinates":[-95.51954000000001,30.023352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270250111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399803,29.902399,-95.399803,29.902399",
     "geom:latitude":29.902399,
     "geom:longitude":-95.399803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Aldine Mail Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270250111,
-    "wof:lastmodified":1449010055,
+    "wof:lastmodified":1467084197,
     "wof:name":"Airline Kar Diagnosis",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.399803,29.902399,-95.399803,29.902399],
-  "geometry": {"coordinates":[-95.399803,29.902399],"type":"Point"}
+  "bbox": [
+    -95.399803,
+    29.902399,
+    -95.399803,
+    29.902399
+],
+  "geometry": {"coordinates":[-95.39980300000001,29.902399],"type":"Point"}
 }

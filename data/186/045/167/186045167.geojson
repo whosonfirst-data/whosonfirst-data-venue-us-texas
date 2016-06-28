@@ -2,13 +2,14 @@
   "id": 186045167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.504123,29.37029,-98.504123,29.37029",
     "geom:latitude":29.37029,
     "geom:longitude":-98.504123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Pleasanton Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186045167,
-    "wof:lastmodified":1449052706,
+    "wof:lastmodified":1467084740,
     "wof:name":"Saved By Grace Gospel Church",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.504123,29.37029,-98.504123,29.37029],
-  "geometry": {"coordinates":[-98.504123,29.37029],"type":"Point"}
+  "bbox": [
+    -98.504123,
+    29.37029,
+    -98.504123,
+    29.37029
+],
+  "geometry": {"coordinates":[-98.50412300000001,29.37029],"type":"Point"}
 }

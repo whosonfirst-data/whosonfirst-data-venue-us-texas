@@ -2,13 +2,14 @@
   "id": 236897999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.794375,32.836591,-96.794375,32.836591",
     "geom:latitude":32.836591,
     "geom:longitude":-96.794375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3718 Mockingbird Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236897999,
-    "wof:lastmodified":1449004607,
+    "wof:lastmodified":1467084008,
     "wof:name":"Towing In Dallas",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-96.794375,32.836591,-96.794375,32.836591],
+  "bbox": [
+    -96.794375,
+    32.836591,
+    -96.794375,
+    32.836591
+],
   "geometry": {"coordinates":[-96.794375,32.836591],"type":"Point"}
 }

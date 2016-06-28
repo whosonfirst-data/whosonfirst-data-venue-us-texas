@@ -2,13 +2,14 @@
   "id": 236858091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800903,32.779499,-96.800903,32.779499",
     "geom:latitude":32.779499,
     "geom:longitude":-96.800903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Commerce St Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236858091,
-    "wof:lastmodified":1449001917,
+    "wof:lastmodified":1467083872,
     "wof:name":"Dallas Telco Federal Credit Union",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.800903,32.779499,-96.800903,32.779499],
-  "geometry": {"coordinates":[-96.800903,32.779499],"type":"Point"}
+  "bbox": [
+    -96.800903,
+    32.779499,
+    -96.800903,
+    32.779499
+],
+  "geometry": {"coordinates":[-96.80090300000001,32.779499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404100455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.51421,29.541232,-98.51421,29.541232",
     "geom:latitude":29.541232,
     "geom:longitude":-98.51421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11111 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404100455,
-    "wof:lastmodified":1449040003,
+    "wof:lastmodified":1467084654,
     "wof:name":"Option Transmission Parts",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-98.51421,29.541232,-98.51421,29.541232],
-  "geometry": {"coordinates":[-98.51421,29.541232],"type":"Point"}
+  "bbox": [
+    -98.51421,
+    29.541232,
+    -98.51421,
+    29.541232
+],
+  "geometry": {"coordinates":[-98.51421000000001,29.541232],"type":"Point"}
 }

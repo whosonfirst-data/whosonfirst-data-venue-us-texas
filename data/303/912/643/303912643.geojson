@@ -2,13 +2,14 @@
   "id": 303912643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.74389,34.188463,-101.74389,34.188463",
     "geom:latitude":34.188463,
     "geom:longitude":-101.74389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Holliday St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303912643,
-    "wof:lastmodified":1448999324,
+    "wof:lastmodified":1467083752,
     "wof:name":"W Foster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-101.74389,34.188463,-101.74389,34.188463],
-  "geometry": {"coordinates":[-101.74389,34.188463],"type":"Point"}
+  "bbox": [
+    -101.74389,
+    34.188463,
+    -101.74389,
+    34.188463
+],
+  "geometry": {"coordinates":[-101.74388999999999,34.188463],"type":"Point"}
 }

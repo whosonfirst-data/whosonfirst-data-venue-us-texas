@@ -2,13 +2,14 @@
   "id": 220066437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551589,29.715581,-95.551589,29.715581",
     "geom:latitude":29.715581,
     "geom:longitude":-95.551589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Corporate Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220066437,
-    "wof:lastmodified":1449074250,
+    "wof:lastmodified":1467085181,
     "wof:name":"Southern Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.551589,29.715581,-95.551589,29.715581],
-  "geometry": {"coordinates":[-95.551589,29.715581],"type":"Point"}
+  "bbox": [
+    -95.551589,
+    29.715581,
+    -95.551589,
+    29.715581
+],
+  "geometry": {"coordinates":[-95.55158900000001,29.715581],"type":"Point"}
 }

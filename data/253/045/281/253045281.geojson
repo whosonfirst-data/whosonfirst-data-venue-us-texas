@@ -2,13 +2,14 @@
   "id": 253045281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.359113,31.761543,-106.359113,31.761543",
     "geom:latitude":31.761543,
     "geom:longitude":-106.359113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9515 Gateway Blvd W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253045281,
-    "wof:lastmodified":1449065431,
+    "wof:lastmodified":1467085035,
     "wof:name":"Firestone Tire & Svc Ctr",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.359113,31.761543,-106.359113,31.761543],
-  "geometry": {"coordinates":[-106.359113,31.761543],"type":"Point"}
+  "bbox": [
+    -106.359113,
+    31.761543,
+    -106.359113,
+    31.761543
+],
+  "geometry": {"coordinates":[-106.35911299999999,31.761543],"type":"Point"}
 }

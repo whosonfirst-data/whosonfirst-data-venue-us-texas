@@ -2,13 +2,14 @@
   "id": 202760339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.454523,31.856741,-106.454523,31.856741",
     "geom:latitude":31.856741,
     "geom:longitude":-106.454523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3308 Capella Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202760339,
-    "wof:lastmodified":1449062547,
+    "wof:lastmodified":1467084939,
     "wof:name":"Smith Resales",
     "wof:parent_id":85814117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hand"
     ]
 },
-  "bbox": [-106.454523,31.856741,-106.454523,31.856741],
-  "geometry": {"coordinates":[-106.454523,31.856741],"type":"Point"}
+  "bbox": [
+    -106.454523,
+    31.856741,
+    -106.454523,
+    31.856741
+],
+  "geometry": {"coordinates":[-106.45452299999999,31.856741],"type":"Point"}
 }

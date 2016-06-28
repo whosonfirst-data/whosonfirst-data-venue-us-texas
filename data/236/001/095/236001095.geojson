@@ -2,13 +2,14 @@
   "id": 236001095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855016,32.952687,-96.855016,32.952687",
     "geom:latitude":32.952687,
     "geom:longitude":-96.855016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15000 Marsh Ln",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236001095,
-    "wof:lastmodified":1449002240,
+    "wof:lastmodified":1467083895,
     "wof:name":"Taco Bueno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.855016,32.952687,-96.855016,32.952687],
-  "geometry": {"coordinates":[-96.855016,32.952687],"type":"Point"}
+  "bbox": [
+    -96.855016,
+    32.952687,
+    -96.855016,
+    32.952687
+],
+  "geometry": {"coordinates":[-96.85501600000001,32.952687],"type":"Point"}
 }

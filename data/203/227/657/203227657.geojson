@@ -2,13 +2,14 @@
   "id": 203227657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.774228,30.247404,-97.774228,30.247404",
     "geom:latitude":30.247404,
     "geom:longitude":-97.774228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203227657,
-    "wof:lastmodified":1449025330,
+    "wof:lastmodified":1467084392,
     "wof:name":"Acajou",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.774228,30.247404,-97.774228,30.247404],
-  "geometry": {"coordinates":[-97.774228,30.247404],"type":"Point"}
+  "bbox": [
+    -97.774228,
+    30.247404,
+    -97.774228,
+    30.247404
+],
+  "geometry": {"coordinates":[-97.77422799999999,30.247404],"type":"Point"}
 }

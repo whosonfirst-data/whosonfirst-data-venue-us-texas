@@ -2,13 +2,14 @@
   "id": 353685115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.010325,34.070595,-99.010325,34.070595",
     "geom:latitude":34.070595,
     "geom:longitude":-99.010325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19765 US Hwy 287 E",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353685115,
-    "wof:lastmodified":1449020708,
+    "wof:lastmodified":1467084374,
     "wof:name":"Drivers Travelmart 410",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stop"
     ]
 },
-  "bbox": [-99.010325,34.070595,-99.010325,34.070595],
-  "geometry": {"coordinates":[-99.010325,34.070595],"type":"Point"}
+  "bbox": [
+    -99.010325,
+    34.070595,
+    -99.010325,
+    34.070595
+],
+  "geometry": {"coordinates":[-99.01032499999999,34.070595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303099717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.80707,30.527931,-97.80707,30.527931",
     "geom:latitude":30.527931,
     "geom:longitude":-97.80707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Whitestone Blvd Bldg E",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303099717,
-    "wof:lastmodified":1448999708,
+    "wof:lastmodified":1467083771,
     "wof:name":"Hemispheres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.80707,30.527931,-97.80707,30.527931],
+  "bbox": [
+    -97.80707,
+    30.527931,
+    -97.80707,
+    30.527931
+],
   "geometry": {"coordinates":[-97.80707,30.527931],"type":"Point"}
 }

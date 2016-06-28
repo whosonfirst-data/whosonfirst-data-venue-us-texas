@@ -2,13 +2,14 @@
   "id": 202880679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.66312,30.149485,-95.66312,30.149485",
     "geom:latitude":30.149485,
     "geom:longitude":-95.66312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33122 State Hwy 249",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202880679,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1467084941,
     "wof:name":"AGNAV Development Inc",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.66312,30.149485,-95.66312,30.149485],
-  "geometry": {"coordinates":[-95.66312,30.149485],"type":"Point"}
+  "bbox": [
+    -95.66312,
+    30.149485,
+    -95.66312,
+    30.149485
+],
+  "geometry": {"coordinates":[-95.66312000000001,30.149485],"type":"Point"}
 }

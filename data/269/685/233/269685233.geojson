@@ -2,13 +2,14 @@
   "id": 269685233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740316,31.108064,-97.740316,31.108064",
     "geom:latitude":31.108064,
     "geom:longitude":-97.740316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Houston St",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269685233,
-    "wof:lastmodified":1449038888,
+    "wof:lastmodified":1467084636,
     "wof:name":"Smith Heating & Air Conditioning, Inc",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.740316,31.108064,-97.740316,31.108064],
-  "geometry": {"coordinates":[-97.740316,31.108064],"type":"Point"}
+  "bbox": [
+    -97.740316,
+    31.108064,
+    -97.740316,
+    31.108064
+],
+  "geometry": {"coordinates":[-97.74031600000001,31.108064],"type":"Point"}
 }

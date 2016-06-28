@@ -2,13 +2,14 @@
   "id": 236124015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146601,31.54396,-97.146601,31.54396",
     "geom:latitude":31.54396,
     "geom:longitude":-97.146601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Austin Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236124015,
-    "wof:lastmodified":1449004945,
+    "wof:lastmodified":1467084024,
     "wof:name":"Community Living Cntr",
     "wof:parent_id":85881729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.146601,31.54396,-97.146601,31.54396],
+  "bbox": [
+    -97.146601,
+    31.54396,
+    -97.146601,
+    31.54396
+],
   "geometry": {"coordinates":[-97.146601,31.54396],"type":"Point"}
 }

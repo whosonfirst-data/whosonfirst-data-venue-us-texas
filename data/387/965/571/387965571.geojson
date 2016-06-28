@@ -2,13 +2,14 @@
   "id": 387965571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805275,32.796527,-96.805275,32.796527",
     "geom:latitude":32.796527,
     "geom:longitude":-96.805275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Cedar Springs Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387965571,
-    "wof:lastmodified":1449058769,
+    "wof:lastmodified":1467084853,
     "wof:name":"Casa Dominguez",
     "wof:parent_id":85870437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805275,32.796527,-96.805275,32.796527],
-  "geometry": {"coordinates":[-96.805275,32.796527],"type":"Point"}
+  "bbox": [
+    -96.805275,
+    32.796527,
+    -96.805275,
+    32.796527
+],
+  "geometry": {"coordinates":[-96.80527499999999,32.796527],"type":"Point"}
 }

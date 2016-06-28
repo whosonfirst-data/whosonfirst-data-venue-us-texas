@@ -2,13 +2,14 @@
   "id": 185910383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308512,32.804982,-97.308512,32.804982",
     "geom:latitude":32.804982,
     "geom:longitude":-97.308512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 N Sylvania Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185910383,
-    "wof:lastmodified":1449007272,
+    "wof:lastmodified":1467084123,
     "wof:name":"Frey-Moss Structures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.308512,32.804982,-97.308512,32.804982],
-  "geometry": {"coordinates":[-97.308512,32.804982],"type":"Point"}
+  "bbox": [
+    -97.308512,
+    32.804982,
+    -97.308512,
+    32.804982
+],
+  "geometry": {"coordinates":[-97.30851199999999,32.804982],"type":"Point"}
 }

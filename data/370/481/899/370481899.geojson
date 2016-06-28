@@ -2,13 +2,14 @@
   "id": 370481899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.127015,31.548154,-97.127015,31.548154",
     "geom:latitude":31.548154,
     "geom:longitude":-97.127015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 S 8th St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370481899,
-    "wof:lastmodified":1449032040,
+    "wof:lastmodified":1467084543,
     "wof:name":"WACO ISD Safety/Police Dept",
     "wof:parent_id":85881733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.127015,31.548154,-97.127015,31.548154],
+  "bbox": [
+    -97.127015,
+    31.548154,
+    -97.127015,
+    31.548154
+],
   "geometry": {"coordinates":[-97.127015,31.548154],"type":"Point"}
 }

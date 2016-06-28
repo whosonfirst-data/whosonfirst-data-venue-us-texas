@@ -2,13 +2,14 @@
   "id": 354023337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401911,27.721879,-97.401911,27.721879",
     "geom:latitude":27.721879,
     "geom:longitude":-97.401911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 Deepwood Cir",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354023337,
-    "wof:lastmodified":1449067504,
+    "wof:lastmodified":1467085090,
     "wof:name":"Comp Care",
     "wof:parent_id":85821067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.401911,27.721879,-97.401911,27.721879],
+  "bbox": [
+    -97.401911,
+    27.721879,
+    -97.401911,
+    27.721879
+],
   "geometry": {"coordinates":[-97.401911,27.721879],"type":"Point"}
 }

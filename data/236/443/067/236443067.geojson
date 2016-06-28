@@ -2,13 +2,14 @@
   "id": 236443067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74366,32.963928,-96.74366,32.963928",
     "geom:latitude":32.963928,
     "geom:longitude":-96.74366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Floyd Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236443067,
-    "wof:lastmodified":1449004513,
+    "wof:lastmodified":1467084004,
     "wof:name":"C J Garvey Company",
     "wof:parent_id":85880203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturers'"
     ]
 },
-  "bbox": [-96.74366,32.963928,-96.74366,32.963928],
-  "geometry": {"coordinates":[-96.74366,32.963928],"type":"Point"}
+  "bbox": [
+    -96.74366,
+    32.963928,
+    -96.74366,
+    32.963928
+],
+  "geometry": {"coordinates":[-96.74366000000001,32.963928],"type":"Point"}
 }

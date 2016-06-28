@@ -2,13 +2,14 @@
   "id": 287127281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.106812,29.949579,-99.106812,29.949579",
     "geom:latitude":29.949579,
     "geom:longitude":-99.106812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 Bandera Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287127281,
-    "wof:lastmodified":1449001511,
+    "wof:lastmodified":1467083846,
     "wof:name":"Johnson Seefeldt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-99.106812,29.949579,-99.106812,29.949579],
-  "geometry": {"coordinates":[-99.106812,29.949579],"type":"Point"}
+  "bbox": [
+    -99.106812,
+    29.949579,
+    -99.106812,
+    29.949579
+],
+  "geometry": {"coordinates":[-99.10681200000001,29.949579],"type":"Point"}
 }

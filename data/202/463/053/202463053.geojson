@@ -2,13 +2,14 @@
   "id": 202463053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.450133,29.851518,-95.450133,29.851518",
     "geom:latitude":29.851518,
     "geom:longitude":-95.450133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 Mansfield St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202463053,
-    "wof:lastmodified":1449061853,
+    "wof:lastmodified":1467084924,
     "wof:name":"Weavers The",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "preservation"
     ]
 },
-  "bbox": [-95.450133,29.851518,-95.450133,29.851518],
-  "geometry": {"coordinates":[-95.450133,29.851518],"type":"Point"}
+  "bbox": [
+    -95.450133,
+    29.851518,
+    -95.450133,
+    29.851518
+],
+  "geometry": {"coordinates":[-95.45013299999999,29.851518],"type":"Point"}
 }

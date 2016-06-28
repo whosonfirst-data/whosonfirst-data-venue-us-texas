@@ -2,13 +2,14 @@
   "id": 186098469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.250571,32.224156,-95.250571,32.224156",
     "geom:latitude":32.224156,
     "geom:longitude":-95.250571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9750 FM 346 E",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186098469,
-    "wof:lastmodified":1449052741,
+    "wof:lastmodified":1467084741,
     "wof:name":"East Texas Marble",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.250571,32.224156,-95.250571,32.224156],
-  "geometry": {"coordinates":[-95.250571,32.224156],"type":"Point"}
+  "bbox": [
+    -95.250571,
+    32.224156,
+    -95.250571,
+    32.224156
+],
+  "geometry": {"coordinates":[-95.25057099999999,32.224156],"type":"Point"}
 }

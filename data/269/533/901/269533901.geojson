@@ -2,13 +2,14 @@
   "id": 269533901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255181,32.864614,-97.255181,32.864614",
     "geom:latitude":32.864614,
     "geom:longitude":-97.255181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6508 Storm Dr",
     "sg:city":"Watauga",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":269533901,
-    "wof:lastmodified":1449036117,
+    "wof:lastmodified":1467084571,
     "wof:name":"The Image Shoppe",
     "wof:parent_id":85871627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.255181,32.864614,-97.255181,32.864614],
-  "geometry": {"coordinates":[-97.255181,32.864614],"type":"Point"}
+  "bbox": [
+    -97.255181,
+    32.864614,
+    -97.255181,
+    32.864614
+],
+  "geometry": {"coordinates":[-97.25518099999999,32.864614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387753927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.496339,29.693058,-95.496339,29.693058",
     "geom:latitude":29.693058,
     "geom:longitude":-95.496339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6431 Bissonnet St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387753927,
-    "wof:lastmodified":1449056560,
+    "wof:lastmodified":1467084796,
     "wof:name":"Luis Auto Colors",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.496339,29.693058,-95.496339,29.693058],
-  "geometry": {"coordinates":[-95.496339,29.693058],"type":"Point"}
+  "bbox": [
+    -95.496339,
+    29.693058,
+    -95.496339,
+    29.693058
+],
+  "geometry": {"coordinates":[-95.49633900000001,29.693058],"type":"Point"}
 }

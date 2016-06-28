@@ -2,13 +2,14 @@
   "id": 269878811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.379769,29.717508,-95.379769,29.717508",
     "geom:latitude":29.717508,
     "geom:longitude":-95.379769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Hermann Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":269878811,
-    "wof:lastmodified":1449037391,
+    "wof:lastmodified":1467084606,
     "wof:name":"Design Build",
     "wof:parent_id":85893753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.379769,29.717508,-95.379769,29.717508],
+  "bbox": [
+    -95.379769,
+    29.717508,
+    -95.379769,
+    29.717508
+],
   "geometry": {"coordinates":[-95.379769,29.717508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236459941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.479246,27.555027,-99.479246,27.555027",
     "geom:latitude":27.555027,
     "geom:longitude":-99.479246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 McPherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236459941,
-    "wof:lastmodified":1449002908,
+    "wof:lastmodified":1467083928,
     "wof:name":"Laredo Parole Office 0313",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parole"
     ]
 },
-  "bbox": [-99.479246,27.555027,-99.479246,27.555027],
+  "bbox": [
+    -99.479246,
+    27.555027,
+    -99.479246,
+    27.555027
+],
   "geometry": {"coordinates":[-99.479246,27.555027],"type":"Point"}
 }

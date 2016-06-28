@@ -2,13 +2,14 @@
   "id": 219345677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750037,30.280634,-97.750037,30.280634",
     "geom:latitude":30.280634,
     "geom:longitude":-97.750037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Shoal Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219345677,
-    "wof:lastmodified":1449073635,
+    "wof:lastmodified":1467085168,
     "wof:name":"Deborah Data Inc",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-97.750037,30.280634,-97.750037,30.280634],
-  "geometry": {"coordinates":[-97.750037,30.280634],"type":"Point"}
+  "bbox": [
+    -97.750037,
+    30.280634,
+    -97.750037,
+    30.280634
+],
+  "geometry": {"coordinates":[-97.75003700000001,30.280634],"type":"Point"}
 }

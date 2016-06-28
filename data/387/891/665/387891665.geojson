@@ -2,13 +2,14 @@
   "id": 387891665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.316251,26.23142,-98.316251,26.23142",
     "geom:latitude":26.23142,
     "geom:longitude":-98.316251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2434 Briarwood Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387891665,
-    "wof:lastmodified":1449058397,
+    "wof:lastmodified":1467084843,
     "wof:name":"Bob Stewart Painting",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drywalling"
     ]
 },
-  "bbox": [-98.316251,26.23142,-98.316251,26.23142],
-  "geometry": {"coordinates":[-98.316251,26.23142],"type":"Point"}
+  "bbox": [
+    -98.316251,
+    26.23142,
+    -98.316251,
+    26.23142
+],
+  "geometry": {"coordinates":[-98.31625099999999,26.23142],"type":"Point"}
 }

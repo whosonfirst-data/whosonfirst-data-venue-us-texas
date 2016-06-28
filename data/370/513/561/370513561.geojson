@@ -2,13 +2,14 @@
   "id": 370513561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.424276,30.339206,-95.424276,30.339206",
     "geom:latitude":30.339206,
     "geom:longitude":-95.424276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 N Loop 336 E",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370513561,
-    "wof:lastmodified":1449031319,
+    "wof:lastmodified":1467084525,
     "wof:name":"Texas Outdoor Power Sales Inc",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tractor"
     ]
 },
-  "bbox": [-95.424276,30.339206,-95.424276,30.339206],
-  "geometry": {"coordinates":[-95.424276,30.339206],"type":"Point"}
+  "bbox": [
+    -95.424276,
+    30.339206,
+    -95.424276,
+    30.339206
+],
+  "geometry": {"coordinates":[-95.42427600000001,30.339206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270269779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.529401,29.85883,-95.529401,29.85883",
     "geom:latitude":29.85883,
     "geom:longitude":-95.529401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Rothway St Ste 150",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270269779,
-    "wof:lastmodified":1449010186,
+    "wof:lastmodified":1467084201,
     "wof:name":"Fibertower",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.529401,29.85883,-95.529401,29.85883],
-  "geometry": {"coordinates":[-95.529401,29.85883],"type":"Point"}
+  "bbox": [
+    -95.529401,
+    29.85883,
+    -95.529401,
+    29.85883
+],
+  "geometry": {"coordinates":[-95.52940099999999,29.85883],"type":"Point"}
 }

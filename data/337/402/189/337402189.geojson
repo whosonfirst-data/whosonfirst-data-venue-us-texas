@@ -2,13 +2,14 @@
   "id": 337402189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.899302,33.529736,-101.899302,33.529736",
     "geom:latitude":33.529736,
     "geom:longitude":-101.899302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7007 Norfolk Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337402189,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1467084435,
     "wof:name":"Texas Mesquite & Wood Co",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.899302,33.529736,-101.899302,33.529736],
-  "geometry": {"coordinates":[-101.899302,33.529736],"type":"Point"}
+  "bbox": [
+    -101.899302,
+    33.529736,
+    -101.899302,
+    33.529736
+],
+  "geometry": {"coordinates":[-101.89930200000001,33.529736],"type":"Point"}
 }

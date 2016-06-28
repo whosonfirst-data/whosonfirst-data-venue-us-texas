@@ -2,13 +2,14 @@
   "id": 269929723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.420403,29.782101,-95.420403,29.782101",
     "geom:latitude":29.782101,
     "geom:longitude":-95.420403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5502 Kansas St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269929723,
-    "wof:lastmodified":1449037065,
+    "wof:lastmodified":1467084597,
     "wof:name":"Hughes Motor Corp",
     "wof:parent_id":85893803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.420403,29.782101,-95.420403,29.782101],
-  "geometry": {"coordinates":[-95.420403,29.782101],"type":"Point"}
+  "bbox": [
+    -95.420403,
+    29.782101,
+    -95.420403,
+    29.782101
+],
+  "geometry": {"coordinates":[-95.42040299999999,29.782101],"type":"Point"}
 }

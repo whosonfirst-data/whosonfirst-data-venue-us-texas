@@ -2,13 +2,14 @@
   "id": 202385165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.454395,32.696382,-97.454395,32.696382",
     "geom:latitude":32.696382,
     "geom:longitude":-97.454395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6008 Hwy 377 S",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202385165,
-    "wof:lastmodified":1449061621,
+    "wof:lastmodified":1467084919,
     "wof:name":"Gramar Properties LLC",
     "wof:parent_id":85897365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-97.454395,32.696382,-97.454395,32.696382],
-  "geometry": {"coordinates":[-97.454395,32.696382],"type":"Point"}
+  "bbox": [
+    -97.454395,
+    32.696382,
+    -97.454395,
+    32.696382
+],
+  "geometry": {"coordinates":[-97.45439500000001,32.696382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186370949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.236516,32.178492,-95.236516,32.178492",
     "geom:latitude":32.178492,
     "geom:longitude":-95.236516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10519 FM 344 E",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186370949,
-    "wof:lastmodified":1449051843,
+    "wof:lastmodified":1467084722,
     "wof:name":"Alpha Liquidations",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquidator"
     ]
 },
-  "bbox": [-95.236516,32.178492,-95.236516,32.178492],
-  "geometry": {"coordinates":[-95.236516,32.178492],"type":"Point"}
+  "bbox": [
+    -95.236516,
+    32.178492,
+    -95.236516,
+    32.178492
+],
+  "geometry": {"coordinates":[-95.23651599999999,32.178492],"type":"Point"}
 }

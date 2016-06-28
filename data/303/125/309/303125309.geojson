@@ -2,13 +2,14 @@
   "id": 303125309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.679093,30.636568,-97.679093,30.636568",
     "geom:latitude":30.636568,
     "geom:longitude":-97.679093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 8th St, Suite 101",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":303125309,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1467083809,
     "wof:name":"Island Music Studios",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "musical"
     ]
 },
-  "bbox": [-97.679093,30.636568,-97.679093,30.636568],
-  "geometry": {"coordinates":[-97.679093,30.636568],"type":"Point"}
+  "bbox": [
+    -97.679093,
+    30.636568,
+    -97.679093,
+    30.636568
+],
+  "geometry": {"coordinates":[-97.67909299999999,30.636568],"type":"Point"}
 }

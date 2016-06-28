@@ -2,13 +2,14 @@
   "id": 186453741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.584252,29.954859,-95.584252,29.954859",
     "geom:latitude":29.954859,
     "geom:longitude":-95.584252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10960 Millridge North Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186453741,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1467084733,
     "wof:name":"Q Logic",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-95.584252,29.954859,-95.584252,29.954859],
-  "geometry": {"coordinates":[-95.584252,29.954859],"type":"Point"}
+  "bbox": [
+    -95.584252,
+    29.954859,
+    -95.584252,
+    29.954859
+],
+  "geometry": {"coordinates":[-95.58425200000001,29.954859],"type":"Point"}
 }

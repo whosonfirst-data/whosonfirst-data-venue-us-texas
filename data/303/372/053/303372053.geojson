@@ -2,13 +2,14 @@
   "id": 303372053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771808,30.487756,-97.771808,30.487756",
     "geom:latitude":30.487756,
     "geom:longitude":-97.771808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 Lakeline Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":303372053,
-    "wof:lastmodified":1448999603,
+    "wof:lastmodified":1467083766,
     "wof:name":"Home Depot - Free Roofing Estimate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "consultant"
     ]
 },
-  "bbox": [-97.771808,30.487756,-97.771808,30.487756],
-  "geometry": {"coordinates":[-97.771808,30.487756],"type":"Point"}
+  "bbox": [
+    -97.771808,
+    30.487756,
+    -97.771808,
+    30.487756
+],
+  "geometry": {"coordinates":[-97.77180799999999,30.487756],"type":"Point"}
 }

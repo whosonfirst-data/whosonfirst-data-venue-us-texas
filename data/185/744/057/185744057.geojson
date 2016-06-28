@@ -2,13 +2,14 @@
   "id": 185744057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432073,29.529228,-98.432073,29.529228",
     "geom:latitude":29.529228,
     "geom:longitude":-98.432073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Nacogdoches Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185744057,
-    "wof:lastmodified":1449007174,
+    "wof:lastmodified":1467084121,
     "wof:name":"Raindrop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.432073,29.529228,-98.432073,29.529228],
+  "bbox": [
+    -98.432073,
+    29.529228,
+    -98.432073,
+    29.529228
+],
   "geometry": {"coordinates":[-98.432073,29.529228],"type":"Point"}
 }

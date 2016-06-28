@@ -2,13 +2,14 @@
   "id": 252774349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735797,32.950566,-96.735797,32.950566",
     "geom:latitude":32.950566,
     "geom:longitude":-96.735797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Richardson Heights Center",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252774349,
-    "wof:lastmodified":1449005834,
+    "wof:lastmodified":1467084071,
     "wof:name":"AM Travel",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-96.735797,32.950566,-96.735797,32.950566],
-  "geometry": {"coordinates":[-96.735797,32.950566],"type":"Point"}
+  "bbox": [
+    -96.735797,
+    32.950566,
+    -96.735797,
+    32.950566
+],
+  "geometry": {"coordinates":[-96.73579700000001,32.950566],"type":"Point"}
 }

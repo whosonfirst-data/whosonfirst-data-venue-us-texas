@@ -2,13 +2,14 @@
   "id": 252747535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756025,32.801091,-96.756025,32.801091",
     "geom:latitude":32.801091,
     "geom:longitude":-96.756025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Beacon St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":252747535,
-    "wof:lastmodified":1449005606,
+    "wof:lastmodified":1467084059,
     "wof:name":"San Juan Fellowship UMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.756025,32.801091,-96.756025,32.801091],
-  "geometry": {"coordinates":[-96.756025,32.801091],"type":"Point"}
+  "bbox": [
+    -96.756025,
+    32.801091,
+    -96.756025,
+    32.801091
+],
+  "geometry": {"coordinates":[-96.75602499999999,32.801091],"type":"Point"}
 }

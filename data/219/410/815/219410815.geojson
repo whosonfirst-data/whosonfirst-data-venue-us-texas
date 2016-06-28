@@ -2,13 +2,14 @@
   "id": 219410815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.346964,29.809561,-95.346964,29.809561",
     "geom:latitude":29.809561,
     "geom:longitude":-95.346964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Milwaukee St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219410815,
-    "wof:lastmodified":1449070418,
+    "wof:lastmodified":1467085100,
     "wof:name":"St Mary Publishing Co Houston",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-95.346964,29.809561,-95.346964,29.809561],
+  "bbox": [
+    -95.346964,
+    29.809561,
+    -95.346964,
+    29.809561
+],
   "geometry": {"coordinates":[-95.346964,29.809561],"type":"Point"}
 }

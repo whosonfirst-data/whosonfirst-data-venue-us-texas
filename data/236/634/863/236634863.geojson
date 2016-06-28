@@ -2,13 +2,14 @@
   "id": 236634863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.50897,32.403021,-100.50897,32.403021",
     "geom:latitude":32.403021,
     "geom:longitude":-100.50897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Cemetary Rd",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236634863,
-    "wof:lastmodified":1449003182,
+    "wof:lastmodified":1467083941,
     "wof:name":"Paint Creek Water Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.50897,32.403021,-100.50897,32.403021],
-  "geometry": {"coordinates":[-100.50897,32.403021],"type":"Point"}
+  "bbox": [
+    -100.50897,
+    32.403021,
+    -100.50897,
+    32.403021
+],
+  "geometry": {"coordinates":[-100.50897000000001,32.403021],"type":"Point"}
 }

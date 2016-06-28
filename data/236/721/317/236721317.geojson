@@ -2,13 +2,14 @@
   "id": 236721317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.381264,29.522916,-98.381264,29.522916",
     "geom:latitude":29.522916,
     "geom:longitude":-98.381264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Crestway Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236721317,
-    "wof:lastmodified":1449005239,
+    "wof:lastmodified":1467084039,
     "wof:name":"Sandoval Tile",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.381264,29.522916,-98.381264,29.522916],
+  "bbox": [
+    -98.381264,
+    29.522916,
+    -98.381264,
+    29.522916
+],
   "geometry": {"coordinates":[-98.381264,29.522916],"type":"Point"}
 }

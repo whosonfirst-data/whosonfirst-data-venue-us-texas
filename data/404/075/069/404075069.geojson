@@ -2,13 +2,14 @@
   "id": 404075069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.649966,30.569498,-100.649966,30.569498",
     "geom:latitude":30.569498,
     "geom:longitude":-100.649966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Menard Ave",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404075069,
-    "wof:lastmodified":1449039791,
+    "wof:lastmodified":1467084651,
     "wof:name":"S & T Roustabouts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-100.649966,30.569498,-100.649966,30.569498],
-  "geometry": {"coordinates":[-100.649966,30.569498],"type":"Point"}
+  "bbox": [
+    -100.649966,
+    30.569498,
+    -100.649966,
+    30.569498
+],
+  "geometry": {"coordinates":[-100.64996600000001,30.569498],"type":"Point"}
 }

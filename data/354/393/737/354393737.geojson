@@ -2,13 +2,14 @@
   "id": 354393737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487957,32.62789,-97.487957,32.62789",
     "geom:latitude":32.62789,
     "geom:longitude":-97.487957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Bluebonnet Hilltop Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354393737,
-    "wof:lastmodified":1449066449,
+    "wof:lastmodified":1467085064,
     "wof:name":"Independent Home Inspections",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.487957,32.62789,-97.487957,32.62789],
-  "geometry": {"coordinates":[-97.487957,32.62789],"type":"Point"}
+  "bbox": [
+    -97.487957,
+    32.62789,
+    -97.487957,
+    32.62789
+],
+  "geometry": {"coordinates":[-97.48795699999999,32.62789],"type":"Point"}
 }

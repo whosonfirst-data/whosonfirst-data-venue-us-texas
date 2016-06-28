@@ -2,13 +2,14 @@
   "id": 252919559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645145,32.840891,-96.645145,32.840891",
     "geom:latitude":32.840891,
     "geom:longitude":-96.645145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8035 East R.L. Thornton Ste. 608",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":252919559,
-    "wof:lastmodified":1449006241,
+    "wof:lastmodified":1467084094,
     "wof:name":"MEDIA SOURCE 1",
     "wof:parent_id":85878907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-96.645145,32.840891,-96.645145,32.840891],
+  "bbox": [
+    -96.645145,
+    32.840891,
+    -96.645145,
+    32.840891
+],
   "geometry": {"coordinates":[-96.645145,32.840891],"type":"Point"}
 }

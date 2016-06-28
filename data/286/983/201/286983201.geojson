@@ -2,13 +2,14 @@
   "id": 286983201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121289,30.08677,-94.121289,30.08677",
     "geom:latitude":30.08677,
     "geom:longitude":-94.121289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 Mcfaddin St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":286983201,
-    "wof:lastmodified":1449017854,
+    "wof:lastmodified":1467084311,
     "wof:name":"Fan Factory",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "fan"
     ]
 },
-  "bbox": [-94.121289,30.08677,-94.121289,30.08677],
+  "bbox": [
+    -94.121289,
+    30.08677,
+    -94.121289,
+    30.08677
+],
   "geometry": {"coordinates":[-94.121289,30.08677],"type":"Point"}
 }

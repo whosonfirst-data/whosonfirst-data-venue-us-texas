@@ -2,13 +2,14 @@
   "id": 253041535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.917025,32.897175,-96.917025,32.897175",
     "geom:latitude":32.897175,
     "geom:longitude":-96.917025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Royal Ln Ste 606",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253041535,
-    "wof:lastmodified":1449063895,
+    "wof:lastmodified":1467084982,
     "wof:name":"NTX Security",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-96.917025,32.897175,-96.917025,32.897175],
+  "bbox": [
+    -96.917025,
+    32.897175,
+    -96.917025,
+    32.897175
+],
   "geometry": {"coordinates":[-96.917025,32.897175],"type":"Point"}
 }

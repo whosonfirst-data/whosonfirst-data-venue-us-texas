@@ -2,13 +2,14 @@
   "id": 303526753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881387,30.28015,-97.881387,30.28015",
     "geom:latitude":30.28015,
     "geom:longitude":-97.881387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 Calera Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303526753,
-    "wof:lastmodified":1448998865,
+    "wof:lastmodified":1467083729,
     "wof:name":"Quality Custom Pools",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.881387,30.28015,-97.881387,30.28015],
+  "bbox": [
+    -97.881387,
+    30.28015,
+    -97.881387,
+    30.28015
+],
   "geometry": {"coordinates":[-97.881387,30.28015],"type":"Point"}
 }

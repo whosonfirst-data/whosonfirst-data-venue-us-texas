@@ -2,13 +2,14 @@
   "id": 370570111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.164515,30.059114,-99.164515,30.059114",
     "geom:latitude":30.059114,
     "geom:longitude":-99.164515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Junction Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370570111,
-    "wof:lastmodified":1449031084,
+    "wof:lastmodified":1467084519,
     "wof:name":"Lamar Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "body"
     ]
 },
-  "bbox": [-99.164515,30.059114,-99.164515,30.059114],
-  "geometry": {"coordinates":[-99.164515,30.059114],"type":"Point"}
+  "bbox": [
+    -99.164515,
+    30.059114,
+    -99.164515,
+    30.059114
+],
+  "geometry": {"coordinates":[-99.16451499999999,30.059114],"type":"Point"}
 }

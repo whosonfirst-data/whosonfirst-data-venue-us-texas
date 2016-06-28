@@ -2,13 +2,14 @@
   "id": 235960667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.637141,32.698112,-96.637141,32.698112",
     "geom:latitude":32.698112,
     "geom:longitude":-96.637141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Haymarket Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235960667,
-    "wof:lastmodified":1449008493,
+    "wof:lastmodified":1467084146,
     "wof:name":"Howard's Pottery",
     "wof:parent_id":85846533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-96.637141,32.698112,-96.637141,32.698112],
+  "bbox": [
+    -96.637141,
+    32.698112,
+    -96.637141,
+    32.698112
+],
   "geometry": {"coordinates":[-96.637141,32.698112],"type":"Point"}
 }

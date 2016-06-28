@@ -2,13 +2,14 @@
   "id": 303652227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.840204,30.221473,-97.840204,30.221473",
     "geom:latitude":30.221473,
     "geom:longitude":-97.840204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 W. William Cannon Dr Bldg E2 Ste 210",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303652227,
-    "wof:lastmodified":1448999693,
+    "wof:lastmodified":1467083770,
     "wof:name":"Play N Trade",
     "wof:parent_id":85857877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-97.840204,30.221473,-97.840204,30.221473],
+  "bbox": [
+    -97.840204,
+    30.221473,
+    -97.840204,
+    30.221473
+],
   "geometry": {"coordinates":[-97.840204,30.221473],"type":"Point"}
 }

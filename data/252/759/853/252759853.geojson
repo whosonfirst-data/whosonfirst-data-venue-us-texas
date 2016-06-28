@@ -2,13 +2,14 @@
   "id": 252759853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344649,32.445306,-97.344649,32.445306",
     "geom:latitude":32.445306,
     "geom:longitude":-97.344649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Valley View Dr",
     "sg:city":"Joshua",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252759853,
-    "wof:lastmodified":1449006531,
+    "wof:lastmodified":1467084109,
     "wof:name":"Harris Overhead Doors",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-97.344649,32.445306,-97.344649,32.445306],
+  "bbox": [
+    -97.344649,
+    32.445306,
+    -97.344649,
+    32.445306
+],
   "geometry": {"coordinates":[-97.344649,32.445306],"type":"Point"}
 }

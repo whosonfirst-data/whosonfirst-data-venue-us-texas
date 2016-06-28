@@ -2,13 +2,14 @@
   "id": 303506965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935223,30.393331,-97.935223,30.393331",
     "geom:latitude":30.393331,
     "geom:longitude":-97.935223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Ranch Road 620 N",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303506965,
-    "wof:lastmodified":1448998172,
+    "wof:lastmodified":1467083694,
     "wof:name":"Blanchard's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.935223,30.393331,-97.935223,30.393331],
-  "geometry": {"coordinates":[-97.935223,30.393331],"type":"Point"}
+  "bbox": [
+    -97.935223,
+    30.393331,
+    -97.935223,
+    30.393331
+],
+  "geometry": {"coordinates":[-97.93522299999999,30.393331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185740861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.845357,33.535533,-101.845357,33.535533",
     "geom:latitude":33.535533,
     "geom:longitude":-101.845357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 65th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185740861,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1467084124,
     "wof:name":"Lees Refrigeration & Mech",
     "wof:parent_id":85878769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-101.845357,33.535533,-101.845357,33.535533],
-  "geometry": {"coordinates":[-101.845357,33.535533],"type":"Point"}
+  "bbox": [
+    -101.845357,
+    33.535533,
+    -101.845357,
+    33.535533
+],
+  "geometry": {"coordinates":[-101.84535700000001,33.535533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202746111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328695,27.877156,-97.328695,27.877156",
     "geom:latitude":27.877156,
     "geom:longitude":-97.328695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Moore Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202746111,
-    "wof:lastmodified":1449060093,
+    "wof:lastmodified":1467084887,
     "wof:name":"North Bay Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.328695,27.877156,-97.328695,27.877156],
+  "bbox": [
+    -97.328695,
+    27.877156,
+    -97.328695,
+    27.877156
+],
   "geometry": {"coordinates":[-97.328695,27.877156],"type":"Point"}
 }

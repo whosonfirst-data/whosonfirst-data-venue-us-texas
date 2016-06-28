@@ -2,13 +2,14 @@
   "id": 236889461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799377,32.79508,-96.799377,32.79508",
     "geom:latitude":32.79508,
     "geom:longitude":-96.799377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2613 Thomas Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236889461,
-    "wof:lastmodified":1449001631,
+    "wof:lastmodified":1467083851,
     "wof:name":"Sandy Maltese - Intown Properties",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.799377,32.79508,-96.799377,32.79508],
-  "geometry": {"coordinates":[-96.799377,32.79508],"type":"Point"}
+  "bbox": [
+    -96.799377,
+    32.79508,
+    -96.799377,
+    32.79508
+],
+  "geometry": {"coordinates":[-96.79937700000001,32.79508],"type":"Point"}
 }

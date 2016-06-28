@@ -2,13 +2,14 @@
   "id": 253124353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730123,32.958514,-96.730123,32.958514",
     "geom:latitude":32.958514,
     "geom:longitude":-96.730123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Belle Grove Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253124353,
-    "wof:lastmodified":1449065567,
+    "wof:lastmodified":1467085039,
     "wof:name":"Dallas Morning News",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-96.730123,32.958514,-96.730123,32.958514],
-  "geometry": {"coordinates":[-96.730123,32.958514],"type":"Point"}
+  "bbox": [
+    -96.730123,
+    32.958514,
+    -96.730123,
+    32.958514
+],
+  "geometry": {"coordinates":[-96.73012300000001,32.958514],"type":"Point"}
 }

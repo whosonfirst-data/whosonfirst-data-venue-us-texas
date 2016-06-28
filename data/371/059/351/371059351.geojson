@@ -2,13 +2,14 @@
   "id": 371059351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.28445,31.55912,-97.28445,31.55912",
     "geom:latitude":31.55912,
     "geom:longitude":-97.28445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Lyndon Dr",
     "sg:city":"Woodway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371059351,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467084675,
     "wof:name":"PC Networking Svc",
     "wof:parent_id":85881761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.28445,31.55912,-97.28445,31.55912],
-  "geometry": {"coordinates":[-97.28445,31.55912],"type":"Point"}
+  "bbox": [
+    -97.28445,
+    31.55912,
+    -97.28445,
+    31.55912
+],
+  "geometry": {"coordinates":[-97.28445000000001,31.55912],"type":"Point"}
 }

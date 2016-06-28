@@ -2,13 +2,14 @@
   "id": 253124187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.815498,32.930599,-96.815498,32.930599",
     "geom:latitude":32.930599,
     "geom:longitude":-96.815498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5454 Peterson Ln Ofc",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253124187,
-    "wof:lastmodified":1449065563,
+    "wof:lastmodified":1467085039,
     "wof:name":"Brentmoor Place Apartments",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.815498,32.930599,-96.815498,32.930599],
-  "geometry": {"coordinates":[-96.815498,32.930599],"type":"Point"}
+  "bbox": [
+    -96.815498,
+    32.930599,
+    -96.815498,
+    32.930599
+],
+  "geometry": {"coordinates":[-96.81549800000001,32.930599],"type":"Point"}
 }

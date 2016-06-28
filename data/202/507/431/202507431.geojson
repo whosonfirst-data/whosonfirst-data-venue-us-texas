@@ -2,13 +2,14 @@
   "id": 202507431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.480155,27.599229,-99.480155,27.599229",
     "geom:latitude":27.599229,
     "geom:longitude":-99.480155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 McPherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202507431,
-    "wof:lastmodified":1449061421,
+    "wof:lastmodified":1467084915,
     "wof:name":"El Mercado Restaurant",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.480155,27.599229,-99.480155,27.599229],
+  "bbox": [
+    -99.480155,
+    27.599229,
+    -99.480155,
+    27.599229
+],
   "geometry": {"coordinates":[-99.480155,27.599229],"type":"Point"}
 }

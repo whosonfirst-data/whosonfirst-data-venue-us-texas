@@ -2,13 +2,14 @@
   "id": 387580035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.740045,32.683928,-96.740045,32.683928",
     "geom:latitude":32.683928,
     "geom:longitude":-96.740045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 Rhodes Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387580035,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1467084850,
     "wof:name":"Good Copy Systems Inc",
     "wof:parent_id":85870469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-96.740045,32.683928,-96.740045,32.683928],
-  "geometry": {"coordinates":[-96.740045,32.683928],"type":"Point"}
+  "bbox": [
+    -96.740045,
+    32.683928,
+    -96.740045,
+    32.683928
+],
+  "geometry": {"coordinates":[-96.74004499999999,32.683928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202770137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.79596,29.301145,-94.79596,29.301145",
     "geom:latitude":29.301145,
     "geom:longitude":-94.79596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Ball St",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202770137,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1467084942,
     "wof:name":"Moran Gulf Shipping Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.79596,29.301145,-94.79596,29.301145],
-  "geometry": {"coordinates":[-94.79596,29.301145],"type":"Point"}
+  "bbox": [
+    -94.79596,
+    29.301145,
+    -94.79596,
+    29.301145
+],
+  "geometry": {"coordinates":[-94.79595999999999,29.301145],"type":"Point"}
 }

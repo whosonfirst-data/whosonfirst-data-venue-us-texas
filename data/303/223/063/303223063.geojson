@@ -2,13 +2,14 @@
   "id": 303223063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73799,30.275439,-97.73799,30.275439",
     "geom:latitude":30.275439,
     "geom:longitude":-97.73799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 14th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303223063,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1467083700,
     "wof:name":"Office Of Court Administration",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"
     ]
 },
-  "bbox": [-97.73799,30.275439,-97.73799,30.275439],
+  "bbox": [
+    -97.73799,
+    30.275439,
+    -97.73799,
+    30.275439
+],
   "geometry": {"coordinates":[-97.73799,30.275439],"type":"Point"}
 }

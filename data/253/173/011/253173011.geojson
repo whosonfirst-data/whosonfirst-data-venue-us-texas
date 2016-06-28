@@ -2,13 +2,14 @@
   "id": 253173011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.208425,29.565843,-98.208425,29.565843",
     "geom:latitude":29.565843,
     "geom:longitude":-98.208425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Dusty Ln",
     "sg:city":"Cibolo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253173011,
-    "wof:lastmodified":1449063383,
+    "wof:lastmodified":1467084965,
     "wof:name":"Technosis Inc",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-98.208425,29.565843,-98.208425,29.565843],
-  "geometry": {"coordinates":[-98.208425,29.565843],"type":"Point"}
+  "bbox": [
+    -98.208425,
+    29.565843,
+    -98.208425,
+    29.565843
+],
+  "geometry": {"coordinates":[-98.20842500000001,29.565843],"type":"Point"}
 }

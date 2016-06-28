@@ -2,13 +2,14 @@
   "id": 252803303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.509848,27.540117,-99.509848,27.540117",
     "geom:latitude":27.540117,
     "geom:longitude":-99.509848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4403 Santa Maria Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252803303,
-    "wof:lastmodified":1449006522,
+    "wof:lastmodified":1467084109,
     "wof:name":"Yoyis",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.509848,27.540117,-99.509848,27.540117],
-  "geometry": {"coordinates":[-99.509848,27.540117],"type":"Point"}
+  "bbox": [
+    -99.509848,
+    27.540117,
+    -99.509848,
+    27.540117
+],
+  "geometry": {"coordinates":[-99.50984800000001,27.540117],"type":"Point"}
 }

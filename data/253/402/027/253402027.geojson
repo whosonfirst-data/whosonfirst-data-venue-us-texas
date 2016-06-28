@@ -2,13 +2,14 @@
   "id": 253402027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.088912,33.456579,-94.088912,33.456579",
     "geom:latitude":33.456579,
     "geom:longitude":-94.088912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Saint Michael Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253402027,
-    "wof:lastmodified":1449063766,
+    "wof:lastmodified":1467084977,
     "wof:name":"Rue21",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "store"
     ]
 },
-  "bbox": [-94.088912,33.456579,-94.088912,33.456579],
-  "geometry": {"coordinates":[-94.088912,33.456579],"type":"Point"}
+  "bbox": [
+    -94.088912,
+    33.456579,
+    -94.088912,
+    33.456579
+],
+  "geometry": {"coordinates":[-94.08891199999999,33.456579],"type":"Point"}
 }

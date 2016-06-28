@@ -2,13 +2,14 @@
   "id": 253753937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.20676,32.632853,-97.20676,32.632853",
     "geom:latitude":32.632853,
     "geom:longitude":-97.20676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E Kennedale Pkwy",
     "sg:city":"Kennedale",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":253753937,
-    "wof:lastmodified":1449063169,
+    "wof:lastmodified":1467084957,
     "wof:name":"Greenleaf Kennedale",
     "wof:parent_id":85897313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.20676,32.632853,-97.20676,32.632853],
+  "bbox": [
+    -97.20676,
+    32.632853,
+    -97.20676,
+    32.632853
+],
   "geometry": {"coordinates":[-97.20676,32.632853],"type":"Point"}
 }

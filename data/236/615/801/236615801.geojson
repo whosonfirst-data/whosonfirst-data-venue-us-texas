@@ -2,13 +2,14 @@
   "id": 236615801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381402,27.744151,-97.381402,27.744151",
     "geom:latitude":27.744151,
     "geom:longitude":-97.381402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Doddridge St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236615801,
-    "wof:lastmodified":1449002536,
+    "wof:lastmodified":1467083911,
     "wof:name":"US Post Office",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.381402,27.744151,-97.381402,27.744151],
-  "geometry": {"coordinates":[-97.381402,27.744151],"type":"Point"}
+  "bbox": [
+    -97.381402,
+    27.744151,
+    -97.381402,
+    27.744151
+],
+  "geometry": {"coordinates":[-97.38140199999999,27.744151],"type":"Point"}
 }

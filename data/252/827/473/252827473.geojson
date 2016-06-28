@@ -2,13 +2,14 @@
   "id": 252827473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805496,32.808498,-96.805496,32.808498",
     "geom:latitude":32.808498,
     "geom:longitude":-96.805496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Lee Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252827473,
-    "wof:lastmodified":1449005790,
+    "wof:lastmodified":1467084069,
     "wof:name":"Amick Roger MD",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"
     ]
 },
-  "bbox": [-96.805496,32.808498,-96.805496,32.808498],
-  "geometry": {"coordinates":[-96.805496,32.808498],"type":"Point"}
+  "bbox": [
+    -96.805496,
+    32.808498,
+    -96.805496,
+    32.808498
+],
+  "geometry": {"coordinates":[-96.80549600000001,32.808498],"type":"Point"}
 }

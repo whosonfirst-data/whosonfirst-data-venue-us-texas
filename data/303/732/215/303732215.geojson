@@ -2,13 +2,14 @@
   "id": 303732215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.6959,30.365,-97.6959,30.365",
     "geom:latitude":30.365,
     "geom:longitude":-97.6959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9515 N Lamar Blvd Ste 168",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303732215,
-    "wof:lastmodified":1449000644,
+    "wof:lastmodified":1467083817,
     "wof:name":"Maddox Chiropractic Clinic",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.6959,30.365,-97.6959,30.365],
-  "geometry": {"coordinates":[-97.6959,30.365],"type":"Point"}
+  "bbox": [
+    -97.6959,
+    30.365,
+    -97.6959,
+    30.365
+],
+  "geometry": {"coordinates":[-97.69589999999999,30.365],"type":"Point"}
 }

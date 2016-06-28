@@ -2,13 +2,14 @@
   "id": 387633683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.946125,35.256525,-101.946125,35.256525",
     "geom:latitude":35.256525,
     "geom:longitude":-101.946125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8825 Melfrank Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387633683,
-    "wof:lastmodified":1449059892,
+    "wof:lastmodified":1467084882,
     "wof:name":"Bailey Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "motor"
     ]
 },
-  "bbox": [-101.946125,35.256525,-101.946125,35.256525],
-  "geometry": {"coordinates":[-101.946125,35.256525],"type":"Point"}
+  "bbox": [
+    -101.946125,
+    35.256525,
+    -101.946125,
+    35.256525
+],
+  "geometry": {"coordinates":[-101.94612499999999,35.256525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404176807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500526,29.583765,-98.500526,29.583765",
     "geom:latitude":29.583765,
     "geom:longitude":-98.500526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13660 Treasure Trail Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404176807,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1467084653,
     "wof:name":"Wee 3",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.500526,29.583765,-98.500526,29.583765],
-  "geometry": {"coordinates":[-98.500526,29.583765],"type":"Point"}
+  "bbox": [
+    -98.500526,
+    29.583765,
+    -98.500526,
+    29.583765
+],
+  "geometry": {"coordinates":[-98.50052599999999,29.583765],"type":"Point"}
 }

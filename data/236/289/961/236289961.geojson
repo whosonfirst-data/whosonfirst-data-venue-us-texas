@@ -2,13 +2,14 @@
   "id": 236289961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.534607,27.625303,-99.534607,27.625303",
     "geom:latitude":27.625303,
     "geom:longitude":-99.534607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14407 Industry Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236289961,
-    "wof:lastmodified":1449004589,
+    "wof:lastmodified":1467084008,
     "wof:name":"I G C",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.534607,27.625303,-99.534607,27.625303],
-  "geometry": {"coordinates":[-99.534607,27.625303],"type":"Point"}
+  "bbox": [
+    -99.534607,
+    27.625303,
+    -99.534607,
+    27.625303
+],
+  "geometry": {"coordinates":[-99.53460699999999,27.625303],"type":"Point"}
 }

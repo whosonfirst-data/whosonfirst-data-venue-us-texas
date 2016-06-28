@@ -2,13 +2,14 @@
   "id": 269904927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.378233,29.746247,-95.378233,29.746247",
     "geom:latitude":29.746247,
     "geom:longitude":-95.378233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Smith St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":269904927,
-    "wof:lastmodified":1449039041,
+    "wof:lastmodified":1467084640,
     "wof:name":"The Community Bar",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gastropubs"
     ]
 },
-  "bbox": [-95.378233,29.746247,-95.378233,29.746247],
-  "geometry": {"coordinates":[-95.378233,29.746247],"type":"Point"}
+  "bbox": [
+    -95.378233,
+    29.746247,
+    -95.378233,
+    29.746247
+],
+  "geometry": {"coordinates":[-95.37823299999999,29.746247],"type":"Point"}
 }

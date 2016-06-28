@@ -2,13 +2,14 @@
   "id": 269531725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.32111,32.627392,-97.32111,32.627392",
     "geom:latitude":32.627392,
     "geom:longitude":-97.32111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Everman Pkwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269531725,
-    "wof:lastmodified":1449036706,
+    "wof:lastmodified":1467084587,
     "wof:name":"Chase",
     "wof:parent_id":85820991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.32111,32.627392,-97.32111,32.627392],
+  "bbox": [
+    -97.32111,
+    32.627392,
+    -97.32111,
+    32.627392
+],
   "geometry": {"coordinates":[-97.32111,32.627392],"type":"Point"}
 }

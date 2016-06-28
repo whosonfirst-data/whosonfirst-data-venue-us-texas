@@ -2,13 +2,14 @@
   "id": 387250593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483185,29.563976,-98.483185,29.563976",
     "geom:latitude":29.563976,
     "geom:longitude":-98.483185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13413 San Pedro Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387250593,
-    "wof:lastmodified":1449058275,
+    "wof:lastmodified":1467084840,
     "wof:name":"Mattress Pro",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-98.483185,29.563976,-98.483185,29.563976],
-  "geometry": {"coordinates":[-98.483185,29.563976],"type":"Point"}
+  "bbox": [
+    -98.483185,
+    29.563976,
+    -98.483185,
+    29.563976
+],
+  "geometry": {"coordinates":[-98.48318500000001,29.563976],"type":"Point"}
 }

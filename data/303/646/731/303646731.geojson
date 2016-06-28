@@ -2,13 +2,14 @@
   "id": 303646731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.820698,30.179017,-97.820698,30.179017",
     "geom:latitude":30.179017,
     "geom:longitude":-97.820698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9323 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303646731,
-    "wof:lastmodified":1448998056,
+    "wof:lastmodified":1467083688,
     "wof:name":"Capital One, National Association",
     "wof:parent_id":85893505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.820698,30.179017,-97.820698,30.179017],
-  "geometry": {"coordinates":[-97.820698,30.179017],"type":"Point"}
+  "bbox": [
+    -97.820698,
+    30.179017,
+    -97.820698,
+    30.179017
+],
+  "geometry": {"coordinates":[-97.82069799999999,30.179017],"type":"Point"}
 }

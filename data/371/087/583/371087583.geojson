@@ -2,13 +2,14 @@
   "id": 371087583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.391105,29.743529,-95.391105,29.743529",
     "geom:latitude":29.743529,
     "geom:longitude":-95.391105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Lovett Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371087583,
-    "wof:lastmodified":1449049486,
+    "wof:lastmodified":1467084678,
     "wof:name":"LA Mora",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.391105,29.743529,-95.391105,29.743529],
+  "bbox": [
+    -95.391105,
+    29.743529,
+    -95.391105,
+    29.743529
+],
   "geometry": {"coordinates":[-95.391105,29.743529],"type":"Point"}
 }

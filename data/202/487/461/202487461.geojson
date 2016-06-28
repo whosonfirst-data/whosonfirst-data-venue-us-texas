@@ -2,13 +2,14 @@
   "id": 202487461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.49263,29.777548,-95.49263,29.777548",
     "geom:latitude":29.777548,
     "geom:longitude":-95.49263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10529 Beinhorn Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202487461,
-    "wof:lastmodified":1449060933,
+    "wof:lastmodified":1467084905,
     "wof:name":"Eleganza Hair Salon",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.49263,29.777548,-95.49263,29.777548],
-  "geometry": {"coordinates":[-95.49263,29.777548],"type":"Point"}
+  "bbox": [
+    -95.49263,
+    29.777548,
+    -95.49263,
+    29.777548
+],
+  "geometry": {"coordinates":[-95.49263000000001,29.777548],"type":"Point"}
 }

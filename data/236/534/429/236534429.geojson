@@ -2,13 +2,14 @@
   "id": 236534429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.605698,33.658076,-96.605698,33.658076",
     "geom:latitude":33.658076,
     "geom:longitude":-96.605698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 N Loy Lake Rd Ste M",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236534429,
-    "wof:lastmodified":1449002324,
+    "wof:lastmodified":1467083901,
     "wof:name":"STD Test Express Sherman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.605698,33.658076,-96.605698,33.658076],
+  "bbox": [
+    -96.605698,
+    33.658076,
+    -96.605698,
+    33.658076
+],
   "geometry": {"coordinates":[-96.605698,33.658076],"type":"Point"}
 }

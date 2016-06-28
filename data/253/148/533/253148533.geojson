@@ -2,13 +2,14 @@
   "id": 253148533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746399,32.910198,-96.746399,32.910198",
     "geom:latitude":32.910198,
     "geom:longitude":-96.746399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11884 Greenville Ave Ste 112",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253148533,
-    "wof:lastmodified":1449065302,
+    "wof:lastmodified":1467085030,
     "wof:name":"American Orthodontic Society",
     "wof:parent_id":85897337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-96.746399,32.910198,-96.746399,32.910198],
+  "bbox": [
+    -96.746399,
+    32.910198,
+    -96.746399,
+    32.910198
+],
   "geometry": {"coordinates":[-96.746399,32.910198],"type":"Point"}
 }

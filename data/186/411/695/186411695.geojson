@@ -2,13 +2,14 @@
   "id": 186411695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.473233,27.576883,-99.473233,27.576883",
     "geom:latitude":27.576883,
     "geom:longitude":-99.473233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7815 McPherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186411695,
-    "wof:lastmodified":1449050396,
+    "wof:lastmodified":1467084695,
     "wof:name":"EZ Mortgage",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-99.473233,27.576883,-99.473233,27.576883],
-  "geometry": {"coordinates":[-99.473233,27.576883],"type":"Point"}
+  "bbox": [
+    -99.473233,
+    27.576883,
+    -99.473233,
+    27.576883
+],
+  "geometry": {"coordinates":[-99.47323299999999,27.576883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287129777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504433,27.523744,-99.504433,27.523744",
     "geom:latitude":27.523744,
     "geom:longitude":-99.504433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287129777,
-    "wof:lastmodified":1449001380,
+    "wof:lastmodified":1467083842,
     "wof:name":"Suzuki of Laredo",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-99.504433,27.523744,-99.504433,27.523744],
-  "geometry": {"coordinates":[-99.504433,27.523744],"type":"Point"}
+  "bbox": [
+    -99.504433,
+    27.523744,
+    -99.504433,
+    27.523744
+],
+  "geometry": {"coordinates":[-99.50443300000001,27.523744],"type":"Point"}
 }

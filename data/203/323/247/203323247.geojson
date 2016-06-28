@@ -2,13 +2,14 @@
   "id": 203323247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.821288,32.980307,-102.821288,32.980307",
     "geom:latitude":32.980307,
     "geom:longitude":-102.821288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Mar St",
     "sg:city":"Denver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203323247,
-    "wof:lastmodified":1449025096,
+    "wof:lastmodified":1467084388,
     "wof:name":"T & S Typing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-102.821288,32.980307,-102.821288,32.980307],
+  "bbox": [
+    -102.821288,
+    32.980307,
+    -102.821288,
+    32.980307
+],
   "geometry": {"coordinates":[-102.821288,32.980307],"type":"Point"}
 }

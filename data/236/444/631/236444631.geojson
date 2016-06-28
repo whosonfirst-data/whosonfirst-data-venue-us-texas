@@ -2,13 +2,14 @@
   "id": 236444631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.725403,32.962299,-96.725403,32.962299",
     "geom:latitude":32.962299,
     "geom:longitude":-96.725403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 N Central Expy",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236444631,
-    "wof:lastmodified":1449004705,
+    "wof:lastmodified":1467084013,
     "wof:name":"P C House",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.725403,32.962299,-96.725403,32.962299],
+  "bbox": [
+    -96.725403,
+    32.962299,
+    -96.725403,
+    32.962299
+],
   "geometry": {"coordinates":[-96.725403,32.962299],"type":"Point"}
 }

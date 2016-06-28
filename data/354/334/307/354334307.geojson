@@ -2,13 +2,14 @@
   "id": 354334307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.627024,29.676398,-98.627024,29.676398",
     "geom:latitude":29.676398,
     "geom:longitude":-98.627024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25226 Brewer Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354334307,
-    "wof:lastmodified":1449066401,
+    "wof:lastmodified":1467085063,
     "wof:name":"C & A Grounds Svc",
     "wof:parent_id":85830307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-98.627024,29.676398,-98.627024,29.676398],
-  "geometry": {"coordinates":[-98.627024,29.676398],"type":"Point"}
+  "bbox": [
+    -98.627024,
+    29.676398,
+    -98.627024,
+    29.676398
+],
+  "geometry": {"coordinates":[-98.62702400000001,29.676398],"type":"Point"}
 }

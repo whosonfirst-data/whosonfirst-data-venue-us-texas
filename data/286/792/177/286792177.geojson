@@ -2,13 +2,14 @@
   "id": 286792177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.166,29.6495,-95.166,29.6495",
     "geom:latitude":29.6495,
     "geom:longitude":-95.166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5018 Fairmont Pkwy",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286792177,
-    "wof:lastmodified":1449015804,
+    "wof:lastmodified":1467084253,
     "wof:name":"Animal Medical Center of Pasadena",
     "wof:parent_id":85869217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.166,29.6495,-95.166,29.6495],
+  "bbox": [
+    -95.166,
+    29.6495,
+    -95.166,
+    29.6495
+],
   "geometry": {"coordinates":[-95.166,29.6495],"type":"Point"}
 }

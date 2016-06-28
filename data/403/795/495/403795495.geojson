@@ -2,13 +2,14 @@
   "id": 403795495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359103,32.72845,-97.359103,32.72845",
     "geom:latitude":32.72845,
     "geom:longitude":-97.359103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Merrimac Cir",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403795495,
-    "wof:lastmodified":1449055434,
+    "wof:lastmodified":1467084768,
     "wof:name":"Rent A Frog of Fort Worth",
     "wof:parent_id":85871561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.359103,32.72845,-97.359103,32.72845],
+  "bbox": [
+    -97.359103,
+    32.72845,
+    -97.359103,
+    32.72845
+],
   "geometry": {"coordinates":[-97.359103,32.72845],"type":"Point"}
 }

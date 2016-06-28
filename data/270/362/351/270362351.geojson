@@ -2,13 +2,14 @@
   "id": 270362351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.485199,29.8151,-95.485199,29.8151",
     "geom:latitude":29.8151,
     "geom:longitude":-95.485199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Wirt Rd Ste F",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270362351,
-    "wof:lastmodified":1449010246,
+    "wof:lastmodified":1467084203,
     "wof:name":"Westview Pharmacy",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.485199,29.8151,-95.485199,29.8151],
-  "geometry": {"coordinates":[-95.485199,29.8151],"type":"Point"}
+  "bbox": [
+    -95.485199,
+    29.8151,
+    -95.485199,
+    29.8151
+],
+  "geometry": {"coordinates":[-95.48519899999999,29.8151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303302705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.768053,30.291404,-97.768053,30.291404",
     "geom:latitude":30.291404,
     "geom:longitude":-97.768053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Woodmont Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303302705,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1467083733,
     "wof:name":"Lake Raglesville Mgt",
     "wof:parent_id":85867207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-97.768053,30.291404,-97.768053,30.291404],
-  "geometry": {"coordinates":[-97.768053,30.291404],"type":"Point"}
+  "bbox": [
+    -97.768053,
+    30.291404,
+    -97.768053,
+    30.291404
+],
+  "geometry": {"coordinates":[-97.76805299999999,30.291404],"type":"Point"}
 }

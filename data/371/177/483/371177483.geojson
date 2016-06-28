@@ -2,13 +2,14 @@
   "id": 371177483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143087,30.065871,-94.143087,30.065871",
     "geom:latitude":30.065871,
     "geom:longitude":-94.143087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S 23rd St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371177483,
-    "wof:lastmodified":1449050136,
+    "wof:lastmodified":1467084691,
     "wof:name":"Clairmont",
     "wof:parent_id":85808833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-94.143087,30.065871,-94.143087,30.065871],
-  "geometry": {"coordinates":[-94.143087,30.065871],"type":"Point"}
+  "bbox": [
+    -94.143087,
+    30.065871,
+    -94.143087,
+    30.065871
+],
+  "geometry": {"coordinates":[-94.14308699999999,30.065871],"type":"Point"}
 }

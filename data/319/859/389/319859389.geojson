@@ -2,13 +2,14 @@
   "id": 319859389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.569099,31.879127,-106.569099,31.879127",
     "geom:latitude":31.879127,
     "geom:longitude":-106.569099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Resler Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319859389,
-    "wof:lastmodified":1449024640,
+    "wof:lastmodified":1467084382,
     "wof:name":"GECU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.569099,31.879127,-106.569099,31.879127],
-  "geometry": {"coordinates":[-106.569099,31.879127],"type":"Point"}
+  "bbox": [
+    -106.569099,
+    31.879127,
+    -106.569099,
+    31.879127
+],
+  "geometry": {"coordinates":[-106.56909899999999,31.879127],"type":"Point"}
 }

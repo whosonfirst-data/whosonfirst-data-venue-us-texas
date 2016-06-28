@@ -2,13 +2,14 @@
   "id": 269761017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.97992,31.721919,-98.97992,31.721919",
     "geom:latitude":31.721919,
     "geom:longitude":-98.97992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Fisk Ave",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269761017,
-    "wof:lastmodified":1449038236,
+    "wof:lastmodified":1467084623,
     "wof:name":"Hawkins Dean CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-98.97992,31.721919,-98.97992,31.721919],
-  "geometry": {"coordinates":[-98.97992,31.721919],"type":"Point"}
+  "bbox": [
+    -98.97992,
+    31.721919,
+    -98.97992,
+    31.721919
+],
+  "geometry": {"coordinates":[-98.97992000000001,31.721919],"type":"Point"}
 }

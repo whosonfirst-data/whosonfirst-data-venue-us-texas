@@ -2,13 +2,14 @@
   "id": 186230155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.000453,32.936785,-97.000453,32.936785",
     "geom:latitude":32.936785,
     "geom:longitude":-97.000453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Crestside Dr",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186230155,
-    "wof:lastmodified":1449052343,
+    "wof:lastmodified":1467084732,
     "wof:name":"McCollister Transport Sys Grp",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.000453,32.936785,-97.000453,32.936785],
-  "geometry": {"coordinates":[-97.000453,32.936785],"type":"Point"}
+  "bbox": [
+    -97.000453,
+    32.936785,
+    -97.000453,
+    32.936785
+],
+  "geometry": {"coordinates":[-97.00045299999999,32.936785],"type":"Point"}
 }

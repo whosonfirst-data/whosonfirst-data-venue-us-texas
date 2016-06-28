@@ -2,13 +2,14 @@
   "id": 387041955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.778327,32.890859,-96.778327,32.890859",
     "geom:latitude":32.890859,
     "geom:longitude":-96.778327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10509 Ravenscroft Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387041955,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1467084819,
     "wof:name":"W C Perkins DDS",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.778327,32.890859,-96.778327,32.890859],
+  "bbox": [
+    -96.778327,
+    32.890859,
+    -96.778327,
+    32.890859
+],
   "geometry": {"coordinates":[-96.778327,32.890859],"type":"Point"}
 }

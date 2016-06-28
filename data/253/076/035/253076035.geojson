@@ -2,13 +2,14 @@
   "id": 253076035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.230013,26.204004,-98.230013,26.204004",
     "geom:latitude":26.204004,
     "geom:longitude":-98.230013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N 10th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253076035,
-    "wof:lastmodified":1449065122,
+    "wof:lastmodified":1467085024,
     "wof:name":"Art Depot",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.230013,26.204004,-98.230013,26.204004],
+  "bbox": [
+    -98.230013,
+    26.204004,
+    -98.230013,
+    26.204004
+],
   "geometry": {"coordinates":[-98.230013,26.204004],"type":"Point"}
 }

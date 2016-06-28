@@ -2,13 +2,14 @@
   "id": 370830597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738447,30.343728,-97.738447,30.343728",
     "geom:latitude":30.343728,
     "geom:longitude":-97.738447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370830597,
-    "wof:lastmodified":1449029815,
+    "wof:lastmodified":1467084486,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-97.738447,30.343728,-97.738447,30.343728],
-  "geometry": {"coordinates":[-97.738447,30.343728],"type":"Point"}
+  "bbox": [
+    -97.738447,
+    30.343728,
+    -97.738447,
+    30.343728
+],
+  "geometry": {"coordinates":[-97.73844699999999,30.343728],"type":"Point"}
 }

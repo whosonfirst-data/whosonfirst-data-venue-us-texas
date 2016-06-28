@@ -2,13 +2,14 @@
   "id": 353705313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.784636,30.242005,-97.784636,30.242005",
     "geom:latitude":30.242005,
     "geom:longitude":-97.784636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353705313,
-    "wof:lastmodified":1449020807,
+    "wof:lastmodified":1467084376,
     "wof:name":"World of Rentals",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.784636,30.242005,-97.784636,30.242005],
-  "geometry": {"coordinates":[-97.784636,30.242005],"type":"Point"}
+  "bbox": [
+    -97.784636,
+    30.242005,
+    -97.784636,
+    30.242005
+],
+  "geometry": {"coordinates":[-97.78463600000001,30.242005],"type":"Point"}
 }

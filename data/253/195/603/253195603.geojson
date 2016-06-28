@@ -2,13 +2,14 @@
   "id": 253195603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.952445,29.782652,-97.952445,29.782652",
     "geom:latitude":29.782652,
     "geom:longitude":-97.952445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Ridge Dr",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253195603,
-    "wof:lastmodified":1449064786,
+    "wof:lastmodified":1467085013,
     "wof:name":"Central Receiving Dept",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-97.952445,29.782652,-97.952445,29.782652],
+  "bbox": [
+    -97.952445,
+    29.782652,
+    -97.952445,
+    29.782652
+],
   "geometry": {"coordinates":[-97.952445,29.782652],"type":"Point"}
 }

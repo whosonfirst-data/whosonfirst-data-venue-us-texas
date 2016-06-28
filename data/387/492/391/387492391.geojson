@@ -2,13 +2,14 @@
   "id": 387492391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.466423,30.081481,-95.466423,30.081481",
     "geom:latitude":30.081481,
     "geom:longitude":-95.466423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Greenlake Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387492391,
-    "wof:lastmodified":1449056109,
+    "wof:lastmodified":1467084784,
     "wof:name":"Guardian Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tax"
     ]
 },
-  "bbox": [-95.466423,30.081481,-95.466423,30.081481],
-  "geometry": {"coordinates":[-95.466423,30.081481],"type":"Point"}
+  "bbox": [
+    -95.466423,
+    30.081481,
+    -95.466423,
+    30.081481
+],
+  "geometry": {"coordinates":[-95.46642300000001,30.081481],"type":"Point"}
 }

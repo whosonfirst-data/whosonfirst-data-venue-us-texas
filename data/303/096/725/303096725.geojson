@@ -2,13 +2,14 @@
   "id": 303096725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753076,30.515106,-97.753076,30.515106",
     "geom:latitude":30.515106,
     "geom:longitude":-97.753076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Brushy Creek Rd",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":303096725,
-    "wof:lastmodified":1448998906,
+    "wof:lastmodified":1467083731,
     "wof:name":"Olson Meadow Park",
     "wof:parent_id":85893553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.753076,30.515106,-97.753076,30.515106],
-  "geometry": {"coordinates":[-97.753076,30.515106],"type":"Point"}
+  "bbox": [
+    -97.753076,
+    30.515106,
+    -97.753076,
+    30.515106
+],
+  "geometry": {"coordinates":[-97.75307599999999,30.515106],"type":"Point"}
 }

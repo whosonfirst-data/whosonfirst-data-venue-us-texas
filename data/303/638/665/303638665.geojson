@@ -2,13 +2,14 @@
   "id": 303638665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.797289,30.152227,-97.797289,30.152227",
     "geom:latitude":30.152227,
     "geom:longitude":-97.797289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Old San Antonio Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303638665,
-    "wof:lastmodified":1448998253,
+    "wof:lastmodified":1467083698,
     "wof:name":"South Austin Youth Football",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "football"
     ]
 },
-  "bbox": [-97.797289,30.152227,-97.797289,30.152227],
-  "geometry": {"coordinates":[-97.797289,30.152227],"type":"Point"}
+  "bbox": [
+    -97.797289,
+    30.152227,
+    -97.797289,
+    30.152227
+],
+  "geometry": {"coordinates":[-97.79728900000001,30.152227],"type":"Point"}
 }

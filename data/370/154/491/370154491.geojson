@@ -2,13 +2,14 @@
   "id": 370154491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.453915,30.143911,-95.453915,30.143911",
     "geom:latitude":30.143911,
     "geom:longitude":-95.453915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Wishbonebush Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370154491,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467084555,
     "wof:name":"South Texas Highway & Pav",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.453915,30.143911,-95.453915,30.143911],
-  "geometry": {"coordinates":[-95.453915,30.143911],"type":"Point"}
+  "bbox": [
+    -95.453915,
+    30.143911,
+    -95.453915,
+    30.143911
+],
+  "geometry": {"coordinates":[-95.45391499999999,30.143911],"type":"Point"}
 }

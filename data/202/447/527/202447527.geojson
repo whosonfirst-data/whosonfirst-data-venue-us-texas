@@ -2,13 +2,14 @@
   "id": 202447527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.490743,29.700362,-95.490743,29.700362",
     "geom:latitude":29.700362,
     "geom:longitude":-95.490743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7333 Ashcroft Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202447527,
-    "wof:lastmodified":1449061887,
+    "wof:lastmodified":1467084925,
     "wof:name":"US Team Inc",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-95.490743,29.700362,-95.490743,29.700362],
-  "geometry": {"coordinates":[-95.490743,29.700362],"type":"Point"}
+  "bbox": [
+    -95.490743,
+    29.700362,
+    -95.490743,
+    29.700362
+],
+  "geometry": {"coordinates":[-95.49074299999999,29.700362],"type":"Point"}
 }

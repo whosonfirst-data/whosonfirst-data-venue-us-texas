@@ -2,13 +2,14 @@
   "id": 236125803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505207,25.911512,-97.505207,25.911512",
     "geom:latitude":25.911512,
     "geom:longitude":-97.505207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 W Jefferson St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236125803,
-    "wof:lastmodified":1449005110,
+    "wof:lastmodified":1467084033,
     "wof:name":"Service Uniform Rental",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "uniform"
     ]
 },
-  "bbox": [-97.505207,25.911512,-97.505207,25.911512],
+  "bbox": [
+    -97.505207,
+    25.911512,
+    -97.505207,
+    25.911512
+],
   "geometry": {"coordinates":[-97.505207,25.911512],"type":"Point"}
 }

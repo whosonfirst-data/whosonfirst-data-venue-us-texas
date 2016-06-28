@@ -2,13 +2,14 @@
   "id": 303619085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788734,30.265969,-97.788734,30.265969",
     "geom:latitude":30.265969,
     "geom:longitude":-97.788734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Liberty Park Dr # 305",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303619085,
-    "wof:lastmodified":1448998556,
+    "wof:lastmodified":1467083713,
     "wof:name":"William R Muehlberger",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geologist"
     ]
 },
-  "bbox": [-97.788734,30.265969,-97.788734,30.265969],
-  "geometry": {"coordinates":[-97.788734,30.265969],"type":"Point"}
+  "bbox": [
+    -97.788734,
+    30.265969,
+    -97.788734,
+    30.265969
+],
+  "geometry": {"coordinates":[-97.78873400000001,30.265969],"type":"Point"}
 }

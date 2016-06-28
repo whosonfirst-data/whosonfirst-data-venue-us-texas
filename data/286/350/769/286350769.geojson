@@ -2,13 +2,14 @@
   "id": 286350769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.243922,29.598574,-95.243922,29.598574",
     "geom:latitude":29.598574,
     "geom:longitude":-95.243922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9035 Kirkland Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286350769,
-    "wof:lastmodified":1449016696,
+    "wof:lastmodified":1467084278,
     "wof:name":"Houston Error Coins",
     "wof:parent_id":85869665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.243922,29.598574,-95.243922,29.598574],
+  "bbox": [
+    -95.243922,
+    29.598574,
+    -95.243922,
+    29.598574
+],
   "geometry": {"coordinates":[-95.243922,29.598574],"type":"Point"}
 }

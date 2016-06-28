@@ -2,13 +2,14 @@
   "id": 202525347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743577,32.963241,-96.743577,32.963241",
     "geom:latitude":32.963241,
     "geom:longitude":-96.743577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Floyd Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202525347,
-    "wof:lastmodified":1449062137,
+    "wof:lastmodified":1467084930,
     "wof:name":"Joe H Ledford DDS",
     "wof:parent_id":85880203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.743577,32.963241,-96.743577,32.963241],
+  "bbox": [
+    -96.743577,
+    32.963241,
+    -96.743577,
+    32.963241
+],
   "geometry": {"coordinates":[-96.743577,32.963241],"type":"Point"}
 }

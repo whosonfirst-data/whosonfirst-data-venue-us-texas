@@ -2,13 +2,14 @@
   "id": 202671723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.987815,32.869604,-96.987815,32.869604",
     "geom:latitude":32.869604,
     "geom:longitude":-96.987815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3134 Skyway Cir S",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202671723,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1467084900,
     "wof:name":"Label Source LTD",
     "wof:parent_id":85878299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.987815,32.869604,-96.987815,32.869604],
+  "bbox": [
+    -96.987815,
+    32.869604,
+    -96.987815,
+    32.869604
+],
   "geometry": {"coordinates":[-96.987815,32.869604],"type":"Point"}
 }

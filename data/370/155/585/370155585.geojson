@@ -2,13 +2,14 @@
   "id": 370155585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216555,32.909961,-97.216555,32.909961",
     "geom:latitude":32.909961,
     "geom:longitude":-97.216555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Keller Smithfield Rd S",
     "sg:city":"Keller",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370155585,
-    "wof:lastmodified":1449031883,
+    "wof:lastmodified":1467084539,
     "wof:name":"Packer Fencing",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-97.216555,32.909961,-97.216555,32.909961],
+  "bbox": [
+    -97.216555,
+    32.909961,
+    -97.216555,
+    32.909961
+],
   "geometry": {"coordinates":[-97.216555,32.909961],"type":"Point"}
 }

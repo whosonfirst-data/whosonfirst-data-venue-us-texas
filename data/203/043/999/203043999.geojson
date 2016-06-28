@@ -2,13 +2,14 @@
   "id": 203043999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.352025,32.541013,-94.352025,32.541013",
     "geom:latitude":32.541013,
     "geom:longitude":-94.352025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Starr St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203043999,
-    "wof:lastmodified":1449026381,
+    "wof:lastmodified":1467084411,
     "wof:name":"State Department Marshall City",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-94.352025,32.541013,-94.352025,32.541013],
+  "bbox": [
+    -94.352025,
+    32.541013,
+    -94.352025,
+    32.541013
+],
   "geometry": {"coordinates":[-94.352025,32.541013],"type":"Point"}
 }

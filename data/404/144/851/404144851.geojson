@@ -2,13 +2,14 @@
   "id": 404144851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198743,30.265909,-94.198743,30.265909",
     "geom:latitude":30.265909,
     "geom:longitude":-94.198743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 E Chance Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404144851,
-    "wof:lastmodified":1449039994,
+    "wof:lastmodified":1467084654,
     "wof:name":"Lumberton Public Libraray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.198743,30.265909,-94.198743,30.265909],
-  "geometry": {"coordinates":[-94.198743,30.265909],"type":"Point"}
+  "bbox": [
+    -94.198743,
+    30.265909,
+    -94.198743,
+    30.265909
+],
+  "geometry": {"coordinates":[-94.19874299999999,30.265909],"type":"Point"}
 }

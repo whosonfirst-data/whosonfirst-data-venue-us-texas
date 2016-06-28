@@ -2,13 +2,14 @@
   "id": 253694609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352809,32.568527,-97.352809,32.568527",
     "geom:latitude":32.568527,
     "geom:longitude":-97.352809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S Crowley Rd Ste 4",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253694609,
-    "wof:lastmodified":1449063649,
+    "wof:lastmodified":1467084973,
     "wof:name":"Physical Therapy Dynamics",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.352809,32.568527,-97.352809,32.568527],
-  "geometry": {"coordinates":[-97.352809,32.568527],"type":"Point"}
+  "bbox": [
+    -97.352809,
+    32.568527,
+    -97.352809,
+    32.568527
+],
+  "geometry": {"coordinates":[-97.35280899999999,32.568527],"type":"Point"}
 }

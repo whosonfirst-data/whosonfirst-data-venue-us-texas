@@ -2,13 +2,14 @@
   "id": 304006683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.898485,33.507571,-101.898485,33.507571",
     "geom:latitude":33.507571,
     "geom:longitude":-101.898485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3922 96th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304006683,
-    "wof:lastmodified":1449044030,
+    "wof:lastmodified":1467084668,
     "wof:name":"Rt Oil Field Services",
     "wof:parent_id":85878807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-101.898485,33.507571,-101.898485,33.507571],
-  "geometry": {"coordinates":[-101.898485,33.507571],"type":"Point"}
+  "bbox": [
+    -101.898485,
+    33.507571,
+    -101.898485,
+    33.507571
+],
+  "geometry": {"coordinates":[-101.89848499999999,33.507571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303516821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.861328,30.295126,-97.861328,30.295126",
     "geom:latitude":30.295126,
     "geom:longitude":-97.861328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Barton Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303516821,
-    "wof:lastmodified":1448998585,
+    "wof:lastmodified":1467083714,
     "wof:name":"Neland Gp",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-97.861328,30.295126,-97.861328,30.295126],
+  "bbox": [
+    -97.861328,
+    30.295126,
+    -97.861328,
+    30.295126
+],
   "geometry": {"coordinates":[-97.861328,30.295126],"type":"Point"}
 }

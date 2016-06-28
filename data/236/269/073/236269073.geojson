@@ -2,13 +2,14 @@
   "id": 236269073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503909,29.336112,-98.503909,29.336112",
     "geom:latitude":29.336112,
     "geom:longitude":-98.503909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Moursund Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236269073,
-    "wof:lastmodified":1449003774,
+    "wof:lastmodified":1467083969,
     "wof:name":"Robert's Automotive",
     "wof:parent_id":85851961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.503909,29.336112,-98.503909,29.336112],
-  "geometry": {"coordinates":[-98.503909,29.336112],"type":"Point"}
+  "bbox": [
+    -98.503909,
+    29.336112,
+    -98.503909,
+    29.336112
+],
+  "geometry": {"coordinates":[-98.50390899999999,29.336112],"type":"Point"}
 }

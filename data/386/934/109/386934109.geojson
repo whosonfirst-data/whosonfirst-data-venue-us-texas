@@ -2,13 +2,14 @@
   "id": 386934109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.483415,30.320129,-95.483415,30.320129",
     "geom:latitude":30.320129,
     "geom:longitude":-95.483415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 W Davis St",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386934109,
-    "wof:lastmodified":1449028639,
+    "wof:lastmodified":1467084458,
     "wof:name":"Bank Of America",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-95.483415,30.320129,-95.483415,30.320129],
-  "geometry": {"coordinates":[-95.483415,30.320129],"type":"Point"}
+  "bbox": [
+    -95.483415,
+    30.320129,
+    -95.483415,
+    30.320129
+],
+  "geometry": {"coordinates":[-95.48341499999999,30.320129],"type":"Point"}
 }

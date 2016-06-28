@@ -2,13 +2,14 @@
   "id": 202811765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.452777,29.89914,-95.452777,29.89914",
     "geom:latitude":29.89914,
     "geom:longitude":-95.452777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Big John St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202811765,
-    "wof:lastmodified":1449061351,
+    "wof:lastmodified":1467084914,
     "wof:name":"Fresh Brew Coffee",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roasting"
     ]
 },
-  "bbox": [-95.452777,29.89914,-95.452777,29.89914],
+  "bbox": [
+    -95.452777,
+    29.89914,
+    -95.452777,
+    29.89914
+],
   "geometry": {"coordinates":[-95.452777,29.89914],"type":"Point"}
 }

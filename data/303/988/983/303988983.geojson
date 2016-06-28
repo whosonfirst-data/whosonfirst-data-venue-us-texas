@@ -2,13 +2,14 @@
   "id": 303988983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.799253,33.601582,-101.799253,33.601582",
     "geom:latitude":33.601582,
     "geom:longitude":-101.799253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 E Baylor St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303988983,
-    "wof:lastmodified":1448998962,
+    "wof:lastmodified":1467083734,
     "wof:name":"Frenship Baptist Church",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-101.799253,33.601582,-101.799253,33.601582],
-  "geometry": {"coordinates":[-101.799253,33.601582],"type":"Point"}
+  "bbox": [
+    -101.799253,
+    33.601582,
+    -101.799253,
+    33.601582
+],
+  "geometry": {"coordinates":[-101.79925299999999,33.601582],"type":"Point"}
 }

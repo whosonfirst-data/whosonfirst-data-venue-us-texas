@@ -2,13 +2,14 @@
   "id": 387763313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.786155,29.209594,-99.786155,29.209594",
     "geom:latitude":29.209594,
     "geom:longitude":-99.786155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Main St",
     "sg:city":"Uvalde",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387763313,
-    "wof:lastmodified":1449059905,
+    "wof:lastmodified":1467084882,
     "wof:name":"Uvalde County Court Master",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-99.786155,29.209594,-99.786155,29.209594],
-  "geometry": {"coordinates":[-99.786155,29.209594],"type":"Point"}
+  "bbox": [
+    -99.786155,
+    29.209594,
+    -99.786155,
+    29.209594
+],
+  "geometry": {"coordinates":[-99.78615499999999,29.209594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236395443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43452,32.732158,-97.43452,32.732158",
     "geom:latitude":32.732158,
     "geom:longitude":-97.43452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Lackland Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236395443,
-    "wof:lastmodified":1449004663,
+    "wof:lastmodified":1467084011,
     "wof:name":"American Integration",
     "wof:parent_id":85897393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.43452,32.732158,-97.43452,32.732158],
-  "geometry": {"coordinates":[-97.43452,32.732158],"type":"Point"}
+  "bbox": [
+    -97.43452,
+    32.732158,
+    -97.43452,
+    32.732158
+],
+  "geometry": {"coordinates":[-97.43452000000001,32.732158],"type":"Point"}
 }

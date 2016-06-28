@@ -2,13 +2,14 @@
   "id": 220123465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.440253,31.440648,-100.440253,31.440648",
     "geom:latitude":31.440648,
     "geom:longitude":-100.440253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Ben Ficklin Rd",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220123465,
-    "wof:lastmodified":1449074256,
+    "wof:lastmodified":1467085181,
     "wof:name":"Garcia Income Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-100.440253,31.440648,-100.440253,31.440648],
+  "bbox": [
+    -100.440253,
+    31.440648,
+    -100.440253,
+    31.440648
+],
   "geometry": {"coordinates":[-100.440253,31.440648],"type":"Point"}
 }

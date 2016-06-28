@@ -2,13 +2,14 @@
   "id": 219851391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.488587,28.709881,-100.488587,28.709881",
     "geom:latitude":28.709881,
     "geom:longitude":-100.488587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Olive St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219851391,
-    "wof:lastmodified":1449072710,
+    "wof:lastmodified":1467085148,
     "wof:name":"DLS Supply",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-100.488587,28.709881,-100.488587,28.709881],
+  "bbox": [
+    -100.488587,
+    28.709881,
+    -100.488587,
+    28.709881
+],
   "geometry": {"coordinates":[-100.488587,28.709881],"type":"Point"}
 }

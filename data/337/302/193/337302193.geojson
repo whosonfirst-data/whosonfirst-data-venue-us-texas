@@ -2,13 +2,14 @@
   "id": 337302193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.434568,29.911777,-95.434568,29.911777",
     "geom:latitude":29.911777,
     "geom:longitude":-95.434568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10046 Rosbrook Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302193,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1467084435,
     "wof:name":"Black-Out",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-95.434568,29.911777,-95.434568,29.911777],
+  "bbox": [
+    -95.434568,
+    29.911777,
+    -95.434568,
+    29.911777
+],
   "geometry": {"coordinates":[-95.434568,29.911777],"type":"Point"}
 }

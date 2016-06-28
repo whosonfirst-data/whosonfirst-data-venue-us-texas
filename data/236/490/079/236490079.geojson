@@ -2,13 +2,14 @@
   "id": 236490079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.521248,27.525654,-99.521248,27.525654",
     "geom:latitude":27.525654,
     "geom:longitude":-99.521248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Anna Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236490079,
-    "wof:lastmodified":1449004843,
+    "wof:lastmodified":1467084020,
     "wof:name":"USA Mobility Inc",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-99.521248,27.525654,-99.521248,27.525654],
+  "bbox": [
+    -99.521248,
+    27.525654,
+    -99.521248,
+    27.525654
+],
   "geometry": {"coordinates":[-99.521248,27.525654],"type":"Point"}
 }

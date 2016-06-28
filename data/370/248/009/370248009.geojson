@@ -2,13 +2,14 @@
   "id": 370248009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754776,30.456249,-97.754776,30.456249",
     "geom:latitude":30.456249,
     "geom:longitude":-97.754776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13405 Moscow Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370248009,
-    "wof:lastmodified":1449030930,
+    "wof:lastmodified":1467084515,
     "wof:name":"Simple Solutions For Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-97.754776,30.456249,-97.754776,30.456249],
-  "geometry": {"coordinates":[-97.754776,30.456249],"type":"Point"}
+  "bbox": [
+    -97.754776,
+    30.456249,
+    -97.754776,
+    30.456249
+],
+  "geometry": {"coordinates":[-97.75477600000001,30.456249],"type":"Point"}
 }

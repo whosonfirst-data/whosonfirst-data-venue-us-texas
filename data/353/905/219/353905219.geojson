@@ -2,13 +2,14 @@
   "id": 353905219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.125143,29.694705,-98.125143,29.694705",
     "geom:latitude":29.694705,
     "geom:longitude":-98.125143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 S Guenther Ave",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353905219,
-    "wof:lastmodified":1449019271,
+    "wof:lastmodified":1467084343,
     "wof:name":"Pete Willams Agency",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-98.125143,29.694705,-98.125143,29.694705],
-  "geometry": {"coordinates":[-98.125143,29.694705],"type":"Point"}
+  "bbox": [
+    -98.125143,
+    29.694705,
+    -98.125143,
+    29.694705
+],
+  "geometry": {"coordinates":[-98.12514299999999,29.694705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253625799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.060234,32.75663,-97.060234,32.75663",
     "geom:latitude":32.75663,
     "geom:longitude":-97.060234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Avenue E E",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253625799,
-    "wof:lastmodified":1449065847,
+    "wof:lastmodified":1467085049,
     "wof:name":"DFW Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-97.060234,32.75663,-97.060234,32.75663],
-  "geometry": {"coordinates":[-97.060234,32.75663],"type":"Point"}
+  "bbox": [
+    -97.060234,
+    32.75663,
+    -97.060234,
+    32.75663
+],
+  "geometry": {"coordinates":[-97.06023399999999,32.75663],"type":"Point"}
 }

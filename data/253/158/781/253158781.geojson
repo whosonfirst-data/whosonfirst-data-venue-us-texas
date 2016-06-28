@@ -2,13 +2,14 @@
   "id": 253158781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752855,32.815556,-96.752855,32.815556",
     "geom:latitude":32.815556,
     "geom:longitude":-96.752855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 North Abrams Road",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":253158781,
-    "wof:lastmodified":1449064810,
+    "wof:lastmodified":1467085014,
     "wof:name":"DDC Oil and Gas",
     "wof:parent_id":85870367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "lease"
     ]
 },
-  "bbox": [-96.752855,32.815556,-96.752855,32.815556],
+  "bbox": [
+    -96.752855,
+    32.815556,
+    -96.752855,
+    32.815556
+],
   "geometry": {"coordinates":[-96.752855,32.815556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202686001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.938641,29.881778,-97.938641,29.881778",
     "geom:latitude":29.881778,
     "geom:longitude":-97.938641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Edward Gray St",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686001,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1467084928,
     "wof:name":"Historic Area Properties",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.938641,29.881778,-97.938641,29.881778],
+  "bbox": [
+    -97.938641,
+    29.881778,
+    -97.938641,
+    29.881778
+],
   "geometry": {"coordinates":[-97.938641,29.881778],"type":"Point"}
 }

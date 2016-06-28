@@ -2,13 +2,14 @@
   "id": 353509849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.492595,31.435782,-100.492595,31.435782",
     "geom:latitude":31.435782,
     "geom:longitude":-100.492595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Southwest Blvd",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353509849,
-    "wof:lastmodified":1449018341,
+    "wof:lastmodified":1467084323,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.492595,31.435782,-100.492595,31.435782],
-  "geometry": {"coordinates":[-100.492595,31.435782],"type":"Point"}
+  "bbox": [
+    -100.492595,
+    31.435782,
+    -100.492595,
+    31.435782
+],
+  "geometry": {"coordinates":[-100.49259499999999,31.435782],"type":"Point"}
 }

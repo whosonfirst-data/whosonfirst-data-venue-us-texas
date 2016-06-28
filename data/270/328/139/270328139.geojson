@@ -2,13 +2,14 @@
   "id": 270328139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.354103,29.616501,-95.354103,29.616501",
     "geom:latitude":29.616501,
     "geom:longitude":-95.354103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Allison Rd # C",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270328139,
-    "wof:lastmodified":1449010084,
+    "wof:lastmodified":1467084198,
     "wof:name":"Happy Donuts",
     "wof:parent_id":85869661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.354103,29.616501,-95.354103,29.616501],
-  "geometry": {"coordinates":[-95.354103,29.616501],"type":"Point"}
+  "bbox": [
+    -95.354103,
+    29.616501,
+    -95.354103,
+    29.616501
+],
+  "geometry": {"coordinates":[-95.35410299999999,29.616501],"type":"Point"}
 }

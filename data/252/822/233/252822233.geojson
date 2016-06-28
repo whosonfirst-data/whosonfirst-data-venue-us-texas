@@ -2,13 +2,14 @@
   "id": 252822233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807031,32.813037,-96.807031,32.813037",
     "geom:latitude":32.813037,
     "geom:longitude":-96.807031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":252822233,
-    "wof:lastmodified":1449006470,
+    "wof:lastmodified":1467084106,
     "wof:name":"Rush",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-96.807031,32.813037,-96.807031,32.813037],
-  "geometry": {"coordinates":[-96.807031,32.813037],"type":"Point"}
+  "bbox": [
+    -96.807031,
+    32.813037,
+    -96.807031,
+    32.813037
+],
+  "geometry": {"coordinates":[-96.80703099999999,32.813037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252832109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809356,32.809919,-96.809356,32.809919",
     "geom:latitude":32.809919,
     "geom:longitude":-96.809356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3818 Cedar Springs Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252832109,
-    "wof:lastmodified":1449005405,
+    "wof:lastmodified":1467084047,
     "wof:name":"Dallas Garage Door Repair",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.809356,32.809919,-96.809356,32.809919],
-  "geometry": {"coordinates":[-96.809356,32.809919],"type":"Point"}
+  "bbox": [
+    -96.809356,
+    32.809919,
+    -96.809356,
+    32.809919
+],
+  "geometry": {"coordinates":[-96.80935599999999,32.809919],"type":"Point"}
 }

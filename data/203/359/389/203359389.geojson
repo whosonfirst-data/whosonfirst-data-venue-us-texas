@@ -2,13 +2,14 @@
   "id": 203359389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508327,29.647304,-95.508327,29.647304",
     "geom:latitude":29.647304,
     "geom:longitude":-95.508327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12101 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203359389,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1467084384,
     "wof:name":"Flashy Watches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.508327,29.647304,-95.508327,29.647304],
-  "geometry": {"coordinates":[-95.508327,29.647304],"type":"Point"}
+  "bbox": [
+    -95.508327,
+    29.647304,
+    -95.508327,
+    29.647304
+],
+  "geometry": {"coordinates":[-95.50832699999999,29.647304],"type":"Point"}
 }

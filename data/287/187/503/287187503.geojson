@@ -2,13 +2,14 @@
   "id": 287187503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941758,29.569081,-97.941758,29.569081",
     "geom:latitude":29.569081,
     "geom:longitude":-97.941758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 E Court St",
     "sg:city":"Seguin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":287187503,
-    "wof:lastmodified":1449000795,
+    "wof:lastmodified":1467083822,
     "wof:name":"McDonald's",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "chicken"
     ]
 },
-  "bbox": [-97.941758,29.569081,-97.941758,29.569081],
-  "geometry": {"coordinates":[-97.941758,29.569081],"type":"Point"}
+  "bbox": [
+    -97.941758,
+    29.569081,
+    -97.941758,
+    29.569081
+],
+  "geometry": {"coordinates":[-97.94175799999999,29.569081],"type":"Point"}
 }

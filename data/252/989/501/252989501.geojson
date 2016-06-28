@@ -2,13 +2,14 @@
   "id": 252989501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.635432,32.340413,-99.635432,32.340413",
     "geom:latitude":32.340413,
     "geom:longitude":-99.635432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E State Hwy 36",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252989501,
-    "wof:lastmodified":1449006199,
+    "wof:lastmodified":1467084091,
     "wof:name":"S&M Remodling & Add Ons",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-99.635432,32.340413,-99.635432,32.340413],
-  "geometry": {"coordinates":[-99.635432,32.340413],"type":"Point"}
+  "bbox": [
+    -99.635432,
+    32.340413,
+    -99.635432,
+    32.340413
+],
+  "geometry": {"coordinates":[-99.63543199999999,32.340413],"type":"Point"}
 }

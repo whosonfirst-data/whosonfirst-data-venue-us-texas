@@ -2,13 +2,14 @@
   "id": 253156987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766288,32.920291,-96.766288,32.920291",
     "geom:latitude":32.920291,
     "geom:longitude":-96.766288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12655 N Central Expy Ste 800",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253156987,
-    "wof:lastmodified":1449063400,
+    "wof:lastmodified":1467084965,
     "wof:name":"CMC Home Lending",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.766288,32.920291,-96.766288,32.920291],
+  "bbox": [
+    -96.766288,
+    32.920291,
+    -96.766288,
+    32.920291
+],
   "geometry": {"coordinates":[-96.766288,32.920291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303471163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754861,30.324475,-97.754861,30.324475",
     "geom:latitude":30.324475,
     "geom:longitude":-97.754861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Perry Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303471163,
-    "wof:lastmodified":1448999101,
+    "wof:lastmodified":1467083740,
     "wof:name":"Crank John Auto Sales",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-97.754861,30.324475,-97.754861,30.324475],
-  "geometry": {"coordinates":[-97.754861,30.324475],"type":"Point"}
+  "bbox": [
+    -97.754861,
+    30.324475,
+    -97.754861,
+    30.324475
+],
+  "geometry": {"coordinates":[-97.75486100000001,30.324475],"type":"Point"}
 }

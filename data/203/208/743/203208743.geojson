@@ -2,13 +2,14 @@
   "id": 203208743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.122356,31.980189,-102.122356,31.980189",
     "geom:latitude":31.980189,
     "geom:longitude":-102.122356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 Thomason Dr",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203208743,
-    "wof:lastmodified":1449025166,
+    "wof:lastmodified":1467084389,
     "wof:name":"Mongo Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-102.122356,31.980189,-102.122356,31.980189],
+  "bbox": [
+    -102.122356,
+    31.980189,
+    -102.122356,
+    31.980189
+],
   "geometry": {"coordinates":[-102.122356,31.980189],"type":"Point"}
 }

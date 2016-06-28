@@ -2,13 +2,14 @@
   "id": 303915253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.746986,34.20715,-101.746986,34.20715",
     "geom:latitude":34.20715,
     "geom:longitude":-101.746986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Holliday St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303915253,
-    "wof:lastmodified":1449000543,
+    "wof:lastmodified":1467083812,
     "wof:name":"Charles Francis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.746986,34.20715,-101.746986,34.20715],
-  "geometry": {"coordinates":[-101.746986,34.20715],"type":"Point"}
+  "bbox": [
+    -101.746986,
+    34.20715,
+    -101.746986,
+    34.20715
+],
+  "geometry": {"coordinates":[-101.74698600000001,34.20715],"type":"Point"}
 }

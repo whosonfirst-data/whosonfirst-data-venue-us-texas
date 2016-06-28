@@ -2,13 +2,14 @@
   "id": 370514649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.055689,32.777358,-97.055689,32.777358",
     "geom:latitude":32.777358,
     "geom:longitude":-97.055689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 Westpark Dr",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370514649,
-    "wof:lastmodified":1449030783,
+    "wof:lastmodified":1467084512,
     "wof:name":"Builders First Source",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-97.055689,32.777358,-97.055689,32.777358],
+  "bbox": [
+    -97.055689,
+    32.777358,
+    -97.055689,
+    32.777358
+],
   "geometry": {"coordinates":[-97.055689,32.777358],"type":"Point"}
 }

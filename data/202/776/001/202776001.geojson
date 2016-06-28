@@ -2,13 +2,14 @@
   "id": 202776001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.338107,30.568719,-96.338107,30.568719",
     "geom:latitude":30.568719,
     "geom:longitude":-96.338107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3946 Arboleda Dr",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202776001,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1467084900,
     "wof:name":"Sunset Homes",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.338107,30.568719,-96.338107,30.568719],
-  "geometry": {"coordinates":[-96.338107,30.568719],"type":"Point"}
+  "bbox": [
+    -96.338107,
+    30.568719,
+    -96.338107,
+    30.568719
+],
+  "geometry": {"coordinates":[-96.33810699999999,30.568719],"type":"Point"}
 }

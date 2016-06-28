@@ -2,13 +2,14 @@
   "id": 186295503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.007247,29.821962,-98.007247,29.821962",
     "geom:latitude":29.821962,
     "geom:longitude":-98.007247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Hunter Rd",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186295503,
-    "wof:lastmodified":1449051463,
+    "wof:lastmodified":1467084714,
     "wof:name":"Recall Corp",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-98.007247,29.821962,-98.007247,29.821962],
-  "geometry": {"coordinates":[-98.007247,29.821962],"type":"Point"}
+  "bbox": [
+    -98.007247,
+    29.821962,
+    -98.007247,
+    29.821962
+],
+  "geometry": {"coordinates":[-98.00724700000001,29.821962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202805269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.521207,27.517183,-99.521207,27.517183",
     "geom:latitude":27.517183,
     "geom:longitude":-99.521207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 E Anna Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202805269,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1467084906,
     "wof:name":"Laredo Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.521207,27.517183,-99.521207,27.517183],
+  "bbox": [
+    -99.521207,
+    27.517183,
+    -99.521207,
+    27.517183
+],
   "geometry": {"coordinates":[-99.521207,27.517183],"type":"Point"}
 }

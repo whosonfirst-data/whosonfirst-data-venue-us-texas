@@ -2,13 +2,14 @@
   "id": 387511909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500734,29.813167,-95.500734,29.813167",
     "geom:latitude":29.813167,
     "geom:longitude":-95.500734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 Bingle Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387511909,
-    "wof:lastmodified":1449057858,
+    "wof:lastmodified":1467084829,
     "wof:name":"Mbs Tool and Fastner",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hand"
     ]
 },
-  "bbox": [-95.500734,29.813167,-95.500734,29.813167],
-  "geometry": {"coordinates":[-95.500734,29.813167],"type":"Point"}
+  "bbox": [
+    -95.500734,
+    29.813167,
+    -95.500734,
+    29.813167
+],
+  "geometry": {"coordinates":[-95.50073399999999,29.813167],"type":"Point"}
 }

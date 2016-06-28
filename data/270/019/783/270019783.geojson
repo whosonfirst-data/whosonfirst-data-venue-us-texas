@@ -2,13 +2,14 @@
   "id": 270019783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.395351,29.761364,-95.395351,29.761364",
     "geom:latitude":29.761364,
     "geom:longitude":-95.395351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Allen Pkwy Ste 1000",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270019783,
-    "wof:lastmodified":1449010059,
+    "wof:lastmodified":1467084197,
     "wof:name":"Beale David Atty",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.395351,29.761364,-95.395351,29.761364],
-  "geometry": {"coordinates":[-95.395351,29.761364],"type":"Point"}
+  "bbox": [
+    -95.395351,
+    29.761364,
+    -95.395351,
+    29.761364
+],
+  "geometry": {"coordinates":[-95.39535100000001,29.761364],"type":"Point"}
 }

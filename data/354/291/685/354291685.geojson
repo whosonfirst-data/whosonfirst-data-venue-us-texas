@@ -2,13 +2,14 @@
   "id": 354291685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.559429,32.861362,-96.559429,32.861362",
     "geom:latitude":32.861362,
     "geom:longitude":-96.559429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4646 Candlestick Dr",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354291685,
-    "wof:lastmodified":1449066430,
+    "wof:lastmodified":1467085063,
     "wof:name":"RC Brumley Co",
     "wof:parent_id":85877681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.559429,32.861362,-96.559429,32.861362],
-  "geometry": {"coordinates":[-96.559429,32.861362],"type":"Point"}
+  "bbox": [
+    -96.559429,
+    32.861362,
+    -96.559429,
+    32.861362
+],
+  "geometry": {"coordinates":[-96.55942899999999,32.861362],"type":"Point"}
 }

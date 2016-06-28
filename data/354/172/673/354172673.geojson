@@ -2,13 +2,14 @@
   "id": 354172673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.780616,29.211443,-99.780616,29.211443",
     "geom:latitude":29.211443,
     "geom:longitude":-99.780616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E US Hwy 90",
     "sg:city":"Brackettville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354172673,
-    "wof:lastmodified":1449066603,
+    "wof:lastmodified":1467085067,
     "wof:name":"Escamilla's Tacos Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.780616,29.211443,-99.780616,29.211443],
-  "geometry": {"coordinates":[-99.780616,29.211443],"type":"Point"}
+  "bbox": [
+    -99.780616,
+    29.211443,
+    -99.780616,
+    29.211443
+],
+  "geometry": {"coordinates":[-99.78061599999999,29.211443],"type":"Point"}
 }

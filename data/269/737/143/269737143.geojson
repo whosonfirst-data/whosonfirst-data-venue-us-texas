@@ -2,13 +2,14 @@
   "id": 269737143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141853,31.546301,-97.141853,31.546301",
     "geom:latitude":31.546301,
     "geom:longitude":-97.141853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Franklin Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269737143,
-    "wof:lastmodified":1449036687,
+    "wof:lastmodified":1467084587,
     "wof:name":"B & K Pawn",
     "wof:parent_id":85881733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-97.141853,31.546301,-97.141853,31.546301],
+  "bbox": [
+    -97.141853,
+    31.546301,
+    -97.141853,
+    31.546301
+],
   "geometry": {"coordinates":[-97.141853,31.546301],"type":"Point"}
 }

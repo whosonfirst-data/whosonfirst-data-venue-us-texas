@@ -2,13 +2,14 @@
   "id": 303751599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739945,30.330405,-97.739945,30.330405",
     "geom:latitude":30.330405,
     "geom:longitude":-97.739945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5536 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303751599,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1467083698,
     "wof:name":"Lost Cove Water Supply Corporation",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.739945,30.330405,-97.739945,30.330405],
-  "geometry": {"coordinates":[-97.739945,30.330405],"type":"Point"}
+  "bbox": [
+    -97.739945,
+    30.330405,
+    -97.739945,
+    30.330405
+],
+  "geometry": {"coordinates":[-97.73994500000001,30.330405],"type":"Point"}
 }

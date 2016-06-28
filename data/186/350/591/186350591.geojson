@@ -2,13 +2,14 @@
   "id": 186350591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.152481,30.064479,-99.152481,30.064479",
     "geom:latitude":30.064479,
     "geom:longitude":-99.152481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Leland St",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186350591,
-    "wof:lastmodified":1449051736,
+    "wof:lastmodified":1467084720,
     "wof:name":"McRae Energy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.152481,30.064479,-99.152481,30.064479],
-  "geometry": {"coordinates":[-99.152481,30.064479],"type":"Point"}
+  "bbox": [
+    -99.152481,
+    30.064479,
+    -99.152481,
+    30.064479
+],
+  "geometry": {"coordinates":[-99.15248099999999,30.064479],"type":"Point"}
 }

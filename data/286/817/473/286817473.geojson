@@ -2,13 +2,14 @@
   "id": 286817473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.980229,29.741543,-94.980229,29.741543",
     "geom:latitude":29.741543,
     "geom:longitude":-94.980229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Garth Rd Ste P",
     "sg:city":"Baytown",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":286817473,
-    "wof:lastmodified":1449017548,
+    "wof:lastmodified":1467084302,
     "wof:name":"Beauty Town",
     "wof:parent_id":85859107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.980229,29.741543,-94.980229,29.741543],
-  "geometry": {"coordinates":[-94.980229,29.741543],"type":"Point"}
+  "bbox": [
+    -94.980229,
+    29.741543,
+    -94.980229,
+    29.741543
+],
+  "geometry": {"coordinates":[-94.98022899999999,29.741543],"type":"Point"}
 }

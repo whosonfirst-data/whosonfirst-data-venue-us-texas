@@ -2,13 +2,14 @@
   "id": 353496307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.156832,32.751026,-97.156832,32.751026",
     "geom:latitude":32.751026,
     "geom:longitude":-97.156832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Crowley Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353496307,
-    "wof:lastmodified":1449020434,
+    "wof:lastmodified":1467084368,
     "wof:name":"Alps Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.156832,32.751026,-97.156832,32.751026],
-  "geometry": {"coordinates":[-97.156832,32.751026],"type":"Point"}
+  "bbox": [
+    -97.156832,
+    32.751026,
+    -97.156832,
+    32.751026
+],
+  "geometry": {"coordinates":[-97.15683199999999,32.751026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203322245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.965842,33.015448,-94.965842,33.015448",
     "geom:latitude":33.015448,
     "geom:longitude":-94.965842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 US Hwy 271",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203322245,
-    "wof:lastmodified":1449024926,
+    "wof:lastmodified":1467084384,
     "wof:name":"Parker Building Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-94.965842,33.015448,-94.965842,33.015448],
-  "geometry": {"coordinates":[-94.965842,33.015448],"type":"Point"}
+  "bbox": [
+    -94.965842,
+    33.015448,
+    -94.965842,
+    33.015448
+],
+  "geometry": {"coordinates":[-94.96584199999999,33.015448],"type":"Point"}
 }

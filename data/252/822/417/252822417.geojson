@@ -2,13 +2,14 @@
   "id": 252822417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804138,32.805874,-96.804138,32.805874",
     "geom:latitude":32.805874,
     "geom:longitude":-96.804138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Turtle Creek Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252822417,
-    "wof:lastmodified":1449006467,
+    "wof:lastmodified":1467084106,
     "wof:name":"3DPT",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.804138,32.805874,-96.804138,32.805874],
-  "geometry": {"coordinates":[-96.804138,32.805874],"type":"Point"}
+  "bbox": [
+    -96.804138,
+    32.805874,
+    -96.804138,
+    32.805874
+],
+  "geometry": {"coordinates":[-96.80413799999999,32.805874],"type":"Point"}
 }

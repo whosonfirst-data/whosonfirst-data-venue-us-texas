@@ -2,13 +2,14 @@
   "id": 253205175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.874902,32.822556,-96.874902,32.822556",
     "geom:latitude":32.822556,
     "geom:longitude":-96.874902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Empire Central Pl Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253205175,
-    "wof:lastmodified":1449064593,
+    "wof:lastmodified":1467085006,
     "wof:name":"Crowd Sourcing International",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-96.874902,32.822556,-96.874902,32.822556],
-  "geometry": {"coordinates":[-96.874902,32.822556],"type":"Point"}
+  "bbox": [
+    -96.874902,
+    32.822556,
+    -96.874902,
+    32.822556
+],
+  "geometry": {"coordinates":[-96.87490200000001,32.822556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270204251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.499496,29.6569,-95.499496,29.6569",
     "geom:latitude":29.6569,
     "geom:longitude":-95.499496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 W Bellfort St Ofc",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270204251,
-    "wof:lastmodified":1449011161,
+    "wof:lastmodified":1467084233,
     "wof:name":"Oakwood Villa",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.499496,29.6569,-95.499496,29.6569],
-  "geometry": {"coordinates":[-95.499496,29.6569],"type":"Point"}
+  "bbox": [
+    -95.499496,
+    29.6569,
+    -95.499496,
+    29.6569
+],
+  "geometry": {"coordinates":[-95.49949599999999,29.6569],"type":"Point"}
 }

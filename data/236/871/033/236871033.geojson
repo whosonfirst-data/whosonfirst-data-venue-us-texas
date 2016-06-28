@@ -2,13 +2,14 @@
   "id": 236871033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.787399,32.803001,-96.787399,32.803001",
     "geom:latitude":32.803001,
     "geom:longitude":-96.787399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 State St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236871033,
-    "wof:lastmodified":1449002584,
+    "wof:lastmodified":1467083913,
     "wof:name":"Post Properties",
     "wof:parent_id":85870433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.787399,32.803001,-96.787399,32.803001],
-  "geometry": {"coordinates":[-96.787399,32.803001],"type":"Point"}
+  "bbox": [
+    -96.787399,
+    32.803001,
+    -96.787399,
+    32.803001
+],
+  "geometry": {"coordinates":[-96.78739899999999,32.803001],"type":"Point"}
 }

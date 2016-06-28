@@ -2,13 +2,14 @@
   "id": 403777225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.443742,29.692711,-95.443742,29.692711",
     "geom:latitude":29.692711,
     "geom:longitude":-95.443742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8415 Academy St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403777225,
-    "wof:lastmodified":1449055341,
+    "wof:lastmodified":1467084766,
     "wof:name":"Memories In Motion",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-95.443742,29.692711,-95.443742,29.692711],
+  "bbox": [
+    -95.443742,
+    29.692711,
+    -95.443742,
+    29.692711
+],
   "geometry": {"coordinates":[-95.443742,29.692711],"type":"Point"}
 }

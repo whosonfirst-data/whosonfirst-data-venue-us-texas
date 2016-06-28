@@ -2,13 +2,14 @@
   "id": 253100201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205115,30.074857,-94.205115,30.074857",
     "geom:latitude":30.074857,
     "geom:longitude":-94.205115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9390 McLean St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253100201,
-    "wof:lastmodified":1449065017,
+    "wof:lastmodified":1467085020,
     "wof:name":"Taylor Car Care",
     "wof:parent_id":85817771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-94.205115,30.074857,-94.205115,30.074857],
-  "geometry": {"coordinates":[-94.205115,30.074857],"type":"Point"}
+  "bbox": [
+    -94.205115,
+    30.074857,
+    -94.205115,
+    30.074857
+],
+  "geometry": {"coordinates":[-94.20511500000001,30.074857],"type":"Point"}
 }

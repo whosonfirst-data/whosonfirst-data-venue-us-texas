@@ -2,13 +2,14 @@
   "id": 236030509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.639103,33.123683,-96.639103,33.123683",
     "geom:latitude":33.123683,
     "geom:longitude":-96.639103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Mccoy Ct",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236030509,
-    "wof:lastmodified":1449002739,
+    "wof:lastmodified":1467083920,
     "wof:name":"Backup Systems Maintenance",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-96.639103,33.123683,-96.639103,33.123683],
-  "geometry": {"coordinates":[-96.639103,33.123683],"type":"Point"}
+  "bbox": [
+    -96.639103,
+    33.123683,
+    -96.639103,
+    33.123683
+],
+  "geometry": {"coordinates":[-96.63910300000001,33.123683],"type":"Point"}
 }

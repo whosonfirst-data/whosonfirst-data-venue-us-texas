@@ -2,13 +2,14 @@
   "id": 303280123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733902,30.266899,-97.733902,30.266899",
     "geom:latitude":30.266899,
     "geom:longitude":-97.733902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N I H 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303280123,
-    "wof:lastmodified":1448999317,
+    "wof:lastmodified":1467083752,
     "wof:name":"Austin Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.733902,30.266899,-97.733902,30.266899],
+  "bbox": [
+    -97.733902,
+    30.266899,
+    -97.733902,
+    30.266899
+],
   "geometry": {"coordinates":[-97.733902,30.266899],"type":"Point"}
 }

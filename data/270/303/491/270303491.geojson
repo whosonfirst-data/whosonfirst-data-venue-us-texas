@@ -2,13 +2,14 @@
   "id": 270303491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.576532,29.785392,-95.576532,29.785392",
     "geom:latitude":29.785392,
     "geom:longitude":-95.576532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Upland Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270303491,
-    "wof:lastmodified":1449008674,
+    "wof:lastmodified":1467084151,
     "wof:name":"Sunrise Fasteners",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fasteners-industrial"
     ]
 },
-  "bbox": [-95.576532,29.785392,-95.576532,29.785392],
+  "bbox": [
+    -95.576532,
+    29.785392,
+    -95.576532,
+    29.785392
+],
   "geometry": {"coordinates":[-95.576532,29.785392],"type":"Point"}
 }

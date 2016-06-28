@@ -2,13 +2,14 @@
   "id": 303808213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752296,30.366994,-97.752296,30.366994",
     "geom:latitude":30.366994,
     "geom:longitude":-97.752296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3933 Spicewood Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303808213,
-    "wof:lastmodified":1448998233,
+    "wof:lastmodified":1467083697,
     "wof:name":"NUO-TECH",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-97.752296,30.366994,-97.752296,30.366994],
+  "bbox": [
+    -97.752296,
+    30.366994,
+    -97.752296,
+    30.366994
+],
   "geometry": {"coordinates":[-97.752296,30.366994],"type":"Point"}
 }

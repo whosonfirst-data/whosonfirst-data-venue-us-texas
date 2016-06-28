@@ -2,13 +2,14 @@
   "id": 370775153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.404085,32.72156,-97.404085,32.72156",
     "geom:latitude":32.72156,
     "geom:longitude":-97.404085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 Goodman Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370775153,
-    "wof:lastmodified":1449031598,
+    "wof:lastmodified":1467084532,
     "wof:name":"Public Safety TX Dept of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "safety"
     ]
 },
-  "bbox": [-97.404085,32.72156,-97.404085,32.72156],
-  "geometry": {"coordinates":[-97.404085,32.72156],"type":"Point"}
+  "bbox": [
+    -97.404085,
+    32.72156,
+    -97.404085,
+    32.72156
+],
+  "geometry": {"coordinates":[-97.40408499999999,32.72156],"type":"Point"}
 }

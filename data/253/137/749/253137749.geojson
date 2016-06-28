@@ -2,13 +2,14 @@
   "id": 253137749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74411,32.913683,-96.74411,32.913683",
     "geom:latitude":32.913683,
     "geom:longitude":-96.74411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9130 Markville RD",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253137749,
-    "wof:lastmodified":1449065366,
+    "wof:lastmodified":1467085033,
     "wof:name":"US Post Office - Richland",
     "wof:parent_id":85897337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.74411,32.913683,-96.74411,32.913683],
-  "geometry": {"coordinates":[-96.74411,32.913683],"type":"Point"}
+  "bbox": [
+    -96.74411,
+    32.913683,
+    -96.74411,
+    32.913683
+],
+  "geometry": {"coordinates":[-96.74411000000001,32.913683],"type":"Point"}
 }

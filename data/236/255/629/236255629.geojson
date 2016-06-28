@@ -2,13 +2,14 @@
   "id": 236255629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.464981,30.286074,-95.464981,30.286074",
     "geom:latitude":30.286074,
     "geom:longitude":-95.464981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Medical Center Blvd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236255629,
-    "wof:lastmodified":1449003096,
+    "wof:lastmodified":1467083937,
     "wof:name":"Promed Realty Services LLC",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.464981,30.286074,-95.464981,30.286074],
-  "geometry": {"coordinates":[-95.464981,30.286074],"type":"Point"}
+  "bbox": [
+    -95.464981,
+    30.286074,
+    -95.464981,
+    30.286074
+],
+  "geometry": {"coordinates":[-95.46498099999999,30.286074],"type":"Point"}
 }

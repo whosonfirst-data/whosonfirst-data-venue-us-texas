@@ -2,13 +2,14 @@
   "id": 236180989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746709,33.05337,-96.746709,33.05337",
     "geom:latitude":33.05337,
     "geom:longitude":-96.746709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 Loch Haven Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236180989,
-    "wof:lastmodified":1449001778,
+    "wof:lastmodified":1467083861,
     "wof:name":"Retail Sales",
     "wof:parent_id":85879895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.746709,33.05337,-96.746709,33.05337],
+  "bbox": [
+    -96.746709,
+    33.05337,
+    -96.746709,
+    33.05337
+],
   "geometry": {"coordinates":[-96.746709,33.05337],"type":"Point"}
 }

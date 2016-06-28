@@ -2,13 +2,14 @@
   "id": 236962115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.827599,32.749001,-96.827599,32.749001",
     "geom:latitude":32.749001,
     "geom:longitude":-96.827599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 W 7th St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236962115,
-    "wof:lastmodified":1449003613,
+    "wof:lastmodified":1467083961,
     "wof:name":"Tillman's Roadhouse",
     "wof:parent_id":85882141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-96.827599,32.749001,-96.827599,32.749001],
-  "geometry": {"coordinates":[-96.827599,32.749001],"type":"Point"}
+  "bbox": [
+    -96.827599,
+    32.749001,
+    -96.827599,
+    32.749001
+],
+  "geometry": {"coordinates":[-96.82759900000001,32.749001],"type":"Point"}
 }

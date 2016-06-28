@@ -2,13 +2,14 @@
   "id": 185931781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.57353,32.932007,-96.57353,32.932007",
     "geom:latitude":32.932007,
     "geom:longitude":-96.57353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8013 Ballard Ct",
     "sg:city":"Rowlett",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185931781,
-    "wof:lastmodified":1449008071,
+    "wof:lastmodified":1467084137,
     "wof:name":"GA Enterprises",
     "wof:parent_id":85842337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.57353,32.932007,-96.57353,32.932007],
-  "geometry": {"coordinates":[-96.57353,32.932007],"type":"Point"}
+  "bbox": [
+    -96.57353,
+    32.932007,
+    -96.57353,
+    32.932007
+],
+  "geometry": {"coordinates":[-96.57353000000001,32.932007],"type":"Point"}
 }

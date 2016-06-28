@@ -2,13 +2,14 @@
   "id": 236365045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.794005,32.456834,-99.794005,32.456834",
     "geom:latitude":32.456834,
     "geom:longitude":-99.794005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5403 N 3rd St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236365045,
-    "wof:lastmodified":1449002076,
+    "wof:lastmodified":1467083883,
     "wof:name":"RBH Tool Svc",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-99.794005,32.456834,-99.794005,32.456834],
+  "bbox": [
+    -99.794005,
+    32.456834,
+    -99.794005,
+    32.456834
+],
   "geometry": {"coordinates":[-99.794005,32.456834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236870587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.776289,32.806397,-96.776289,32.806397",
     "geom:latitude":32.806397,
     "geom:longitude":-96.776289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 N Fitzhugh Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236870587,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1467083902,
     "wof:name":"PV Autoservice",
     "wof:parent_id":85870357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.776289,32.806397,-96.776289,32.806397],
-  "geometry": {"coordinates":[-96.776289,32.806397],"type":"Point"}
+  "bbox": [
+    -96.776289,
+    32.806397,
+    -96.776289,
+    32.806397
+],
+  "geometry": {"coordinates":[-96.77628900000001,32.806397],"type":"Point"}
 }

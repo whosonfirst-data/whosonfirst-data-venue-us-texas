@@ -2,13 +2,14 @@
   "id": 203149769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891531,32.896509,-96.891531,32.896509",
     "geom:latitude":32.896509,
     "geom:longitude":-96.891531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11450 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203149769,
-    "wof:lastmodified":1449024943,
+    "wof:lastmodified":1467084385,
     "wof:name":"Max Imports",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handbag"
     ]
 },
-  "bbox": [-96.891531,32.896509,-96.891531,32.896509],
+  "bbox": [
+    -96.891531,
+    32.896509,
+    -96.891531,
+    32.896509
+],
   "geometry": {"coordinates":[-96.891531,32.896509],"type":"Point"}
 }

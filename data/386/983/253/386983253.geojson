@@ -2,13 +2,14 @@
   "id": 386983253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54797,30.0661,-95.54797,30.0661",
     "geom:latitude":30.0661,
     "geom:longitude":-95.54797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19411 Stuebner Airline Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386983253,
-    "wof:lastmodified":1449028959,
+    "wof:lastmodified":1467084465,
     "wof:name":"Mittelstaedt O E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-95.54797,30.0661,-95.54797,30.0661],
-  "geometry": {"coordinates":[-95.54797,30.0661],"type":"Point"}
+  "bbox": [
+    -95.54797,
+    30.0661,
+    -95.54797,
+    30.0661
+],
+  "geometry": {"coordinates":[-95.54797000000001,30.0661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202603447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.657263,31.748844,-96.657263,31.748844",
     "geom:latitude":31.748844,
     "geom:longitude":-96.657263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4874 FM 73",
     "sg:city":"Prairie Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202603447,
-    "wof:lastmodified":1449062267,
+    "wof:lastmodified":1467084933,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.657263,31.748844,-96.657263,31.748844],
+  "bbox": [
+    -96.657263,
+    31.748844,
+    -96.657263,
+    31.748844
+],
   "geometry": {"coordinates":[-96.657263,31.748844],"type":"Point"}
 }

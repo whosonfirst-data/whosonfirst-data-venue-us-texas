@@ -2,13 +2,14 @@
   "id": 253139055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769513,32.90665,-96.769513,32.90665",
     "geom:latitude":32.90665,
     "geom:longitude":-96.769513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11617 N Central Expy Ste 140",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253139055,
-    "wof:lastmodified":1449063086,
+    "wof:lastmodified":1467084954,
     "wof:name":"Select Physical Therapy",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.769513,32.90665,-96.769513,32.90665],
+  "bbox": [
+    -96.769513,
+    32.90665,
+    -96.769513,
+    32.90665
+],
   "geometry": {"coordinates":[-96.769513,32.90665],"type":"Point"}
 }

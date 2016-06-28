@@ -2,13 +2,14 @@
   "id": 253256461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796855,32.999845,-96.796855,32.999845",
     "geom:latitude":32.999845,
     "geom:longitude":-96.796855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18208 Preston Rd., Box 292",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253256461,
-    "wof:lastmodified":1449065057,
+    "wof:lastmodified":1467085022,
     "wof:name":"Fancy Fence",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.796855,32.999845,-96.796855,32.999845],
-  "geometry": {"coordinates":[-96.796855,32.999845],"type":"Point"}
+  "bbox": [
+    -96.796855,
+    32.999845,
+    -96.796855,
+    32.999845
+],
+  "geometry": {"coordinates":[-96.79685499999999,32.999845],"type":"Point"}
 }

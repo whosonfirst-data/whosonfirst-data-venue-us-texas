@@ -2,13 +2,14 @@
   "id": 370610693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.251793,29.479983,-95.251793,29.479983",
     "geom:latitude":29.479983,
     "geom:longitude":-95.251793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Co Rd 291A",
     "sg:city":"Alvin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370610693,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1467084553,
     "wof:name":"Whitt Septic Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-95.251793,29.479983,-95.251793,29.479983],
-  "geometry": {"coordinates":[-95.251793,29.479983],"type":"Point"}
+  "bbox": [
+    -95.251793,
+    29.479983,
+    -95.251793,
+    29.479983
+],
+  "geometry": {"coordinates":[-95.25179300000001,29.479983],"type":"Point"}
 }

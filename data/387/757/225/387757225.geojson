@@ -2,13 +2,14 @@
   "id": 387757225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.691853,30.544625,-97.691853,30.544625",
     "geom:latitude":30.544625,
     "geom:longitude":-97.691853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3099 I- 35 Svc Rd",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387757225,
-    "wof:lastmodified":1449058252,
+    "wof:lastmodified":1467084839,
     "wof:name":"Austin Asphalt Maintenance",
     "wof:parent_id":85893917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-97.691853,30.544625,-97.691853,30.544625],
-  "geometry": {"coordinates":[-97.691853,30.544625],"type":"Point"}
+  "bbox": [
+    -97.691853,
+    30.544625,
+    -97.691853,
+    30.544625
+],
+  "geometry": {"coordinates":[-97.69185299999999,30.544625],"type":"Point"}
 }

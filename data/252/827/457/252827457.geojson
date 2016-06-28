@@ -2,13 +2,14 @@
   "id": 252827457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733606,30.292673,-97.733606,30.292673",
     "geom:latitude":30.292673,
     "geom:longitude":-97.733606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E 31st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252827457,
-    "wof:lastmodified":1449005793,
+    "wof:lastmodified":1467084069,
     "wof:name":"Mauna Kai Apts",
     "wof:parent_id":85869907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.733606,30.292673,-97.733606,30.292673],
-  "geometry": {"coordinates":[-97.733606,30.292673],"type":"Point"}
+  "bbox": [
+    -97.733606,
+    30.292673,
+    -97.733606,
+    30.292673
+],
+  "geometry": {"coordinates":[-97.73360599999999,30.292673],"type":"Point"}
 }

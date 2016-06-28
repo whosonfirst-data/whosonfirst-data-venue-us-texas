@@ -2,13 +2,14 @@
   "id": 404122259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.473222,27.576949,-99.473222,27.576949",
     "geom:latitude":27.576949,
     "geom:longitude":-99.473222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7807 McPherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":404122259,
-    "wof:lastmodified":1449039813,
+    "wof:lastmodified":1467084651,
     "wof:name":"Picture Perfect",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "specialized"
     ]
 },
-  "bbox": [-99.473222,27.576949,-99.473222,27.576949],
-  "geometry": {"coordinates":[-99.473222,27.576949],"type":"Point"}
+  "bbox": [
+    -99.473222,
+    27.576949,
+    -99.473222,
+    27.576949
+],
+  "geometry": {"coordinates":[-99.47322200000001,27.576949],"type":"Point"}
 }

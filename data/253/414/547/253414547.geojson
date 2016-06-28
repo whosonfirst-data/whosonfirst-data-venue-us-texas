@@ -2,13 +2,14 @@
   "id": 253414547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.086118,32.945755,-94.086118,32.945755",
     "geom:latitude":32.945755,
     "geom:longitude":-94.086118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Morse Rd",
     "sg:city":"Bivins",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253414547,
-    "wof:lastmodified":1449064208,
+    "wof:lastmodified":1467084992,
     "wof:name":"USPS - United States Post Office - Bivins Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-94.086118,32.945755,-94.086118,32.945755],
+  "bbox": [
+    -94.086118,
+    32.945755,
+    -94.086118,
+    32.945755
+],
   "geometry": {"coordinates":[-94.086118,32.945755],"type":"Point"}
 }

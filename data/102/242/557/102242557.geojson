@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.850557,35.207212,-101.850557,35.207212",
     "geom:latitude":35.207212,
     "geom:longitude":-101.850557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 W 8th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875857,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102242557",
-    "wof:lastmodified":1449069897,
+    "wof:lastmodified":1467085097,
     "wof:name":"Cartridge Etc",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.850557,35.207212,-101.850557,35.207212],
-  "geometry": {"coordinates":[-101.850557,35.207212],"type":"Point"}
+  "bbox": [
+    -101.850557,
+    35.207212,
+    -101.850557,
+    35.207212
+],
+  "geometry": {"coordinates":[-101.85055699999999,35.207212],"type":"Point"}
 }

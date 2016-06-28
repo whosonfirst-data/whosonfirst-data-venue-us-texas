@@ -2,13 +2,14 @@
   "id": 386969577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.821968,32.743988,-96.821968,32.743988",
     "geom:latitude":32.743988,
     "geom:longitude":-96.821968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Jefferson Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386969577,
-    "wof:lastmodified":1449028689,
+    "wof:lastmodified":1467084459,
     "wof:name":"Jefferson Washateria",
     "wof:parent_id":85838633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.821968,32.743988,-96.821968,32.743988],
+  "bbox": [
+    -96.821968,
+    32.743988,
+    -96.821968,
+    32.743988
+],
   "geometry": {"coordinates":[-96.821968,32.743988],"type":"Point"}
 }

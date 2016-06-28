@@ -2,13 +2,14 @@
   "id": 403802155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.54985,29.543223,-98.54985,29.543223",
     "geom:latitude":29.543223,
     "geom:longitude":-98.54985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10935 Wurzbach Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403802155,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1467084775,
     "wof:name":"Personal Professional Training",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trainer"
     ]
 },
-  "bbox": [-98.54985,29.543223,-98.54985,29.543223],
-  "geometry": {"coordinates":[-98.54985,29.543223],"type":"Point"}
+  "bbox": [
+    -98.54985,
+    29.543223,
+    -98.54985,
+    29.543223
+],
+  "geometry": {"coordinates":[-98.54985000000001,29.543223],"type":"Point"}
 }

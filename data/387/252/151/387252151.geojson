@@ -2,13 +2,14 @@
   "id": 387252151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.383827,35.336392,-101.383827,35.336392",
     "geom:latitude":35.336392,
     "geom:longitude":-101.383827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 US Hwy 60",
     "sg:city":"Panhandle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387252151,
-    "wof:lastmodified":1449056603,
+    "wof:lastmodified":1467084797,
     "wof:name":"A1 Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-101.383827,35.336392,-101.383827,35.336392],
+  "bbox": [
+    -101.383827,
+    35.336392,
+    -101.383827,
+    35.336392
+],
   "geometry": {"coordinates":[-101.383827,35.336392],"type":"Point"}
 }

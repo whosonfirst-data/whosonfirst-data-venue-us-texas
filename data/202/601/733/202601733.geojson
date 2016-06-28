@@ -2,13 +2,14 @@
   "id": 202601733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.600349,29.485609,-98.600349,29.485609",
     "geom:latitude":29.485609,
     "geom:longitude":-98.600349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5718 Kenwick St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601733,
-    "wof:lastmodified":1449061253,
+    "wof:lastmodified":1467084912,
     "wof:name":"Premier Foods LLC",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-98.600349,29.485609,-98.600349,29.485609],
-  "geometry": {"coordinates":[-98.600349,29.485609],"type":"Point"}
+  "bbox": [
+    -98.600349,
+    29.485609,
+    -98.600349,
+    29.485609
+],
+  "geometry": {"coordinates":[-98.60034899999999,29.485609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387012359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.155791,30.05529,-99.155791,30.05529",
     "geom:latitude":30.05529,
     "geom:longitude":-99.155791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Lois St",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387012359,
-    "wof:lastmodified":1449059530,
+    "wof:lastmodified":1467084872,
     "wof:name":"Ark Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.155791,30.05529,-99.155791,30.05529],
-  "geometry": {"coordinates":[-99.155791,30.05529],"type":"Point"}
+  "bbox": [
+    -99.155791,
+    30.05529,
+    -99.155791,
+    30.05529
+],
+  "geometry": {"coordinates":[-99.15579099999999,30.05529],"type":"Point"}
 }

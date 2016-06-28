@@ -2,13 +2,14 @@
   "id": 236085415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.525464,33.885826,-98.525464,33.885826",
     "geom:latitude":33.885826,
     "geom:longitude":-98.525464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Kell Blvd",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236085415,
-    "wof:lastmodified":1449002302,
+    "wof:lastmodified":1467083899,
     "wof:name":"SA-2 Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-98.525464,33.885826,-98.525464,33.885826],
+  "bbox": [
+    -98.525464,
+    33.885826,
+    -98.525464,
+    33.885826
+],
   "geometry": {"coordinates":[-98.525464,33.885826],"type":"Point"}
 }

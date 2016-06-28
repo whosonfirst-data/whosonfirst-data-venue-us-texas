@@ -2,13 +2,14 @@
   "id": 387522777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805518,32.780181,-96.805518,32.780181",
     "geom:latitude":32.780181,
     "geom:longitude":-96.805518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Elm St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387522777,
-    "wof:lastmodified":1449057914,
+    "wof:lastmodified":1467084830,
     "wof:name":"Border Cantina",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805518,32.780181,-96.805518,32.780181],
-  "geometry": {"coordinates":[-96.805518,32.780181],"type":"Point"}
+  "bbox": [
+    -96.805518,
+    32.780181,
+    -96.805518,
+    32.780181
+],
+  "geometry": {"coordinates":[-96.80551800000001,32.780181],"type":"Point"}
 }

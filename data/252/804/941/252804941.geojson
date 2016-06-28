@@ -2,13 +2,14 @@
   "id": 252804941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69148,32.834058,-96.69148,32.834058",
     "geom:latitude":32.834058,
     "geom:longitude":-96.69148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Peavy Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":252804941,
-    "wof:lastmodified":1449006153,
+    "wof:lastmodified":1467084089,
     "wof:name":"SRS SS Dallas Warehouse",
     "wof:parent_id":85882161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "household"
     ]
 },
-  "bbox": [-96.69148,32.834058,-96.69148,32.834058],
+  "bbox": [
+    -96.69148,
+    32.834058,
+    -96.69148,
+    32.834058
+],
   "geometry": {"coordinates":[-96.69148,32.834058],"type":"Point"}
 }

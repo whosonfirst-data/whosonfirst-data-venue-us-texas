@@ -2,13 +2,14 @@
   "id": 252728113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.939377,33.046705,-96.939377,33.046705",
     "geom:latitude":33.046705,
     "geom:longitude":-96.939377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 Midway Rd",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252728113,
-    "wof:lastmodified":1449005676,
+    "wof:lastmodified":1467084063,
     "wof:name":"Lewisville Auto Auction Inc",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auto"
     ]
 },
-  "bbox": [-96.939377,33.046705,-96.939377,33.046705],
-  "geometry": {"coordinates":[-96.939377,33.046705],"type":"Point"}
+  "bbox": [
+    -96.939377,
+    33.046705,
+    -96.939377,
+    33.046705
+],
+  "geometry": {"coordinates":[-96.93937699999999,33.046705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236718103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.611433,32.80577,-96.611433,32.80577",
     "geom:latitude":32.80577,
     "geom:longitude":-96.611433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 N Galloway Ave Ste 110",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236718103,
-    "wof:lastmodified":1449002210,
+    "wof:lastmodified":1467083893,
     "wof:name":"Wings Street",
     "wof:parent_id":85893825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pizza"
     ]
 },
-  "bbox": [-96.611433,32.80577,-96.611433,32.80577],
-  "geometry": {"coordinates":[-96.611433,32.80577],"type":"Point"}
+  "bbox": [
+    -96.611433,
+    32.80577,
+    -96.611433,
+    32.80577
+],
+  "geometry": {"coordinates":[-96.61143300000001,32.80577],"type":"Point"}
 }

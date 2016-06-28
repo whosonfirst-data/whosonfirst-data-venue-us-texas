@@ -2,13 +2,14 @@
   "id": 203025245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.325051,31.693032,-106.325051,31.693032",
     "geom:latitude":31.693032,
     "geom:longitude":-106.325051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Candelaria St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203025245,
-    "wof:lastmodified":1449026541,
+    "wof:lastmodified":1467084415,
     "wof:name":"El Paso WIC",
     "wof:parent_id":85859443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "human"
     ]
 },
-  "bbox": [-106.325051,31.693032,-106.325051,31.693032],
+  "bbox": [
+    -106.325051,
+    31.693032,
+    -106.325051,
+    31.693032
+],
   "geometry": {"coordinates":[-106.325051,31.693032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303256381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746597,30.278099,-97.746597,30.278099",
     "geom:latitude":30.278099,
     "geom:longitude":-97.746597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Rio Grande St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303256381,
-    "wof:lastmodified":1448999979,
+    "wof:lastmodified":1467083784,
     "wof:name":"Shriver Johnny W Dr",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.746597,30.278099,-97.746597,30.278099],
-  "geometry": {"coordinates":[-97.746597,30.278099],"type":"Point"}
+  "bbox": [
+    -97.746597,
+    30.278099,
+    -97.746597,
+    30.278099
+],
+  "geometry": {"coordinates":[-97.74659699999999,30.278099],"type":"Point"}
 }

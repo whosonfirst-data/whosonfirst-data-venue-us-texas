@@ -2,13 +2,14 @@
   "id": 270278141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.5588,29.8393,-95.5588,29.8393",
     "geom:latitude":29.8393,
     "geom:longitude":-95.5588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11125 Equity Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270278141,
-    "wof:lastmodified":1449009993,
+    "wof:lastmodified":1467084195,
     "wof:name":"Devry University",
     "wof:parent_id":85869785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-95.5588,29.8393,-95.5588,29.8393],
-  "geometry": {"coordinates":[-95.5588,29.8393],"type":"Point"}
+  "bbox": [
+    -95.5588,
+    29.8393,
+    -95.5588,
+    29.8393
+],
+  "geometry": {"coordinates":[-95.55880000000001,29.8393],"type":"Point"}
 }

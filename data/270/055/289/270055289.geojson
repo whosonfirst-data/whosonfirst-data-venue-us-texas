@@ -2,13 +2,14 @@
   "id": 270055289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.322403,29.7197,-95.322403,29.7197",
     "geom:latitude":29.7197,
     "geom:longitude":-95.322403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5335 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270055289,
-    "wof:lastmodified":1449009173,
+    "wof:lastmodified":1467084167,
     "wof:name":"Luby's",
     "wof:parent_id":85869587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.322403,29.7197,-95.322403,29.7197],
-  "geometry": {"coordinates":[-95.322403,29.7197],"type":"Point"}
+  "bbox": [
+    -95.322403,
+    29.7197,
+    -95.322403,
+    29.7197
+],
+  "geometry": {"coordinates":[-95.32240299999999,29.7197],"type":"Point"}
 }

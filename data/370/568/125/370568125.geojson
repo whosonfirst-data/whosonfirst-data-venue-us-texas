@@ -2,13 +2,14 @@
   "id": 370568125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.641753,29.368893,-98.641753,29.368893",
     "geom:latitude":29.368893,
     "geom:longitude":-98.641753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Mountain Valley St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370568125,
-    "wof:lastmodified":1449028991,
+    "wof:lastmodified":1467084466,
     "wof:name":"Floyd Berry",
     "wof:parent_id":85853417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-98.641753,29.368893,-98.641753,29.368893],
-  "geometry": {"coordinates":[-98.641753,29.368893],"type":"Point"}
+  "bbox": [
+    -98.641753,
+    29.368893,
+    -98.641753,
+    29.368893
+],
+  "geometry": {"coordinates":[-98.64175299999999,29.368893],"type":"Point"}
 }

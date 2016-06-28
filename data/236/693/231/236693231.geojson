@@ -2,13 +2,14 @@
   "id": 236693231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.57076,29.507159,-98.57076,29.507159",
     "geom:latitude":29.507159,
     "geom:longitude":-98.57076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7614 Louis Pasteur Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236693231,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1467083864,
     "wof:name":"Trout Medical Inc",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.57076,29.507159,-98.57076,29.507159],
-  "geometry": {"coordinates":[-98.57076,29.507159],"type":"Point"}
+  "bbox": [
+    -98.57076,
+    29.507159,
+    -98.57076,
+    29.507159
+],
+  "geometry": {"coordinates":[-98.57076000000001,29.507159],"type":"Point"}
 }

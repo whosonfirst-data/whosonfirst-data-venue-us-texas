@@ -2,13 +2,14 @@
   "id": 253735847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.096481,32.888882,-97.096481,32.888882",
     "geom:latitude":32.888882,
     "geom:longitude":-97.096481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Merlot Ave",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253735847,
-    "wof:lastmodified":1449065737,
+    "wof:lastmodified":1467085045,
     "wof:name":"Hatcher Enterprises",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "planning"
     ]
 },
-  "bbox": [-97.096481,32.888882,-97.096481,32.888882],
+  "bbox": [
+    -97.096481,
+    32.888882,
+    -97.096481,
+    32.888882
+],
   "geometry": {"coordinates":[-97.096481,32.888882],"type":"Point"}
 }

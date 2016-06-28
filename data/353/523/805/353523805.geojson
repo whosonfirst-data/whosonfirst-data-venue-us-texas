@@ -2,13 +2,14 @@
   "id": 353523805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768295,32.959547,-96.768295,32.959547",
     "geom:latitude":32.959547,
     "geom:longitude":-96.768295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Promenade Center",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353523805,
-    "wof:lastmodified":1449019729,
+    "wof:lastmodified":1467084353,
     "wof:name":"Winer Electric",
     "wof:parent_id":85880217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.768295,32.959547,-96.768295,32.959547],
-  "geometry": {"coordinates":[-96.768295,32.959547],"type":"Point"}
+  "bbox": [
+    -96.768295,
+    32.959547,
+    -96.768295,
+    32.959547
+],
+  "geometry": {"coordinates":[-96.76829499999999,32.959547],"type":"Point"}
 }

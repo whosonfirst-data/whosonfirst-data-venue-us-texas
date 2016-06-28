@@ -2,13 +2,14 @@
   "id": 370395239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395262,27.806314,-97.395262,27.806314",
     "geom:latitude":27.806314,
     "geom:longitude":-97.395262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 N Chaparral St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370395239,
-    "wof:lastmodified":1449031970,
+    "wof:lastmodified":1467084542,
     "wof:name":"Corpus Christi Arena",
     "wof:parent_id":85837307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-97.395262,27.806314,-97.395262,27.806314],
+  "bbox": [
+    -97.395262,
+    27.806314,
+    -97.395262,
+    27.806314
+],
   "geometry": {"coordinates":[-97.395262,27.806314],"type":"Point"}
 }

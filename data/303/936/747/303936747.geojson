@@ -2,13 +2,14 @@
   "id": 303936747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.831882,35.213995,-101.831882,35.213995",
     "geom:latitude":35.213995,
     "geom:longitude":-101.831882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N Pierce St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303936747,
-    "wof:lastmodified":1448998930,
+    "wof:lastmodified":1467083732,
     "wof:name":"West Texas Motors",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-101.831882,35.213995,-101.831882,35.213995],
-  "geometry": {"coordinates":[-101.831882,35.213995],"type":"Point"}
+  "bbox": [
+    -101.831882,
+    35.213995,
+    -101.831882,
+    35.213995
+],
+  "geometry": {"coordinates":[-101.83188199999999,35.213995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202742069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.610515,33.640567,-96.610515,33.640567",
     "geom:latitude":33.640567,
     "geom:longitude":-96.610515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Travis St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202742069,
-    "wof:lastmodified":1449060277,
+    "wof:lastmodified":1467084891,
     "wof:name":"Hometown Wholesale Furn Clubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "retailer"
     ]
 },
-  "bbox": [-96.610515,33.640567,-96.610515,33.640567],
-  "geometry": {"coordinates":[-96.610515,33.640567],"type":"Point"}
+  "bbox": [
+    -96.610515,
+    33.640567,
+    -96.610515,
+    33.640567
+],
+  "geometry": {"coordinates":[-96.61051500000001,33.640567],"type":"Point"}
 }

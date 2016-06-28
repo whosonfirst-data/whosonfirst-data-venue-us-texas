@@ -2,13 +2,14 @@
   "id": 185912713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.577339,29.72786,-95.577339,29.72786",
     "geom:latitude":29.72786,
     "geom:longitude":-95.577339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185912713,
-    "wof:lastmodified":1449007424,
+    "wof:lastmodified":1467084125,
     "wof:name":"Gemini Solutions Inc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "software"
     ]
 },
-  "bbox": [-95.577339,29.72786,-95.577339,29.72786],
-  "geometry": {"coordinates":[-95.577339,29.72786],"type":"Point"}
+  "bbox": [
+    -95.577339,
+    29.72786,
+    -95.577339,
+    29.72786
+],
+  "geometry": {"coordinates":[-95.57733899999999,29.72786],"type":"Point"}
 }

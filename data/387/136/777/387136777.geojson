@@ -2,13 +2,14 @@
   "id": 387136777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.30977,30.59243,-96.30977,30.59243",
     "geom:latitude":30.59243,
     "geom:longitude":-96.30977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Rio Grande Blvd",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387136777,
-    "wof:lastmodified":1449059863,
+    "wof:lastmodified":1467084881,
     "wof:name":"College Station Fire Dept",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.30977,30.59243,-96.30977,30.59243],
+  "bbox": [
+    -96.30977,
+    30.59243,
+    -96.30977,
+    30.59243
+],
   "geometry": {"coordinates":[-96.30977,30.59243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185745607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.955475,32.947255,-96.955475,32.947255",
     "geom:latitude":32.947255,
     "geom:longitude":-96.955475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10543 N Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185745607,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1467084138,
     "wof:name":"Flexstart Inc",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "order"
     ]
 },
-  "bbox": [-96.955475,32.947255,-96.955475,32.947255],
-  "geometry": {"coordinates":[-96.955475,32.947255],"type":"Point"}
+  "bbox": [
+    -96.955475,
+    32.947255,
+    -96.955475,
+    32.947255
+],
+  "geometry": {"coordinates":[-96.95547500000001,32.947255],"type":"Point"}
 }

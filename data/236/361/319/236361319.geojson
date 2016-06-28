@@ -2,13 +2,14 @@
   "id": 236361319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.696453,29.817411,-95.696453,29.817411",
     "geom:latitude":29.817411,
     "geom:longitude":-95.696453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3307 Mulberry Hill Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236361319,
-    "wof:lastmodified":1449004169,
+    "wof:lastmodified":1467083988,
     "wof:name":"Way To Lake",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.696453,29.817411,-95.696453,29.817411],
-  "geometry": {"coordinates":[-95.696453,29.817411],"type":"Point"}
+  "bbox": [
+    -95.696453,
+    29.817411,
+    -95.696453,
+    29.817411
+],
+  "geometry": {"coordinates":[-95.69645300000001,29.817411],"type":"Point"}
 }

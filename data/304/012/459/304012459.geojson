@@ -2,13 +2,14 @@
   "id": 304012459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.963119,33.508549,-101.963119,33.508549",
     "geom:latitude":33.508549,
     "geom:longitude":-101.963119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 93rd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304012459,
-    "wof:lastmodified":1449044095,
+    "wof:lastmodified":1467084669,
     "wof:name":"Barnett Painting",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.963119,33.508549,-101.963119,33.508549],
-  "geometry": {"coordinates":[-101.963119,33.508549],"type":"Point"}
+  "bbox": [
+    -101.963119,
+    33.508549,
+    -101.963119,
+    33.508549
+],
+  "geometry": {"coordinates":[-101.96311900000001,33.508549],"type":"Point"}
 }

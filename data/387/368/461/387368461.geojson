@@ -2,13 +2,14 @@
   "id": 387368461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.251764,31.893003,-102.251764,31.893003",
     "geom:latitude":31.893003,
     "geom:longitude":-102.251764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 S Co Rd 1303",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387368461,
-    "wof:lastmodified":1449056979,
+    "wof:lastmodified":1467084806,
     "wof:name":"Permian Anchors",
     "wof:parent_id":85806799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-102.251764,31.893003,-102.251764,31.893003],
-  "geometry": {"coordinates":[-102.251764,31.893003],"type":"Point"}
+  "bbox": [
+    -102.251764,
+    31.893003,
+    -102.251764,
+    31.893003
+],
+  "geometry": {"coordinates":[-102.25176399999999,31.893003],"type":"Point"}
 }

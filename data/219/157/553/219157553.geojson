@@ -2,13 +2,14 @@
   "id": 219157553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.435582,31.783721,-106.435582,31.783721",
     "geom:latitude":31.783721,
     "geom:longitude":-106.435582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219157553,
-    "wof:lastmodified":1449073410,
+    "wof:lastmodified":1467085163,
     "wof:name":"Rent-A-Tire",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.435582,31.783721,-106.435582,31.783721],
+  "bbox": [
+    -106.435582,
+    31.783721,
+    -106.435582,
+    31.783721
+],
   "geometry": {"coordinates":[-106.435582,31.783721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203023319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707361,33.077486,-96.707361,33.077486",
     "geom:latitude":33.077486,
     "geom:longitude":-96.707361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Ledgemont Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203023319,
-    "wof:lastmodified":1449026682,
+    "wof:lastmodified":1467084417,
     "wof:name":"Client Manager",
     "wof:parent_id":85879901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.707361,33.077486,-96.707361,33.077486],
-  "geometry": {"coordinates":[-96.707361,33.077486],"type":"Point"}
+  "bbox": [
+    -96.707361,
+    33.077486,
+    -96.707361,
+    33.077486
+],
+  "geometry": {"coordinates":[-96.70736100000001,33.077486],"type":"Point"}
 }

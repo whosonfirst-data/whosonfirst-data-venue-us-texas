@@ -2,13 +2,14 @@
   "id": 219732421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.119545,29.554081,-95.119545,29.554081",
     "geom:latitude":29.554081,
     "geom:longitude":-95.119545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17000 el Camino Real",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219732421,
-    "wof:lastmodified":1449074044,
+    "wof:lastmodified":1467085177,
     "wof:name":"San Jacinto Financial Services",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-95.119545,29.554081,-95.119545,29.554081],
+  "bbox": [
+    -95.119545,
+    29.554081,
+    -95.119545,
+    29.554081
+],
   "geometry": {"coordinates":[-95.119545,29.554081],"type":"Point"}
 }

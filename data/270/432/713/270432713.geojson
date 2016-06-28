@@ -2,13 +2,14 @@
   "id": 270432713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.486419,29.731965,-95.486419,29.731965",
     "geom:latitude":29.731965,
     "geom:longitude":-95.486419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6060 Richmond Ave Ste 210",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270432713,
-    "wof:lastmodified":1449008623,
+    "wof:lastmodified":1467084149,
     "wof:name":"Houston dental care",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.486419,29.731965,-95.486419,29.731965],
+  "bbox": [
+    -95.486419,
+    29.731965,
+    -95.486419,
+    29.731965
+],
   "geometry": {"coordinates":[-95.486419,29.731965],"type":"Point"}
 }

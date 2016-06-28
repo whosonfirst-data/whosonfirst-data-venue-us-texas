@@ -2,13 +2,14 @@
   "id": 287284749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.701181,26.20722,-97.701181,26.20722",
     "geom:latitude":26.20722,
     "geom:longitude":-97.701181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Mendez St",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287284749,
-    "wof:lastmodified":1449001214,
+    "wof:lastmodified":1467083836,
     "wof:name":"Terra Cooling",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.701181,26.20722,-97.701181,26.20722],
-  "geometry": {"coordinates":[-97.701181,26.20722],"type":"Point"}
+  "bbox": [
+    -97.701181,
+    26.20722,
+    -97.701181,
+    26.20722
+],
+  "geometry": {"coordinates":[-97.70118100000001,26.20722],"type":"Point"}
 }

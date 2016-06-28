@@ -2,13 +2,14 @@
   "id": 303782851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.699864,30.410307,-97.699864,30.410307",
     "geom:latitude":30.410307,
     "geom:longitude":-97.699864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Cedar Bend Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303782851,
-    "wof:lastmodified":1448998105,
+    "wof:lastmodified":1467083690,
     "wof:name":"Champion's Crossing Apartments",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.699864,30.410307,-97.699864,30.410307],
-  "geometry": {"coordinates":[-97.699864,30.410307],"type":"Point"}
+  "bbox": [
+    -97.699864,
+    30.410307,
+    -97.699864,
+    30.410307
+],
+  "geometry": {"coordinates":[-97.69986400000001,30.410307],"type":"Point"}
 }

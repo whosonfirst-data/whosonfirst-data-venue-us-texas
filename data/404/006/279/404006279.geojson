@@ -2,13 +2,14 @@
   "id": 404006279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.361976,32.752231,-97.361976,32.752231",
     "geom:latitude":32.752231,
     "geom:longitude":-97.361976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 W 6th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404006279,
-    "wof:lastmodified":1449040049,
+    "wof:lastmodified":1467084655,
     "wof:name":"Jeff Gooch",
     "wof:parent_id":85867233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.361976,32.752231,-97.361976,32.752231],
+  "bbox": [
+    -97.361976,
+    32.752231,
+    -97.361976,
+    32.752231
+],
   "geometry": {"coordinates":[-97.361976,32.752231],"type":"Point"}
 }

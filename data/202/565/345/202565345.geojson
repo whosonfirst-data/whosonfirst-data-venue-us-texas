@@ -2,13 +2,14 @@
   "id": 202565345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.267975,30.095001,-97.267975,30.095001",
     "geom:latitude":30.095001,
     "geom:longitude":-97.267975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"799 State Hwy 71",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202565345,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1467084936,
     "wof:name":"Raingutters of Central Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.267975,30.095001,-97.267975,30.095001],
-  "geometry": {"coordinates":[-97.267975,30.095001],"type":"Point"}
+  "bbox": [
+    -97.267975,
+    30.095001,
+    -97.267975,
+    30.095001
+],
+  "geometry": {"coordinates":[-97.26797500000001,30.095001],"type":"Point"}
 }

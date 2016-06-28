@@ -2,13 +2,14 @@
   "id": 203339429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.88514,32.864438,-96.88514,32.864438",
     "geom:latitude":32.864438,
     "geom:longitude":-96.88514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10421 Sparkman Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203339429,
-    "wof:lastmodified":1449025762,
+    "wof:lastmodified":1467084400,
     "wof:name":"Total Tropical Svc Inc",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.88514,32.864438,-96.88514,32.864438],
-  "geometry": {"coordinates":[-96.88514,32.864438],"type":"Point"}
+  "bbox": [
+    -96.88514,
+    32.864438,
+    -96.88514,
+    32.864438
+],
+  "geometry": {"coordinates":[-96.88514000000001,32.864438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304005395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.912185,33.58509,-101.912185,33.58509",
     "geom:latitude":33.58509,
     "geom:longitude":-101.912185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 13th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304005395,
-    "wof:lastmodified":1449044121,
+    "wof:lastmodified":1467084670,
     "wof:name":"Charles F Skibell",
     "wof:parent_id":85878775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-101.912185,33.58509,-101.912185,33.58509],
-  "geometry": {"coordinates":[-101.912185,33.58509],"type":"Point"}
+  "bbox": [
+    -101.912185,
+    33.58509,
+    -101.912185,
+    33.58509
+],
+  "geometry": {"coordinates":[-101.91218499999999,33.58509],"type":"Point"}
 }

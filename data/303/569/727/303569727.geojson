@@ -2,13 +2,14 @@
   "id": 303569727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726366,30.211141,-97.726366,30.211141",
     "geom:latitude":30.211141,
     "geom:longitude":-97.726366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5214 Burleson Rd Ste 118",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303569727,
-    "wof:lastmodified":1449000466,
+    "wof:lastmodified":1467083808,
     "wof:name":"Austin Paddle Sports",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [-97.726366,30.211141,-97.726366,30.211141],
+  "bbox": [
+    -97.726366,
+    30.211141,
+    -97.726366,
+    30.211141
+],
   "geometry": {"coordinates":[-97.726366,30.211141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370735531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.774123,30.431903,-97.774123,30.431903",
     "geom:latitude":30.431903,
     "geom:longitude":-97.774123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7802 Scotland Yard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370735531,
-    "wof:lastmodified":1449032387,
+    "wof:lastmodified":1467084552,
     "wof:name":"Luke Jansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.774123,30.431903,-97.774123,30.431903],
+  "bbox": [
+    -97.774123,
+    30.431903,
+    -97.774123,
+    30.431903
+],
   "geometry": {"coordinates":[-97.774123,30.431903],"type":"Point"}
 }

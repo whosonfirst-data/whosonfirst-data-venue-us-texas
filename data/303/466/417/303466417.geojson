@@ -2,13 +2,14 @@
   "id": 303466417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751996,30.308272,-97.751996,30.308272",
     "geom:latitude":30.308272,
     "geom:longitude":-97.751996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Jefferson Street, Suite 303",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303466417,
-    "wof:lastmodified":1448998847,
+    "wof:lastmodified":1467083728,
     "wof:name":"Pi Architects",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.751996,30.308272,-97.751996,30.308272],
-  "geometry": {"coordinates":[-97.751996,30.308272],"type":"Point"}
+  "bbox": [
+    -97.751996,
+    30.308272,
+    -97.751996,
+    30.308272
+],
+  "geometry": {"coordinates":[-97.75199600000001,30.308272],"type":"Point"}
 }

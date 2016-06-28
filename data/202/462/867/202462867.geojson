@@ -2,13 +2,14 @@
   "id": 202462867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.905155,32.75622,-98.905155,32.75622",
     "geom:latitude":32.75622,
     "geom:longitude":-98.905155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Rose Ave",
     "sg:city":"Breckenridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202462867,
-    "wof:lastmodified":1449062542,
+    "wof:lastmodified":1467084939,
     "wof:name":"Water Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-98.905155,32.75622,-98.905155,32.75622],
-  "geometry": {"coordinates":[-98.905155,32.75622],"type":"Point"}
+  "bbox": [
+    -98.905155,
+    32.75622,
+    -98.905155,
+    32.75622
+],
+  "geometry": {"coordinates":[-98.90515499999999,32.75622],"type":"Point"}
 }

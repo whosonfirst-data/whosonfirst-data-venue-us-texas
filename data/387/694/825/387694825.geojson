@@ -2,13 +2,14 @@
   "id": 387694825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.332244,32.754898,-97.332244,32.754898",
     "geom:latitude":32.754898,
     "geom:longitude":-97.332244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W 3rd St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387694825,
-    "wof:lastmodified":1449057168,
+    "wof:lastmodified":1467084811,
     "wof:name":"Waymark Internet Svc",
     "wof:parent_id":85897401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "e"
     ]
 },
-  "bbox": [-97.332244,32.754898,-97.332244,32.754898],
+  "bbox": [
+    -97.332244,
+    32.754898,
+    -97.332244,
+    32.754898
+],
   "geometry": {"coordinates":[-97.332244,32.754898],"type":"Point"}
 }

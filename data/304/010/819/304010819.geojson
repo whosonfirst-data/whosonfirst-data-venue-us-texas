@@ -2,13 +2,14 @@
   "id": 304010819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.96241,33.525211,-101.96241,33.525211",
     "geom:latitude":33.525211,
     "geom:longitude":-101.96241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Oakridge Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304010819,
-    "wof:lastmodified":1449043956,
+    "wof:lastmodified":1467084667,
     "wof:name":"Pope Johnny Plumbing & Mechanical",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-101.96241,33.525211,-101.96241,33.525211],
-  "geometry": {"coordinates":[-101.96241,33.525211],"type":"Point"}
+  "bbox": [
+    -101.96241,
+    33.525211,
+    -101.96241,
+    33.525211
+],
+  "geometry": {"coordinates":[-101.96241000000001,33.525211],"type":"Point"}
 }

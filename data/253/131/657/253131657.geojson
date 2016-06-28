@@ -2,13 +2,14 @@
   "id": 253131657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744554,30.343185,-97.744554,30.343185",
     "geom:latitude":30.343185,
     "geom:longitude":-97.744554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Cavileer Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253131657,
-    "wof:lastmodified":1449063708,
+    "wof:lastmodified":1467084975,
     "wof:name":"John M Bloomquist",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.744554,30.343185,-97.744554,30.343185],
-  "geometry": {"coordinates":[-97.744554,30.343185],"type":"Point"}
+  "bbox": [
+    -97.744554,
+    30.343185,
+    -97.744554,
+    30.343185
+],
+  "geometry": {"coordinates":[-97.74455399999999,30.343185],"type":"Point"}
 }

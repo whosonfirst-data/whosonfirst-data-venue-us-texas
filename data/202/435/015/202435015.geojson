@@ -2,13 +2,14 @@
   "id": 202435015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.85024,33.120348,-96.85024,33.120348",
     "geom:latitude":33.120348,
     "geom:longitude":-96.85024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4464 Liam Dr",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202435015,
-    "wof:lastmodified":1449062416,
+    "wof:lastmodified":1467084936,
     "wof:name":"Pierce Homes/Heritage Greens",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.85024,33.120348,-96.85024,33.120348],
+  "bbox": [
+    -96.85024,
+    33.120348,
+    -96.85024,
+    33.120348
+],
   "geometry": {"coordinates":[-96.85024,33.120348],"type":"Point"}
 }

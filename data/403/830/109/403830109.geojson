@@ -2,13 +2,14 @@
   "id": 403830109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.794109,30.252354,-97.794109,30.252354",
     "geom:latitude":30.252354,
     "geom:longitude":-97.794109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Dip Cove",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403830109,
-    "wof:lastmodified":1449054921,
+    "wof:lastmodified":1467084756,
     "wof:name":"Pamela Overeynder",
     "wof:parent_id":85869925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.794109,30.252354,-97.794109,30.252354],
-  "geometry": {"coordinates":[-97.794109,30.252354],"type":"Point"}
+  "bbox": [
+    -97.794109,
+    30.252354,
+    -97.794109,
+    30.252354
+],
+  "geometry": {"coordinates":[-97.79410900000001,30.252354],"type":"Point"}
 }

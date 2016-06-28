@@ -2,13 +2,14 @@
   "id": 236382809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.807561,30.280057,-97.807561,30.280057",
     "geom:latitude":30.280057,
     "geom:longitude":-97.807561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 Bee Caves Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236382809,
-    "wof:lastmodified":1449002345,
+    "wof:lastmodified":1467083902,
     "wof:name":"Austin Valuation Consultants",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-97.807561,30.280057,-97.807561,30.280057],
-  "geometry": {"coordinates":[-97.807561,30.280057],"type":"Point"}
+  "bbox": [
+    -97.807561,
+    30.280057,
+    -97.807561,
+    30.280057
+],
+  "geometry": {"coordinates":[-97.80756100000001,30.280057],"type":"Point"}
 }

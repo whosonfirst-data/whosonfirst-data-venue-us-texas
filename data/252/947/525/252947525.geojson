@@ -2,13 +2,14 @@
   "id": 252947525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892384,32.899296,-96.892384,32.899296",
     "geom:latitude":32.899296,
     "geom:longitude":-96.892384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11536 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252947525,
-    "wof:lastmodified":1449006186,
+    "wof:lastmodified":1467084091,
     "wof:name":"Handbag Whse.",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.892384,32.899296,-96.892384,32.899296],
-  "geometry": {"coordinates":[-96.892384,32.899296],"type":"Point"}
+  "bbox": [
+    -96.892384,
+    32.899296,
+    -96.892384,
+    32.899296
+],
+  "geometry": {"coordinates":[-96.89238400000001,32.899296],"type":"Point"}
 }

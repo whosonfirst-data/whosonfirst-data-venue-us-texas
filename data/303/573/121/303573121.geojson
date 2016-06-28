@@ -2,13 +2,14 @@
   "id": 303573121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754331,30.213001,-97.754331,30.213001",
     "geom:latitude":30.213001,
     "geom:longitude":-97.754331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 S I H 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303573121,
-    "wof:lastmodified":1448999924,
+    "wof:lastmodified":1467083782,
     "wof:name":"Candlewood Suites",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.754331,30.213001,-97.754331,30.213001],
-  "geometry": {"coordinates":[-97.754331,30.213001],"type":"Point"}
+  "bbox": [
+    -97.754331,
+    30.213001,
+    -97.754331,
+    30.213001
+],
+  "geometry": {"coordinates":[-97.75433099999999,30.213001],"type":"Point"}
 }

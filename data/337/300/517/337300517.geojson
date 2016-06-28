@@ -2,13 +2,14 @@
   "id": 337300517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635521,33.161671,-96.635521,33.161671",
     "geom:latitude":33.161671,
     "geom:longitude":-96.635521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Medical Center Dr Suite 390",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337300517,
-    "wof:lastmodified":1449027412,
+    "wof:lastmodified":1467084443,
     "wof:name":"STD Test Express Mckinney",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.635521,33.161671,-96.635521,33.161671],
+  "bbox": [
+    -96.635521,
+    33.161671,
+    -96.635521,
+    33.161671
+],
   "geometry": {"coordinates":[-96.635521,33.161671],"type":"Point"}
 }

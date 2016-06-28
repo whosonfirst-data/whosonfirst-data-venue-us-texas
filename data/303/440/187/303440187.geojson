@@ -2,13 +2,14 @@
   "id": 303440187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747475,30.445477,-97.747475,30.445477",
     "geom:latitude":30.445477,
     "geom:longitude":-97.747475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6609 Corpus Christi Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303440187,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1467083735,
     "wof:name":"Dancers Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-97.747475,30.445477,-97.747475,30.445477],
-  "geometry": {"coordinates":[-97.747475,30.445477],"type":"Point"}
+  "bbox": [
+    -97.747475,
+    30.445477,
+    -97.747475,
+    30.445477
+],
+  "geometry": {"coordinates":[-97.74747499999999,30.445477],"type":"Point"}
 }

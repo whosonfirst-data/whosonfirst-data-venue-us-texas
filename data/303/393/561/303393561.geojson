@@ -2,13 +2,14 @@
   "id": 303393561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702199,30.305447,-97.702199,30.305447",
     "geom:latitude":30.305447,
     "geom:longitude":-97.702199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 E 51st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":303393561,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1467083730,
     "wof:name":"The Awakening",
     "wof:parent_id":85893565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.702199,30.305447,-97.702199,30.305447],
-  "geometry": {"coordinates":[-97.702199,30.305447],"type":"Point"}
+  "bbox": [
+    -97.702199,
+    30.305447,
+    -97.702199,
+    30.305447
+],
+  "geometry": {"coordinates":[-97.70219899999999,30.305447],"type":"Point"}
 }

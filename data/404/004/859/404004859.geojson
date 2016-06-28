@@ -2,13 +2,14 @@
   "id": 404004859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.450448,29.640972,-95.450448,29.640972",
     "geom:latitude":29.640972,
     "geom:longitude":-95.450448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Allum Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404004859,
-    "wof:lastmodified":1449039466,
+    "wof:lastmodified":1467084647,
     "wof:name":"Green Trees Lawn & Special Svc",
     "wof:parent_id":85869167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.450448,29.640972,-95.450448,29.640972],
-  "geometry": {"coordinates":[-95.450448,29.640972],"type":"Point"}
+  "bbox": [
+    -95.450448,
+    29.640972,
+    -95.450448,
+    29.640972
+],
+  "geometry": {"coordinates":[-95.45044799999999,29.640972],"type":"Point"}
 }

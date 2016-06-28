@@ -2,13 +2,14 @@
   "id": 303273883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74071,30.266528,-97.74071,30.266528",
     "geom:latitude":30.266528,
     "geom:longitude":-97.74071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 San Jacinto Blvd Rm 119",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303273883,
-    "wof:lastmodified":1448999389,
+    "wof:lastmodified":1467083755,
     "wof:name":"Invisible Productions",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "companies-film"
     ]
 },
-  "bbox": [-97.74071,30.266528,-97.74071,30.266528],
-  "geometry": {"coordinates":[-97.74071,30.266528],"type":"Point"}
+  "bbox": [
+    -97.74071,
+    30.266528,
+    -97.74071,
+    30.266528
+],
+  "geometry": {"coordinates":[-97.74071000000001,30.266528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169792645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45176,32.753576,-97.45176,32.753576",
     "geom:latitude":32.753576,
     "geom:longitude":-97.45176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 S Cherry Ln",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169792645,
-    "wof:lastmodified":1449033389,
+    "wof:lastmodified":1467084560,
     "wof:name":"Harvey's Extreme Audio",
     "wof:parent_id":85871631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-97.45176,32.753576,-97.45176,32.753576],
-  "geometry": {"coordinates":[-97.45176,32.753576],"type":"Point"}
+  "bbox": [
+    -97.45176,
+    32.753576,
+    -97.45176,
+    32.753576
+],
+  "geometry": {"coordinates":[-97.45175999999999,32.753576],"type":"Point"}
 }

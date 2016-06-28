@@ -2,13 +2,14 @@
   "id": 387542527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.036854,29.654753,-95.036854,29.654753",
     "geom:latitude":29.654753,
     "geom:longitude":-95.036854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W H St",
     "sg:city":"La Porte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387542527,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1467084860,
     "wof:name":"Wilson",
     "wof:parent_id":85804809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-95.036854,29.654753,-95.036854,29.654753],
-  "geometry": {"coordinates":[-95.036854,29.654753],"type":"Point"}
+  "bbox": [
+    -95.036854,
+    29.654753,
+    -95.036854,
+    29.654753
+],
+  "geometry": {"coordinates":[-95.03685400000001,29.654753],"type":"Point"}
 }

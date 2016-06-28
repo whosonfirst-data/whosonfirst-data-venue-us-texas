@@ -2,13 +2,14 @@
   "id": 287300111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.319921,26.214129,-98.319921,26.214129",
     "geom:latitude":26.214129,
     "geom:longitude":-98.319921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 E 9th St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287300111,
-    "wof:lastmodified":1449001175,
+    "wof:lastmodified":1467083835,
     "wof:name":"Emergency Medical Transpo",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-98.319921,26.214129,-98.319921,26.214129],
-  "geometry": {"coordinates":[-98.319921,26.214129],"type":"Point"}
+  "bbox": [
+    -98.319921,
+    26.214129,
+    -98.319921,
+    26.214129
+],
+  "geometry": {"coordinates":[-98.31992099999999,26.214129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387016365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683179,32.849362,-96.683179,32.849362",
     "geom:latitude":32.849362,
     "geom:longitude":-96.683179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11403 Garland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387016365,
-    "wof:lastmodified":1449056760,
+    "wof:lastmodified":1467084801,
     "wof:name":"Autozone",
     "wof:parent_id":85882161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.683179,32.849362,-96.683179,32.849362],
+  "bbox": [
+    -96.683179,
+    32.849362,
+    -96.683179,
+    32.849362
+],
   "geometry": {"coordinates":[-96.683179,32.849362],"type":"Point"}
 }

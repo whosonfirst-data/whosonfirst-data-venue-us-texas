@@ -2,13 +2,14 @@
   "id": 202770895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.305225,32.738003,-97.305225,32.738003",
     "geom:latitude":32.738003,
     "geom:longitude":-97.305225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Hattie St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202770895,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1467084942,
     "wof:name":"Miracle Hill Revival Center",
     "wof:parent_id":85871539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.305225,32.738003,-97.305225,32.738003],
-  "geometry": {"coordinates":[-97.305225,32.738003],"type":"Point"}
+  "bbox": [
+    -97.305225,
+    32.738003,
+    -97.305225,
+    32.738003
+],
+  "geometry": {"coordinates":[-97.30522499999999,32.738003],"type":"Point"}
 }

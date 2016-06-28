@@ -2,13 +2,14 @@
   "id": 303402489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707615,30.305735,-97.707615,30.305735",
     "geom:latitude":30.305735,
     "geom:longitude":-97.707615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Barbara Jordan Blvd Ste 301",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303402489,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1467083731,
     "wof:name":"DELL CHILDREN'S MEDICAL CENTER OF CENTRAL TEXAS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.707615,30.305735,-97.707615,30.305735],
+  "bbox": [
+    -97.707615,
+    30.305735,
+    -97.707615,
+    30.305735
+],
   "geometry": {"coordinates":[-97.707615,30.305735],"type":"Point"}
 }

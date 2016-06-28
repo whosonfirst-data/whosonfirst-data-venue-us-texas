@@ -2,13 +2,14 @@
   "id": 303387915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720261,30.284344,-97.720261,30.284344",
     "geom:latitude":30.284344,
     "geom:longitude":-97.720261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Manor Rd # C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303387915,
-    "wof:lastmodified":1449000235,
+    "wof:lastmodified":1467083796,
     "wof:name":"Hoover's Cooking",
     "wof:parent_id":85893499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "southern"
     ]
 },
-  "bbox": [-97.720261,30.284344,-97.720261,30.284344],
-  "geometry": {"coordinates":[-97.720261,30.284344],"type":"Point"}
+  "bbox": [
+    -97.720261,
+    30.284344,
+    -97.720261,
+    30.284344
+],
+  "geometry": {"coordinates":[-97.72026099999999,30.284344],"type":"Point"}
 }

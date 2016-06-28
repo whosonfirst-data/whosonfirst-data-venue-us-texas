@@ -2,13 +2,14 @@
   "id": 202970449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.50446,29.723831,-95.50446,29.723831",
     "geom:latitude":29.723831,
     "geom:longitude":-95.50446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3914 Fairhill Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202970449,
-    "wof:lastmodified":1449062591,
+    "wof:lastmodified":1467084940,
     "wof:name":"Eads & Assoc",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.50446,29.723831,-95.50446,29.723831],
-  "geometry": {"coordinates":[-95.50446,29.723831],"type":"Point"}
+  "bbox": [
+    -95.50446,
+    29.723831,
+    -95.50446,
+    29.723831
+],
+  "geometry": {"coordinates":[-95.50445999999999,29.723831],"type":"Point"}
 }

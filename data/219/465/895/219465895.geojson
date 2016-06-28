@@ -2,13 +2,14 @@
   "id": 219465895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.835773,33.519488,-101.835773,33.519488",
     "geom:latitude":33.519488,
     "geom:longitude":-101.835773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8214 Ash Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219465895,
-    "wof:lastmodified":1449072760,
+    "wof:lastmodified":1467085150,
     "wof:name":"Home Delivery",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-101.835773,33.519488,-101.835773,33.519488],
+  "bbox": [
+    -101.835773,
+    33.519488,
+    -101.835773,
+    33.519488
+],
   "geometry": {"coordinates":[-101.835773,33.519488],"type":"Point"}
 }

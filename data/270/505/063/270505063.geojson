@@ -2,13 +2,14 @@
   "id": 270505063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.573546,29.703942,-95.573546,29.703942",
     "geom:latitude":29.703942,
     "geom:longitude":-95.573546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11008 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270505063,
-    "wof:lastmodified":1449010671,
+    "wof:lastmodified":1467084217,
     "wof:name":"East West Bank",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-95.573546,29.703942,-95.573546,29.703942],
-  "geometry": {"coordinates":[-95.573546,29.703942],"type":"Point"}
+  "bbox": [
+    -95.573546,
+    29.703942,
+    -95.573546,
+    29.703942
+],
+  "geometry": {"coordinates":[-95.57354599999999,29.703942],"type":"Point"}
 }

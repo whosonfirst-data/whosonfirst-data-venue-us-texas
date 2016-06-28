@@ -2,13 +2,14 @@
   "id": 370342289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745633,30.333616,-97.745633,30.333616",
     "geom:latitude":30.333616,
     "geom:longitude":-97.745633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5608 Bull Creek Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370342289,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1467084548,
     "wof:name":"Commnet Supply",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-97.745633,30.333616,-97.745633,30.333616],
+  "bbox": [
+    -97.745633,
+    30.333616,
+    -97.745633,
+    30.333616
+],
   "geometry": {"coordinates":[-97.745633,30.333616],"type":"Point"}
 }

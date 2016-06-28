@@ -2,13 +2,14 @@
   "id": 202787549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.424059,29.353938,-98.424059,29.353938",
     "geom:latitude":29.353938,
     "geom:longitude":-98.424059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603 SE Military Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202787549,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1467084912,
     "wof:name":"Stop N Go",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.424059,29.353938,-98.424059,29.353938],
+  "bbox": [
+    -98.424059,
+    29.353938,
+    -98.424059,
+    29.353938
+],
   "geometry": {"coordinates":[-98.424059,29.353938],"type":"Point"}
 }

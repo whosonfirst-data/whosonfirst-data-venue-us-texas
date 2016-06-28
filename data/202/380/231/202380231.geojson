@@ -2,13 +2,14 @@
   "id": 202380231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855974,32.770872,-96.855974,32.770872",
     "geom:latitude":32.770872,
     "geom:longitude":-96.855974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Ivanhoe Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202380231,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1467084913,
     "wof:name":"Dallas Indian Revival Ctr",
     "wof:parent_id":85870331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.855974,32.770872,-96.855974,32.770872],
+  "bbox": [
+    -96.855974,
+    32.770872,
+    -96.855974,
+    32.770872
+],
   "geometry": {"coordinates":[-96.855974,32.770872],"type":"Point"}
 }

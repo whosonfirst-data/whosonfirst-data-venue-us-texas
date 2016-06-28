@@ -2,13 +2,14 @@
   "id": 269745815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.150131,31.57156,-97.150131,31.57156",
     "geom:latitude":31.57156,
     "geom:longitude":-97.150131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 Herring Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269745815,
-    "wof:lastmodified":1449038850,
+    "wof:lastmodified":1467084635,
     "wof:name":"Satellite Internet Waco",
     "wof:parent_id":85881737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "internet"
     ]
 },
-  "bbox": [-97.150131,31.57156,-97.150131,31.57156],
+  "bbox": [
+    -97.150131,
+    31.57156,
+    -97.150131,
+    31.57156
+],
   "geometry": {"coordinates":[-97.150131,31.57156],"type":"Point"}
 }

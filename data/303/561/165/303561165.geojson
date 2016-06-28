@@ -2,13 +2,14 @@
   "id": 303561165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.735458,30.229037,-97.735458,30.229037",
     "geom:latitude":30.229037,
     "geom:longitude":-97.735458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Burleson Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303561165,
-    "wof:lastmodified":1448999852,
+    "wof:lastmodified":1467083778,
     "wof:name":"Lone Star Veterinary Hospital",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-97.735458,30.229037,-97.735458,30.229037],
-  "geometry": {"coordinates":[-97.735458,30.229037],"type":"Point"}
+  "bbox": [
+    -97.735458,
+    30.229037,
+    -97.735458,
+    30.229037
+],
+  "geometry": {"coordinates":[-97.73545799999999,30.229037],"type":"Point"}
 }

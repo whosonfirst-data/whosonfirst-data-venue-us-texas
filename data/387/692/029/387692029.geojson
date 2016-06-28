@@ -2,13 +2,14 @@
   "id": 387692029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.84193,32.778611,-96.84193,32.778611",
     "geom:latitude":32.778611,
     "geom:longitude":-96.84193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387692029,
-    "wof:lastmodified":1449057112,
+    "wof:lastmodified":1467084810,
     "wof:name":"West Dallas Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-96.84193,32.778611,-96.84193,32.778611],
+  "bbox": [
+    -96.84193,
+    32.778611,
+    -96.84193,
+    32.778611
+],
   "geometry": {"coordinates":[-96.84193,32.778611],"type":"Point"}
 }

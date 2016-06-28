@@ -2,13 +2,14 @@
   "id": 387800841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.117387,26.182118,-98.117387,26.182118",
     "geom:latitude":26.182118,
     "geom:longitude":-98.117387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Main St",
     "sg:city":"Alamo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387800841,
-    "wof:lastmodified":1449056412,
+    "wof:lastmodified":1467084792,
     "wof:name":"TX",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.117387,26.182118,-98.117387,26.182118],
-  "geometry": {"coordinates":[-98.117387,26.182118],"type":"Point"}
+  "bbox": [
+    -98.117387,
+    26.182118,
+    -98.117387,
+    26.182118
+],
+  "geometry": {"coordinates":[-98.11738699999999,26.182118],"type":"Point"}
 }

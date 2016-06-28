@@ -2,13 +2,14 @@
   "id": 253040937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.33938,29.620913,-95.33938,29.620913",
     "geom:latitude":29.620913,
     "geom:longitude":-95.33938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4922 Almeda-Genoa Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253040937,
-    "wof:lastmodified":1449065712,
+    "wof:lastmodified":1467085044,
     "wof:name":"Carroll Childers Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pumping"
     ]
 },
-  "bbox": [-95.33938,29.620913,-95.33938,29.620913],
-  "geometry": {"coordinates":[-95.33938,29.620913],"type":"Point"}
+  "bbox": [
+    -95.33938,
+    29.620913,
+    -95.33938,
+    29.620913
+],
+  "geometry": {"coordinates":[-95.33938000000001,29.620913],"type":"Point"}
 }

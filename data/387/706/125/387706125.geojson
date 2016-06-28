@@ -2,13 +2,14 @@
   "id": 387706125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.50359,27.513178,-99.50359,27.513178",
     "geom:latitude":27.513178,
     "geom:longitude":-99.50359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Santa Ursula Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387706125,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1467084791,
     "wof:name":"Majestic Shoe Shop",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.50359,27.513178,-99.50359,27.513178],
+  "bbox": [
+    -99.50359,
+    27.513178,
+    -99.50359,
+    27.513178
+],
   "geometry": {"coordinates":[-99.50359,27.513178],"type":"Point"}
 }

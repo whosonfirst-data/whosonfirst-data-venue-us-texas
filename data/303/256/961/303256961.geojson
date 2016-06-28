@@ -2,13 +2,14 @@
   "id": 303256961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745203,30.268754,-97.745203,30.268754",
     "geom:latitude":30.268754,
     "geom:longitude":-97.745203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 6th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303256961,
-    "wof:lastmodified":1448999980,
+    "wof:lastmodified":1467083784,
     "wof:name":"Pricewaterhouse Coopers",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.745203,30.268754,-97.745203,30.268754],
+  "bbox": [
+    -97.745203,
+    30.268754,
+    -97.745203,
+    30.268754
+],
   "geometry": {"coordinates":[-97.745203,30.268754],"type":"Point"}
 }

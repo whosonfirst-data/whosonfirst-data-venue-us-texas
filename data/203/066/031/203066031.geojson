@@ -2,13 +2,14 @@
   "id": 203066031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.389192,30.111152,-95.389192,30.111152",
     "geom:latitude":30.111152,
     "geom:longitude":-95.389192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Fox Pitt Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203066031,
-    "wof:lastmodified":1449025456,
+    "wof:lastmodified":1467084394,
     "wof:name":"Flight Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.389192,30.111152,-95.389192,30.111152],
-  "geometry": {"coordinates":[-95.389192,30.111152],"type":"Point"}
+  "bbox": [
+    -95.389192,
+    30.111152,
+    -95.389192,
+    30.111152
+],
+  "geometry": {"coordinates":[-95.38919199999999,30.111152],"type":"Point"}
 }

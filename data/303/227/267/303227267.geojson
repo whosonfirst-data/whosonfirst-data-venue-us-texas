@@ -2,13 +2,14 @@
   "id": 303227267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745796,30.2677,-97.745796,30.2677",
     "geom:latitude":30.2677,
     "geom:longitude":-97.745796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W 5th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303227267,
-    "wof:lastmodified":1448998655,
+    "wof:lastmodified":1467083718,
     "wof:name":"The Foundation",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.745796,30.2677,-97.745796,30.2677],
+  "bbox": [
+    -97.745796,
+    30.2677,
+    -97.745796,
+    30.2677
+],
   "geometry": {"coordinates":[-97.745796,30.2677],"type":"Point"}
 }

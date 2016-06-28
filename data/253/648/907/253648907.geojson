@@ -2,13 +2,14 @@
   "id": 253648907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546523,32.895405,-97.546523,32.895405",
     "geom:latitude":32.895405,
     "geom:longitude":-97.546523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 W Main St Ste A",
     "sg:city":"Azle",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":253648907,
-    "wof:lastmodified":1449063622,
+    "wof:lastmodified":1467084972,
     "wof:name":"Sutton Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "plotting"
     ]
 },
-  "bbox": [-97.546523,32.895405,-97.546523,32.895405],
-  "geometry": {"coordinates":[-97.546523,32.895405],"type":"Point"}
+  "bbox": [
+    -97.546523,
+    32.895405,
+    -97.546523,
+    32.895405
+],
+  "geometry": {"coordinates":[-97.54652299999999,32.895405],"type":"Point"}
 }

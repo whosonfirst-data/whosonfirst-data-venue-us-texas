@@ -2,13 +2,14 @@
   "id": 370256509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.011648,32.798222,-97.011648,32.798222",
     "geom:latitude":32.798222,
     "geom:longitude":-97.011648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Trinity Blvd",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370256509,
-    "wof:lastmodified":1449031670,
+    "wof:lastmodified":1467084534,
     "wof:name":"Parkway Transport Inc",
     "wof:parent_id":85847901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.011648,32.798222,-97.011648,32.798222],
-  "geometry": {"coordinates":[-97.011648,32.798222],"type":"Point"}
+  "bbox": [
+    -97.011648,
+    32.798222,
+    -97.011648,
+    32.798222
+],
+  "geometry": {"coordinates":[-97.01164799999999,32.798222],"type":"Point"}
 }

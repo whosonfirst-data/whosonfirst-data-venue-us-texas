@@ -2,13 +2,14 @@
   "id": 387625391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769632,32.882696,-96.769632,32.882696",
     "geom:latitude":32.882696,
     "geom:longitude":-96.769632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9900 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387625391,
-    "wof:lastmodified":1449059980,
+    "wof:lastmodified":1467084884,
     "wof:name":"Texas",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.769632,32.882696,-96.769632,32.882696],
+  "bbox": [
+    -96.769632,
+    32.882696,
+    -96.769632,
+    32.882696
+],
   "geometry": {"coordinates":[-96.769632,32.882696],"type":"Point"}
 }

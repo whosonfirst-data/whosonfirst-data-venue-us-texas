@@ -2,13 +2,14 @@
   "id": 236395261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.973503,32.990002,-96.973503,32.990002",
     "geom:latitude":32.990002,
     "geom:longitude":-96.973503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2781 MacArthur Blvd",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236395261,
-    "wof:lastmodified":1449004661,
+    "wof:lastmodified":1467084011,
     "wof:name":"Goodyear Tire & Rubber",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.973503,32.990002,-96.973503,32.990002],
-  "geometry": {"coordinates":[-96.973503,32.990002],"type":"Point"}
+  "bbox": [
+    -96.973503,
+    32.990002,
+    -96.973503,
+    32.990002
+],
+  "geometry": {"coordinates":[-96.97350299999999,32.990002],"type":"Point"}
 }

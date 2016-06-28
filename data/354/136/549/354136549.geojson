@@ -2,13 +2,14 @@
   "id": 354136549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82098,33.016513,-96.82098,33.016513",
     "geom:latitude":33.016513,
     "geom:longitude":-96.82098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5824 W Plano Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354136549,
-    "wof:lastmodified":1449067655,
+    "wof:lastmodified":1467085094,
     "wof:name":"Parkway Psychiatric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.82098,33.016513,-96.82098,33.016513],
-  "geometry": {"coordinates":[-96.82098,33.016513],"type":"Point"}
+  "bbox": [
+    -96.82098,
+    33.016513,
+    -96.82098,
+    33.016513
+],
+  "geometry": {"coordinates":[-96.82098000000001,33.016513],"type":"Point"}
 }

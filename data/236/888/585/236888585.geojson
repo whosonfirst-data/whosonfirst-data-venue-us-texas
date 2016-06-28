@@ -2,13 +2,14 @@
   "id": 236888585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79837,32.803379,-96.79837,32.803379",
     "geom:latitude":32.803379,
     "geom:longitude":-96.79837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Oak Grove Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236888585,
-    "wof:lastmodified":1449003755,
+    "wof:lastmodified":1467083968,
     "wof:name":"Joel G Sanders",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.79837,32.803379,-96.79837,32.803379],
-  "geometry": {"coordinates":[-96.79837,32.803379],"type":"Point"}
+  "bbox": [
+    -96.79837,
+    32.803379,
+    -96.79837,
+    32.803379
+],
+  "geometry": {"coordinates":[-96.79837000000001,32.803379],"type":"Point"}
 }

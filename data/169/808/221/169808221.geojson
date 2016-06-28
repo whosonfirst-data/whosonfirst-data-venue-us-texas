@@ -2,13 +2,14 @@
   "id": 169808221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.37547,33.588323,-102.37547,33.588323",
     "geom:latitude":33.588323,
     "geom:longitude":-102.37547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Ave F",
     "sg:city":"Levelland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169808221,
-    "wof:lastmodified":1449032846,
+    "wof:lastmodified":1467084558,
     "wof:name":"Levelland Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-102.37547,33.588323,-102.37547,33.588323],
-  "geometry": {"coordinates":[-102.37547,33.588323],"type":"Point"}
+  "bbox": [
+    -102.37547,
+    33.588323,
+    -102.37547,
+    33.588323
+],
+  "geometry": {"coordinates":[-102.37547000000001,33.588323],"type":"Point"}
 }

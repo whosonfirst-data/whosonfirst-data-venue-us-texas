@@ -2,13 +2,14 @@
   "id": 202479707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352609,32.554361,-97.352609,32.554361",
     "geom:latitude":32.554361,
     "geom:longitude":-97.352609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Wilderness Trl",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202479707,
-    "wof:lastmodified":1449061824,
+    "wof:lastmodified":1467084924,
     "wof:name":"D & S Installations",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-97.352609,32.554361,-97.352609,32.554361],
+  "bbox": [
+    -97.352609,
+    32.554361,
+    -97.352609,
+    32.554361
+],
   "geometry": {"coordinates":[-97.352609,32.554361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370286427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52612,30.226773,-95.52612,30.226773",
     "geom:latitude":30.226773,
     "geom:longitude":-95.52612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33215 Buckshot Ln",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370286427,
-    "wof:lastmodified":1449029986,
+    "wof:lastmodified":1467084491,
     "wof:name":"American Cowboy Limousine",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-95.52612,30.226773,-95.52612,30.226773],
-  "geometry": {"coordinates":[-95.52612,30.226773],"type":"Point"}
+  "bbox": [
+    -95.52612,
+    30.226773,
+    -95.52612,
+    30.226773
+],
+  "geometry": {"coordinates":[-95.52612000000001,30.226773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303934425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856986,35.215408,-101.856986,35.215408",
     "geom:latitude":35.215408,
     "geom:longitude":-101.856986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Bonham St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303934425,
-    "wof:lastmodified":1448998240,
+    "wof:lastmodified":1467083697,
     "wof:name":"Mccracken Communications",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "electric"
     ]
 },
-  "bbox": [-101.856986,35.215408,-101.856986,35.215408],
-  "geometry": {"coordinates":[-101.856986,35.215408],"type":"Point"}
+  "bbox": [
+    -101.856986,
+    35.215408,
+    -101.856986,
+    35.215408
+],
+  "geometry": {"coordinates":[-101.85698600000001,35.215408],"type":"Point"}
 }

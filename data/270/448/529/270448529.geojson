@@ -2,13 +2,14 @@
   "id": 270448529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.406799,29.9382,-95.406799,29.9382",
     "geom:latitude":29.9382,
     "geom:longitude":-95.406799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Northpoint Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":270448529,
-    "wof:lastmodified":1449011010,
+    "wof:lastmodified":1467084228,
     "wof:name":"Houston Multiservices & Notary Public",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-95.406799,29.9382,-95.406799,29.9382],
-  "geometry": {"coordinates":[-95.406799,29.9382],"type":"Point"}
+  "bbox": [
+    -95.406799,
+    29.9382,
+    -95.406799,
+    29.9382
+],
+  "geometry": {"coordinates":[-95.40679900000001,29.9382],"type":"Point"}
 }

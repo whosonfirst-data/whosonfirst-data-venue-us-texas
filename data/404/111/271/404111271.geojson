@@ -2,13 +2,14 @@
   "id": 404111271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724551,32.943576,-96.724551,32.943576",
     "geom:latitude":32.943576,
     "geom:longitude":-96.724551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Highland Blvd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404111271,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1467084661,
     "wof:name":"Fsps Inc",
     "wof:parent_id":85880207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "import"
     ]
 },
-  "bbox": [-96.724551,32.943576,-96.724551,32.943576],
-  "geometry": {"coordinates":[-96.724551,32.943576],"type":"Point"}
+  "bbox": [
+    -96.724551,
+    32.943576,
+    -96.724551,
+    32.943576
+],
+  "geometry": {"coordinates":[-96.72455100000001,32.943576],"type":"Point"}
 }

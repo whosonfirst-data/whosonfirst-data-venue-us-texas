@@ -2,13 +2,14 @@
   "id": 286425319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412804,29.729799,-95.412804,29.729799",
     "geom:latitude":29.729799,
     "geom:longitude":-95.412804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Greenbriar St Ste 320",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286425319,
-    "wof:lastmodified":1449016216,
+    "wof:lastmodified":1467084265,
     "wof:name":"Texas Construction McGraw Hill",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-95.412804,29.729799,-95.412804,29.729799],
-  "geometry": {"coordinates":[-95.412804,29.729799],"type":"Point"}
+  "bbox": [
+    -95.412804,
+    29.729799,
+    -95.412804,
+    29.729799
+],
+  "geometry": {"coordinates":[-95.41280399999999,29.729799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219862451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52573,29.807573,-95.52573,29.807573",
     "geom:latitude":29.807573,
     "geom:longitude":-95.52573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 Campbell Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219862451,
-    "wof:lastmodified":1449074016,
+    "wof:lastmodified":1467085176,
     "wof:name":"Apollo Transmission",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.52573,29.807573,-95.52573,29.807573],
+  "bbox": [
+    -95.52573,
+    29.807573,
+    -95.52573,
+    29.807573
+],
   "geometry": {"coordinates":[-95.52573,29.807573],"type":"Point"}
 }

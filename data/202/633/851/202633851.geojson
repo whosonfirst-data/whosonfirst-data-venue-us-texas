@@ -2,13 +2,14 @@
   "id": 202633851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.387515,29.681308,-95.387515,29.681308",
     "geom:latitude":29.681308,
     "geom:longitude":-95.387515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8380 el Mundo St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202633851,
-    "wof:lastmodified":1449062620,
+    "wof:lastmodified":1467084940,
     "wof:name":"M S M Transportation Inc",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-95.387515,29.681308,-95.387515,29.681308],
-  "geometry": {"coordinates":[-95.387515,29.681308],"type":"Point"}
+  "bbox": [
+    -95.387515,
+    29.681308,
+    -95.387515,
+    29.681308
+],
+  "geometry": {"coordinates":[-95.38751499999999,29.681308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370861609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746343,30.300179,-97.746343,30.300179",
     "geom:latitude":30.300179,
     "geom:longitude":-97.746343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370861609,
-    "wof:lastmodified":1449032443,
+    "wof:lastmodified":1467084553,
     "wof:name":"Cook-Steinman & Assoc Inc",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.746343,30.300179,-97.746343,30.300179],
+  "bbox": [
+    -97.746343,
+    30.300179,
+    -97.746343,
+    30.300179
+],
   "geometry": {"coordinates":[-97.746343,30.300179],"type":"Point"}
 }

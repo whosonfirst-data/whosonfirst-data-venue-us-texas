@@ -2,13 +2,14 @@
   "id": 353894793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.531393,31.829813,-106.531393,31.829813",
     "geom:latitude":31.829813,
     "geom:longitude":-106.531393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Balboa Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353894793,
-    "wof:lastmodified":1449019301,
+    "wof:lastmodified":1467084344,
     "wof:name":"Balboa Quick Lube",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-106.531393,31.829813,-106.531393,31.829813],
-  "geometry": {"coordinates":[-106.531393,31.829813],"type":"Point"}
+  "bbox": [
+    -106.531393,
+    31.829813,
+    -106.531393,
+    31.829813
+],
+  "geometry": {"coordinates":[-106.53139299999999,31.829813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370743511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.555292,33.660614,-95.555292,33.660614",
     "geom:latitude":33.660614,
     "geom:longitude":-95.555292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Clarksville St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370743511,
-    "wof:lastmodified":1449032447,
+    "wof:lastmodified":1467084553,
     "wof:name":"Paris Police Athletic League",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.555292,33.660614,-95.555292,33.660614],
-  "geometry": {"coordinates":[-95.555292,33.660614],"type":"Point"}
+  "bbox": [
+    -95.555292,
+    33.660614,
+    -95.555292,
+    33.660614
+],
+  "geometry": {"coordinates":[-95.55529199999999,33.660614],"type":"Point"}
 }

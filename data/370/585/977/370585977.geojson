@@ -2,13 +2,14 @@
   "id": 370585977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.405651,29.924789,-95.405651,29.924789",
     "geom:latitude":29.924789,
     "geom:longitude":-95.405651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15470 Chipman Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370585977,
-    "wof:lastmodified":1449031332,
+    "wof:lastmodified":1467084525,
     "wof:name":"T&L Management Enterprises",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.405651,29.924789,-95.405651,29.924789],
-  "geometry": {"coordinates":[-95.405651,29.924789],"type":"Point"}
+  "bbox": [
+    -95.405651,
+    29.924789,
+    -95.405651,
+    29.924789
+],
+  "geometry": {"coordinates":[-95.40565100000001,29.924789],"type":"Point"}
 }

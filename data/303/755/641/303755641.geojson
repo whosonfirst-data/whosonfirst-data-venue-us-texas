@@ -2,13 +2,14 @@
   "id": 303755641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.735865,30.318334,-97.735865,30.318334",
     "geom:latitude":30.318334,
     "geom:longitude":-97.735865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W 49th St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303755641,
-    "wof:lastmodified":1448998803,
+    "wof:lastmodified":1467083725,
     "wof:name":"Brooks Family Network",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.735865,30.318334,-97.735865,30.318334],
+  "bbox": [
+    -97.735865,
+    30.318334,
+    -97.735865,
+    30.318334
+],
   "geometry": {"coordinates":[-97.735865,30.318334],"type":"Point"}
 }

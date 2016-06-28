@@ -2,13 +2,14 @@
   "id": 270510467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.386724,29.996481,-95.386724,29.996481",
     "geom:latitude":29.996481,
     "geom:longitude":-95.386724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 E Richey Rd Bldg C",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270510467,
-    "wof:lastmodified":1449010106,
+    "wof:lastmodified":1467084198,
     "wof:name":"R & R Heat Exchangers",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exchanger"
     ]
 },
-  "bbox": [-95.386724,29.996481,-95.386724,29.996481],
+  "bbox": [
+    -95.386724,
+    29.996481,
+    -95.386724,
+    29.996481
+],
   "geometry": {"coordinates":[-95.386724,29.996481],"type":"Point"}
 }

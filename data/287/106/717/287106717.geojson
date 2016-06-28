@@ -2,13 +2,14 @@
   "id": 287106717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.221359,30.07303,-99.221359,30.07303",
     "geom:latitude":30.07303,
     "geom:longitude":-99.221359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Junction Hwy",
     "sg:city":"Ingram",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":287106717,
-    "wof:lastmodified":1449000649,
+    "wof:lastmodified":1467083817,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-99.221359,30.07303,-99.221359,30.07303],
-  "geometry": {"coordinates":[-99.221359,30.07303],"type":"Point"}
+  "bbox": [
+    -99.221359,
+    30.07303,
+    -99.221359,
+    30.07303
+],
+  "geometry": {"coordinates":[-99.22135900000001,30.07303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203224569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.155768,31.533983,-97.155768,31.533983",
     "geom:latitude":31.533983,
     "geom:longitude":-97.155768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Franklin Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203224569,
-    "wof:lastmodified":1449026358,
+    "wof:lastmodified":1467084411,
     "wof:name":"Mike Mc Gee Motors Inc",
     "wof:parent_id":85881729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.155768,31.533983,-97.155768,31.533983],
-  "geometry": {"coordinates":[-97.155768,31.533983],"type":"Point"}
+  "bbox": [
+    -97.155768,
+    31.533983,
+    -97.155768,
+    31.533983
+],
+  "geometry": {"coordinates":[-97.15576799999999,31.533983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303527559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.8983,30.240299,-97.8983,30.240299",
     "geom:latitude":30.240299,
     "geom:longitude":-97.8983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8515 Selway Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303527559,
-    "wof:lastmodified":1449000061,
+    "wof:lastmodified":1467083788,
     "wof:name":"Dash Service Company",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.8983,30.240299,-97.8983,30.240299],
-  "geometry": {"coordinates":[-97.8983,30.240299],"type":"Point"}
+  "bbox": [
+    -97.8983,
+    30.240299,
+    -97.8983,
+    30.240299
+],
+  "geometry": {"coordinates":[-97.89830000000001,30.240299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303059141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.83271,30.088013,-97.83271,30.088013",
     "geom:latitude":30.088013,
     "geom:longitude":-97.83271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Nighthawk Cir",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303059141,
-    "wof:lastmodified":1448998781,
+    "wof:lastmodified":1467083724,
     "wof:name":"Night Hawk Frozen Foods, Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "foods-wholesale"
     ]
 },
-  "bbox": [-97.83271,30.088013,-97.83271,30.088013],
-  "geometry": {"coordinates":[-97.83271,30.088013],"type":"Point"}
+  "bbox": [
+    -97.83271,
+    30.088013,
+    -97.83271,
+    30.088013
+],
+  "geometry": {"coordinates":[-97.83271000000001,30.088013],"type":"Point"}
 }

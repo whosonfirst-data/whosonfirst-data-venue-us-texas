@@ -2,13 +2,14 @@
   "id": 286281759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.606118,29.748516,-95.606118,29.748516",
     "geom:latitude":29.748516,
     "geom:longitude":-95.606118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 S Dairy Ashford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":286281759,
-    "wof:lastmodified":1449017663,
+    "wof:lastmodified":1467084305,
     "wof:name":"PCS",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-95.606118,29.748516,-95.606118,29.748516],
+  "bbox": [
+    -95.606118,
+    29.748516,
+    -95.606118,
+    29.748516
+],
   "geometry": {"coordinates":[-95.606118,29.748516],"type":"Point"}
 }

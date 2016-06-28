@@ -2,13 +2,14 @@
   "id": 253109001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.822286,32.793555,-96.822286,32.793555",
     "geom:latitude":32.793555,
     "geom:longitude":-96.822286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Oak Lawn Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253109001,
-    "wof:lastmodified":1449063849,
+    "wof:lastmodified":1467084980,
     "wof:name":"Solara Entryways",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-96.822286,32.793555,-96.822286,32.793555],
-  "geometry": {"coordinates":[-96.822286,32.793555],"type":"Point"}
+  "bbox": [
+    -96.822286,
+    32.793555,
+    -96.822286,
+    32.793555
+],
+  "geometry": {"coordinates":[-96.82228600000001,32.793555],"type":"Point"}
 }

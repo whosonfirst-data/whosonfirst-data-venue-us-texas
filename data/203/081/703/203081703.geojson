@@ -2,13 +2,14 @@
   "id": 203081703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.382917,31.770353,-106.382917,31.770353",
     "geom:latitude":31.770353,
     "geom:longitude":-106.382917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6995 Industrial Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203081703,
-    "wof:lastmodified":1449025494,
+    "wof:lastmodified":1467084395,
     "wof:name":"International Indus Suppliers",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-106.382917,31.770353,-106.382917,31.770353],
-  "geometry": {"coordinates":[-106.382917,31.770353],"type":"Point"}
+  "bbox": [
+    -106.382917,
+    31.770353,
+    -106.382917,
+    31.770353
+],
+  "geometry": {"coordinates":[-106.38291700000001,31.770353],"type":"Point"}
 }

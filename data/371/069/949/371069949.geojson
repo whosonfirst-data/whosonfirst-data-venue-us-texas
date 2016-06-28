@@ -2,13 +2,14 @@
   "id": 371069949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.223587,29.645858,-95.223587,29.645858",
     "geom:latitude":29.645858,
     "geom:longitude":-95.223587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Edgebrook Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371069949,
-    "wof:lastmodified":1449049717,
+    "wof:lastmodified":1467084683,
     "wof:name":"ABC Page",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-95.223587,29.645858,-95.223587,29.645858],
-  "geometry": {"coordinates":[-95.223587,29.645858],"type":"Point"}
+  "bbox": [
+    -95.223587,
+    29.645858,
+    -95.223587,
+    29.645858
+],
+  "geometry": {"coordinates":[-95.22358699999999,29.645858],"type":"Point"}
 }

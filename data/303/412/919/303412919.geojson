@@ -2,13 +2,14 @@
   "id": 303412919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744455,30.441468,-97.744455,30.441468",
     "geom:latitude":30.441468,
     "geom:longitude":-97.744455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 W Parmer Ste 330",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303412919,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1467083716,
     "wof:name":"Apartments Now",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.744455,30.441468,-97.744455,30.441468],
+  "bbox": [
+    -97.744455,
+    30.441468,
+    -97.744455,
+    30.441468
+],
   "geometry": {"coordinates":[-97.744455,30.441468],"type":"Point"}
 }

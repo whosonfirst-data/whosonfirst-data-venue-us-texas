@@ -2,13 +2,14 @@
   "id": 220005659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.384901,31.817213,-102.384901,31.817213",
     "geom:latitude":31.817213,
     "geom:longitude":-102.384901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2167 W Interstate 20 State Rte",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220005659,
-    "wof:lastmodified":1449074814,
+    "wof:lastmodified":1467085194,
     "wof:name":"Texas Generator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-102.384901,31.817213,-102.384901,31.817213],
+  "bbox": [
+    -102.384901,
+    31.817213,
+    -102.384901,
+    31.817213
+],
   "geometry": {"coordinates":[-102.384901,31.817213],"type":"Point"}
 }

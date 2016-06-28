@@ -2,13 +2,14 @@
   "id": 386959075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.468444,32.672966,-97.468444,32.672966",
     "geom:latitude":32.672966,
     "geom:longitude":-97.468444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 McKinley St",
     "sg:city":"Benbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386959075,
-    "wof:lastmodified":1449028947,
+    "wof:lastmodified":1467084465,
     "wof:name":"Directional Insight Intl Inc",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-97.468444,32.672966,-97.468444,32.672966],
-  "geometry": {"coordinates":[-97.468444,32.672966],"type":"Point"}
+  "bbox": [
+    -97.468444,
+    32.672966,
+    -97.468444,
+    32.672966
+],
+  "geometry": {"coordinates":[-97.46844400000001,32.672966],"type":"Point"}
 }

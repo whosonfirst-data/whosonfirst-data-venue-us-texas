@@ -2,13 +2,14 @@
   "id": 370631345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431993,29.300953,-98.431993,29.300953",
     "geom:latitude":29.300953,
     "geom:longitude":-98.431993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11850 Center Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370631345,
-    "wof:lastmodified":1449030146,
+    "wof:lastmodified":1467084495,
     "wof:name":"P & O Cold Logistics",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-98.431993,29.300953,-98.431993,29.300953],
-  "geometry": {"coordinates":[-98.431993,29.300953],"type":"Point"}
+  "bbox": [
+    -98.431993,
+    29.300953,
+    -98.431993,
+    29.300953
+],
+  "geometry": {"coordinates":[-98.43199300000001,29.300953],"type":"Point"}
 }

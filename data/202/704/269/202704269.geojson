@@ -2,13 +2,14 @@
   "id": 202704269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75476,32.812124,-96.75476,32.812124",
     "geom:latitude":32.812124,
     "geom:longitude":-96.75476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 Gaston Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202704269,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1467084902,
     "wof:name":"TP Products",
     "wof:parent_id":85893617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.75476,32.812124,-96.75476,32.812124],
+  "bbox": [
+    -96.75476,
+    32.812124,
+    -96.75476,
+    32.812124
+],
   "geometry": {"coordinates":[-96.75476,32.812124],"type":"Point"}
 }

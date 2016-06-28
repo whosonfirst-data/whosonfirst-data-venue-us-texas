@@ -2,13 +2,14 @@
   "id": 253052069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.861529,32.822619,-96.861529,32.822619",
     "geom:latitude":32.822619,
     "geom:longitude":-96.861529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 W Mockingbird Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253052069,
-    "wof:lastmodified":1449064159,
+    "wof:lastmodified":1467084990,
     "wof:name":"Pappy's Old Fashion Hamburger",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-96.861529,32.822619,-96.861529,32.822619],
+  "bbox": [
+    -96.861529,
+    32.822619,
+    -96.861529,
+    32.822619
+],
   "geometry": {"coordinates":[-96.861529,32.822619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386959363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.46294,31.415712,-100.46294,31.415712",
     "geom:latitude":31.415712,
     "geom:longitude":-100.46294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Sunset Dr",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386959363,
-    "wof:lastmodified":1449028947,
+    "wof:lastmodified":1467084465,
     "wof:name":"Sunset Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-100.46294,31.415712,-100.46294,31.415712],
+  "bbox": [
+    -100.46294,
+    31.415712,
+    -100.46294,
+    31.415712
+],
   "geometry": {"coordinates":[-100.46294,31.415712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270351627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.385707,29.699399,-95.385707,29.699399",
     "geom:latitude":29.699399,
     "geom:longitude":-95.385707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Old Spanish Trail Ste B",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270351627,
-    "wof:lastmodified":1449010711,
+    "wof:lastmodified":1467084218,
     "wof:name":"Glass Central Houston",
     "wof:parent_id":85849809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "installation"
     ]
 },
-  "bbox": [-95.385707,29.699399,-95.385707,29.699399],
+  "bbox": [
+    -95.385707,
+    29.699399,
+    -95.385707,
+    29.699399
+],
   "geometry": {"coordinates":[-95.385707,29.699399],"type":"Point"}
 }

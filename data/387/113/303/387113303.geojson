@@ -2,13 +2,14 @@
   "id": 387113303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.499265,29.49336,-98.499265,29.49336",
     "geom:latitude":29.49336,
     "geom:longitude":-98.499265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6239 San Pedro Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387113303,
-    "wof:lastmodified":1449059598,
+    "wof:lastmodified":1467084874,
     "wof:name":"Bill Mezzetti Tire Company",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-98.499265,29.49336,-98.499265,29.49336],
-  "geometry": {"coordinates":[-98.499265,29.49336],"type":"Point"}
+  "bbox": [
+    -98.499265,
+    29.49336,
+    -98.499265,
+    29.49336
+],
+  "geometry": {"coordinates":[-98.49926499999999,29.49336],"type":"Point"}
 }

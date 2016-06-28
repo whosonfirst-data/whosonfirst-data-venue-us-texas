@@ -2,13 +2,14 @@
   "id": 387600233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.456201,27.488051,-99.456201,27.488051",
     "geom:latitude":27.488051,
     "geom:longitude":-99.456201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 S Lost Creek Loop",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387600233,
-    "wof:lastmodified":1449056457,
+    "wof:lastmodified":1467084793,
     "wof:name":"F & B Forwarding Agency",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.456201,27.488051,-99.456201,27.488051],
-  "geometry": {"coordinates":[-99.456201,27.488051],"type":"Point"}
+  "bbox": [
+    -99.456201,
+    27.488051,
+    -99.456201,
+    27.488051
+],
+  "geometry": {"coordinates":[-99.45620099999999,27.488051],"type":"Point"}
 }

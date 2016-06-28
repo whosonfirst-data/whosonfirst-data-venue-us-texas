@@ -2,13 +2,14 @@
   "id": 387114573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145054,33.192547,-97.145054,33.192547",
     "geom:latitude":33.192547,
     "geom:longitude":-97.145054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Mercedes Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387114573,
-    "wof:lastmodified":1449057689,
+    "wof:lastmodified":1467084824,
     "wof:name":"Reed Construction",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.145054,33.192547,-97.145054,33.192547],
+  "bbox": [
+    -97.145054,
+    33.192547,
+    -97.145054,
+    33.192547
+],
   "geometry": {"coordinates":[-97.145054,33.192547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303134845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.500627,29.665328,-97.500627,29.665328",
     "geom:latitude":29.665328,
     "geom:longitude":-97.500627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 S 1st St",
     "sg:city":"Harwood",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303134845,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1467083806,
     "wof:name":"Drillink, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.500627,29.665328,-97.500627,29.665328],
-  "geometry": {"coordinates":[-97.500627,29.665328],"type":"Point"}
+  "bbox": [
+    -97.500627,
+    29.665328,
+    -97.500627,
+    29.665328
+],
+  "geometry": {"coordinates":[-97.50062699999999,29.665328],"type":"Point"}
 }

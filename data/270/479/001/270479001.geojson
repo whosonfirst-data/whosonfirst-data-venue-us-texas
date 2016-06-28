@@ -2,13 +2,14 @@
   "id": 270479001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.544288,29.907842,-95.544288,29.907842",
     "geom:latitude":29.907842,
     "geom:longitude":-95.544288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9422 Camelia Crest Ln.",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":270479001,
-    "wof:lastmodified":1449010339,
+    "wof:lastmodified":1467084206,
     "wof:name":"B & E Plumbing",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-95.544288,29.907842,-95.544288,29.907842],
-  "geometry": {"coordinates":[-95.544288,29.907842],"type":"Point"}
+  "bbox": [
+    -95.544288,
+    29.907842,
+    -95.544288,
+    29.907842
+],
+  "geometry": {"coordinates":[-95.54428799999999,29.907842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202785409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.692163,29.444174,-98.692163,29.444174",
     "geom:latitude":29.444174,
     "geom:longitude":-98.692163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10103 Amber Flora Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202785409,
-    "wof:lastmodified":1449062227,
+    "wof:lastmodified":1467084932,
     "wof:name":"Us Telephone Installations",
     "wof:parent_id":85837993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-98.692163,29.444174,-98.692163,29.444174],
-  "geometry": {"coordinates":[-98.692163,29.444174],"type":"Point"}
+  "bbox": [
+    -98.692163,
+    29.444174,
+    -98.692163,
+    29.444174
+],
+  "geometry": {"coordinates":[-98.69216299999999,29.444174],"type":"Point"}
 }

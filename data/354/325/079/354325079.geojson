@@ -2,13 +2,14 @@
   "id": 354325079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739686,32.612983,-96.739686,32.612983",
     "geom:latitude":32.612983,
     "geom:longitude":-96.739686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Industrial St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354325079,
-    "wof:lastmodified":1449066580,
+    "wof:lastmodified":1467085067,
     "wof:name":"LASCO Bathware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-96.739686,32.612983,-96.739686,32.612983],
-  "geometry": {"coordinates":[-96.739686,32.612983],"type":"Point"}
+  "bbox": [
+    -96.739686,
+    32.612983,
+    -96.739686,
+    32.612983
+],
+  "geometry": {"coordinates":[-96.73968600000001,32.612983],"type":"Point"}
 }

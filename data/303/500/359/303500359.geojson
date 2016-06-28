@@ -2,13 +2,14 @@
   "id": 303500359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986229,30.374141,-97.986229,30.374141",
     "geom:latitude":30.374141,
     "geom:longitude":-97.986229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16405 Marina Village Cv",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303500359,
-    "wof:lastmodified":1448998722,
+    "wof:lastmodified":1467083721,
     "wof:name":"Hurst Harbor Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.986229,30.374141,-97.986229,30.374141],
-  "geometry": {"coordinates":[-97.986229,30.374141],"type":"Point"}
+  "bbox": [
+    -97.986229,
+    30.374141,
+    -97.986229,
+    30.374141
+],
+  "geometry": {"coordinates":[-97.98622899999999,30.374141],"type":"Point"}
 }

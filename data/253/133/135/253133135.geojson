@@ -2,13 +2,14 @@
   "id": 253133135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746655,32.668605,-96.746655,32.668605",
     "geom:latitude":32.668605,
     "geom:longitude":-96.746655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4254 Clark College Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253133135,
-    "wof:lastmodified":1449065253,
+    "wof:lastmodified":1467085029,
     "wof:name":"Methodist Hosp Collections",
     "wof:parent_id":85870469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-96.746655,32.668605,-96.746655,32.668605],
+  "bbox": [
+    -96.746655,
+    32.668605,
+    -96.746655,
+    32.668605
+],
   "geometry": {"coordinates":[-96.746655,32.668605],"type":"Point"}
 }

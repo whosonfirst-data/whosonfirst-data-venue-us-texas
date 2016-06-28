@@ -2,13 +2,14 @@
   "id": 236583205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.473587,31.152565,-97.473587,31.152565",
     "geom:latitude":31.152565,
     "geom:longitude":-97.473587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Morgan's Point Blvd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236583205,
-    "wof:lastmodified":1449004410,
+    "wof:lastmodified":1467083999,
     "wof:name":"City Hall",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.473587,31.152565,-97.473587,31.152565],
-  "geometry": {"coordinates":[-97.473587,31.152565],"type":"Point"}
+  "bbox": [
+    -97.473587,
+    31.152565,
+    -97.473587,
+    31.152565
+],
+  "geometry": {"coordinates":[-97.47358699999999,31.152565],"type":"Point"}
 }

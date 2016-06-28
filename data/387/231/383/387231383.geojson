@@ -2,13 +2,14 @@
   "id": 387231383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.853107,33.561099,-97.853107,33.561099",
     "geom:latitude":33.561099,
     "geom:longitude":-97.853107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W Wise St",
     "sg:city":"Bowie",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":387231383,
-    "wof:lastmodified":1449058053,
+    "wof:lastmodified":1467084834,
     "wof:name":"Bowie's Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.853107,33.561099,-97.853107,33.561099],
-  "geometry": {"coordinates":[-97.853107,33.561099],"type":"Point"}
+  "bbox": [
+    -97.853107,
+    33.561099,
+    -97.853107,
+    33.561099
+],
+  "geometry": {"coordinates":[-97.85310699999999,33.561099],"type":"Point"}
 }

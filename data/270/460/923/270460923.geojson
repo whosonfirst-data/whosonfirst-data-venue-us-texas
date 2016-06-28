@@ -2,13 +2,14 @@
   "id": 270460923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.147258,29.585097,-95.147258,29.585097",
     "geom:latitude":29.585097,
     "geom:longitude":-95.147258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Clear Lake City Blvd #105",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":270460923,
-    "wof:lastmodified":1449010978,
+    "wof:lastmodified":1467084227,
     "wof:name":"Bay Glen Animal Hospital",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.147258,29.585097,-95.147258,29.585097],
-  "geometry": {"coordinates":[-95.147258,29.585097],"type":"Point"}
+  "bbox": [
+    -95.147258,
+    29.585097,
+    -95.147258,
+    29.585097
+],
+  "geometry": {"coordinates":[-95.14725799999999,29.585097],"type":"Point"}
 }

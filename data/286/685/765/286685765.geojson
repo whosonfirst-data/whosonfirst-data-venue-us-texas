@@ -2,13 +2,14 @@
   "id": 286685765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.714593,29.866144,-95.714593,29.866144",
     "geom:latitude":29.866144,
     "geom:longitude":-95.714593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19542 Cabra Ct",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286685765,
-    "wof:lastmodified":1449018007,
+    "wof:lastmodified":1467084315,
     "wof:name":"Abel Data Services",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "data"
     ]
 },
-  "bbox": [-95.714593,29.866144,-95.714593,29.866144],
-  "geometry": {"coordinates":[-95.714593,29.866144],"type":"Point"}
+  "bbox": [
+    -95.714593,
+    29.866144,
+    -95.714593,
+    29.866144
+],
+  "geometry": {"coordinates":[-95.71459299999999,29.866144],"type":"Point"}
 }

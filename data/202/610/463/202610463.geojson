@@ -2,13 +2,14 @@
   "id": 202610463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.128824,30.101011,-94.128824,30.101011",
     "geom:latitude":30.101011,
     "geom:longitude":-94.128824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 N 10th St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202610463,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1467084940,
     "wof:name":"Salvation Army",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-94.128824,30.101011,-94.128824,30.101011],
-  "geometry": {"coordinates":[-94.128824,30.101011],"type":"Point"}
+  "bbox": [
+    -94.128824,
+    30.101011,
+    -94.128824,
+    30.101011
+],
+  "geometry": {"coordinates":[-94.12882399999999,30.101011],"type":"Point"}
 }

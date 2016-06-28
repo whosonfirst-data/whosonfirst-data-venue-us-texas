@@ -2,13 +2,14 @@
   "id": 270481015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.532624,29.934034,-95.532624,29.934034",
     "geom:latitude":29.934034,
     "geom:longitude":-95.532624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 N Sam Houston Pkwy W",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270481015,
-    "wof:lastmodified":1449010774,
+    "wof:lastmodified":1467084220,
     "wof:name":"Sam Houston Race Park",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.532624,29.934034,-95.532624,29.934034],
+  "bbox": [
+    -95.532624,
+    29.934034,
+    -95.532624,
+    29.934034
+],
   "geometry": {"coordinates":[-95.532624,29.934034],"type":"Point"}
 }

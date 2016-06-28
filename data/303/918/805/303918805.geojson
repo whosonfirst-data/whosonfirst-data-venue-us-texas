@@ -2,13 +2,14 @@
   "id": 303918805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.701715,34.184654,-101.701715,34.184654",
     "geom:latitude":34.184654,
     "geom:longitude":-101.701715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Ash St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303918805,
-    "wof:lastmodified":1448999781,
+    "wof:lastmodified":1467083775,
     "wof:name":"Accolade Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-101.701715,34.184654,-101.701715,34.184654],
-  "geometry": {"coordinates":[-101.701715,34.184654],"type":"Point"}
+  "bbox": [
+    -101.701715,
+    34.184654,
+    -101.701715,
+    34.184654
+],
+  "geometry": {"coordinates":[-101.70171499999999,34.184654],"type":"Point"}
 }

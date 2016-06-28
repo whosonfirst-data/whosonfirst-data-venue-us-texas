@@ -2,13 +2,14 @@
   "id": 403710685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711023,30.371087,-97.711023,30.371087",
     "geom:latitude":30.371087,
     "geom:longitude":-97.711023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9416 Meadow Vale",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403710685,
-    "wof:lastmodified":1449054714,
+    "wof:lastmodified":1467084751,
     "wof:name":"Tooltek",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-97.711023,30.371087,-97.711023,30.371087],
+  "bbox": [
+    -97.711023,
+    30.371087,
+    -97.711023,
+    30.371087
+],
   "geometry": {"coordinates":[-97.711023,30.371087],"type":"Point"}
 }

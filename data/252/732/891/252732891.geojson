@@ -2,13 +2,14 @@
   "id": 252732891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.859524,32.778887,-96.859524,32.778887",
     "geom:latitude":32.778887,
     "geom:longitude":-96.859524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2261 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":252732891,
-    "wof:lastmodified":1449006556,
+    "wof:lastmodified":1467084111,
     "wof:name":"Neighborcare Clinic",
     "wof:parent_id":85870331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "medicine"
     ]
 },
-  "bbox": [-96.859524,32.778887,-96.859524,32.778887],
-  "geometry": {"coordinates":[-96.859524,32.778887],"type":"Point"}
+  "bbox": [
+    -96.859524,
+    32.778887,
+    -96.859524,
+    32.778887
+],
+  "geometry": {"coordinates":[-96.85952399999999,32.778887],"type":"Point"}
 }

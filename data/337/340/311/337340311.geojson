@@ -2,13 +2,14 @@
   "id": 337340311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.77827,30.349901,-97.77827,30.349901",
     "geom:latitude":30.349901,
     "geom:longitude":-97.77827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6107 Mountain Villa Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337340311,
-    "wof:lastmodified":1449027565,
+    "wof:lastmodified":1467084450,
     "wof:name":"James Decocq",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.77827,30.349901,-97.77827,30.349901],
-  "geometry": {"coordinates":[-97.77827,30.349901],"type":"Point"}
+  "bbox": [
+    -97.77827,
+    30.349901,
+    -97.77827,
+    30.349901
+],
+  "geometry": {"coordinates":[-97.77827000000001,30.349901],"type":"Point"}
 }

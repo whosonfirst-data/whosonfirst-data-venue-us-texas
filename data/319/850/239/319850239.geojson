@@ -2,13 +2,14 @@
   "id": 319850239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553001,31.847601,-106.553001,31.847601",
     "geom:latitude":31.847601,
     "geom:longitude":-106.553001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 N Resler Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":319850239,
-    "wof:lastmodified":1449024536,
+    "wof:lastmodified":1467084381,
     "wof:name":"Porter Homes",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.553001,31.847601,-106.553001,31.847601],
-  "geometry": {"coordinates":[-106.553001,31.847601],"type":"Point"}
+  "bbox": [
+    -106.553001,
+    31.847601,
+    -106.553001,
+    31.847601
+],
+  "geometry": {"coordinates":[-106.55300099999999,31.847601],"type":"Point"}
 }

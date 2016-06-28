@@ -2,13 +2,14 @@
   "id": 353506799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.843156,33.567745,-101.843156,33.567745",
     "geom:latitude":33.567745,
     "geom:longitude":-101.843156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 29th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353506799,
-    "wof:lastmodified":1449018311,
+    "wof:lastmodified":1467084322,
     "wof:name":"4 B Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-101.843156,33.567745,-101.843156,33.567745],
-  "geometry": {"coordinates":[-101.843156,33.567745],"type":"Point"}
+  "bbox": [
+    -101.843156,
+    33.567745,
+    -101.843156,
+    33.567745
+],
+  "geometry": {"coordinates":[-101.84315599999999,33.567745],"type":"Point"}
 }

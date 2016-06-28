@@ -2,13 +2,14 @@
   "id": 252942031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.881401,32.900398,-96.881401,32.900398",
     "geom:latitude":32.900398,
     "geom:longitude":-96.881401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11155 Dennis Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252942031,
-    "wof:lastmodified":1449005916,
+    "wof:lastmodified":1467084075,
     "wof:name":"Dennis Road Automotive",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.881401,32.900398,-96.881401,32.900398],
+  "bbox": [
+    -96.881401,
+    32.900398,
+    -96.881401,
+    32.900398
+],
   "geometry": {"coordinates":[-96.881401,32.900398],"type":"Point"}
 }

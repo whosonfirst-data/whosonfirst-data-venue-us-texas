@@ -2,13 +2,14 @@
   "id": 354050771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.463045,30.13458,-95.463045,30.13458",
     "geom:latitude":30.13458,
     "geom:longitude":-95.463045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 Sawmill Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354050771,
-    "wof:lastmodified":1449066878,
+    "wof:lastmodified":1467085074,
     "wof:name":"Art & Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.463045,30.13458,-95.463045,30.13458],
-  "geometry": {"coordinates":[-95.463045,30.13458],"type":"Point"}
+  "bbox": [
+    -95.463045,
+    30.13458,
+    -95.463045,
+    30.13458
+],
+  "geometry": {"coordinates":[-95.46304499999999,30.13458],"type":"Point"}
 }

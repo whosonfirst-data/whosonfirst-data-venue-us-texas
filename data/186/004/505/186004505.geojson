@@ -2,13 +2,14 @@
   "id": 186004505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.413538,30.122524,-96.413538,30.122524",
     "geom:latitude":30.122524,
     "geom:longitude":-96.413538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Salem Rd",
     "sg:city":"Brenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186004505,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1467084712,
     "wof:name":"Pleasant Hill Winery",
     "wof:parent_id":85893587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.413538,30.122524,-96.413538,30.122524],
+  "bbox": [
+    -96.413538,
+    30.122524,
+    -96.413538,
+    30.122524
+],
   "geometry": {"coordinates":[-96.413538,30.122524],"type":"Point"}
 }

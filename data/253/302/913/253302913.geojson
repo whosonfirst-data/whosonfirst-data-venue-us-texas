@@ -2,13 +2,14 @@
   "id": 253302913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.870302,32.893931,-96.870302,32.893931",
     "geom:latitude":32.893931,
     "geom:longitude":-96.870302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Regent Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253302913,
-    "wof:lastmodified":1449063817,
+    "wof:lastmodified":1467084979,
     "wof:name":"Dallas Cowboys Football Club",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "team"
     ]
 },
-  "bbox": [-96.870302,32.893931,-96.870302,32.893931],
+  "bbox": [
+    -96.870302,
+    32.893931,
+    -96.870302,
+    32.893931
+],
   "geometry": {"coordinates":[-96.870302,32.893931],"type":"Point"}
 }

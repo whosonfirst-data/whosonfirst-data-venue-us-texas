@@ -2,13 +2,14 @@
   "id": 303136617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.766485,30.686198,-97.766485,30.686198",
     "geom:latitude":30.686198,
     "geom:longitude":-97.766485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20203 Hunters Point Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303136617,
-    "wof:lastmodified":1449000526,
+    "wof:lastmodified":1467083811,
     "wof:name":"Watson Software-Works",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-97.766485,30.686198,-97.766485,30.686198],
+  "bbox": [
+    -97.766485,
+    30.686198,
+    -97.766485,
+    30.686198
+],
   "geometry": {"coordinates":[-97.766485,30.686198],"type":"Point"}
 }

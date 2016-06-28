@@ -2,13 +2,14 @@
   "id": 252781561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452974,27.81228,-97.452974,27.81228",
     "geom:latitude":27.81228,
     "geom:longitude":-97.452974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Navigation Blvd",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252781561,
-    "wof:lastmodified":1449005623,
+    "wof:lastmodified":1467084060,
     "wof:name":"Corpus Christi Truck Stop",
     "wof:parent_id":85837307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stops"
     ]
 },
-  "bbox": [-97.452974,27.81228,-97.452974,27.81228],
+  "bbox": [
+    -97.452974,
+    27.81228,
+    -97.452974,
+    27.81228
+],
   "geometry": {"coordinates":[-97.452974,27.81228],"type":"Point"}
 }

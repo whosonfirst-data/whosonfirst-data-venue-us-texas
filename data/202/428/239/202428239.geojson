@@ -2,13 +2,14 @@
   "id": 202428239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.856533,32.4079,-94.856533,32.4079",
     "geom:latitude":32.4079,
     "geom:longitude":-94.856533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 State Hwy 31 E",
     "sg:city":"Kilgore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202428239,
-    "wof:lastmodified":1449062467,
+    "wof:lastmodified":1467084937,
     "wof:name":"Weatherford ALS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-94.856533,32.4079,-94.856533,32.4079],
+  "bbox": [
+    -94.856533,
+    32.4079,
+    -94.856533,
+    32.4079
+],
   "geometry": {"coordinates":[-94.856533,32.4079],"type":"Point"}
 }

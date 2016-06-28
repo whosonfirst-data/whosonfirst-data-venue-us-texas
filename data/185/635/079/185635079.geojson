@@ -2,13 +2,14 @@
   "id": 185635079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.699835,29.395656,-98.699835,29.395656",
     "geom:latitude":29.395656,
     "geom:longitude":-98.699835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 Black River Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185635079,
-    "wof:lastmodified":1449007314,
+    "wof:lastmodified":1467084124,
     "wof:name":"Photo Qwest",
     "wof:parent_id":85828975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.699835,29.395656,-98.699835,29.395656],
-  "geometry": {"coordinates":[-98.699835,29.395656],"type":"Point"}
+  "bbox": [
+    -98.699835,
+    29.395656,
+    -98.699835,
+    29.395656
+],
+  "geometry": {"coordinates":[-98.69983499999999,29.395656],"type":"Point"}
 }

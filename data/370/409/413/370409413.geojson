@@ -2,13 +2,14 @@
   "id": 370409413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.427414,32.727241,-97.427414,32.727241",
     "geom:latitude":32.727241,
     "geom:longitude":-97.427414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3228 Bigham Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370409413,
-    "wof:lastmodified":1449030474,
+    "wof:lastmodified":1467084504,
     "wof:name":"JDI",
     "wof:parent_id":85897393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-97.427414,32.727241,-97.427414,32.727241],
+  "bbox": [
+    -97.427414,
+    32.727241,
+    -97.427414,
+    32.727241
+],
   "geometry": {"coordinates":[-97.427414,32.727241],"type":"Point"}
 }

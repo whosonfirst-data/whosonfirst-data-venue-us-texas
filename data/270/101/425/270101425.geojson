@@ -2,13 +2,14 @@
   "id": 270101425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455902,29.7328,-95.455902,29.7328",
     "geom:latitude":29.7328,
     "geom:longitude":-95.455902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4704 Richmond Ave Ste B",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270101425,
-    "wof:lastmodified":1449009931,
+    "wof:lastmodified":1467084192,
     "wof:name":"Richmond Nail Place",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.455902,29.7328,-95.455902,29.7328],
-  "geometry": {"coordinates":[-95.455902,29.7328],"type":"Point"}
+  "bbox": [
+    -95.455902,
+    29.7328,
+    -95.455902,
+    29.7328
+],
+  "geometry": {"coordinates":[-95.45590199999999,29.7328],"type":"Point"}
 }

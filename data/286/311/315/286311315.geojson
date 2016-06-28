@@ -2,13 +2,14 @@
   "id": 286311315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.605843,29.730295,-95.605843,29.730295",
     "geom:latitude":29.730295,
     "geom:longitude":-95.605843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 S Dairy Ashford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286311315,
-    "wof:lastmodified":1449015853,
+    "wof:lastmodified":1467084255,
     "wof:name":"Westside Laundry Parts & Supplies",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.605843,29.730295,-95.605843,29.730295],
-  "geometry": {"coordinates":[-95.605843,29.730295],"type":"Point"}
+  "bbox": [
+    -95.605843,
+    29.730295,
+    -95.605843,
+    29.730295
+],
+  "geometry": {"coordinates":[-95.60584299999999,29.730295],"type":"Point"}
 }

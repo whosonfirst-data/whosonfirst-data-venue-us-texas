@@ -2,13 +2,14 @@
   "id": 219283257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.656635,33.203695,-96.656635,33.203695",
     "geom:latitude":33.203695,
     "geom:longitude":-96.656635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Valley Cir",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219283257,
-    "wof:lastmodified":1449071447,
+    "wof:lastmodified":1467085122,
     "wof:name":"Witness Systems",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-96.656635,33.203695,-96.656635,33.203695],
-  "geometry": {"coordinates":[-96.656635,33.203695],"type":"Point"}
+  "bbox": [
+    -96.656635,
+    33.203695,
+    -96.656635,
+    33.203695
+],
+  "geometry": {"coordinates":[-96.65663499999999,33.203695],"type":"Point"}
 }

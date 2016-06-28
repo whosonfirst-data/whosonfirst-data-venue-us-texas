@@ -2,13 +2,14 @@
   "id": 370855823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.898655,33.535543,-101.898655,33.535543",
     "geom:latitude":33.535543,
     "geom:longitude":-101.898655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 63rd Dr",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370855823,
-    "wof:lastmodified":1449031590,
+    "wof:lastmodified":1467084532,
     "wof:name":"Owl's Press",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-101.898655,33.535543,-101.898655,33.535543],
-  "geometry": {"coordinates":[-101.898655,33.535543],"type":"Point"}
+  "bbox": [
+    -101.898655,
+    33.535543,
+    -101.898655,
+    33.535543
+],
+  "geometry": {"coordinates":[-101.89865500000001,33.535543],"type":"Point"}
 }

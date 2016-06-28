@@ -2,13 +2,14 @@
   "id": 304034371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.790071,32.940639,-99.790071,32.940639",
     "geom:latitude":32.940639,
     "geom:longitude":-99.790071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Reynolds St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":304034371,
-    "wof:lastmodified":1449043626,
+    "wof:lastmodified":1467084661,
     "wof:name":"West Texas Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "radiators-heating"
     ]
 },
-  "bbox": [-99.790071,32.940639,-99.790071,32.940639],
+  "bbox": [
+    -99.790071,
+    32.940639,
+    -99.790071,
+    32.940639
+],
   "geometry": {"coordinates":[-99.790071,32.940639],"type":"Point"}
 }

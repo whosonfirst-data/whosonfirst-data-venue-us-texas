@@ -2,13 +2,14 @@
   "id": 185673025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.465009,32.890069,-96.465009,32.890069",
     "geom:latitude":32.890069,
     "geom:longitude":-96.465009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Rockwall Pkwy",
     "sg:city":"Rockwall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185673025,
-    "wof:lastmodified":1449007242,
+    "wof:lastmodified":1467084122,
     "wof:name":"Texas Contractors Licensing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.465009,32.890069,-96.465009,32.890069],
-  "geometry": {"coordinates":[-96.465009,32.890069],"type":"Point"}
+  "bbox": [
+    -96.465009,
+    32.890069,
+    -96.465009,
+    32.890069
+],
+  "geometry": {"coordinates":[-96.46500899999999,32.890069],"type":"Point"}
 }

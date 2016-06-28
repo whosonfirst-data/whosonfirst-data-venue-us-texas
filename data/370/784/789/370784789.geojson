@@ -2,13 +2,14 @@
   "id": 370784789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.827921,28.679812,-99.827921,28.679812",
     "geom:latitude":28.679812,
     "geom:longitude":-99.827921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Uvalde St",
     "sg:city":"Crystal City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370784789,
-    "wof:lastmodified":1449031339,
+    "wof:lastmodified":1467084525,
     "wof:name":"Joe W Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.827921,28.679812,-99.827921,28.679812],
+  "bbox": [
+    -99.827921,
+    28.679812,
+    -99.827921,
+    28.679812
+],
   "geometry": {"coordinates":[-99.827921,28.679812],"type":"Point"}
 }

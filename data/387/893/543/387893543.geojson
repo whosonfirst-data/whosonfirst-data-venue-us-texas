@@ -2,13 +2,14 @@
   "id": 387893543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.842001,32.869888,-96.842001,32.869888",
     "geom:latitude":32.869888,
     "geom:longitude":-96.842001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4052 Lomita Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387893543,
-    "wof:lastmodified":1449059201,
+    "wof:lastmodified":1467084864,
     "wof:name":"Premiere Conferencing Svc",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [-96.842001,32.869888,-96.842001,32.869888],
+  "bbox": [
+    -96.842001,
+    32.869888,
+    -96.842001,
+    32.869888
+],
   "geometry": {"coordinates":[-96.842001,32.869888],"type":"Point"}
 }

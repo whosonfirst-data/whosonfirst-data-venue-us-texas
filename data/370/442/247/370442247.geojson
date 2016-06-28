@@ -2,13 +2,14 @@
   "id": 370442247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.588876,29.49323,-98.588876,29.49323",
     "geom:latitude":29.49323,
     "geom:longitude":-98.588876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6617 Honey Hill",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370442247,
-    "wof:lastmodified":1449030574,
+    "wof:lastmodified":1467084506,
     "wof:name":"Inspect South Texas",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-98.588876,29.49323,-98.588876,29.49323],
+  "bbox": [
+    -98.588876,
+    29.49323,
+    -98.588876,
+    29.49323
+],
   "geometry": {"coordinates":[-98.588876,29.49323],"type":"Point"}
 }

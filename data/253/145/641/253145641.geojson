@@ -2,13 +2,14 @@
   "id": 253145641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699762,32.905247,-96.699762,32.905247",
     "geom:latitude":32.905247,
     "geom:longitude":-96.699762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10731 Metric Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":253145641,
-    "wof:lastmodified":1449063718,
+    "wof:lastmodified":1467084976,
     "wof:name":"A & B Supply, Inc.",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.699762,32.905247,-96.699762,32.905247],
-  "geometry": {"coordinates":[-96.699762,32.905247],"type":"Point"}
+  "bbox": [
+    -96.699762,
+    32.905247,
+    -96.699762,
+    32.905247
+],
+  "geometry": {"coordinates":[-96.69976200000001,32.905247],"type":"Point"}
 }

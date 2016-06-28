@@ -2,13 +2,14 @@
   "id": 252958503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.782963,30.243221,-97.782963,30.243221",
     "geom:latitude":30.243221,
     "geom:longitude":-97.782963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252958503,
-    "wof:lastmodified":1449006276,
+    "wof:lastmodified":1467084095,
     "wof:name":"Broken Spoke",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-97.782963,30.243221,-97.782963,30.243221],
+  "bbox": [
+    -97.782963,
+    30.243221,
+    -97.782963,
+    30.243221
+],
   "geometry": {"coordinates":[-97.782963,30.243221],"type":"Point"}
 }

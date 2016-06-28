@@ -2,13 +2,14 @@
   "id": 252892499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551453,29.710659,-95.551453,29.710659",
     "geom:latitude":29.710659,
     "geom:longitude":-95.551453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 Corporate Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252892499,
-    "wof:lastmodified":1449005566,
+    "wof:lastmodified":1467084056,
     "wof:name":"Fox Printing",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.551453,29.710659,-95.551453,29.710659],
+  "bbox": [
+    -95.551453,
+    29.710659,
+    -95.551453,
+    29.710659
+],
   "geometry": {"coordinates":[-95.551453,29.710659],"type":"Point"}
 }

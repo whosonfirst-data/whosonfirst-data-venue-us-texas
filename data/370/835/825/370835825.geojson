@@ -2,13 +2,14 @@
   "id": 370835825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.770556,32.871922,-96.770556,32.871922",
     "geom:latitude":32.871922,
     "geom:longitude":-96.770556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7839 Park Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370835825,
-    "wof:lastmodified":1449029575,
+    "wof:lastmodified":1467084481,
     "wof:name":"Wright Commercial Contracting",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.770556,32.871922,-96.770556,32.871922],
+  "bbox": [
+    -96.770556,
+    32.871922,
+    -96.770556,
+    32.871922
+],
   "geometry": {"coordinates":[-96.770556,32.871922],"type":"Point"}
 }

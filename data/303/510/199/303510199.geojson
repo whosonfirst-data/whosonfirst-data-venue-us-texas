@@ -2,13 +2,14 @@
   "id": 303510199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.919576,30.376385,-97.919576,30.376385",
     "geom:latitude":30.376385,
     "geom:longitude":-97.919576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Jacks Pass",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303510199,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1467083765,
     "wof:name":"Acker Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.919576,30.376385,-97.919576,30.376385],
-  "geometry": {"coordinates":[-97.919576,30.376385],"type":"Point"}
+  "bbox": [
+    -97.919576,
+    30.376385,
+    -97.919576,
+    30.376385
+],
+  "geometry": {"coordinates":[-97.91957600000001,30.376385],"type":"Point"}
 }

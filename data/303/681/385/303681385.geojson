@@ -2,13 +2,14 @@
   "id": 303681385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.805411,30.433255,-97.805411,30.433255",
     "geom:latitude":30.433255,
     "geom:longitude":-97.805411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9805 Fox Chase Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303681385,
-    "wof:lastmodified":1448999616,
+    "wof:lastmodified":1467083766,
     "wof:name":"Us Wig",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "piece"
     ]
 },
-  "bbox": [-97.805411,30.433255,-97.805411,30.433255],
-  "geometry": {"coordinates":[-97.805411,30.433255],"type":"Point"}
+  "bbox": [
+    -97.805411,
+    30.433255,
+    -97.805411,
+    30.433255
+],
+  "geometry": {"coordinates":[-97.80541100000001,30.433255],"type":"Point"}
 }

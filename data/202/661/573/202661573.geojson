@@ -2,13 +2,14 @@
   "id": 202661573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48077,29.593661,-95.48077,29.593661",
     "geom:latitude":29.593661,
     "geom:longitude":-95.48077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16159 Corsair Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202661573,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1467084935,
     "wof:name":"John & Rose Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.48077,29.593661,-95.48077,29.593661],
-  "geometry": {"coordinates":[-95.48077,29.593661],"type":"Point"}
+  "bbox": [
+    -95.48077,
+    29.593661,
+    -95.48077,
+    29.593661
+],
+  "geometry": {"coordinates":[-95.48077000000001,29.593661],"type":"Point"}
 }

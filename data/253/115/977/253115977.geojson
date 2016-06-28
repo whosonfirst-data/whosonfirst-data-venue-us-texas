@@ -2,13 +2,14 @@
   "id": 253115977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760598,32.870969,-96.760598,32.870969",
     "geom:latitude":32.870969,
     "geom:longitude":-96.760598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 Park Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253115977,
-    "wof:lastmodified":1449062805,
+    "wof:lastmodified":1467084945,
     "wof:name":"Pebbles Park Apartments",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.760598,32.870969,-96.760598,32.870969],
+  "bbox": [
+    -96.760598,
+    32.870969,
+    -96.760598,
+    32.870969
+],
   "geometry": {"coordinates":[-96.760598,32.870969],"type":"Point"}
 }

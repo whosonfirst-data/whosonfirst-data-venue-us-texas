@@ -2,13 +2,14 @@
   "id": 370360111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.173763,29.850637,-98.173763,29.850637",
     "geom:latitude":29.850637,
     "geom:longitude":-98.173763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Julius Dr",
     "sg:city":"Canyon Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370360111,
-    "wof:lastmodified":1449031712,
+    "wof:lastmodified":1467084535,
     "wof:name":"Ceramic City",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-98.173763,29.850637,-98.173763,29.850637],
-  "geometry": {"coordinates":[-98.173763,29.850637],"type":"Point"}
+  "bbox": [
+    -98.173763,
+    29.850637,
+    -98.173763,
+    29.850637
+],
+  "geometry": {"coordinates":[-98.17376299999999,29.850637],"type":"Point"}
 }

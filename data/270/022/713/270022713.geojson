@@ -2,13 +2,14 @@
   "id": 270022713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.414384,29.748417,-95.414384,29.748417",
     "geom:latitude":29.748417,
     "geom:longitude":-95.414384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2248 Welch St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270022713,
-    "wof:lastmodified":1449009450,
+    "wof:lastmodified":1467084176,
     "wof:name":"West John Pilates",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pilate"
     ]
 },
-  "bbox": [-95.414384,29.748417,-95.414384,29.748417],
+  "bbox": [
+    -95.414384,
+    29.748417,
+    -95.414384,
+    29.748417
+],
   "geometry": {"coordinates":[-95.414384,29.748417],"type":"Point"}
 }

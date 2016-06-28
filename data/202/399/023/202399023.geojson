@@ -2,13 +2,14 @@
   "id": 202399023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.41209,32.924481,-97.41209,32.924481",
     "geom:latitude":32.924481,
     "geom:longitude":-97.41209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11591 US Hwy 287P Bus",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202399023,
-    "wof:lastmodified":1449060553,
+    "wof:lastmodified":1467084897,
     "wof:name":"Styro Chem Intl",
     "wof:parent_id":85897369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-97.41209,32.924481,-97.41209,32.924481],
-  "geometry": {"coordinates":[-97.41209,32.924481],"type":"Point"}
+  "bbox": [
+    -97.41209,
+    32.924481,
+    -97.41209,
+    32.924481
+],
+  "geometry": {"coordinates":[-97.41209000000001,32.924481],"type":"Point"}
 }

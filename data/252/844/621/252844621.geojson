@@ -2,13 +2,14 @@
   "id": 252844621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.895987,32.879334,-96.895987,32.879334",
     "geom:latitude":32.879334,
     "geom:longitude":-96.895987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Walnut Hl & Stemmons Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252844621,
-    "wof:lastmodified":1449005876,
+    "wof:lastmodified":1467084074,
     "wof:name":"USA BOWL",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-96.895987,32.879334,-96.895987,32.879334],
-  "geometry": {"coordinates":[-96.895987,32.879334],"type":"Point"}
+  "bbox": [
+    -96.895987,
+    32.879334,
+    -96.895987,
+    32.879334
+],
+  "geometry": {"coordinates":[-96.89598700000001,32.879334],"type":"Point"}
 }

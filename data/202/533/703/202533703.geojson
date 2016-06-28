@@ -2,13 +2,14 @@
   "id": 202533703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.692313,30.507697,-97.692313,30.507697",
     "geom:latitude":30.507697,
     "geom:longitude":-97.692313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Westwood Dr",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202533703,
-    "wof:lastmodified":1449060080,
+    "wof:lastmodified":1467084887,
     "wof:name":"Native West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.692313,30.507697,-97.692313,30.507697],
+  "bbox": [
+    -97.692313,
+    30.507697,
+    -97.692313,
+    30.507697
+],
   "geometry": {"coordinates":[-97.692313,30.507697],"type":"Point"}
 }

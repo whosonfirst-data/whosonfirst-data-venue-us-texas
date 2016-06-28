@@ -2,13 +2,14 @@
   "id": 303151271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.837151,30.582254,-97.837151,30.582254",
     "geom:latitude":30.582254,
     "geom:longitude":-97.837151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 Ranch Road 2243",
     "sg:city":"Leander",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":303151271,
-    "wof:lastmodified":1448998145,
+    "wof:lastmodified":1467083692,
     "wof:name":"Floyd Cantwell Used Cars & Parts",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.837151,30.582254,-97.837151,30.582254],
-  "geometry": {"coordinates":[-97.837151,30.582254],"type":"Point"}
+  "bbox": [
+    -97.837151,
+    30.582254,
+    -97.837151,
+    30.582254
+],
+  "geometry": {"coordinates":[-97.83715100000001,30.582254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202963025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.127389,31.569777,-97.127389,31.569777",
     "geom:latitude":31.569777,
     "geom:longitude":-97.127389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Preston St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202963025,
-    "wof:lastmodified":1449060358,
+    "wof:lastmodified":1467084893,
     "wof:name":"Mount Zion CME Church",
     "wof:parent_id":85881747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.127389,31.569777,-97.127389,31.569777],
-  "geometry": {"coordinates":[-97.127389,31.569777],"type":"Point"}
+  "bbox": [
+    -97.127389,
+    31.569777,
+    -97.127389,
+    31.569777
+],
+  "geometry": {"coordinates":[-97.12738899999999,31.569777],"type":"Point"}
 }

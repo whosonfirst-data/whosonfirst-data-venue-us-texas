@@ -2,13 +2,14 @@
   "id": 252750179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.994261,29.969431,-93.994261,29.969431",
     "geom:latitude":29.969431,
     "geom:longitude":-93.994261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 Nederland Ave",
     "sg:city":"Nederland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252750179,
-    "wof:lastmodified":1449006095,
+    "wof:lastmodified":1467084085,
     "wof:name":"Yesterday's Consignment",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-93.994261,29.969431,-93.994261,29.969431],
-  "geometry": {"coordinates":[-93.994261,29.969431],"type":"Point"}
+  "bbox": [
+    -93.994261,
+    29.969431,
+    -93.994261,
+    29.969431
+],
+  "geometry": {"coordinates":[-93.99426099999999,29.969431],"type":"Point"}
 }

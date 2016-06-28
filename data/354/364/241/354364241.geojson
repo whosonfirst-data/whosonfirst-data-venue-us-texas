@@ -2,13 +2,14 @@
   "id": 354364241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.405826,29.811927,-95.405826,29.811927",
     "geom:latitude":29.811927,
     "geom:longitude":-95.405826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 W 28th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354364241,
-    "wof:lastmodified":1449066909,
+    "wof:lastmodified":1467085075,
     "wof:name":"Databytes",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.405826,29.811927,-95.405826,29.811927],
+  "bbox": [
+    -95.405826,
+    29.811927,
+    -95.405826,
+    29.811927
+],
   "geometry": {"coordinates":[-95.405826,29.811927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236527455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.822848,35.207892,-101.822848,35.207892",
     "geom:latitude":35.207892,
     "geom:longitude":-101.822848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Cleveland St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236527455,
-    "wof:lastmodified":1449004429,
+    "wof:lastmodified":1467084000,
     "wof:name":"Panhandle Cylinder Maintenance",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hydrostatic"
     ]
 },
-  "bbox": [-101.822848,35.207892,-101.822848,35.207892],
-  "geometry": {"coordinates":[-101.822848,35.207892],"type":"Point"}
+  "bbox": [
+    -101.822848,
+    35.207892,
+    -101.822848,
+    35.207892
+],
+  "geometry": {"coordinates":[-101.82284799999999,35.207892],"type":"Point"}
 }

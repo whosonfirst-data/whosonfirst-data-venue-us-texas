@@ -2,13 +2,14 @@
   "id": 387462113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.192048,32.683264,-97.192048,32.683264",
     "geom:latitude":32.683264,
     "geom:longitude":-97.192048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 Little Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387462113,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1467084879,
     "wof:name":"Steakn More",
     "wof:parent_id":85851851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.192048,32.683264,-97.192048,32.683264],
+  "bbox": [
+    -97.192048,
+    32.683264,
+    -97.192048,
+    32.683264
+],
   "geometry": {"coordinates":[-97.192048,32.683264],"type":"Point"}
 }

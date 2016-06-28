@@ -2,13 +2,14 @@
   "id": 303422447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.669058,30.447631,-97.669058,30.447631",
     "geom:latitude":30.447631,
     "geom:longitude":-97.669058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Ouida Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303422447,
-    "wof:lastmodified":1448998292,
+    "wof:lastmodified":1467083700,
     "wof:name":"Austin Grass",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sod"
     ]
 },
-  "bbox": [-97.669058,30.447631,-97.669058,30.447631],
-  "geometry": {"coordinates":[-97.669058,30.447631],"type":"Point"}
+  "bbox": [
+    -97.669058,
+    30.447631,
+    -97.669058,
+    30.447631
+],
+  "geometry": {"coordinates":[-97.66905800000001,30.447631],"type":"Point"}
 }

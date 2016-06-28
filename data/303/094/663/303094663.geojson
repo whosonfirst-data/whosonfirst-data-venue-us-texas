@@ -2,13 +2,14 @@
   "id": 303094663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.811647,30.528535,-97.811647,30.528535",
     "geom:latitude":30.528535,
     "geom:longitude":-97.811647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 C-Bar Ranch Trail Lot #2",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303094663,
-    "wof:lastmodified":1448999653,
+    "wof:lastmodified":1467083768,
     "wof:name":"SuperTarget",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.811647,30.528535,-97.811647,30.528535],
-  "geometry": {"coordinates":[-97.811647,30.528535],"type":"Point"}
+  "bbox": [
+    -97.811647,
+    30.528535,
+    -97.811647,
+    30.528535
+],
+  "geometry": {"coordinates":[-97.81164699999999,30.528535],"type":"Point"}
 }

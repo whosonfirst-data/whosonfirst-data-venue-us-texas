@@ -2,13 +2,14 @@
   "id": 303707177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730356,30.319652,-97.730356,30.319652",
     "geom:latitude":30.319652,
     "geom:longitude":-97.730356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 N Lamar Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303707177,
-    "wof:lastmodified":1449000177,
+    "wof:lastmodified":1467083794,
     "wof:name":"Pecan Grove Apartments",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.730356,30.319652,-97.730356,30.319652],
+  "bbox": [
+    -97.730356,
+    30.319652,
+    -97.730356,
+    30.319652
+],
   "geometry": {"coordinates":[-97.730356,30.319652],"type":"Point"}
 }

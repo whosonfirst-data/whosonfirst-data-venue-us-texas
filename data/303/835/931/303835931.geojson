@@ -2,13 +2,14 @@
   "id": 303835931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.755871,30.37265,-97.755871,30.37265",
     "geom:latitude":30.37265,
     "geom:longitude":-97.755871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8127 Mesa Dr Ste A104",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303835931,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1467083709,
     "wof:name":"Mesa Alterations",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alteration"
     ]
 },
-  "bbox": [-97.755871,30.37265,-97.755871,30.37265],
+  "bbox": [
+    -97.755871,
+    30.37265,
+    -97.755871,
+    30.37265
+],
   "geometry": {"coordinates":[-97.755871,30.37265],"type":"Point"}
 }

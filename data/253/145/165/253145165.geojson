@@ -2,13 +2,14 @@
   "id": 253145165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7397,32.914799,-96.7397,32.914799",
     "geom:latitude":32.914799,
     "geom:longitude":-96.7397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9229 Lyndon B Johnson Fwy Ste 150",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253145165,
-    "wof:lastmodified":1449063720,
+    "wof:lastmodified":1467084976,
     "wof:name":"Ctx Mortgage Co",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.7397,32.914799,-96.7397,32.914799],
+  "bbox": [
+    -96.7397,
+    32.914799,
+    -96.7397,
+    32.914799
+],
   "geometry": {"coordinates":[-96.7397,32.914799],"type":"Point"}
 }

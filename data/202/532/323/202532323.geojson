@@ -2,13 +2,14 @@
   "id": 202532323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507861,25.918457,-97.507861,25.918457",
     "geom:latitude":25.918457,
     "geom:longitude":-97.507861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Resaca Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202532323,
-    "wof:lastmodified":1449060967,
+    "wof:lastmodified":1467084906,
     "wof:name":"Incarnate Word Project",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.507861,25.918457,-97.507861,25.918457],
-  "geometry": {"coordinates":[-97.507861,25.918457],"type":"Point"}
+  "bbox": [
+    -97.507861,
+    25.918457,
+    -97.507861,
+    25.918457
+],
+  "geometry": {"coordinates":[-97.50786100000001,25.918457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303127811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.575111,30.735189,-97.575111,30.735189",
     "geom:latitude":30.735189,
     "geom:longitude":-97.575111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30111 Twin Creek Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303127811,
-    "wof:lastmodified":1449000369,
+    "wof:lastmodified":1467083803,
     "wof:name":"Heritage Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.575111,30.735189,-97.575111,30.735189],
-  "geometry": {"coordinates":[-97.575111,30.735189],"type":"Point"}
+  "bbox": [
+    -97.575111,
+    30.735189,
+    -97.575111,
+    30.735189
+],
+  "geometry": {"coordinates":[-97.57511100000001,30.735189],"type":"Point"}
 }

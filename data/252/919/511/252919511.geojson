@@ -2,13 +2,14 @@
   "id": 252919511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.432815,31.770103,-106.432815,31.770103",
     "geom:latitude":31.770103,
     "geom:longitude":-106.432815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Alameda Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":252919511,
-    "wof:lastmodified":1449006242,
+    "wof:lastmodified":1467084094,
     "wof:name":"Thomas Jefferson High School",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.432815,31.770103,-106.432815,31.770103],
-  "geometry": {"coordinates":[-106.432815,31.770103],"type":"Point"}
+  "bbox": [
+    -106.432815,
+    31.770103,
+    -106.432815,
+    31.770103
+],
+  "geometry": {"coordinates":[-106.43281500000001,31.770103],"type":"Point"}
 }

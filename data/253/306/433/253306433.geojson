@@ -2,13 +2,14 @@
   "id": 253306433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80191,32.780861,-96.80191,32.780861",
     "geom:latitude":32.780861,
     "geom:longitude":-96.80191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Elm St Ste 5400",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253306433,
-    "wof:lastmodified":1449065661,
+    "wof:lastmodified":1467085042,
     "wof:name":"Bruce W Bowman Jr",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "law"
     ]
 },
-  "bbox": [-96.80191,32.780861,-96.80191,32.780861],
-  "geometry": {"coordinates":[-96.80191,32.780861],"type":"Point"}
+  "bbox": [
+    -96.80191,
+    32.780861,
+    -96.80191,
+    32.780861
+],
+  "geometry": {"coordinates":[-96.80191000000001,32.780861],"type":"Point"}
 }

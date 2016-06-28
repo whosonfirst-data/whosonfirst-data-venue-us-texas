@@ -2,13 +2,14 @@
   "id": 370483275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.186495,31.530603,-97.186495,31.530603",
     "geom:latitude":31.530603,
     "geom:longitude":-97.186495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Lake Air Dr",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370483275,
-    "wof:lastmodified":1449031759,
+    "wof:lastmodified":1467084536,
     "wof:name":"Smokehouse Hamburgers",
     "wof:parent_id":85881763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.186495,31.530603,-97.186495,31.530603],
-  "geometry": {"coordinates":[-97.186495,31.530603],"type":"Point"}
+  "bbox": [
+    -97.186495,
+    31.530603,
+    -97.186495,
+    31.530603
+],
+  "geometry": {"coordinates":[-97.18649499999999,31.530603],"type":"Point"}
 }

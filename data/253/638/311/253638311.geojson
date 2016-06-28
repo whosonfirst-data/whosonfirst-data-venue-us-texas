@@ -2,13 +2,14 @@
   "id": 253638311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13765,32.683457,-97.13765,32.683457",
     "geom:latitude":32.683457,
     "geom:longitude":-97.13765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 Melear Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253638311,
-    "wof:lastmodified":1449062983,
+    "wof:lastmodified":1467084950,
     "wof:name":"USPS - United States Post Office - Melear Station",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.13765,32.683457,-97.13765,32.683457],
-  "geometry": {"coordinates":[-97.13765,32.683457],"type":"Point"}
+  "bbox": [
+    -97.13765,
+    32.683457,
+    -97.13765,
+    32.683457
+],
+  "geometry": {"coordinates":[-97.13764999999999,32.683457],"type":"Point"}
 }

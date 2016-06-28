@@ -2,13 +2,14 @@
   "id": 387100709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.572618,29.661926,-95.572618,29.661926",
     "geom:latitude":29.661926,
     "geom:longitude":-95.572618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10865 Seaboard Loop W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387100709,
-    "wof:lastmodified":1449058925,
+    "wof:lastmodified":1467084857,
     "wof:name":"Environment LTD",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-95.572618,29.661926,-95.572618,29.661926],
-  "geometry": {"coordinates":[-95.572618,29.661926],"type":"Point"}
+  "bbox": [
+    -95.572618,
+    29.661926,
+    -95.572618,
+    29.661926
+],
+  "geometry": {"coordinates":[-95.57261800000001,29.661926],"type":"Point"}
 }

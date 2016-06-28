@@ -2,13 +2,14 @@
   "id": 370730541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.287326,32.773421,-97.287326,32.773421",
     "geom:latitude":32.773421,
     "geom:longitude":-97.287326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 N Beach St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370730541,
-    "wof:lastmodified":1449031921,
+    "wof:lastmodified":1467084540,
     "wof:name":"Ink Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.287326,32.773421,-97.287326,32.773421],
-  "geometry": {"coordinates":[-97.287326,32.773421],"type":"Point"}
+  "bbox": [
+    -97.287326,
+    32.773421,
+    -97.287326,
+    32.773421
+],
+  "geometry": {"coordinates":[-97.28732599999999,32.773421],"type":"Point"}
 }

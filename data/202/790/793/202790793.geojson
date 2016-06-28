@@ -2,13 +2,14 @@
   "id": 202790793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255867,32.796702,-97.255867,32.796702",
     "geom:latitude":32.796702,
     "geom:longitude":-97.255867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 Carson St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202790793,
-    "wof:lastmodified":1449062069,
+    "wof:lastmodified":1467084929,
     "wof:name":"Carson Food Market",
     "wof:parent_id":85871659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-97.255867,32.796702,-97.255867,32.796702],
-  "geometry": {"coordinates":[-97.255867,32.796702],"type":"Point"}
+  "bbox": [
+    -97.255867,
+    32.796702,
+    -97.255867,
+    32.796702
+],
+  "geometry": {"coordinates":[-97.25586699999999,32.796702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303279169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725125,30.263579,-97.725125,30.263579",
     "geom:latitude":30.263579,
     "geom:longitude":-97.725125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 E 7th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303279169,
-    "wof:lastmodified":1448999242,
+    "wof:lastmodified":1467083748,
     "wof:name":"Casa Colombia",
     "wof:parent_id":85893523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "latin"
     ]
 },
-  "bbox": [-97.725125,30.263579,-97.725125,30.263579],
-  "geometry": {"coordinates":[-97.725125,30.263579],"type":"Point"}
+  "bbox": [
+    -97.725125,
+    30.263579,
+    -97.725125,
+    30.263579
+],
+  "geometry": {"coordinates":[-97.72512500000001,30.263579],"type":"Point"}
 }

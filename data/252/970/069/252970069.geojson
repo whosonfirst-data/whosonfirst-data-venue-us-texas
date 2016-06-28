@@ -2,13 +2,14 @@
   "id": 252970069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785986,32.922759,-96.785986,32.922759",
     "geom:latitude":32.922759,
     "geom:longitude":-96.785986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12800 Hillcrest Rd Ste 211",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252970069,
-    "wof:lastmodified":1449006485,
+    "wof:lastmodified":1467084107,
     "wof:name":"DFW International Community Alliance",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-96.785986,32.922759,-96.785986,32.922759],
-  "geometry": {"coordinates":[-96.785986,32.922759],"type":"Point"}
+  "bbox": [
+    -96.785986,
+    32.922759,
+    -96.785986,
+    32.922759
+],
+  "geometry": {"coordinates":[-96.78598599999999,32.922759],"type":"Point"}
 }

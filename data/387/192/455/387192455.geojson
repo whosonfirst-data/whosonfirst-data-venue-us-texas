@@ -2,13 +2,14 @@
   "id": 387192455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.889615,29.365389,-100.889615,29.365389",
     "geom:latitude":29.365389,
     "geom:longitude":-100.889615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Spring St",
     "sg:city":"Del Rio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387192455,
-    "wof:lastmodified":1449058802,
+    "wof:lastmodified":1467084853,
     "wof:name":"Roosevelt Baseball Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-100.889615,29.365389,-100.889615,29.365389],
-  "geometry": {"coordinates":[-100.889615,29.365389],"type":"Point"}
+  "bbox": [
+    -100.889615,
+    29.365389,
+    -100.889615,
+    29.365389
+],
+  "geometry": {"coordinates":[-100.88961500000001,29.365389],"type":"Point"}
 }

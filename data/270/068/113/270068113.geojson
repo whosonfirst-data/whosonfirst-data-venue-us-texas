@@ -2,13 +2,14 @@
   "id": 270068113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.522911,29.783787,-95.522911,29.783787",
     "geom:latitude":29.783787,
     "geom:longitude":-95.522911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9329 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270068113,
-    "wof:lastmodified":1449009897,
+    "wof:lastmodified":1467084191,
     "wof:name":"Walgreens",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-95.522911,29.783787,-95.522911,29.783787],
-  "geometry": {"coordinates":[-95.522911,29.783787],"type":"Point"}
+  "bbox": [
+    -95.522911,
+    29.783787,
+    -95.522911,
+    29.783787
+],
+  "geometry": {"coordinates":[-95.52291099999999,29.783787],"type":"Point"}
 }

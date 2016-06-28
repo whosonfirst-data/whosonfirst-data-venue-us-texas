@@ -2,13 +2,14 @@
   "id": 303831775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.732599,30.395732,-97.732599,30.395732",
     "geom:latitude":30.395732,
     "geom:longitude":-97.732599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 N Mopac Ste 115",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303831775,
-    "wof:lastmodified":1448999558,
+    "wof:lastmodified":1467083763,
     "wof:name":"Image Dent",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oral"
     ]
 },
-  "bbox": [-97.732599,30.395732,-97.732599,30.395732],
-  "geometry": {"coordinates":[-97.732599,30.395732],"type":"Point"}
+  "bbox": [
+    -97.732599,
+    30.395732,
+    -97.732599,
+    30.395732
+],
+  "geometry": {"coordinates":[-97.73259899999999,30.395732],"type":"Point"}
 }

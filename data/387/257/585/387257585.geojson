@@ -2,13 +2,14 @@
   "id": 387257585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.76122,34.523552,-101.76122,34.523552",
     "geom:latitude":34.523552,
     "geom:longitude":-101.76122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Apache Trl",
     "sg:city":"Tulia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387257585,
-    "wof:lastmodified":1449057221,
+    "wof:lastmodified":1467084812,
     "wof:name":"Raymond & Raymond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.76122,34.523552,-101.76122,34.523552],
-  "geometry": {"coordinates":[-101.76122,34.523552],"type":"Point"}
+  "bbox": [
+    -101.76122,
+    34.523552,
+    -101.76122,
+    34.523552
+],
+  "geometry": {"coordinates":[-101.76121999999999,34.523552],"type":"Point"}
 }

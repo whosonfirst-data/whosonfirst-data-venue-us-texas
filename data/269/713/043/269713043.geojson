@@ -2,13 +2,14 @@
   "id": 269713043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.584199,31.783307,-97.584199,31.783307",
     "geom:latitude":31.783307,
     "geom:longitude":-97.584199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Pecan St",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269713043,
-    "wof:lastmodified":1449038763,
+    "wof:lastmodified":1467084632,
     "wof:name":"Area Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-97.584199,31.783307,-97.584199,31.783307],
+  "bbox": [
+    -97.584199,
+    31.783307,
+    -97.584199,
+    31.783307
+],
   "geometry": {"coordinates":[-97.584199,31.783307],"type":"Point"}
 }

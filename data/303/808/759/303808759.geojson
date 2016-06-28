@@ -2,13 +2,14 @@
   "id": 303808759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.756577,30.371826,-97.756577,30.371826",
     "geom:latitude":30.371826,
     "geom:longitude":-97.756577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8105 Mesa Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303808759,
-    "wof:lastmodified":1448998235,
+    "wof:lastmodified":1467083697,
     "wof:name":"Anabelle's Casual Dining Room",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-97.756577,30.371826,-97.756577,30.371826],
-  "geometry": {"coordinates":[-97.756577,30.371826],"type":"Point"}
+  "bbox": [
+    -97.756577,
+    30.371826,
+    -97.756577,
+    30.371826
+],
+  "geometry": {"coordinates":[-97.75657699999999,30.371826],"type":"Point"}
 }

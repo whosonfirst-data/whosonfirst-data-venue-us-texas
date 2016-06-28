@@ -2,13 +2,14 @@
   "id": 387761459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.442985,29.579163,-98.442985,29.579163",
     "geom:latitude":29.579163,
     "geom:longitude":-98.442985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2862 Thousand Oaks Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387761459,
-    "wof:lastmodified":1449059004,
+    "wof:lastmodified":1467084859,
     "wof:name":"Party Mart",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.442985,29.579163,-98.442985,29.579163],
-  "geometry": {"coordinates":[-98.442985,29.579163],"type":"Point"}
+  "bbox": [
+    -98.442985,
+    29.579163,
+    -98.442985,
+    29.579163
+],
+  "geometry": {"coordinates":[-98.44298499999999,29.579163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253021857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.877376,32.911112,-96.877376,32.911112",
     "geom:latitude":32.911112,
     "geom:longitude":-96.877376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 LBJ Frwy Ste 1228",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253021857,
-    "wof:lastmodified":1449064683,
+    "wof:lastmodified":1467085009,
     "wof:name":"D. Jones Tailored Collection",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-96.877376,32.911112,-96.877376,32.911112],
+  "bbox": [
+    -96.877376,
+    32.911112,
+    -96.877376,
+    32.911112
+],
   "geometry": {"coordinates":[-96.877376,32.911112],"type":"Point"}
 }

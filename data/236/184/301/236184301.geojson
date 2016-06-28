@@ -2,13 +2,14 @@
   "id": 236184301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80387,33.150667,-96.80387,33.150667",
     "geom:latitude":33.150667,
     "geom:longitude":-96.80387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8992 Preston Rd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236184301,
-    "wof:lastmodified":1449002092,
+    "wof:lastmodified":1467083885,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-96.80387,33.150667,-96.80387,33.150667],
+  "bbox": [
+    -96.80387,
+    33.150667,
+    -96.80387,
+    33.150667
+],
   "geometry": {"coordinates":[-96.80387,33.150667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253360207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.514305,33.672954,-95.514305,33.672954",
     "geom:latitude":33.672954,
     "geom:longitude":-95.514305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Park Pl",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":253360207,
-    "wof:lastmodified":1449065082,
+    "wof:lastmodified":1467085023,
     "wof:name":"Paris Body Works",
     "wof:parent_id":85821611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.514305,33.672954,-95.514305,33.672954],
-  "geometry": {"coordinates":[-95.514305,33.672954],"type":"Point"}
+  "bbox": [
+    -95.514305,
+    33.672954,
+    -95.514305,
+    33.672954
+],
+  "geometry": {"coordinates":[-95.51430499999999,33.672954],"type":"Point"}
 }

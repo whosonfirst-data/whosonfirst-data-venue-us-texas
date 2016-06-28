@@ -2,13 +2,14 @@
   "id": 403990345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.916455,33.533181,-101.916455,33.533181",
     "geom:latitude":33.533181,
     "geom:longitude":-101.916455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 S Loop 289",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403990345,
-    "wof:lastmodified":1449055510,
+    "wof:lastmodified":1467084770,
     "wof:name":"US Post Office",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.916455,33.533181,-101.916455,33.533181],
+  "bbox": [
+    -101.916455,
+    33.533181,
+    -101.916455,
+    33.533181
+],
   "geometry": {"coordinates":[-101.916455,33.533181],"type":"Point"}
 }

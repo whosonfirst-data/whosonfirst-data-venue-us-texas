@@ -2,13 +2,14 @@
   "id": 185999109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.831403,30.021953,-93.831403,30.021953",
     "geom:latitude":30.021953,
     "geom:longitude":-93.831403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Blueberry St",
     "sg:city":"Bridge City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185999109,
-    "wof:lastmodified":1449008023,
+    "wof:lastmodified":1467084136,
     "wof:name":"The Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-93.831403,30.021953,-93.831403,30.021953],
-  "geometry": {"coordinates":[-93.831403,30.021953],"type":"Point"}
+  "bbox": [
+    -93.831403,
+    30.021953,
+    -93.831403,
+    30.021953
+],
+  "geometry": {"coordinates":[-93.83140299999999,30.021953],"type":"Point"}
 }

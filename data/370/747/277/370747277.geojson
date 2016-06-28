@@ -2,13 +2,14 @@
   "id": 370747277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.365428,29.809438,-95.365428,29.809438",
     "geom:latitude":29.809438,
     "geom:longitude":-95.365428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Milwaukee St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370747277,
-    "wof:lastmodified":1449029709,
+    "wof:lastmodified":1467084484,
     "wof:name":"Cazares Construction",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.365428,29.809438,-95.365428,29.809438],
-  "geometry": {"coordinates":[-95.365428,29.809438],"type":"Point"}
+  "bbox": [
+    -95.365428,
+    29.809438,
+    -95.365428,
+    29.809438
+],
+  "geometry": {"coordinates":[-95.36542799999999,29.809438],"type":"Point"}
 }

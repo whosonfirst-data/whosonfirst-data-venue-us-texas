@@ -2,13 +2,14 @@
   "id": 186381559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.189883,32.852652,-97.189883,32.852652",
     "geom:latitude":32.852652,
     "geom:longitude":-97.189883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9147 Grapevine Hwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186381559,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1467084697,
     "wof:name":"Spuds",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.189883,32.852652,-97.189883,32.852652],
-  "geometry": {"coordinates":[-97.189883,32.852652],"type":"Point"}
+  "bbox": [
+    -97.189883,
+    32.852652,
+    -97.189883,
+    32.852652
+],
+  "geometry": {"coordinates":[-97.18988299999999,32.852652],"type":"Point"}
 }

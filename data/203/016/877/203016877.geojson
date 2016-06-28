@@ -2,13 +2,14 @@
   "id": 203016877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.166558,29.690974,-95.166558,29.690974",
     "geom:latitude":29.690974,
     "geom:longitude":-95.166558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 Red Bluff Rd",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203016877,
-    "wof:lastmodified":1449025275,
+    "wof:lastmodified":1467084391,
     "wof:name":"Saybolt LP",
     "wof:parent_id":85879753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.166558,29.690974,-95.166558,29.690974],
-  "geometry": {"coordinates":[-95.166558,29.690974],"type":"Point"}
+  "bbox": [
+    -95.166558,
+    29.690974,
+    -95.166558,
+    29.690974
+],
+  "geometry": {"coordinates":[-95.16655799999999,29.690974],"type":"Point"}
 }

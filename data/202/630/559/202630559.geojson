@@ -2,13 +2,14 @@
   "id": 202630559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.346051,32.71175,-97.346051,32.71175",
     "geom:latitude":32.71175,
     "geom:longitude":-97.346051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Stanley Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202630559,
-    "wof:lastmodified":1449061014,
+    "wof:lastmodified":1467084907,
     "wof:name":"Scott Lawn Maintenance",
     "wof:parent_id":85871645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-97.346051,32.71175,-97.346051,32.71175],
+  "bbox": [
+    -97.346051,
+    32.71175,
+    -97.346051,
+    32.71175
+],
   "geometry": {"coordinates":[-97.346051,32.71175],"type":"Point"}
 }

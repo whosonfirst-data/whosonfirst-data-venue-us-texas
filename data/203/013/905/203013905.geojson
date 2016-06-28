@@ -2,13 +2,14 @@
   "id": 203013905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.280904,29.74857,-95.280904,29.74857",
     "geom:latitude":29.74857,
     "geom:longitude":-95.280904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Clinton Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203013905,
-    "wof:lastmodified":1449026259,
+    "wof:lastmodified":1467084409,
     "wof:name":"Hansen Mueller Port Elevator",
     "wof:parent_id":85869593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-95.280904,29.74857,-95.280904,29.74857],
-  "geometry": {"coordinates":[-95.280904,29.74857],"type":"Point"}
+  "bbox": [
+    -95.280904,
+    29.74857,
+    -95.280904,
+    29.74857
+],
+  "geometry": {"coordinates":[-95.28090400000001,29.74857],"type":"Point"}
 }

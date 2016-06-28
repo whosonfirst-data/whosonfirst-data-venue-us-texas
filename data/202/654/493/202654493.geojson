@@ -2,13 +2,14 @@
   "id": 202654493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.104126,29.545354,-95.104126,29.545354",
     "geom:latitude":29.545354,
     "geom:longitude":-95.104126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18617 Egret Bay Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202654493,
-    "wof:lastmodified":1449060962,
+    "wof:lastmodified":1467084906,
     "wof:name":"Porcelain Heirlooms By Kathy",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.104126,29.545354,-95.104126,29.545354],
-  "geometry": {"coordinates":[-95.104126,29.545354],"type":"Point"}
+  "bbox": [
+    -95.104126,
+    29.545354,
+    -95.104126,
+    29.545354
+],
+  "geometry": {"coordinates":[-95.10412599999999,29.545354],"type":"Point"}
 }

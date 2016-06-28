@@ -2,13 +2,14 @@
   "id": 337526665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.888006,32.661986,-96.888006,32.661986",
     "geom:latitude":32.661986,
     "geom:longitude":-96.888006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4099 W Camp Wisdom Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337526665,
-    "wof:lastmodified":1449027189,
+    "wof:lastmodified":1467084434,
     "wof:name":"Health Center",
     "wof:parent_id":85858735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.888006,32.661986,-96.888006,32.661986],
+  "bbox": [
+    -96.888006,
+    32.661986,
+    -96.888006,
+    32.661986
+],
   "geometry": {"coordinates":[-96.888006,32.661986],"type":"Point"}
 }

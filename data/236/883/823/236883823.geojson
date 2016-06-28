@@ -2,13 +2,14 @@
   "id": 236883823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777087,32.80552,-96.777087,32.80552",
     "geom:latitude":32.80552,
     "geom:longitude":-96.777087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4721 Ross Avenue",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236883823,
-    "wof:lastmodified":1449004311,
+    "wof:lastmodified":1467083994,
     "wof:name":"Cornerstone Storage",
     "wof:parent_id":85870357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-96.777087,32.80552,-96.777087,32.80552],
-  "geometry": {"coordinates":[-96.777087,32.80552],"type":"Point"}
+  "bbox": [
+    -96.777087,
+    32.80552,
+    -96.777087,
+    32.80552
+],
+  "geometry": {"coordinates":[-96.77708699999999,32.80552],"type":"Point"}
 }

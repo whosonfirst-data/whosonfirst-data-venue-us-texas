@@ -2,13 +2,14 @@
   "id": 303316005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772919,30.247606,-97.772919,30.247606",
     "geom:latitude":30.247606,
     "geom:longitude":-97.772919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303316005,
-    "wof:lastmodified":1448999774,
+    "wof:lastmodified":1467083774,
     "wof:name":"Knockout",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-97.772919,30.247606,-97.772919,30.247606],
+  "bbox": [
+    -97.772919,
+    30.247606,
+    -97.772919,
+    30.247606
+],
   "geometry": {"coordinates":[-97.772919,30.247606],"type":"Point"}
 }

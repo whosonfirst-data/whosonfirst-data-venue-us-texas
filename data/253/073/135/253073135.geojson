@@ -2,13 +2,14 @@
   "id": 253073135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.871348,32.647306,-96.871348,32.647306",
     "geom:latitude":32.647306,
     "geom:longitude":-96.871348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 W Wheatland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253073135,
-    "wof:lastmodified":1449063228,
+    "wof:lastmodified":1467084959,
     "wof:name":"Murphy Oil Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.871348,32.647306,-96.871348,32.647306],
+  "bbox": [
+    -96.871348,
+    32.647306,
+    -96.871348,
+    32.647306
+],
   "geometry": {"coordinates":[-96.871348,32.647306],"type":"Point"}
 }

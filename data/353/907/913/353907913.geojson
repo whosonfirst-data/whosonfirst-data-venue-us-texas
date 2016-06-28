@@ -2,13 +2,14 @@
   "id": 353907913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.475203,31.774386,-106.475203,31.774386",
     "geom:latitude":31.774386,
     "geom:longitude":-106.475203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353907913,
-    "wof:lastmodified":1449020609,
+    "wof:lastmodified":1467084372,
     "wof:name":"Texas Medical",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-106.475203,31.774386,-106.475203,31.774386],
-  "geometry": {"coordinates":[-106.475203,31.774386],"type":"Point"}
+  "bbox": [
+    -106.475203,
+    31.774386,
+    -106.475203,
+    31.774386
+],
+  "geometry": {"coordinates":[-106.47520299999999,31.774386],"type":"Point"}
 }

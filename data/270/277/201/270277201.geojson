@@ -2,13 +2,14 @@
   "id": 270277201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.53727,29.885757,-95.53727,29.885757",
     "geom:latitude":29.885757,
     "geom:longitude":-95.53727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7702 Windfern Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270277201,
-    "wof:lastmodified":1449008926,
+    "wof:lastmodified":1467084159,
     "wof:name":"Stripes",
     "wof:parent_id":85893783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.53727,29.885757,-95.53727,29.885757],
-  "geometry": {"coordinates":[-95.53727,29.885757],"type":"Point"}
+  "bbox": [
+    -95.53727,
+    29.885757,
+    -95.53727,
+    29.885757
+],
+  "geometry": {"coordinates":[-95.53727000000001,29.885757],"type":"Point"}
 }

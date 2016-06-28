@@ -2,13 +2,14 @@
   "id": 303644123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.826209,30.173799,-97.826209,30.173799",
     "geom:latitude":30.173799,
     "geom:longitude":-97.826209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Slaughter Lane W Suite 135",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303644123,
-    "wof:lastmodified":1448999521,
+    "wof:lastmodified":1467083761,
     "wof:name":"Edward Jones",
     "wof:parent_id":85869991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-97.826209,30.173799,-97.826209,30.173799],
-  "geometry": {"coordinates":[-97.826209,30.173799],"type":"Point"}
+  "bbox": [
+    -97.826209,
+    30.173799,
+    -97.826209,
+    30.173799
+],
+  "geometry": {"coordinates":[-97.82620900000001,30.173799],"type":"Point"}
 }

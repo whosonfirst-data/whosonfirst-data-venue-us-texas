@@ -2,13 +2,14 @@
   "id": 185887191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48681,30.335376,-95.48681,30.335376",
     "geom:latitude":30.335376,
     "geom:longitude":-95.48681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Montgomery Park Blvd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185887191,
-    "wof:lastmodified":1449007903,
+    "wof:lastmodified":1467084134,
     "wof:name":"Allegheny Southwest",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-95.48681,30.335376,-95.48681,30.335376],
-  "geometry": {"coordinates":[-95.48681,30.335376],"type":"Point"}
+  "bbox": [
+    -95.48681,
+    30.335376,
+    -95.48681,
+    30.335376
+],
+  "geometry": {"coordinates":[-95.48681000000001,30.335376],"type":"Point"}
 }

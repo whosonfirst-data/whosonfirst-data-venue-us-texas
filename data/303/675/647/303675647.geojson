@@ -2,13 +2,14 @@
   "id": 303675647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.791012,30.448903,-97.791012,30.448903",
     "geom:latitude":30.448903,
     "geom:longitude":-97.791012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13492 N Highway 183 Ste 120",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303675647,
-    "wof:lastmodified":1448999360,
+    "wof:lastmodified":1467083753,
     "wof:name":"De-Ro Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.791012,30.448903,-97.791012,30.448903],
-  "geometry": {"coordinates":[-97.791012,30.448903],"type":"Point"}
+  "bbox": [
+    -97.791012,
+    30.448903,
+    -97.791012,
+    30.448903
+],
+  "geometry": {"coordinates":[-97.79101199999999,30.448903],"type":"Point"}
 }

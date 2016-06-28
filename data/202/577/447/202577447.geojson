@@ -2,13 +2,14 @@
   "id": 202577447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.497353,33.185825,-96.497353,33.185825",
     "geom:latitude":33.185825,
     "geom:longitude":-96.497353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 N 4th St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202577447,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1467084943,
     "wof:name":"D&S Vending",
     "wof:parent_id":85834389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-96.497353,33.185825,-96.497353,33.185825],
+  "bbox": [
+    -96.497353,
+    33.185825,
+    -96.497353,
+    33.185825
+],
   "geometry": {"coordinates":[-96.497353,33.185825],"type":"Point"}
 }

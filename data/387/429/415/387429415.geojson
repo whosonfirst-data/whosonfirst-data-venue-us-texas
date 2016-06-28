@@ -2,13 +2,14 @@
   "id": 387429415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.291719,29.833983,-95.291719,29.833983",
     "geom:latitude":29.833983,
     "geom:longitude":-95.291719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7809 Winship St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387429415,
-    "wof:lastmodified":1449059715,
+    "wof:lastmodified":1467084877,
     "wof:name":"A Fresh Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.291719,29.833983,-95.291719,29.833983],
+  "bbox": [
+    -95.291719,
+    29.833983,
+    -95.291719,
+    29.833983
+],
   "geometry": {"coordinates":[-95.291719,29.833983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270141789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.283765,29.765748,-95.283765,29.765748",
     "geom:latitude":29.765748,
     "geom:longitude":-95.283765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Mccarty St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270141789,
-    "wof:lastmodified":1449009497,
+    "wof:lastmodified":1467084178,
     "wof:name":"Houston Foundry And Machine",
     "wof:parent_id":85869591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-95.283765,29.765748,-95.283765,29.765748],
+  "bbox": [
+    -95.283765,
+    29.765748,
+    -95.283765,
+    29.765748
+],
   "geometry": {"coordinates":[-95.283765,29.765748],"type":"Point"}
 }

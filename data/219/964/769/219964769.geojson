@@ -2,13 +2,14 @@
   "id": 219964769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.387713,29.499447,-98.387713,29.499447",
     "geom:latitude":29.499447,
     "geom:longitude":-98.387713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7206 Castle Rock Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219964769,
-    "wof:lastmodified":1449073060,
+    "wof:lastmodified":1467085156,
     "wof:name":"San Antonio Pro Video",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-98.387713,29.499447,-98.387713,29.499447],
-  "geometry": {"coordinates":[-98.387713,29.499447],"type":"Point"}
+  "bbox": [
+    -98.387713,
+    29.499447,
+    -98.387713,
+    29.499447
+],
+  "geometry": {"coordinates":[-98.38771300000001,29.499447],"type":"Point"}
 }

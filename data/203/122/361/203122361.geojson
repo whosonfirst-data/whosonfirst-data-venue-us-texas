@@ -2,13 +2,14 @@
   "id": 203122361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.366633,32.751297,-97.366633,32.751297",
     "geom:latitude":32.751297,
     "geom:longitude":-97.366633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3432 W 7th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203122361,
-    "wof:lastmodified":1449026029,
+    "wof:lastmodified":1467084405,
     "wof:name":"Gholson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.366633,32.751297,-97.366633,32.751297],
-  "geometry": {"coordinates":[-97.366633,32.751297],"type":"Point"}
+  "bbox": [
+    -97.366633,
+    32.751297,
+    -97.366633,
+    32.751297
+],
+  "geometry": {"coordinates":[-97.36663299999999,32.751297],"type":"Point"}
 }

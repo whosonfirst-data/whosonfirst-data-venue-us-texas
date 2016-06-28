@@ -2,13 +2,14 @@
   "id": 253005303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.393741,29.738754,-95.393741,29.738754",
     "geom:latitude":29.738754,
     "geom:longitude":-95.393741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Alabama St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253005303,
-    "wof:lastmodified":1449065549,
+    "wof:lastmodified":1467085039,
     "wof:name":"Stop N Go 3677",
     "wof:parent_id":85893767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.393741,29.738754,-95.393741,29.738754],
-  "geometry": {"coordinates":[-95.393741,29.738754],"type":"Point"}
+  "bbox": [
+    -95.393741,
+    29.738754,
+    -95.393741,
+    29.738754
+],
+  "geometry": {"coordinates":[-95.39374100000001,29.738754],"type":"Point"}
 }

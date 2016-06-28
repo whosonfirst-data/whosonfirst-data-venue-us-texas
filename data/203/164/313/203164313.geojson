@@ -2,13 +2,14 @@
   "id": 203164313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111173,32.939369,-97.111173,32.939369",
     "geom:latitude":32.939369,
     "geom:longitude":-97.111173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 E Southlake Blvd",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203164313,
-    "wof:lastmodified":1449025165,
+    "wof:lastmodified":1467084389,
     "wof:name":"Vitamin Store",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "diet"
     ]
 },
-  "bbox": [-97.111173,32.939369,-97.111173,32.939369],
-  "geometry": {"coordinates":[-97.111173,32.939369],"type":"Point"}
+  "bbox": [
+    -97.111173,
+    32.939369,
+    -97.111173,
+    32.939369
+],
+  "geometry": {"coordinates":[-97.11117299999999,32.939369],"type":"Point"}
 }

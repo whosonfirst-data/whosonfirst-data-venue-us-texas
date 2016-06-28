@@ -2,13 +2,14 @@
   "id": 270277189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.528822,29.85097,-95.528822,29.85097",
     "geom:latitude":29.85097,
     "geom:longitude":-95.528822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14002 Hempstead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270277189,
-    "wof:lastmodified":1449008924,
+    "wof:lastmodified":1467084159,
     "wof:name":"The Sports Locker",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.528822,29.85097,-95.528822,29.85097],
-  "geometry": {"coordinates":[-95.528822,29.85097],"type":"Point"}
+  "bbox": [
+    -95.528822,
+    29.85097,
+    -95.528822,
+    29.85097
+],
+  "geometry": {"coordinates":[-95.52882200000001,29.85097],"type":"Point"}
 }

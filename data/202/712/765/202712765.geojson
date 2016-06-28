@@ -2,13 +2,14 @@
   "id": 202712765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.404235,31.897803,-106.404235,31.897803",
     "geom:latitude":31.897803,
     "geom:longitude":-106.404235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9960 Genie Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202712765,
-    "wof:lastmodified":1449061204,
+    "wof:lastmodified":1467084911,
     "wof:name":"Joe T Blackwell Msgt",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.404235,31.897803,-106.404235,31.897803],
+  "bbox": [
+    -106.404235,
+    31.897803,
+    -106.404235,
+    31.897803
+],
   "geometry": {"coordinates":[-106.404235,31.897803],"type":"Point"}
 }

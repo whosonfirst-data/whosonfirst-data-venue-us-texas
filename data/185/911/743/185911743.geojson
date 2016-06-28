@@ -2,13 +2,14 @@
   "id": 185911743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.005601,32.671313,-97.005601,32.671313",
     "geom:latitude":32.671313,
     "geom:longitude":-97.005601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4155 S Carrier Pkwy",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185911743,
-    "wof:lastmodified":1449007972,
+    "wof:lastmodified":1467084135,
     "wof:name":"Cash Technologies",
     "wof:parent_id":85819647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.005601,32.671313,-97.005601,32.671313],
+  "bbox": [
+    -97.005601,
+    32.671313,
+    -97.005601,
+    32.671313
+],
   "geometry": {"coordinates":[-97.005601,32.671313],"type":"Point"}
 }

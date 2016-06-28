@@ -2,13 +2,14 @@
   "id": 270323797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355499,29.616199,-95.355499,29.616199",
     "geom:latitude":29.616199,
     "geom:longitude":-95.355499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13310 Cullen Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270323797,
-    "wof:lastmodified":1449008863,
+    "wof:lastmodified":1467084157,
     "wof:name":"Andrew Liquor",
     "wof:parent_id":85869661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.355499,29.616199,-95.355499,29.616199],
-  "geometry": {"coordinates":[-95.355499,29.616199],"type":"Point"}
+  "bbox": [
+    -95.355499,
+    29.616199,
+    -95.355499,
+    29.616199
+],
+  "geometry": {"coordinates":[-95.35549899999999,29.616199],"type":"Point"}
 }

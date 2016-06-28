@@ -2,13 +2,14 @@
   "id": 202806709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487415,29.417432,-98.487415,29.417432",
     "geom:latitude":29.417432,
     "geom:longitude":-98.487415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Lavaca St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":202806709,
-    "wof:lastmodified":1449060100,
+    "wof:lastmodified":1467084887,
     "wof:name":"San Antonio Independent School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.487415,29.417432,-98.487415,29.417432],
+  "bbox": [
+    -98.487415,
+    29.417432,
+    -98.487415,
+    29.417432
+],
   "geometry": {"coordinates":[-98.487415,29.417432],"type":"Point"}
 }

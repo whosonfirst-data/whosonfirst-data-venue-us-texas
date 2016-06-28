@@ -2,13 +2,14 @@
   "id": 270427501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.497998,29.723971,-95.497998,29.723971",
     "geom:latitude":29.723971,
     "geom:longitude":-95.497998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Westpark Dr Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270427501,
-    "wof:lastmodified":1449009353,
+    "wof:lastmodified":1467084173,
     "wof:name":"Residential Air Conditioning Services",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-95.497998,29.723971,-95.497998,29.723971],
+  "bbox": [
+    -95.497998,
+    29.723971,
+    -95.497998,
+    29.723971
+],
   "geometry": {"coordinates":[-95.497998,29.723971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185796497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.532795,33.006245,-96.532795,33.006245",
     "geom:latitude":33.006245,
     "geom:longitude":-96.532795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Briarwood Dr",
     "sg:city":"Wylie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185796497,
-    "wof:lastmodified":1449007378,
+    "wof:lastmodified":1467084125,
     "wof:name":"Ben Scholz L Farm & Ranch",
     "wof:parent_id":85877695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.532795,33.006245,-96.532795,33.006245],
-  "geometry": {"coordinates":[-96.532795,33.006245],"type":"Point"}
+  "bbox": [
+    -96.532795,
+    33.006245,
+    -96.532795,
+    33.006245
+],
+  "geometry": {"coordinates":[-96.53279499999999,33.006245],"type":"Point"}
 }

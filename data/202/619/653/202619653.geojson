@@ -2,13 +2,14 @@
   "id": 202619653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.466683,29.45672,-98.466683,29.45672",
     "geom:latitude":29.45672,
     "geom:longitude":-98.466683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Claremont Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202619653,
-    "wof:lastmodified":1449060559,
+    "wof:lastmodified":1467084897,
     "wof:name":"Claremont Apartments",
     "wof:parent_id":85871069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.466683,29.45672,-98.466683,29.45672],
+  "bbox": [
+    -98.466683,
+    29.45672,
+    -98.466683,
+    29.45672
+],
   "geometry": {"coordinates":[-98.466683,29.45672],"type":"Point"}
 }

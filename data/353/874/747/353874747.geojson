@@ -2,13 +2,14 @@
   "id": 353874747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.071094,27.750152,-98.071094,27.750152",
     "geom:latitude":27.750152,
     "geom:longitude":-98.071094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Main St",
     "sg:city":"Alice",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353874747,
-    "wof:lastmodified":1449020632,
+    "wof:lastmodified":1467084372,
     "wof:name":"Alice Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.071094,27.750152,-98.071094,27.750152],
+  "bbox": [
+    -98.071094,
+    27.750152,
+    -98.071094,
+    27.750152
+],
   "geometry": {"coordinates":[-98.071094,27.750152],"type":"Point"}
 }

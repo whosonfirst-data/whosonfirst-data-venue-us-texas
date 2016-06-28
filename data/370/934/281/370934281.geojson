@@ -2,13 +2,14 @@
   "id": 370934281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.317276,31.772769,-106.317276,31.772769",
     "geom:latitude":31.772769,
     "geom:longitude":-106.317276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Bob Stone Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370934281,
-    "wof:lastmodified":1449029246,
+    "wof:lastmodified":1467084472,
     "wof:name":"Rosales Painting",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.317276,31.772769,-106.317276,31.772769],
-  "geometry": {"coordinates":[-106.317276,31.772769],"type":"Point"}
+  "bbox": [
+    -106.317276,
+    31.772769,
+    -106.317276,
+    31.772769
+],
+  "geometry": {"coordinates":[-106.31727600000001,31.772769],"type":"Point"}
 }

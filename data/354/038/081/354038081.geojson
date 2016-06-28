@@ -2,13 +2,14 @@
   "id": 354038081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735643,30.099457,-93.735643,30.099457",
     "geom:latitude":30.099457,
     "geom:longitude":-93.735643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Park Ave",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354038081,
-    "wof:lastmodified":1449067060,
+    "wof:lastmodified":1467085079,
     "wof:name":"Jenkins",
     "wof:parent_id":85808197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-93.735643,30.099457,-93.735643,30.099457],
+  "bbox": [
+    -93.735643,
+    30.099457,
+    -93.735643,
+    30.099457
+],
   "geometry": {"coordinates":[-93.735643,30.099457],"type":"Point"}
 }

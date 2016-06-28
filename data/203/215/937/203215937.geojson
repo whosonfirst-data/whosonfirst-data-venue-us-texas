@@ -2,13 +2,14 @@
   "id": 203215937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.416104,29.701627,-95.416104,29.701627",
     "geom:latitude":29.701627,
     "geom:longitude":-95.416104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Glen Haven Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203215937,
-    "wof:lastmodified":1449026509,
+    "wof:lastmodified":1467084414,
     "wof:name":"Emissary Group",
     "wof:parent_id":85893751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-95.416104,29.701627,-95.416104,29.701627],
+  "bbox": [
+    -95.416104,
+    29.701627,
+    -95.416104,
+    29.701627
+],
   "geometry": {"coordinates":[-95.416104,29.701627],"type":"Point"}
 }

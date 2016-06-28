@@ -2,13 +2,14 @@
   "id": 220002085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.834665,35.218854,-101.834665,35.218854",
     "geom:latitude":35.218854,
     "geom:longitude":-101.834665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Polk St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220002085,
-    "wof:lastmodified":1449074705,
+    "wof:lastmodified":1467085192,
     "wof:name":"Crime Scene Remedation",
     "wof:parent_id":85875853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-101.834665,35.218854,-101.834665,35.218854],
+  "bbox": [
+    -101.834665,
+    35.218854,
+    -101.834665,
+    35.218854
+],
   "geometry": {"coordinates":[-101.834665,35.218854],"type":"Point"}
 }

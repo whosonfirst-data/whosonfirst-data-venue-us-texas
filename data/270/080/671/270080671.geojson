@@ -2,13 +2,14 @@
   "id": 270080671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.515099,29.766399,-95.515099,29.766399",
     "geom:latitude":29.766399,
     "geom:longitude":-95.515099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11310 Claymore Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270080671,
-    "wof:lastmodified":1449011067,
+    "wof:lastmodified":1467084230,
     "wof:name":"Kim Poong Y MD",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.515099,29.766399,-95.515099,29.766399],
-  "geometry": {"coordinates":[-95.515099,29.766399],"type":"Point"}
+  "bbox": [
+    -95.515099,
+    29.766399,
+    -95.515099,
+    29.766399
+],
+  "geometry": {"coordinates":[-95.51509900000001,29.766399],"type":"Point"}
 }

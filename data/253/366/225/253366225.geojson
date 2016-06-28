@@ -2,13 +2,14 @@
   "id": 253366225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.290337,32.957417,-95.290337,32.957417",
     "geom:latitude":32.957417,
     "geom:longitude":-95.290337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Main St",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":253366225,
-    "wof:lastmodified":1449064985,
+    "wof:lastmodified":1467085019,
     "wof:name":"Winnsboro Bakery And Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-95.290337,32.957417,-95.290337,32.957417],
-  "geometry": {"coordinates":[-95.290337,32.957417],"type":"Point"}
+  "bbox": [
+    -95.290337,
+    32.957417,
+    -95.290337,
+    32.957417
+],
+  "geometry": {"coordinates":[-95.29033699999999,32.957417],"type":"Point"}
 }

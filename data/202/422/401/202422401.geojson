@@ -2,13 +2,14 @@
   "id": 202422401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753344,30.373272,-97.753344,30.373272",
     "geom:latitude":30.373272,
     "geom:longitude":-97.753344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8008 Spicewood Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202422401,
-    "wof:lastmodified":1449060287,
+    "wof:lastmodified":1467084891,
     "wof:name":"Foothills Home Mortgage LP",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.753344,30.373272,-97.753344,30.373272],
+  "bbox": [
+    -97.753344,
+    30.373272,
+    -97.753344,
+    30.373272
+],
   "geometry": {"coordinates":[-97.753344,30.373272],"type":"Point"}
 }

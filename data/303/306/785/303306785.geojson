@@ -2,13 +2,14 @@
   "id": 303306785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7509,30.307501,-97.7509,30.307501",
     "geom:latitude":30.307501,
     "geom:longitude":-97.7509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 W 35th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303306785,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1467083807,
     "wof:name":"Brick Oven on 35th",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "pizza"
     ]
 },
-  "bbox": [-97.7509,30.307501,-97.7509,30.307501],
+  "bbox": [
+    -97.7509,
+    30.307501,
+    -97.7509,
+    30.307501
+],
   "geometry": {"coordinates":[-97.7509,30.307501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303221651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74332,30.266144,-97.74332,30.266144",
     "geom:latitude":30.266144,
     "geom:longitude":-97.74332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Congress Ave Ste 2800",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303221651,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1467083745,
     "wof:name":"UTIMCO",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-97.74332,30.266144,-97.74332,30.266144],
+  "bbox": [
+    -97.74332,
+    30.266144,
+    -97.74332,
+    30.266144
+],
   "geometry": {"coordinates":[-97.74332,30.266144],"type":"Point"}
 }

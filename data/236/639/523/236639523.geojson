@@ -2,13 +2,14 @@
   "id": 236639523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.470368,32.749097,-96.470368,32.749097",
     "geom:latitude":32.749097,
     "geom:longitude":-96.470368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Broad St",
     "sg:city":"Forney",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236639523,
-    "wof:lastmodified":1449005231,
+    "wof:lastmodified":1467084039,
     "wof:name":"USPS - United States Post Office - Forney Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.470368,32.749097,-96.470368,32.749097],
-  "geometry": {"coordinates":[-96.470368,32.749097],"type":"Point"}
+  "bbox": [
+    -96.470368,
+    32.749097,
+    -96.470368,
+    32.749097
+],
+  "geometry": {"coordinates":[-96.47036799999999,32.749097],"type":"Point"}
 }

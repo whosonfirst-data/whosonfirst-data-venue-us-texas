@@ -2,13 +2,14 @@
   "id": 371125365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.571481,29.71463,-95.571481,29.71463",
     "geom:latitude":29.71463,
     "geom:longitude":-95.571481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6102 Wilcrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371125365,
-    "wof:lastmodified":1449050097,
+    "wof:lastmodified":1467084690,
     "wof:name":"Harwin Cleaners",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-95.571481,29.71463,-95.571481,29.71463],
-  "geometry": {"coordinates":[-95.571481,29.71463],"type":"Point"}
+  "bbox": [
+    -95.571481,
+    29.71463,
+    -95.571481,
+    29.71463
+],
+  "geometry": {"coordinates":[-95.57148100000001,29.71463],"type":"Point"}
 }

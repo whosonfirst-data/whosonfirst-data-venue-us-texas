@@ -2,13 +2,14 @@
   "id": 186600425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.25329,29.656131,-95.25329,29.656131",
     "geom:latitude":29.656131,
     "geom:longitude":-95.25329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9261 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186600425,
-    "wof:lastmodified":1449050485,
+    "wof:lastmodified":1467084697,
     "wof:name":"Chapa's Bookkeeping",
     "wof:parent_id":85816393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-95.25329,29.656131,-95.25329,29.656131],
-  "geometry": {"coordinates":[-95.25329,29.656131],"type":"Point"}
+  "bbox": [
+    -95.25329,
+    29.656131,
+    -95.25329,
+    29.656131
+],
+  "geometry": {"coordinates":[-95.25329000000001,29.656131],"type":"Point"}
 }

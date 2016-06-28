@@ -2,13 +2,14 @@
   "id": 387119263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.410592,29.393891,-98.410592,29.393891",
     "geom:latitude":29.393891,
     "geom:longitude":-98.410592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4339 Boxwood Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387119263,
-    "wof:lastmodified":1449058828,
+    "wof:lastmodified":1467084854,
     "wof:name":"A-1 Master Electric Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.410592,29.393891,-98.410592,29.393891],
-  "geometry": {"coordinates":[-98.410592,29.393891],"type":"Point"}
+  "bbox": [
+    -98.410592,
+    29.393891,
+    -98.410592,
+    29.393891
+],
+  "geometry": {"coordinates":[-98.41059199999999,29.393891],"type":"Point"}
 }

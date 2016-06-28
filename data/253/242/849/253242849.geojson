@@ -2,13 +2,14 @@
   "id": 253242849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738723,31.086309,-97.738723,31.086309",
     "geom:latitude":31.086309,
     "geom:longitude":-97.738723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Tortoise Ln",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253242849,
-    "wof:lastmodified":1449065423,
+    "wof:lastmodified":1467085035,
     "wof:name":"World of Music",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.738723,31.086309,-97.738723,31.086309],
-  "geometry": {"coordinates":[-97.738723,31.086309],"type":"Point"}
+  "bbox": [
+    -97.738723,
+    31.086309,
+    -97.738723,
+    31.086309
+],
+  "geometry": {"coordinates":[-97.73872299999999,31.086309],"type":"Point"}
 }

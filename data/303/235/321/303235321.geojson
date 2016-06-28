@@ -2,13 +2,14 @@
   "id": 303235321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74376,30.269454,-97.74376,30.269454",
     "geom:latitude":30.269454,
     "geom:longitude":-97.74376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Colorado St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303235321,
-    "wof:lastmodified":1448998539,
+    "wof:lastmodified":1467083712,
     "wof:name":"Vault 55",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vault"
     ]
 },
-  "bbox": [-97.74376,30.269454,-97.74376,30.269454],
-  "geometry": {"coordinates":[-97.74376,30.269454],"type":"Point"}
+  "bbox": [
+    -97.74376,
+    30.269454,
+    -97.74376,
+    30.269454
+],
+  "geometry": {"coordinates":[-97.74375999999999,30.269454],"type":"Point"}
 }

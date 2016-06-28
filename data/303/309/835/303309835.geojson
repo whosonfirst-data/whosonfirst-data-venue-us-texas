@@ -2,13 +2,14 @@
   "id": 303309835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.758261,30.235954,-97.758261,30.235954",
     "geom:latitude":30.235954,
     "geom:longitude":-97.758261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cumberland Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303309835,
-    "wof:lastmodified":1448998657,
+    "wof:lastmodified":1467083718,
     "wof:name":"US Vents, Inc.",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-97.758261,30.235954,-97.758261,30.235954],
+  "bbox": [
+    -97.758261,
+    30.235954,
+    -97.758261,
+    30.235954
+],
   "geometry": {"coordinates":[-97.758261,30.235954],"type":"Point"}
 }

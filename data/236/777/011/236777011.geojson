@@ -2,13 +2,14 @@
   "id": 236777011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333047,27.651044,-97.333047,27.651044",
     "geom:latitude":27.651044,
     "geom:longitude":-97.333047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 Burgentine Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236777011,
-    "wof:lastmodified":1449003385,
+    "wof:lastmodified":1467083951,
     "wof:name":"Seamist Enterprises",
     "wof:parent_id":85819661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.333047,27.651044,-97.333047,27.651044],
-  "geometry": {"coordinates":[-97.333047,27.651044],"type":"Point"}
+  "bbox": [
+    -97.333047,
+    27.651044,
+    -97.333047,
+    27.651044
+],
+  "geometry": {"coordinates":[-97.33304699999999,27.651044],"type":"Point"}
 }

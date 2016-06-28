@@ -2,13 +2,14 @@
   "id": 252815763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820099,32.809299,-96.820099,32.809299",
     "geom:latitude":32.809299,
     "geom:longitude":-96.820099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4343 Maple Ave Ste 101",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252815763,
-    "wof:lastmodified":1449005941,
+    "wof:lastmodified":1467084077,
     "wof:name":"Murillo S L MD",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.820099,32.809299,-96.820099,32.809299],
+  "bbox": [
+    -96.820099,
+    32.809299,
+    -96.820099,
+    32.809299
+],
   "geometry": {"coordinates":[-96.820099,32.809299],"type":"Point"}
 }

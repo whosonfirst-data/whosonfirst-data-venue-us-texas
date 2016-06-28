@@ -2,13 +2,14 @@
   "id": 270512837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.394399,30.025065,-95.394399,30.025065",
     "geom:latitude":30.025065,
     "geom:longitude":-95.394399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 Fm 1960 Rd E",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270512837,
-    "wof:lastmodified":1449010430,
+    "wof:lastmodified":1467084209,
     "wof:name":"Spas Unlimited Of Houston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.394399,30.025065,-95.394399,30.025065],
-  "geometry": {"coordinates":[-95.394399,30.025065],"type":"Point"}
+  "bbox": [
+    -95.394399,
+    30.025065,
+    -95.394399,
+    30.025065
+],
+  "geometry": {"coordinates":[-95.39439900000001,30.025065],"type":"Point"}
 }

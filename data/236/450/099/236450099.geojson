@@ -2,13 +2,14 @@
   "id": 236450099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752418,32.975129,-96.752418,32.975129",
     "geom:latitude":32.975129,
     "geom:longitude":-96.752418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Greenhaven Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236450099,
-    "wof:lastmodified":1449004640,
+    "wof:lastmodified":1467084010,
     "wof:name":"American Building Contractors Inc",
     "wof:parent_id":85880203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.752418,32.975129,-96.752418,32.975129],
-  "geometry": {"coordinates":[-96.752418,32.975129],"type":"Point"}
+  "bbox": [
+    -96.752418,
+    32.975129,
+    -96.752418,
+    32.975129
+],
+  "geometry": {"coordinates":[-96.75241800000001,32.975129],"type":"Point"}
 }

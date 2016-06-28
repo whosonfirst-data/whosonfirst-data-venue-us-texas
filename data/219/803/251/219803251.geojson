@@ -2,13 +2,14 @@
   "id": 219803251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.097405,31.859734,-103.097405,31.859734",
     "geom:latitude":31.859734,
     "geom:longitude":-103.097405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Pine St",
     "sg:city":"Kermit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219803251,
-    "wof:lastmodified":1449073962,
+    "wof:lastmodified":1467085175,
     "wof:name":"Home Improvement Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.097405,31.859734,-103.097405,31.859734],
-  "geometry": {"coordinates":[-103.097405,31.859734],"type":"Point"}
+  "bbox": [
+    -103.097405,
+    31.859734,
+    -103.097405,
+    31.859734
+],
+  "geometry": {"coordinates":[-103.09740499999999,31.859734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403733027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.77426,33.57819,-101.77426,33.57819",
     "geom:latitude":33.57819,
     "geom:longitude":-101.77426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 Co Rd 6700",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403733027,
-    "wof:lastmodified":1449054803,
+    "wof:lastmodified":1467084754,
     "wof:name":"Land Application Site",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-101.77426,33.57819,-101.77426,33.57819],
+  "bbox": [
+    -101.77426,
+    33.57819,
+    -101.77426,
+    33.57819
+],
   "geometry": {"coordinates":[-101.77426,33.57819],"type":"Point"}
 }

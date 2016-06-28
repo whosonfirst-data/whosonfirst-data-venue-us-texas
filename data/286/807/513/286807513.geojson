@@ -2,13 +2,14 @@
   "id": 286807513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.41146,29.180029,-95.41146,29.180029",
     "geom:latitude":29.180029,
     "geom:longitude":-95.41146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 E Mulberry St",
     "sg:city":"Angleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286807513,
-    "wof:lastmodified":1449015927,
+    "wof:lastmodified":1467084256,
     "wof:name":"Arbor Pines Apartments",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.41146,29.180029,-95.41146,29.180029],
-  "geometry": {"coordinates":[-95.41146,29.180029],"type":"Point"}
+  "bbox": [
+    -95.41146,
+    29.180029,
+    -95.41146,
+    29.180029
+],
+  "geometry": {"coordinates":[-95.41146000000001,29.180029],"type":"Point"}
 }

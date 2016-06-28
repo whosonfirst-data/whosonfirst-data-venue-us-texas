@@ -2,13 +2,14 @@
   "id": 303038779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.182325,26.204653,-98.182325,26.204653",
     "geom:latitude":26.204653,
     "geom:longitude":-98.182325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Cage Blvd Ste 6A",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303038779,
-    "wof:lastmodified":1448999683,
+    "wof:lastmodified":1467083770,
     "wof:name":"Nutrition Zone",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-98.182325,26.204653,-98.182325,26.204653],
-  "geometry": {"coordinates":[-98.182325,26.204653],"type":"Point"}
+  "bbox": [
+    -98.182325,
+    26.204653,
+    -98.182325,
+    26.204653
+],
+  "geometry": {"coordinates":[-98.18232500000001,26.204653],"type":"Point"}
 }

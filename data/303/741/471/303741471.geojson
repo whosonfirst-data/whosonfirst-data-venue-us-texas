@@ -2,13 +2,14 @@
   "id": 303741471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.695509,30.365773,-97.695509,30.365773",
     "geom:latitude":30.365773,
     "geom:longitude":-97.695509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9616 N Lamar Blvd Ste 165",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303741471,
-    "wof:lastmodified":1448998251,
+    "wof:lastmodified":1467083698,
     "wof:name":"andy's liquor",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.695509,30.365773,-97.695509,30.365773],
+  "bbox": [
+    -97.695509,
+    30.365773,
+    -97.695509,
+    30.365773
+],
   "geometry": {"coordinates":[-97.695509,30.365773],"type":"Point"}
 }

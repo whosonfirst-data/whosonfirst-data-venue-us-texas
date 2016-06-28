@@ -2,13 +2,14 @@
   "id": 252749615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707796,30.330848,-97.707796,30.330848",
     "geom:latitude":30.330848,
     "geom:longitude":-97.707796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Huntland Dr E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":252749615,
-    "wof:lastmodified":1449005729,
+    "wof:lastmodified":1467084066,
     "wof:name":"Austin Data Inc",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "datum"
     ]
 },
-  "bbox": [-97.707796,30.330848,-97.707796,30.330848],
+  "bbox": [
+    -97.707796,
+    30.330848,
+    -97.707796,
+    30.330848
+],
   "geometry": {"coordinates":[-97.707796,30.330848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202500539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.606636,30.51338,-97.606636,30.51338",
     "geom:latitude":30.51338,
     "geom:longitude":-97.606636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3893 Royal Troon Dr",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202500539,
-    "wof:lastmodified":1449060755,
+    "wof:lastmodified":1467084901,
     "wof:name":"K&M Steam Cleaning",
     "wof:parent_id":85893901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.606636,30.51338,-97.606636,30.51338],
-  "geometry": {"coordinates":[-97.606636,30.51338],"type":"Point"}
+  "bbox": [
+    -97.606636,
+    30.51338,
+    -97.606636,
+    30.51338
+],
+  "geometry": {"coordinates":[-97.60663599999999,30.51338],"type":"Point"}
 }

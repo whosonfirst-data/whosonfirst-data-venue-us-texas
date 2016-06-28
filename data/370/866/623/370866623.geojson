@@ -2,13 +2,14 @@
   "id": 370866623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.516107,27.505132,-99.516107,27.505132",
     "geom:latitude":27.505132,
     "geom:longitude":-99.516107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Hidalgo St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370866623,
-    "wof:lastmodified":1449030697,
+    "wof:lastmodified":1467084509,
     "wof:name":"La Casona Imports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.516107,27.505132,-99.516107,27.505132],
-  "geometry": {"coordinates":[-99.516107,27.505132],"type":"Point"}
+  "bbox": [
+    -99.516107,
+    27.505132,
+    -99.516107,
+    27.505132
+],
+  "geometry": {"coordinates":[-99.51610700000001,27.505132],"type":"Point"}
 }

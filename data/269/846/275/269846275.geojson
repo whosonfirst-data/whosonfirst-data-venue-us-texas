@@ -2,13 +2,14 @@
   "id": 269846275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371875,29.746789,-95.371875,29.746789",
     "geom:latitude":29.746789,
     "geom:longitude":-95.371875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 Fannin St Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269846275,
-    "wof:lastmodified":1449038286,
+    "wof:lastmodified":1467084624,
     "wof:name":"Bank of America",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.371875,29.746789,-95.371875,29.746789],
+  "bbox": [
+    -95.371875,
+    29.746789,
+    -95.371875,
+    29.746789
+],
   "geometry": {"coordinates":[-95.371875,29.746789],"type":"Point"}
 }

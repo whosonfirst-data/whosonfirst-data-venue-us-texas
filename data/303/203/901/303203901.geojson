@@ -2,13 +2,14 @@
   "id": 303203901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745576,30.269631,-97.745576,30.269631",
     "geom:latitude":30.269631,
     "geom:longitude":-97.745576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 6th St Lobby",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303203901,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1467083746,
     "wof:name":"Shiny Shoes",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.745576,30.269631,-97.745576,30.269631],
+  "bbox": [
+    -97.745576,
+    30.269631,
+    -97.745576,
+    30.269631
+],
   "geometry": {"coordinates":[-97.745576,30.269631],"type":"Point"}
 }

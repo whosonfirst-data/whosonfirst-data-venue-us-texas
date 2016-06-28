@@ -2,13 +2,14 @@
   "id": 253273439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82147,32.953996,-96.82147,32.953996",
     "geom:latitude":32.953996,
     "geom:longitude":-96.82147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Belt Line Rd Ste 402",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253273439,
-    "wof:lastmodified":1449064355,
+    "wof:lastmodified":1467084997,
     "wof:name":"Canary Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mediterranean"
     ]
 },
-  "bbox": [-96.82147,32.953996,-96.82147,32.953996],
-  "geometry": {"coordinates":[-96.82147,32.953996],"type":"Point"}
+  "bbox": [
+    -96.82147,
+    32.953996,
+    -96.82147,
+    32.953996
+],
+  "geometry": {"coordinates":[-96.82147000000001,32.953996],"type":"Point"}
 }

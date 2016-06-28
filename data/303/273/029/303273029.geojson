@@ -2,13 +2,14 @@
   "id": 303273029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750171,30.275228,-97.750171,30.275228",
     "geom:latitude":30.275228,
     "geom:longitude":-97.750171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 W 11th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303273029,
-    "wof:lastmodified":1448999388,
+    "wof:lastmodified":1467083755,
     "wof:name":"Dom Engineering Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.750171,30.275228,-97.750171,30.275228],
-  "geometry": {"coordinates":[-97.750171,30.275228],"type":"Point"}
+  "bbox": [
+    -97.750171,
+    30.275228,
+    -97.750171,
+    30.275228
+],
+  "geometry": {"coordinates":[-97.75017099999999,30.275228],"type":"Point"}
 }

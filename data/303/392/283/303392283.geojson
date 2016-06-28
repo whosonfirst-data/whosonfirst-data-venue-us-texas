@@ -2,13 +2,14 @@
   "id": 303392283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.709313,30.306742,-97.709313,30.306742",
     "geom:latitude":30.306742,
     "geom:longitude":-97.709313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Barbara Jordan Blvd Ste 420",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303392283,
-    "wof:lastmodified":1449000080,
+    "wof:lastmodified":1467083789,
     "wof:name":"Rue21",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-97.709313,30.306742,-97.709313,30.306742],
-  "geometry": {"coordinates":[-97.709313,30.306742],"type":"Point"}
+  "bbox": [
+    -97.709313,
+    30.306742,
+    -97.709313,
+    30.306742
+],
+  "geometry": {"coordinates":[-97.70931299999999,30.306742],"type":"Point"}
 }

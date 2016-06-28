@@ -2,13 +2,14 @@
   "id": 252839249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890262,32.880455,-96.890262,32.880455",
     "geom:latitude":32.880455,
     "geom:longitude":-96.890262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10921 Shady Trl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -88,10 +89,11 @@
         }
     ],
     "wof:id":252839249,
-    "wof:lastmodified":1449006084,
+    "wof:lastmodified":1467084085,
     "wof:name":"S&S Refrigeration Of Texas",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -114,6 +116,11 @@
         "engineer"
     ]
 },
-  "bbox": [-96.890262,32.880455,-96.890262,32.880455],
-  "geometry": {"coordinates":[-96.890262,32.880455],"type":"Point"}
+  "bbox": [
+    -96.890262,
+    32.880455,
+    -96.890262,
+    32.880455
+],
+  "geometry": {"coordinates":[-96.89026200000001,32.880455],"type":"Point"}
 }

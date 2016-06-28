@@ -2,13 +2,14 @@
   "id": 253616863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061799,32.737376,-97.061799,32.737376",
     "geom:latitude":32.737376,
     "geom:longitude":-97.061799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 S Watson Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253616863,
-    "wof:lastmodified":1449065005,
+    "wof:lastmodified":1467085020,
     "wof:name":"Vianney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-97.061799,32.737376,-97.061799,32.737376],
-  "geometry": {"coordinates":[-97.061799,32.737376],"type":"Point"}
+  "bbox": [
+    -97.061799,
+    32.737376,
+    -97.061799,
+    32.737376
+],
+  "geometry": {"coordinates":[-97.06179899999999,32.737376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303798549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.690182,30.377956,-97.690182,30.377956",
     "geom:latitude":30.377956,
     "geom:longitude":-97.690182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Wagon Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303798549,
-    "wof:lastmodified":1448998569,
+    "wof:lastmodified":1467083714,
     "wof:name":"Austin Wrecker Service",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-97.690182,30.377956,-97.690182,30.377956],
-  "geometry": {"coordinates":[-97.690182,30.377956],"type":"Point"}
+  "bbox": [
+    -97.690182,
+    30.377956,
+    -97.690182,
+    30.377956
+],
+  "geometry": {"coordinates":[-97.69018199999999,30.377956],"type":"Point"}
 }

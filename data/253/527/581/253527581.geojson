@@ -2,13 +2,14 @@
   "id": 253527581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.408442,32.509171,-95.408442,32.509171",
     "geom:latitude":32.509171,
     "geom:longitude":-95.408442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Main St",
     "sg:city":"Lindale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":253527581,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1467085025,
     "wof:name":"AutoZone",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-95.408442,32.509171,-95.408442,32.509171],
-  "geometry": {"coordinates":[-95.408442,32.509171],"type":"Point"}
+  "bbox": [
+    -95.408442,
+    32.509171,
+    -95.408442,
+    32.509171
+],
+  "geometry": {"coordinates":[-95.40844199999999,32.509171],"type":"Point"}
 }

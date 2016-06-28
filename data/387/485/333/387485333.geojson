@@ -2,13 +2,14 @@
   "id": 387485333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.565447,29.3369,-98.565447,29.3369",
     "geom:latitude":29.3369,
     "geom:longitude":-98.565447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3531 Palm Leaf St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387485333,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1467084844,
     "wof:name":"Gomez Construction",
     "wof:parent_id":85840355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.565447,29.3369,-98.565447,29.3369],
-  "geometry": {"coordinates":[-98.565447,29.3369],"type":"Point"}
+  "bbox": [
+    -98.565447,
+    29.3369,
+    -98.565447,
+    29.3369
+],
+  "geometry": {"coordinates":[-98.56544700000001,29.3369],"type":"Point"}
 }

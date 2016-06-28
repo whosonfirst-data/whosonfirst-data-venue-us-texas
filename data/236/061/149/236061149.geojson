@@ -2,13 +2,14 @@
   "id": 236061149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.511051,29.95024,-95.511051,29.95024",
     "geom:latitude":29.95024,
     "geom:longitude":-95.511051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6503 Brittany Park Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236061149,
-    "wof:lastmodified":1449004141,
+    "wof:lastmodified":1467083987,
     "wof:name":"Greater Harris County",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-95.511051,29.95024,-95.511051,29.95024],
-  "geometry": {"coordinates":[-95.511051,29.95024],"type":"Point"}
+  "bbox": [
+    -95.511051,
+    29.95024,
+    -95.511051,
+    29.95024
+],
+  "geometry": {"coordinates":[-95.51105099999999,29.95024],"type":"Point"}
 }

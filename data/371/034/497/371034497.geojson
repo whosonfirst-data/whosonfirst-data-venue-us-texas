@@ -2,13 +2,14 @@
   "id": 371034497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.738272,32.44009,-99.738272,32.44009",
     "geom:latitude":32.44009,
     "geom:longitude":-99.738272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Butternut St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371034497,
-    "wof:lastmodified":1449049142,
+    "wof:lastmodified":1467084672,
     "wof:name":"Abilene Healthcare & Injury",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.738272,32.44009,-99.738272,32.44009],
-  "geometry": {"coordinates":[-99.738272,32.44009],"type":"Point"}
+  "bbox": [
+    -99.738272,
+    32.44009,
+    -99.738272,
+    32.44009
+],
+  "geometry": {"coordinates":[-99.73827199999999,32.44009],"type":"Point"}
 }

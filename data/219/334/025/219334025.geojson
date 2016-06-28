@@ -2,13 +2,14 @@
   "id": 219334025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33483,32.750005,-97.33483,32.750005",
     "geom:latitude":32.750005,
     "geom:longitude":-97.33483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Cherry St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219334025,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1467085122,
     "wof:name":"Burnett Plaza Garage",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-97.33483,32.750005,-97.33483,32.750005],
+  "bbox": [
+    -97.33483,
+    32.750005,
+    -97.33483,
+    32.750005
+],
   "geometry": {"coordinates":[-97.33483,32.750005],"type":"Point"}
 }

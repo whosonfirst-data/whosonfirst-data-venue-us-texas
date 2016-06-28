@@ -2,13 +2,14 @@
   "id": 219631529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719842,30.289726,-97.719842,30.289726",
     "geom:latitude":30.289726,
     "geom:longitude":-97.719842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 Dancy St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219631529,
-    "wof:lastmodified":1449071489,
+    "wof:lastmodified":1467085123,
     "wof:name":"Pointsphere",
     "wof:parent_id":85869915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-97.719842,30.289726,-97.719842,30.289726],
+  "bbox": [
+    -97.719842,
+    30.289726,
+    -97.719842,
+    30.289726
+],
   "geometry": {"coordinates":[-97.719842,30.289726],"type":"Point"}
 }

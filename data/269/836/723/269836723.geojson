@@ -2,13 +2,14 @@
   "id": 269836723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.369986,29.756482,-95.369986,29.756482",
     "geom:latitude":29.756482,
     "geom:longitude":-95.369986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Polk St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269836723,
-    "wof:lastmodified":1449037706,
+    "wof:lastmodified":1467084615,
     "wof:name":"Wimpy's Hamburgers",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-95.369986,29.756482,-95.369986,29.756482],
+  "bbox": [
+    -95.369986,
+    29.756482,
+    -95.369986,
+    29.756482
+],
   "geometry": {"coordinates":[-95.369986,29.756482],"type":"Point"}
 }

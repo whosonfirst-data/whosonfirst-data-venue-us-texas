@@ -2,13 +2,14 @@
   "id": 236134983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.99559,32.948231,-96.99559,32.948231",
     "geom:latitude":32.948231,
     "geom:longitude":-96.99559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Southwestern Blvd",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236134983,
-    "wof:lastmodified":1449005031,
+    "wof:lastmodified":1467084029,
     "wof:name":"Mach 5 Manufacturing",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.99559,32.948231,-96.99559,32.948231],
-  "geometry": {"coordinates":[-96.99559,32.948231],"type":"Point"}
+  "bbox": [
+    -96.99559,
+    32.948231,
+    -96.99559,
+    32.948231
+],
+  "geometry": {"coordinates":[-96.99559000000001,32.948231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236885491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.778011,32.798021,-96.778011,32.798021",
     "geom:latitude":32.798021,
     "geom:longitude":-96.778011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Live Oak St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":236885491,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1467083951,
     "wof:name":"Trophies Inc",
     "wof:parent_id":85870339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "shows"
     ]
 },
-  "bbox": [-96.778011,32.798021,-96.778011,32.798021],
-  "geometry": {"coordinates":[-96.778011,32.798021],"type":"Point"}
+  "bbox": [
+    -96.778011,
+    32.798021,
+    -96.778011,
+    32.798021
+],
+  "geometry": {"coordinates":[-96.77801100000001,32.798021],"type":"Point"}
 }

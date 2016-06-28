@@ -2,13 +2,14 @@
   "id": 236189901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810118,33.139815,-96.810118,33.139815",
     "geom:latitude":33.139815,
     "geom:longitude":-96.810118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 Stonebrook Pkwy Ofc",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236189901,
-    "wof:lastmodified":1449004084,
+    "wof:lastmodified":1467083984,
     "wof:name":"Rdm Trucking",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.810118,33.139815,-96.810118,33.139815],
+  "bbox": [
+    -96.810118,
+    33.139815,
+    -96.810118,
+    33.139815
+],
   "geometry": {"coordinates":[-96.810118,33.139815],"type":"Point"}
 }

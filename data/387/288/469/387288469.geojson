@@ -2,13 +2,14 @@
   "id": 387288469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487244,29.418421,-98.487244,29.418421",
     "geom:latitude":29.418421,
     "geom:longitude":-98.487244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 E Durango Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387288469,
-    "wof:lastmodified":1449056512,
+    "wof:lastmodified":1467084795,
     "wof:name":"US Federal District Court",
     "wof:parent_id":85871053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.487244,29.418421,-98.487244,29.418421],
+  "bbox": [
+    -98.487244,
+    29.418421,
+    -98.487244,
+    29.418421
+],
   "geometry": {"coordinates":[-98.487244,29.418421],"type":"Point"}
 }

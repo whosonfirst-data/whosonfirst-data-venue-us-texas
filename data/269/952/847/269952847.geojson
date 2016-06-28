@@ -2,13 +2,14 @@
   "id": 269952847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.387352,29.78134,-95.387352,29.78134",
     "geom:latitude":29.78134,
     "geom:longitude":-95.387352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2631 White Oak Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269952847,
-    "wof:lastmodified":1449037937,
+    "wof:lastmodified":1467084619,
     "wof:name":"Beer Island",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.387352,29.78134,-95.387352,29.78134],
-  "geometry": {"coordinates":[-95.387352,29.78134],"type":"Point"}
+  "bbox": [
+    -95.387352,
+    29.78134,
+    -95.387352,
+    29.78134
+],
+  "geometry": {"coordinates":[-95.38735200000001,29.78134],"type":"Point"}
 }

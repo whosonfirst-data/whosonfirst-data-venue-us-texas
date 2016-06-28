@@ -2,13 +2,14 @@
   "id": 253616699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08168,32.720921,-97.08168,32.720921",
     "geom:latitude":32.720921,
     "geom:longitude":-97.08168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 E Park Row Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253616699,
-    "wof:lastmodified":1449065002,
+    "wof:lastmodified":1467085020,
     "wof:name":"Park Plaza Animal Clinic",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.08168,32.720921,-97.08168,32.720921],
-  "geometry": {"coordinates":[-97.08168,32.720921],"type":"Point"}
+  "bbox": [
+    -97.08168,
+    32.720921,
+    -97.08168,
+    32.720921
+],
+  "geometry": {"coordinates":[-97.08168000000001,32.720921],"type":"Point"}
 }

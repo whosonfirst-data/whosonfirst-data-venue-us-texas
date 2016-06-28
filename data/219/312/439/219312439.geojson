@@ -2,13 +2,14 @@
   "id": 219312439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.234344,32.761235,-97.234344,32.761235",
     "geom:latitude":32.761235,
     "geom:longitude":-97.234344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1166 Country Club Ln",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219312439,
-    "wof:lastmodified":1449072164,
+    "wof:lastmodified":1467085137,
     "wof:name":"ISD Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-97.234344,32.761235,-97.234344,32.761235],
-  "geometry": {"coordinates":[-97.234344,32.761235],"type":"Point"}
+  "bbox": [
+    -97.234344,
+    32.761235,
+    -97.234344,
+    32.761235
+],
+  "geometry": {"coordinates":[-97.23434399999999,32.761235],"type":"Point"}
 }

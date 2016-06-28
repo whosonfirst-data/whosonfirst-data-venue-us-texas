@@ -2,13 +2,14 @@
   "id": 202756483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.144512,30.039696,-99.144512,30.039696",
     "geom:latitude":30.039696,
     "geom:longitude":-99.144512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Sidney Baker St S",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202756483,
-    "wof:lastmodified":1449061640,
+    "wof:lastmodified":1467084920,
     "wof:name":"Ken Stoepel Ford Lincoln-Merc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.144512,30.039696,-99.144512,30.039696],
-  "geometry": {"coordinates":[-99.144512,30.039696],"type":"Point"}
+  "bbox": [
+    -99.144512,
+    30.039696,
+    -99.144512,
+    30.039696
+],
+  "geometry": {"coordinates":[-99.14451200000001,30.039696],"type":"Point"}
 }

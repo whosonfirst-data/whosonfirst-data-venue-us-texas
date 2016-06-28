@@ -2,13 +2,14 @@
   "id": 253022129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.877514,32.911121,-96.877514,32.911121",
     "geom:latitude":32.911121,
     "geom:longitude":-96.877514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253022129,
-    "wof:lastmodified":1449063806,
+    "wof:lastmodified":1467084979,
     "wof:name":"Concentra Medical Centers",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.877514,32.911121,-96.877514,32.911121],
-  "geometry": {"coordinates":[-96.877514,32.911121],"type":"Point"}
+  "bbox": [
+    -96.877514,
+    32.911121,
+    -96.877514,
+    32.911121
+],
+  "geometry": {"coordinates":[-96.87751400000001,32.911121],"type":"Point"}
 }

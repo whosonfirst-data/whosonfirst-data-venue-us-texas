@@ -2,13 +2,14 @@
   "id": 303829049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751736,30.372605,-97.751736,30.372605",
     "geom:latitude":30.372605,
     "geom:longitude":-97.751736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3921 Steck Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303829049,
-    "wof:lastmodified":1449000404,
+    "wof:lastmodified":1467083804,
     "wof:name":"Northland Medical Clinic",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.751736,30.372605,-97.751736,30.372605],
-  "geometry": {"coordinates":[-97.751736,30.372605],"type":"Point"}
+  "bbox": [
+    -97.751736,
+    30.372605,
+    -97.751736,
+    30.372605
+],
+  "geometry": {"coordinates":[-97.75173599999999,30.372605],"type":"Point"}
 }

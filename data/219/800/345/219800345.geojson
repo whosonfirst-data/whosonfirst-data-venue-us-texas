@@ -2,13 +2,14 @@
   "id": 219800345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.737427,33.193917,-98.737427,33.193917",
     "geom:latitude":33.193917,
     "geom:longitude":-98.737427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Graham St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219800345,
-    "wof:lastmodified":1449070669,
+    "wof:lastmodified":1467085106,
     "wof:name":"Newcastle First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.737427,33.193917,-98.737427,33.193917],
+  "bbox": [
+    -98.737427,
+    33.193917,
+    -98.737427,
+    33.193917
+],
   "geometry": {"coordinates":[-98.737427,33.193917],"type":"Point"}
 }

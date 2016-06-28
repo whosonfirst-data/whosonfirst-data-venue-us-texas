@@ -2,13 +2,14 @@
   "id": 236955265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.826917,32.804821,-96.826917,32.804821",
     "geom:latitude":32.804821,
     "geom:longitude":-96.826917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Stemmons Fwy Ste 4804",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236955265,
-    "wof:lastmodified":1449004036,
+    "wof:lastmodified":1467083981,
     "wof:name":"Lite Source Inc",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lighting"
     ]
 },
-  "bbox": [-96.826917,32.804821,-96.826917,32.804821],
-  "geometry": {"coordinates":[-96.826917,32.804821],"type":"Point"}
+  "bbox": [
+    -96.826917,
+    32.804821,
+    -96.826917,
+    32.804821
+],
+  "geometry": {"coordinates":[-96.82691699999999,32.804821],"type":"Point"}
 }

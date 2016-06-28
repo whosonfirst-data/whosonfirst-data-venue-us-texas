@@ -2,13 +2,14 @@
   "id": 202615843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.099675,32.860875,-97.099675,32.860875",
     "geom:latitude":32.860875,
     "geom:longitude":-97.099675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 W Ash Ln",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202615843,
-    "wof:lastmodified":1449060906,
+    "wof:lastmodified":1467084905,
     "wof:name":"Willow Ridge Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-97.099675,32.860875,-97.099675,32.860875],
+  "bbox": [
+    -97.099675,
+    32.860875,
+    -97.099675,
+    32.860875
+],
   "geometry": {"coordinates":[-97.099675,32.860875],"type":"Point"}
 }

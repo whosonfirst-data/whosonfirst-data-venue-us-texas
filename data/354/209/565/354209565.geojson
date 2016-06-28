@@ -2,13 +2,14 @@
   "id": 354209565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.071619,32.761556,-97.071619,32.761556",
     "geom:latitude":32.761556,
     "geom:longitude":-97.071619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 E Lamar Blvd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354209565,
-    "wof:lastmodified":1449067493,
+    "wof:lastmodified":1467085090,
     "wof:name":"Weather Forecast Dallas Fort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forecast"
     ]
 },
-  "bbox": [-97.071619,32.761556,-97.071619,32.761556],
+  "bbox": [
+    -97.071619,
+    32.761556,
+    -97.071619,
+    32.761556
+],
   "geometry": {"coordinates":[-97.071619,32.761556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236733301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.789173,30.22025,-97.789173,30.22025",
     "geom:latitude":30.22025,
     "geom:longitude":-97.789173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 Gladeview Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236733301,
-    "wof:lastmodified":1449002019,
+    "wof:lastmodified":1467083879,
     "wof:name":"Ladybugs Lawn & Landscaping",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.789173,30.22025,-97.789173,30.22025],
-  "geometry": {"coordinates":[-97.789173,30.22025],"type":"Point"}
+  "bbox": [
+    -97.789173,
+    30.22025,
+    -97.789173,
+    30.22025
+],
+  "geometry": {"coordinates":[-97.78917300000001,30.22025],"type":"Point"}
 }

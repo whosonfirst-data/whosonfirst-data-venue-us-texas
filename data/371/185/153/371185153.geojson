@@ -2,13 +2,14 @@
   "id": 371185153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.540839,30.134748,-95.540839,30.134748",
     "geom:latitude":30.134748,
     "geom:longitude":-95.540839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7714 Post Bridge Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371185153,
-    "wof:lastmodified":1449049210,
+    "wof:lastmodified":1467084673,
     "wof:name":"Building With Bob",
     "wof:parent_id":85893755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.540839,30.134748,-95.540839,30.134748],
-  "geometry": {"coordinates":[-95.540839,30.134748],"type":"Point"}
+  "bbox": [
+    -95.540839,
+    30.134748,
+    -95.540839,
+    30.134748
+],
+  "geometry": {"coordinates":[-95.54083900000001,30.134748],"type":"Point"}
 }

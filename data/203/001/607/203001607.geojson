@@ -2,13 +2,14 @@
   "id": 203001607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.177911,29.677121,-95.177911,29.677121",
     "geom:latitude":29.677121,
     "geom:longitude":-95.177911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Cherry Brook Ln",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":203001607,
-    "wof:lastmodified":1449025360,
+    "wof:lastmodified":1467084392,
     "wof:name":"Cherrybrook Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.177911,29.677121,-95.177911,29.677121],
-  "geometry": {"coordinates":[-95.177911,29.677121],"type":"Point"}
+  "bbox": [
+    -95.177911,
+    29.677121,
+    -95.177911,
+    29.677121
+],
+  "geometry": {"coordinates":[-95.17791099999999,29.677121],"type":"Point"}
 }

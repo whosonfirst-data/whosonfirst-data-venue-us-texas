@@ -2,13 +2,14 @@
   "id": 253359377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.519129,33.649162,-95.519129,33.649162",
     "geom:latitude":33.649162,
     "geom:longitude":-95.519129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Clarksville St # 100",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253359377,
-    "wof:lastmodified":1449062779,
+    "wof:lastmodified":1467084944,
     "wof:name":"Pca",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.519129,33.649162,-95.519129,33.649162],
-  "geometry": {"coordinates":[-95.519129,33.649162],"type":"Point"}
+  "bbox": [
+    -95.519129,
+    33.649162,
+    -95.519129,
+    33.649162
+],
+  "geometry": {"coordinates":[-95.51912900000001,33.649162],"type":"Point"}
 }

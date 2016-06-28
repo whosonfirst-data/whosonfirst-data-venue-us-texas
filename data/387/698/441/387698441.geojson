@@ -2,13 +2,14 @@
   "id": 387698441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802288,32.820065,-96.802288,32.820065",
     "geom:latitude":32.820065,
     "geom:longitude":-96.802288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 Oak Lawn Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387698441,
-    "wof:lastmodified":1449059684,
+    "wof:lastmodified":1467084876,
     "wof:name":"Wolf Camera & Video",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-96.802288,32.820065,-96.802288,32.820065],
+  "bbox": [
+    -96.802288,
+    32.820065,
+    -96.802288,
+    32.820065
+],
   "geometry": {"coordinates":[-96.802288,32.820065],"type":"Point"}
 }

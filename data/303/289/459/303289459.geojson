@@ -2,13 +2,14 @@
   "id": 303289459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726898,30.26844,-97.726898,30.26844",
     "geom:latitude":30.26844,
     "geom:longitude":-97.726898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Navasota St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303289459,
-    "wof:lastmodified":1449000156,
+    "wof:lastmodified":1467083793,
     "wof:name":"Photon Factory",
     "wof:parent_id":85869939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cd-rom"
     ]
 },
-  "bbox": [-97.726898,30.26844,-97.726898,30.26844],
-  "geometry": {"coordinates":[-97.726898,30.26844],"type":"Point"}
+  "bbox": [
+    -97.726898,
+    30.26844,
+    -97.726898,
+    30.26844
+],
+  "geometry": {"coordinates":[-97.72689800000001,30.26844],"type":"Point"}
 }

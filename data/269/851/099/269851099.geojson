@@ -2,13 +2,14 @@
   "id": 269851099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.364556,29.758554,-95.364556,29.758554",
     "geom:latitude":29.758554,
     "geom:longitude":-95.364556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Travis",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269851099,
-    "wof:lastmodified":1449037699,
+    "wof:lastmodified":1467084615,
     "wof:name":"Tunnel - N. Travis - Orange",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.364556,29.758554,-95.364556,29.758554],
-  "geometry": {"coordinates":[-95.364556,29.758554],"type":"Point"}
+  "bbox": [
+    -95.364556,
+    29.758554,
+    -95.364556,
+    29.758554
+],
+  "geometry": {"coordinates":[-95.36455599999999,29.758554],"type":"Point"}
 }

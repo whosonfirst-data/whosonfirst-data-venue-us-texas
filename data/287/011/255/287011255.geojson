@@ -2,13 +2,14 @@
   "id": 287011255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.369816,30.675368,-96.369816,30.675368",
     "geom:latitude":30.675368,
     "geom:longitude":-96.369816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Texas Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":287011255,
-    "wof:lastmodified":1449001396,
+    "wof:lastmodified":1467083842,
     "wof:name":"Hot Dogs Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-96.369816,30.675368,-96.369816,30.675368],
+  "bbox": [
+    -96.369816,
+    30.675368,
+    -96.369816,
+    30.675368
+],
   "geometry": {"coordinates":[-96.369816,30.675368],"type":"Point"}
 }

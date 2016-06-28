@@ -2,13 +2,14 @@
   "id": 303747259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.62553,30.331175,-97.62553,30.331175",
     "geom:latitude":30.331175,
     "geom:longitude":-97.62553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 Reservoir Ct",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303747259,
-    "wof:lastmodified":1448998562,
+    "wof:lastmodified":1467083713,
     "wof:name":"All Things Adult",
     "wof:parent_id":85869905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-97.62553,30.331175,-97.62553,30.331175],
+  "bbox": [
+    -97.62553,
+    30.331175,
+    -97.62553,
+    30.331175
+],
   "geometry": {"coordinates":[-97.62553,30.331175],"type":"Point"}
 }

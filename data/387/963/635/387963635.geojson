@@ -2,13 +2,14 @@
   "id": 387963635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.442146,29.489787,-98.442146,29.489787",
     "geom:latitude":29.489787,
     "geom:longitude":-98.442146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 Austin Hwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387963635,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1467084793,
     "wof:name":"Summer Palace",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.442146,29.489787,-98.442146,29.489787],
-  "geometry": {"coordinates":[-98.442146,29.489787],"type":"Point"}
+  "bbox": [
+    -98.442146,
+    29.489787,
+    -98.442146,
+    29.489787
+],
+  "geometry": {"coordinates":[-98.44214599999999,29.489787],"type":"Point"}
 }

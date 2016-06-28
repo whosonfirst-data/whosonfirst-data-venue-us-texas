@@ -2,13 +2,14 @@
   "id": 404099609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.290132,32.859329,-97.290132,32.859329",
     "geom:latitude":32.859329,
     "geom:longitude":-97.290132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6111 N Beach St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404099609,
-    "wof:lastmodified":1449039913,
+    "wof:lastmodified":1467084653,
     "wof:name":"Dfa Engineering",
     "wof:parent_id":85871627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.290132,32.859329,-97.290132,32.859329],
+  "bbox": [
+    -97.290132,
+    32.859329,
+    -97.290132,
+    32.859329
+],
   "geometry": {"coordinates":[-97.290132,32.859329],"type":"Point"}
 }

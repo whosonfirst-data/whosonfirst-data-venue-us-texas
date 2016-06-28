@@ -2,13 +2,14 @@
   "id": 303300933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764895,30.274881,-97.764895,30.274881",
     "geom:latitude":30.274881,
     "geom:longitude":-97.764895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 W 5th St Ste 800",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303300933,
-    "wof:lastmodified":1448999497,
+    "wof:lastmodified":1467083760,
     "wof:name":"Rise Across Texas Challenge",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "airlines-training"
     ]
 },
-  "bbox": [-97.764895,30.274881,-97.764895,30.274881],
+  "bbox": [
+    -97.764895,
+    30.274881,
+    -97.764895,
+    30.274881
+],
   "geometry": {"coordinates":[-97.764895,30.274881],"type":"Point"}
 }

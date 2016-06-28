@@ -2,13 +2,14 @@
   "id": 354107931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.239376,32.815048,-97.239376,32.815048",
     "geom:latitude":32.815048,
     "geom:longitude":-97.239376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6647 Grapevine Hwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354107931,
-    "wof:lastmodified":1449065937,
+    "wof:lastmodified":1467085051,
     "wof:name":"Fonner Hearing Aid Center",
     "wof:parent_id":85871659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "impaired"
     ]
 },
-  "bbox": [-97.239376,32.815048,-97.239376,32.815048],
-  "geometry": {"coordinates":[-97.239376,32.815048],"type":"Point"}
+  "bbox": [
+    -97.239376,
+    32.815048,
+    -97.239376,
+    32.815048
+],
+  "geometry": {"coordinates":[-97.23937599999999,32.815048],"type":"Point"}
 }

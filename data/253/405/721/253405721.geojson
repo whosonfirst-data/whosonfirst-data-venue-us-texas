@@ -2,13 +2,14 @@
   "id": 253405721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.095993,33.468721,-94.095993,33.468721",
     "geom:latitude":33.468721,
     "geom:longitude":-94.095993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 Richmond Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253405721,
-    "wof:lastmodified":1449065541,
+    "wof:lastmodified":1467085038,
     "wof:name":"Thomas Jeffory MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.095993,33.468721,-94.095993,33.468721],
-  "geometry": {"coordinates":[-94.095993,33.468721],"type":"Point"}
+  "bbox": [
+    -94.095993,
+    33.468721,
+    -94.095993,
+    33.468721
+],
+  "geometry": {"coordinates":[-94.09599300000001,33.468721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303786817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729688,30.378069,-97.729688,30.378069",
     "geom:latitude":30.378069,
     "geom:longitude":-97.729688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 Waterford Centre Blvd Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303786817,
-    "wof:lastmodified":1448998439,
+    "wof:lastmodified":1467083707,
     "wof:name":"Stan's Heating & Air Conditioning",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.729688,30.378069,-97.729688,30.378069],
+  "bbox": [
+    -97.729688,
+    30.378069,
+    -97.729688,
+    30.378069
+],
   "geometry": {"coordinates":[-97.729688,30.378069],"type":"Point"}
 }

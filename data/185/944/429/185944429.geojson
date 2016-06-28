@@ -2,13 +2,14 @@
   "id": 185944429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.536797,33.883064,-98.536797,33.883064",
     "geom:latitude":33.883064,
     "geom:longitude":-98.536797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3366 Kell Blvd",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185944429,
-    "wof:lastmodified":1449007437,
+    "wof:lastmodified":1467084126,
     "wof:name":"Get N Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.536797,33.883064,-98.536797,33.883064],
-  "geometry": {"coordinates":[-98.536797,33.883064],"type":"Point"}
+  "bbox": [
+    -98.536797,
+    33.883064,
+    -98.536797,
+    33.883064
+],
+  "geometry": {"coordinates":[-98.53679700000001,33.883064],"type":"Point"}
 }

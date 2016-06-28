@@ -2,13 +2,14 @@
   "id": 370302123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.677962,29.831942,-95.677962,29.831942",
     "geom:latitude":29.831942,
     "geom:longitude":-95.677962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4048 Heathersage Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370302123,
-    "wof:lastmodified":1449030240,
+    "wof:lastmodified":1467084498,
     "wof:name":"Omp R Knoll Pharmaceutica",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.677962,29.831942,-95.677962,29.831942],
-  "geometry": {"coordinates":[-95.677962,29.831942],"type":"Point"}
+  "bbox": [
+    -95.677962,
+    29.831942,
+    -95.677962,
+    29.831942
+],
+  "geometry": {"coordinates":[-95.67796199999999,29.831942],"type":"Point"}
 }

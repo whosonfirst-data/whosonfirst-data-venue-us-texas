@@ -2,13 +2,14 @@
   "id": 303512429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.930101,30.415412,-97.930101,30.415412",
     "geom:latitude":30.415412,
     "geom:longitude":-97.930101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 Hudson Bend Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303512429,
-    "wof:lastmodified":1448999898,
+    "wof:lastmodified":1467083780,
     "wof:name":"LaHacienda RV Resort & Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guest"
     ]
 },
-  "bbox": [-97.930101,30.415412,-97.930101,30.415412],
-  "geometry": {"coordinates":[-97.930101,30.415412],"type":"Point"}
+  "bbox": [
+    -97.930101,
+    30.415412,
+    -97.930101,
+    30.415412
+],
+  "geometry": {"coordinates":[-97.93010099999999,30.415412],"type":"Point"}
 }

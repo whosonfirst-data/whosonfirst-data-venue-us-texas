@@ -2,13 +2,14 @@
   "id": 387183007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48953,25.922112,-97.48953,25.922112",
     "geom:latitude":25.922112,
     "geom:longitude":-97.48953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 State Hwy 48",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387183007,
-    "wof:lastmodified":1449058153,
+    "wof:lastmodified":1467084837,
     "wof:name":"Service Valve & Fitting",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-97.48953,25.922112,-97.48953,25.922112],
+  "bbox": [
+    -97.48953,
+    25.922112,
+    -97.48953,
+    25.922112
+],
   "geometry": {"coordinates":[-97.48953,25.922112],"type":"Point"}
 }

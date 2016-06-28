@@ -2,13 +2,14 @@
   "id": 186638545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.531821,29.782466,-95.531821,29.782466",
     "geom:latitude":29.782466,
     "geom:longitude":-95.531821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Bunker Hill Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186638545,
-    "wof:lastmodified":1449050415,
+    "wof:lastmodified":1467084696,
     "wof:name":"Opticare",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glasses"
     ]
 },
-  "bbox": [-95.531821,29.782466,-95.531821,29.782466],
-  "geometry": {"coordinates":[-95.531821,29.782466],"type":"Point"}
+  "bbox": [
+    -95.531821,
+    29.782466,
+    -95.531821,
+    29.782466
+],
+  "geometry": {"coordinates":[-95.53182099999999,29.782466],"type":"Point"}
 }

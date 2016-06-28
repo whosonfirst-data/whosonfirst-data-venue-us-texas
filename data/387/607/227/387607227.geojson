@@ -2,13 +2,14 @@
   "id": 387607227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80586,32.778433,-96.80586,32.778433",
     "geom:latitude":32.778433,
     "geom:longitude":-96.80586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387607227,
-    "wof:lastmodified":1449056608,
+    "wof:lastmodified":1467084797,
     "wof:name":"Texas 5th Court of Appeals",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appeal"
     ]
 },
-  "bbox": [-96.80586,32.778433,-96.80586,32.778433],
+  "bbox": [
+    -96.80586,
+    32.778433,
+    -96.80586,
+    32.778433
+],
   "geometry": {"coordinates":[-96.80586,32.778433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203000633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.341372,30.189829,-95.341372,30.189829",
     "geom:latitude":30.189829,
     "geom:longitude":-95.341372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15038 Calhoun Rd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203000633,
-    "wof:lastmodified":1449025242,
+    "wof:lastmodified":1467084390,
     "wof:name":"Bennett Crimewatch",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.341372,30.189829,-95.341372,30.189829],
-  "geometry": {"coordinates":[-95.341372,30.189829],"type":"Point"}
+  "bbox": [
+    -95.341372,
+    30.189829,
+    -95.341372,
+    30.189829
+],
+  "geometry": {"coordinates":[-95.34137200000001,30.189829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253137745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702018,32.907516,-96.702018,32.907516",
     "geom:latitude":32.907516,
     "geom:longitude":-96.702018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10625 Presidential Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253137745,
-    "wof:lastmodified":1449065368,
+    "wof:lastmodified":1467085033,
     "wof:name":"ACDelco",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.702018,32.907516,-96.702018,32.907516],
+  "bbox": [
+    -96.702018,
+    32.907516,
+    -96.702018,
+    32.907516
+],
   "geometry": {"coordinates":[-96.702018,32.907516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303523161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.833194,30.256041,-97.833194,30.256041",
     "geom:latitude":30.256041,
     "geom:longitude":-97.833194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5934 Republic Of Texas Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303523161,
-    "wof:lastmodified":1448999529,
+    "wof:lastmodified":1467083762,
     "wof:name":"Estilo Communications Inc",
     "wof:parent_id":85869975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "public"
     ]
 },
-  "bbox": [-97.833194,30.256041,-97.833194,30.256041],
-  "geometry": {"coordinates":[-97.833194,30.256041],"type":"Point"}
+  "bbox": [
+    -97.833194,
+    30.256041,
+    -97.833194,
+    30.256041
+],
+  "geometry": {"coordinates":[-97.83319400000001,30.256041],"type":"Point"}
 }

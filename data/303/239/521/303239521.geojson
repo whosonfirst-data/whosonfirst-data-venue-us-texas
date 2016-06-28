@@ -2,13 +2,14 @@
   "id": 303239521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746689,30.274281,-97.746689,30.274281",
     "geom:latitude":30.274281,
     "geom:longitude":-97.746689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Nueces St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303239521,
-    "wof:lastmodified":1448998357,
+    "wof:lastmodified":1467083703,
     "wof:name":"Green Source Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oils-petroleum"
     ]
 },
-  "bbox": [-97.746689,30.274281,-97.746689,30.274281],
+  "bbox": [
+    -97.746689,
+    30.274281,
+    -97.746689,
+    30.274281
+],
   "geometry": {"coordinates":[-97.746689,30.274281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353509973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.597851,29.69971,-95.597851,29.69971",
     "geom:latitude":29.69971,
     "geom:longitude":-95.597851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12345 Sharpview Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353509973,
-    "wof:lastmodified":1449018345,
+    "wof:lastmodified":1467084323,
     "wof:name":"Button Lawn Sprinkler",
     "wof:parent_id":85868507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.597851,29.69971,-95.597851,29.69971],
-  "geometry": {"coordinates":[-95.597851,29.69971],"type":"Point"}
+  "bbox": [
+    -95.597851,
+    29.69971,
+    -95.597851,
+    29.69971
+],
+  "geometry": {"coordinates":[-95.59785100000001,29.69971],"type":"Point"}
 }

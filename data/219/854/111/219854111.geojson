@@ -2,13 +2,14 @@
   "id": 219854111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.434526,32.733087,-97.434526,32.733087",
     "geom:latitude":32.733087,
     "geom:longitude":-97.434526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Lackland Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219854111,
-    "wof:lastmodified":1449073790,
+    "wof:lastmodified":1467085171,
     "wof:name":"Farmers Financial Svc",
     "wof:parent_id":85897393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.434526,32.733087,-97.434526,32.733087],
-  "geometry": {"coordinates":[-97.434526,32.733087],"type":"Point"}
+  "bbox": [
+    -97.434526,
+    32.733087,
+    -97.434526,
+    32.733087
+],
+  "geometry": {"coordinates":[-97.43452600000001,32.733087],"type":"Point"}
 }

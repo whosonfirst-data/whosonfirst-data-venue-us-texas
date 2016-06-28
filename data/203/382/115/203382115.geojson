@@ -2,13 +2,14 @@
   "id": 203382115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.201744,32.891403,-96.201744,32.891403",
     "geom:latitude":32.891403,
     "geom:longitude":-96.201744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 Sally Goodin Ln",
     "sg:city":"Quinlan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203382115,
-    "wof:lastmodified":1449025414,
+    "wof:lastmodified":1467084393,
     "wof:name":"Skid Boot",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.201744,32.891403,-96.201744,32.891403],
-  "geometry": {"coordinates":[-96.201744,32.891403],"type":"Point"}
+  "bbox": [
+    -96.201744,
+    32.891403,
+    -96.201744,
+    32.891403
+],
+  "geometry": {"coordinates":[-96.20174400000001,32.891403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253504231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.300694,32.35075,-95.300694,32.35075",
     "geom:latitude":32.35075,
     "geom:longitude":-95.300694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Erwin St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":253504231,
-    "wof:lastmodified":1449063338,
+    "wof:lastmodified":1467084963,
     "wof:name":"Rick's On The Square",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "caterer"
     ]
 },
-  "bbox": [-95.300694,32.35075,-95.300694,32.35075],
-  "geometry": {"coordinates":[-95.300694,32.35075],"type":"Point"}
+  "bbox": [
+    -95.300694,
+    32.35075,
+    -95.300694,
+    32.35075
+],
+  "geometry": {"coordinates":[-95.30069399999999,32.35075],"type":"Point"}
 }

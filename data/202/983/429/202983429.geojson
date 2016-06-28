@@ -2,13 +2,14 @@
   "id": 202983429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.016726,32.74216,-97.016726,32.74216",
     "geom:latitude":32.74216,
     "geom:longitude":-97.016726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Main St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202983429,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1467084937,
     "wof:name":"Bank Of America",
     "wof:parent_id":85877851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.016726,32.74216,-97.016726,32.74216],
-  "geometry": {"coordinates":[-97.016726,32.74216],"type":"Point"}
+  "bbox": [
+    -97.016726,
+    32.74216,
+    -97.016726,
+    32.74216
+],
+  "geometry": {"coordinates":[-97.01672600000001,32.74216],"type":"Point"}
 }

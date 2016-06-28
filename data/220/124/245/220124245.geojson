@@ -2,13 +2,14 @@
   "id": 220124245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.166992,30.060277,-99.166992,30.060277",
     "geom:latitude":30.060277,
     "geom:longitude":-99.166992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Junction Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220124245,
-    "wof:lastmodified":1449074826,
+    "wof:lastmodified":1467085195,
     "wof:name":"Barnes Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-99.166992,30.060277,-99.166992,30.060277],
-  "geometry": {"coordinates":[-99.166992,30.060277],"type":"Point"}
+  "bbox": [
+    -99.166992,
+    30.060277,
+    -99.166992,
+    30.060277
+],
+  "geometry": {"coordinates":[-99.16699199999999,30.060277],"type":"Point"}
 }

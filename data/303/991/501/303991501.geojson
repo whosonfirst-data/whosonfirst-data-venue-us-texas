@@ -2,13 +2,14 @@
   "id": 303991501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.840252,33.519828,-101.840252,33.519828",
     "geom:latitude":33.519828,
     "geom:longitude":-101.840252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 82nd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303991501,
-    "wof:lastmodified":1448998887,
+    "wof:lastmodified":1467083730,
     "wof:name":"Clearview Window & Door",
     "wof:parent_id":85878769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-101.840252,33.519828,-101.840252,33.519828],
-  "geometry": {"coordinates":[-101.840252,33.519828],"type":"Point"}
+  "bbox": [
+    -101.840252,
+    33.519828,
+    -101.840252,
+    33.519828
+],
+  "geometry": {"coordinates":[-101.84025200000001,33.519828],"type":"Point"}
 }

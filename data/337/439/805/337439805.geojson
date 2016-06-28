@@ -2,13 +2,14 @@
   "id": 337439805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.528258,36.053418,-102.528258,36.053418",
     "geom:latitude":36.053418,
     "geom:longitude":-102.528258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Olive Ave",
     "sg:city":"Dalhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337439805,
-    "wof:lastmodified":1449027162,
+    "wof:lastmodified":1467084433,
     "wof:name":"Coldwater Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-102.528258,36.053418,-102.528258,36.053418],
-  "geometry": {"coordinates":[-102.528258,36.053418],"type":"Point"}
+  "bbox": [
+    -102.528258,
+    36.053418,
+    -102.528258,
+    36.053418
+],
+  "geometry": {"coordinates":[-102.52825799999999,36.053418],"type":"Point"}
 }

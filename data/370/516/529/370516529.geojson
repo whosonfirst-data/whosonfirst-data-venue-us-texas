@@ -2,13 +2,14 @@
   "id": 370516529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.383372,32.659136,-97.383372,32.659136",
     "geom:latitude":32.659136,
     "geom:longitude":-97.383372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5617 Wharton Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370516529,
-    "wof:lastmodified":1449029738,
+    "wof:lastmodified":1467084485,
     "wof:name":"Charles R Combrink",
     "wof:parent_id":85871651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.383372,32.659136,-97.383372,32.659136],
-  "geometry": {"coordinates":[-97.383372,32.659136],"type":"Point"}
+  "bbox": [
+    -97.383372,
+    32.659136,
+    -97.383372,
+    32.659136
+],
+  "geometry": {"coordinates":[-97.38337199999999,32.659136],"type":"Point"}
 }

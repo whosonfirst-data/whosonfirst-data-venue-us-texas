@@ -2,13 +2,14 @@
   "id": 253652765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135888,32.84245,-97.135888,32.84245",
     "geom:latitude":32.84245,
     "geom:longitude":-97.135888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Cachelle Ct",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253652765,
-    "wof:lastmodified":1449064740,
+    "wof:lastmodified":1467085011,
     "wof:name":"Carbon5 Usa",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "device"
     ]
 },
-  "bbox": [-97.135888,32.84245,-97.135888,32.84245],
-  "geometry": {"coordinates":[-97.135888,32.84245],"type":"Point"}
+  "bbox": [
+    -97.135888,
+    32.84245,
+    -97.135888,
+    32.84245
+],
+  "geometry": {"coordinates":[-97.13588799999999,32.84245],"type":"Point"}
 }

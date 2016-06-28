@@ -2,13 +2,14 @@
   "id": 202872805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.384716,29.813183,-95.384716,29.813183",
     "geom:latitude":29.813183,
     "geom:longitude":-95.384716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 E 29th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202872805,
-    "wof:lastmodified":1449060339,
+    "wof:lastmodified":1467084892,
     "wof:name":"Lone Star Trucking Co",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.384716,29.813183,-95.384716,29.813183],
+  "bbox": [
+    -95.384716,
+    29.813183,
+    -95.384716,
+    29.813183
+],
   "geometry": {"coordinates":[-95.384716,29.813183],"type":"Point"}
 }

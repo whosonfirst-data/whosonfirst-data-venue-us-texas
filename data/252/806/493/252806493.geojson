@@ -2,13 +2,14 @@
   "id": 252806493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713647,32.823741,-96.713647,32.823741",
     "geom:latitude":32.823741,
     "geom:longitude":-96.713647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8630 Garland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252806493,
-    "wof:lastmodified":1449005403,
+    "wof:lastmodified":1467084047,
     "wof:name":"Deaton's Salon & Gifts",
     "wof:parent_id":85870479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "flower"
     ]
 },
-  "bbox": [-96.713647,32.823741,-96.713647,32.823741],
-  "geometry": {"coordinates":[-96.713647,32.823741],"type":"Point"}
+  "bbox": [
+    -96.713647,
+    32.823741,
+    -96.713647,
+    32.823741
+],
+  "geometry": {"coordinates":[-96.71364699999999,32.823741],"type":"Point"}
 }

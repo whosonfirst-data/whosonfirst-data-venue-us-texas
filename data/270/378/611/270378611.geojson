@@ -2,13 +2,14 @@
   "id": 270378611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.460664,29.734488,-95.460664,29.734488",
     "geom:latitude":29.734488,
     "geom:longitude":-95.460664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Post Oak Blvd # 777",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270378611,
-    "wof:lastmodified":1449010318,
+    "wof:lastmodified":1467084205,
     "wof:name":"M Power Sales",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.460664,29.734488,-95.460664,29.734488],
-  "geometry": {"coordinates":[-95.460664,29.734488],"type":"Point"}
+  "bbox": [
+    -95.460664,
+    29.734488,
+    -95.460664,
+    29.734488
+],
+  "geometry": {"coordinates":[-95.46066399999999,29.734488],"type":"Point"}
 }

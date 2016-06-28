@@ -2,13 +2,14 @@
   "id": 370773201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938014,33.424945,-95.938014,33.424945",
     "geom:latitude":33.424945,
     "geom:longitude":-95.938014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E Main St",
     "sg:city":"Ladonia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370773201,
-    "wof:lastmodified":1449029523,
+    "wof:lastmodified":1467084479,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.938014,33.424945,-95.938014,33.424945],
+  "bbox": [
+    -95.938014,
+    33.424945,
+    -95.938014,
+    33.424945
+],
   "geometry": {"coordinates":[-95.938014,33.424945],"type":"Point"}
 }

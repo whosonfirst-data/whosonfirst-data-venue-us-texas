@@ -2,13 +2,14 @@
   "id": 236154567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.398243,30.274335,-98.398243,30.274335",
     "geom:latitude":30.274335,
     "geom:longitude":-98.398243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Gonzales Ave",
     "sg:city":"Fentress",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236154567,
-    "wof:lastmodified":1449005306,
+    "wof:lastmodified":1467084043,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.398243,30.274335,-98.398243,30.274335],
-  "geometry": {"coordinates":[-98.398243,30.274335],"type":"Point"}
+  "bbox": [
+    -98.398243,
+    30.274335,
+    -98.398243,
+    30.274335
+],
+  "geometry": {"coordinates":[-98.39824299999999,30.274335],"type":"Point"}
 }

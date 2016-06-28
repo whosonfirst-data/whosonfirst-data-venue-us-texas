@@ -2,13 +2,14 @@
   "id": 202505155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507889,31.089873,-97.507889,31.089873",
     "geom:latitude":31.089873,
     "geom:longitude":-97.507889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Sparta Oaks Dr",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202505155,
-    "wof:lastmodified":1449062242,
+    "wof:lastmodified":1467084932,
     "wof:name":"Big Red Drive Inn",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.507889,31.089873,-97.507889,31.089873],
-  "geometry": {"coordinates":[-97.507889,31.089873],"type":"Point"}
+  "bbox": [
+    -97.507889,
+    31.089873,
+    -97.507889,
+    31.089873
+],
+  "geometry": {"coordinates":[-97.50788900000001,31.089873],"type":"Point"}
 }

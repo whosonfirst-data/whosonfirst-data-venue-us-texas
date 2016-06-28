@@ -2,13 +2,14 @@
   "id": 303901467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.972046,35.52594,-100.972046,35.52594",
     "geom:latitude":35.52594,
     "geom:longitude":-100.972046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Wilks St",
     "sg:city":"Pampa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303901467,
-    "wof:lastmodified":1448999147,
+    "wof:lastmodified":1467083742,
     "wof:name":"Clark C Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-100.972046,35.52594,-100.972046,35.52594],
-  "geometry": {"coordinates":[-100.972046,35.52594],"type":"Point"}
+  "bbox": [
+    -100.972046,
+    35.52594,
+    -100.972046,
+    35.52594
+],
+  "geometry": {"coordinates":[-100.97204600000001,35.52594],"type":"Point"}
 }

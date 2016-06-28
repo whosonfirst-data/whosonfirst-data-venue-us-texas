@@ -2,13 +2,14 @@
   "id": 270373829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508499,29.802999,-95.508499,29.802999",
     "geom:latitude":29.802999,
     "geom:longitude":-95.508499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8850 Long Point Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270373829,
-    "wof:lastmodified":1449009902,
+    "wof:lastmodified":1467084191,
     "wof:name":"Spring Branch Medical Center",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.508499,29.802999,-95.508499,29.802999],
+  "bbox": [
+    -95.508499,
+    29.802999,
+    -95.508499,
+    29.802999
+],
   "geometry": {"coordinates":[-95.508499,29.802999],"type":"Point"}
 }

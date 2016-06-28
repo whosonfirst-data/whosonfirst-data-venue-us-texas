@@ -2,13 +2,14 @@
   "id": 236137393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.53848,33.22981,-96.53848,33.22981",
     "geom:latitude":33.22981,
     "geom:longitude":-96.53848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5559 Spur Ln",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236137393,
-    "wof:lastmodified":1449004700,
+    "wof:lastmodified":1467084013,
     "wof:name":"Perrin Electric",
     "wof:parent_id":85834389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-96.53848,33.22981,-96.53848,33.22981],
-  "geometry": {"coordinates":[-96.53848,33.22981],"type":"Point"}
+  "bbox": [
+    -96.53848,
+    33.22981,
+    -96.53848,
+    33.22981
+],
+  "geometry": {"coordinates":[-96.53848000000001,33.22981],"type":"Point"}
 }

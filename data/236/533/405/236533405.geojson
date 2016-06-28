@@ -2,13 +2,14 @@
   "id": 236533405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.485751,30.615195,-95.485751,30.615195",
     "geom:latitude":30.615195,
     "geom:longitude":-95.485751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8148 State Hwy 75",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236533405,
-    "wof:lastmodified":1449001649,
+    "wof:lastmodified":1467083852,
     "wof:name":"Best Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-95.485751,30.615195,-95.485751,30.615195],
-  "geometry": {"coordinates":[-95.485751,30.615195],"type":"Point"}
+  "bbox": [
+    -95.485751,
+    30.615195,
+    -95.485751,
+    30.615195
+],
+  "geometry": {"coordinates":[-95.48575099999999,30.615195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270150529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.414948,29.695083,-95.414948,29.695083",
     "geom:latitude":29.695083,
     "geom:longitude":-95.414948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7747 Kirby Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270150529,
-    "wof:lastmodified":1449008694,
+    "wof:lastmodified":1467084151,
     "wof:name":"Wandering WIFI",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "internet"
     ]
 },
-  "bbox": [-95.414948,29.695083,-95.414948,29.695083],
+  "bbox": [
+    -95.414948,
+    29.695083,
+    -95.414948,
+    29.695083
+],
   "geometry": {"coordinates":[-95.414948,29.695083],"type":"Point"}
 }

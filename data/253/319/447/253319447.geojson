@@ -2,13 +2,14 @@
   "id": 253319447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.825657,32.999326,-96.825657,32.999326",
     "geom:latitude":32.999326,
     "geom:longitude":-96.825657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4727 Frankford Rd Suite 313A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253319447,
-    "wof:lastmodified":1449064034,
+    "wof:lastmodified":1467084987,
     "wof:name":"The Massage Company",
     "wof:parent_id":85897347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.825657,32.999326,-96.825657,32.999326],
-  "geometry": {"coordinates":[-96.825657,32.999326],"type":"Point"}
+  "bbox": [
+    -96.825657,
+    32.999326,
+    -96.825657,
+    32.999326
+],
+  "geometry": {"coordinates":[-96.82565700000001,32.999326],"type":"Point"}
 }

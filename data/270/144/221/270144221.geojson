@@ -2,13 +2,14 @@
   "id": 270144221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.246939,29.773192,-95.246939,29.773192",
     "geom:latitude":29.773192,
     "geom:longitude":-95.246939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10304 East Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270144221,
-    "wof:lastmodified":1449010450,
+    "wof:lastmodified":1467084210,
     "wof:name":"Surgery Specialty Hospital",
     "wof:parent_id":85869737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.246939,29.773192,-95.246939,29.773192],
+  "bbox": [
+    -95.246939,
+    29.773192,
+    -95.246939,
+    29.773192
+],
   "geometry": {"coordinates":[-95.246939,29.773192],"type":"Point"}
 }

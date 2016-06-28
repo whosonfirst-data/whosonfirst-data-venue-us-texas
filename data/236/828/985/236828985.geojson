@@ -2,13 +2,14 @@
   "id": 236828985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556131,33.666151,-95.556131,33.666151",
     "geom:latitude":33.666151,
     "geom:longitude":-95.556131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236828985,
-    "wof:lastmodified":1449003300,
+    "wof:lastmodified":1467083947,
     "wof:name":"Kiddie Korner",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.556131,33.666151,-95.556131,33.666151],
-  "geometry": {"coordinates":[-95.556131,33.666151],"type":"Point"}
+  "bbox": [
+    -95.556131,
+    33.666151,
+    -95.556131,
+    33.666151
+],
+  "geometry": {"coordinates":[-95.55613099999999,33.666151],"type":"Point"}
 }

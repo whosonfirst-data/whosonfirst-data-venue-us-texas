@@ -2,13 +2,14 @@
   "id": 185822979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.544311,29.482716,-98.544311,29.482716",
     "geom:latitude":29.482716,
     "geom:longitude":-98.544311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185822979,
-    "wof:lastmodified":1449008140,
+    "wof:lastmodified":1467084138,
     "wof:name":"Laundry Source",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.544311,29.482716,-98.544311,29.482716],
-  "geometry": {"coordinates":[-98.544311,29.482716],"type":"Point"}
+  "bbox": [
+    -98.544311,
+    29.482716,
+    -98.544311,
+    29.482716
+],
+  "geometry": {"coordinates":[-98.54431099999999,29.482716],"type":"Point"}
 }

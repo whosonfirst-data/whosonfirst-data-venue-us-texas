@@ -2,13 +2,14 @@
   "id": 270016357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.430958,29.820695,-95.430958,29.820695",
     "geom:latitude":29.820695,
     "geom:longitude":-95.430958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 Judiway St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270016357,
-    "wof:lastmodified":1449009067,
+    "wof:lastmodified":1467084164,
     "wof:name":"Solid Waste Management",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "waste"
     ]
 },
-  "bbox": [-95.430958,29.820695,-95.430958,29.820695],
+  "bbox": [
+    -95.430958,
+    29.820695,
+    -95.430958,
+    29.820695
+],
   "geometry": {"coordinates":[-95.430958,29.820695],"type":"Point"}
 }

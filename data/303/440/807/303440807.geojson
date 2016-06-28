@@ -2,13 +2,14 @@
   "id": 303440807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.775118,30.441115,-97.775118,30.441115",
     "geom:latitude":30.441115,
     "geom:longitude":-97.775118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12220 Hunters Chase Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303440807,
-    "wof:lastmodified":1448998985,
+    "wof:lastmodified":1467083735,
     "wof:name":"Dakota Springs Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.775118,30.441115,-97.775118,30.441115],
-  "geometry": {"coordinates":[-97.775118,30.441115],"type":"Point"}
+  "bbox": [
+    -97.775118,
+    30.441115,
+    -97.775118,
+    30.441115
+],
+  "geometry": {"coordinates":[-97.77511800000001,30.441115],"type":"Point"}
 }

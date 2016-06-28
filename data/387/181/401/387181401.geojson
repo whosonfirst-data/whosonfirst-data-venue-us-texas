@@ -2,13 +2,14 @@
   "id": 387181401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.127259,31.695447,-98.127259,31.695447",
     "geom:latitude":31.695447,
     "geom:longitude":-98.127259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 US Hwy 281",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387181401,
-    "wof:lastmodified":1449058438,
+    "wof:lastmodified":1467084844,
     "wof:name":"Whaley Deer Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-98.127259,31.695447,-98.127259,31.695447],
+  "bbox": [
+    -98.127259,
+    31.695447,
+    -98.127259,
+    31.695447
+],
   "geometry": {"coordinates":[-98.127259,31.695447],"type":"Point"}
 }

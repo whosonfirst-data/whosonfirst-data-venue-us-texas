@@ -2,13 +2,14 @@
   "id": 353741479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.669407,30.423679,-97.669407,30.423679",
     "geom:latitude":30.423679,
     "geom:longitude":-97.669407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 W Howard Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353741479,
-    "wof:lastmodified":1449018383,
+    "wof:lastmodified":1467084324,
     "wof:name":"Central Transport Intl",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.669407,30.423679,-97.669407,30.423679],
-  "geometry": {"coordinates":[-97.669407,30.423679],"type":"Point"}
+  "bbox": [
+    -97.669407,
+    30.423679,
+    -97.669407,
+    30.423679
+],
+  "geometry": {"coordinates":[-97.66940700000001,30.423679],"type":"Point"}
 }

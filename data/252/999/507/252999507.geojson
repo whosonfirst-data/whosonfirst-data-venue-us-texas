@@ -2,13 +2,14 @@
   "id": 252999507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.097749,29.997549,-98.097749,29.997549",
     "geom:latitude":29.997549,
     "geom:longitude":-98.097749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Mill Race Ln",
     "sg:city":"Wimberley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252999507,
-    "wof:lastmodified":1449006383,
+    "wof:lastmodified":1467084101,
     "wof:name":"Mail Stop",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-98.097749,29.997549,-98.097749,29.997549],
-  "geometry": {"coordinates":[-98.097749,29.997549],"type":"Point"}
+  "bbox": [
+    -98.097749,
+    29.997549,
+    -98.097749,
+    29.997549
+],
+  "geometry": {"coordinates":[-98.09774899999999,29.997549],"type":"Point"}
 }

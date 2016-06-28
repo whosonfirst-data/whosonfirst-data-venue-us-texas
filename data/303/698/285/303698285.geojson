@@ -2,13 +2,14 @@
   "id": 303698285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719954,30.314152,-97.719954,30.314152",
     "geom:latitude":30.314152,
     "geom:longitude":-97.719954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E 51st Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303698285,
-    "wof:lastmodified":1449000415,
+    "wof:lastmodified":1467083805,
     "wof:name":"Snappy Mart",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.719954,30.314152,-97.719954,30.314152],
+  "bbox": [
+    -97.719954,
+    30.314152,
+    -97.719954,
+    30.314152
+],
   "geometry": {"coordinates":[-97.719954,30.314152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303244033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737759,30.266962,-97.737759,30.266962",
     "geom:latitude":30.266962,
     "geom:longitude":-97.737759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 E 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303244033,
-    "wof:lastmodified":1448999093,
+    "wof:lastmodified":1467083740,
     "wof:name":"Galaxy Room",
     "wof:parent_id":85869867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-97.737759,30.266962,-97.737759,30.266962],
+  "bbox": [
+    -97.737759,
+    30.266962,
+    -97.737759,
+    30.266962
+],
   "geometry": {"coordinates":[-97.737759,30.266962],"type":"Point"}
 }

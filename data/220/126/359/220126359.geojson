@@ -2,13 +2,14 @@
   "id": 220126359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.530549,29.396256,-98.530549,29.396256",
     "geom:latitude":29.396256,
     "geom:longitude":-98.530549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Taft Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220126359,
-    "wof:lastmodified":1449074327,
+    "wof:lastmodified":1467085183,
     "wof:name":"H 2 Property Investments",
     "wof:parent_id":85841513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.530549,29.396256,-98.530549,29.396256],
-  "geometry": {"coordinates":[-98.530549,29.396256],"type":"Point"}
+  "bbox": [
+    -98.530549,
+    29.396256,
+    -98.530549,
+    29.396256
+],
+  "geometry": {"coordinates":[-98.53054899999999,29.396256],"type":"Point"}
 }

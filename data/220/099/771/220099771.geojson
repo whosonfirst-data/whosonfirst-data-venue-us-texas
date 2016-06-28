@@ -2,13 +2,14 @@
   "id": 220099771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.884311,32.656887,-96.884311,32.656887",
     "geom:latitude":32.656887,
     "geom:longitude":-96.884311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 S Westmoreland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220099771,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1467085189,
     "wof:name":"Way Ministries",
     "wof:parent_id":85858735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.884311,32.656887,-96.884311,32.656887],
+  "bbox": [
+    -96.884311,
+    32.656887,
+    -96.884311,
+    32.656887
+],
   "geometry": {"coordinates":[-96.884311,32.656887],"type":"Point"}
 }

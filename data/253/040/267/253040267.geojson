@@ -2,13 +2,14 @@
   "id": 253040267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.897926,32.927959,-96.897926,32.927959",
     "geom:latitude":32.927959,
     "geom:longitude":-96.897926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13500 Mcclintock St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253040267,
-    "wof:lastmodified":1449065716,
+    "wof:lastmodified":1467085044,
     "wof:name":"A-1 Welding",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-96.897926,32.927959,-96.897926,32.927959],
+  "bbox": [
+    -96.897926,
+    32.927959,
+    -96.897926,
+    32.927959
+],
   "geometry": {"coordinates":[-96.897926,32.927959],"type":"Point"}
 }

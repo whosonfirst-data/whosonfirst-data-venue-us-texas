@@ -2,13 +2,14 @@
   "id": 253326209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.831629,32.989552,-96.831629,32.989552",
     "geom:latitude":32.989552,
     "geom:longitude":-96.831629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 Trinity Mills Rd #100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253326209,
-    "wof:lastmodified":1449064085,
+    "wof:lastmodified":1467084988,
     "wof:name":"Malarkey's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.831629,32.989552,-96.831629,32.989552],
-  "geometry": {"coordinates":[-96.831629,32.989552],"type":"Point"}
+  "bbox": [
+    -96.831629,
+    32.989552,
+    -96.831629,
+    32.989552
+],
+  "geometry": {"coordinates":[-96.83162900000001,32.989552],"type":"Point"}
 }

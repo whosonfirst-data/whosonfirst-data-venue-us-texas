@@ -2,13 +2,14 @@
   "id": 303420551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76027,30.432842,-97.76027,30.432842",
     "geom:latitude":30.432842,
     "geom:longitude":-97.76027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12201 Technology Blvd Ste 110",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303420551,
-    "wof:lastmodified":1448999289,
+    "wof:lastmodified":1467083750,
     "wof:name":"Krispy Kreme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.76027,30.432842,-97.76027,30.432842],
-  "geometry": {"coordinates":[-97.76027,30.432842],"type":"Point"}
+  "bbox": [
+    -97.76027,
+    30.432842,
+    -97.76027,
+    30.432842
+],
+  "geometry": {"coordinates":[-97.76027000000001,30.432842],"type":"Point"}
 }

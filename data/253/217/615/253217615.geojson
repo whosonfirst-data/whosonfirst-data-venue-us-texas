@@ -2,13 +2,14 @@
   "id": 253217615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.165293,29.70191,-95.165293,29.70191",
     "geom:latitude":29.70191,
     "geom:longitude":-95.165293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 Edmonton Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253217615,
-    "wof:lastmodified":1449065615,
+    "wof:lastmodified":1467085041,
     "wof:name":"GM Express Transportation",
     "wof:parent_id":85879753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.165293,29.70191,-95.165293,29.70191],
-  "geometry": {"coordinates":[-95.165293,29.70191],"type":"Point"}
+  "bbox": [
+    -95.165293,
+    29.70191,
+    -95.165293,
+    29.70191
+],
+  "geometry": {"coordinates":[-95.16529300000001,29.70191],"type":"Point"}
 }

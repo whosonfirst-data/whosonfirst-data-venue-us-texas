@@ -2,13 +2,14 @@
   "id": 202720467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51005,29.642339,-95.51005,29.642339",
     "geom:latitude":29.642339,
     "geom:longitude":-95.51005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7607 Secretariat Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202720467,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1467084901,
     "wof:name":"Lasherif Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.51005,29.642339,-95.51005,29.642339],
-  "geometry": {"coordinates":[-95.51005,29.642339],"type":"Point"}
+  "bbox": [
+    -95.51005,
+    29.642339,
+    -95.51005,
+    29.642339
+],
+  "geometry": {"coordinates":[-95.51005000000001,29.642339],"type":"Point"}
 }

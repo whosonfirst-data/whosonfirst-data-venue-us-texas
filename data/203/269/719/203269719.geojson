@@ -2,13 +2,14 @@
   "id": 203269719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500968,29.72219,-95.500968,29.72219",
     "geom:latitude":29.72219,
     "geom:longitude":-95.500968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5645 Hillcroft St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203269719,
-    "wof:lastmodified":1449026147,
+    "wof:lastmodified":1467084407,
     "wof:name":"Artist House Publishing",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-95.500968,29.72219,-95.500968,29.72219],
+  "bbox": [
+    -95.500968,
+    29.72219,
+    -95.500968,
+    29.72219
+],
   "geometry": {"coordinates":[-95.500968,29.72219],"type":"Point"}
 }

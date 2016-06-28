@@ -2,13 +2,14 @@
   "id": 303511573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.943179,30.382584,-97.943179,30.382584",
     "geom:latitude":30.382584,
     "geom:longitude":-97.943179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Ranch Road 620 N",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303511573,
-    "wof:lastmodified":1448999248,
+    "wof:lastmodified":1467083748,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dog"
     ]
 },
-  "bbox": [-97.943179,30.382584,-97.943179,30.382584],
+  "bbox": [
+    -97.943179,
+    30.382584,
+    -97.943179,
+    30.382584
+],
   "geometry": {"coordinates":[-97.943179,30.382584],"type":"Point"}
 }

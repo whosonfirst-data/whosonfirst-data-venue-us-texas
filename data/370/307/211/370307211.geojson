@@ -2,13 +2,14 @@
   "id": 370307211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.90515,32.751574,-99.90515,32.751574",
     "geom:latitude":32.751574,
     "geom:longitude":-99.90515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 17th St",
     "sg:city":"Anson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370307211,
-    "wof:lastmodified":1449029970,
+    "wof:lastmodified":1467084491,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-99.90515,32.751574,-99.90515,32.751574],
-  "geometry": {"coordinates":[-99.90515,32.751574],"type":"Point"}
+  "bbox": [
+    -99.90515,
+    32.751574,
+    -99.90515,
+    32.751574
+],
+  "geometry": {"coordinates":[-99.90515000000001,32.751574],"type":"Point"}
 }

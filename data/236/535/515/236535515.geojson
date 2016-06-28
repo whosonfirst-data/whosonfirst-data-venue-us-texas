@@ -2,13 +2,14 @@
   "id": 236535515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795139,32.838793,-96.795139,32.838793",
     "geom:latitude":32.838793,
     "geom:longitude":-96.795139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3729 Normandy Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236535515,
-    "wof:lastmodified":1449002124,
+    "wof:lastmodified":1467083887,
     "wof:name":"Hoglund Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "management"
     ]
 },
-  "bbox": [-96.795139,32.838793,-96.795139,32.838793],
-  "geometry": {"coordinates":[-96.795139,32.838793],"type":"Point"}
+  "bbox": [
+    -96.795139,
+    32.838793,
+    -96.795139,
+    32.838793
+],
+  "geometry": {"coordinates":[-96.79513900000001,32.838793],"type":"Point"}
 }

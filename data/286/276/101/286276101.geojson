@@ -2,13 +2,14 @@
   "id": 286276101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.384331,29.849463,-95.384331,29.849463",
     "geom:latitude":29.849463,
     "geom:longitude":-95.384331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Airline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286276101,
-    "wof:lastmodified":1449015269,
+    "wof:lastmodified":1467084239,
     "wof:name":"Pavillion Royale",
     "wof:parent_id":85869551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-95.384331,29.849463,-95.384331,29.849463],
+  "bbox": [
+    -95.384331,
+    29.849463,
+    -95.384331,
+    29.849463
+],
   "geometry": {"coordinates":[-95.384331,29.849463],"type":"Point"}
 }

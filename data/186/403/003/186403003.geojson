@@ -2,13 +2,14 @@
   "id": 186403003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526783,29.546471,-98.526783,29.546471",
     "geom:latitude":29.546471,
     "geom:longitude":-98.526783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11711 Braesview",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186403003,
-    "wof:lastmodified":1449052646,
+    "wof:lastmodified":1467084739,
     "wof:name":"Honey Creek Apartments",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-98.526783,29.546471,-98.526783,29.546471],
-  "geometry": {"coordinates":[-98.526783,29.546471],"type":"Point"}
+  "bbox": [
+    -98.526783,
+    29.546471,
+    -98.526783,
+    29.546471
+],
+  "geometry": {"coordinates":[-98.52678299999999,29.546471],"type":"Point"}
 }

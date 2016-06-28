@@ -2,13 +2,14 @@
   "id": 203304499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.779717,30.255053,-97.779717,30.255053",
     "geom:latitude":30.255053,
     "geom:longitude":-97.779717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Westridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203304499,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1467084411,
     "wof:name":"Quickgifts",
     "wof:parent_id":85869925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-97.779717,30.255053,-97.779717,30.255053],
-  "geometry": {"coordinates":[-97.779717,30.255053],"type":"Point"}
+  "bbox": [
+    -97.779717,
+    30.255053,
+    -97.779717,
+    30.255053
+],
+  "geometry": {"coordinates":[-97.77971700000001,30.255053],"type":"Point"}
 }

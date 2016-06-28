@@ -2,13 +2,14 @@
   "id": 270375663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51833,29.785217,-95.51833,29.785217",
     "geom:latitude":29.785217,
     "geom:longitude":-95.51833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Bade St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270375663,
-    "wof:lastmodified":1449008759,
+    "wof:lastmodified":1467084153,
     "wof:name":"Marriott ExecuStay",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.51833,29.785217,-95.51833,29.785217],
-  "geometry": {"coordinates":[-95.51833,29.785217],"type":"Point"}
+  "bbox": [
+    -95.51833,
+    29.785217,
+    -95.51833,
+    29.785217
+],
+  "geometry": {"coordinates":[-95.51833000000001,29.785217],"type":"Point"}
 }

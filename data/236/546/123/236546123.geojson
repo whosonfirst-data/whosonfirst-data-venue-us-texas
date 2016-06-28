@@ -2,13 +2,14 @@
   "id": 236546123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.837625,33.018162,-96.837625,33.018162",
     "geom:latitude":33.018162,
     "geom:longitude":-96.837625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 International Pkwy Ste 1000",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236546123,
-    "wof:lastmodified":1449001671,
+    "wof:lastmodified":1467083854,
     "wof:name":"Gnet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "systems-repair"
     ]
 },
-  "bbox": [-96.837625,33.018162,-96.837625,33.018162],
+  "bbox": [
+    -96.837625,
+    33.018162,
+    -96.837625,
+    33.018162
+],
   "geometry": {"coordinates":[-96.837625,33.018162],"type":"Point"}
 }

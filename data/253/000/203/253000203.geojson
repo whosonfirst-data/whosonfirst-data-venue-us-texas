@@ -2,13 +2,14 @@
   "id": 253000203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.68565,34.208735,-101.68565,34.208735",
     "geom:latitude":34.208735,
     "geom:longitude":-101.68565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 Lancaster St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253000203,
-    "wof:lastmodified":1449063289,
+    "wof:lastmodified":1467084961,
     "wof:name":"All My Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.68565,34.208735,-101.68565,34.208735],
+  "bbox": [
+    -101.68565,
+    34.208735,
+    -101.68565,
+    34.208735
+],
   "geometry": {"coordinates":[-101.68565,34.208735],"type":"Point"}
 }

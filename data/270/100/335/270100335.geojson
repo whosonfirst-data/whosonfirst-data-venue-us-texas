@@ -2,13 +2,14 @@
   "id": 270100335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.326703,29.747948,-95.326703,29.747948",
     "geom:latitude":29.747948,
     "geom:longitude":-95.326703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4914 1/2 Lockwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270100335,
-    "wof:lastmodified":1449010455,
+    "wof:lastmodified":1467084210,
     "wof:name":"Space Liquor",
     "wof:parent_id":85869647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.326703,29.747948,-95.326703,29.747948],
-  "geometry": {"coordinates":[-95.326703,29.747948],"type":"Point"}
+  "bbox": [
+    -95.326703,
+    29.747948,
+    -95.326703,
+    29.747948
+],
+  "geometry": {"coordinates":[-95.32670299999999,29.747948],"type":"Point"}
 }

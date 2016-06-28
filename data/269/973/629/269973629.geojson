@@ -2,13 +2,14 @@
   "id": 269973629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.311163,29.738843,-95.311163,29.738843",
     "geom:latitude":29.738843,
     "geom:longitude":-95.311163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6503 Harrisburg Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269973629,
-    "wof:lastmodified":1449037591,
+    "wof:lastmodified":1467084612,
     "wof:name":"Popeyes Famous Fried Chicken",
     "wof:parent_id":85893757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.311163,29.738843,-95.311163,29.738843],
-  "geometry": {"coordinates":[-95.311163,29.738843],"type":"Point"}
+  "bbox": [
+    -95.311163,
+    29.738843,
+    -95.311163,
+    29.738843
+],
+  "geometry": {"coordinates":[-95.31116299999999,29.738843],"type":"Point"}
 }

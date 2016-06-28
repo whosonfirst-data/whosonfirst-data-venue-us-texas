@@ -2,13 +2,14 @@
   "id": 253232003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.967306,30.134947,-97.967306,30.134947",
     "geom:latitude":30.134947,
     "geom:longitude":-97.967306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7916 Forest View Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253232003,
-    "wof:lastmodified":1449063781,
+    "wof:lastmodified":1467084978,
     "wof:name":"Torix Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-97.967306,30.134947,-97.967306,30.134947],
-  "geometry": {"coordinates":[-97.967306,30.134947],"type":"Point"}
+  "bbox": [
+    -97.967306,
+    30.134947,
+    -97.967306,
+    30.134947
+],
+  "geometry": {"coordinates":[-97.96730599999999,30.134947],"type":"Point"}
 }

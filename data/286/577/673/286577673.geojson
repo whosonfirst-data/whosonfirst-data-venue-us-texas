@@ -2,13 +2,14 @@
   "id": 286577673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.470551,30.12623,-95.470551,30.12623",
     "geom:latitude":30.12623,
     "geom:longitude":-95.470551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Sawdust Rd Suite A",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286577673,
-    "wof:lastmodified":1449018178,
+    "wof:lastmodified":1467084319,
     "wof:name":"The Woodlands Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.470551,30.12623,-95.470551,30.12623],
+  "bbox": [
+    -95.470551,
+    30.12623,
+    -95.470551,
+    30.12623
+],
   "geometry": {"coordinates":[-95.470551,30.12623],"type":"Point"}
 }

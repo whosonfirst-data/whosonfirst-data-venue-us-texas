@@ -2,13 +2,14 @@
   "id": 387889019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.446007,29.625012,-95.446007,29.625012",
     "geom:latitude":29.625012,
     "geom:longitude":-95.446007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14125 Hiram Clarke Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387889019,
-    "wof:lastmodified":1449056043,
+    "wof:lastmodified":1467084782,
     "wof:name":"B E Henson & Assoc Real Estate",
     "wof:parent_id":85869167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.446007,29.625012,-95.446007,29.625012],
-  "geometry": {"coordinates":[-95.446007,29.625012],"type":"Point"}
+  "bbox": [
+    -95.446007,
+    29.625012,
+    -95.446007,
+    29.625012
+],
+  "geometry": {"coordinates":[-95.44600699999999,29.625012],"type":"Point"}
 }

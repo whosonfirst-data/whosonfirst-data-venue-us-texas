@@ -2,13 +2,14 @@
   "id": 370421907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551345,30.725158,-95.551345,30.725158",
     "geom:latitude":30.725158,
     "geom:longitude":-95.551345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 10th St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370421907,
-    "wof:lastmodified":1449031225,
+    "wof:lastmodified":1467084523,
     "wof:name":"Telecom Net",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-95.551345,30.725158,-95.551345,30.725158],
+  "bbox": [
+    -95.551345,
+    30.725158,
+    -95.551345,
+    30.725158
+],
   "geometry": {"coordinates":[-95.551345,30.725158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303047341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405611,30.010568,-97.405611,30.010568",
     "geom:latitude":30.010568,
     "geom:longitude":-97.405611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1394 Lower Red Rock Rd",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303047341,
-    "wof:lastmodified":1448999697,
+    "wof:lastmodified":1467083771,
     "wof:name":"Little Spoon Vending Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.405611,30.010568,-97.405611,30.010568],
-  "geometry": {"coordinates":[-97.405611,30.010568],"type":"Point"}
+  "bbox": [
+    -97.405611,
+    30.010568,
+    -97.405611,
+    30.010568
+],
+  "geometry": {"coordinates":[-97.40561099999999,30.010568],"type":"Point"}
 }

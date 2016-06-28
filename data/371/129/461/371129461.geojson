@@ -2,13 +2,14 @@
   "id": 371129461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.766785,29.802069,-95.766785,29.802069",
     "geom:latitude":29.802069,
     "geom:longitude":-95.766785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22855 Franz Rd",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371129461,
-    "wof:lastmodified":1449049886,
+    "wof:lastmodified":1467084686,
     "wof:name":"KATY Fire Dept",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.766785,29.802069,-95.766785,29.802069],
+  "bbox": [
+    -95.766785,
+    29.802069,
+    -95.766785,
+    29.802069
+],
   "geometry": {"coordinates":[-95.766785,29.802069],"type":"Point"}
 }

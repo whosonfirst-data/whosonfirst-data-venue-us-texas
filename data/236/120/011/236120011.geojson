@@ -2,13 +2,14 @@
   "id": 236120011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86866,33.031559,-96.86866,33.031559",
     "geom:latitude":33.031559,
     "geom:longitude":-96.86866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Arbor Creek Dr",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":236120011,
-    "wof:lastmodified":1449004676,
+    "wof:lastmodified":1467084012,
     "wof:name":"Cuddigan Group Insurance",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "boat"
     ]
 },
-  "bbox": [-96.86866,33.031559,-96.86866,33.031559],
-  "geometry": {"coordinates":[-96.86866,33.031559],"type":"Point"}
+  "bbox": [
+    -96.86866,
+    33.031559,
+    -96.86866,
+    33.031559
+],
+  "geometry": {"coordinates":[-96.86866000000001,33.031559],"type":"Point"}
 }

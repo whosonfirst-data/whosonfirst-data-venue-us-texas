@@ -2,13 +2,14 @@
   "id": 219207101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649545,32.937275,-96.649545,32.937275",
     "geom:latitude":32.937275,
     "geom:longitude":-96.649545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Guildford St",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219207101,
-    "wof:lastmodified":1449072864,
+    "wof:lastmodified":1467085152,
     "wof:name":"Midnight Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.649545,32.937275,-96.649545,32.937275],
+  "bbox": [
+    -96.649545,
+    32.937275,
+    -96.649545,
+    32.937275
+],
   "geometry": {"coordinates":[-96.649545,32.937275],"type":"Point"}
 }

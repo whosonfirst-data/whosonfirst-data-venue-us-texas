@@ -2,13 +2,14 @@
   "id": 353720843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507483,29.580849,-98.507483,29.580849",
     "geom:latitude":29.580849,
     "geom:longitude":-98.507483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 W Bitters Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353720843,
-    "wof:lastmodified":1449018861,
+    "wof:lastmodified":1467084334,
     "wof:name":"Gordon Hartman Enterprises Inc",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "builder"
     ]
 },
-  "bbox": [-98.507483,29.580849,-98.507483,29.580849],
-  "geometry": {"coordinates":[-98.507483,29.580849],"type":"Point"}
+  "bbox": [
+    -98.507483,
+    29.580849,
+    -98.507483,
+    29.580849
+],
+  "geometry": {"coordinates":[-98.50748299999999,29.580849],"type":"Point"}
 }

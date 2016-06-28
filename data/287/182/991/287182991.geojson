@@ -2,13 +2,14 @@
   "id": 287182991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.296275,29.591499,-98.296275,29.591499",
     "geom:latitude":29.591499,
     "geom:longitude":-98.296275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16850 Alamo Pkwy",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":287182991,
-    "wof:lastmodified":1449001241,
+    "wof:lastmodified":1467083837,
     "wof:name":"Alamo Crane Service",
     "wof:parent_id":85831723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "cranes-renting"
     ]
 },
-  "bbox": [-98.296275,29.591499,-98.296275,29.591499],
-  "geometry": {"coordinates":[-98.296275,29.591499],"type":"Point"}
+  "bbox": [
+    -98.296275,
+    29.591499,
+    -98.296275,
+    29.591499
+],
+  "geometry": {"coordinates":[-98.29627499999999,29.591499],"type":"Point"}
 }

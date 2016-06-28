@@ -2,13 +2,14 @@
   "id": 303989241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.823479,33.616257,-101.823479,33.616257",
     "geom:latitude":33.616257,
     "geom:longitude":-101.823479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 NE Loop 289",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303989241,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1467083781,
     "wof:name":"Vermeer Sales & Service",
     "wof:parent_id":85878773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractors'"
     ]
 },
-  "bbox": [-101.823479,33.616257,-101.823479,33.616257],
-  "geometry": {"coordinates":[-101.823479,33.616257],"type":"Point"}
+  "bbox": [
+    -101.823479,
+    33.616257,
+    -101.823479,
+    33.616257
+],
+  "geometry": {"coordinates":[-101.82347900000001,33.616257],"type":"Point"}
 }

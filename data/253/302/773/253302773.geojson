@@ -2,13 +2,14 @@
   "id": 253302773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.843562,33.01887,-96.843562,33.01887",
     "geom:latitude":33.01887,
     "geom:longitude":-96.843562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2337 S International Pkwy DFW Airport",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253302773,
-    "wof:lastmodified":1449063817,
+    "wof:lastmodified":1467084979,
     "wof:name":"Grand Hyatt DFW",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.843562,33.01887,-96.843562,33.01887],
-  "geometry": {"coordinates":[-96.843562,33.01887],"type":"Point"}
+  "bbox": [
+    -96.843562,
+    33.01887,
+    -96.843562,
+    33.01887
+],
+  "geometry": {"coordinates":[-96.84356200000001,33.01887],"type":"Point"}
 }

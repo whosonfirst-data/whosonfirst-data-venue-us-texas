@@ -2,13 +2,14 @@
   "id": 387159423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.44159,30.390581,-95.44159,30.390581",
     "geom:latitude":30.390581,
     "geom:longitude":-95.44159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10301 Farrell Rd",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387159423,
-    "wof:lastmodified":1449056566,
+    "wof:lastmodified":1467084796,
     "wof:name":"Apache Welding Inc",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-95.44159,30.390581,-95.44159,30.390581],
-  "geometry": {"coordinates":[-95.44159,30.390581],"type":"Point"}
+  "bbox": [
+    -95.44159,
+    30.390581,
+    -95.44159,
+    30.390581
+],
+  "geometry": {"coordinates":[-95.44159000000001,30.390581],"type":"Point"}
 }

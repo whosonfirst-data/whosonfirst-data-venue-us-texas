@@ -2,13 +2,14 @@
   "id": 219303085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727083,32.97537,-96.727083,32.97537",
     "geom:latitude":32.97537,
     "geom:longitude":-96.727083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 W Campbell Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219303085,
-    "wof:lastmodified":1449070407,
+    "wof:lastmodified":1467085100,
     "wof:name":"White Gary W MD",
     "wof:parent_id":85880199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-96.727083,32.97537,-96.727083,32.97537],
-  "geometry": {"coordinates":[-96.727083,32.97537],"type":"Point"}
+  "bbox": [
+    -96.727083,
+    32.97537,
+    -96.727083,
+    32.97537
+],
+  "geometry": {"coordinates":[-96.72708299999999,32.97537],"type":"Point"}
 }

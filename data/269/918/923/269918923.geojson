@@ -2,13 +2,14 @@
   "id": 269918923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.407111,29.770785,-95.407111,29.770785",
     "geom:latitude":29.770785,
     "geom:longitude":-95.407111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Washington Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":269918923,
-    "wof:lastmodified":1449037743,
+    "wof:lastmodified":1467084616,
     "wof:name":"Bronx Bar",
     "wof:parent_id":85869475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-95.407111,29.770785,-95.407111,29.770785],
+  "bbox": [
+    -95.407111,
+    29.770785,
+    -95.407111,
+    29.770785
+],
   "geometry": {"coordinates":[-95.407111,29.770785],"type":"Point"}
 }

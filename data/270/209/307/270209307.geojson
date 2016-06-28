@@ -2,13 +2,14 @@
   "id": 270209307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508042,29.64123,-95.508042,29.64123",
     "geom:latitude":29.64123,
     "geom:longitude":-95.508042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12521 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270209307,
-    "wof:lastmodified":1449010829,
+    "wof:lastmodified":1467084222,
     "wof:name":"El Salvador Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veggie"
     ]
 },
-  "bbox": [-95.508042,29.64123,-95.508042,29.64123],
+  "bbox": [
+    -95.508042,
+    29.64123,
+    -95.508042,
+    29.64123
+],
   "geometry": {"coordinates":[-95.508042,29.64123],"type":"Point"}
 }

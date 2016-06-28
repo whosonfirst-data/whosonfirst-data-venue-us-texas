@@ -2,13 +2,14 @@
   "id": 185935227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141848,33.196321,-97.141848,33.196321",
     "geom:latitude":33.196321,
     "geom:longitude":-97.141848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Bernard St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185935227,
-    "wof:lastmodified":1449007944,
+    "wof:lastmodified":1467084135,
     "wof:name":"Shop & Save",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.141848,33.196321,-97.141848,33.196321],
+  "bbox": [
+    -97.141848,
+    33.196321,
+    -97.141848,
+    33.196321
+],
   "geometry": {"coordinates":[-97.141848,33.196321],"type":"Point"}
 }

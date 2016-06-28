@@ -2,13 +2,14 @@
   "id": 253509603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348538,32.235803,-95.348538,32.235803",
     "geom:latitude":32.235803,
     "geom:longitude":-95.348538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16772 Fm 2493",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253509603,
-    "wof:lastmodified":1449062946,
+    "wof:lastmodified":1467084950,
     "wof:name":"WhatABurger",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dog"
     ]
 },
-  "bbox": [-95.348538,32.235803,-95.348538,32.235803],
+  "bbox": [
+    -95.348538,
+    32.235803,
+    -95.348538,
+    32.235803
+],
   "geometry": {"coordinates":[-95.348538,32.235803],"type":"Point"}
 }

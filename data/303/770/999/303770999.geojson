@@ -2,13 +2,14 @@
   "id": 303770999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727629,30.368372,-97.727629,30.368372",
     "geom:latitude":30.368372,
     "geom:longitude":-97.727629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 Burnet Rd Ste 132",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303770999,
-    "wof:lastmodified":1449000615,
+    "wof:lastmodified":1467083815,
     "wof:name":"Violins Etc",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "instruments-supplies"
     ]
 },
-  "bbox": [-97.727629,30.368372,-97.727629,30.368372],
-  "geometry": {"coordinates":[-97.727629,30.368372],"type":"Point"}
+  "bbox": [
+    -97.727629,
+    30.368372,
+    -97.727629,
+    30.368372
+],
+  "geometry": {"coordinates":[-97.72762899999999,30.368372],"type":"Point"}
 }

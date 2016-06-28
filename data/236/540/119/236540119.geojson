@@ -2,13 +2,14 @@
   "id": 236540119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.613881,33.681196,-96.613881,33.681196",
     "geom:latitude":33.681196,
     "geom:longitude":-96.613881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Northcreek Dr",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":236540119,
-    "wof:lastmodified":1449002856,
+    "wof:lastmodified":1467083926,
     "wof:name":"Home Depot - Free Roofing Estimate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "consultant"
     ]
 },
-  "bbox": [-96.613881,33.681196,-96.613881,33.681196],
-  "geometry": {"coordinates":[-96.613881,33.681196],"type":"Point"}
+  "bbox": [
+    -96.613881,
+    33.681196,
+    -96.613881,
+    33.681196
+],
+  "geometry": {"coordinates":[-96.61388100000001,33.681196],"type":"Point"}
 }

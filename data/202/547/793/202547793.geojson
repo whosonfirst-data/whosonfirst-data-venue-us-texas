@@ -2,13 +2,14 @@
   "id": 202547793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.763021,30.434636,-97.763021,30.434636",
     "geom:latitude":30.434636,
     "geom:longitude":-97.763021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 Jekel Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202547793,
-    "wof:lastmodified":1449060374,
+    "wof:lastmodified":1467084893,
     "wof:name":"Kuts & Kleans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.763021,30.434636,-97.763021,30.434636],
-  "geometry": {"coordinates":[-97.763021,30.434636],"type":"Point"}
+  "bbox": [
+    -97.763021,
+    30.434636,
+    -97.763021,
+    30.434636
+],
+  "geometry": {"coordinates":[-97.76302099999999,30.434636],"type":"Point"}
 }

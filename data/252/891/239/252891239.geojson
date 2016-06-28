@@ -2,13 +2,14 @@
   "id": 252891239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772464,32.787137,-96.772464,32.787137",
     "geom:latitude":32.787137,
     "geom:longitude":-96.772464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3933 Main Street",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252891239,
-    "wof:lastmodified":1449006087,
+    "wof:lastmodified":1467084085,
     "wof:name":"Mac's Barbecue",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-96.772464,32.787137,-96.772464,32.787137],
+  "bbox": [
+    -96.772464,
+    32.787137,
+    -96.772464,
+    32.787137
+],
   "geometry": {"coordinates":[-96.772464,32.787137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303747467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67221,30.33976,-97.67221,30.33976",
     "geom:latitude":30.33976,
     "geom:longitude":-97.67221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 Wall St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303747467,
-    "wof:lastmodified":1448998564,
+    "wof:lastmodified":1467083713,
     "wof:name":"Beehive Promotional Advertising & Fulfillment",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "advertising-promotional"
     ]
 },
-  "bbox": [-97.67221,30.33976,-97.67221,30.33976],
-  "geometry": {"coordinates":[-97.67221,30.33976],"type":"Point"}
+  "bbox": [
+    -97.67221,
+    30.33976,
+    -97.67221,
+    30.33976
+],
+  "geometry": {"coordinates":[-97.67221000000001,30.33976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303813285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.780225,30.445883,-97.780225,30.445883",
     "geom:latitude":30.445883,
     "geom:longitude":-97.780225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12307 Roxie Dr Ste 108",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303813285,
-    "wof:lastmodified":1448998741,
+    "wof:lastmodified":1467083722,
     "wof:name":"King of the Ding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.780225,30.445883,-97.780225,30.445883],
+  "bbox": [
+    -97.780225,
+    30.445883,
+    -97.780225,
+    30.445883
+],
   "geometry": {"coordinates":[-97.780225,30.445883],"type":"Point"}
 }

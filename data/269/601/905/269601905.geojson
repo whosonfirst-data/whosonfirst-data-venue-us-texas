@@ -2,13 +2,14 @@
   "id": 269601905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.299427,33.342048,-97.299427,33.342048",
     "geom:latitude":33.342048,
     "geom:longitude":-97.299427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9335 Freeman Rd",
     "sg:city":"Sanger",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269601905,
-    "wof:lastmodified":1449037212,
+    "wof:lastmodified":1467084601,
     "wof:name":"Haire Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.299427,33.342048,-97.299427,33.342048],
-  "geometry": {"coordinates":[-97.299427,33.342048],"type":"Point"}
+  "bbox": [
+    -97.299427,
+    33.342048,
+    -97.299427,
+    33.342048
+],
+  "geometry": {"coordinates":[-97.29942699999999,33.342048],"type":"Point"}
 }

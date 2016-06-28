@@ -2,13 +2,14 @@
   "id": 387200163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.701119,30.38699,-97.701119,30.38699",
     "geom:latitude":30.38699,
     "geom:longitude":-97.701119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11106 Sage Hollow Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387200163,
-    "wof:lastmodified":1449057631,
+    "wof:lastmodified":1467084823,
     "wof:name":"A J Processing",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-97.701119,30.38699,-97.701119,30.38699],
-  "geometry": {"coordinates":[-97.701119,30.38699],"type":"Point"}
+  "bbox": [
+    -97.701119,
+    30.38699,
+    -97.701119,
+    30.38699
+],
+  "geometry": {"coordinates":[-97.70111900000001,30.38699],"type":"Point"}
 }

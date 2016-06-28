@@ -2,13 +2,14 @@
   "id": 404185343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.286546,32.784039,-97.286546,32.784039",
     "geom:latitude":32.784039,
     "geom:longitude":-97.286546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 E Belknap St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404185343,
-    "wof:lastmodified":1449039235,
+    "wof:lastmodified":1467084643,
     "wof:name":"Pete's Machine Shop",
     "wof:parent_id":85871525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.286546,32.784039,-97.286546,32.784039],
+  "bbox": [
+    -97.286546,
+    32.784039,
+    -97.286546,
+    32.784039
+],
   "geometry": {"coordinates":[-97.286546,32.784039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253143745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731801,32.909628,-96.731801,32.909628",
     "geom:latitude":32.909628,
     "geom:longitude":-96.731801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9461 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253143745,
-    "wof:lastmodified":1449065266,
+    "wof:lastmodified":1467085029,
     "wof:name":"Centene",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.731801,32.909628,-96.731801,32.909628],
+  "bbox": [
+    -96.731801,
+    32.909628,
+    -96.731801,
+    32.909628
+],
   "geometry": {"coordinates":[-96.731801,32.909628],"type":"Point"}
 }

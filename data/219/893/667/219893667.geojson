@@ -2,13 +2,14 @@
   "id": 219893667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.409393,29.872337,-95.409393,29.872337",
     "geom:latitude":29.872337,
     "geom:longitude":-95.409393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7676 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219893667,
-    "wof:lastmodified":1449073257,
+    "wof:lastmodified":1467085160,
     "wof:name":"Air Control Valve Svc",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-95.409393,29.872337,-95.409393,29.872337],
-  "geometry": {"coordinates":[-95.409393,29.872337],"type":"Point"}
+  "bbox": [
+    -95.409393,
+    29.872337,
+    -95.409393,
+    29.872337
+],
+  "geometry": {"coordinates":[-95.40939299999999,29.872337],"type":"Point"}
 }

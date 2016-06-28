@@ -2,13 +2,14 @@
   "id": 303353425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751809,30.285722,-97.751809,30.285722",
     "geom:latitude":30.285722,
     "geom:longitude":-97.751809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 W 22nd St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303353425,
-    "wof:lastmodified":1448998817,
+    "wof:lastmodified":1467083726,
     "wof:name":"Radkey Limited Partnership Llp",
     "wof:parent_id":85893557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-97.751809,30.285722,-97.751809,30.285722],
-  "geometry": {"coordinates":[-97.751809,30.285722],"type":"Point"}
+  "bbox": [
+    -97.751809,
+    30.285722,
+    -97.751809,
+    30.285722
+],
+  "geometry": {"coordinates":[-97.75180899999999,30.285722],"type":"Point"}
 }

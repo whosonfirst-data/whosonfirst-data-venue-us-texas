@@ -2,13 +2,14 @@
   "id": 186510011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.388973,31.901324,-106.388973,31.901324",
     "geom:latitude":31.901324,
     "geom:longitude":-106.388973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10033 Railroad Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186510011,
-    "wof:lastmodified":1449051975,
+    "wof:lastmodified":1467084725,
     "wof:name":"Ditch Witch Sls & Svc El Paso",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "construction"
     ]
 },
-  "bbox": [-106.388973,31.901324,-106.388973,31.901324],
-  "geometry": {"coordinates":[-106.388973,31.901324],"type":"Point"}
+  "bbox": [
+    -106.388973,
+    31.901324,
+    -106.388973,
+    31.901324
+],
+  "geometry": {"coordinates":[-106.38897299999999,31.901324],"type":"Point"}
 }

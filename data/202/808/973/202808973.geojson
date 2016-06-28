@@ -2,13 +2,14 @@
   "id": 202808973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.88915,30.239337,-97.88915,30.239337",
     "geom:latitude":30.239337,
     "geom:longitude":-97.88915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7107 Dunkirk Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202808973,
-    "wof:lastmodified":1449060221,
+    "wof:lastmodified":1467084890,
     "wof:name":"Adventure Landscaping & Patio",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-97.88915,30.239337,-97.88915,30.239337],
+  "bbox": [
+    -97.88915,
+    30.239337,
+    -97.88915,
+    30.239337
+],
   "geometry": {"coordinates":[-97.88915,30.239337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236068901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.160445,31.998625,-102.160445,31.998625",
     "geom:latitude":31.998625,
     "geom:longitude":-102.160445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5806 Stonecrest",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236068901,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1467083948,
     "wof:name":"Dimension Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.160445,31.998625,-102.160445,31.998625],
+  "bbox": [
+    -102.160445,
+    31.998625,
+    -102.160445,
+    31.998625
+],
   "geometry": {"coordinates":[-102.160445,31.998625],"type":"Point"}
 }

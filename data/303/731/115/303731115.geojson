@@ -2,13 +2,14 @@
   "id": 303731115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.69245,30.371191,-97.69245,30.371191",
     "geom:latitude":30.371191,
     "geom:longitude":-97.69245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303731115,
-    "wof:lastmodified":1449000293,
+    "wof:lastmodified":1467083799,
     "wof:name":"Health & Human Services Commission, Texas",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-97.69245,30.371191,-97.69245,30.371191],
-  "geometry": {"coordinates":[-97.69245,30.371191],"type":"Point"}
+  "bbox": [
+    -97.69245,
+    30.371191,
+    -97.69245,
+    30.371191
+],
+  "geometry": {"coordinates":[-97.69244999999999,30.371191],"type":"Point"}
 }

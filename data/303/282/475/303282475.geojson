@@ -2,13 +2,14 @@
   "id": 303282475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.722456,30.26047,-97.722456,30.26047",
     "geom:latitude":30.26047,
     "geom:longitude":-97.722456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303282475,
-    "wof:lastmodified":1448999650,
+    "wof:lastmodified":1467083768,
     "wof:name":"Whole Life Austin",
     "wof:parent_id":85841417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mental"
     ]
 },
-  "bbox": [-97.722456,30.26047,-97.722456,30.26047],
-  "geometry": {"coordinates":[-97.722456,30.26047],"type":"Point"}
+  "bbox": [
+    -97.722456,
+    30.26047,
+    -97.722456,
+    30.26047
+],
+  "geometry": {"coordinates":[-97.72245599999999,30.26047],"type":"Point"}
 }

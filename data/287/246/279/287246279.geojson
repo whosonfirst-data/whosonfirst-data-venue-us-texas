@@ -2,13 +2,14 @@
   "id": 287246279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.208776,26.196328,-98.208776,26.196328",
     "geom:latitude":26.196328,
     "geom:longitude":-98.208776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 E Dallas Ave Apt B4",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287246279,
-    "wof:lastmodified":1449000716,
+    "wof:lastmodified":1467083819,
     "wof:name":"South Texas Wholesale And Retail",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.208776,26.196328,-98.208776,26.196328],
+  "bbox": [
+    -98.208776,
+    26.196328,
+    -98.208776,
+    26.196328
+],
   "geometry": {"coordinates":[-98.208776,26.196328],"type":"Point"}
 }

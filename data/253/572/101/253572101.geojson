@@ -2,13 +2,14 @@
   "id": 253572101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.853225,31.280401,-94.853225,31.280401",
     "geom:latitude":31.280401,
     "geom:longitude":-94.853225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Narraway Loop",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253572101,
-    "wof:lastmodified":1449064620,
+    "wof:lastmodified":1467085007,
     "wof:name":"David Burgess Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.853225,31.280401,-94.853225,31.280401],
-  "geometry": {"coordinates":[-94.853225,31.280401],"type":"Point"}
+  "bbox": [
+    -94.853225,
+    31.280401,
+    -94.853225,
+    31.280401
+],
+  "geometry": {"coordinates":[-94.85322499999999,31.280401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236837929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803497,32.794201,-96.803497,32.794201",
     "geom:latitude":32.794201,
     "geom:longitude":-96.803497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Crescent Ct Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236837929,
-    "wof:lastmodified":1449002061,
+    "wof:lastmodified":1467083882,
     "wof:name":"Stanley Korshak",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "women's"
     ]
 },
-  "bbox": [-96.803497,32.794201,-96.803497,32.794201],
-  "geometry": {"coordinates":[-96.803497,32.794201],"type":"Point"}
+  "bbox": [
+    -96.803497,
+    32.794201,
+    -96.803497,
+    32.794201
+],
+  "geometry": {"coordinates":[-96.80349699999999,32.794201],"type":"Point"}
 }

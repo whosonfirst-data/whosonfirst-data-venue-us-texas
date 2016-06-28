@@ -2,13 +2,14 @@
   "id": 353389245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.417563,29.761377,-95.417563,29.761377",
     "geom:latitude":29.761377,
     "geom:longitude":-95.417563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Memorial Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353389245,
-    "wof:lastmodified":1449020306,
+    "wof:lastmodified":1467084366,
     "wof:name":"Great Fence",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-95.417563,29.761377,-95.417563,29.761377],
+  "bbox": [
+    -95.417563,
+    29.761377,
+    -95.417563,
+    29.761377
+],
   "geometry": {"coordinates":[-95.417563,29.761377],"type":"Point"}
 }

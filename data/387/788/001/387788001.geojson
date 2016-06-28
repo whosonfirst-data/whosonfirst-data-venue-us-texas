@@ -2,13 +2,14 @@
   "id": 387788001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.286481,34.15094,-99.286481,34.15094",
     "geom:latitude":34.15094,
     "geom:longitude":-99.286481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 Paradise St",
     "sg:city":"Vernon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387788001,
-    "wof:lastmodified":1449058069,
+    "wof:lastmodified":1467084834,
     "wof:name":"Family Counseling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-99.286481,34.15094,-99.286481,34.15094],
-  "geometry": {"coordinates":[-99.286481,34.15094],"type":"Point"}
+  "bbox": [
+    -99.286481,
+    34.15094,
+    -99.286481,
+    34.15094
+],
+  "geometry": {"coordinates":[-99.28648099999999,34.15094],"type":"Point"}
 }

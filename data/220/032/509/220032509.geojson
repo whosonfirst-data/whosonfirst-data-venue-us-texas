@@ -2,13 +2,14 @@
   "id": 220032509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.675015,29.785683,-95.675015,29.785683",
     "geom:latitude":29.785683,
     "geom:longitude":-95.675015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16820 Barker Springs Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220032509,
-    "wof:lastmodified":1449074418,
+    "wof:lastmodified":1467085185,
     "wof:name":"Sunbelt Distribution",
     "wof:parent_id":85804499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-95.675015,29.785683,-95.675015,29.785683],
+  "bbox": [
+    -95.675015,
+    29.785683,
+    -95.675015,
+    29.785683
+],
   "geometry": {"coordinates":[-95.675015,29.785683],"type":"Point"}
 }

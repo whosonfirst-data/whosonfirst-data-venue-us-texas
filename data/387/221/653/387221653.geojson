@@ -2,13 +2,14 @@
   "id": 387221653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479212,29.549905,-98.479212,29.549905",
     "geom:latitude":29.549905,
     "geom:longitude":-98.479212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Arion Pkwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387221653,
-    "wof:lastmodified":1449057779,
+    "wof:lastmodified":1467084827,
     "wof:name":"ACS Telecom",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.479212,29.549905,-98.479212,29.549905],
+  "bbox": [
+    -98.479212,
+    29.549905,
+    -98.479212,
+    29.549905
+],
   "geometry": {"coordinates":[-98.479212,29.549905],"type":"Point"}
 }

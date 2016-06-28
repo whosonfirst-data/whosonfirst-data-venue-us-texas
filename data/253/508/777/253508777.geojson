@@ -2,13 +2,14 @@
   "id": 253508777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.27536,32.308164,-95.27536,32.308164",
     "geom:latitude":32.308164,
     "geom:longitude":-95.27536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 Southpark Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":253508777,
-    "wof:lastmodified":1449064485,
+    "wof:lastmodified":1467085002,
     "wof:name":"Blanchard Martin R DC",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-95.27536,32.308164,-95.27536,32.308164],
-  "geometry": {"coordinates":[-95.27536,32.308164],"type":"Point"}
+  "bbox": [
+    -95.27536,
+    32.308164,
+    -95.27536,
+    32.308164
+],
+  "geometry": {"coordinates":[-95.27536000000001,32.308164],"type":"Point"}
 }

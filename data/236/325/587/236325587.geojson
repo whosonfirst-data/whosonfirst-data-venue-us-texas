@@ -2,13 +2,14 @@
   "id": 236325587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.972642,32.792132,-96.972642,32.792132",
     "geom:latitude":32.792132,
     "geom:longitude":-96.972642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 Southstone Ln",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236325587,
-    "wof:lastmodified":1449002850,
+    "wof:lastmodified":1467083926,
     "wof:name":"Anvil Auctions",
     "wof:parent_id":85878319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-96.972642,32.792132,-96.972642,32.792132],
-  "geometry": {"coordinates":[-96.972642,32.792132],"type":"Point"}
+  "bbox": [
+    -96.972642,
+    32.792132,
+    -96.972642,
+    32.792132
+],
+  "geometry": {"coordinates":[-96.97264199999999,32.792132],"type":"Point"}
 }

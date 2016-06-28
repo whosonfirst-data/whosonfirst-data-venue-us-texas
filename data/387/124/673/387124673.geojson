@@ -2,13 +2,14 @@
   "id": 387124673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.388606,29.685325,-95.388606,29.685325",
     "geom:latitude":29.685325,
     "geom:longitude":-95.388606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Holly Hall St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387124673,
-    "wof:lastmodified":1449059625,
+    "wof:lastmodified":1467084875,
     "wof:name":"Cardiographic Mobile Service",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ultrasound"
     ]
 },
-  "bbox": [-95.388606,29.685325,-95.388606,29.685325],
+  "bbox": [
+    -95.388606,
+    29.685325,
+    -95.388606,
+    29.685325
+],
   "geometry": {"coordinates":[-95.388606,29.685325],"type":"Point"}
 }

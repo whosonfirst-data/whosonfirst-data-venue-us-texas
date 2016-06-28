@@ -2,13 +2,14 @@
   "id": 270430275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.492897,29.737499,-95.492897,29.737499",
     "geom:latitude":29.737499,
     "geom:longitude":-95.492897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6233 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":270430275,
-    "wof:lastmodified":1449010224,
+    "wof:lastmodified":1467084202,
     "wof:name":"Westheimer Auto Center",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.492897,29.737499,-95.492897,29.737499],
+  "bbox": [
+    -95.492897,
+    29.737499,
+    -95.492897,
+    29.737499
+],
   "geometry": {"coordinates":[-95.492897,29.737499],"type":"Point"}
 }

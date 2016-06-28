@@ -2,13 +2,14 @@
   "id": 370721175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.088619,29.547684,-95.088619,29.547684",
     "geom:latitude":29.547684,
     "geom:longitude":-95.088619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18290 Upper Bay Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370721175,
-    "wof:lastmodified":1449032459,
+    "wof:lastmodified":1467084554,
     "wof:name":"Nassau Bay Village Apartments",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.088619,29.547684,-95.088619,29.547684],
-  "geometry": {"coordinates":[-95.088619,29.547684],"type":"Point"}
+  "bbox": [
+    -95.088619,
+    29.547684,
+    -95.088619,
+    29.547684
+],
+  "geometry": {"coordinates":[-95.08861899999999,29.547684],"type":"Point"}
 }

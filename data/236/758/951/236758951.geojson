@@ -2,13 +2,14 @@
   "id": 236758951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.299562,29.843639,-98.299562,29.843639",
     "geom:latitude":29.843639,
     "geom:longitude":-98.299562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Thomas",
     "sg:city":"Canyon Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236758951,
-    "wof:lastmodified":1449002479,
+    "wof:lastmodified":1467083909,
     "wof:name":"St Thomas Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.299562,29.843639,-98.299562,29.843639],
-  "geometry": {"coordinates":[-98.299562,29.843639],"type":"Point"}
+  "bbox": [
+    -98.299562,
+    29.843639,
+    -98.299562,
+    29.843639
+],
+  "geometry": {"coordinates":[-98.29956199999999,29.843639],"type":"Point"}
 }

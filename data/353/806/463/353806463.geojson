@@ -2,13 +2,14 @@
   "id": 353806463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.439046,31.918118,-106.439046,31.918118",
     "geom:latitude":31.918118,
     "geom:longitude":-106.439046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4509 Cupid Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353806463,
-    "wof:lastmodified":1449018248,
+    "wof:lastmodified":1467084321,
     "wof:name":"West Texas Firearms",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.439046,31.918118,-106.439046,31.918118],
+  "bbox": [
+    -106.439046,
+    31.918118,
+    -106.439046,
+    31.918118
+],
   "geometry": {"coordinates":[-106.439046,31.918118],"type":"Point"}
 }

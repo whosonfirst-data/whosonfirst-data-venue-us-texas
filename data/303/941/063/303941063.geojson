@@ -2,13 +2,14 @@
   "id": 303941063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.882673,35.178384,-101.882673,35.178384",
     "geom:latitude":35.178384,
     "geom:longitude":-101.882673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4127 SW 34th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303941063,
-    "wof:lastmodified":1448999581,
+    "wof:lastmodified":1467083765,
     "wof:name":"Amarillo Hobby House",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "store"
     ]
 },
-  "bbox": [-101.882673,35.178384,-101.882673,35.178384],
+  "bbox": [
+    -101.882673,
+    35.178384,
+    -101.882673,
+    35.178384
+],
   "geometry": {"coordinates":[-101.882673,35.178384],"type":"Point"}
 }

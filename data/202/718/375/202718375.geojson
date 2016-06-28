@@ -2,13 +2,14 @@
   "id": 202718375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.357458,32.737545,-97.357458,32.737545",
     "geom:latitude":32.737545,
     "geom:longitude":-97.357458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Parkview Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202718375,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1467084899,
     "wof:name":"Vitas Healthcure of Texas LP",
     "wof:parent_id":85871553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.357458,32.737545,-97.357458,32.737545],
-  "geometry": {"coordinates":[-97.357458,32.737545],"type":"Point"}
+  "bbox": [
+    -97.357458,
+    32.737545,
+    -97.357458,
+    32.737545
+],
+  "geometry": {"coordinates":[-97.35745799999999,32.737545],"type":"Point"}
 }

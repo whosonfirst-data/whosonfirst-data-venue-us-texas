@@ -2,13 +2,14 @@
   "id": 353525737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.468009,31.779193,-106.468009,31.779193",
     "geom:latitude":31.779193,
     "geom:longitude":-106.468009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353525737,
-    "wof:lastmodified":1449020292,
+    "wof:lastmodified":1467084365,
     "wof:name":"G G Medical Inc",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-106.468009,31.779193,-106.468009,31.779193],
+  "bbox": [
+    -106.468009,
+    31.779193,
+    -106.468009,
+    31.779193
+],
   "geometry": {"coordinates":[-106.468009,31.779193],"type":"Point"}
 }

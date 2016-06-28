@@ -2,13 +2,14 @@
   "id": 269782649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.3675,29.750601,-95.3675,29.750601",
     "geom:latitude":29.750601,
     "geom:longitude":-95.3675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 San Jacinto St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269782649,
-    "wof:lastmodified":1449036137,
+    "wof:lastmodified":1467084571,
     "wof:name":"Diocese of Galveston-Houston",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-95.3675,29.750601,-95.3675,29.750601],
-  "geometry": {"coordinates":[-95.3675,29.750601],"type":"Point"}
+  "bbox": [
+    -95.3675,
+    29.750601,
+    -95.3675,
+    29.750601
+],
+  "geometry": {"coordinates":[-95.36750000000001,29.750601],"type":"Point"}
 }

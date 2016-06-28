@@ -2,13 +2,14 @@
   "id": 270273577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52703,29.860424,-95.52703,29.860424",
     "geom:latitude":29.860424,
     "geom:longitude":-95.52703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14173 Northwest Freeway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270273577,
-    "wof:lastmodified":1449009909,
+    "wof:lastmodified":1467084191,
     "wof:name":"Houston Appliance",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-95.52703,29.860424,-95.52703,29.860424],
+  "bbox": [
+    -95.52703,
+    29.860424,
+    -95.52703,
+    29.860424
+],
   "geometry": {"coordinates":[-95.52703,29.860424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303303695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765859,30.278568,-97.765859,30.278568",
     "geom:latitude":30.278568,
     "geom:longitude":-97.765859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Patterson Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303303695,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1467083692,
     "wof:name":"The Purple Fig Cleaning Company",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.765859,30.278568,-97.765859,30.278568],
-  "geometry": {"coordinates":[-97.765859,30.278568],"type":"Point"}
+  "bbox": [
+    -97.765859,
+    30.278568,
+    -97.765859,
+    30.278568
+],
+  "geometry": {"coordinates":[-97.76585900000001,30.278568],"type":"Point"}
 }

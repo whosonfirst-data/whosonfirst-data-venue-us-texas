@@ -2,13 +2,14 @@
   "id": 270369901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.513931,29.786326,-95.513931,29.786326",
     "geom:latitude":29.786326,
     "geom:longitude":-95.513931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Campbell Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270369901,
-    "wof:lastmodified":1449011001,
+    "wof:lastmodified":1467084228,
     "wof:name":"City Locksmith Service Houston",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-95.513931,29.786326,-95.513931,29.786326],
+  "bbox": [
+    -95.513931,
+    29.786326,
+    -95.513931,
+    29.786326
+],
   "geometry": {"coordinates":[-95.513931,29.786326],"type":"Point"}
 }

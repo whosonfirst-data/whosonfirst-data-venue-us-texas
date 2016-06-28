@@ -2,13 +2,14 @@
   "id": 287273465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514568,25.971776,-97.514568,25.971776",
     "geom:latitude":25.971776,
     "geom:longitude":-97.514568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Lorenaly Dr",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":287273465,
-    "wof:lastmodified":1449001121,
+    "wof:lastmodified":1467083833,
     "wof:name":"FedEx",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-97.514568,25.971776,-97.514568,25.971776],
+  "bbox": [
+    -97.514568,
+    25.971776,
+    -97.514568,
+    25.971776
+],
   "geometry": {"coordinates":[-97.514568,25.971776],"type":"Point"}
 }

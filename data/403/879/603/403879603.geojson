@@ -2,13 +2,14 @@
   "id": 403879603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.473334,29.430171,-98.473334,29.430171",
     "geom:latitude":29.430171,
     "geom:longitude":-98.473334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Hackberry",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403879603,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1467084750,
     "wof:name":"Village East Apartments",
     "wof:parent_id":85871033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.473334,29.430171,-98.473334,29.430171],
-  "geometry": {"coordinates":[-98.473334,29.430171],"type":"Point"}
+  "bbox": [
+    -98.473334,
+    29.430171,
+    -98.473334,
+    29.430171
+],
+  "geometry": {"coordinates":[-98.47333399999999,29.430171],"type":"Point"}
 }

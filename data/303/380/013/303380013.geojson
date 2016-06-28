@@ -2,13 +2,14 @@
   "id": 303380013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.773789,30.488861,-97.773789,30.488861",
     "geom:latitude":30.488861,
     "geom:longitude":-97.773789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 W Parmer Ln, Ste 315",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303380013,
-    "wof:lastmodified":1448999254,
+    "wof:lastmodified":1467083748,
     "wof:name":"Austin Affordable Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.773789,30.488861,-97.773789,30.488861],
-  "geometry": {"coordinates":[-97.773789,30.488861],"type":"Point"}
+  "bbox": [
+    -97.773789,
+    30.488861,
+    -97.773789,
+    30.488861
+],
+  "geometry": {"coordinates":[-97.77378899999999,30.488861],"type":"Point"}
 }

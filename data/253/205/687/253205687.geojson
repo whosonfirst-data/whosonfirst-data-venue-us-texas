@@ -2,13 +2,14 @@
   "id": 253205687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.881886,32.833981,-96.881886,32.833981",
     "geom:latitude":32.833981,
     "geom:longitude":-96.881886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9224 King Arthur Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":253205687,
-    "wof:lastmodified":1449064591,
+    "wof:lastmodified":1467085006,
     "wof:name":"Weatherization Partners",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.881886,32.833981,-96.881886,32.833981],
-  "geometry": {"coordinates":[-96.881886,32.833981],"type":"Point"}
+  "bbox": [
+    -96.881886,
+    32.833981,
+    -96.881886,
+    32.833981
+],
+  "geometry": {"coordinates":[-96.88188599999999,32.833981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185655421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.403737,29.553448,-98.403737,29.553448",
     "geom:latitude":29.553448,
     "geom:longitude":-98.403737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12403 Nacogdoches Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185655421,
-    "wof:lastmodified":1449007528,
+    "wof:lastmodified":1467084127,
     "wof:name":"Target Printing",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-98.403737,29.553448,-98.403737,29.553448],
-  "geometry": {"coordinates":[-98.403737,29.553448],"type":"Point"}
+  "bbox": [
+    -98.403737,
+    29.553448,
+    -98.403737,
+    29.553448
+],
+  "geometry": {"coordinates":[-98.40373700000001,29.553448],"type":"Point"}
 }

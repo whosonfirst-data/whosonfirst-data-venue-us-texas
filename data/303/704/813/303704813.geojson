@@ -2,13 +2,14 @@
   "id": 303704813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733814,30.314631,-97.733814,30.314631",
     "geom:latitude":30.314631,
     "geom:longitude":-97.733814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4616 Triangle Ave Ste 401",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303704813,
-    "wof:lastmodified":1448998749,
+    "wof:lastmodified":1467083723,
     "wof:name":"Salon Intuitions",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.733814,30.314631,-97.733814,30.314631],
+  "bbox": [
+    -97.733814,
+    30.314631,
+    -97.733814,
+    30.314631
+],
   "geometry": {"coordinates":[-97.733814,30.314631],"type":"Point"}
 }

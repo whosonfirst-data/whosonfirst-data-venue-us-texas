@@ -2,13 +2,14 @@
   "id": 371172217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.475203,27.51115,-99.475203,27.51115",
     "geom:latitude":27.51115,
     "geom:longitude":-99.475203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Galveston St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371172217,
-    "wof:lastmodified":1449049448,
+    "wof:lastmodified":1467084678,
     "wof:name":"Gibler & Assoc",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-99.475203,27.51115,-99.475203,27.51115],
-  "geometry": {"coordinates":[-99.475203,27.51115],"type":"Point"}
+  "bbox": [
+    -99.475203,
+    27.51115,
+    -99.475203,
+    27.51115
+],
+  "geometry": {"coordinates":[-99.47520299999999,27.51115],"type":"Point"}
 }

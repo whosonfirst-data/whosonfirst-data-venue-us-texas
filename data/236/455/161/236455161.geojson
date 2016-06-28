@@ -2,13 +2,14 @@
   "id": 236455161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768062,32.976062,-96.768062,32.976062",
     "geom:latitude":32.976062,
     "geom:longitude":-96.768062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 N Coit Rd Ste 201",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236455161,
-    "wof:lastmodified":1449004614,
+    "wof:lastmodified":1467084009,
     "wof:name":"Washington Federal Savings",
     "wof:parent_id":85880209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.768062,32.976062,-96.768062,32.976062],
+  "bbox": [
+    -96.768062,
+    32.976062,
+    -96.768062,
+    32.976062
+],
   "geometry": {"coordinates":[-96.768062,32.976062],"type":"Point"}
 }

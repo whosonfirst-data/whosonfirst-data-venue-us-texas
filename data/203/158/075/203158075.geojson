@@ -2,13 +2,14 @@
   "id": 203158075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503408,29.403218,-98.503408,29.403218",
     "geom:latitude":29.403218,
     "geom:longitude":-98.503408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 S Flores St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203158075,
-    "wof:lastmodified":1449026242,
+    "wof:lastmodified":1467084409,
     "wof:name":"My Little Taco House",
     "wof:parent_id":85871057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.503408,29.403218,-98.503408,29.403218],
-  "geometry": {"coordinates":[-98.503408,29.403218],"type":"Point"}
+  "bbox": [
+    -98.503408,
+    29.403218,
+    -98.503408,
+    29.403218
+],
+  "geometry": {"coordinates":[-98.50340799999999,29.403218],"type":"Point"}
 }

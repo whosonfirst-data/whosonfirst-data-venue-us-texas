@@ -2,13 +2,14 @@
   "id": 354312629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359233,29.757903,-95.359233,29.757903",
     "geom:latitude":29.757903,
     "geom:longitude":-95.359233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Texas St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354312629,
-    "wof:lastmodified":1449066785,
+    "wof:lastmodified":1467085072,
     "wof:name":"Securities Analysis Management",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.359233,29.757903,-95.359233,29.757903],
+  "bbox": [
+    -95.359233,
+    29.757903,
+    -95.359233,
+    29.757903
+],
   "geometry": {"coordinates":[-95.359233,29.757903],"type":"Point"}
 }

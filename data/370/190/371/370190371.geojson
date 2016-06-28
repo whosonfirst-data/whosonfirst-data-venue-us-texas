@@ -2,13 +2,14 @@
   "id": 370190371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.404683,29.797701,-95.404683,29.797701",
     "geom:latitude":29.797701,
     "geom:longitude":-95.404683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Waverly St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370190371,
-    "wof:lastmodified":1449032253,
+    "wof:lastmodified":1467084549,
     "wof:name":"Backstreet Properties LLC",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.404683,29.797701,-95.404683,29.797701],
-  "geometry": {"coordinates":[-95.404683,29.797701],"type":"Point"}
+  "bbox": [
+    -95.404683,
+    29.797701,
+    -95.404683,
+    29.797701
+],
+  "geometry": {"coordinates":[-95.40468300000001,29.797701],"type":"Point"}
 }

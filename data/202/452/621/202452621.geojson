@@ -2,13 +2,14 @@
   "id": 202452621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.320967,32.699125,-97.320967,32.699125",
     "geom:latitude":32.699125,
     "geom:longitude":-97.320967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3428 South Fwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202452621,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1467084900,
     "wof:name":"A-1 Automatic",
     "wof:parent_id":85871585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.320967,32.699125,-97.320967,32.699125],
+  "bbox": [
+    -97.320967,
+    32.699125,
+    -97.320967,
+    32.699125
+],
   "geometry": {"coordinates":[-97.320967,32.699125],"type":"Point"}
 }

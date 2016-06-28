@@ -2,13 +2,14 @@
   "id": 286800349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.46344,29.737416,-95.46344,29.737416",
     "geom:latitude":29.737416,
     "geom:longitude":-95.46344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 West Alabama Ave #5340",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286800349,
-    "wof:lastmodified":1449015413,
+    "wof:lastmodified":1467084243,
     "wof:name":"Picture People",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-95.46344,29.737416,-95.46344,29.737416],
-  "geometry": {"coordinates":[-95.46344,29.737416],"type":"Point"}
+  "bbox": [
+    -95.46344,
+    29.737416,
+    -95.46344,
+    29.737416
+],
+  "geometry": {"coordinates":[-95.46344000000001,29.737416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286317293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.615766,29.671418,-95.615766,29.671418",
     "geom:latitude":29.671418,
     "geom:longitude":-95.615766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9918 Synott Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286317293,
-    "wof:lastmodified":1449016531,
+    "wof:lastmodified":1467084273,
     "wof:name":"Synott Auto Salvage",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-95.615766,29.671418,-95.615766,29.671418],
-  "geometry": {"coordinates":[-95.615766,29.671418],"type":"Point"}
+  "bbox": [
+    -95.615766,
+    29.671418,
+    -95.615766,
+    29.671418
+],
+  "geometry": {"coordinates":[-95.61576599999999,29.671418],"type":"Point"}
 }

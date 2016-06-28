@@ -2,13 +2,14 @@
   "id": 303145869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750144,30.006838,-97.750144,30.006838",
     "geom:latitude":30.006838,
     "geom:longitude":-97.750144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Ranch House Loop",
     "sg:city":"Niederwald",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303145869,
-    "wof:lastmodified":1448998861,
+    "wof:lastmodified":1467083729,
     "wof:name":"Circle Maintenance Service",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.750144,30.006838,-97.750144,30.006838],
-  "geometry": {"coordinates":[-97.750144,30.006838],"type":"Point"}
+  "bbox": [
+    -97.750144,
+    30.006838,
+    -97.750144,
+    30.006838
+],
+  "geometry": {"coordinates":[-97.75014400000001,30.006838],"type":"Point"}
 }

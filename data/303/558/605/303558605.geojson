@@ -2,13 +2,14 @@
   "id": 303558605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.698604,30.215767,-97.698604,30.215767",
     "geom:latitude":30.215767,
     "geom:longitude":-97.698604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7312 E Ben White Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303558605,
-    "wof:lastmodified":1448998775,
+    "wof:lastmodified":1467083724,
     "wof:name":"Zapata Trucking",
     "wof:parent_id":85869957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.698604,30.215767,-97.698604,30.215767],
+  "bbox": [
+    -97.698604,
+    30.215767,
+    -97.698604,
+    30.215767
+],
   "geometry": {"coordinates":[-97.698604,30.215767],"type":"Point"}
 }

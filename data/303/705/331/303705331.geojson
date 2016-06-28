@@ -2,13 +2,14 @@
   "id": 303705331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.72562,30.323132,-97.72562,30.323132",
     "geom:latitude":30.323132,
     "geom:longitude":-97.72562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 N Lamar Blvd Ste C123",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303705331,
-    "wof:lastmodified":1449000582,
+    "wof:lastmodified":1467083813,
     "wof:name":"Integrated Mortgage Funding",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.72562,30.323132,-97.72562,30.323132],
-  "geometry": {"coordinates":[-97.72562,30.323132],"type":"Point"}
+  "bbox": [
+    -97.72562,
+    30.323132,
+    -97.72562,
+    30.323132
+],
+  "geometry": {"coordinates":[-97.72562000000001,30.323132],"type":"Point"}
 }

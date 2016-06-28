@@ -2,13 +2,14 @@
   "id": 303933515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.850616,35.213718,-101.850616,35.213718",
     "geom:latitude":35.213718,
     "geom:longitude":-101.850616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Ong St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303933515,
-    "wof:lastmodified":1448998618,
+    "wof:lastmodified":1467083716,
     "wof:name":"ACME Body shop",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "repairing"
     ]
 },
-  "bbox": [-101.850616,35.213718,-101.850616,35.213718],
+  "bbox": [
+    -101.850616,
+    35.213718,
+    -101.850616,
+    35.213718
+],
   "geometry": {"coordinates":[-101.850616,35.213718],"type":"Point"}
 }

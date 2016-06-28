@@ -2,13 +2,14 @@
   "id": 252825115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.679901,29.89797,-95.679901,29.89797",
     "geom:latitude":29.89797,
     "geom:longitude":-95.679901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17509 Fairgrove Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252825115,
-    "wof:lastmodified":1449005436,
+    "wof:lastmodified":1467084049,
     "wof:name":"Copper Lakes",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.679901,29.89797,-95.679901,29.89797],
+  "bbox": [
+    -95.679901,
+    29.89797,
+    -95.679901,
+    29.89797
+],
   "geometry": {"coordinates":[-95.679901,29.89797],"type":"Point"}
 }

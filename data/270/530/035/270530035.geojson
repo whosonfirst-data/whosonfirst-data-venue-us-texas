@@ -2,13 +2,14 @@
   "id": 270530035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.513802,29.689501,-95.513802,29.689501",
     "geom:latitude":29.689501,
     "geom:longitude":-95.513802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7322 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270530035,
-    "wof:lastmodified":1449009950,
+    "wof:lastmodified":1467084193,
     "wof:name":"Carteret Mortgage",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.513802,29.689501,-95.513802,29.689501],
+  "bbox": [
+    -95.513802,
+    29.689501,
+    -95.513802,
+    29.689501
+],
   "geometry": {"coordinates":[-95.513802,29.689501],"type":"Point"}
 }

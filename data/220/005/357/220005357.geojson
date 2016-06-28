@@ -2,13 +2,14 @@
   "id": 220005357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528027,31.841005,-106.528027,31.841005",
     "geom:latitude":31.841005,
     "geom:longitude":-106.528027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Stonebluff Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220005357,
-    "wof:lastmodified":1449074817,
+    "wof:lastmodified":1467085195,
     "wof:name":"John C Walton Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.528027,31.841005,-106.528027,31.841005],
-  "geometry": {"coordinates":[-106.528027,31.841005],"type":"Point"}
+  "bbox": [
+    -106.528027,
+    31.841005,
+    -106.528027,
+    31.841005
+],
+  "geometry": {"coordinates":[-106.52802699999999,31.841005],"type":"Point"}
 }

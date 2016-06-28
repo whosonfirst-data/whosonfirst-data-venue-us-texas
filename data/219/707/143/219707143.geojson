@@ -2,13 +2,14 @@
   "id": 219707143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.230427,32.821887,-97.230427,32.821887",
     "geom:latitude":32.821887,
     "geom:longitude":-97.230427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7035 Grapevine Hwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219707143,
-    "wof:lastmodified":1449073360,
+    "wof:lastmodified":1467085162,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "car"
     ]
 },
-  "bbox": [-97.230427,32.821887,-97.230427,32.821887],
-  "geometry": {"coordinates":[-97.230427,32.821887],"type":"Point"}
+  "bbox": [
+    -97.230427,
+    32.821887,
+    -97.230427,
+    32.821887
+],
+  "geometry": {"coordinates":[-97.23042700000001,32.821887],"type":"Point"}
 }

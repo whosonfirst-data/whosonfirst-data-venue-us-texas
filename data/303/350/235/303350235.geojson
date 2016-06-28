@@ -2,13 +2,14 @@
   "id": 303350235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744831,30.287227,-97.744831,30.287227",
     "geom:latitude":30.287227,
     "geom:longitude":-97.744831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W 23rd St Ste M",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303350235,
-    "wof:lastmodified":1448999366,
+    "wof:lastmodified":1467083754,
     "wof:name":"Apogee Communications",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communications-common"
     ]
 },
-  "bbox": [-97.744831,30.287227,-97.744831,30.287227],
+  "bbox": [
+    -97.744831,
+    30.287227,
+    -97.744831,
+    30.287227
+],
   "geometry": {"coordinates":[-97.744831,30.287227],"type":"Point"}
 }

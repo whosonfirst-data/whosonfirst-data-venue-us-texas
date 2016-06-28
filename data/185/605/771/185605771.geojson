@@ -2,13 +2,14 @@
   "id": 185605771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.657164,32.784441,-96.657164,32.784441",
     "geom:latitude":32.784441,
     "geom:longitude":-96.657164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 Forney Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185605771,
-    "wof:lastmodified":1449007414,
+    "wof:lastmodified":1467084125,
     "wof:name":"Westfield Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electrical"
     ]
 },
-  "bbox": [-96.657164,32.784441,-96.657164,32.784441],
-  "geometry": {"coordinates":[-96.657164,32.784441],"type":"Point"}
+  "bbox": [
+    -96.657164,
+    32.784441,
+    -96.657164,
+    32.784441
+],
+  "geometry": {"coordinates":[-96.65716399999999,32.784441],"type":"Point"}
 }

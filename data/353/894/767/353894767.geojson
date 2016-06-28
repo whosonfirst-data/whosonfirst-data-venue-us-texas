@@ -2,13 +2,14 @@
   "id": 353894767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.339863,30.067065,-99.339863,30.067065",
     "geom:latitude":30.067065,
     "geom:longitude":-99.339863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hunt Loop",
     "sg:city":"Hunt",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353894767,
-    "wof:lastmodified":1449019298,
+    "wof:lastmodified":1467084344,
     "wof:name":"Hunt ISD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.339863,30.067065,-99.339863,30.067065],
-  "geometry": {"coordinates":[-99.339863,30.067065],"type":"Point"}
+  "bbox": [
+    -99.339863,
+    30.067065,
+    -99.339863,
+    30.067065
+],
+  "geometry": {"coordinates":[-99.33986299999999,30.067065],"type":"Point"}
 }

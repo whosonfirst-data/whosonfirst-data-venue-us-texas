@@ -2,13 +2,14 @@
   "id": 354342747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37229,32.751342,-97.37229,32.751342",
     "geom:latitude":32.751342,
     "geom:longitude":-97.37229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 W 7th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354342747,
-    "wof:lastmodified":1449067555,
+    "wof:lastmodified":1467085091,
     "wof:name":"Pid Productions",
     "wof:parent_id":85871589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.37229,32.751342,-97.37229,32.751342],
-  "geometry": {"coordinates":[-97.37229,32.751342],"type":"Point"}
+  "bbox": [
+    -97.37229,
+    32.751342,
+    -97.37229,
+    32.751342
+],
+  "geometry": {"coordinates":[-97.37229000000001,32.751342],"type":"Point"}
 }

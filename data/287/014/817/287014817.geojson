@@ -2,13 +2,14 @@
   "id": 287014817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.487552,30.707252,-96.487552,30.707252",
     "geom:latitude":30.707252,
     "geom:longitude":-96.487552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3977 W Osr",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287014817,
-    "wof:lastmodified":1449001093,
+    "wof:lastmodified":1467083832,
     "wof:name":"Transport",
     "wof:parent_id":85893595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.487552,30.707252,-96.487552,30.707252],
-  "geometry": {"coordinates":[-96.487552,30.707252],"type":"Point"}
+  "bbox": [
+    -96.487552,
+    30.707252,
+    -96.487552,
+    30.707252
+],
+  "geometry": {"coordinates":[-96.48755199999999,30.707252],"type":"Point"}
 }

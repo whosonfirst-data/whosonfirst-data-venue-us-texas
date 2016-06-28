@@ -2,13 +2,14 @@
   "id": 236325831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.94307,32.797534,-96.94307,32.797534",
     "geom:latitude":32.797534,
     "geom:longitude":-96.94307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E. Vilbig",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236325831,
-    "wof:lastmodified":1449002850,
+    "wof:lastmodified":1467083926,
     "wof:name":"Fritz Park",
     "wof:parent_id":85878335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disc"
     ]
 },
-  "bbox": [-96.94307,32.797534,-96.94307,32.797534],
-  "geometry": {"coordinates":[-96.94307,32.797534],"type":"Point"}
+  "bbox": [
+    -96.94307,
+    32.797534,
+    -96.94307,
+    32.797534
+],
+  "geometry": {"coordinates":[-96.94307000000001,32.797534],"type":"Point"}
 }

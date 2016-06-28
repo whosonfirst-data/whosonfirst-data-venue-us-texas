@@ -2,13 +2,14 @@
   "id": 303801229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.718358,30.365021,-97.718358,30.365021",
     "geom:latitude":30.365021,
     "geom:longitude":-97.718358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8776 Research Blvd Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303801229,
-    "wof:lastmodified":1449000132,
+    "wof:lastmodified":1467083792,
     "wof:name":"Sea Dragon",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "vietnamese"
     ]
 },
-  "bbox": [-97.718358,30.365021,-97.718358,30.365021],
-  "geometry": {"coordinates":[-97.718358,30.365021],"type":"Point"}
+  "bbox": [
+    -97.718358,
+    30.365021,
+    -97.718358,
+    30.365021
+],
+  "geometry": {"coordinates":[-97.71835799999999,30.365021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319846241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59471,31.911517,-106.59471,31.911517",
     "geom:latitude":31.911517,
     "geom:longitude":-106.59471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Canutillo Ave",
     "sg:city":"Canutillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319846241,
-    "wof:lastmodified":1449024711,
+    "wof:lastmodified":1467084383,
     "wof:name":"Canutillo Independent School District",
     "wof:parent_id":85882363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-106.59471,31.911517,-106.59471,31.911517],
-  "geometry": {"coordinates":[-106.59471,31.911517],"type":"Point"}
+  "bbox": [
+    -106.59471,
+    31.911517,
+    -106.59471,
+    31.911517
+],
+  "geometry": {"coordinates":[-106.59471000000001,31.911517],"type":"Point"}
 }

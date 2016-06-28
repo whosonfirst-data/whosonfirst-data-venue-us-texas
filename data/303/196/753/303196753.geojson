@@ -2,13 +2,14 @@
   "id": 303196753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.09619,30.051371,-98.09619,30.051371",
     "geom:latitude":30.051371,
     "geom:longitude":-98.09619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15451 Ranch Road 12",
     "sg:city":"Wimberley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303196753,
-    "wof:lastmodified":1448998666,
+    "wof:lastmodified":1467083718,
     "wof:name":"Blanco National Bank Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-98.09619,30.051371,-98.09619,30.051371],
-  "geometry": {"coordinates":[-98.09619,30.051371],"type":"Point"}
+  "bbox": [
+    -98.09619,
+    30.051371,
+    -98.09619,
+    30.051371
+],
+  "geometry": {"coordinates":[-98.09619000000001,30.051371],"type":"Point"}
 }

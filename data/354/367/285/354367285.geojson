@@ -2,13 +2,14 @@
   "id": 354367285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.659715,32.910972,-96.659715,32.910972",
     "geom:latitude":32.910972,
     "geom:longitude":-96.659715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Gold St",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354367285,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1467085076,
     "wof:name":"Scott Technical Sales",
     "wof:parent_id":85877699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [-96.659715,32.910972,-96.659715,32.910972],
-  "geometry": {"coordinates":[-96.659715,32.910972],"type":"Point"}
+  "bbox": [
+    -96.659715,
+    32.910972,
+    -96.659715,
+    32.910972
+],
+  "geometry": {"coordinates":[-96.65971500000001,32.910972],"type":"Point"}
 }

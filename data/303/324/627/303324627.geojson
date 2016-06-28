@@ -2,13 +2,14 @@
   "id": 303324627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760657,30.227749,-97.760657,30.227749",
     "geom:latitude":30.227749,
     "geom:longitude":-97.760657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 S Congress Ave Ste B-500",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303324627,
-    "wof:lastmodified":1448999550,
+    "wof:lastmodified":1467083763,
     "wof:name":"Winn Wittman Architecture",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.760657,30.227749,-97.760657,30.227749],
-  "geometry": {"coordinates":[-97.760657,30.227749],"type":"Point"}
+  "bbox": [
+    -97.760657,
+    30.227749,
+    -97.760657,
+    30.227749
+],
+  "geometry": {"coordinates":[-97.76065699999999,30.227749],"type":"Point"}
 }

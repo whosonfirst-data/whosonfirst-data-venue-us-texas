@@ -2,13 +2,14 @@
   "id": 403745033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.398334,29.529734,-98.398334,29.529734",
     "geom:latitude":29.529734,
     "geom:longitude":-98.398334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4888 Whirlwind St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403745033,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1467084779,
     "wof:name":"Magnum Graphics",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-98.398334,29.529734,-98.398334,29.529734],
-  "geometry": {"coordinates":[-98.398334,29.529734],"type":"Point"}
+  "bbox": [
+    -98.398334,
+    29.529734,
+    -98.398334,
+    29.529734
+],
+  "geometry": {"coordinates":[-98.39833400000001,29.529734],"type":"Point"}
 }

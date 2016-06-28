@@ -2,13 +2,14 @@
   "id": 185908109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.157395,29.760998,-96.157395,29.760998",
     "geom:latitude":29.760998,
     "geom:longitude":-96.157395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Gebhardt Rd",
     "sg:city":"Sealy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185908109,
-    "wof:lastmodified":1449007518,
+    "wof:lastmodified":1467084127,
     "wof:name":"Henson Sealy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.157395,29.760998,-96.157395,29.760998],
-  "geometry": {"coordinates":[-96.157395,29.760998],"type":"Point"}
+  "bbox": [
+    -96.157395,
+    29.760998,
+    -96.157395,
+    29.760998
+],
+  "geometry": {"coordinates":[-96.15739499999999,29.760998],"type":"Point"}
 }

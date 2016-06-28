@@ -2,13 +2,14 @@
   "id": 269552283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64154,33.315051,-97.64154,33.315051",
     "geom:latitude":33.315051,
     "geom:longitude":-97.64154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 County Road 2391",
     "sg:city":"Alvord",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269552283,
-    "wof:lastmodified":1449037131,
+    "wof:lastmodified":1467084599,
     "wof:name":"Barclay's Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-97.64154,33.315051,-97.64154,33.315051],
-  "geometry": {"coordinates":[-97.64154,33.315051],"type":"Point"}
+  "bbox": [
+    -97.64154,
+    33.315051,
+    -97.64154,
+    33.315051
+],
+  "geometry": {"coordinates":[-97.64154000000001,33.315051],"type":"Point"}
 }

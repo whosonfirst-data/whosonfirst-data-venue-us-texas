@@ -2,13 +2,14 @@
   "id": 269997073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.310501,29.879499,-95.310501,29.879499",
     "geom:latitude":29.879499,
     "geom:longitude":-95.310501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 Hopper Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269997073,
-    "wof:lastmodified":1449038422,
+    "wof:lastmodified":1467084627,
     "wof:name":"Sonlight Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.310501,29.879499,-95.310501,29.879499],
+  "bbox": [
+    -95.310501,
+    29.879499,
+    -95.310501,
+    29.879499
+],
   "geometry": {"coordinates":[-95.310501,29.879499],"type":"Point"}
 }

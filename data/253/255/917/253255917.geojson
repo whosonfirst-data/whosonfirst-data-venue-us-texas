@@ -2,13 +2,14 @@
   "id": 253255917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801071,32.99165,-96.801071,32.99165",
     "geom:latitude":32.99165,
     "geom:longitude":-96.801071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17601 Preston Rd Apt 148",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253255917,
-    "wof:lastmodified":1449064164,
+    "wof:lastmodified":1467084990,
     "wof:name":"The Grout Medic",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.801071,32.99165,-96.801071,32.99165],
-  "geometry": {"coordinates":[-96.801071,32.99165],"type":"Point"}
+  "bbox": [
+    -96.801071,
+    32.99165,
+    -96.801071,
+    32.99165
+],
+  "geometry": {"coordinates":[-96.80107099999999,32.99165],"type":"Point"}
 }

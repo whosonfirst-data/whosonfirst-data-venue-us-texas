@@ -2,13 +2,14 @@
   "id": 303740183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.69796,30.362765,-97.69796,30.362765",
     "geom:latitude":30.362765,
     "geom:longitude":-97.69796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9316 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303740183,
-    "wof:lastmodified":1448999226,
+    "wof:lastmodified":1467083747,
     "wof:name":"Brake Check",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-97.69796,30.362765,-97.69796,30.362765],
-  "geometry": {"coordinates":[-97.69796,30.362765],"type":"Point"}
+  "bbox": [
+    -97.69796,
+    30.362765,
+    -97.69796,
+    30.362765
+],
+  "geometry": {"coordinates":[-97.69795999999999,30.362765],"type":"Point"}
 }

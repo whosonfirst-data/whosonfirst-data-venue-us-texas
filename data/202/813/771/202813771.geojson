@@ -2,13 +2,14 @@
   "id": 202813771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044851,32.6402,-97.044851,32.6402",
     "geom:latitude":32.6402,
     "geom:longitude":-97.044851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5556 Val Verde Ct",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202813771,
-    "wof:lastmodified":1449060770,
+    "wof:lastmodified":1467084902,
     "wof:name":"Legacy Homes",
     "wof:parent_id":85897307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.044851,32.6402,-97.044851,32.6402],
-  "geometry": {"coordinates":[-97.044851,32.6402],"type":"Point"}
+  "bbox": [
+    -97.044851,
+    32.6402,
+    -97.044851,
+    32.6402
+],
+  "geometry": {"coordinates":[-97.04485099999999,32.6402],"type":"Point"}
 }

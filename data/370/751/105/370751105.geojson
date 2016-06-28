@@ -2,13 +2,14 @@
   "id": 370751105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.240457,29.809331,-95.240457,29.809331",
     "geom:latitude":29.809331,
     "geom:longitude":-95.240457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Oates Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370751105,
-    "wof:lastmodified":1449029268,
+    "wof:lastmodified":1467084473,
     "wof:name":"De Pasadita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beer"
     ]
 },
-  "bbox": [-95.240457,29.809331,-95.240457,29.809331],
-  "geometry": {"coordinates":[-95.240457,29.809331],"type":"Point"}
+  "bbox": [
+    -95.240457,
+    29.809331,
+    -95.240457,
+    29.809331
+],
+  "geometry": {"coordinates":[-95.24045700000001,29.809331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219746213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486213,29.356712,-98.486213,29.356712",
     "geom:latitude":29.356712,
     "geom:longitude":-98.486213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 SE Military Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219746213,
-    "wof:lastmodified":1449070350,
+    "wof:lastmodified":1467085099,
     "wof:name":"Pick-Ups Inc",
     "wof:parent_id":85871089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-98.486213,29.356712,-98.486213,29.356712],
-  "geometry": {"coordinates":[-98.486213,29.356712],"type":"Point"}
+  "bbox": [
+    -98.486213,
+    29.356712,
+    -98.486213,
+    29.356712
+],
+  "geometry": {"coordinates":[-98.48621300000001,29.356712],"type":"Point"}
 }

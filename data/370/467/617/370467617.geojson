@@ -2,13 +2,14 @@
   "id": 370467617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.046495,32.823737,-97.046495,32.823737",
     "geom:latitude":32.823737,
     "geom:longitude":-97.046495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Buckingham Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370467617,
-    "wof:lastmodified":1449031752,
+    "wof:lastmodified":1467084536,
     "wof:name":"American Airlines  Inc",
     "wof:parent_id":85851835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air"
     ]
 },
-  "bbox": [-97.046495,32.823737,-97.046495,32.823737],
-  "geometry": {"coordinates":[-97.046495,32.823737],"type":"Point"}
+  "bbox": [
+    -97.046495,
+    32.823737,
+    -97.046495,
+    32.823737
+],
+  "geometry": {"coordinates":[-97.04649499999999,32.823737],"type":"Point"}
 }

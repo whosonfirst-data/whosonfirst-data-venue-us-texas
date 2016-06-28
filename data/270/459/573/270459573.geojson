@@ -2,13 +2,14 @@
   "id": 270459573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.132843,29.568171,-95.132843,29.568171",
     "geom:latitude":29.568171,
     "geom:longitude":-95.132843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15500 El Camino Real",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270459573,
-    "wof:lastmodified":1449009636,
+    "wof:lastmodified":1467084183,
     "wof:name":"St Bernadette Catholic Church",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-95.132843,29.568171,-95.132843,29.568171],
-  "geometry": {"coordinates":[-95.132843,29.568171],"type":"Point"}
+  "bbox": [
+    -95.132843,
+    29.568171,
+    -95.132843,
+    29.568171
+],
+  "geometry": {"coordinates":[-95.13284299999999,29.568171],"type":"Point"}
 }

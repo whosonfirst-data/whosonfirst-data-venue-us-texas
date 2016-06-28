@@ -2,13 +2,14 @@
   "id": 354308447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.648261,32.719123,-96.648261,32.719123",
     "geom:latitude":32.719123,
     "geom:longitude":-96.648261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N Masters Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354308447,
-    "wof:lastmodified":1449067693,
+    "wof:lastmodified":1467085095,
     "wof:name":"Pleasant Oaks Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.648261,32.719123,-96.648261,32.719123],
-  "geometry": {"coordinates":[-96.648261,32.719123],"type":"Point"}
+  "bbox": [
+    -96.648261,
+    32.719123,
+    -96.648261,
+    32.719123
+],
+  "geometry": {"coordinates":[-96.64826100000001,32.719123],"type":"Point"}
 }

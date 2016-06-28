@@ -2,13 +2,14 @@
   "id": 253367017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.291001,32.948949,-95.291001,32.948949",
     "geom:latitude":32.948949,
     "geom:longitude":-95.291001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Coke Rd",
     "sg:city":"Winnsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253367017,
-    "wof:lastmodified":1449064561,
+    "wof:lastmodified":1467085005,
     "wof:name":"La Parrilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.291001,32.948949,-95.291001,32.948949],
-  "geometry": {"coordinates":[-95.291001,32.948949],"type":"Point"}
+  "bbox": [
+    -95.291001,
+    32.948949,
+    -95.291001,
+    32.948949
+],
+  "geometry": {"coordinates":[-95.29100099999999,32.948949],"type":"Point"}
 }

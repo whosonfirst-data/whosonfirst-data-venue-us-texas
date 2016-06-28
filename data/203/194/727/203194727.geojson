@@ -2,13 +2,14 @@
   "id": 203194727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.308326,32.164021,-94.308326,32.164021",
     "geom:latitude":32.164021,
     "geom:longitude":-94.308326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 E Sabine St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203194727,
-    "wof:lastmodified":1449026579,
+    "wof:lastmodified":1467084415,
     "wof:name":"Glassell Producing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "producer"
     ]
 },
-  "bbox": [-94.308326,32.164021,-94.308326,32.164021],
-  "geometry": {"coordinates":[-94.308326,32.164021],"type":"Point"}
+  "bbox": [
+    -94.308326,
+    32.164021,
+    -94.308326,
+    32.164021
+],
+  "geometry": {"coordinates":[-94.30832599999999,32.164021],"type":"Point"}
 }

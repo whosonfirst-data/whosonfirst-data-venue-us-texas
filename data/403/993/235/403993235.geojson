@@ -2,13 +2,14 @@
   "id": 403993235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.635972,29.382636,-98.635972,29.382636",
     "geom:latitude":29.382636,
     "geom:longitude":-98.635972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Springvale Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403993235,
-    "wof:lastmodified":1449055218,
+    "wof:lastmodified":1467084763,
     "wof:name":"Springvale Manor",
     "wof:parent_id":85828971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.635972,29.382636,-98.635972,29.382636],
+  "bbox": [
+    -98.635972,
+    29.382636,
+    -98.635972,
+    29.382636
+],
   "geometry": {"coordinates":[-98.635972,29.382636],"type":"Point"}
 }

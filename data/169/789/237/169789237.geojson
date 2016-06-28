@@ -2,13 +2,14 @@
   "id": 169789237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094332,32.738065,-97.094332,32.738065",
     "geom:latitude":32.738065,
     "geom:longitude":-97.094332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Harrison Ave",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169789237,
-    "wof:lastmodified":1449034159,
+    "wof:lastmodified":1467084563,
     "wof:name":"M & L Used Cars",
     "wof:parent_id":85893487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.094332,32.738065,-97.094332,32.738065],
-  "geometry": {"coordinates":[-97.094332,32.738065],"type":"Point"}
+  "bbox": [
+    -97.094332,
+    32.738065,
+    -97.094332,
+    32.738065
+],
+  "geometry": {"coordinates":[-97.09433199999999,32.738065],"type":"Point"}
 }

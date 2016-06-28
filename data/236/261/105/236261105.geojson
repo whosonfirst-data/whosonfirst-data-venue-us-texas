@@ -2,13 +2,14 @@
   "id": 236261105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69889,32.916652,-96.69889,32.916652",
     "geom:latitude":32.916652,
     "geom:longitude":-96.69889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 W Walnut St",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236261105,
-    "wof:lastmodified":1449001718,
+    "wof:lastmodified":1467083857,
     "wof:name":"Midas Auto Service",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.69889,32.916652,-96.69889,32.916652],
-  "geometry": {"coordinates":[-96.69889,32.916652],"type":"Point"}
+  "bbox": [
+    -96.69889,
+    32.916652,
+    -96.69889,
+    32.916652
+],
+  "geometry": {"coordinates":[-96.69889000000001,32.916652],"type":"Point"}
 }

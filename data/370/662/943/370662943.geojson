@@ -2,13 +2,14 @@
   "id": 370662943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.701354,29.78144,-95.701354,29.78144",
     "geom:latitude":29.78144,
     "geom:longitude":-95.701354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Heathbrook Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370662943,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1467084526,
     "wof:name":"L & M Numerical Services",
     "wof:parent_id":85804499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.701354,29.78144,-95.701354,29.78144],
-  "geometry": {"coordinates":[-95.701354,29.78144],"type":"Point"}
+  "bbox": [
+    -95.701354,
+    29.78144,
+    -95.701354,
+    29.78144
+],
+  "geometry": {"coordinates":[-95.70135399999999,29.78144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403952477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741439,31.12451,-97.741439,31.12451",
     "geom:latitude":31.12451,
     "geom:longitude":-97.741439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Fort Hood St",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403952477,
-    "wof:lastmodified":1449055566,
+    "wof:lastmodified":1467084771,
     "wof:name":"Eastgate Barber Shop",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.741439,31.12451,-97.741439,31.12451],
+  "bbox": [
+    -97.741439,
+    31.12451,
+    -97.741439,
+    31.12451
+],
   "geometry": {"coordinates":[-97.741439,31.12451],"type":"Point"}
 }

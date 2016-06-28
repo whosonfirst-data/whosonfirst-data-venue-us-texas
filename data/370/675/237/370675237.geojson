@@ -2,13 +2,14 @@
   "id": 370675237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.319921,30.110351,-97.319921,30.110351",
     "geom:latitude":30.110351,
     "geom:longitude":-97.319921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Main St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370675237,
-    "wof:lastmodified":1449030800,
+    "wof:lastmodified":1467084512,
     "wof:name":"Baxters On Main",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.319921,30.110351,-97.319921,30.110351],
-  "geometry": {"coordinates":[-97.319921,30.110351],"type":"Point"}
+  "bbox": [
+    -97.319921,
+    30.110351,
+    -97.319921,
+    30.110351
+],
+  "geometry": {"coordinates":[-97.31992099999999,30.110351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202541133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751336,26.200341,-97.751336,26.200341",
     "geom:latitude":26.200341,
     "geom:longitude":-97.751336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5502 Bougainvillea Dr",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202541133,
-    "wof:lastmodified":1449060389,
+    "wof:lastmodified":1467084893,
     "wof:name":"Border Link",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-97.751336,26.200341,-97.751336,26.200341],
-  "geometry": {"coordinates":[-97.751336,26.200341],"type":"Point"}
+  "bbox": [
+    -97.751336,
+    26.200341,
+    -97.751336,
+    26.200341
+],
+  "geometry": {"coordinates":[-97.75133599999999,26.200341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253046681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.85326,32.817767,-96.85326,32.817767",
     "geom:latitude":32.817767,
     "geom:longitude":-96.85326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Record Crossing Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253046681,
-    "wof:lastmodified":1449064466,
+    "wof:lastmodified":1467085001,
     "wof:name":"Ben E Keith Beers",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.85326,32.817767,-96.85326,32.817767],
-  "geometry": {"coordinates":[-96.85326,32.817767],"type":"Point"}
+  "bbox": [
+    -96.85326,
+    32.817767,
+    -96.85326,
+    32.817767
+],
+  "geometry": {"coordinates":[-96.85326000000001,32.817767],"type":"Point"}
 }

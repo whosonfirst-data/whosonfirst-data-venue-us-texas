@@ -2,13 +2,14 @@
   "id": 303873497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.380711,35.675403,-101.380711,35.675403",
     "geom:latitude":35.675403,
     "geom:longitude":-101.380711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Florida St",
     "sg:city":"Borger",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303873497,
-    "wof:lastmodified":1448998626,
+    "wof:lastmodified":1467083716,
     "wof:name":"Vehicle Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.380711,35.675403,-101.380711,35.675403],
-  "geometry": {"coordinates":[-101.380711,35.675403],"type":"Point"}
+  "bbox": [
+    -101.380711,
+    35.675403,
+    -101.380711,
+    35.675403
+],
+  "geometry": {"coordinates":[-101.38071100000001,35.675403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304010349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.915642,33.519741,-101.915642,33.519741",
     "geom:latitude":33.519741,
     "geom:longitude":-101.915642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 82nd St Ste 20",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":304010349,
-    "wof:lastmodified":1449043955,
+    "wof:lastmodified":1467084667,
     "wof:name":"Bevers, Gerald C.",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.915642,33.519741,-101.915642,33.519741],
-  "geometry": {"coordinates":[-101.915642,33.519741],"type":"Point"}
+  "bbox": [
+    -101.915642,
+    33.519741,
+    -101.915642,
+    33.519741
+],
+  "geometry": {"coordinates":[-101.91564200000001,33.519741],"type":"Point"}
 }

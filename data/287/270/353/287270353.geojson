@@ -2,13 +2,14 @@
   "id": 287270353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.490456,25.918897,-97.490456,25.918897",
     "geom:latitude":25.918897,
     "geom:longitude":-97.490456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 S Expressway 83",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287270353,
-    "wof:lastmodified":1449000823,
+    "wof:lastmodified":1467083823,
     "wof:name":"J & H Auto Sales",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-97.490456,25.918897,-97.490456,25.918897],
-  "geometry": {"coordinates":[-97.490456,25.918897],"type":"Point"}
+  "bbox": [
+    -97.490456,
+    25.918897,
+    -97.490456,
+    25.918897
+],
+  "geometry": {"coordinates":[-97.49045599999999,25.918897],"type":"Point"}
 }

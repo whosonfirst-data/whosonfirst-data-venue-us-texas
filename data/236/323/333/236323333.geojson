@@ -2,13 +2,14 @@
   "id": 236323333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.946762,32.804728,-96.946762,32.804728",
     "geom:latitude":32.804728,
     "geom:longitude":-96.946762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Senter Rd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236323333,
-    "wof:lastmodified":1449001888,
+    "wof:lastmodified":1467083869,
     "wof:name":"City of Irving",
     "wof:parent_id":85878303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "team"
     ]
 },
-  "bbox": [-96.946762,32.804728,-96.946762,32.804728],
-  "geometry": {"coordinates":[-96.946762,32.804728],"type":"Point"}
+  "bbox": [
+    -96.946762,
+    32.804728,
+    -96.946762,
+    32.804728
+],
+  "geometry": {"coordinates":[-96.94676200000001,32.804728],"type":"Point"}
 }

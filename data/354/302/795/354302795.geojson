@@ -2,13 +2,14 @@
   "id": 354302795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.27952,26.153977,-98.27952,26.153977",
     "geom:latitude":26.153977,
     "geom:longitude":-98.27952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 W Military Hwy",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354302795,
-    "wof:lastmodified":1449066484,
+    "wof:lastmodified":1467085064,
     "wof:name":"Tex-Mart",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.27952,26.153977,-98.27952,26.153977],
-  "geometry": {"coordinates":[-98.27952,26.153977],"type":"Point"}
+  "bbox": [
+    -98.27952,
+    26.153977,
+    -98.27952,
+    26.153977
+],
+  "geometry": {"coordinates":[-98.27952000000001,26.153977],"type":"Point"}
 }

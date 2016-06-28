@@ -2,13 +2,14 @@
   "id": 269778745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.645486,30.571354,-100.645486,30.571354",
     "geom:latitude":30.571354,
     "geom:longitude":-100.645486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Main St",
     "sg:city":"Sonora",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":269778745,
-    "wof:lastmodified":1449036191,
+    "wof:lastmodified":1467084573,
     "wof:name":"Main Street Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-100.645486,30.571354,-100.645486,30.571354],
-  "geometry": {"coordinates":[-100.645486,30.571354],"type":"Point"}
+  "bbox": [
+    -100.645486,
+    30.571354,
+    -100.645486,
+    30.571354
+],
+  "geometry": {"coordinates":[-100.64548600000001,30.571354],"type":"Point"}
 }

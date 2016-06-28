@@ -2,13 +2,14 @@
   "id": 287248405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.222051,26.225339,-98.222051,26.225339",
     "geom:latitude":26.225339,
     "geom:longitude":-98.222051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Westway Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287248405,
-    "wof:lastmodified":1449001159,
+    "wof:lastmodified":1467083834,
     "wof:name":"Joe's Locksmith Shop",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "locksmiths-commercial"
     ]
 },
-  "bbox": [-98.222051,26.225339,-98.222051,26.225339],
-  "geometry": {"coordinates":[-98.222051,26.225339],"type":"Point"}
+  "bbox": [
+    -98.222051,
+    26.225339,
+    -98.222051,
+    26.225339
+],
+  "geometry": {"coordinates":[-98.22205099999999,26.225339],"type":"Point"}
 }

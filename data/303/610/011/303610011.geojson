@@ -2,13 +2,14 @@
   "id": 303610011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.816704,30.2763,-97.816704,30.2763",
     "geom:latitude":30.2763,
     "geom:longitude":-97.816704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Westbank Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303610011,
-    "wof:lastmodified":1449000527,
+    "wof:lastmodified":1467083811,
     "wof:name":"Peoples Rx",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-97.816704,30.2763,-97.816704,30.2763],
+  "bbox": [
+    -97.816704,
+    30.2763,
+    -97.816704,
+    30.2763
+],
   "geometry": {"coordinates":[-97.816704,30.2763],"type":"Point"}
 }

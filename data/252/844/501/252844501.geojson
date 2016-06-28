@@ -2,13 +2,14 @@
   "id": 252844501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.881302,32.861698,-96.881302,32.861698",
     "geom:latitude":32.861698,
     "geom:longitude":-96.881302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Willowbrook Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252844501,
-    "wof:lastmodified":1449005876,
+    "wof:lastmodified":1467084074,
     "wof:name":"The Southland Corportation",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.881302,32.861698,-96.881302,32.861698],
-  "geometry": {"coordinates":[-96.881302,32.861698],"type":"Point"}
+  "bbox": [
+    -96.881302,
+    32.861698,
+    -96.881302,
+    32.861698
+],
+  "geometry": {"coordinates":[-96.88130200000001,32.861698],"type":"Point"}
 }

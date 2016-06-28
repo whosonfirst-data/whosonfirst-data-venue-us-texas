@@ -2,13 +2,14 @@
   "id": 337557927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.547902,27.631308,-99.547902,27.631308",
     "geom:latitude":27.631308,
     "geom:longitude":-99.547902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14204 Atlanta Dr",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337557927,
-    "wof:lastmodified":1449027531,
+    "wof:lastmodified":1467084449,
     "wof:name":"H B R Transfers",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.547902,27.631308,-99.547902,27.631308],
-  "geometry": {"coordinates":[-99.547902,27.631308],"type":"Point"}
+  "bbox": [
+    -99.547902,
+    27.631308,
+    -99.547902,
+    27.631308
+],
+  "geometry": {"coordinates":[-99.54790199999999,27.631308],"type":"Point"}
 }

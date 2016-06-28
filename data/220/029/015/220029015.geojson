@@ -2,13 +2,14 @@
   "id": 220029015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.46302,30.170749,-95.46302,30.170749",
     "geom:latitude":30.170749,
     "geom:longitude":-95.46302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Lakefront Cir",
     "sg:city":"The Woodlands",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220029015,
-    "wof:lastmodified":1449074380,
+    "wof:lastmodified":1467085184,
     "wof:name":"Woodland Villagers",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-95.46302,30.170749,-95.46302,30.170749],
+  "bbox": [
+    -95.46302,
+    30.170749,
+    -95.46302,
+    30.170749
+],
   "geometry": {"coordinates":[-95.46302,30.170749],"type":"Point"}
 }

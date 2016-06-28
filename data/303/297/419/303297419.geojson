@@ -2,13 +2,14 @@
   "id": 303297419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759887,30.273623,-97.759887,30.273623",
     "geom:latitude":30.273623,
     "geom:longitude":-97.759887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303297419,
-    "wof:lastmodified":1448999675,
+    "wof:lastmodified":1467083769,
     "wof:name":"What Will They Do Next",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.759887,30.273623,-97.759887,30.273623],
-  "geometry": {"coordinates":[-97.759887,30.273623],"type":"Point"}
+  "bbox": [
+    -97.759887,
+    30.273623,
+    -97.759887,
+    30.273623
+],
+  "geometry": {"coordinates":[-97.75988700000001,30.273623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186188865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.717622,30.520628,-96.717622,30.520628",
     "geom:latitude":30.520628,
     "geom:longitude":-96.717622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Woodson Dr",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186188865,
-    "wof:lastmodified":1449051711,
+    "wof:lastmodified":1467084720,
     "wof:name":"WIC Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.717622,30.520628,-96.717622,30.520628],
-  "geometry": {"coordinates":[-96.717622,30.520628],"type":"Point"}
+  "bbox": [
+    -96.717622,
+    30.520628,
+    -96.717622,
+    30.520628
+],
+  "geometry": {"coordinates":[-96.71762200000001,30.520628],"type":"Point"}
 }

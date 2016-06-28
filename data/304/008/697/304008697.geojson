@@ -2,13 +2,14 @@
   "id": 304008697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.835777,33.476273,-101.835777,33.476273",
     "geom:latitude":33.476273,
     "geom:longitude":-101.835777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Fm 1585",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304008697,
-    "wof:lastmodified":1449043745,
+    "wof:lastmodified":1467084663,
     "wof:name":"Fred L Gothard",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-101.835777,33.476273,-101.835777,33.476273],
-  "geometry": {"coordinates":[-101.835777,33.476273],"type":"Point"}
+  "bbox": [
+    -101.835777,
+    33.476273,
+    -101.835777,
+    33.476273
+],
+  "geometry": {"coordinates":[-101.83577699999999,33.476273],"type":"Point"}
 }

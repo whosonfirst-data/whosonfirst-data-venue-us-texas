@@ -2,13 +2,14 @@
   "id": 185866693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.016358,30.136386,-94.016358,30.136386",
     "geom:latitude":30.136386,
     "geom:longitude":-94.016358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 N Main St",
     "sg:city":"Vidor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185866693,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1467084125,
     "wof:name":"Main Street Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-94.016358,30.136386,-94.016358,30.136386],
+  "bbox": [
+    -94.016358,
+    30.136386,
+    -94.016358,
+    30.136386
+],
   "geometry": {"coordinates":[-94.016358,30.136386],"type":"Point"}
 }

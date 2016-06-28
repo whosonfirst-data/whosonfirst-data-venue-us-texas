@@ -2,13 +2,14 @@
   "id": 303285819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720357,30.27385,-97.720357,30.27385",
     "geom:latitude":30.27385,
     "geom:longitude":-97.720357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 E 12th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":303285819,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1467083694,
     "wof:name":"Club 1808",
     "wof:parent_id":85869939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "night"
     ]
 },
-  "bbox": [-97.720357,30.27385,-97.720357,30.27385],
-  "geometry": {"coordinates":[-97.720357,30.27385],"type":"Point"}
+  "bbox": [
+    -97.720357,
+    30.27385,
+    -97.720357,
+    30.27385
+],
+  "geometry": {"coordinates":[-97.72035700000001,30.27385],"type":"Point"}
 }

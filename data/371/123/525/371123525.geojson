@@ -2,13 +2,14 @@
   "id": 371123525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.973491,26.181983,-97.973491,26.181983",
     "geom:latitude":26.181983,
     "geom:longitude":-97.973491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Joe Stephens Ave",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371123525,
-    "wof:lastmodified":1449049313,
+    "wof:lastmodified":1467084675,
     "wof:name":"Aircraft Sales Of Weslaco",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-97.973491,26.181983,-97.973491,26.181983],
+  "bbox": [
+    -97.973491,
+    26.181983,
+    -97.973491,
+    26.181983
+],
   "geometry": {"coordinates":[-97.973491,26.181983],"type":"Point"}
 }

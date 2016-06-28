@@ -2,13 +2,14 @@
   "id": 270296495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.561147,29.73871,-95.561147,29.73871",
     "geom:latitude":29.73871,
     "geom:longitude":-95.561147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Citywest Blvd Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270296495,
-    "wof:lastmodified":1449010610,
+    "wof:lastmodified":1467084215,
     "wof:name":"A C Market",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.561147,29.73871,-95.561147,29.73871],
-  "geometry": {"coordinates":[-95.561147,29.73871],"type":"Point"}
+  "bbox": [
+    -95.561147,
+    29.73871,
+    -95.561147,
+    29.73871
+],
+  "geometry": {"coordinates":[-95.56114700000001,29.73871],"type":"Point"}
 }

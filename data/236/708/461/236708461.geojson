@@ -2,13 +2,14 @@
   "id": 236708461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.280263,29.550143,-98.280263,29.550143",
     "geom:latitude":29.550143,
     "geom:longitude":-98.280263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Young Blvd",
     "sg:city":"Universal City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236708461,
-    "wof:lastmodified":1449002063,
+    "wof:lastmodified":1467083882,
     "wof:name":"O F Havard",
     "wof:parent_id":85802531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.280263,29.550143,-98.280263,29.550143],
-  "geometry": {"coordinates":[-98.280263,29.550143],"type":"Point"}
+  "bbox": [
+    -98.280263,
+    29.550143,
+    -98.280263,
+    29.550143
+],
+  "geometry": {"coordinates":[-98.28026300000001,29.550143],"type":"Point"}
 }

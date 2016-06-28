@@ -2,13 +2,14 @@
   "id": 236941761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.848345,32.8101,-96.848345,32.8101",
     "geom:latitude":32.8101,
     "geom:longitude":-96.848345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Stemmons Freeway",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236941761,
-    "wof:lastmodified":1449003655,
+    "wof:lastmodified":1467083963,
     "wof:name":"Stemmons Place Cafeteria",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.848345,32.8101,-96.848345,32.8101],
-  "geometry": {"coordinates":[-96.848345,32.8101],"type":"Point"}
+  "bbox": [
+    -96.848345,
+    32.8101,
+    -96.848345,
+    32.8101
+],
+  "geometry": {"coordinates":[-96.84834499999999,32.8101],"type":"Point"}
 }

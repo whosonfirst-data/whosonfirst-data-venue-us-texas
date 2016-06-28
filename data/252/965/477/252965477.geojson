@@ -2,13 +2,14 @@
   "id": 252965477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.840652,29.278399,-94.840652,29.278399",
     "geom:latitude":29.278399,
     "geom:longitude":-94.840652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Maple Ln",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252965477,
-    "wof:lastmodified":1449006156,
+    "wof:lastmodified":1467084089,
     "wof:name":"Galveston Tile",
     "wof:parent_id":85893725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.840652,29.278399,-94.840652,29.278399],
-  "geometry": {"coordinates":[-94.840652,29.278399],"type":"Point"}
+  "bbox": [
+    -94.840652,
+    29.278399,
+    -94.840652,
+    29.278399
+],
+  "geometry": {"coordinates":[-94.84065200000001,29.278399],"type":"Point"}
 }

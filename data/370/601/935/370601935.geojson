@@ -2,13 +2,14 @@
   "id": 370601935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.561144,29.54182,-98.561144,29.54182",
     "geom:latitude":29.54182,
     "geom:longitude":-98.561144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3522 Millgrove St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370601935,
-    "wof:lastmodified":1449030610,
+    "wof:lastmodified":1467084507,
     "wof:name":"Midway Pipeline Inc",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-98.561144,29.54182,-98.561144,29.54182],
+  "bbox": [
+    -98.561144,
+    29.54182,
+    -98.561144,
+    29.54182
+],
   "geometry": {"coordinates":[-98.561144,29.54182],"type":"Point"}
 }

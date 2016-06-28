@@ -2,13 +2,14 @@
   "id": 253612859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.196047,32.416239,-97.196047,32.416239",
     "geom:latitude":32.416239,
     "geom:longitude":-97.196047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 E Highway 67",
     "sg:city":"Alvarado",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253612859,
-    "wof:lastmodified":1449064137,
+    "wof:lastmodified":1467084989,
     "wof:name":"A FGD",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.196047,32.416239,-97.196047,32.416239],
-  "geometry": {"coordinates":[-97.196047,32.416239],"type":"Point"}
+  "bbox": [
+    -97.196047,
+    32.416239,
+    -97.196047,
+    32.416239
+],
+  "geometry": {"coordinates":[-97.19604699999999,32.416239],"type":"Point"}
 }

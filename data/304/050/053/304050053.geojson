@@ -2,13 +2,14 @@
   "id": 304050053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.784608,32.456983,-99.784608,32.456983",
     "geom:latitude":32.456983,
     "geom:longitude":-99.784608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 N Crockett St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304050053,
-    "wof:lastmodified":1449043918,
+    "wof:lastmodified":1467084666,
     "wof:name":"Abtex Roofing & Construction Company",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.784608,32.456983,-99.784608,32.456983],
-  "geometry": {"coordinates":[-99.784608,32.456983],"type":"Point"}
+  "bbox": [
+    -99.784608,
+    32.456983,
+    -99.784608,
+    32.456983
+],
+  "geometry": {"coordinates":[-99.78460800000001,32.456983],"type":"Point"}
 }

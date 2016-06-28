@@ -2,13 +2,14 @@
   "id": 270498491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.546129,29.961547,-95.546129,29.961547",
     "geom:latitude":29.961547,
     "geom:longitude":-95.546129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7925 Fm 1960 Rd W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270498491,
-    "wof:lastmodified":1449010477,
+    "wof:lastmodified":1467084211,
     "wof:name":"The Buckle",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-95.546129,29.961547,-95.546129,29.961547],
-  "geometry": {"coordinates":[-95.546129,29.961547],"type":"Point"}
+  "bbox": [
+    -95.546129,
+    29.961547,
+    -95.546129,
+    29.961547
+],
+  "geometry": {"coordinates":[-95.54612899999999,29.961547],"type":"Point"}
 }

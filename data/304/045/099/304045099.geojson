@@ -2,13 +2,14 @@
   "id": 304045099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.733669,32.422669,-99.733669,32.422669",
     "geom:latitude":32.422669,
     "geom:longitude":-99.733669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Oak St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":304045099,
-    "wof:lastmodified":1449044093,
+    "wof:lastmodified":1467084669,
     "wof:name":"Weathersby's Properties",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-99.733669,32.422669,-99.733669,32.422669],
-  "geometry": {"coordinates":[-99.733669,32.422669],"type":"Point"}
+  "bbox": [
+    -99.733669,
+    32.422669,
+    -99.733669,
+    32.422669
+],
+  "geometry": {"coordinates":[-99.73366900000001,32.422669],"type":"Point"}
 }

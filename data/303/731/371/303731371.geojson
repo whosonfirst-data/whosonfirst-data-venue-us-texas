@@ -2,13 +2,14 @@
   "id": 303731371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.691325,30.372938,-97.691325,30.372938",
     "geom:latitude":30.372938,
     "geom:longitude":-97.691325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10410 N Lamar Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303731371,
-    "wof:lastmodified":1449000295,
+    "wof:lastmodified":1467083799,
     "wof:name":"American Rental Service",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.691325,30.372938,-97.691325,30.372938],
-  "geometry": {"coordinates":[-97.691325,30.372938],"type":"Point"}
+  "bbox": [
+    -97.691325,
+    30.372938,
+    -97.691325,
+    30.372938
+],
+  "geometry": {"coordinates":[-97.69132500000001,30.372938],"type":"Point"}
 }

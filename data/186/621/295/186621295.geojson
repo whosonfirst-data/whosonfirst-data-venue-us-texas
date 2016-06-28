@@ -2,13 +2,14 @@
   "id": 186621295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.860853,35.211987,-101.860853,35.211987",
     "geom:latitude":35.211987,
     "geom:longitude":-101.860853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Austin St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186621295,
-    "wof:lastmodified":1449052695,
+    "wof:lastmodified":1467084740,
     "wof:name":"WIC-Women Infant & Children",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "human"
     ]
 },
-  "bbox": [-101.860853,35.211987,-101.860853,35.211987],
-  "geometry": {"coordinates":[-101.860853,35.211987],"type":"Point"}
+  "bbox": [
+    -101.860853,
+    35.211987,
+    -101.860853,
+    35.211987
+],
+  "geometry": {"coordinates":[-101.86085300000001,35.211987],"type":"Point"}
 }

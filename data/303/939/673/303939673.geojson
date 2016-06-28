@@ -2,13 +2,14 @@
   "id": 303939673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.86074,35.178291,-101.86074,35.178291",
     "geom:latitude":35.178291,
     "geom:longitude":-101.86074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S Milam St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303939673,
-    "wof:lastmodified":1448998833,
+    "wof:lastmodified":1467083727,
     "wof:name":"Discount Roofing",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-101.86074,35.178291,-101.86074,35.178291],
-  "geometry": {"coordinates":[-101.86074,35.178291],"type":"Point"}
+  "bbox": [
+    -101.86074,
+    35.178291,
+    -101.86074,
+    35.178291
+],
+  "geometry": {"coordinates":[-101.86074000000001,35.178291],"type":"Point"}
 }

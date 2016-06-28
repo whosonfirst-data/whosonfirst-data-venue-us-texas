@@ -2,13 +2,14 @@
   "id": 185985871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.725332,32.927639,-96.725332,32.927639",
     "geom:latitude":32.927639,
     "geom:longitude":-96.725332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Stillmeadow Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185985871,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1467084125,
     "wof:name":"Woodrow Wilson",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-96.725332,32.927639,-96.725332,32.927639],
-  "geometry": {"coordinates":[-96.725332,32.927639],"type":"Point"}
+  "bbox": [
+    -96.725332,
+    32.927639,
+    -96.725332,
+    32.927639
+],
+  "geometry": {"coordinates":[-96.72533199999999,32.927639],"type":"Point"}
 }

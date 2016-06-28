@@ -2,13 +2,14 @@
   "id": 303417627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.696014,30.420497,-97.696014,30.420497",
     "geom:latitude":30.420497,
     "geom:longitude":-97.696014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Cindy Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303417627,
-    "wof:lastmodified":1448999121,
+    "wof:lastmodified":1467083741,
     "wof:name":"Tabor Air Condition & Heating",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.696014,30.420497,-97.696014,30.420497],
-  "geometry": {"coordinates":[-97.696014,30.420497],"type":"Point"}
+  "bbox": [
+    -97.696014,
+    30.420497,
+    -97.696014,
+    30.420497
+],
+  "geometry": {"coordinates":[-97.69601400000001,30.420497],"type":"Point"}
 }

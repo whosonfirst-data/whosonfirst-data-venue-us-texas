@@ -2,13 +2,14 @@
   "id": 303299193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772143,30.289621,-97.772143,30.289621",
     "geom:latitude":30.289621,
     "geom:longitude":-97.772143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Norwalk Lane Ste 207",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303299193,
-    "wof:lastmodified":1448998732,
+    "wof:lastmodified":1467083722,
     "wof:name":"Lupine Lane",
     "wof:parent_id":85869997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.772143,30.289621,-97.772143,30.289621],
+  "bbox": [
+    -97.772143,
+    30.289621,
+    -97.772143,
+    30.289621
+],
   "geometry": {"coordinates":[-97.772143,30.289621],"type":"Point"}
 }

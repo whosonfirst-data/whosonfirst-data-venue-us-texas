@@ -2,13 +2,14 @@
   "id": 203397781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551415,29.740164,-95.551415,29.740164",
     "geom:latitude":29.740164,
     "geom:longitude":-95.551415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 Ella Lee Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203397781,
-    "wof:lastmodified":1449025671,
+    "wof:lastmodified":1467084398,
     "wof:name":"American Express",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "card"
     ]
 },
-  "bbox": [-95.551415,29.740164,-95.551415,29.740164],
-  "geometry": {"coordinates":[-95.551415,29.740164],"type":"Point"}
+  "bbox": [
+    -95.551415,
+    29.740164,
+    -95.551415,
+    29.740164
+],
+  "geometry": {"coordinates":[-95.55141500000001,29.740164],"type":"Point"}
 }

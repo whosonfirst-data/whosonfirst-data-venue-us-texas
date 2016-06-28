@@ -2,13 +2,14 @@
   "id": 303999011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.872591,33.548752,-101.872591,33.548752",
     "geom:latitude":33.548752,
     "geom:longitude":-101.872591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 50th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303999011,
-    "wof:lastmodified":1449000264,
+    "wof:lastmodified":1467083797,
     "wof:name":"Home Depot - Free Roofing Estimate",
     "wof:parent_id":85878797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "consultant"
     ]
 },
-  "bbox": [-101.872591,33.548752,-101.872591,33.548752],
+  "bbox": [
+    -101.872591,
+    33.548752,
+    -101.872591,
+    33.548752
+],
   "geometry": {"coordinates":[-101.872591,33.548752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303525525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.866014,30.233111,-97.866014,30.233111",
     "geom:latitude":30.233111,
     "geom:longitude":-97.866014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6705 W Hwy 290",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303525525,
-    "wof:lastmodified":1449000057,
+    "wof:lastmodified":1467083788,
     "wof:name":"Flores Restaurant",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tex-mex"
     ]
 },
-  "bbox": [-97.866014,30.233111,-97.866014,30.233111],
-  "geometry": {"coordinates":[-97.866014,30.233111],"type":"Point"}
+  "bbox": [
+    -97.866014,
+    30.233111,
+    -97.866014,
+    30.233111
+],
+  "geometry": {"coordinates":[-97.86601400000001,30.233111],"type":"Point"}
 }

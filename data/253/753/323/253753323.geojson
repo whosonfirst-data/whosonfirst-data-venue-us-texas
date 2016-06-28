@@ -2,13 +2,14 @@
   "id": 253753323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.21904,32.651551,-97.21904,32.651551",
     "geom:latitude":32.651551,
     "geom:longitude":-97.21904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Ruth Dr",
     "sg:city":"Kennedale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253753323,
-    "wof:lastmodified":1449063169,
+    "wof:lastmodified":1467084957,
     "wof:name":"Trusted Home Inspection",
     "wof:parent_id":85897313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.21904,32.651551,-97.21904,32.651551],
-  "geometry": {"coordinates":[-97.21904,32.651551],"type":"Point"}
+  "bbox": [
+    -97.21904,
+    32.651551,
+    -97.21904,
+    32.651551
+],
+  "geometry": {"coordinates":[-97.21904000000001,32.651551],"type":"Point"}
 }

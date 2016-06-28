@@ -2,13 +2,14 @@
   "id": 219740919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.232946,32.210943,-95.232946,32.210943",
     "geom:latitude":32.210943,
     "geom:longitude":-95.232946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Royal Cir",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219740919,
-    "wof:lastmodified":1449072000,
+    "wof:lastmodified":1467085134,
     "wof:name":"East Texas Leak Locators",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.232946,32.210943,-95.232946,32.210943],
+  "bbox": [
+    -95.232946,
+    32.210943,
+    -95.232946,
+    32.210943
+],
   "geometry": {"coordinates":[-95.232946,32.210943],"type":"Point"}
 }

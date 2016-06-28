@@ -2,13 +2,14 @@
   "id": 270077077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512302,29.78395,-95.512302,29.78395",
     "geom:latitude":29.78395,
     "geom:longitude":-95.512302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9039 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270077077,
-    "wof:lastmodified":1449009015,
+    "wof:lastmodified":1467084162,
     "wof:name":"Shan Engineering",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.512302,29.78395,-95.512302,29.78395],
-  "geometry": {"coordinates":[-95.512302,29.78395],"type":"Point"}
+  "bbox": [
+    -95.512302,
+    29.78395,
+    -95.512302,
+    29.78395
+],
+  "geometry": {"coordinates":[-95.51230200000001,29.78395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185840773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.311786,29.738537,-95.311786,29.738537",
     "geom:latitude":29.738537,
     "geom:longitude":-95.311786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6402 Harrisburg Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185840773,
-    "wof:lastmodified":1449007872,
+    "wof:lastmodified":1467084133,
     "wof:name":"Smith Auction",
     "wof:parent_id":85893757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.311786,29.738537,-95.311786,29.738537],
+  "bbox": [
+    -95.311786,
+    29.738537,
+    -95.311786,
+    29.738537
+],
   "geometry": {"coordinates":[-95.311786,29.738537],"type":"Point"}
 }

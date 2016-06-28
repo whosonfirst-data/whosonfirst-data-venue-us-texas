@@ -2,13 +2,14 @@
   "id": 269954101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.362311,29.777919,-95.362311,29.777919",
     "geom:latitude":29.777919,
     "geom:longitude":-95.362311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 N Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":269954101,
-    "wof:lastmodified":1449038570,
+    "wof:lastmodified":1467084630,
     "wof:name":"FirstBank",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "saving"
     ]
 },
-  "bbox": [-95.362311,29.777919,-95.362311,29.777919],
-  "geometry": {"coordinates":[-95.362311,29.777919],"type":"Point"}
+  "bbox": [
+    -95.362311,
+    29.777919,
+    -95.362311,
+    29.777919
+],
+  "geometry": {"coordinates":[-95.36231100000001,29.777919],"type":"Point"}
 }

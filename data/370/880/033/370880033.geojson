@@ -2,13 +2,14 @@
   "id": 370880033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.845245,32.878771,-96.845245,32.878771",
     "geom:latitude":32.878771,
     "geom:longitude":-96.845245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 Williamsburg Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370880033,
-    "wof:lastmodified":1449032506,
+    "wof:lastmodified":1467084555,
     "wof:name":"Allsup Investments",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.845245,32.878771,-96.845245,32.878771],
-  "geometry": {"coordinates":[-96.845245,32.878771],"type":"Point"}
+  "bbox": [
+    -96.845245,
+    32.878771,
+    -96.845245,
+    32.878771
+],
+  "geometry": {"coordinates":[-96.84524500000001,32.878771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387498313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.547485,32.643309,-96.547485,32.643309",
     "geom:latitude":32.643309,
     "geom:longitude":-96.547485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Farmers Rd",
     "sg:city":"Seagoville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387498313,
-    "wof:lastmodified":1449058988,
+    "wof:lastmodified":1467084858,
     "wof:name":"Everyone's Rx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.547485,32.643309,-96.547485,32.643309],
-  "geometry": {"coordinates":[-96.547485,32.643309],"type":"Point"}
+  "bbox": [
+    -96.547485,
+    32.643309,
+    -96.547485,
+    32.643309
+],
+  "geometry": {"coordinates":[-96.54748499999999,32.643309],"type":"Point"}
 }

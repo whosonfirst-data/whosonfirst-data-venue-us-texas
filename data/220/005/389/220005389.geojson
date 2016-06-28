@@ -2,13 +2,14 @@
   "id": 220005389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856263,35.178352,-101.856263,35.178352",
     "geom:latitude":35.178352,
     "geom:longitude":-101.856263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 S Travis St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220005389,
-    "wof:lastmodified":1449074818,
+    "wof:lastmodified":1467085194,
     "wof:name":"Drs Thompson & Martin PA",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-101.856263,35.178352,-101.856263,35.178352],
+  "bbox": [
+    -101.856263,
+    35.178352,
+    -101.856263,
+    35.178352
+],
   "geometry": {"coordinates":[-101.856263,35.178352],"type":"Point"}
 }

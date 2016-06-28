@@ -2,13 +2,14 @@
   "id": 252963051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.792911,32.885341,-96.792911,32.885341",
     "geom:latitude":32.885341,
     "geom:longitude":-96.792911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6507 Glendora Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252963051,
-    "wof:lastmodified":1449005520,
+    "wof:lastmodified":1467084054,
     "wof:name":"Seventeen Magazine",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-96.792911,32.885341,-96.792911,32.885341],
+  "bbox": [
+    -96.792911,
+    32.885341,
+    -96.792911,
+    32.885341
+],
   "geometry": {"coordinates":[-96.792911,32.885341],"type":"Point"}
 }

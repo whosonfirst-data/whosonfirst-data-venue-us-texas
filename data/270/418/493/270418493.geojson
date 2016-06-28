@@ -2,13 +2,14 @@
   "id": 270418493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.483381,29.737921,-95.483381,29.737921",
     "geom:latitude":29.737921,
     "geom:longitude":-95.483381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5868 A1 Westheimer Ste 301",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270418493,
-    "wof:lastmodified":1449010523,
+    "wof:lastmodified":1467084212,
     "wof:name":"24 Hour Locksmith",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.483381,29.737921,-95.483381,29.737921],
-  "geometry": {"coordinates":[-95.483381,29.737921],"type":"Point"}
+  "bbox": [
+    -95.483381,
+    29.737921,
+    -95.483381,
+    29.737921
+],
+  "geometry": {"coordinates":[-95.48338099999999,29.737921],"type":"Point"}
 }

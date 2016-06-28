@@ -2,13 +2,14 @@
   "id": 252806095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704659,32.857146,-96.704659,32.857146",
     "geom:latitude":32.857146,
     "geom:longitude":-96.704659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Easton Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252806095,
-    "wof:lastmodified":1449005404,
+    "wof:lastmodified":1467084047,
     "wof:name":"Schools",
     "wof:parent_id":85897333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704659,32.857146,-96.704659,32.857146],
-  "geometry": {"coordinates":[-96.704659,32.857146],"type":"Point"}
+  "bbox": [
+    -96.704659,
+    32.857146,
+    -96.704659,
+    32.857146
+],
+  "geometry": {"coordinates":[-96.70465900000001,32.857146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303405925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.633576,30.330463,-97.633576,30.330463",
     "geom:latitude":30.330463,
     "geom:longitude":-97.633576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9470 E Highway 290",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303405925,
-    "wof:lastmodified":1449000361,
+    "wof:lastmodified":1467083802,
     "wof:name":"El Daray Inc",
     "wof:parent_id":85869905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-97.633576,30.330463,-97.633576,30.330463],
-  "geometry": {"coordinates":[-97.633576,30.330463],"type":"Point"}
+  "bbox": [
+    -97.633576,
+    30.330463,
+    -97.633576,
+    30.330463
+],
+  "geometry": {"coordinates":[-97.63357600000001,30.330463],"type":"Point"}
 }

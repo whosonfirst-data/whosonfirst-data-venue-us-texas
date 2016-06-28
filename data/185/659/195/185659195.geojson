@@ -2,13 +2,14 @@
   "id": 185659195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509918,31.043782,-97.509918,31.043782",
     "geom:latitude":31.043782,
     "geom:longitude":-97.509918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Auction Barn Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185659195,
-    "wof:lastmodified":1449006780,
+    "wof:lastmodified":1467084114,
     "wof:name":"Castle Cleaning",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-97.509918,31.043782,-97.509918,31.043782],
+  "bbox": [
+    -97.509918,
+    31.043782,
+    -97.509918,
+    31.043782
+],
   "geometry": {"coordinates":[-97.509918,31.043782],"type":"Point"}
 }

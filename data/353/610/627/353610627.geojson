@@ -2,13 +2,14 @@
   "id": 353610627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.186009,32.937341,-97.186009,32.937341",
     "geom:latitude":32.937341,
     "geom:longitude":-97.186009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 W Southlake Blvd",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353610627,
-    "wof:lastmodified":1449020736,
+    "wof:lastmodified":1467084374,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.186009,32.937341,-97.186009,32.937341],
+  "bbox": [
+    -97.186009,
+    32.937341,
+    -97.186009,
+    32.937341
+],
   "geometry": {"coordinates":[-97.186009,32.937341],"type":"Point"}
 }

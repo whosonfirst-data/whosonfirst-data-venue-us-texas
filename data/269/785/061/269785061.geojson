@@ -2,13 +2,14 @@
   "id": 269785061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.362313,29.752039,-95.362313,29.752039",
     "geom:latitude":29.752039,
     "geom:longitude":-95.362313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Toyota Center 1510 Polk St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269785061,
-    "wof:lastmodified":1449038435,
+    "wof:lastmodified":1467084628,
     "wof:name":"Houston Rockets",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "team"
     ]
 },
-  "bbox": [-95.362313,29.752039,-95.362313,29.752039],
+  "bbox": [
+    -95.362313,
+    29.752039,
+    -95.362313,
+    29.752039
+],
   "geometry": {"coordinates":[-95.362313,29.752039],"type":"Point"}
 }

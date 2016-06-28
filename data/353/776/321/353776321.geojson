@@ -2,13 +2,14 @@
   "id": 353776321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135802,32.687349,-97.135802,32.687349",
     "geom:latitude":32.687349,
     "geom:longitude":-97.135802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Saddle Creek Cir",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353776321,
-    "wof:lastmodified":1449018821,
+    "wof:lastmodified":1467084333,
     "wof:name":"Functional Capacity Evaluators",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.135802,32.687349,-97.135802,32.687349],
+  "bbox": [
+    -97.135802,
+    32.687349,
+    -97.135802,
+    32.687349
+],
   "geometry": {"coordinates":[-97.135802,32.687349],"type":"Point"}
 }

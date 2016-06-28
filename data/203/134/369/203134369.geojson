@@ -2,13 +2,14 @@
   "id": 203134369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.367306,32.548599,-94.367306,32.548599",
     "geom:latitude":32.548599,
     "geom:longitude":-94.367306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E Grand Ave",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203134369,
-    "wof:lastmodified":1449026764,
+    "wof:lastmodified":1467084419,
     "wof:name":"Bearing Service & Supply",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [-94.367306,32.548599,-94.367306,32.548599],
+  "bbox": [
+    -94.367306,
+    32.548599,
+    -94.367306,
+    32.548599
+],
   "geometry": {"coordinates":[-94.367306,32.548599],"type":"Point"}
 }

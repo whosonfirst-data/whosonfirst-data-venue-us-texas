@@ -2,13 +2,14 @@
   "id": 404130461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.70668,28.862323,-98.70668,28.862323",
     "geom:latitude":28.862323,
     "geom:longitude":-98.70668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Edwards Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404130461,
-    "wof:lastmodified":1449039421,
+    "wof:lastmodified":1467084646,
     "wof:name":"Galindo's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.70668,28.862323,-98.70668,28.862323],
-  "geometry": {"coordinates":[-98.70668,28.862323],"type":"Point"}
+  "bbox": [
+    -98.70668,
+    28.862323,
+    -98.70668,
+    28.862323
+],
+  "geometry": {"coordinates":[-98.70668000000001,28.862323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370350145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77075,32.836587,-96.77075,32.836587",
     "geom:latitude":32.836587,
     "geom:longitude":-96.77075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Mockingbird Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370350145,
-    "wof:lastmodified":1449030808,
+    "wof:lastmodified":1467084512,
     "wof:name":"Radram Co",
     "wof:parent_id":85867223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.77075,32.836587,-96.77075,32.836587],
-  "geometry": {"coordinates":[-96.77075,32.836587],"type":"Point"}
+  "bbox": [
+    -96.77075,
+    32.836587,
+    -96.77075,
+    32.836587
+],
+  "geometry": {"coordinates":[-96.77075000000001,32.836587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219933151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.89003,35.204327,-101.89003,35.204327",
     "geom:latitude":35.204327,
     "geom:longitude":-101.89003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Bushland Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219933151,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1467085115,
     "wof:name":"Amarillo Country Club",
     "wof:parent_id":85875861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "country"
     ]
 },
-  "bbox": [-101.89003,35.204327,-101.89003,35.204327],
+  "bbox": [
+    -101.89003,
+    35.204327,
+    -101.89003,
+    35.204327
+],
   "geometry": {"coordinates":[-101.89003,35.204327],"type":"Point"}
 }

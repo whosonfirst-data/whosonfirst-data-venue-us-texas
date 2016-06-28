@@ -2,13 +2,14 @@
   "id": 387695551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.494036,29.594275,-95.494036,29.594275",
     "geom:latitude":29.594275,
     "geom:longitude":-95.494036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15926 Kenbrook Dr",
     "sg:city":"Missouri City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387695551,
-    "wof:lastmodified":1449057548,
+    "wof:lastmodified":1467084821,
     "wof:name":"Houston Maintenance Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-95.494036,29.594275,-95.494036,29.594275],
-  "geometry": {"coordinates":[-95.494036,29.594275],"type":"Point"}
+  "bbox": [
+    -95.494036,
+    29.594275,
+    -95.494036,
+    29.594275
+],
+  "geometry": {"coordinates":[-95.49403599999999,29.594275],"type":"Point"}
 }

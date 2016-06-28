@@ -2,13 +2,14 @@
   "id": 354214731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.265593,29.753089,-95.265593,29.753089",
     "geom:latitude":29.753089,
     "geom:longitude":-95.265593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Turning Basin Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354214731,
-    "wof:lastmodified":1449067626,
+    "wof:lastmodified":1467085093,
     "wof:name":"Houston Distribution Svc Inc",
     "wof:parent_id":85869737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-95.265593,29.753089,-95.265593,29.753089],
+  "bbox": [
+    -95.265593,
+    29.753089,
+    -95.265593,
+    29.753089
+],
   "geometry": {"coordinates":[-95.265593,29.753089],"type":"Point"}
 }

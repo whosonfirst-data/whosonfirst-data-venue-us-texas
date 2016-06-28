@@ -2,13 +2,14 @@
   "id": 185618235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839221,32.928766,-96.839221,32.928766",
     "geom:latitude":32.928766,
     "geom:longitude":-96.839221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 McEwen Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185618235,
-    "wof:lastmodified":1449007607,
+    "wof:lastmodified":1467084129,
     "wof:name":"Lazo Data Systems Ltd",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "programming"
     ]
 },
-  "bbox": [-96.839221,32.928766,-96.839221,32.928766],
-  "geometry": {"coordinates":[-96.839221,32.928766],"type":"Point"}
+  "bbox": [
+    -96.839221,
+    32.928766,
+    -96.839221,
+    32.928766
+],
+  "geometry": {"coordinates":[-96.83922099999999,32.928766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303706783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724618,30.318738,-97.724618,30.318738",
     "geom:latitude":30.318738,
     "geom:longitude":-97.724618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W N Loop Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":303706783,
-    "wof:lastmodified":1448998294,
+    "wof:lastmodified":1467083700,
     "wof:name":"Epoch Coffee",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.724618,30.318738,-97.724618,30.318738],
-  "geometry": {"coordinates":[-97.724618,30.318738],"type":"Point"}
+  "bbox": [
+    -97.724618,
+    30.318738,
+    -97.724618,
+    30.318738
+],
+  "geometry": {"coordinates":[-97.72461800000001,30.318738],"type":"Point"}
 }

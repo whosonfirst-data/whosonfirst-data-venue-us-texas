@@ -2,13 +2,14 @@
   "id": 387273805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.922501,33.565176,-101.922501,33.565176",
     "geom:latitude":33.565176,
     "geom:longitude":-101.922501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 Slide Rd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387273805,
-    "wof:lastmodified":1449058079,
+    "wof:lastmodified":1467084835,
     "wof:name":"AMF",
     "wof:parent_id":85878823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-101.922501,33.565176,-101.922501,33.565176],
+  "bbox": [
+    -101.922501,
+    33.565176,
+    -101.922501,
+    33.565176
+],
   "geometry": {"coordinates":[-101.922501,33.565176],"type":"Point"}
 }

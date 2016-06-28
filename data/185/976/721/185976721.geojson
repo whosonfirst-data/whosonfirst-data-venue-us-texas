@@ -2,13 +2,14 @@
   "id": 185976721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804262,32.795355,-96.804262,32.795355",
     "geom:latitude":32.795355,
     "geom:longitude":-96.804262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Maple Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":185976721,
-    "wof:lastmodified":1449007271,
+    "wof:lastmodified":1467084123,
     "wof:name":"Matthew Trent Inc",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-96.804262,32.795355,-96.804262,32.795355],
-  "geometry": {"coordinates":[-96.804262,32.795355],"type":"Point"}
+  "bbox": [
+    -96.804262,
+    32.795355,
+    -96.804262,
+    32.795355
+],
+  "geometry": {"coordinates":[-96.80426199999999,32.795355],"type":"Point"}
 }

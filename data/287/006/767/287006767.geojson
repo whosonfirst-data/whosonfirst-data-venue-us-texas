@@ -2,13 +2,14 @@
   "id": 287006767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.352119,30.642431,-96.352119,30.642431",
     "geom:latitude":30.642431,
     "geom:longitude":-96.352119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 S Texas Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287006767,
-    "wof:lastmodified":1449001378,
+    "wof:lastmodified":1467083842,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "dog"
     ]
 },
-  "bbox": [-96.352119,30.642431,-96.352119,30.642431],
+  "bbox": [
+    -96.352119,
+    30.642431,
+    -96.352119,
+    30.642431
+],
   "geometry": {"coordinates":[-96.352119,30.642431],"type":"Point"}
 }

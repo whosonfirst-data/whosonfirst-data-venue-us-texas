@@ -2,13 +2,14 @@
   "id": 220065135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.232583,26.251483,-98.232583,26.251483",
     "geom:latitude":26.251483,
     "geom:longitude":-98.232583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Industrial Dr",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065135,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1467085196,
     "wof:name":"Texas Wholesale",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.232583,26.251483,-98.232583,26.251483],
-  "geometry": {"coordinates":[-98.232583,26.251483],"type":"Point"}
+  "bbox": [
+    -98.232583,
+    26.251483,
+    -98.232583,
+    26.251483
+],
+  "geometry": {"coordinates":[-98.23258300000001,26.251483],"type":"Point"}
 }

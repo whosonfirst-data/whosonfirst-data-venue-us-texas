@@ -2,13 +2,14 @@
   "id": 236548551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795111,33.025745,-96.795111,33.025745",
     "geom:latitude":33.025745,
     "geom:longitude":-96.795111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Preston Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236548551,
-    "wof:lastmodified":1449004026,
+    "wof:lastmodified":1467083981,
     "wof:name":"Black-eyed Pea",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-96.795111,33.025745,-96.795111,33.025745],
-  "geometry": {"coordinates":[-96.795111,33.025745],"type":"Point"}
+  "bbox": [
+    -96.795111,
+    33.025745,
+    -96.795111,
+    33.025745
+],
+  "geometry": {"coordinates":[-96.79511100000001,33.025745],"type":"Point"}
 }

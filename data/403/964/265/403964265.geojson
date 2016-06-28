@@ -2,13 +2,14 @@
   "id": 403964265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.930494,29.383817,-94.930494,29.383817",
     "geom:latitude":29.383817,
     "geom:longitude":-94.930494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Texas Ave",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403964265,
-    "wof:lastmodified":1449055629,
+    "wof:lastmodified":1467084773,
     "wof:name":"World Traders Inc",
     "wof:parent_id":85824553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.930494,29.383817,-94.930494,29.383817],
+  "bbox": [
+    -94.930494,
+    29.383817,
+    -94.930494,
+    29.383817
+],
   "geometry": {"coordinates":[-94.930494,29.383817],"type":"Point"}
 }

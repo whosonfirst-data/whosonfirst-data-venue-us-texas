@@ -2,13 +2,14 @@
   "id": 303725317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702622,30.341966,-97.702622,30.341966",
     "geom:latitude":30.341966,
     "geom:longitude":-97.702622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Anderson Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303725317,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1467083720,
     "wof:name":"Mullen Financial",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.702622,30.341966,-97.702622,30.341966],
-  "geometry": {"coordinates":[-97.702622,30.341966],"type":"Point"}
+  "bbox": [
+    -97.702622,
+    30.341966,
+    -97.702622,
+    30.341966
+],
+  "geometry": {"coordinates":[-97.70262200000001,30.341966],"type":"Point"}
 }

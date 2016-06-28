@@ -2,13 +2,14 @@
   "id": 185965177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54462,29.79197,-95.54462,29.79197",
     "geom:latitude":29.79197,
     "geom:longitude":-95.54462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Gessner Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185965177,
-    "wof:lastmodified":1449007720,
+    "wof:lastmodified":1467084131,
     "wof:name":"Houston Police Dept",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.54462,29.79197,-95.54462,29.79197],
-  "geometry": {"coordinates":[-95.54462,29.79197],"type":"Point"}
+  "bbox": [
+    -95.54462,
+    29.79197,
+    -95.54462,
+    29.79197
+],
+  "geometry": {"coordinates":[-95.54461999999999,29.79197],"type":"Point"}
 }

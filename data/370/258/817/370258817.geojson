@@ -2,13 +2,14 @@
   "id": 370258817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73793,30.267783,-97.73793,30.267783",
     "geom:latitude":30.267783,
     "geom:longitude":-97.73793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E 7th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370258817,
-    "wof:lastmodified":1449031789,
+    "wof:lastmodified":1467084537,
     "wof:name":"Lava Lounge",
     "wof:parent_id":85869867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.73793,30.267783,-97.73793,30.267783],
-  "geometry": {"coordinates":[-97.73793,30.267783],"type":"Point"}
+  "bbox": [
+    -97.73793,
+    30.267783,
+    -97.73793,
+    30.267783
+],
+  "geometry": {"coordinates":[-97.73793000000001,30.267783],"type":"Point"}
 }

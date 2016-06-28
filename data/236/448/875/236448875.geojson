@@ -2,13 +2,14 @@
   "id": 236448875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744707,32.963227,-96.744707,32.963227",
     "geom:latitude":32.963227,
     "geom:longitude":-96.744707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Arapaho Rd Ste 100",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236448875,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1467084030,
     "wof:name":"Dr Peck & Porsch",
     "wof:parent_id":85880203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.744707,32.963227,-96.744707,32.963227],
-  "geometry": {"coordinates":[-96.744707,32.963227],"type":"Point"}
+  "bbox": [
+    -96.744707,
+    32.963227,
+    -96.744707,
+    32.963227
+],
+  "geometry": {"coordinates":[-96.74470700000001,32.963227],"type":"Point"}
 }

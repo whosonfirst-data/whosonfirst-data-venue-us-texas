@@ -2,13 +2,14 @@
   "id": 253732899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.069539,32.926616,-97.069539,32.926616",
     "geom:latitude":32.926616,
     "geom:longitude":-97.069539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Hanover Dr Ste 300",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253732899,
-    "wof:lastmodified":1449065894,
+    "wof:lastmodified":1467085050,
     "wof:name":"Sdv (Usa) Inc.",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.069539,32.926616,-97.069539,32.926616],
-  "geometry": {"coordinates":[-97.069539,32.926616],"type":"Point"}
+  "bbox": [
+    -97.069539,
+    32.926616,
+    -97.069539,
+    32.926616
+],
+  "geometry": {"coordinates":[-97.06953900000001,32.926616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252767201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.650587,30.360728,-103.650587,30.360728",
     "geom:latitude":30.360728,
     "geom:longitude":-103.650587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Lackey St",
     "sg:city":"Alpine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252767201,
-    "wof:lastmodified":1449005734,
+    "wof:lastmodified":1467084066,
     "wof:name":"US Cable Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-103.650587,30.360728,-103.650587,30.360728],
+  "bbox": [
+    -103.650587,
+    30.360728,
+    -103.650587,
+    30.360728
+],
   "geometry": {"coordinates":[-103.650587,30.360728],"type":"Point"}
 }

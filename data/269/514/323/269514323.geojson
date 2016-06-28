@@ -2,13 +2,14 @@
   "id": 269514323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.798386,32.730249,-97.798386,32.730249",
     "geom:latitude":32.730249,
     "geom:longitude":-97.798386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 Tin Top Rd",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":269514323,
-    "wof:lastmodified":1449037345,
+    "wof:lastmodified":1467084605,
     "wof:name":"Liquor Galore",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "liquors-wholesale"
     ]
 },
-  "bbox": [-97.798386,32.730249,-97.798386,32.730249],
-  "geometry": {"coordinates":[-97.798386,32.730249],"type":"Point"}
+  "bbox": [
+    -97.798386,
+    32.730249,
+    -97.798386,
+    32.730249
+],
+  "geometry": {"coordinates":[-97.79838599999999,32.730249],"type":"Point"}
 }

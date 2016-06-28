@@ -2,13 +2,14 @@
   "id": 303265891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745943,30.276651,-97.745943,30.276651",
     "geom:latitude":30.276651,
     "geom:longitude":-97.745943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 W 13th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303265891,
-    "wof:lastmodified":1448998949,
+    "wof:lastmodified":1467083733,
     "wof:name":"Team Locksmith",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-97.745943,30.276651,-97.745943,30.276651],
+  "bbox": [
+    -97.745943,
+    30.276651,
+    -97.745943,
+    30.276651
+],
   "geometry": {"coordinates":[-97.745943,30.276651],"type":"Point"}
 }

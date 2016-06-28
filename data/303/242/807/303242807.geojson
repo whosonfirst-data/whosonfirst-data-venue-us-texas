@@ -2,13 +2,14 @@
   "id": 303242807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745224,30.266706,-97.745224,30.266706",
     "geom:latitude":30.266706,
     "geom:longitude":-97.745224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W 4th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303242807,
-    "wof:lastmodified":1449000278,
+    "wof:lastmodified":1467083798,
     "wof:name":"M Two",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-97.745224,30.266706,-97.745224,30.266706],
-  "geometry": {"coordinates":[-97.745224,30.266706],"type":"Point"}
+  "bbox": [
+    -97.745224,
+    30.266706,
+    -97.745224,
+    30.266706
+],
+  "geometry": {"coordinates":[-97.74522399999999,30.266706],"type":"Point"}
 }

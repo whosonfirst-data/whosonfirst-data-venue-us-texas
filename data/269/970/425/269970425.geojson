@@ -2,13 +2,14 @@
   "id": 269970425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361337,29.754233,-95.361337,29.754233",
     "geom:latitude":29.754233,
     "geom:longitude":-95.361337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 McKinney St Suite 1911",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269970425,
-    "wof:lastmodified":1449038902,
+    "wof:lastmodified":1467084636,
     "wof:name":"Brain-Bloom Tutoring",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-95.361337,29.754233,-95.361337,29.754233],
-  "geometry": {"coordinates":[-95.361337,29.754233],"type":"Point"}
+  "bbox": [
+    -95.361337,
+    29.754233,
+    -95.361337,
+    29.754233
+],
+  "geometry": {"coordinates":[-95.36133700000001,29.754233],"type":"Point"}
 }

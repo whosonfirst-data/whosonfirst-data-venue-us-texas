@@ -2,13 +2,14 @@
   "id": 303346537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759903,30.242001,-97.759903,30.242001",
     "geom:latitude":30.242001,
     "geom:longitude":-97.759903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303346537,
-    "wof:lastmodified":1448998103,
+    "wof:lastmodified":1467083690,
     "wof:name":"Samon James J",
     "wof:parent_id":85869931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.759903,30.242001,-97.759903,30.242001],
-  "geometry": {"coordinates":[-97.759903,30.242001],"type":"Point"}
+  "bbox": [
+    -97.759903,
+    30.242001,
+    -97.759903,
+    30.242001
+],
+  "geometry": {"coordinates":[-97.75990299999999,30.242001],"type":"Point"}
 }

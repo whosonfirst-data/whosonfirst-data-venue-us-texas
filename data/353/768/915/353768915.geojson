@@ -2,13 +2,14 @@
   "id": 353768915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.07371,32.868518,-97.07371,32.868518",
     "geom:latitude":32.868518,
     "geom:longitude":-97.07371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Fuller-Wiser Rd",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353768915,
-    "wof:lastmodified":1449019247,
+    "wof:lastmodified":1467084343,
     "wof:name":"Stonebridge At Bearcreek Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.07371,32.868518,-97.07371,32.868518],
-  "geometry": {"coordinates":[-97.07371,32.868518],"type":"Point"}
+  "bbox": [
+    -97.07371,
+    32.868518,
+    -97.07371,
+    32.868518
+],
+  "geometry": {"coordinates":[-97.07371000000001,32.868518],"type":"Point"}
 }

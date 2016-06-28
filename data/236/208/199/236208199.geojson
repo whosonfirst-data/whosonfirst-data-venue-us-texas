@@ -2,13 +2,14 @@
   "id": 236208199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944441,32.889277,-96.944441,32.889277",
     "geom:latitude":32.889277,
     "geom:longitude":-96.944441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5959 Las Colinas Blvd # 1561",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236208199,
-    "wof:lastmodified":1449001965,
+    "wof:lastmodified":1467083875,
     "wof:name":"Bank of America",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.944441,32.889277,-96.944441,32.889277],
+  "bbox": [
+    -96.944441,
+    32.889277,
+    -96.944441,
+    32.889277
+],
   "geometry": {"coordinates":[-96.944441,32.889277],"type":"Point"}
 }

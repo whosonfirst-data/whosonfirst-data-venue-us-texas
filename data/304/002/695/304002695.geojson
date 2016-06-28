@@ -2,13 +2,14 @@
   "id": 304002695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.907063,33.53429,-101.907063,33.53429",
     "geom:latitude":33.53429,
     "geom:longitude":-101.907063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 66th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":304002695,
-    "wof:lastmodified":1449044051,
+    "wof:lastmodified":1467084668,
     "wof:name":"Ratcliffe Real Estate",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-101.907063,33.53429,-101.907063,33.53429],
-  "geometry": {"coordinates":[-101.907063,33.53429],"type":"Point"}
+  "bbox": [
+    -101.907063,
+    33.53429,
+    -101.907063,
+    33.53429
+],
+  "geometry": {"coordinates":[-101.90706299999999,33.53429],"type":"Point"}
 }

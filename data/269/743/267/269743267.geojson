@@ -2,13 +2,14 @@
   "id": 269743267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130721,31.524835,-97.130721,31.524835",
     "geom:latitude":31.524835,
     "geom:longitude":-97.130721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 la Salle Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":269743267,
-    "wof:lastmodified":1449038949,
+    "wof:lastmodified":1467084638,
     "wof:name":"You're Approved Autos",
     "wof:parent_id":85881767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-97.130721,31.524835,-97.130721,31.524835],
-  "geometry": {"coordinates":[-97.130721,31.524835],"type":"Point"}
+  "bbox": [
+    -97.130721,
+    31.524835,
+    -97.130721,
+    31.524835
+],
+  "geometry": {"coordinates":[-97.13072099999999,31.524835],"type":"Point"}
 }

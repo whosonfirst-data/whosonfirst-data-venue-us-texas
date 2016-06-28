@@ -2,13 +2,14 @@
   "id": 202534747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.584971,29.95336,-95.584971,29.95336",
     "geom:latitude":29.95336,
     "geom:longitude":-95.584971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12337 Jones Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202534747,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1467084902,
     "wof:name":"E Addressmd",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "developer"
     ]
 },
-  "bbox": [-95.584971,29.95336,-95.584971,29.95336],
+  "bbox": [
+    -95.584971,
+    29.95336,
+    -95.584971,
+    29.95336
+],
   "geometry": {"coordinates":[-95.584971,29.95336],"type":"Point"}
 }

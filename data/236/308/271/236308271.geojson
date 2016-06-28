@@ -2,13 +2,14 @@
   "id": 236308271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493653,29.525936,-98.493653,29.525936",
     "geom:latitude":29.525936,
     "geom:longitude":-98.493653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9325 Contessa Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236308271,
-    "wof:lastmodified":1449005356,
+    "wof:lastmodified":1467084045,
     "wof:name":"Acco Construction",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-98.493653,29.525936,-98.493653,29.525936],
-  "geometry": {"coordinates":[-98.493653,29.525936],"type":"Point"}
+  "bbox": [
+    -98.493653,
+    29.525936,
+    -98.493653,
+    29.525936
+],
+  "geometry": {"coordinates":[-98.49365299999999,29.525936],"type":"Point"}
 }

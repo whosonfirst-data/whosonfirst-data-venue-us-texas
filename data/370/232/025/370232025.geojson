@@ -2,13 +2,14 @@
   "id": 370232025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523057,31.852449,-106.523057,31.852449",
     "geom:latitude":31.852449,
     "geom:longitude":-106.523057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Los Jardines Cir",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370232025,
-    "wof:lastmodified":1449030191,
+    "wof:lastmodified":1467084496,
     "wof:name":"Oak Plaza Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.523057,31.852449,-106.523057,31.852449],
-  "geometry": {"coordinates":[-106.523057,31.852449],"type":"Point"}
+  "bbox": [
+    -106.523057,
+    31.852449,
+    -106.523057,
+    31.852449
+],
+  "geometry": {"coordinates":[-106.52305699999999,31.852449],"type":"Point"}
 }

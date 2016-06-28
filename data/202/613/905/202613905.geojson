@@ -2,13 +2,14 @@
   "id": 202613905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.363452,29.96009,-95.363452,29.96009",
     "geom:latitude":29.96009,
     "geom:longitude":-95.363452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16339 Waverly Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202613905,
-    "wof:lastmodified":1449061305,
+    "wof:lastmodified":1467084913,
     "wof:name":"T Team",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-95.363452,29.96009,-95.363452,29.96009],
+  "bbox": [
+    -95.363452,
+    29.96009,
+    -95.363452,
+    29.96009
+],
   "geometry": {"coordinates":[-95.363452,29.96009],"type":"Point"}
 }

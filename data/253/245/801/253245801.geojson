@@ -2,13 +2,14 @@
   "id": 253245801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772851,32.915785,-96.772851,32.915785",
     "geom:latitude":32.915785,
     "geom:longitude":-96.772851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12377 Merit Dr Ste 490",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253245801,
-    "wof:lastmodified":1449065702,
+    "wof:lastmodified":1467085043,
     "wof:name":"National City Mortgage",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.772851,32.915785,-96.772851,32.915785],
+  "bbox": [
+    -96.772851,
+    32.915785,
+    -96.772851,
+    32.915785
+],
   "geometry": {"coordinates":[-96.772851,32.915785],"type":"Point"}
 }

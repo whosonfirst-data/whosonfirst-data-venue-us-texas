@@ -2,13 +2,14 @@
   "id": 202910405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.744251,32.493825,-94.744251,32.493825",
     "geom:latitude":32.493825,
     "geom:longitude":-94.744251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W South St",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202910405,
-    "wof:lastmodified":1449061172,
+    "wof:lastmodified":1467084910,
     "wof:name":"Parker Motor Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-94.744251,32.493825,-94.744251,32.493825],
-  "geometry": {"coordinates":[-94.744251,32.493825],"type":"Point"}
+  "bbox": [
+    -94.744251,
+    32.493825,
+    -94.744251,
+    32.493825
+],
+  "geometry": {"coordinates":[-94.74425100000001,32.493825],"type":"Point"}
 }

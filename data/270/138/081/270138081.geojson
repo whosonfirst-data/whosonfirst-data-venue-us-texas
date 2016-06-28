@@ -2,13 +2,14 @@
   "id": 270138081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.245399,29.767599,-95.245399,29.767599",
     "geom:latitude":29.767599,
     "geom:longitude":-95.245399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10397 Market Street Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270138081,
-    "wof:lastmodified":1449009308,
+    "wof:lastmodified":1467084172,
     "wof:name":"Bah Texas Lp",
     "wof:parent_id":85869737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.245399,29.767599,-95.245399,29.767599],
-  "geometry": {"coordinates":[-95.245399,29.767599],"type":"Point"}
+  "bbox": [
+    -95.245399,
+    29.767599,
+    -95.245399,
+    29.767599
+],
+  "geometry": {"coordinates":[-95.24539900000001,29.767599],"type":"Point"}
 }

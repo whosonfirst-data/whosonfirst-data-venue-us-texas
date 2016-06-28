@@ -2,13 +2,14 @@
   "id": 253644951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090652,32.665493,-97.090652,32.665493",
     "geom:latitude":32.665493,
     "geom:longitude":-97.090652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 S Collins St Ste 100",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253644951,
-    "wof:lastmodified":1449064515,
+    "wof:lastmodified":1467085003,
     "wof:name":"American Airlines",
     "wof:parent_id":85873081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.090652,32.665493,-97.090652,32.665493],
-  "geometry": {"coordinates":[-97.090652,32.665493],"type":"Point"}
+  "bbox": [
+    -97.090652,
+    32.665493,
+    -97.090652,
+    32.665493
+],
+  "geometry": {"coordinates":[-97.09065200000001,32.665493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252943941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.88951,32.883213,-96.88951,32.883213",
     "geom:latitude":32.883213,
     "geom:longitude":-96.88951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11052 Shady Trl Ste 217",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252943941,
-    "wof:lastmodified":1449005709,
+    "wof:lastmodified":1467084065,
     "wof:name":"Midwest Bldg Maintenance",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.88951,32.883213,-96.88951,32.883213],
+  "bbox": [
+    -96.88951,
+    32.883213,
+    -96.88951,
+    32.883213
+],
   "geometry": {"coordinates":[-96.88951,32.883213],"type":"Point"}
 }

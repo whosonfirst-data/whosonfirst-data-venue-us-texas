@@ -2,13 +2,14 @@
   "id": 354097673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551664,30.696209,-95.551664,30.696209",
     "geom:latitude":30.696209,
     "geom:longitude":-95.551664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3128 Montgomery Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354097673,
-    "wof:lastmodified":1449066581,
+    "wof:lastmodified":1467085067,
     "wof:name":"Shell",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-95.551664,30.696209,-95.551664,30.696209],
+  "bbox": [
+    -95.551664,
+    30.696209,
+    -95.551664,
+    30.696209
+],
   "geometry": {"coordinates":[-95.551664,30.696209],"type":"Point"}
 }

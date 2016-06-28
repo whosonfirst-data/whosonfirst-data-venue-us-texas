@@ -2,13 +2,14 @@
   "id": 303572017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771317,30.211303,-97.771317,30.211303",
     "geom:latitude":30.211303,
     "geom:longitude":-97.771317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 S Congress Ave Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303572017,
-    "wof:lastmodified":1448999618,
+    "wof:lastmodified":1467083767,
     "wof:name":"Time Warner Cable",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.771317,30.211303,-97.771317,30.211303],
+  "bbox": [
+    -97.771317,
+    30.211303,
+    -97.771317,
+    30.211303
+],
   "geometry": {"coordinates":[-97.771317,30.211303],"type":"Point"}
 }

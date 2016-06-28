@@ -2,13 +2,14 @@
   "id": 303182975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636149,30.402425,-97.636149,30.402425",
     "geom:latitude":30.402425,
     "geom:longitude":-97.636149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13321 Immanuel Rd",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303182975,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1467083769,
     "wof:name":"A & B Construction",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.636149,30.402425,-97.636149,30.402425],
+  "bbox": [
+    -97.636149,
+    30.402425,
+    -97.636149,
+    30.402425
+],
   "geometry": {"coordinates":[-97.636149,30.402425],"type":"Point"}
 }

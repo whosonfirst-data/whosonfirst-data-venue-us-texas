@@ -2,13 +2,14 @@
   "id": 252718847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.896301,32.749699,-96.896301,32.749699",
     "geom:latitude":32.749699,
     "geom:longitude":-96.896301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 W Davis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":252718847,
-    "wof:lastmodified":1449005657,
+    "wof:lastmodified":1467084062,
     "wof:name":"School Sisters of Notre Dame of Dallas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.896301,32.749699,-96.896301,32.749699],
-  "geometry": {"coordinates":[-96.896301,32.749699],"type":"Point"}
+  "bbox": [
+    -96.896301,
+    32.749699,
+    -96.896301,
+    32.749699
+],
+  "geometry": {"coordinates":[-96.89630099999999,32.749699],"type":"Point"}
 }

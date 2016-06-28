@@ -2,13 +2,14 @@
   "id": 353855411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.705295,31.083127,-97.705295,31.083127",
     "geom:latitude":31.083127,
     "geom:longitude":-97.705295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 E Central Texas Expy",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353855411,
-    "wof:lastmodified":1449020124,
+    "wof:lastmodified":1467084362,
     "wof:name":"American Homes",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.705295,31.083127,-97.705295,31.083127],
-  "geometry": {"coordinates":[-97.705295,31.083127],"type":"Point"}
+  "bbox": [
+    -97.705295,
+    31.083127,
+    -97.705295,
+    31.083127
+],
+  "geometry": {"coordinates":[-97.70529500000001,31.083127],"type":"Point"}
 }

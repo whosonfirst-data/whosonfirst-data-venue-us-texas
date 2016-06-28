@@ -2,13 +2,14 @@
   "id": 303575833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.795958,30.21772,-97.795958,30.21772",
     "geom:latitude":30.21772,
     "geom:longitude":-97.795958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5413 Manchaca Rd Apt 213",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303575833,
-    "wof:lastmodified":1448998821,
+    "wof:lastmodified":1467083726,
     "wof:name":"Merrimac, Ltd",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hotels-apartment"
     ]
 },
-  "bbox": [-97.795958,30.21772,-97.795958,30.21772],
+  "bbox": [
+    -97.795958,
+    30.21772,
+    -97.795958,
+    30.21772
+],
   "geometry": {"coordinates":[-97.795958,30.21772],"type":"Point"}
 }

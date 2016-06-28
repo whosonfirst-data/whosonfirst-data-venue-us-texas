@@ -2,13 +2,14 @@
   "id": 354323141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094649,32.73555,-97.094649,32.73555",
     "geom:latitude":32.73555,
     "geom:longitude":-97.094649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 E Abram St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354323141,
-    "wof:lastmodified":1449066075,
+    "wof:lastmodified":1467085055,
     "wof:name":"Express Alignment",
     "wof:parent_id":85893487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.094649,32.73555,-97.094649,32.73555],
+  "bbox": [
+    -97.094649,
+    32.73555,
+    -97.094649,
+    32.73555
+],
   "geometry": {"coordinates":[-97.094649,32.73555],"type":"Point"}
 }

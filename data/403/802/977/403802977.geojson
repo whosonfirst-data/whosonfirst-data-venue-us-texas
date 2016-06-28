@@ -2,13 +2,14 @@
   "id": 403802977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748568,32.792705,-96.748568,32.792705",
     "geom:latitude":32.792705,
     "geom:longitude":-96.748568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5433 E Grand Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403802977,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1467084775,
     "wof:name":"Care Ctr Ministries Thrift Str",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.748568,32.792705,-96.748568,32.792705],
-  "geometry": {"coordinates":[-96.748568,32.792705],"type":"Point"}
+  "bbox": [
+    -96.748568,
+    32.792705,
+    -96.748568,
+    32.792705
+],
+  "geometry": {"coordinates":[-96.74856800000001,32.792705],"type":"Point"}
 }

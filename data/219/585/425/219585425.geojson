@@ -2,13 +2,14 @@
   "id": 219585425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711379,30.530355,-97.711379,30.530355",
     "geom:latitude":30.530355,
     "geom:longitude":-97.711379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2023 Red Oak Cir",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219585425,
-    "wof:lastmodified":1449072735,
+    "wof:lastmodified":1467085149,
     "wof:name":"Noodletrip LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-97.711379,30.530355,-97.711379,30.530355],
-  "geometry": {"coordinates":[-97.711379,30.530355],"type":"Point"}
+  "bbox": [
+    -97.711379,
+    30.530355,
+    -97.711379,
+    30.530355
+],
+  "geometry": {"coordinates":[-97.71137899999999,30.530355],"type":"Point"}
 }

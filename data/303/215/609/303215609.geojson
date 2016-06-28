@@ -2,13 +2,14 @@
   "id": 303215609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742828,30.268049,-97.742828,30.268049",
     "geom:latitude":30.268049,
     "geom:longitude":-97.742828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303215609,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1467083792,
     "wof:name":"WeissComm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.742828,30.268049,-97.742828,30.268049],
+  "bbox": [
+    -97.742828,
+    30.268049,
+    -97.742828,
+    30.268049
+],
   "geometry": {"coordinates":[-97.742828,30.268049],"type":"Point"}
 }

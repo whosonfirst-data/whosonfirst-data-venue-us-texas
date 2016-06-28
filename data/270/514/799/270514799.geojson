@@ -2,13 +2,14 @@
   "id": 270514799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521266,29.693591,-95.521266,29.693591",
     "geom:latitude":29.693591,
     "geom:longitude":-95.521266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Memorial Hermann Southwest Hospital 7777 Southwest Fwy, Ste 104",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270514799,
-    "wof:lastmodified":1449009868,
+    "wof:lastmodified":1467084190,
     "wof:name":"Walgreens",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.521266,29.693591,-95.521266,29.693591],
+  "bbox": [
+    -95.521266,
+    29.693591,
+    -95.521266,
+    29.693591
+],
   "geometry": {"coordinates":[-95.521266,29.693591],"type":"Point"}
 }

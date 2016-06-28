@@ -2,13 +2,14 @@
   "id": 303132585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44514,29.501665,-97.44514,29.501665",
     "geom:latitude":29.501665,
     "geom:longitude":-97.44514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Bright St",
     "sg:city":"Gonzales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303132585,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1467083751,
     "wof:name":"Matejcek Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [-97.44514,29.501665,-97.44514,29.501665],
-  "geometry": {"coordinates":[-97.44514,29.501665],"type":"Point"}
+  "bbox": [
+    -97.44514,
+    29.501665,
+    -97.44514,
+    29.501665
+],
+  "geometry": {"coordinates":[-97.44513999999999,29.501665],"type":"Point"}
 }

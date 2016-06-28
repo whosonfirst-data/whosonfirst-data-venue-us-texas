@@ -2,13 +2,14 @@
   "id": 270378953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.471095,29.739039,-95.471095,29.739039",
     "geom:latitude":29.739039,
     "geom:longitude":-95.471095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270378953,
-    "wof:lastmodified":1449010318,
+    "wof:lastmodified":1467084205,
     "wof:name":"H. E. S. S.",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.471095,29.739039,-95.471095,29.739039],
-  "geometry": {"coordinates":[-95.471095,29.739039],"type":"Point"}
+  "bbox": [
+    -95.471095,
+    29.739039,
+    -95.471095,
+    29.739039
+],
+  "geometry": {"coordinates":[-95.47109500000001,29.739039],"type":"Point"}
 }

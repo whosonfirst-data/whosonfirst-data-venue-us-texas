@@ -2,13 +2,14 @@
   "id": 235946279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.77688,33.592727,-101.77688,33.592727",
     "geom:latitude":33.592727,
     "geom:longitude":-101.77688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 E 4th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235946279,
-    "wof:lastmodified":1449008569,
+    "wof:lastmodified":1467084148,
     "wof:name":"Kountry Konvenience Ctr",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.77688,33.592727,-101.77688,33.592727],
-  "geometry": {"coordinates":[-101.77688,33.592727],"type":"Point"}
+  "bbox": [
+    -101.77688,
+    33.592727,
+    -101.77688,
+    33.592727
+],
+  "geometry": {"coordinates":[-101.77688000000001,33.592727],"type":"Point"}
 }

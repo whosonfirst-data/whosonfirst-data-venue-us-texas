@@ -2,13 +2,14 @@
   "id": 303568239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.69688,30.152843,-97.69688,30.152843",
     "geom:latitude":30.152843,
     "geom:longitude":-97.69688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8704 Lava Hill Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303568239,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1467083688,
     "wof:name":"K & M Business Signs Installation & Maintenance",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "signs-maintenance"
     ]
 },
-  "bbox": [-97.69688,30.152843,-97.69688,30.152843],
-  "geometry": {"coordinates":[-97.69688,30.152843],"type":"Point"}
+  "bbox": [
+    -97.69688,
+    30.152843,
+    -97.69688,
+    30.152843
+],
+  "geometry": {"coordinates":[-97.69687999999999,30.152843],"type":"Point"}
 }

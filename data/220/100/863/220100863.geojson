@@ -2,13 +2,14 @@
   "id": 220100863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.469591,29.737923,-95.469591,29.737923",
     "geom:latitude":29.737923,
     "geom:longitude":-95.469591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 W Alabama",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220100863,
-    "wof:lastmodified":1449074641,
+    "wof:lastmodified":1467085190,
     "wof:name":"Carrera Fashion",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-95.469591,29.737923,-95.469591,29.737923],
-  "geometry": {"coordinates":[-95.469591,29.737923],"type":"Point"}
+  "bbox": [
+    -95.469591,
+    29.737923,
+    -95.469591,
+    29.737923
+],
+  "geometry": {"coordinates":[-95.46959099999999,29.737923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186191441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.365895,30.989022,-97.365895,30.989022",
     "geom:latitude":30.989022,
     "geom:longitude":-97.365895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Evans St",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186191441,
-    "wof:lastmodified":1449051983,
+    "wof:lastmodified":1467084725,
     "wof:name":"US Post Office",
     "wof:parent_id":85849059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.365895,30.989022,-97.365895,30.989022],
-  "geometry": {"coordinates":[-97.365895,30.989022],"type":"Point"}
+  "bbox": [
+    -97.365895,
+    30.989022,
+    -97.365895,
+    30.989022
+],
+  "geometry": {"coordinates":[-97.36589499999999,30.989022],"type":"Point"}
 }

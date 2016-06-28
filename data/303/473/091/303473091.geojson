@@ -2,13 +2,14 @@
   "id": 303473091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747942,30.360707,-97.747942,30.360707",
     "geom:latitude":30.360707,
     "geom:longitude":-97.747942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7718 Wood Hollow Dr # 106",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303473091,
-    "wof:lastmodified":1448998622,
+    "wof:lastmodified":1467083716,
     "wof:name":"Sky Open Software Inc",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-97.747942,30.360707,-97.747942,30.360707],
-  "geometry": {"coordinates":[-97.747942,30.360707],"type":"Point"}
+  "bbox": [
+    -97.747942,
+    30.360707,
+    -97.747942,
+    30.360707
+],
+  "geometry": {"coordinates":[-97.74794199999999,30.360707],"type":"Point"}
 }

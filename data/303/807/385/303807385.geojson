@@ -2,13 +2,14 @@
   "id": 303807385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752535,30.401356,-97.752535,30.401356",
     "geom:latitude":30.401356,
     "geom:longitude":-97.752535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 N Mopac Exwy Bldg 2 Ste 125",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303807385,
-    "wof:lastmodified":1448998738,
+    "wof:lastmodified":1467083722,
     "wof:name":"Spa Salute",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.752535,30.401356,-97.752535,30.401356],
-  "geometry": {"coordinates":[-97.752535,30.401356],"type":"Point"}
+  "bbox": [
+    -97.752535,
+    30.401356,
+    -97.752535,
+    30.401356
+],
+  "geometry": {"coordinates":[-97.75253499999999,30.401356],"type":"Point"}
 }

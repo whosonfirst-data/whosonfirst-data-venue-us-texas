@@ -2,13 +2,14 @@
   "id": 236957543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.8256,32.7995,-96.8256,32.7995",
     "geom:latitude":32.7995,
     "geom:longitude":-96.8256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Market Center Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236957543,
-    "wof:lastmodified":1449004653,
+    "wof:lastmodified":1467084010,
     "wof:name":"Fairfield Inn by Marriott",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.8256,32.7995,-96.8256,32.7995],
-  "geometry": {"coordinates":[-96.8256,32.7995],"type":"Point"}
+  "bbox": [
+    -96.8256,
+    32.7995,
+    -96.8256,
+    32.7995
+],
+  "geometry": {"coordinates":[-96.82559999999999,32.7995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403895105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.353957,30.622093,-96.353957,30.622093",
     "geom:latitude":30.622093,
     "geom:longitude":-96.353957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 Wellborn Rd",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403895105,
-    "wof:lastmodified":1449055196,
+    "wof:lastmodified":1467084763,
     "wof:name":"Westgate Shopping Ctr",
     "wof:parent_id":85893613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-96.353957,30.622093,-96.353957,30.622093],
-  "geometry": {"coordinates":[-96.353957,30.622093],"type":"Point"}
+  "bbox": [
+    -96.353957,
+    30.622093,
+    -96.353957,
+    30.622093
+],
+  "geometry": {"coordinates":[-96.35395699999999,30.622093],"type":"Point"}
 }

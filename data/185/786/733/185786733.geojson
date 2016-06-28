@@ -2,13 +2,14 @@
   "id": 185786733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.093409,32.739938,-97.093409,32.739938",
     "geom:latitude":32.739938,
     "geom:longitude":-97.093409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 E Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185786733,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1467084115,
     "wof:name":"Arlington Advance Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-97.093409,32.739938,-97.093409,32.739938],
-  "geometry": {"coordinates":[-97.093409,32.739938],"type":"Point"}
+  "bbox": [
+    -97.093409,
+    32.739938,
+    -97.093409,
+    32.739938
+],
+  "geometry": {"coordinates":[-97.09340899999999,32.739938],"type":"Point"}
 }

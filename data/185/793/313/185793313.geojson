@@ -2,13 +2,14 @@
   "id": 185793313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.859024,35.210519,-101.859024,35.210519",
     "geom:latitude":35.210519,
     "geom:longitude":-101.859024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 6th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185793313,
-    "wof:lastmodified":1449007496,
+    "wof:lastmodified":1467084127,
     "wof:name":"Tommy's Upholstery Supply",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-101.859024,35.210519,-101.859024,35.210519],
-  "geometry": {"coordinates":[-101.859024,35.210519],"type":"Point"}
+  "bbox": [
+    -101.859024,
+    35.210519,
+    -101.859024,
+    35.210519
+],
+  "geometry": {"coordinates":[-101.85902400000001,35.210519],"type":"Point"}
 }

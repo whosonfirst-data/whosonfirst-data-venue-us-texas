@@ -2,13 +2,14 @@
   "id": 220113849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.461266,30.153436,-95.461266,30.153436",
     "geom:latitude":30.153436,
     "geom:longitude":-95.461266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 Six Pines Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220113849,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1467085194,
     "wof:name":"AMMCS",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.461266,30.153436,-95.461266,30.153436],
-  "geometry": {"coordinates":[-95.461266,30.153436],"type":"Point"}
+  "bbox": [
+    -95.461266,
+    30.153436,
+    -95.461266,
+    30.153436
+],
+  "geometry": {"coordinates":[-95.46126599999999,30.153436],"type":"Point"}
 }

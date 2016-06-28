@@ -2,13 +2,14 @@
   "id": 270128047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.434638,29.741152,-95.434638,29.741152",
     "geom:latitude":29.741152,
     "geom:longitude":-95.434638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Westheimer Rd Ste E",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":270128047,
-    "wof:lastmodified":1449009582,
+    "wof:lastmodified":1467084181,
     "wof:name":"Kai Spa",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.434638,29.741152,-95.434638,29.741152],
-  "geometry": {"coordinates":[-95.434638,29.741152],"type":"Point"}
+  "bbox": [
+    -95.434638,
+    29.741152,
+    -95.434638,
+    29.741152
+],
+  "geometry": {"coordinates":[-95.43463800000001,29.741152],"type":"Point"}
 }

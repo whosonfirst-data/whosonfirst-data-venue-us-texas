@@ -2,13 +2,14 @@
   "id": 252900247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.077291,33.079376,-96.077291,33.079376",
     "geom:latitude":33.079376,
     "geom:longitude":-96.077291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9315 Jack Finney Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252900247,
-    "wof:lastmodified":1449005883,
+    "wof:lastmodified":1467084074,
     "wof:name":"Tarrant County Clg Dist",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-96.077291,33.079376,-96.077291,33.079376],
+  "bbox": [
+    -96.077291,
+    33.079376,
+    -96.077291,
+    33.079376
+],
   "geometry": {"coordinates":[-96.077291,33.079376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236644835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795097,32.610183,-96.795097,32.610183",
     "geom:latitude":32.610183,
     "geom:longitude":-96.795097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Birkenhead Ln",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236644835,
-    "wof:lastmodified":1449003555,
+    "wof:lastmodified":1467083959,
     "wof:name":"Court Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"
     ]
 },
-  "bbox": [-96.795097,32.610183,-96.795097,32.610183],
+  "bbox": [
+    -96.795097,
+    32.610183,
+    -96.795097,
+    32.610183
+],
   "geometry": {"coordinates":[-96.795097,32.610183],"type":"Point"}
 }

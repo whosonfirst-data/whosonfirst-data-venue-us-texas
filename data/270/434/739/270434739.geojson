@@ -2,13 +2,14 @@
   "id": 270434739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.484299,29.750099,-95.484299,29.750099",
     "geom:latitude":29.750099,
     "geom:longitude":-95.484299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5874 San Felipe St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270434739,
-    "wof:lastmodified":1449009148,
+    "wof:lastmodified":1467084166,
     "wof:name":"Liquor Source",
     "wof:parent_id":85893787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.484299,29.750099,-95.484299,29.750099],
-  "geometry": {"coordinates":[-95.484299,29.750099],"type":"Point"}
+  "bbox": [
+    -95.484299,
+    29.750099,
+    -95.484299,
+    29.750099
+],
+  "geometry": {"coordinates":[-95.48429899999999,29.750099],"type":"Point"}
 }

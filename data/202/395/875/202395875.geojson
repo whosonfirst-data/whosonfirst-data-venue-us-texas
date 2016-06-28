@@ -2,13 +2,14 @@
   "id": 202395875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.091735,33.175331,-97.091735,33.175331",
     "geom:latitude":33.175331,
     "geom:longitude":-97.091735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3527 S I- 35 E",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202395875,
-    "wof:lastmodified":1449062288,
+    "wof:lastmodified":1467084933,
     "wof:name":"Denton Regional Vascular Lab",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.091735,33.175331,-97.091735,33.175331],
+  "bbox": [
+    -97.091735,
+    33.175331,
+    -97.091735,
+    33.175331
+],
   "geometry": {"coordinates":[-97.091735,33.175331],"type":"Point"}
 }

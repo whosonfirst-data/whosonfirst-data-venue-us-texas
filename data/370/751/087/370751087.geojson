@@ -2,13 +2,14 @@
   "id": 370751087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.068577,33.1381,-97.068577,33.1381",
     "geom:latitude":33.1381,
     "geom:longitude":-97.068577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Clark Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370751087,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467084473,
     "wof:name":"RPC Services",
     "wof:parent_id":85893645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.068577,33.1381,-97.068577,33.1381],
+  "bbox": [
+    -97.068577,
+    33.1381,
+    -97.068577,
+    33.1381
+],
   "geometry": {"coordinates":[-97.068577,33.1381],"type":"Point"}
 }

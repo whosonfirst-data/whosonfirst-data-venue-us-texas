@@ -2,13 +2,14 @@
   "id": 286369285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.474145,29.823817,-95.474145,29.823817",
     "geom:latitude":29.823817,
     "geom:longitude":-95.474145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11607 Northwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286369285,
-    "wof:lastmodified":1449017938,
+    "wof:lastmodified":1467084313,
     "wof:name":"WOODLAND INN AND SUITES",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.474145,29.823817,-95.474145,29.823817],
-  "geometry": {"coordinates":[-95.474145,29.823817],"type":"Point"}
+  "bbox": [
+    -95.474145,
+    29.823817,
+    -95.474145,
+    29.823817
+],
+  "geometry": {"coordinates":[-95.47414499999999,29.823817],"type":"Point"}
 }

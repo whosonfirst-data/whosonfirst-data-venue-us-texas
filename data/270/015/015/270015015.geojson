@@ -2,13 +2,14 @@
   "id": 270015015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.448022,29.819243,-95.448022,29.819243",
     "geom:latitude":29.819243,
     "geom:longitude":-95.448022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3544 E T C Jester Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270015015,
-    "wof:lastmodified":1449009187,
+    "wof:lastmodified":1467084167,
     "wof:name":"T & J Electronic Systems",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "telecasting"
     ]
 },
-  "bbox": [-95.448022,29.819243,-95.448022,29.819243],
-  "geometry": {"coordinates":[-95.448022,29.819243],"type":"Point"}
+  "bbox": [
+    -95.448022,
+    29.819243,
+    -95.448022,
+    29.819243
+],
+  "geometry": {"coordinates":[-95.44802199999999,29.819243],"type":"Point"}
 }

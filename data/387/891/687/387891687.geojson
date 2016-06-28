@@ -2,13 +2,14 @@
   "id": 387891687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750285,30.264888,-97.750285,30.264888",
     "geom:latitude":30.264888,
     "geom:longitude":-97.750285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 W 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387891687,
-    "wof:lastmodified":1449058397,
+    "wof:lastmodified":1467084843,
     "wof:name":"System Integration Partners",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-97.750285,30.264888,-97.750285,30.264888],
-  "geometry": {"coordinates":[-97.750285,30.264888],"type":"Point"}
+  "bbox": [
+    -97.750285,
+    30.264888,
+    -97.750285,
+    30.264888
+],
+  "geometry": {"coordinates":[-97.75028500000001,30.264888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202805977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.883052,30.289387,-97.883052,30.289387",
     "geom:latitude":30.289387,
     "geom:longitude":-97.883052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Creeks Edge Pkwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202805977,
-    "wof:lastmodified":1449060961,
+    "wof:lastmodified":1467084906,
     "wof:name":"Blue Hill Consultants",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-97.883052,30.289387,-97.883052,30.289387],
-  "geometry": {"coordinates":[-97.883052,30.289387],"type":"Point"}
+  "bbox": [
+    -97.883052,
+    30.289387,
+    -97.883052,
+    30.289387
+],
+  "geometry": {"coordinates":[-97.88305200000001,30.289387],"type":"Point"}
 }

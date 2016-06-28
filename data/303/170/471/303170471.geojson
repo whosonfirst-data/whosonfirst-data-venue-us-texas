@@ -2,13 +2,14 @@
   "id": 303170471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517181,30.231091,-97.517181,30.231091",
     "geom:latitude":30.231091,
     "geom:longitude":-97.517181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Water St 15828",
     "sg:city":"Webberville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303170471,
-    "wof:lastmodified":1448998349,
+    "wof:lastmodified":1467083703,
     "wof:name":"Air Systems Of Austin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.517181,30.231091,-97.517181,30.231091],
-  "geometry": {"coordinates":[-97.517181,30.231091],"type":"Point"}
+  "bbox": [
+    -97.517181,
+    30.231091,
+    -97.517181,
+    30.231091
+],
+  "geometry": {"coordinates":[-97.51718099999999,30.231091],"type":"Point"}
 }

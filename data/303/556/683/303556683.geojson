@@ -2,13 +2,14 @@
   "id": 303556683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.735616,30.23157,-97.735616,30.23157",
     "geom:latitude":30.23157,
     "geom:longitude":-97.735616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Oltorf St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303556683,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1467083721,
     "wof:name":"3 Diamonds",
     "wof:parent_id":85869951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.735616,30.23157,-97.735616,30.23157],
-  "geometry": {"coordinates":[-97.735616,30.23157],"type":"Point"}
+  "bbox": [
+    -97.735616,
+    30.23157,
+    -97.735616,
+    30.23157
+],
+  "geometry": {"coordinates":[-97.73561599999999,30.23157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303709179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720111,30.297385,-97.720111,30.297385",
     "geom:latitude":30.297385,
     "geom:longitude":-97.720111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 E 40th Street Suite 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303709179,
-    "wof:lastmodified":1448998605,
+    "wof:lastmodified":1467083715,
     "wof:name":"Mitchel Wong MD",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.720111,30.297385,-97.720111,30.297385],
+  "bbox": [
+    -97.720111,
+    30.297385,
+    -97.720111,
+    30.297385
+],
   "geometry": {"coordinates":[-97.720111,30.297385],"type":"Point"}
 }

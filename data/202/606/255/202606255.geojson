@@ -2,13 +2,14 @@
   "id": 202606255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.304219,32.795063,-97.304219,32.795063",
     "geom:latitude":32.795063,
     "geom:longitude":-97.304219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 NE 28th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202606255,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1467084896,
     "wof:name":"Texas Sales",
     "wof:parent_id":85871559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.304219,32.795063,-97.304219,32.795063],
+  "bbox": [
+    -97.304219,
+    32.795063,
+    -97.304219,
+    32.795063
+],
   "geometry": {"coordinates":[-97.304219,32.795063],"type":"Point"}
 }

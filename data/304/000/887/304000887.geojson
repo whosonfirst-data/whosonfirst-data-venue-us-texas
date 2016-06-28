@@ -2,13 +2,14 @@
   "id": 304000887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.914341,33.533331,-101.914341,33.533331",
     "geom:latitude":33.533331,
     "geom:longitude":-101.914341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 S Loop 289",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":304000887,
-    "wof:lastmodified":1449043648,
+    "wof:lastmodified":1467084661,
     "wof:name":"Advantage Medical Staffing",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "growers'"
     ]
 },
-  "bbox": [-101.914341,33.533331,-101.914341,33.533331],
-  "geometry": {"coordinates":[-101.914341,33.533331],"type":"Point"}
+  "bbox": [
+    -101.914341,
+    33.533331,
+    -101.914341,
+    33.533331
+],
+  "geometry": {"coordinates":[-101.91434099999999,33.533331],"type":"Point"}
 }

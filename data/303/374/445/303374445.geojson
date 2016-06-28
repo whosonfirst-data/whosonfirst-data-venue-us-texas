@@ -2,13 +2,14 @@
   "id": 303374445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733696,30.491149,-97.733696,30.491149",
     "geom:latitude":30.491149,
     "geom:longitude":-97.733696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8005 Cornerwood Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303374445,
-    "wof:lastmodified":1448999182,
+    "wof:lastmodified":1467083745,
     "wof:name":"Merrill Gardens At Round Rock",
     "wof:parent_id":85893521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "homes-intermediate"
     ]
 },
-  "bbox": [-97.733696,30.491149,-97.733696,30.491149],
-  "geometry": {"coordinates":[-97.733696,30.491149],"type":"Point"}
+  "bbox": [
+    -97.733696,
+    30.491149,
+    -97.733696,
+    30.491149
+],
+  "geometry": {"coordinates":[-97.73369599999999,30.491149],"type":"Point"}
 }

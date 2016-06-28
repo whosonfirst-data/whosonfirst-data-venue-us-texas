@@ -2,13 +2,14 @@
   "id": 220006583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752885,30.254054,-97.752885,30.254054",
     "geom:latitude":30.254054,
     "geom:longitude":-97.752885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220006583,
-    "wof:lastmodified":1449074684,
+    "wof:lastmodified":1467085191,
     "wof:name":"Home Ideas",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.752885,30.254054,-97.752885,30.254054],
-  "geometry": {"coordinates":[-97.752885,30.254054],"type":"Point"}
+  "bbox": [
+    -97.752885,
+    30.254054,
+    -97.752885,
+    30.254054
+],
+  "geometry": {"coordinates":[-97.75288500000001,30.254054],"type":"Point"}
 }

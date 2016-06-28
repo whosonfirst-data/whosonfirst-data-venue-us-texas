@@ -2,13 +2,14 @@
   "id": 303052243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.265077,30.046602,-97.265077,30.046602",
     "geom:latitude":30.046602,
     "geom:longitude":-97.265077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Eagle Ct",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -100,10 +101,11 @@
         }
     ],
     "wof:id":303052243,
-    "wof:lastmodified":1448999228,
+    "wof:lastmodified":1467083747,
     "wof:name":"The Handy Husband",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -138,6 +140,11 @@
         "replacement"
     ]
 },
-  "bbox": [-97.265077,30.046602,-97.265077,30.046602],
-  "geometry": {"coordinates":[-97.265077,30.046602],"type":"Point"}
+  "bbox": [
+    -97.265077,
+    30.046602,
+    -97.265077,
+    30.046602
+],
+  "geometry": {"coordinates":[-97.26507700000001,30.046602],"type":"Point"}
 }

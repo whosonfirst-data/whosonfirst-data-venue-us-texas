@@ -2,13 +2,14 @@
   "id": 186611879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505406,27.513311,-99.505406,27.513311",
     "geom:latitude":27.513311,
     "geom:longitude":-99.505406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Garcia St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186611879,
-    "wof:lastmodified":1449052441,
+    "wof:lastmodified":1467084734,
     "wof:name":"Nato's Garage",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-99.505406,27.513311,-99.505406,27.513311],
-  "geometry": {"coordinates":[-99.505406,27.513311],"type":"Point"}
+  "bbox": [
+    -99.505406,
+    27.513311,
+    -99.505406,
+    27.513311
+],
+  "geometry": {"coordinates":[-99.50540599999999,27.513311],"type":"Point"}
 }

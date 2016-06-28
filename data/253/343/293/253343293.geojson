@@ -2,13 +2,14 @@
   "id": 253343293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400456,33.660863,-95.400456,33.660863",
     "geom:latitude":33.660863,
     "geom:longitude":-95.400456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W Front St",
     "sg:city":"Blossom",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253343293,
-    "wof:lastmodified":1449064933,
+    "wof:lastmodified":1467085018,
     "wof:name":"Mike's Custom Works",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "trailers-automobile"
     ]
 },
-  "bbox": [-95.400456,33.660863,-95.400456,33.660863],
-  "geometry": {"coordinates":[-95.400456,33.660863],"type":"Point"}
+  "bbox": [
+    -95.400456,
+    33.660863,
+    -95.400456,
+    33.660863
+],
+  "geometry": {"coordinates":[-95.40045600000001,33.660863],"type":"Point"}
 }

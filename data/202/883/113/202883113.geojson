@@ -2,13 +2,14 @@
   "id": 202883113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.710035,29.791292,-95.710035,29.791292",
     "geom:latitude":29.791292,
     "geom:longitude":-95.710035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19321 Park Row",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202883113,
-    "wof:lastmodified":1449062064,
+    "wof:lastmodified":1467084928,
     "wof:name":"Island Falls Apartments",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.710035,29.791292,-95.710035,29.791292],
+  "bbox": [
+    -95.710035,
+    29.791292,
+    -95.710035,
+    29.791292
+],
   "geometry": {"coordinates":[-95.710035,29.791292],"type":"Point"}
 }

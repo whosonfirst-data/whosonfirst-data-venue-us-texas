@@ -2,13 +2,14 @@
   "id": 303122591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.781768,30.207831,-98.781768,30.207831",
     "geom:latitude":30.207831,
     "geom:longitude":-98.781768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Jordan Tatsch Rd",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303122591,
-    "wof:lastmodified":1448999510,
+    "wof:lastmodified":1467083761,
     "wof:name":"Tatsch Well Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "pumps-service"
     ]
 },
-  "bbox": [-98.781768,30.207831,-98.781768,30.207831],
+  "bbox": [
+    -98.781768,
+    30.207831,
+    -98.781768,
+    30.207831
+],
   "geometry": {"coordinates":[-98.781768,30.207831],"type":"Point"}
 }

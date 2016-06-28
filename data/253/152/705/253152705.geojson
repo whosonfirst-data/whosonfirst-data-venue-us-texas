@@ -2,13 +2,14 @@
   "id": 253152705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707994,32.903135,-96.707994,32.903135",
     "geom:latitude":32.903135,
     "geom:longitude":-96.707994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11440 Pagemill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253152705,
-    "wof:lastmodified":1449065078,
+    "wof:lastmodified":1467085023,
     "wof:name":"Qualified System Install",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "furniture"
     ]
 },
-  "bbox": [-96.707994,32.903135,-96.707994,32.903135],
+  "bbox": [
+    -96.707994,
+    32.903135,
+    -96.707994,
+    32.903135
+],
   "geometry": {"coordinates":[-96.707994,32.903135],"type":"Point"}
 }

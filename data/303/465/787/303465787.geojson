@@ -2,13 +2,14 @@
   "id": 303465787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74993,30.308619,-97.74993,30.308619",
     "geom:latitude":30.308619,
     "geom:longitude":-97.74993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W. 38th Street Ste 108",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303465787,
-    "wof:lastmodified":1448999762,
+    "wof:lastmodified":1467083774,
     "wof:name":"Santa Fe Optical",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-97.74993,30.308619,-97.74993,30.308619],
-  "geometry": {"coordinates":[-97.74993,30.308619],"type":"Point"}
+  "bbox": [
+    -97.74993,
+    30.308619,
+    -97.74993,
+    30.308619
+],
+  "geometry": {"coordinates":[-97.74993000000001,30.308619],"type":"Point"}
 }

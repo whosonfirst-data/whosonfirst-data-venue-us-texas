@@ -2,13 +2,14 @@
   "id": 387390567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505435,27.517039,-99.505435,27.517039",
     "geom:latitude":27.517039,
     "geom:longitude":-99.505435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Park St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387390567,
-    "wof:lastmodified":1449059960,
+    "wof:lastmodified":1467084884,
     "wof:name":"Lasiberia Restaurant",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.505435,27.517039,-99.505435,27.517039],
-  "geometry": {"coordinates":[-99.505435,27.517039],"type":"Point"}
+  "bbox": [
+    -99.505435,
+    27.517039,
+    -99.505435,
+    27.517039
+],
+  "geometry": {"coordinates":[-99.50543500000001,27.517039],"type":"Point"}
 }

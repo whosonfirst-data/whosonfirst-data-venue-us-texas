@@ -2,13 +2,14 @@
   "id": 303348399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.779457,30.254232,-97.779457,30.254232",
     "geom:latitude":30.254232,
     "geom:longitude":-97.779457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Westridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303348399,
-    "wof:lastmodified":1448998223,
+    "wof:lastmodified":1467083696,
     "wof:name":"Austin Mortuary Services",
     "wof:parent_id":85869925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-97.779457,30.254232,-97.779457,30.254232],
-  "geometry": {"coordinates":[-97.779457,30.254232],"type":"Point"}
+  "bbox": [
+    -97.779457,
+    30.254232,
+    -97.779457,
+    30.254232
+],
+  "geometry": {"coordinates":[-97.77945699999999,30.254232],"type":"Point"}
 }

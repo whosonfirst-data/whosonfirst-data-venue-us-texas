@@ -2,13 +2,14 @@
   "id": 403731839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.805192,30.506496,-97.805192,30.506496",
     "geom:latitude":30.506496,
     "geom:longitude":-97.805192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Savanna Ln",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403731839,
-    "wof:lastmodified":1449055820,
+    "wof:lastmodified":1467084777,
     "wof:name":"After Hours Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.805192,30.506496,-97.805192,30.506496],
-  "geometry": {"coordinates":[-97.805192,30.506496],"type":"Point"}
+  "bbox": [
+    -97.805192,
+    30.506496,
+    -97.805192,
+    30.506496
+],
+  "geometry": {"coordinates":[-97.80519200000001,30.506496],"type":"Point"}
 }

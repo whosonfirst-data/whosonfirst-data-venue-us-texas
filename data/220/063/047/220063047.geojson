@@ -2,13 +2,14 @@
   "id": 220063047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.510129,32.552943,-94.510129,32.552943",
     "geom:latitude":32.552943,
     "geom:longitude":-94.510129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 FM 450",
     "sg:city":"Hallsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220063047,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1467085178,
     "wof:name":"Hallsville Chamber Of Commerce",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-94.510129,32.552943,-94.510129,32.552943],
-  "geometry": {"coordinates":[-94.510129,32.552943],"type":"Point"}
+  "bbox": [
+    -94.510129,
+    32.552943,
+    -94.510129,
+    32.552943
+],
+  "geometry": {"coordinates":[-94.51012900000001,32.552943],"type":"Point"}
 }

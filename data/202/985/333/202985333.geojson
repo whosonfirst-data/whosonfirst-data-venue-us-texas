@@ -2,13 +2,14 @@
   "id": 202985333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.258502,30.742924,-95.258502,30.742924",
     "geom:latitude":30.742924,
     "geom:longitude":-95.258502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 US Hwy 190",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202985333,
-    "wof:lastmodified":1449061382,
+    "wof:lastmodified":1467084915,
     "wof:name":"Hillside Boat Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "boat"
     ]
 },
-  "bbox": [-95.258502,30.742924,-95.258502,30.742924],
-  "geometry": {"coordinates":[-95.258502,30.742924],"type":"Point"}
+  "bbox": [
+    -95.258502,
+    30.742924,
+    -95.258502,
+    30.742924
+],
+  "geometry": {"coordinates":[-95.25850199999999,30.742924],"type":"Point"}
 }

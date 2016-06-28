@@ -2,13 +2,14 @@
   "id": 269685775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721201,31.092193,-97.721201,31.092193",
     "geom:latitude":31.092193,
     "geom:longitude":-97.721201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1711 E Central Texas Expy - Ste 108-3",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":269685775,
-    "wof:lastmodified":1449038886,
+    "wof:lastmodified":1467084636,
     "wof:name":"Jones Audiology & Hearing Aid Centers",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-97.721201,31.092193,-97.721201,31.092193],
-  "geometry": {"coordinates":[-97.721201,31.092193],"type":"Point"}
+  "bbox": [
+    -97.721201,
+    31.092193,
+    -97.721201,
+    31.092193
+],
+  "geometry": {"coordinates":[-97.72120099999999,31.092193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169768253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.888193,32.886451,-96.888193,32.886451",
     "geom:latitude":32.886451,
     "geom:longitude":-96.888193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Southwell Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169768253,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1467084562,
     "wof:name":"Temperature Controls-Dallas",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "e"
     ]
 },
-  "bbox": [-96.888193,32.886451,-96.888193,32.886451],
+  "bbox": [
+    -96.888193,
+    32.886451,
+    -96.888193,
+    32.886451
+],
   "geometry": {"coordinates":[-96.888193,32.886451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202944223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.301522,32.347425,-95.301522,32.347425",
     "geom:latitude":32.347425,
     "geom:longitude":-95.301522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 University Pl",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202944223,
-    "wof:lastmodified":1449061387,
+    "wof:lastmodified":1467084915,
     "wof:name":"Lost In Time",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-95.301522,32.347425,-95.301522,32.347425],
-  "geometry": {"coordinates":[-95.301522,32.347425],"type":"Point"}
+  "bbox": [
+    -95.301522,
+    32.347425,
+    -95.301522,
+    32.347425
+],
+  "geometry": {"coordinates":[-95.30152200000001,32.347425],"type":"Point"}
 }

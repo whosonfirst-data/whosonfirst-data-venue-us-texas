@@ -2,13 +2,14 @@
   "id": 304030011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.841799,32.706336,-100.841799,32.706336",
     "geom:latitude":32.706336,
     "geom:longitude":-100.841799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 County Road 151",
     "sg:city":"Snyder",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":304030011,
-    "wof:lastmodified":1449043780,
+    "wof:lastmodified":1467084664,
     "wof:name":"General Council Of Assemblies Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-100.841799,32.706336,-100.841799,32.706336],
-  "geometry": {"coordinates":[-100.841799,32.706336],"type":"Point"}
+  "bbox": [
+    -100.841799,
+    32.706336,
+    -100.841799,
+    32.706336
+],
+  "geometry": {"coordinates":[-100.84179899999999,32.706336],"type":"Point"}
 }

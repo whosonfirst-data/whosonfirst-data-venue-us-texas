@@ -2,13 +2,14 @@
   "id": 270103421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.442184,29.73703,-95.442184,29.73703",
     "geom:latitude":29.73703,
     "geom:longitude":-95.442184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Weslayan 4th Floor",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270103421,
-    "wof:lastmodified":1449010169,
+    "wof:lastmodified":1467084200,
     "wof:name":"Berkeley Eye Center Caplan Surgery Center",
     "wof:parent_id":85869307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgery/lasik"
     ]
 },
-  "bbox": [-95.442184,29.73703,-95.442184,29.73703],
+  "bbox": [
+    -95.442184,
+    29.73703,
+    -95.442184,
+    29.73703
+],
   "geometry": {"coordinates":[-95.442184,29.73703],"type":"Point"}
 }

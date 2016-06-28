@@ -2,13 +2,14 @@
   "id": 404032943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.16428,31.532481,-97.16428,31.532481",
     "geom:latitude":31.532481,
     "geom:longitude":-97.16428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Herwol Ave",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404032943,
-    "wof:lastmodified":1449039602,
+    "wof:lastmodified":1467084649,
     "wof:name":"Ensey & Assoc Inc",
     "wof:parent_id":85881729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "construction"
     ]
 },
-  "bbox": [-97.16428,31.532481,-97.16428,31.532481],
-  "geometry": {"coordinates":[-97.16428,31.532481],"type":"Point"}
+  "bbox": [
+    -97.16428,
+    31.532481,
+    -97.16428,
+    31.532481
+],
+  "geometry": {"coordinates":[-97.16428000000001,31.532481],"type":"Point"}
 }

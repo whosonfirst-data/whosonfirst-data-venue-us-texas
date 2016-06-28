@@ -2,13 +2,14 @@
   "id": 203305179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.49229,31.764529,-106.49229,31.764529",
     "geom:latitude":31.764529,
     "geom:longitude":-106.49229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203305179,
-    "wof:lastmodified":1449025224,
+    "wof:lastmodified":1467084390,
     "wof:name":"First Savings Bank",
     "wof:parent_id":85871375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.49229,31.764529,-106.49229,31.764529],
+  "bbox": [
+    -106.49229,
+    31.764529,
+    -106.49229,
+    31.764529
+],
   "geometry": {"coordinates":[-106.49229,31.764529],"type":"Point"}
 }

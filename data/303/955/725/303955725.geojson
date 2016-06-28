@@ -2,13 +2,14 @@
   "id": 303955725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.334801,33.986671,-101.334801,33.986671",
     "geom:latitude":33.986671,
     "geom:longitude":-101.334801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Virginia St",
     "sg:city":"Floydada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303955725,
-    "wof:lastmodified":1448999814,
+    "wof:lastmodified":1467083776,
     "wof:name":"Floydada Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.334801,33.986671,-101.334801,33.986671],
+  "bbox": [
+    -101.334801,
+    33.986671,
+    -101.334801,
+    33.986671
+],
   "geometry": {"coordinates":[-101.334801,33.986671],"type":"Point"}
 }

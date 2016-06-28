@@ -2,13 +2,14 @@
   "id": 236206021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677097,30.450217,-97.677097,30.450217",
     "geom:latitude":30.450217,
     "geom:longitude":-97.677097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Rick Whinery Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236206021,
-    "wof:lastmodified":1449003980,
+    "wof:lastmodified":1467083979,
     "wof:name":"Stridge Inc",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "develop"
     ]
 },
-  "bbox": [-97.677097,30.450217,-97.677097,30.450217],
+  "bbox": [
+    -97.677097,
+    30.450217,
+    -97.677097,
+    30.450217
+],
   "geometry": {"coordinates":[-97.677097,30.450217],"type":"Point"}
 }

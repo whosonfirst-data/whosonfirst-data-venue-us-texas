@@ -2,13 +2,14 @@
   "id": 220168903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.095249,32.784185,-97.095249,32.784185",
     "geom:latitude":32.784185,
     "geom:longitude":-97.095249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 N Collins St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220168903,
-    "wof:lastmodified":1449074459,
+    "wof:lastmodified":1467085186,
     "wof:name":"Parcel Plus",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.095249,32.784185,-97.095249,32.784185],
+  "bbox": [
+    -97.095249,
+    32.784185,
+    -97.095249,
+    32.784185
+],
   "geometry": {"coordinates":[-97.095249,32.784185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303830403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759089,30.388008,-97.759089,30.388008",
     "geom:latitude":30.388008,
     "geom:longitude":-97.759089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8911 N Capital Of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303830403,
-    "wof:lastmodified":1448998634,
+    "wof:lastmodified":1467083717,
     "wof:name":"Escapes Austin",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.759089,30.388008,-97.759089,30.388008],
+  "bbox": [
+    -97.759089,
+    30.388008,
+    -97.759089,
+    30.388008
+],
   "geometry": {"coordinates":[-97.759089,30.388008],"type":"Point"}
 }

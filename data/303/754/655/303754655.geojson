@@ -2,13 +2,14 @@
   "id": 303754655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.728402,30.323334,-97.728402,30.323334",
     "geom:latitude":30.323334,
     "geom:longitude":-97.728402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Houston St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303754655,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1467083772,
     "wof:name":"Swann's Garage & Radiator Shop",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.728402,30.323334,-97.728402,30.323334],
+  "bbox": [
+    -97.728402,
+    30.323334,
+    -97.728402,
+    30.323334
+],
   "geometry": {"coordinates":[-97.728402,30.323334],"type":"Point"}
 }

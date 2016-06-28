@@ -2,13 +2,14 @@
   "id": 202554619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.356406,30.646127,-96.356406,30.646127",
     "geom:latitude":30.646127,
     "geom:longitude":-96.356406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Texas Ave S",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202554619,
-    "wof:lastmodified":1449060636,
+    "wof:lastmodified":1467084899,
     "wof:name":"American Brangus Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.356406,30.646127,-96.356406,30.646127],
-  "geometry": {"coordinates":[-96.356406,30.646127],"type":"Point"}
+  "bbox": [
+    -96.356406,
+    30.646127,
+    -96.356406,
+    30.646127
+],
+  "geometry": {"coordinates":[-96.35640600000001,30.646127],"type":"Point"}
 }

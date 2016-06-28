@@ -2,13 +2,14 @@
   "id": 371178127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.16061,30.016039,-99.16061,30.016039",
     "geom:latitude":30.016039,
     "geom:longitude":-99.16061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Encino Rd",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371178127,
-    "wof:lastmodified":1449049806,
+    "wof:lastmodified":1467084684,
     "wof:name":"Dantech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.16061,30.016039,-99.16061,30.016039],
-  "geometry": {"coordinates":[-99.16061,30.016039],"type":"Point"}
+  "bbox": [
+    -99.16061,
+    30.016039,
+    -99.16061,
+    30.016039
+],
+  "geometry": {"coordinates":[-99.16061000000001,30.016039],"type":"Point"}
 }

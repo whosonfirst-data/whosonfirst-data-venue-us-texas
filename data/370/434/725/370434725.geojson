@@ -2,13 +2,14 @@
   "id": 370434725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.626861,32.755499,-96.626861,32.755499",
     "geom:latitude":32.755499,
     "geom:longitude":-96.626861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Powell Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370434725,
-    "wof:lastmodified":1449029828,
+    "wof:lastmodified":1467084487,
     "wof:name":"Paul D Reeb",
     "wof:parent_id":85893821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.626861,32.755499,-96.626861,32.755499],
-  "geometry": {"coordinates":[-96.626861,32.755499],"type":"Point"}
+  "bbox": [
+    -96.626861,
+    32.755499,
+    -96.626861,
+    32.755499
+],
+  "geometry": {"coordinates":[-96.62686100000001,32.755499],"type":"Point"}
 }

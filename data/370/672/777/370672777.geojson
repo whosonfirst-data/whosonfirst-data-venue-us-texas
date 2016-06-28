@@ -2,13 +2,14 @@
   "id": 370672777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.408288,32.340054,-97.408288,32.340054",
     "geom:latitude":32.340054,
     "geom:longitude":-97.408288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Ridgeway Dr",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370672777,
-    "wof:lastmodified":1449029299,
+    "wof:lastmodified":1467084474,
     "wof:name":"Corner Shop",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.408288,32.340054,-97.408288,32.340054],
+  "bbox": [
+    -97.408288,
+    32.340054,
+    -97.408288,
+    32.340054
+],
   "geometry": {"coordinates":[-97.408288,32.340054],"type":"Point"}
 }

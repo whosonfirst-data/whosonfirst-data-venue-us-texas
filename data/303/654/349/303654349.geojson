@@ -2,13 +2,14 @@
   "id": 303654349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.836386,30.2215,-97.836386,30.2215",
     "geom:latitude":30.2215,
     "geom:longitude":-97.836386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 S Mo Pac Expressway",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303654349,
-    "wof:lastmodified":1448998936,
+    "wof:lastmodified":1467083733,
     "wof:name":"Allergy and Asthma Clinic of Central Texas",
     "wof:parent_id":85857877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.836386,30.2215,-97.836386,30.2215],
+  "bbox": [
+    -97.836386,
+    30.2215,
+    -97.836386,
+    30.2215
+],
   "geometry": {"coordinates":[-97.836386,30.2215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387395961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399234,29.76887,-95.399234,29.76887",
     "geom:latitude":29.76887,
     "geom:longitude":-95.399234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Barnes St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387395961,
-    "wof:lastmodified":1449059367,
+    "wof:lastmodified":1467084868,
     "wof:name":"Louiss Place",
     "wof:parent_id":85869763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.399234,29.76887,-95.399234,29.76887],
-  "geometry": {"coordinates":[-95.399234,29.76887],"type":"Point"}
+  "bbox": [
+    -95.399234,
+    29.76887,
+    -95.399234,
+    29.76887
+],
+  "geometry": {"coordinates":[-95.39923400000001,29.76887],"type":"Point"}
 }

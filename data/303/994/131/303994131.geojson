@@ -2,13 +2,14 @@
   "id": 303994131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.879095,33.56329,-101.879095,33.56329",
     "geom:latitude":33.56329,
     "geom:longitude":-101.879095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 34th St Ste B",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303994131,
-    "wof:lastmodified":1448998236,
+    "wof:lastmodified":1467083697,
     "wof:name":"Gun Shop On 34th St",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-101.879095,33.56329,-101.879095,33.56329],
-  "geometry": {"coordinates":[-101.879095,33.56329],"type":"Point"}
+  "bbox": [
+    -101.879095,
+    33.56329,
+    -101.879095,
+    33.56329
+],
+  "geometry": {"coordinates":[-101.87909500000001,33.56329],"type":"Point"}
 }

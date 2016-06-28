@@ -2,13 +2,14 @@
   "id": 387450817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82456,32.743185,-96.82456,32.743185",
     "geom:latitude":32.743185,
     "geom:longitude":-96.82456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Zang Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387450817,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1467084867,
     "wof:name":"Alliance Group",
     "wof:parent_id":85838633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.82456,32.743185,-96.82456,32.743185],
-  "geometry": {"coordinates":[-96.82456,32.743185],"type":"Point"}
+  "bbox": [
+    -96.82456,
+    32.743185,
+    -96.82456,
+    32.743185
+],
+  "geometry": {"coordinates":[-96.82456000000001,32.743185],"type":"Point"}
 }

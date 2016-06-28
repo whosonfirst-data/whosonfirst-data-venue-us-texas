@@ -2,13 +2,14 @@
   "id": 370805389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.623746,32.809688,-96.623746,32.809688",
     "geom:latitude":32.809688,
     "geom:longitude":-96.623746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6506 Town East Mall",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370805389,
-    "wof:lastmodified":1449030228,
+    "wof:lastmodified":1467084497,
     "wof:name":"Picture This",
     "wof:parent_id":85878903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "picture"
     ]
 },
-  "bbox": [-96.623746,32.809688,-96.623746,32.809688],
+  "bbox": [
+    -96.623746,
+    32.809688,
+    -96.623746,
+    32.809688
+],
   "geometry": {"coordinates":[-96.623746,32.809688],"type":"Point"}
 }

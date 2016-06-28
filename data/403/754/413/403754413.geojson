@@ -2,13 +2,14 @@
   "id": 403754413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.468748,29.571054,-98.468748,29.571054",
     "geom:latitude":29.571054,
     "geom:longitude":-98.468748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14110 Susancrest Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403754413,
-    "wof:lastmodified":1449055486,
+    "wof:lastmodified":1467084769,
     "wof:name":"W H Transit Express Inc",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.468748,29.571054,-98.468748,29.571054],
-  "geometry": {"coordinates":[-98.468748,29.571054],"type":"Point"}
+  "bbox": [
+    -98.468748,
+    29.571054,
+    -98.468748,
+    29.571054
+],
+  "geometry": {"coordinates":[-98.46874800000001,29.571054],"type":"Point"}
 }

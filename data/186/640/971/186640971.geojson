@@ -2,13 +2,14 @@
   "id": 186640971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.902518,29.389149,-94.902518,29.389149",
     "geom:latitude":29.389149,
     "geom:longitude":-94.902518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 6th St N",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186640971,
-    "wof:lastmodified":1449051534,
+    "wof:lastmodified":1467084716,
     "wof:name":"City Of Texas City",
     "wof:parent_id":85893973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.902518,29.389149,-94.902518,29.389149],
+  "bbox": [
+    -94.902518,
+    29.389149,
+    -94.902518,
+    29.389149
+],
   "geometry": {"coordinates":[-94.902518,29.389149],"type":"Point"}
 }

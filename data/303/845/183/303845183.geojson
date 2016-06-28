@@ -2,13 +2,14 @@
   "id": 303845183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.888252,30.229227,-97.888252,30.229227",
     "geom:latitude":30.229227,
     "geom:longitude":-97.888252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"FM 1826 AND Hwy 290 W",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303845183,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1467083711,
     "wof:name":"Intersection of 1826 and US HWY 290 W",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.888252,30.229227,-97.888252,30.229227],
-  "geometry": {"coordinates":[-97.888252,30.229227],"type":"Point"}
+  "bbox": [
+    -97.888252,
+    30.229227,
+    -97.888252,
+    30.229227
+],
+  "geometry": {"coordinates":[-97.88825199999999,30.229227],"type":"Point"}
 }

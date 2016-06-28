@@ -2,13 +2,14 @@
   "id": 303736153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.695657,30.346781,-97.695657,30.346781",
     "geom:latitude":30.346781,
     "geom:longitude":-97.695657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8312 N I H 35 Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303736153,
-    "wof:lastmodified":1449000539,
+    "wof:lastmodified":1467083812,
     "wof:name":"Woodland Heights Apartments",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.695657,30.346781,-97.695657,30.346781],
+  "bbox": [
+    -97.695657,
+    30.346781,
+    -97.695657,
+    30.346781
+],
   "geometry": {"coordinates":[-97.695657,30.346781],"type":"Point"}
 }

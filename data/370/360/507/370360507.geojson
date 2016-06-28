@@ -2,13 +2,14 @@
   "id": 370360507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485712,31.767621,-106.485712,31.767621",
     "geom:latitude":31.767621,
     "geom:longitude":-106.485712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370360507,
-    "wof:lastmodified":1449031711,
+    "wof:lastmodified":1467084535,
     "wof:name":"Terramarr Inc",
     "wof:parent_id":85871375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-106.485712,31.767621,-106.485712,31.767621],
-  "geometry": {"coordinates":[-106.485712,31.767621],"type":"Point"}
+  "bbox": [
+    -106.485712,
+    31.767621,
+    -106.485712,
+    31.767621
+],
+  "geometry": {"coordinates":[-106.48571200000001,31.767621],"type":"Point"}
 }

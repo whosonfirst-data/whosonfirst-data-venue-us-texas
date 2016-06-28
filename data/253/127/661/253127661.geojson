@@ -2,13 +2,14 @@
   "id": 253127661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.38035,31.868312,-102.38035,31.868312",
     "geom:latitude":31.868312,
     "geom:longitude":-102.38035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 US Hwy 385",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253127661,
-    "wof:lastmodified":1449065549,
+    "wof:lastmodified":1467085039,
     "wof:name":"Ector County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-102.38035,31.868312,-102.38035,31.868312],
-  "geometry": {"coordinates":[-102.38035,31.868312],"type":"Point"}
+  "bbox": [
+    -102.38035,
+    31.868312,
+    -102.38035,
+    31.868312
+],
+  "geometry": {"coordinates":[-102.38035000000001,31.868312],"type":"Point"}
 }

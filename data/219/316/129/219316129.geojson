@@ -2,13 +2,14 @@
   "id": 219316129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.547035,32.320273,-102.547035,32.320273",
     "geom:latitude":32.320273,
     "geom:longitude":-102.547035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219316129,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1467085150,
     "wof:name":"Andrews County Tax Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-102.547035,32.320273,-102.547035,32.320273],
-  "geometry": {"coordinates":[-102.547035,32.320273],"type":"Point"}
+  "bbox": [
+    -102.547035,
+    32.320273,
+    -102.547035,
+    32.320273
+],
+  "geometry": {"coordinates":[-102.54703499999999,32.320273],"type":"Point"}
 }

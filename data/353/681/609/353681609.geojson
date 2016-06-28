@@ -2,13 +2,14 @@
   "id": 353681609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.495241,27.365084,-99.495241,27.365084",
     "geom:latitude":27.365084,
     "geom:longitude":-99.495241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1747 Centeno Ln",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353681609,
-    "wof:lastmodified":1449019843,
+    "wof:lastmodified":1467084356,
     "wof:name":"LA Princesita Bakery",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-99.495241,27.365084,-99.495241,27.365084],
-  "geometry": {"coordinates":[-99.495241,27.365084],"type":"Point"}
+  "bbox": [
+    -99.495241,
+    27.365084,
+    -99.495241,
+    27.365084
+],
+  "geometry": {"coordinates":[-99.49524099999999,27.365084],"type":"Point"}
 }

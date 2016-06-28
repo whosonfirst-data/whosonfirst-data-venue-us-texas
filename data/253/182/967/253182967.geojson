@@ -2,13 +2,14 @@
   "id": 253182967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838242,32.923466,-96.838242,32.923466",
     "geom:latitude":32.923466,
     "geom:longitude":-96.838242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12801 Midway Rd Ste 403",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253182967,
-    "wof:lastmodified":1449064696,
+    "wof:lastmodified":1467085010,
     "wof:name":"Gehm, John R",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-96.838242,32.923466,-96.838242,32.923466],
-  "geometry": {"coordinates":[-96.838242,32.923466],"type":"Point"}
+  "bbox": [
+    -96.838242,
+    32.923466,
+    -96.838242,
+    32.923466
+],
+  "geometry": {"coordinates":[-96.83824199999999,32.923466],"type":"Point"}
 }

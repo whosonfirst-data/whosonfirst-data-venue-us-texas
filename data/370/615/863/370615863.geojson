@@ -2,13 +2,14 @@
   "id": 370615863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37621,32.437397,-97.37621,32.437397",
     "geom:latitude":32.437397,
     "geom:longitude":-97.37621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Ranch Rd",
     "sg:city":"Joshua",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370615863,
-    "wof:lastmodified":1449030166,
+    "wof:lastmodified":1467084496,
     "wof:name":"R Feldt",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.37621,32.437397,-97.37621,32.437397],
+  "bbox": [
+    -97.37621,
+    32.437397,
+    -97.37621,
+    32.437397
+],
   "geometry": {"coordinates":[-97.37621,32.437397],"type":"Point"}
 }

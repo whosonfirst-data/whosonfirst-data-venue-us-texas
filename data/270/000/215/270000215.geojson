@@ -2,13 +2,14 @@
   "id": 270000215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.302308,29.845027,-95.302308,29.845027",
     "geom:latitude":29.845027,
     "geom:longitude":-95.302308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Homestead Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270000215,
-    "wof:lastmodified":1449009024,
+    "wof:lastmodified":1467084162,
     "wof:name":"King M Foodmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.302308,29.845027,-95.302308,29.845027],
+  "bbox": [
+    -95.302308,
+    29.845027,
+    -95.302308,
+    29.845027
+],
   "geometry": {"coordinates":[-95.302308,29.845027],"type":"Point"}
 }

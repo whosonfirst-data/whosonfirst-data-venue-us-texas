@@ -2,13 +2,14 @@
   "id": 303823237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74712,30.400694,-97.74712,30.400694",
     "geom:latitude":30.400694,
     "geom:longitude":-97.74712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 W Braker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":303823237,
-    "wof:lastmodified":1449000544,
+    "wof:lastmodified":1467083812,
     "wof:name":"Mail Depot",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "receiving"
     ]
 },
-  "bbox": [-97.74712,30.400694,-97.74712,30.400694],
+  "bbox": [
+    -97.74712,
+    30.400694,
+    -97.74712,
+    30.400694
+],
   "geometry": {"coordinates":[-97.74712,30.400694],"type":"Point"}
 }

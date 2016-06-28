@@ -2,13 +2,14 @@
   "id": 270040231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.329102,29.695601,-95.329102,29.695601",
     "geom:latitude":29.695601,
     "geom:longitude":-95.329102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Griggs Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270040231,
-    "wof:lastmodified":1449011064,
+    "wof:lastmodified":1467084230,
     "wof:name":"Southern Crushed Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.329102,29.695601,-95.329102,29.695601],
-  "geometry": {"coordinates":[-95.329102,29.695601],"type":"Point"}
+  "bbox": [
+    -95.329102,
+    29.695601,
+    -95.329102,
+    29.695601
+],
+  "geometry": {"coordinates":[-95.32910200000001,29.695601],"type":"Point"}
 }

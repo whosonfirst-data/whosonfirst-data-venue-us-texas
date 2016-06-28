@@ -2,13 +2,14 @@
   "id": 303652137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.867443,30.201535,-97.867443,30.201535",
     "geom:latitude":30.201535,
     "geom:longitude":-97.867443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Slaughter Ln Ste 260",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303652137,
-    "wof:lastmodified":1448999694,
+    "wof:lastmodified":1467083770,
     "wof:name":"St David's Urgent Care South Austin Medical Center",
     "wof:parent_id":85869989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-97.867443,30.201535,-97.867443,30.201535],
-  "geometry": {"coordinates":[-97.867443,30.201535],"type":"Point"}
+  "bbox": [
+    -97.867443,
+    30.201535,
+    -97.867443,
+    30.201535
+],
+  "geometry": {"coordinates":[-97.86744299999999,30.201535],"type":"Point"}
 }

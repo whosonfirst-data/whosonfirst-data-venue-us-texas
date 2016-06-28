@@ -2,13 +2,14 @@
   "id": 236274947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.854627,33.478545,-100.854627,33.478545",
     "geom:latitude":33.478545,
     "geom:longitude":-100.854627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W 2nd St",
     "sg:city":"Spur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236274947,
-    "wof:lastmodified":1449001979,
+    "wof:lastmodified":1467083876,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.854627,33.478545,-100.854627,33.478545],
-  "geometry": {"coordinates":[-100.854627,33.478545],"type":"Point"}
+  "bbox": [
+    -100.854627,
+    33.478545,
+    -100.854627,
+    33.478545
+],
+  "geometry": {"coordinates":[-100.85462699999999,33.478545],"type":"Point"}
 }

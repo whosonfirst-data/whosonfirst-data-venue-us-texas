@@ -2,13 +2,14 @@
   "id": 303133315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449441,29.501366,-97.449441,29.501366",
     "geom:latitude":29.501366,
     "geom:longitude":-97.449441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Saint Louis St",
     "sg:city":"Gonzales",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303133315,
-    "wof:lastmodified":1449000141,
+    "wof:lastmodified":1467083792,
     "wof:name":"The Episcopal Church Of The Messiah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-episcopal"
     ]
 },
-  "bbox": [-97.449441,29.501366,-97.449441,29.501366],
-  "geometry": {"coordinates":[-97.449441,29.501366],"type":"Point"}
+  "bbox": [
+    -97.449441,
+    29.501366,
+    -97.449441,
+    29.501366
+],
+  "geometry": {"coordinates":[-97.44944099999999,29.501366],"type":"Point"}
 }

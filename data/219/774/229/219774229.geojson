@@ -2,13 +2,14 @@
   "id": 219774229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.248753,30.029136,-95.248753,30.029136",
     "geom:latitude":30.029136,
     "geom:longitude":-95.248753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Ross",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219774229,
-    "wof:lastmodified":1449071759,
+    "wof:lastmodified":1467085129,
     "wof:name":"Maloneys Inspection Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.248753,30.029136,-95.248753,30.029136],
-  "geometry": {"coordinates":[-95.248753,30.029136],"type":"Point"}
+  "bbox": [
+    -95.248753,
+    30.029136,
+    -95.248753,
+    30.029136
+],
+  "geometry": {"coordinates":[-95.24875299999999,30.029136],"type":"Point"}
 }

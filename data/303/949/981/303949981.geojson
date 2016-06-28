@@ -2,13 +2,14 @@
   "id": 303949981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.891045,35.2304,-101.891045,35.2304",
     "geom:latitude":35.2304,
     "geom:longitude":-101.891045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sutton Pl",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303949981,
-    "wof:lastmodified":1448999637,
+    "wof:lastmodified":1467083768,
     "wof:name":"Amarillo Medical Group",
     "wof:parent_id":85875861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-101.891045,35.2304,-101.891045,35.2304],
-  "geometry": {"coordinates":[-101.891045,35.2304],"type":"Point"}
+  "bbox": [
+    -101.891045,
+    35.2304,
+    -101.891045,
+    35.2304
+],
+  "geometry": {"coordinates":[-101.89104500000001,35.2304],"type":"Point"}
 }

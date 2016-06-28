@@ -2,13 +2,14 @@
   "id": 286983425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129861,30.088135,-94.129861,30.088135",
     "geom:latitude":30.088135,
     "geom:longitude":-94.129861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 N 11th St Ste P2200",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286983425,
-    "wof:lastmodified":1449017849,
+    "wof:lastmodified":1467084310,
     "wof:name":"Scott R Sherron Md",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.129861,30.088135,-94.129861,30.088135],
-  "geometry": {"coordinates":[-94.129861,30.088135],"type":"Point"}
+  "bbox": [
+    -94.129861,
+    30.088135,
+    -94.129861,
+    30.088135
+],
+  "geometry": {"coordinates":[-94.12986100000001,30.088135],"type":"Point"}
 }

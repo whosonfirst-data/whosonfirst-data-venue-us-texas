@@ -2,13 +2,14 @@
   "id": 236884675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.780552,32.793128,-96.780552,32.793128",
     "geom:latitude":32.793128,
     "geom:longitude":-96.780552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N Washington Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236884675,
-    "wof:lastmodified":1449004473,
+    "wof:lastmodified":1467084002,
     "wof:name":"Museum of the American Railroad",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attraction"
     ]
 },
-  "bbox": [-96.780552,32.793128,-96.780552,32.793128],
+  "bbox": [
+    -96.780552,
+    32.793128,
+    -96.780552,
+    32.793128
+],
   "geometry": {"coordinates":[-96.780552,32.793128],"type":"Point"}
 }

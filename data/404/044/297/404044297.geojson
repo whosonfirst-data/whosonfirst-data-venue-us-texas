@@ -2,13 +2,14 @@
   "id": 404044297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.313027,30.013883,-95.313027,30.013883",
     "geom:latitude":30.013883,
     "geom:longitude":-95.313027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7302 Fox Knoll Ln",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404044297,
-    "wof:lastmodified":1449039745,
+    "wof:lastmodified":1467084650,
     "wof:name":"Anthony R Mitchell Fire Alarm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.313027,30.013883,-95.313027,30.013883],
-  "geometry": {"coordinates":[-95.313027,30.013883],"type":"Point"}
+  "bbox": [
+    -95.313027,
+    30.013883,
+    -95.313027,
+    30.013883
+],
+  "geometry": {"coordinates":[-95.31302700000001,30.013883],"type":"Point"}
 }

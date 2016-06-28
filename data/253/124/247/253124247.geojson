@@ -2,13 +2,14 @@
   "id": 253124247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.66276,30.364086,-103.66276,30.364086",
     "geom:latitude":30.364086,
     "geom:longitude":-103.66276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Brown Ave",
     "sg:city":"Alpine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253124247,
-    "wof:lastmodified":1449065567,
+    "wof:lastmodified":1467085039,
     "wof:name":"Davis Mountains Trans Pecos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "org"
     ]
 },
-  "bbox": [-103.66276,30.364086,-103.66276,30.364086],
-  "geometry": {"coordinates":[-103.66276,30.364086],"type":"Point"}
+  "bbox": [
+    -103.66276,
+    30.364086,
+    -103.66276,
+    30.364086
+],
+  "geometry": {"coordinates":[-103.66276000000001,30.364086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354404649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.847894,30.250486,-98.847894,30.250486",
     "geom:latitude":30.250486,
     "geom:longitude":-98.847894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Main St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354404649,
-    "wof:lastmodified":1449067105,
+    "wof:lastmodified":1467085080,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.847894,30.250486,-98.847894,30.250486],
+  "bbox": [
+    -98.847894,
+    30.250486,
+    -98.847894,
+    30.250486
+],
   "geometry": {"coordinates":[-98.847894,30.250486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186020495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.50256,29.985585,-95.50256,29.985585",
     "geom:latitude":29.985585,
     "geom:longitude":-95.50256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4765 FM 1960 W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186020495,
-    "wof:lastmodified":1449051633,
+    "wof:lastmodified":1467084718,
     "wof:name":"Karen Bridge",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.50256,29.985585,-95.50256,29.985585],
+  "bbox": [
+    -95.50256,
+    29.985585,
+    -95.50256,
+    29.985585
+],
   "geometry": {"coordinates":[-95.50256,29.985585],"type":"Point"}
 }

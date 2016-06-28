@@ -2,13 +2,14 @@
   "id": 253362295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.827525,32.88666,-96.827525,32.88666",
     "geom:latitude":32.88666,
     "geom:longitude":-96.827525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Tomahawk Dr",
     "sg:city":"Quinlan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253362295,
-    "wof:lastmodified":1449064744,
+    "wof:lastmodified":1467085011,
     "wof:name":"Anchor Inn Marina & Resort",
     "wof:parent_id":85833361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.827525,32.88666,-96.827525,32.88666],
-  "geometry": {"coordinates":[-96.827525,32.88666],"type":"Point"}
+  "bbox": [
+    -96.827525,
+    32.88666,
+    -96.827525,
+    32.88666
+],
+  "geometry": {"coordinates":[-96.82752499999999,32.88666],"type":"Point"}
 }

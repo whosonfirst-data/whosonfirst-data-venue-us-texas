@@ -2,13 +2,14 @@
   "id": 303107339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.655098,30.2115,-97.655098,30.2115",
     "geom:latitude":30.2115,
     "geom:longitude":-97.655098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Highway 71 E",
     "sg:city":"Del Valle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303107339,
-    "wof:lastmodified":1448998125,
+    "wof:lastmodified":1467083691,
     "wof:name":"El Michoacano Mexican Restaurant",
     "wof:parent_id":85814153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.655098,30.2115,-97.655098,30.2115],
+  "bbox": [
+    -97.655098,
+    30.2115,
+    -97.655098,
+    30.2115
+],
   "geometry": {"coordinates":[-97.655098,30.2115],"type":"Point"}
 }

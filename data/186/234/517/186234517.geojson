@@ -2,13 +2,14 @@
   "id": 186234517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730173,33.041114,-96.730173,33.041114",
     "geom:latitude":33.041114,
     "geom:longitude":-96.730173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W Parker Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186234517,
-    "wof:lastmodified":1449052890,
+    "wof:lastmodified":1467084744,
     "wof:name":"Legacy Bank Of Texas",
     "wof:parent_id":85879889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.730173,33.041114,-96.730173,33.041114],
-  "geometry": {"coordinates":[-96.730173,33.041114],"type":"Point"}
+  "bbox": [
+    -96.730173,
+    33.041114,
+    -96.730173,
+    33.041114
+],
+  "geometry": {"coordinates":[-96.73017299999999,33.041114],"type":"Point"}
 }

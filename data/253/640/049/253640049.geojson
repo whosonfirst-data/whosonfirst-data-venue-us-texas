@@ -2,13 +2,14 @@
   "id": 253640049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.199174,32.680549,-97.199174,32.680549",
     "geom:latitude":32.680549,
     "geom:longitude":-97.199174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5909 Spring Hill Ct",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253640049,
-    "wof:lastmodified":1449064106,
+    "wof:lastmodified":1467084989,
     "wof:name":"Testing Services & Calibration",
     "wof:parent_id":85851851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "testing"
     ]
 },
-  "bbox": [-97.199174,32.680549,-97.199174,32.680549],
+  "bbox": [
+    -97.199174,
+    32.680549,
+    -97.199174,
+    32.680549
+],
   "geometry": {"coordinates":[-97.199174,32.680549],"type":"Point"}
 }

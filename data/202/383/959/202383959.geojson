@@ -2,13 +2,14 @@
   "id": 202383959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.922137,32.778435,-96.922137,32.778435",
     "geom:latitude":32.778435,
     "geom:longitude":-96.922137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Sea Harbor Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202383959,
-    "wof:lastmodified":1449061188,
+    "wof:lastmodified":1467084911,
     "wof:name":"DFW Grating Inc",
     "wof:parent_id":85815731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grating"
     ]
 },
-  "bbox": [-96.922137,32.778435,-96.922137,32.778435],
-  "geometry": {"coordinates":[-96.922137,32.778435],"type":"Point"}
+  "bbox": [
+    -96.922137,
+    32.778435,
+    -96.922137,
+    32.778435
+],
+  "geometry": {"coordinates":[-96.92213700000001,32.778435],"type":"Point"}
 }

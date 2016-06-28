@@ -2,13 +2,14 @@
   "id": 303815971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745726,30.392576,-97.745726,30.392576",
     "geom:latitude":30.392576,
     "geom:longitude":-97.745726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 Research Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303815971,
-    "wof:lastmodified":1448999302,
+    "wof:lastmodified":1467083751,
     "wof:name":"Ret",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.745726,30.392576,-97.745726,30.392576],
+  "bbox": [
+    -97.745726,
+    30.392576,
+    -97.745726,
+    30.392576
+],
   "geometry": {"coordinates":[-97.745726,30.392576],"type":"Point"}
 }

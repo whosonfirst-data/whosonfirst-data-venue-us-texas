@@ -2,13 +2,14 @@
   "id": 270060285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560949,29.775921,-95.560949,29.775921",
     "geom:latitude":29.775921,
     "geom:longitude":-95.560949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Town and Country Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270060285,
-    "wof:lastmodified":1449010871,
+    "wof:lastmodified":1467084224,
     "wof:name":"James Coney Island",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.560949,29.775921,-95.560949,29.775921],
-  "geometry": {"coordinates":[-95.560949,29.775921],"type":"Point"}
+  "bbox": [
+    -95.560949,
+    29.775921,
+    -95.560949,
+    29.775921
+],
+  "geometry": {"coordinates":[-95.56094899999999,29.775921],"type":"Point"}
 }

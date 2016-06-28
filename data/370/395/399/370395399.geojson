@@ -2,13 +2,14 @@
   "id": 370395399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.528162,29.669555,-95.528162,29.669555",
     "geom:latitude":29.669555,
     "geom:longitude":-95.528162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 S Gessner Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370395399,
-    "wof:lastmodified":1449031970,
+    "wof:lastmodified":1467084542,
     "wof:name":"Mawusi Transport",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.528162,29.669555,-95.528162,29.669555],
-  "geometry": {"coordinates":[-95.528162,29.669555],"type":"Point"}
+  "bbox": [
+    -95.528162,
+    29.669555,
+    -95.528162,
+    29.669555
+],
+  "geometry": {"coordinates":[-95.52816199999999,29.669555],"type":"Point"}
 }

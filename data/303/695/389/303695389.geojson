@@ -2,13 +2,14 @@
   "id": 303695389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.805629,30.454858,-97.805629,30.454858",
     "geom:latitude":30.454858,
     "geom:longitude":-97.805629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10707 Lake Creek Parkway",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303695389,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1467083738,
     "wof:name":"Parkside at Lake Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.805629,30.454858,-97.805629,30.454858],
+  "bbox": [
+    -97.805629,
+    30.454858,
+    -97.805629,
+    30.454858
+],
   "geometry": {"coordinates":[-97.805629,30.454858],"type":"Point"}
 }

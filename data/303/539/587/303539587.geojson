@@ -2,13 +2,14 @@
   "id": 303539587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.996715,30.198572,-97.996715,30.198572",
     "geom:latitude":30.198572,
     "geom:longitude":-97.996715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Pemberton Way",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303539587,
-    "wof:lastmodified":1449000615,
+    "wof:lastmodified":1467083815,
     "wof:name":"Gorilla Placement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.996715,30.198572,-97.996715,30.198572],
-  "geometry": {"coordinates":[-97.996715,30.198572],"type":"Point"}
+  "bbox": [
+    -97.996715,
+    30.198572,
+    -97.996715,
+    30.198572
+],
+  "geometry": {"coordinates":[-97.99671499999999,30.198572],"type":"Point"}
 }

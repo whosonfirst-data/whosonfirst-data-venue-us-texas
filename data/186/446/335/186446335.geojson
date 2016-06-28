@@ -2,13 +2,14 @@
   "id": 186446335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384804,32.486581,-97.384804,32.486581",
     "geom:latitude":32.486581,
     "geom:longitude":-97.384804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Yvonne Dr",
     "sg:city":"Joshua",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186446335,
-    "wof:lastmodified":1449052793,
+    "wof:lastmodified":1467084742,
     "wof:name":"Gossett Don Surveyor",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-97.384804,32.486581,-97.384804,32.486581],
+  "bbox": [
+    -97.384804,
+    32.486581,
+    -97.384804,
+    32.486581
+],
   "geometry": {"coordinates":[-97.384804,32.486581],"type":"Point"}
 }

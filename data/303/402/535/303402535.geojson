@@ -2,13 +2,14 @@
   "id": 303402535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.690566,30.31106,-97.690566,30.31106",
     "geom:latitude":30.31106,
     "geom:longitude":-97.690566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Westminster Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303402535,
-    "wof:lastmodified":1448998897,
+    "wof:lastmodified":1467083731,
     "wof:name":"Austin Mennonite Church",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-mennonite"
     ]
 },
-  "bbox": [-97.690566,30.31106,-97.690566,30.31106],
+  "bbox": [
+    -97.690566,
+    30.31106,
+    -97.690566,
+    30.31106
+],
   "geometry": {"coordinates":[-97.690566,30.31106],"type":"Point"}
 }

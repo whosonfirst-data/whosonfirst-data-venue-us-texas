@@ -2,13 +2,14 @@
   "id": 219483249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.007421,29.629383,-98.007421,29.629383",
     "geom:latitude":29.629383,
     "geom:longitude":-98.007421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Cordova Loop",
     "sg:city":"Seguin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219483249,
-    "wof:lastmodified":1449073178,
+    "wof:lastmodified":1467085158,
     "wof:name":"Atune",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-98.007421,29.629383,-98.007421,29.629383],
-  "geometry": {"coordinates":[-98.007421,29.629383],"type":"Point"}
+  "bbox": [
+    -98.007421,
+    29.629383,
+    -98.007421,
+    29.629383
+],
+  "geometry": {"coordinates":[-98.00742099999999,29.629383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403965727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.503599,30.173282,-95.503599,30.173282",
     "geom:latitude":30.173282,
     "geom:longitude":-95.503599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Shadow Bend Pl",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403965727,
-    "wof:lastmodified":1449055539,
+    "wof:lastmodified":1467084771,
     "wof:name":"David Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.503599,30.173282,-95.503599,30.173282],
-  "geometry": {"coordinates":[-95.503599,30.173282],"type":"Point"}
+  "bbox": [
+    -95.503599,
+    30.173282,
+    -95.503599,
+    30.173282
+],
+  "geometry": {"coordinates":[-95.50359899999999,30.173282],"type":"Point"}
 }

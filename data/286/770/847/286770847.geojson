@@ -2,13 +2,14 @@
   "id": 286770847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.220424,29.683056,-95.220424,29.683056",
     "geom:latitude":29.683056,
     "geom:longitude":-95.220424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Locklaine Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286770847,
-    "wof:lastmodified":1449018139,
+    "wof:lastmodified":1467084318,
     "wof:name":"Miller Air And Heat",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.220424,29.683056,-95.220424,29.683056],
-  "geometry": {"coordinates":[-95.220424,29.683056],"type":"Point"}
+  "bbox": [
+    -95.220424,
+    29.683056,
+    -95.220424,
+    29.683056
+],
+  "geometry": {"coordinates":[-95.22042399999999,29.683056],"type":"Point"}
 }

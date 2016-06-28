@@ -2,13 +2,14 @@
   "id": 403776141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.93094,32.720535,-96.93094,32.720535",
     "geom:latitude":32.720535,
     "geom:longitude":-96.93094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Mountain Creek Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403776141,
-    "wof:lastmodified":1449054938,
+    "wof:lastmodified":1467084757,
     "wof:name":"Exelon Generation",
     "wof:parent_id":85811687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.93094,32.720535,-96.93094,32.720535],
-  "geometry": {"coordinates":[-96.93094,32.720535],"type":"Point"}
+  "bbox": [
+    -96.93094,
+    32.720535,
+    -96.93094,
+    32.720535
+],
+  "geometry": {"coordinates":[-96.93094000000001,32.720535],"type":"Point"}
 }

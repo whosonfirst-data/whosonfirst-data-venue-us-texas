@@ -2,13 +2,14 @@
   "id": 386954513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.649637,31.070122,-97.649637,31.070122",
     "geom:latitude":31.070122,
     "geom:longitude":-97.649637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Fox Trl",
     "sg:city":"Harker Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386954513,
-    "wof:lastmodified":1449028925,
+    "wof:lastmodified":1467084465,
     "wof:name":"Educational Data Analysis",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.649637,31.070122,-97.649637,31.070122],
+  "bbox": [
+    -97.649637,
+    31.070122,
+    -97.649637,
+    31.070122
+],
   "geometry": {"coordinates":[-97.649637,31.070122],"type":"Point"}
 }

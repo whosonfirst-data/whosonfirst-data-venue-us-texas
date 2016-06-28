@@ -2,13 +2,14 @@
   "id": 185751255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.265535,29.750829,-95.265535,29.750829",
     "geom:latitude":29.750829,
     "geom:longitude":-95.265535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Turning Basin Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185751255,
-    "wof:lastmodified":1449006678,
+    "wof:lastmodified":1467084113,
     "wof:name":"Gemini Transportation",
     "wof:parent_id":85869737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.265535,29.750829,-95.265535,29.750829],
+  "bbox": [
+    -95.265535,
+    29.750829,
+    -95.265535,
+    29.750829
+],
   "geometry": {"coordinates":[-95.265535,29.750829],"type":"Point"}
 }

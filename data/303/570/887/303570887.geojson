@@ -2,13 +2,14 @@
   "id": 303570887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76478,30.188327,-97.76478,30.188327",
     "geom:latitude":30.188327,
     "geom:longitude":-97.76478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 E William Cannon Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303570887,
-    "wof:lastmodified":1448999570,
+    "wof:lastmodified":1467083764,
     "wof:name":"Mom's Grocery",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.76478,30.188327,-97.76478,30.188327],
+  "bbox": [
+    -97.76478,
+    30.188327,
+    -97.76478,
+    30.188327
+],
   "geometry": {"coordinates":[-97.76478,30.188327],"type":"Point"}
 }

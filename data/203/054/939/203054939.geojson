@@ -2,13 +2,14 @@
   "id": 203054939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.459775,30.207422,-95.459775,30.207422",
     "geom:latitude":30.207422,
     "geom:longitude":-95.459775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 College Park Dr",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203054939,
-    "wof:lastmodified":1449025813,
+    "wof:lastmodified":1467084401,
     "wof:name":"University Center",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-95.459775,30.207422,-95.459775,30.207422],
-  "geometry": {"coordinates":[-95.459775,30.207422],"type":"Point"}
+  "bbox": [
+    -95.459775,
+    30.207422,
+    -95.459775,
+    30.207422
+],
+  "geometry": {"coordinates":[-95.45977499999999,30.207422],"type":"Point"}
 }

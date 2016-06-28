@@ -2,13 +2,14 @@
   "id": 303643213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.799219,30.179824,-97.799219,30.179824",
     "geom:latitude":30.179824,
     "geom:longitude":-97.799219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Great Britain Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303643213,
-    "wof:lastmodified":1449000238,
+    "wof:lastmodified":1467083796,
     "wof:name":"Rojas Custom Paint",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.799219,30.179824,-97.799219,30.179824],
-  "geometry": {"coordinates":[-97.799219,30.179824],"type":"Point"}
+  "bbox": [
+    -97.799219,
+    30.179824,
+    -97.799219,
+    30.179824
+],
+  "geometry": {"coordinates":[-97.79921899999999,30.179824],"type":"Point"}
 }

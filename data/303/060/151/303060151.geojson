@@ -2,13 +2,14 @@
   "id": 303060151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.833774,30.086872,-97.833774,30.086872",
     "geom:latitude":30.086872,
     "geom:longitude":-97.833774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S Loop 4",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303060151,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1467083801,
     "wof:name":"Trimeric Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-97.833774,30.086872,-97.833774,30.086872],
-  "geometry": {"coordinates":[-97.833774,30.086872],"type":"Point"}
+  "bbox": [
+    -97.833774,
+    30.086872,
+    -97.833774,
+    30.086872
+],
+  "geometry": {"coordinates":[-97.83377400000001,30.086872],"type":"Point"}
 }

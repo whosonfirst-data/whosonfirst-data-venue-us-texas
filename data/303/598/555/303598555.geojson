@@ -2,13 +2,14 @@
   "id": 303598555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.784071,30.203945,-97.784071,30.203945",
     "geom:latitude":30.203945,
     "geom:longitude":-97.784071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Turtle Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303598555,
-    "wof:lastmodified":1448998249,
+    "wof:lastmodified":1467083698,
     "wof:name":"The Arts at Turtle Creek",
     "wof:parent_id":85869971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.784071,30.203945,-97.784071,30.203945],
+  "bbox": [
+    -97.784071,
+    30.203945,
+    -97.784071,
+    30.203945
+],
   "geometry": {"coordinates":[-97.784071,30.203945],"type":"Point"}
 }

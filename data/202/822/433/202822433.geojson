@@ -2,13 +2,14 @@
   "id": 202822433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.568446,29.490415,-98.568446,29.490415",
     "geom:latitude":29.490415,
     "geom:longitude":-98.568446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Babcock Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202822433,
-    "wof:lastmodified":1449062558,
+    "wof:lastmodified":1467084939,
     "wof:name":"Hohmann Development Services",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.568446,29.490415,-98.568446,29.490415],
-  "geometry": {"coordinates":[-98.568446,29.490415],"type":"Point"}
+  "bbox": [
+    -98.568446,
+    29.490415,
+    -98.568446,
+    29.490415
+],
+  "geometry": {"coordinates":[-98.56844599999999,29.490415],"type":"Point"}
 }

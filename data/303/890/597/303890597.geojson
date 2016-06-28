@@ -2,13 +2,14 @@
   "id": 303890597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.975125,35.849787,-101.975125,35.849787",
     "geom:latitude":35.849787,
     "geom:longitude":-101.975125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Guy Lane Plz",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303890597,
-    "wof:lastmodified":1448998650,
+    "wof:lastmodified":1467083718,
     "wof:name":"Yes Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financing"
     ]
 },
-  "bbox": [-101.975125,35.849787,-101.975125,35.849787],
-  "geometry": {"coordinates":[-101.975125,35.849787],"type":"Point"}
+  "bbox": [
+    -101.975125,
+    35.849787,
+    -101.975125,
+    35.849787
+],
+  "geometry": {"coordinates":[-101.97512500000001,35.849787],"type":"Point"}
 }

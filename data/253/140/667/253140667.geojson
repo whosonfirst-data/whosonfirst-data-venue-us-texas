@@ -2,13 +2,14 @@
   "id": 253140667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.111257,32.806317,-98.111257,32.806317",
     "geom:latitude":32.806317,
     "geom:longitude":-98.111257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 SE 2nd Ave",
     "sg:city":"Mineral Wells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253140667,
-    "wof:lastmodified":1449063246,
+    "wof:lastmodified":1467084959,
     "wof:name":"Mineral Wells Feed & Farm Supl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-98.111257,32.806317,-98.111257,32.806317],
-  "geometry": {"coordinates":[-98.111257,32.806317],"type":"Point"}
+  "bbox": [
+    -98.111257,
+    32.806317,
+    -98.111257,
+    32.806317
+],
+  "geometry": {"coordinates":[-98.11125699999999,32.806317],"type":"Point"}
 }

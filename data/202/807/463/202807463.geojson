@@ -2,13 +2,14 @@
   "id": 202807463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.233962,32.729855,-97.233962,32.729855",
     "geom:latitude":32.729855,
     "geom:longitude":-97.233962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 State Hwy 303",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202807463,
-    "wof:lastmodified":1449060764,
+    "wof:lastmodified":1467084902,
     "wof:name":"Molina Health Care Of Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.233962,32.729855,-97.233962,32.729855],
-  "geometry": {"coordinates":[-97.233962,32.729855],"type":"Point"}
+  "bbox": [
+    -97.233962,
+    32.729855,
+    -97.233962,
+    32.729855
+],
+  "geometry": {"coordinates":[-97.23396200000001,32.729855],"type":"Point"}
 }

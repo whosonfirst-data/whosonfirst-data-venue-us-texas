@@ -2,13 +2,14 @@
   "id": 303533313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.912443,30.230481,-97.912443,30.230481",
     "geom:latitude":30.230481,
     "geom:longitude":-97.912443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Austin Waldorf School 8700 South View Rd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303533313,
-    "wof:lastmodified":1448998086,
+    "wof:lastmodified":1467083689,
     "wof:name":"Camp Roadrunner",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "camp"
     ]
 },
-  "bbox": [-97.912443,30.230481,-97.912443,30.230481],
+  "bbox": [
+    -97.912443,
+    30.230481,
+    -97.912443,
+    30.230481
+],
   "geometry": {"coordinates":[-97.912443,30.230481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303642347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.796501,30.1786,-97.796501,30.1786",
     "geom:latitude":30.1786,
     "geom:longitude":-97.796501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8407 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303642347,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1467083699,
     "wof:name":"Quorum Report",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "publishers-periodical"
     ]
 },
-  "bbox": [-97.796501,30.1786,-97.796501,30.1786],
-  "geometry": {"coordinates":[-97.796501,30.1786],"type":"Point"}
+  "bbox": [
+    -97.796501,
+    30.1786,
+    -97.796501,
+    30.1786
+],
+  "geometry": {"coordinates":[-97.79650100000001,30.1786],"type":"Point"}
 }

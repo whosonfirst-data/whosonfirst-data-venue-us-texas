@@ -2,13 +2,14 @@
   "id": 286339935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.320244,29.696887,-95.320244,29.696887",
     "geom:latitude":29.696887,
     "geom:longitude":-95.320244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 S Wayside Dr Ste 102",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":286339935,
-    "wof:lastmodified":1449016500,
+    "wof:lastmodified":1467084272,
     "wof:name":"Cdk Corp",
     "wof:parent_id":85832957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-95.320244,29.696887,-95.320244,29.696887],
+  "bbox": [
+    -95.320244,
+    29.696887,
+    -95.320244,
+    29.696887
+],
   "geometry": {"coordinates":[-95.320244,29.696887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186341263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.895999,33.576932,-101.895999,33.576932",
     "geom:latitude":33.576932,
     "geom:longitude":-101.895999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 20th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186341263,
-    "wof:lastmodified":1449052920,
+    "wof:lastmodified":1467084745,
     "wof:name":"Clinical Pathology Labs",
     "wof:parent_id":85873781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-101.895999,33.576932,-101.895999,33.576932],
+  "bbox": [
+    -101.895999,
+    33.576932,
+    -101.895999,
+    33.576932
+],
   "geometry": {"coordinates":[-101.895999,33.576932],"type":"Point"}
 }

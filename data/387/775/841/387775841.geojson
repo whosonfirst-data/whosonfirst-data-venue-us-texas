@@ -2,13 +2,14 @@
   "id": 387775841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721265,32.917289,-96.721265,32.917289",
     "geom:latitude":32.917289,
     "geom:longitude":-96.721265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9719 Burleson Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387775841,
-    "wof:lastmodified":1449058920,
+    "wof:lastmodified":1467084856,
     "wof:name":"Sentinel Security",
     "wof:parent_id":85897329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [-96.721265,32.917289,-96.721265,32.917289],
+  "bbox": [
+    -96.721265,
+    32.917289,
+    -96.721265,
+    32.917289
+],
   "geometry": {"coordinates":[-96.721265,32.917289],"type":"Point"}
 }

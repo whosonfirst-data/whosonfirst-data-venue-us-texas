@@ -2,13 +2,14 @@
   "id": 270186697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.307098,29.919201,-95.307098,29.919201",
     "geom:latitude":29.919201,
     "geom:longitude":-95.307098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13901 Eastex Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270186697,
-    "wof:lastmodified":1449010522,
+    "wof:lastmodified":1467084212,
     "wof:name":"Grand Prix-Houston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.307098,29.919201,-95.307098,29.919201],
+  "bbox": [
+    -95.307098,
+    29.919201,
+    -95.307098,
+    29.919201
+],
   "geometry": {"coordinates":[-95.307098,29.919201],"type":"Point"}
 }

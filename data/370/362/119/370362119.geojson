@@ -2,13 +2,14 @@
   "id": 370362119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.484518,29.739269,-95.484518,29.739269",
     "geom:latitude":29.739269,
     "geom:longitude":-95.484518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Fountain View Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362119,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1467084524,
     "wof:name":"Trader Publishing Company",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-95.484518,29.739269,-95.484518,29.739269],
-  "geometry": {"coordinates":[-95.484518,29.739269],"type":"Point"}
+  "bbox": [
+    -95.484518,
+    29.739269,
+    -95.484518,
+    29.739269
+],
+  "geometry": {"coordinates":[-95.48451799999999,29.739269],"type":"Point"}
 }

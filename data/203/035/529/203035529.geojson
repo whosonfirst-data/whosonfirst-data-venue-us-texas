@@ -2,13 +2,14 @@
   "id": 203035529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.877221,35.302095,-101.877221,35.302095",
     "geom:latitude":35.302095,
     "geom:longitude":-101.877221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8811 Arlie Rd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203035529,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1467084413,
     "wof:name":"R&T Heating & Air",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-101.877221,35.302095,-101.877221,35.302095],
-  "geometry": {"coordinates":[-101.877221,35.302095],"type":"Point"}
+  "bbox": [
+    -101.877221,
+    35.302095,
+    -101.877221,
+    35.302095
+],
+  "geometry": {"coordinates":[-101.87722100000001,35.302095],"type":"Point"}
 }

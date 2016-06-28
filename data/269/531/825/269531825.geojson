@@ -2,13 +2,14 @@
   "id": 269531825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.311107,32.62556,-97.311107,32.62556",
     "geom:latitude":32.62556,
     "geom:longitude":-97.311107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 Forum Way",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269531825,
-    "wof:lastmodified":1449036701,
+    "wof:lastmodified":1467084587,
     "wof:name":"Educare",
     "wof:parent_id":85871545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.311107,32.62556,-97.311107,32.62556],
-  "geometry": {"coordinates":[-97.311107,32.62556],"type":"Point"}
+  "bbox": [
+    -97.311107,
+    32.62556,
+    -97.311107,
+    32.62556
+],
+  "geometry": {"coordinates":[-97.31110700000001,32.62556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303492309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.93027,30.329293,-97.93027,30.329293",
     "geom:latitude":30.329293,
     "geom:longitude":-97.93027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13005 On The Lake Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303492309,
-    "wof:lastmodified":1448998114,
+    "wof:lastmodified":1467083691,
     "wof:name":"American Arbors",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.93027,30.329293,-97.93027,30.329293],
-  "geometry": {"coordinates":[-97.93027,30.329293],"type":"Point"}
+  "bbox": [
+    -97.93027,
+    30.329293,
+    -97.93027,
+    30.329293
+],
+  "geometry": {"coordinates":[-97.93026999999999,30.329293],"type":"Point"}
 }

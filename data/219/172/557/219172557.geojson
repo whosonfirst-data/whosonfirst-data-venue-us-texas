@@ -2,13 +2,14 @@
   "id": 219172557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.529845,29.492424,-98.529845,29.492424",
     "geom:latitude":29.492424,
     "geom:longitude":-98.529845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Denton Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219172557,
-    "wof:lastmodified":1449071810,
+    "wof:lastmodified":1467085130,
     "wof:name":"Cmps-Ais",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-98.529845,29.492424,-98.529845,29.492424],
-  "geometry": {"coordinates":[-98.529845,29.492424],"type":"Point"}
+  "bbox": [
+    -98.529845,
+    29.492424,
+    -98.529845,
+    29.492424
+],
+  "geometry": {"coordinates":[-98.52984499999999,29.492424],"type":"Point"}
 }

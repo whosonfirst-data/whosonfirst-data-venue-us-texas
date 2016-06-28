@@ -2,13 +2,14 @@
   "id": 387852491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.377603,29.561624,-98.377603,29.561624",
     "geom:latitude":29.561624,
     "geom:longitude":-98.377603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13234 Larkbrook St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387852491,
-    "wof:lastmodified":1449059273,
+    "wof:lastmodified":1467084866,
     "wof:name":"American Product Review",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-98.377603,29.561624,-98.377603,29.561624],
-  "geometry": {"coordinates":[-98.377603,29.561624],"type":"Point"}
+  "bbox": [
+    -98.377603,
+    29.561624,
+    -98.377603,
+    29.561624
+],
+  "geometry": {"coordinates":[-98.37760299999999,29.561624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220092283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.831865,32.276094,-95.831865,32.276094",
     "geom:latitude":32.276094,
     "geom:longitude":-95.831865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8981 Co Rd 3817",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220092283,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1467085192,
     "wof:name":"John Tarter",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.831865,32.276094,-95.831865,32.276094],
-  "geometry": {"coordinates":[-95.831865,32.276094],"type":"Point"}
+  "bbox": [
+    -95.831865,
+    32.276094,
+    -95.831865,
+    32.276094
+],
+  "geometry": {"coordinates":[-95.83186499999999,32.276094],"type":"Point"}
 }

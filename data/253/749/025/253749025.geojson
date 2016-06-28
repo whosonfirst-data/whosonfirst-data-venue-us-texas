@@ -2,13 +2,14 @@
   "id": 253749025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.186272,32.83979,-97.186272,32.83979",
     "geom:latitude":32.83979,
     "geom:longitude":-97.186272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Precinct Line Rd",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253749025,
-    "wof:lastmodified":1449063655,
+    "wof:lastmodified":1467084973,
     "wof:name":"Hurst Police Dept-Jail",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.186272,32.83979,-97.186272,32.83979],
+  "bbox": [
+    -97.186272,
+    32.83979,
+    -97.186272,
+    32.83979
+],
   "geometry": {"coordinates":[-97.186272,32.83979],"type":"Point"}
 }

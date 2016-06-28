@@ -2,13 +2,14 @@
   "id": 370171561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.819448,32.788938,-96.819448,32.788938",
     "geom:latitude":32.788938,
     "geom:longitude":-96.819448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Industrial Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370171561,
-    "wof:lastmodified":1449032486,
+    "wof:lastmodified":1467084554,
     "wof:name":"Lost Antiques",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-96.819448,32.788938,-96.819448,32.788938],
-  "geometry": {"coordinates":[-96.819448,32.788938],"type":"Point"}
+  "bbox": [
+    -96.819448,
+    32.788938,
+    -96.819448,
+    32.788938
+],
+  "geometry": {"coordinates":[-96.81944799999999,32.788938],"type":"Point"}
 }

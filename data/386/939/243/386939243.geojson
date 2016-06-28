@@ -2,13 +2,14 @@
   "id": 386939243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.026487,32.808924,-97.026487,32.808924",
     "geom:latitude":32.808924,
     "geom:longitude":-97.026487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 High Prairie Rd",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386939243,
-    "wof:lastmodified":1449028706,
+    "wof:lastmodified":1467084460,
     "wof:name":"Motor Cargo",
     "wof:parent_id":85847901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-97.026487,32.808924,-97.026487,32.808924],
+  "bbox": [
+    -97.026487,
+    32.808924,
+    -97.026487,
+    32.808924
+],
   "geometry": {"coordinates":[-97.026487,32.808924],"type":"Point"}
 }

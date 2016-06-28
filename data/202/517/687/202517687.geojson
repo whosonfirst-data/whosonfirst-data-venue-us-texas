@@ -2,13 +2,14 @@
   "id": 202517687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.40591,32.723194,-96.40591,32.723194",
     "geom:latitude":32.723194,
     "geom:longitude":-96.40591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9759 Highland Prairie Ln",
     "sg:city":"Forney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202517687,
-    "wof:lastmodified":1449061548,
+    "wof:lastmodified":1467084918,
     "wof:name":"Sooner Car Wash",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-96.40591,32.723194,-96.40591,32.723194],
-  "geometry": {"coordinates":[-96.40591,32.723194],"type":"Point"}
+  "bbox": [
+    -96.40591,
+    32.723194,
+    -96.40591,
+    32.723194
+],
+  "geometry": {"coordinates":[-96.40591000000001,32.723194],"type":"Point"}
 }

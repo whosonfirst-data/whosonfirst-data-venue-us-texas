@@ -2,13 +2,14 @@
   "id": 253152483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.351953,30.632474,-96.351953,30.632474",
     "geom:latitude":30.632474,
     "geom:longitude":-96.351953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 S College Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253152483,
-    "wof:lastmodified":1449065078,
+    "wof:lastmodified":1467085023,
     "wof:name":"Star Of Texas Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.351953,30.632474,-96.351953,30.632474],
-  "geometry": {"coordinates":[-96.351953,30.632474],"type":"Point"}
+  "bbox": [
+    -96.351953,
+    30.632474,
+    -96.351953,
+    30.632474
+],
+  "geometry": {"coordinates":[-96.35195299999999,30.632474],"type":"Point"}
 }

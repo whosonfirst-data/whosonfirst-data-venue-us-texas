@@ -2,13 +2,14 @@
   "id": 220164365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.498385,29.716037,-95.498385,29.716037",
     "geom:latitude":29.716037,
     "geom:longitude":-95.498385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Hillcroft St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220164365,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1467085179,
     "wof:name":"Bombino Express",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-95.498385,29.716037,-95.498385,29.716037],
+  "bbox": [
+    -95.498385,
+    29.716037,
+    -95.498385,
+    29.716037
+],
   "geometry": {"coordinates":[-95.498385,29.716037],"type":"Point"}
 }

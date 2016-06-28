@@ -2,13 +2,14 @@
   "id": 220025827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795153,32.911513,-96.795153,32.911513",
     "geom:latitude":32.911513,
     "geom:longitude":-96.795153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6522 Greenwich Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025827,
-    "wof:lastmodified":1449074731,
+    "wof:lastmodified":1467085192,
     "wof:name":"Arnold's Property Management",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-96.795153,32.911513,-96.795153,32.911513],
+  "bbox": [
+    -96.795153,
+    32.911513,
+    -96.795153,
+    32.911513
+],
   "geometry": {"coordinates":[-96.795153,32.911513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303568915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754274,30.184168,-97.754274,30.184168",
     "geom:latitude":30.184168,
     "geom:longitude":-97.754274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 William Cannon",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303568915,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1467083688,
     "wof:name":"Custom Mechanic",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.754274,30.184168,-97.754274,30.184168],
+  "bbox": [
+    -97.754274,
+    30.184168,
+    -97.754274,
+    30.184168
+],
   "geometry": {"coordinates":[-97.754274,30.184168],"type":"Point"}
 }

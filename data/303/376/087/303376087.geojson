@@ -2,13 +2,14 @@
   "id": 303376087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.770637,30.486165,-97.770637,30.486165",
     "geom:latitude":30.486165,
     "geom:longitude":-97.770637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9801 W Parmer Ln Apt 1827",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303376087,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1467083733,
     "wof:name":"Massage Premier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.770637,30.486165,-97.770637,30.486165],
-  "geometry": {"coordinates":[-97.770637,30.486165],"type":"Point"}
+  "bbox": [
+    -97.770637,
+    30.486165,
+    -97.770637,
+    30.486165
+],
+  "geometry": {"coordinates":[-97.77063699999999,30.486165],"type":"Point"}
 }

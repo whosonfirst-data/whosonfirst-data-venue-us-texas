@@ -2,13 +2,14 @@
   "id": 269565279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67006,33.20348,-97.67006,33.20348",
     "geom:latitude":33.20348,
     "geom:longitude":-97.67006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 Hlavek Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269565279,
-    "wof:lastmodified":1449038769,
+    "wof:lastmodified":1467084633,
     "wof:name":"Hofstra Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-97.67006,33.20348,-97.67006,33.20348],
-  "geometry": {"coordinates":[-97.67006,33.20348],"type":"Point"}
+  "bbox": [
+    -97.67006,
+    33.20348,
+    -97.67006,
+    33.20348
+],
+  "geometry": {"coordinates":[-97.67006000000001,33.20348],"type":"Point"}
 }

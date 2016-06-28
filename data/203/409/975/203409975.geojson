@@ -2,13 +2,14 @@
   "id": 203409975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13181,33.216609,-97.13181,33.216609",
     "geom:latitude":33.216609,
     "geom:longitude":-97.13181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E McKinney St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203409975,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1467084399,
     "wof:name":"US Post Office",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.13181,33.216609,-97.13181,33.216609],
+  "bbox": [
+    -97.13181,
+    33.216609,
+    -97.13181,
+    33.216609
+],
   "geometry": {"coordinates":[-97.13181,33.216609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253052085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161525,32.886015,-97.161525,32.886015",
     "geom:latitude":32.886015,
     "geom:longitude":-97.161525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5314 Bransford Rd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253052085,
-    "wof:lastmodified":1449064160,
+    "wof:lastmodified":1467084990,
     "wof:name":"Colleyville Place",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.161525,32.886015,-97.161525,32.886015],
+  "bbox": [
+    -97.161525,
+    32.886015,
+    -97.161525,
+    32.886015
+],
   "geometry": {"coordinates":[-97.161525,32.886015],"type":"Point"}
 }

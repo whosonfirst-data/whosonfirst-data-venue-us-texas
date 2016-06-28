@@ -2,13 +2,14 @@
   "id": 303246539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747254,30.276505,-97.747254,30.276505",
     "geom:latitude":30.276505,
     "geom:longitude":-97.747254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Rio Grande St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303246539,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1467083700,
     "wof:name":"Austin Community College - Rio Grande Campus",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-97.747254,30.276505,-97.747254,30.276505],
+  "bbox": [
+    -97.747254,
+    30.276505,
+    -97.747254,
+    30.276505
+],
   "geometry": {"coordinates":[-97.747254,30.276505],"type":"Point"}
 }

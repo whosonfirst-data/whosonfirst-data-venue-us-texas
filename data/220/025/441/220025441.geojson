@@ -2,13 +2,14 @@
   "id": 220025441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.491284,32.207526,-101.491284,32.207526",
     "geom:latitude":32.207526,
     "geom:longitude":-101.491284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4007 Wasson Rd",
     "sg:city":"Big Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220025441,
-    "wof:lastmodified":1449074730,
+    "wof:lastmodified":1467085192,
     "wof:name":"Wayne L Rock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.491284,32.207526,-101.491284,32.207526],
-  "geometry": {"coordinates":[-101.491284,32.207526],"type":"Point"}
+  "bbox": [
+    -101.491284,
+    32.207526,
+    -101.491284,
+    32.207526
+],
+  "geometry": {"coordinates":[-101.49128399999999,32.207526],"type":"Point"}
 }

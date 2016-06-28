@@ -2,13 +2,14 @@
   "id": 202559017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445377,29.718414,-95.445377,29.718414",
     "geom:latitude":29.718414,
     "geom:longitude":-95.445377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Coleridge St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202559017,
-    "wof:lastmodified":1449062102,
+    "wof:lastmodified":1467084929,
     "wof:name":"Spanish Canyon Ranch",
     "wof:parent_id":85856543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.445377,29.718414,-95.445377,29.718414],
-  "geometry": {"coordinates":[-95.445377,29.718414],"type":"Point"}
+  "bbox": [
+    -95.445377,
+    29.718414,
+    -95.445377,
+    29.718414
+],
+  "geometry": {"coordinates":[-95.44537699999999,29.718414],"type":"Point"}
 }

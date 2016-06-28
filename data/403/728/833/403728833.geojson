@@ -2,13 +2,14 @@
   "id": 403728833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.189235,31.068691,-98.189235,31.068691",
     "geom:latitude":31.068691,
     "geom:longitude":-98.189235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 W Ave C",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403728833,
-    "wof:lastmodified":1449054951,
+    "wof:lastmodified":1467084757,
     "wof:name":"Milano Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.189235,31.068691,-98.189235,31.068691],
+  "bbox": [
+    -98.189235,
+    31.068691,
+    -98.189235,
+    31.068691
+],
   "geometry": {"coordinates":[-98.189235,31.068691],"type":"Point"}
 }

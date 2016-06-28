@@ -2,13 +2,14 @@
   "id": 303568797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746845,30.178978,-97.746845,30.178978",
     "geom:latitude":30.178978,
     "geom:longitude":-97.746845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6607 S Pleasant Valley Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303568797,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1467083688,
     "wof:name":"Food Spot",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.746845,30.178978,-97.746845,30.178978],
-  "geometry": {"coordinates":[-97.746845,30.178978],"type":"Point"}
+  "bbox": [
+    -97.746845,
+    30.178978,
+    -97.746845,
+    30.178978
+],
+  "geometry": {"coordinates":[-97.74684499999999,30.178978],"type":"Point"}
 }

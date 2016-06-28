@@ -2,13 +2,14 @@
   "id": 354235285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.682763,29.536467,-98.682763,29.536467",
     "geom:latitude":29.536467,
     "geom:longitude":-98.682763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 State Hwy 1604",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354235285,
-    "wof:lastmodified":1449066227,
+    "wof:lastmodified":1467085058,
     "wof:name":"Spot Free Car Wash",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-98.682763,29.536467,-98.682763,29.536467],
-  "geometry": {"coordinates":[-98.682763,29.536467],"type":"Point"}
+  "bbox": [
+    -98.682763,
+    29.536467,
+    -98.682763,
+    29.536467
+],
+  "geometry": {"coordinates":[-98.68276299999999,29.536467],"type":"Point"}
 }

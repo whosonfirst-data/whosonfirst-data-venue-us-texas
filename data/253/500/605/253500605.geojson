@@ -2,13 +2,14 @@
   "id": 253500605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.299444,32.349641,-95.299444,32.349641",
     "geom:latitude":32.349641,
     "geom:longitude":-95.299444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Elm St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253500605,
-    "wof:lastmodified":1449063555,
+    "wof:lastmodified":1467084970,
     "wof:name":"Mac's Gun Shop Inc",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-95.299444,32.349641,-95.299444,32.349641],
-  "geometry": {"coordinates":[-95.299444,32.349641],"type":"Point"}
+  "bbox": [
+    -95.299444,
+    32.349641,
+    -95.299444,
+    32.349641
+],
+  "geometry": {"coordinates":[-95.29944399999999,32.349641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303461455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.853536,30.378712,-97.853536,30.378712",
     "geom:latitude":30.378712,
     "geom:longitude":-97.853536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10604 Sun Tree Cv",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303461455,
-    "wof:lastmodified":1448999039,
+    "wof:lastmodified":1467083738,
     "wof:name":"Martin C. Molina, Md, Pa",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "medicine"
     ]
 },
-  "bbox": [-97.853536,30.378712,-97.853536,30.378712],
-  "geometry": {"coordinates":[-97.853536,30.378712],"type":"Point"}
+  "bbox": [
+    -97.853536,
+    30.378712,
+    -97.853536,
+    30.378712
+],
+  "geometry": {"coordinates":[-97.85353600000001,30.378712],"type":"Point"}
 }

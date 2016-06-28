@@ -2,13 +2,14 @@
   "id": 304021127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.741762,33.156785,-99.741762,33.156785",
     "geom:latitude":33.156785,
     "geom:longitude":-99.741762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S 1st St",
     "sg:city":"Haskell",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":304021127,
-    "wof:lastmodified":1449043971,
+    "wof:lastmodified":1467084667,
     "wof:name":"Hospital Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "medicine"
     ]
 },
-  "bbox": [-99.741762,33.156785,-99.741762,33.156785],
-  "geometry": {"coordinates":[-99.741762,33.156785],"type":"Point"}
+  "bbox": [
+    -99.741762,
+    33.156785,
+    -99.741762,
+    33.156785
+],
+  "geometry": {"coordinates":[-99.74176199999999,33.156785],"type":"Point"}
 }

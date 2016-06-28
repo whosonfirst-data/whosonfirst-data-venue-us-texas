@@ -2,13 +2,14 @@
   "id": 203234699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.332191,32.751484,-97.332191,32.751484",
     "geom:latitude":32.751484,
     "geom:longitude":-97.332191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W 7th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203234699,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1467084419,
     "wof:name":"William Kane",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.332191,32.751484,-97.332191,32.751484],
-  "geometry": {"coordinates":[-97.332191,32.751484],"type":"Point"}
+  "bbox": [
+    -97.332191,
+    32.751484,
+    -97.332191,
+    32.751484
+],
+  "geometry": {"coordinates":[-97.33219099999999,32.751484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303331017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.798144,30.236988,-97.798144,30.236988",
     "geom:latitude":30.236988,
     "geom:longitude":-97.798144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4109 S Capital of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303331017,
-    "wof:lastmodified":1448999607,
+    "wof:lastmodified":1467083766,
     "wof:name":"Pok-E-Jo's Smokehouse",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-97.798144,30.236988,-97.798144,30.236988],
-  "geometry": {"coordinates":[-97.798144,30.236988],"type":"Point"}
+  "bbox": [
+    -97.798144,
+    30.236988,
+    -97.798144,
+    30.236988
+],
+  "geometry": {"coordinates":[-97.79814399999999,30.236988],"type":"Point"}
 }

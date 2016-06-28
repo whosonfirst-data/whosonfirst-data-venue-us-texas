@@ -2,13 +2,14 @@
   "id": 220195653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.421134,31.776898,-106.421134,31.776898",
     "geom:latitude":31.776898,
     "geom:longitude":-106.421134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 Webster Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220195653,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1467085189,
     "wof:name":"San Juan Park",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-106.421134,31.776898,-106.421134,31.776898],
+  "bbox": [
+    -106.421134,
+    31.776898,
+    -106.421134,
+    31.776898
+],
   "geometry": {"coordinates":[-106.421134,31.776898],"type":"Point"}
 }

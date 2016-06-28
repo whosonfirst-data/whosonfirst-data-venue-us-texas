@@ -2,13 +2,14 @@
   "id": 236395923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744033,30.268309,-97.744033,30.268309",
     "geom:latitude":30.268309,
     "geom:longitude":-97.744033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236395923,
-    "wof:lastmodified":1449004664,
+    "wof:lastmodified":1467084011,
     "wof:name":"Comptroller Pub Accounts Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accounting"
     ]
 },
-  "bbox": [-97.744033,30.268309,-97.744033,30.268309],
+  "bbox": [
+    -97.744033,
+    30.268309,
+    -97.744033,
+    30.268309
+],
   "geometry": {"coordinates":[-97.744033,30.268309],"type":"Point"}
 }

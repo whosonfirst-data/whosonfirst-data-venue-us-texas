@@ -2,13 +2,14 @@
   "id": 303333709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748049,30.237048,-97.748049,30.237048",
     "geom:latitude":30.237048,
     "geom:longitude":-97.748049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 E Side Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303333709,
-    "wof:lastmodified":1449000394,
+    "wof:lastmodified":1467083804,
     "wof:name":"Terrace Creekside",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.748049,30.237048,-97.748049,30.237048],
-  "geometry": {"coordinates":[-97.748049,30.237048],"type":"Point"}
+  "bbox": [
+    -97.748049,
+    30.237048,
+    -97.748049,
+    30.237048
+],
+  "geometry": {"coordinates":[-97.74804899999999,30.237048],"type":"Point"}
 }

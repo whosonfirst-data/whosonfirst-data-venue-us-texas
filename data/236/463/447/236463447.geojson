@@ -2,13 +2,14 @@
   "id": 236463447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735914,32.975779,-96.735914,32.975779",
     "geom:latitude":32.975779,
     "geom:longitude":-96.735914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Campbell Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236463447,
-    "wof:lastmodified":1449004041,
+    "wof:lastmodified":1467083982,
     "wof:name":"Richardson Beer & Wine",
     "wof:parent_id":85880199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.735914,32.975779,-96.735914,32.975779],
-  "geometry": {"coordinates":[-96.735914,32.975779],"type":"Point"}
+  "bbox": [
+    -96.735914,
+    32.975779,
+    -96.735914,
+    32.975779
+],
+  "geometry": {"coordinates":[-96.73591399999999,32.975779],"type":"Point"}
 }

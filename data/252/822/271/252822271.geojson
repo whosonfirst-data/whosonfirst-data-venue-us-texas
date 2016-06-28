@@ -2,13 +2,14 @@
   "id": 252822271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.238717,26.243788,-98.238717,26.243788",
     "geom:latitude":26.243788,
     "geom:longitude":-98.238717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 Primrose Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252822271,
-    "wof:lastmodified":1449006466,
+    "wof:lastmodified":1467084106,
     "wof:name":"Real Estate Source",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-98.238717,26.243788,-98.238717,26.243788],
-  "geometry": {"coordinates":[-98.238717,26.243788],"type":"Point"}
+  "bbox": [
+    -98.238717,
+    26.243788,
+    -98.238717,
+    26.243788
+],
+  "geometry": {"coordinates":[-98.23871699999999,26.243788],"type":"Point"}
 }

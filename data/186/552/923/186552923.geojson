@@ -2,13 +2,14 @@
   "id": 186552923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483889,32.718853,-97.483889,32.718853",
     "geom:latitude":32.718853,
     "geom:longitude":-97.483889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3436 Alemeda St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186552923,
-    "wof:lastmodified":1449051501,
+    "wof:lastmodified":1467084715,
     "wof:name":"Wound KAIR Concepts",
     "wof:parent_id":85871657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-97.483889,32.718853,-97.483889,32.718853],
+  "bbox": [
+    -97.483889,
+    32.718853,
+    -97.483889,
+    32.718853
+],
   "geometry": {"coordinates":[-97.483889,32.718853],"type":"Point"}
 }

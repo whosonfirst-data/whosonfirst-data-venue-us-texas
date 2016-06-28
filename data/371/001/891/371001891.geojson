@@ -2,13 +2,14 @@
   "id": 371001891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.588792,29.909482,-95.588792,29.909482",
     "geom:latitude":29.909482,
     "geom:longitude":-95.588792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11210 Steeplecrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371001891,
-    "wof:lastmodified":1449049276,
+    "wof:lastmodified":1467084675,
     "wof:name":"Harris County Mud 168",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.588792,29.909482,-95.588792,29.909482],
+  "bbox": [
+    -95.588792,
+    29.909482,
+    -95.588792,
+    29.909482
+],
   "geometry": {"coordinates":[-95.588792,29.909482],"type":"Point"}
 }

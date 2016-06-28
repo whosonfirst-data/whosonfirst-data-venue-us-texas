@@ -2,13 +2,14 @@
   "id": 370780689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.49291,31.765362,-106.49291,31.765362",
     "geom:latitude":31.765362,
     "geom:longitude":-106.49291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Arizona Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370780689,
-    "wof:lastmodified":1449031628,
+    "wof:lastmodified":1467084533,
     "wof:name":"El Paso Eye Ctr",
     "wof:parent_id":85871375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.49291,31.765362,-106.49291,31.765362],
-  "geometry": {"coordinates":[-106.49291,31.765362],"type":"Point"}
+  "bbox": [
+    -106.49291,
+    31.765362,
+    -106.49291,
+    31.765362
+],
+  "geometry": {"coordinates":[-106.49290999999999,31.765362],"type":"Point"}
 }

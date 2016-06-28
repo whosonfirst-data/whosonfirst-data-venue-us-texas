@@ -2,13 +2,14 @@
   "id": 185806097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.797941,30.067149,-94.797941,30.067149",
     "geom:latitude":30.067149,
     "geom:longitude":-94.797941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 N Travis St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185806097,
-    "wof:lastmodified":1449006591,
+    "wof:lastmodified":1467084111,
     "wof:name":"Anna's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.797941,30.067149,-94.797941,30.067149],
-  "geometry": {"coordinates":[-94.797941,30.067149],"type":"Point"}
+  "bbox": [
+    -94.797941,
+    30.067149,
+    -94.797941,
+    30.067149
+],
+  "geometry": {"coordinates":[-94.79794099999999,30.067149],"type":"Point"}
 }

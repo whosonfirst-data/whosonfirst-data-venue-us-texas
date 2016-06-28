@@ -2,13 +2,14 @@
   "id": 202510101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455925,32.785477,-95.455925,32.785477",
     "geom:latitude":32.785477,
     "geom:longitude":-95.455925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 S Main St",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202510101,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1467084920,
     "wof:name":"New Life Baptist Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.455925,32.785477,-95.455925,32.785477],
-  "geometry": {"coordinates":[-95.455925,32.785477],"type":"Point"}
+  "bbox": [
+    -95.455925,
+    32.785477,
+    -95.455925,
+    32.785477
+],
+  "geometry": {"coordinates":[-95.45592499999999,32.785477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303705193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727009,30.308319,-97.727009,30.308319",
     "geom:latitude":30.308319,
     "geom:longitude":-97.727009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E 45th Ste 105",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303705193,
-    "wof:lastmodified":1449000580,
+    "wof:lastmodified":1467083813,
     "wof:name":"Texas Lawn Services",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.727009,30.308319,-97.727009,30.308319],
+  "bbox": [
+    -97.727009,
+    30.308319,
+    -97.727009,
+    30.308319
+],
   "geometry": {"coordinates":[-97.727009,30.308319],"type":"Point"}
 }

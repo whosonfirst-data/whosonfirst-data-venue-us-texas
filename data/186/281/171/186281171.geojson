@@ -2,13 +2,14 @@
   "id": 186281171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.468201,30.050109,-95.468201,30.050109",
     "geom:latitude":30.050109,
     "geom:longitude":-95.468201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Thicket Run Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186281171,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1467084738,
     "wof:name":"Hansen Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.468201,30.050109,-95.468201,30.050109],
-  "geometry": {"coordinates":[-95.468201,30.050109],"type":"Point"}
+  "bbox": [
+    -95.468201,
+    30.050109,
+    -95.468201,
+    30.050109
+],
+  "geometry": {"coordinates":[-95.46820099999999,30.050109],"type":"Point"}
 }

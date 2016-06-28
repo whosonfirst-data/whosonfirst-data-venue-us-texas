@@ -2,13 +2,14 @@
   "id": 337302613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.555288,29.400431,-98.555288,29.400431",
     "geom:latitude":29.400431,
     "geom:longitude":-98.555288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Darby Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337302613,
-    "wof:lastmodified":1449027213,
+    "wof:lastmodified":1467084435,
     "wof:name":"Darby Street Software",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-98.555288,29.400431,-98.555288,29.400431],
+  "bbox": [
+    -98.555288,
+    29.400431,
+    -98.555288,
+    29.400431
+],
   "geometry": {"coordinates":[-98.555288,29.400431],"type":"Point"}
 }

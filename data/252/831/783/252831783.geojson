@@ -2,13 +2,14 @@
   "id": 252831783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748523,32.839207,-96.748523,32.839207",
     "geom:latitude":32.839207,
     "geom:longitude":-96.748523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6514 Ravendale Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252831783,
-    "wof:lastmodified":1449006060,
+    "wof:lastmodified":1467084083,
     "wof:name":"Take Note Stationery",
     "wof:parent_id":85870381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.748523,32.839207,-96.748523,32.839207],
-  "geometry": {"coordinates":[-96.748523,32.839207],"type":"Point"}
+  "bbox": [
+    -96.748523,
+    32.839207,
+    -96.748523,
+    32.839207
+],
+  "geometry": {"coordinates":[-96.74852300000001,32.839207],"type":"Point"}
 }

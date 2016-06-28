@@ -2,13 +2,14 @@
   "id": 219180373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.279527,30.576356,-96.279527,30.576356",
     "geom:latitude":30.576356,
     "geom:longitude":-96.279527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4060 State Hwy 6 S",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219180373,
-    "wof:lastmodified":1449070514,
+    "wof:lastmodified":1467085102,
     "wof:name":"Skyco Concrete Pumping",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.279527,30.576356,-96.279527,30.576356],
+  "bbox": [
+    -96.279527,
+    30.576356,
+    -96.279527,
+    30.576356
+],
   "geometry": {"coordinates":[-96.279527,30.576356],"type":"Point"}
 }

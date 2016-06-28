@@ -2,13 +2,14 @@
   "id": 202836527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.229052,32.760722,-97.229052,32.760722",
     "geom:latitude":32.760722,
     "geom:longitude":-97.229052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6051 Bridge St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202836527,
-    "wof:lastmodified":1449061761,
+    "wof:lastmodified":1467084922,
     "wof:name":"Trash Pickup Door To Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-97.229052,32.760722,-97.229052,32.760722],
+  "bbox": [
+    -97.229052,
+    32.760722,
+    -97.229052,
+    32.760722
+],
   "geometry": {"coordinates":[-97.229052,32.760722],"type":"Point"}
 }

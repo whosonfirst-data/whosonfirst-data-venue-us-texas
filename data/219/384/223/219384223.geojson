@@ -2,13 +2,14 @@
   "id": 219384223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.810913,32.412505,-99.810913,32.412505",
     "geom:latitude":32.412505,
     "geom:longitude":-99.810913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 Sutherland St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219384223,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1467085109,
     "wof:name":"Pet Sitters",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-99.810913,32.412505,-99.810913,32.412505],
+  "bbox": [
+    -99.810913,
+    32.412505,
+    -99.810913,
+    32.412505
+],
   "geometry": {"coordinates":[-99.810913,32.412505],"type":"Point"}
 }

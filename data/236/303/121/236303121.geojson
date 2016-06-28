@@ -2,13 +2,14 @@
   "id": 236303121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.606395,32.969543,-96.606395,32.969543",
     "geom:latitude":32.969543,
     "geom:longitude":-96.606395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5060 Highway 78",
     "sg:city":"Sachse",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236303121,
-    "wof:lastmodified":1449001704,
+    "wof:lastmodified":1467083856,
     "wof:name":"Whataburger",
     "wof:parent_id":85877679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dog"
     ]
 },
-  "bbox": [-96.606395,32.969543,-96.606395,32.969543],
-  "geometry": {"coordinates":[-96.606395,32.969543],"type":"Point"}
+  "bbox": [
+    -96.606395,
+    32.969543,
+    -96.606395,
+    32.969543
+],
+  "geometry": {"coordinates":[-96.60639500000001,32.969543],"type":"Point"}
 }

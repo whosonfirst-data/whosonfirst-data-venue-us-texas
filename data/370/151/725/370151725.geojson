@@ -2,13 +2,14 @@
   "id": 370151725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.375923,31.857133,-102.375923,31.857133",
     "geom:latitude":31.857133,
     "geom:longitude":-102.375923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 N Grant Ave",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370151725,
-    "wof:lastmodified":1449029102,
+    "wof:lastmodified":1467084469,
     "wof:name":"Classic Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-102.375923,31.857133,-102.375923,31.857133],
+  "bbox": [
+    -102.375923,
+    31.857133,
+    -102.375923,
+    31.857133
+],
   "geometry": {"coordinates":[-102.375923,31.857133],"type":"Point"}
 }

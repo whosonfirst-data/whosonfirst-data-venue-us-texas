@@ -2,13 +2,14 @@
   "id": 202504753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.345049,32.847807,-97.345049,32.847807",
     "geom:latitude":32.847807,
     "geom:longitude":-97.345049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E Industrial Ave",
     "sg:city":"Saginaw",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202504753,
-    "wof:lastmodified":1449060544,
+    "wof:lastmodified":1467084897,
     "wof:name":"Texas Metal Spinning Inc",
     "wof:parent_id":85871595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spinning"
     ]
 },
-  "bbox": [-97.345049,32.847807,-97.345049,32.847807],
+  "bbox": [
+    -97.345049,
+    32.847807,
+    -97.345049,
+    32.847807
+],
   "geometry": {"coordinates":[-97.345049,32.847807],"type":"Point"}
 }

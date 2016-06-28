@@ -2,13 +2,14 @@
   "id": 219204023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.532908,29.982771,-95.532908,29.982771",
     "geom:latitude":29.982771,
     "geom:longitude":-95.532908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13907 Jupiter Hills Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219204023,
-    "wof:lastmodified":1449074036,
+    "wof:lastmodified":1467085177,
     "wof:name":"Robert Bartlett",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-95.532908,29.982771,-95.532908,29.982771],
-  "geometry": {"coordinates":[-95.532908,29.982771],"type":"Point"}
+  "bbox": [
+    -95.532908,
+    29.982771,
+    -95.532908,
+    29.982771
+],
+  "geometry": {"coordinates":[-95.53290800000001,29.982771],"type":"Point"}
 }

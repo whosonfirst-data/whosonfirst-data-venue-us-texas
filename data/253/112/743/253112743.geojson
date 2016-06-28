@@ -2,13 +2,14 @@
   "id": 253112743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749294,30.289479,-97.749294,30.289479",
     "geom:latitude":30.289479,
     "geom:longitude":-97.749294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Leon St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253112743,
-    "wof:lastmodified":1449064181,
+    "wof:lastmodified":1467084991,
     "wof:name":"Lake Quest Enterprises",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.749294,30.289479,-97.749294,30.289479],
-  "geometry": {"coordinates":[-97.749294,30.289479],"type":"Point"}
+  "bbox": [
+    -97.749294,
+    30.289479,
+    -97.749294,
+    30.289479
+],
+  "geometry": {"coordinates":[-97.74929400000001,30.289479],"type":"Point"}
 }

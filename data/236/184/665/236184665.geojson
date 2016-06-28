@@ -2,13 +2,14 @@
   "id": 236184665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.826619,33.101682,-96.826619,33.101682",
     "geom:latitude":33.101682,
     "geom:longitude":-96.826619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Network Blvd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236184665,
-    "wof:lastmodified":1449002092,
+    "wof:lastmodified":1467083885,
     "wof:name":"Transplace Freight Services",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.826619,33.101682,-96.826619,33.101682],
-  "geometry": {"coordinates":[-96.826619,33.101682],"type":"Point"}
+  "bbox": [
+    -96.826619,
+    33.101682,
+    -96.826619,
+    33.101682
+],
+  "geometry": {"coordinates":[-96.82661899999999,33.101682],"type":"Point"}
 }

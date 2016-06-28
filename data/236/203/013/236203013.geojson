@@ -2,13 +2,14 @@
   "id": 236203013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.974899,32.874501,-96.974899,32.874501",
     "geom:latitude":32.874501,
     "geom:longitude":-96.974899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Hurd Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":236203013,
-    "wof:lastmodified":1449003055,
+    "wof:lastmodified":1467083935,
     "wof:name":"Trakk Fulfillment Inc",
     "wof:parent_id":85878323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "fulfillment"
     ]
 },
-  "bbox": [-96.974899,32.874501,-96.974899,32.874501],
-  "geometry": {"coordinates":[-96.974899,32.874501],"type":"Point"}
+  "bbox": [
+    -96.974899,
+    32.874501,
+    -96.974899,
+    32.874501
+],
+  "geometry": {"coordinates":[-96.97489899999999,32.874501],"type":"Point"}
 }

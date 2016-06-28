@@ -2,13 +2,14 @@
   "id": 371152687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.85107,30.312629,-97.85107,30.312629",
     "geom:latitude":30.312629,
     "geom:longitude":-97.85107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8226 Bee Caves Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371152687,
-    "wof:lastmodified":1449049837,
+    "wof:lastmodified":1467084685,
     "wof:name":"Whataburger",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.85107,30.312629,-97.85107,30.312629],
-  "geometry": {"coordinates":[-97.85107,30.312629],"type":"Point"}
+  "bbox": [
+    -97.85107,
+    30.312629,
+    -97.85107,
+    30.312629
+],
+  "geometry": {"coordinates":[-97.85107000000001,30.312629],"type":"Point"}
 }

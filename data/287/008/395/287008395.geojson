@@ -2,13 +2,14 @@
   "id": 287008395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.370499,30.6705,-96.370499,30.6705",
     "geom:latitude":30.6705,
     "geom:longitude":-96.370499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Texas Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":287008395,
-    "wof:lastmodified":1449000935,
+    "wof:lastmodified":1467083827,
     "wof:name":"Texas Avenue Medical Clinic - New Patients-Walk-In",
     "wof:parent_id":85893605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "care"
     ]
 },
-  "bbox": [-96.370499,30.6705,-96.370499,30.6705],
+  "bbox": [
+    -96.370499,
+    30.6705,
+    -96.370499,
+    30.6705
+],
   "geometry": {"coordinates":[-96.370499,30.6705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252751909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750584,32.809113,-96.750584,32.809113",
     "geom:latitude":32.809113,
     "geom:longitude":-96.750584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6203 Victor St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252751909,
-    "wof:lastmodified":1449005469,
+    "wof:lastmodified":1467084051,
     "wof:name":"Lakewood Heat and Air",
     "wof:parent_id":85893617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-96.750584,32.809113,-96.750584,32.809113],
+  "bbox": [
+    -96.750584,
+    32.809113,
+    -96.750584,
+    32.809113
+],
   "geometry": {"coordinates":[-96.750584,32.809113],"type":"Point"}
 }

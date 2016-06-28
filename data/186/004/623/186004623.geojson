@@ -2,13 +2,14 @@
   "id": 186004623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.719017,34.230097,-102.719017,34.230097",
     "geom:latitude":34.230097,
     "geom:longitude":-102.719017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Elm Ave",
     "sg:city":"Muleshoe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186004623,
-    "wof:lastmodified":1449051364,
+    "wof:lastmodified":1467084712,
     "wof:name":"Cebridge Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-102.719017,34.230097,-102.719017,34.230097],
-  "geometry": {"coordinates":[-102.719017,34.230097],"type":"Point"}
+  "bbox": [
+    -102.719017,
+    34.230097,
+    -102.719017,
+    34.230097
+],
+  "geometry": {"coordinates":[-102.71901699999999,34.230097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252954583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.889032,32.888944,-96.889032,32.888944",
     "geom:latitude":32.888944,
     "geom:longitude":-96.889032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11171 Harry Hines Blvd Ste 107",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252954583,
-    "wof:lastmodified":1449006376,
+    "wof:lastmodified":1467084101,
     "wof:name":"Wolf Camera",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-96.889032,32.888944,-96.889032,32.888944],
+  "bbox": [
+    -96.889032,
+    32.888944,
+    -96.889032,
+    32.888944
+],
   "geometry": {"coordinates":[-96.889032,32.888944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219482265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.164842,30.080649,-94.164842,30.080649",
     "geom:latitude":30.080649,
     "geom:longitude":-94.164842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Callaway Dr",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219482265,
-    "wof:lastmodified":1449071641,
+    "wof:lastmodified":1467085126,
     "wof:name":"Joe M Bloomfield Builder Inc",
     "wof:parent_id":85808829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-94.164842,30.080649,-94.164842,30.080649],
-  "geometry": {"coordinates":[-94.164842,30.080649],"type":"Point"}
+  "bbox": [
+    -94.164842,
+    30.080649,
+    -94.164842,
+    30.080649
+],
+  "geometry": {"coordinates":[-94.16484199999999,30.080649],"type":"Point"}
 }

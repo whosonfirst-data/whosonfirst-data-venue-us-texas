@@ -2,13 +2,14 @@
   "id": 303153251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.848536,30.567667,-97.848536,30.567667",
     "geom:latitude":30.567667,
     "geom:longitude":-97.848536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S Hwy 183",
     "sg:city":"Leander",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303153251,
-    "wof:lastmodified":1448999799,
+    "wof:lastmodified":1467083776,
     "wof:name":"Sonic Drive-in",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-97.848536,30.567667,-97.848536,30.567667],
+  "bbox": [
+    -97.848536,
+    30.567667,
+    -97.848536,
+    30.567667
+],
   "geometry": {"coordinates":[-97.848536,30.567667],"type":"Point"}
 }

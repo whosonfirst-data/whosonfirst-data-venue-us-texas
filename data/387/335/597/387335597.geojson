@@ -2,13 +2,14 @@
   "id": 387335597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.561101,33.861872,-98.561101,33.861872",
     "geom:latitude":33.861872,
     "geom:longitude":-98.561101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 Fairway Blvd",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387335597,
-    "wof:lastmodified":1449058621,
+    "wof:lastmodified":1467084849,
     "wof:name":"Carol Hibbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.561101,33.861872,-98.561101,33.861872],
-  "geometry": {"coordinates":[-98.561101,33.861872],"type":"Point"}
+  "bbox": [
+    -98.561101,
+    33.861872,
+    -98.561101,
+    33.861872
+],
+  "geometry": {"coordinates":[-98.56110099999999,33.861872],"type":"Point"}
 }

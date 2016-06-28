@@ -2,13 +2,14 @@
   "id": 303324005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754905,30.251825,-97.754905,30.251825",
     "geom:latitude":30.251825,
     "geom:longitude":-97.754905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Gibson St.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303324005,
-    "wof:lastmodified":1448999550,
+    "wof:lastmodified":1467083763,
     "wof:name":"Nicholas Dawson Park",
     "wof:parent_id":85893501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.754905,30.251825,-97.754905,30.251825],
-  "geometry": {"coordinates":[-97.754905,30.251825],"type":"Point"}
+  "bbox": [
+    -97.754905,
+    30.251825,
+    -97.754905,
+    30.251825
+],
+  "geometry": {"coordinates":[-97.75490499999999,30.251825],"type":"Point"}
 }

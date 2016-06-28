@@ -2,13 +2,14 @@
   "id": 370580147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.34,32.748968,-97.34,32.748968",
     "geom:latitude":32.748968,
     "geom:longitude":-97.34,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Collier St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370580147,
-    "wof:lastmodified":1449031362,
+    "wof:lastmodified":1467084526,
     "wof:name":"CLEAT",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.34,32.748968,-97.34,32.748968],
+  "bbox": [
+    -97.34,
+    32.748968,
+    -97.34,
+    32.748968
+],
   "geometry": {"coordinates":[-97.34,32.748968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270500221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.605135,29.988488,-95.605135,29.988488",
     "geom:latitude":29.988488,
     "geom:longitude":-95.605135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14715 Forest Lodge Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270500221,
-    "wof:lastmodified":1449009230,
+    "wof:lastmodified":1467084169,
     "wof:name":"Perry Cemetery & Historic",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-95.605135,29.988488,-95.605135,29.988488],
+  "bbox": [
+    -95.605135,
+    29.988488,
+    -95.605135,
+    29.988488
+],
   "geometry": {"coordinates":[-95.605135,29.988488],"type":"Point"}
 }

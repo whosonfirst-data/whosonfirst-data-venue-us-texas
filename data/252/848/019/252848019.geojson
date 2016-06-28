@@ -2,13 +2,14 @@
   "id": 252848019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.899101,32.8643,-96.899101,32.8643",
     "geom:latitude":32.8643,
     "geom:longitude":-96.899101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 W Northwest Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252848019,
-    "wof:lastmodified":1449005557,
+    "wof:lastmodified":1467084056,
     "wof:name":"Jack In the Box",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.899101,32.8643,-96.899101,32.8643],
+  "bbox": [
+    -96.899101,
+    32.8643,
+    -96.899101,
+    32.8643
+],
   "geometry": {"coordinates":[-96.899101,32.8643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387123949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.708899,30.391526,-97.708899,30.391526",
     "geom:latitude":30.391526,
     "geom:longitude":-97.708899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11002 Metric Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387123949,
-    "wof:lastmodified":1449057238,
+    "wof:lastmodified":1467084813,
     "wof:name":"LA Coste & Romberg",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.708899,30.391526,-97.708899,30.391526],
+  "bbox": [
+    -97.708899,
+    30.391526,
+    -97.708899,
+    30.391526
+],
   "geometry": {"coordinates":[-97.708899,30.391526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387668013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.4377,30.339941,-95.4377,30.339941",
     "geom:latitude":30.339941,
     "geom:longitude":-95.4377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N Loop 336 E",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387668013,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1467084852,
     "wof:name":"Whataburger",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.4377,30.339941,-95.4377,30.339941],
-  "geometry": {"coordinates":[-95.4377,30.339941],"type":"Point"}
+  "bbox": [
+    -95.4377,
+    30.339941,
+    -95.4377,
+    30.339941
+],
+  "geometry": {"coordinates":[-95.43770000000001,30.339941],"type":"Point"}
 }

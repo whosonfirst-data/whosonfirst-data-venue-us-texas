@@ -2,13 +2,14 @@
   "id": 370691783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551715,29.675298,-95.551715,29.675298",
     "geom:latitude":29.675298,
     "geom:longitude":-95.551715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9826 Bissonnet St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370691783,
-    "wof:lastmodified":1449029365,
+    "wof:lastmodified":1467084475,
     "wof:name":"All Around Wrecker Svc",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.551715,29.675298,-95.551715,29.675298],
+  "bbox": [
+    -95.551715,
+    29.675298,
+    -95.551715,
+    29.675298
+],
   "geometry": {"coordinates":[-95.551715,29.675298],"type":"Point"}
 }

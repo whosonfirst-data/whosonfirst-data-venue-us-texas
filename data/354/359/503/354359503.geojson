@@ -2,13 +2,14 @@
   "id": 354359503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55715,30.131476,-95.55715,30.131476",
     "geom:latitude":30.131476,
     "geom:longitude":-95.55715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8830 Hufsmith Rd",
     "sg:city":"Tomball",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354359503,
-    "wof:lastmodified":1449065906,
+    "wof:lastmodified":1467085051,
     "wof:name":"Quinn Team",
     "wof:parent_id":85893755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.55715,30.131476,-95.55715,30.131476],
-  "geometry": {"coordinates":[-95.55715,30.131476],"type":"Point"}
+  "bbox": [
+    -95.55715,
+    30.131476,
+    -95.55715,
+    30.131476
+],
+  "geometry": {"coordinates":[-95.55714999999999,30.131476],"type":"Point"}
 }

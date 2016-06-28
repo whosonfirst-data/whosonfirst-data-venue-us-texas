@@ -2,13 +2,14 @@
   "id": 403803929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528687,31.829338,-106.528687,31.829338",
     "geom:latitude":31.829338,
     "geom:longitude":-106.528687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5917 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403803929,
-    "wof:lastmodified":1449055979,
+    "wof:lastmodified":1467084781,
     "wof:name":"Anna's Linens",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-106.528687,31.829338,-106.528687,31.829338],
-  "geometry": {"coordinates":[-106.528687,31.829338],"type":"Point"}
+  "bbox": [
+    -106.528687,
+    31.829338,
+    -106.528687,
+    31.829338
+],
+  "geometry": {"coordinates":[-106.52868700000001,31.829338],"type":"Point"}
 }

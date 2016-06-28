@@ -2,13 +2,14 @@
   "id": 236352871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.329545,31.672893,-106.329545,31.672893",
     "geom:latitude":31.672893,
     "geom:longitude":-106.329545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Joe Rodriguez Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236352871,
-    "wof:lastmodified":1449003721,
+    "wof:lastmodified":1467083967,
     "wof:name":"Air Road Express",
     "wof:parent_id":85859443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-106.329545,31.672893,-106.329545,31.672893],
+  "bbox": [
+    -106.329545,
+    31.672893,
+    -106.329545,
+    31.672893
+],
   "geometry": {"coordinates":[-106.329545,31.672893],"type":"Point"}
 }

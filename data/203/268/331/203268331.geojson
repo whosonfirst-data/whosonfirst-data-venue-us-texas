@@ -2,13 +2,14 @@
   "id": 203268331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.456899,31.781691,-106.456899,31.781691",
     "geom:latitude":31.781691,
     "geom:longitude":-106.456899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 E Yandell Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203268331,
-    "wof:lastmodified":1449026031,
+    "wof:lastmodified":1467084405,
     "wof:name":"Dr Art's Pools & Remodeling",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.456899,31.781691,-106.456899,31.781691],
-  "geometry": {"coordinates":[-106.456899,31.781691],"type":"Point"}
+  "bbox": [
+    -106.456899,
+    31.781691,
+    -106.456899,
+    31.781691
+],
+  "geometry": {"coordinates":[-106.45689900000001,31.781691],"type":"Point"}
 }

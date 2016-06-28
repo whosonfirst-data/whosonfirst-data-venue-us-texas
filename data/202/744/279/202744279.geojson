@@ -2,13 +2,14 @@
   "id": 202744279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.125413,32.940982,-97.125413,32.940982",
     "geom:latitude":32.940982,
     "geom:longitude":-97.125413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Miron Dr",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202744279,
-    "wof:lastmodified":1449061025,
+    "wof:lastmodified":1467084907,
     "wof:name":"U S Aviation",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "airline"
     ]
 },
-  "bbox": [-97.125413,32.940982,-97.125413,32.940982],
-  "geometry": {"coordinates":[-97.125413,32.940982],"type":"Point"}
+  "bbox": [
+    -97.125413,
+    32.940982,
+    -97.125413,
+    32.940982
+],
+  "geometry": {"coordinates":[-97.12541299999999,32.940982],"type":"Point"}
 }

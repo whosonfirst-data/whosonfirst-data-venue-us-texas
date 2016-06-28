@@ -2,13 +2,14 @@
   "id": 186163265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.470576,31.422766,-100.470576,31.422766",
     "geom:latitude":31.422766,
     "geom:longitude":-100.470576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 Lindenwood Dr",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186163265,
-    "wof:lastmodified":1449052975,
+    "wof:lastmodified":1467084746,
     "wof:name":"John Conn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-100.470576,31.422766,-100.470576,31.422766],
-  "geometry": {"coordinates":[-100.470576,31.422766],"type":"Point"}
+  "bbox": [
+    -100.470576,
+    31.422766,
+    -100.470576,
+    31.422766
+],
+  "geometry": {"coordinates":[-100.47057599999999,31.422766],"type":"Point"}
 }

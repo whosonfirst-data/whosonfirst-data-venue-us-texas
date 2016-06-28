@@ -2,13 +2,14 @@
   "id": 236948197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495535,29.441691,-98.495535,29.441691",
     "geom:latitude":29.441691,
     "geom:longitude":-98.495535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Howard St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236948197,
-    "wof:lastmodified":1449004425,
+    "wof:lastmodified":1467084000,
     "wof:name":"Howard Family Practice",
     "wof:parent_id":85893967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.495535,29.441691,-98.495535,29.441691],
+  "bbox": [
+    -98.495535,
+    29.441691,
+    -98.495535,
+    29.441691
+],
   "geometry": {"coordinates":[-98.495535,29.441691],"type":"Point"}
 }

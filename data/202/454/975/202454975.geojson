@@ -2,13 +2,14 @@
   "id": 202454975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.71008,30.526125,-97.71008,30.526125",
     "geom:latitude":30.526125,
     "geom:longitude":-97.71008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Sam Bass Rd",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202454975,
-    "wof:lastmodified":1449062410,
+    "wof:lastmodified":1467084936,
     "wof:name":"IPS Meteostar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-97.71008,30.526125,-97.71008,30.526125],
+  "bbox": [
+    -97.71008,
+    30.526125,
+    -97.71008,
+    30.526125
+],
   "geometry": {"coordinates":[-97.71008,30.526125],"type":"Point"}
 }

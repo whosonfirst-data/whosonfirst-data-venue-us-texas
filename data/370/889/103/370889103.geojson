@@ -2,13 +2,14 @@
   "id": 370889103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.385596,30.246177,-95.385596,30.246177",
     "geom:latitude":30.246177,
     "geom:longitude":-95.385596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14235 Bert Brown Rd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370889103,
-    "wof:lastmodified":1449029007,
+    "wof:lastmodified":1467084467,
     "wof:name":"Miller Shavings Inc",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.385596,30.246177,-95.385596,30.246177],
-  "geometry": {"coordinates":[-95.385596,30.246177],"type":"Point"}
+  "bbox": [
+    -95.385596,
+    30.246177,
+    -95.385596,
+    30.246177
+],
+  "geometry": {"coordinates":[-95.38559600000001,30.246177],"type":"Point"}
 }

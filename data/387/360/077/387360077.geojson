@@ -2,13 +2,14 @@
   "id": 387360077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.611893,29.519913,-98.611893,29.519913",
     "geom:latitude":29.519913,
     "geom:longitude":-98.611893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8529 Echo Creek Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387360077,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1467084859,
     "wof:name":"Sol Clean Inc",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-98.611893,29.519913,-98.611893,29.519913],
-  "geometry": {"coordinates":[-98.611893,29.519913],"type":"Point"}
+  "bbox": [
+    -98.611893,
+    29.519913,
+    -98.611893,
+    29.519913
+],
+  "geometry": {"coordinates":[-98.61189299999999,29.519913],"type":"Point"}
 }

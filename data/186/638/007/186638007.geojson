@@ -2,13 +2,14 @@
   "id": 186638007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502582,27.508596,-99.502582,27.508596",
     "geom:latitude":27.508596,
     "geom:longitude":-99.502582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 San Dario Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186638007,
-    "wof:lastmodified":1449050417,
+    "wof:lastmodified":1467084696,
     "wof:name":"World Acceptance",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-99.502582,27.508596,-99.502582,27.508596],
+  "bbox": [
+    -99.502582,
+    27.508596,
+    -99.502582,
+    27.508596
+],
   "geometry": {"coordinates":[-99.502582,27.508596],"type":"Point"}
 }

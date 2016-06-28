@@ -2,13 +2,14 @@
   "id": 403830213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.566713,29.449099,-98.566713,29.449099",
     "geom:latitude":29.449099,
     "geom:longitude":-98.566713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 Culebra Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403830213,
-    "wof:lastmodified":1449054920,
+    "wof:lastmodified":1467084756,
     "wof:name":"Los Antojitos Restaurant",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.566713,29.449099,-98.566713,29.449099],
-  "geometry": {"coordinates":[-98.566713,29.449099],"type":"Point"}
+  "bbox": [
+    -98.566713,
+    29.449099,
+    -98.566713,
+    29.449099
+],
+  "geometry": {"coordinates":[-98.56671299999999,29.449099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270277383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.527397,29.882401,-95.527397,29.882401",
     "geom:latitude":29.882401,
     "geom:longitude":-95.527397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8726 Congo Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270277383,
-    "wof:lastmodified":1449008925,
+    "wof:lastmodified":1467084159,
     "wof:name":"Pet Cemetery",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-95.527397,29.882401,-95.527397,29.882401],
-  "geometry": {"coordinates":[-95.527397,29.882401],"type":"Point"}
+  "bbox": [
+    -95.527397,
+    29.882401,
+    -95.527397,
+    29.882401
+],
+  "geometry": {"coordinates":[-95.52739699999999,29.882401],"type":"Point"}
 }

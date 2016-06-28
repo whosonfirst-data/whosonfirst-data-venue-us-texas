@@ -2,13 +2,14 @@
   "id": 236861639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801942,32.78004,-96.801942,32.78004",
     "geom:latitude":32.78004,
     "geom:longitude":-96.801942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236861639,
-    "wof:lastmodified":1449005225,
+    "wof:lastmodified":1467084039,
     "wof:name":"Dallas Uniform Service",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.801942,32.78004,-96.801942,32.78004],
+  "bbox": [
+    -96.801942,
+    32.78004,
+    -96.801942,
+    32.78004
+],
   "geometry": {"coordinates":[-96.801942,32.78004],"type":"Point"}
 }

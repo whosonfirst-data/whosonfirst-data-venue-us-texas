@@ -2,13 +2,14 @@
   "id": 403952581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.870221,33.485457,-101.870221,33.485457",
     "geom:latitude":33.485457,
     "geom:longitude":-101.870221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12109 University Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403952581,
-    "wof:lastmodified":1449055568,
+    "wof:lastmodified":1467084771,
     "wof:name":"Grease Trapper Svc",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trap"
     ]
 },
-  "bbox": [-101.870221,33.485457,-101.870221,33.485457],
+  "bbox": [
+    -101.870221,
+    33.485457,
+    -101.870221,
+    33.485457
+],
   "geometry": {"coordinates":[-101.870221,33.485457],"type":"Point"}
 }

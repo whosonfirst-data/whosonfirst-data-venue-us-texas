@@ -2,13 +2,14 @@
   "id": 252923155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67575,32.835014,-96.67575,32.835014",
     "geom:latitude":32.835014,
     "geom:longitude":-96.67575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2331 Gus Thomasson Rd Ste 128",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252923155,
-    "wof:lastmodified":1449006465,
+    "wof:lastmodified":1467084106,
     "wof:name":"One",
     "wof:parent_id":85844255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.67575,32.835014,-96.67575,32.835014],
-  "geometry": {"coordinates":[-96.67575,32.835014],"type":"Point"}
+  "bbox": [
+    -96.67575,
+    32.835014,
+    -96.67575,
+    32.835014
+],
+  "geometry": {"coordinates":[-96.67574999999999,32.835014],"type":"Point"}
 }

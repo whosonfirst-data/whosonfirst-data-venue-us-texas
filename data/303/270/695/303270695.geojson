@@ -2,13 +2,14 @@
   "id": 303270695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743013,30.27017,-97.743013,30.27017",
     "geom:latitude":30.27017,
     "geom:longitude":-97.743013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 West 8th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303270695,
-    "wof:lastmodified":1448998550,
+    "wof:lastmodified":1467083713,
     "wof:name":"Scott & Cooner",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "fixture"
     ]
 },
-  "bbox": [-97.743013,30.27017,-97.743013,30.27017],
+  "bbox": [
+    -97.743013,
+    30.27017,
+    -97.743013,
+    30.27017
+],
   "geometry": {"coordinates":[-97.743013,30.27017],"type":"Point"}
 }

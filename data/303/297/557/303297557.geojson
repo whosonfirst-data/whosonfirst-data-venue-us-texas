@@ -2,13 +2,14 @@
   "id": 303297557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.758446,30.271699,-97.758446,30.271699",
     "geom:latitude":30.271699,
     "geom:longitude":-97.758446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W 5th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303297557,
-    "wof:lastmodified":1448999673,
+    "wof:lastmodified":1467083769,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.758446,30.271699,-97.758446,30.271699],
-  "geometry": {"coordinates":[-97.758446,30.271699],"type":"Point"}
+  "bbox": [
+    -97.758446,
+    30.271699,
+    -97.758446,
+    30.271699
+],
+  "geometry": {"coordinates":[-97.75844600000001,30.271699],"type":"Point"}
 }

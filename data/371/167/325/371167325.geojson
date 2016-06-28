@@ -2,13 +2,14 @@
   "id": 371167325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.369948,30.674331,-96.369948,30.674331",
     "geom:latitude":30.674331,
     "geom:longitude":-96.369948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Wm J Bryan Pkwy",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371167325,
-    "wof:lastmodified":1449049573,
+    "wof:lastmodified":1467084680,
     "wof:name":"Property Taxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.369948,30.674331,-96.369948,30.674331],
-  "geometry": {"coordinates":[-96.369948,30.674331],"type":"Point"}
+  "bbox": [
+    -96.369948,
+    30.674331,
+    -96.369948,
+    30.674331
+],
+  "geometry": {"coordinates":[-96.36994799999999,30.674331],"type":"Point"}
 }

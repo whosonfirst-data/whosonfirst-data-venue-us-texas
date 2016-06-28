@@ -2,13 +2,14 @@
   "id": 387680727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145029,32.690056,-97.145029,32.690056",
     "geom:latitude":32.690056,
     "geom:longitude":-97.145029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Dartmouth Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387680727,
-    "wof:lastmodified":1449058773,
+    "wof:lastmodified":1467084853,
     "wof:name":"National Marrow Donor Program",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.145029,32.690056,-97.145029,32.690056],
-  "geometry": {"coordinates":[-97.145029,32.690056],"type":"Point"}
+  "bbox": [
+    -97.145029,
+    32.690056,
+    -97.145029,
+    32.690056
+],
+  "geometry": {"coordinates":[-97.14502899999999,32.690056],"type":"Point"}
 }

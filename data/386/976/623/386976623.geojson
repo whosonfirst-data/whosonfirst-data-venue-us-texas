@@ -2,13 +2,14 @@
   "id": 386976623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751241,30.352007,-97.751241,30.352007",
     "geom:latitude":30.352007,
     "geom:longitude":-97.751241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6818 Austin Center Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386976623,
-    "wof:lastmodified":1449028755,
+    "wof:lastmodified":1467084461,
     "wof:name":"Vein Solutions",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.751241,30.352007,-97.751241,30.352007],
-  "geometry": {"coordinates":[-97.751241,30.352007],"type":"Point"}
+  "bbox": [
+    -97.751241,
+    30.352007,
+    -97.751241,
+    30.352007
+],
+  "geometry": {"coordinates":[-97.75124099999999,30.352007],"type":"Point"}
 }

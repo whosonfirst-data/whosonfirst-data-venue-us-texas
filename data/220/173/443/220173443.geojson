@@ -2,13 +2,14 @@
   "id": 220173443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.119498,29.699403,-98.119498,29.699403",
     "geom:latitude":29.699403,
     "geom:longitude":-98.119498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Seguin Ave",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220173443,
-    "wof:lastmodified":1449074196,
+    "wof:lastmodified":1467085180,
     "wof:name":"ERA",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.119498,29.699403,-98.119498,29.699403],
-  "geometry": {"coordinates":[-98.119498,29.699403],"type":"Point"}
+  "bbox": [
+    -98.119498,
+    29.699403,
+    -98.119498,
+    29.699403
+],
+  "geometry": {"coordinates":[-98.11949799999999,29.699403],"type":"Point"}
 }

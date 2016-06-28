@@ -2,13 +2,14 @@
   "id": 236797295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.567629,32.777754,-96.567629,32.777754",
     "geom:latitude":32.777754,
     "geom:longitude":-96.567629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231B S Collins Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236797295,
-    "wof:lastmodified":1449004853,
+    "wof:lastmodified":1467084020,
     "wof:name":"Texas Regional Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.567629,32.777754,-96.567629,32.777754],
+  "bbox": [
+    -96.567629,
+    32.777754,
+    -96.567629,
+    32.777754
+],
   "geometry": {"coordinates":[-96.567629,32.777754],"type":"Point"}
 }

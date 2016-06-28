@@ -2,13 +2,14 @@
   "id": 270102005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.435075,29.740333,-95.435075,29.740333",
     "geom:latitude":29.740333,
     "geom:longitude":-95.435075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Saint St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270102005,
-    "wof:lastmodified":1449010921,
+    "wof:lastmodified":1467084225,
     "wof:name":"Manor Of Grace",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.435075,29.740333,-95.435075,29.740333],
+  "bbox": [
+    -95.435075,
+    29.740333,
+    -95.435075,
+    29.740333
+],
   "geometry": {"coordinates":[-95.435075,29.740333],"type":"Point"}
 }

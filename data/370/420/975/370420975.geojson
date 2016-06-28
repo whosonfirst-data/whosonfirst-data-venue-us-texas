@@ -2,13 +2,14 @@
   "id": 370420975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.532013,29.394612,-98.532013,29.394612",
     "geom:latitude":29.394612,
     "geom:longitude":-98.532013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 S Zarzamora",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370420975,
-    "wof:lastmodified":1449030714,
+    "wof:lastmodified":1467084510,
     "wof:name":"King's Auto Sales",
     "wof:parent_id":85841513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.532013,29.394612,-98.532013,29.394612],
-  "geometry": {"coordinates":[-98.532013,29.394612],"type":"Point"}
+  "bbox": [
+    -98.532013,
+    29.394612,
+    -98.532013,
+    29.394612
+],
+  "geometry": {"coordinates":[-98.53201300000001,29.394612],"type":"Point"}
 }

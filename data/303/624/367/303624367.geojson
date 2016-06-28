@@ -2,13 +2,14 @@
   "id": 303624367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.803111,30.274791,-97.803111,30.274791",
     "geom:latitude":30.274791,
     "geom:longitude":-97.803111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Bee Caves Rd Suite 104 Building 1, Second Floor",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303624367,
-    "wof:lastmodified":1448999796,
+    "wof:lastmodified":1467083775,
     "wof:name":"Dave Kaplowitz, MA LMFTA",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mental"
     ]
 },
-  "bbox": [-97.803111,30.274791,-97.803111,30.274791],
+  "bbox": [
+    -97.803111,
+    30.274791,
+    -97.803111,
+    30.274791
+],
   "geometry": {"coordinates":[-97.803111,30.274791],"type":"Point"}
 }

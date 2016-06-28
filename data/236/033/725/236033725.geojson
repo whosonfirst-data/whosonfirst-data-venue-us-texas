@@ -2,13 +2,14 @@
   "id": 236033725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.633581,33.0502,-96.633581,33.0502",
     "geom:latitude":33.0502,
     "geom:longitude":-96.633581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Dublin Rd",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236033725,
-    "wof:lastmodified":1449002184,
+    "wof:lastmodified":1467083891,
     "wof:name":"Stuart Margol",
     "wof:parent_id":85879969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-96.633581,33.0502,-96.633581,33.0502],
-  "geometry": {"coordinates":[-96.633581,33.0502],"type":"Point"}
+  "bbox": [
+    -96.633581,
+    33.0502,
+    -96.633581,
+    33.0502
+],
+  "geometry": {"coordinates":[-96.63358100000001,33.0502],"type":"Point"}
 }

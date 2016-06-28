@@ -2,13 +2,14 @@
   "id": 303828995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744301,30.413799,-97.744301,30.413799",
     "geom:latitude":30.413799,
     "geom:longitude":-97.744301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11615 Angus Rd Ste 102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303828995,
-    "wof:lastmodified":1448999359,
+    "wof:lastmodified":1467083753,
     "wof:name":"Allergy Asthma & Wellness Center",
     "wof:parent_id":85893531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744301,30.413799,-97.744301,30.413799],
-  "geometry": {"coordinates":[-97.744301,30.413799],"type":"Point"}
+  "bbox": [
+    -97.744301,
+    30.413799,
+    -97.744301,
+    30.413799
+],
+  "geometry": {"coordinates":[-97.74430099999999,30.413799],"type":"Point"}
 }

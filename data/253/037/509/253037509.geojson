@@ -2,13 +2,14 @@
   "id": 253037509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.903788,32.9067,-96.903788,32.9067",
     "geom:latitude":32.9067,
     "geom:longitude":-96.903788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253037509,
-    "wof:lastmodified":1449065853,
+    "wof:lastmodified":1467085049,
     "wof:name":"Daltile Store 383",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-96.903788,32.9067,-96.903788,32.9067],
-  "geometry": {"coordinates":[-96.903788,32.9067],"type":"Point"}
+  "bbox": [
+    -96.903788,
+    32.9067,
+    -96.903788,
+    32.9067
+],
+  "geometry": {"coordinates":[-96.90378800000001,32.9067],"type":"Point"}
 }

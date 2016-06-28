@@ -2,13 +2,14 @@
   "id": 371187501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.80549,29.548837,-95.80549,29.548837",
     "geom:latitude":29.548837,
     "geom:longitude":-95.80549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 4th St",
     "sg:city":"Rosenberg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371187501,
-    "wof:lastmodified":1449049192,
+    "wof:lastmodified":1467084673,
     "wof:name":"Hartman Newspapers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-95.80549,29.548837,-95.80549,29.548837],
-  "geometry": {"coordinates":[-95.80549,29.548837],"type":"Point"}
+  "bbox": [
+    -95.80549,
+    29.548837,
+    -95.80549,
+    29.548837
+],
+  "geometry": {"coordinates":[-95.80549000000001,29.548837],"type":"Point"}
 }

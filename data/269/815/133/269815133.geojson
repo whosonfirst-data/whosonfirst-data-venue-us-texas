@@ -2,13 +2,14 @@
   "id": 269815133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371991,29.754428,-95.371991,29.754428",
     "geom:latitude":29.754428,
     "geom:longitude":-95.371991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Smith St., #160",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269815133,
-    "wof:lastmodified":1449037310,
+    "wof:lastmodified":1467084604,
     "wof:name":"Seattle's Best",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.371991,29.754428,-95.371991,29.754428],
-  "geometry": {"coordinates":[-95.371991,29.754428],"type":"Point"}
+  "bbox": [
+    -95.371991,
+    29.754428,
+    -95.371991,
+    29.754428
+],
+  "geometry": {"coordinates":[-95.37199099999999,29.754428],"type":"Point"}
 }

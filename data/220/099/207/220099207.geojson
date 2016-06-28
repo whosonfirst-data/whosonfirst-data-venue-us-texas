@@ -2,13 +2,14 @@
   "id": 220099207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.477917,29.590288,-98.477917,29.590288",
     "geom:latitude":29.590288,
     "geom:longitude":-98.477917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Antler Cir",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220099207,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1467085189,
     "wof:name":"Poole & Associates",
     "wof:parent_id":85828145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-98.477917,29.590288,-98.477917,29.590288],
-  "geometry": {"coordinates":[-98.477917,29.590288],"type":"Point"}
+  "bbox": [
+    -98.477917,
+    29.590288,
+    -98.477917,
+    29.590288
+],
+  "geometry": {"coordinates":[-98.47791700000001,29.590288],"type":"Point"}
 }

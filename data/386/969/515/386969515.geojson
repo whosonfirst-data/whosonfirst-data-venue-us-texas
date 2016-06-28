@@ -2,13 +2,14 @@
   "id": 386969515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.200198,30.053252,-94.200198,30.053252",
     "geom:latitude":30.053252,
     "geom:longitude":-94.200198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2035 Somerset St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386969515,
-    "wof:lastmodified":1449028684,
+    "wof:lastmodified":1467084459,
     "wof:name":"Pos Systems",
     "wof:parent_id":85803009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.200198,30.053252,-94.200198,30.053252],
+  "bbox": [
+    -94.200198,
+    30.053252,
+    -94.200198,
+    30.053252
+],
   "geometry": {"coordinates":[-94.200198,30.053252],"type":"Point"}
 }

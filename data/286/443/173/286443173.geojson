@@ -2,13 +2,14 @@
   "id": 286443173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.568006,29.650751,-95.568006,29.650751",
     "geom:latitude":29.650751,
     "geom:longitude":-95.568006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11788 S Wilcrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286443173,
-    "wof:lastmodified":1449017576,
+    "wof:lastmodified":1467084303,
     "wof:name":"Book Haven",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-95.568006,29.650751,-95.568006,29.650751],
+  "bbox": [
+    -95.568006,
+    29.650751,
+    -95.568006,
+    29.650751
+],
   "geometry": {"coordinates":[-95.568006,29.650751],"type":"Point"}
 }

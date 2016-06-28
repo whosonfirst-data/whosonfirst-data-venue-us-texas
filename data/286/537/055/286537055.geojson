@@ -2,13 +2,14 @@
   "id": 286537055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.386665,30.048014,-95.386665,30.048014",
     "geom:latitude":30.048014,
     "geom:longitude":-95.386665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23116 Aldine Westfield Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286537055,
-    "wof:lastmodified":1449015890,
+    "wof:lastmodified":1467084255,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-95.386665,30.048014,-95.386665,30.048014],
-  "geometry": {"coordinates":[-95.386665,30.048014],"type":"Point"}
+  "bbox": [
+    -95.386665,
+    30.048014,
+    -95.386665,
+    30.048014
+],
+  "geometry": {"coordinates":[-95.38666499999999,30.048014],"type":"Point"}
 }

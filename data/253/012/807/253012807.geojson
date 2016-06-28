@@ -2,13 +2,14 @@
   "id": 253012807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855499,32.683601,-96.855499,32.683601",
     "geom:latitude":32.683601,
     "geom:longitude":-96.855499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 Mark Trail Way",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253012807,
-    "wof:lastmodified":1449065486,
+    "wof:lastmodified":1467085037,
     "wof:name":"Thurgood Marshall Recreation Center",
     "wof:parent_id":85897351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "team"
     ]
 },
-  "bbox": [-96.855499,32.683601,-96.855499,32.683601],
-  "geometry": {"coordinates":[-96.855499,32.683601],"type":"Point"}
+  "bbox": [
+    -96.855499,
+    32.683601,
+    -96.855499,
+    32.683601
+],
+  "geometry": {"coordinates":[-96.85549899999999,32.683601],"type":"Point"}
 }

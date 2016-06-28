@@ -2,13 +2,14 @@
   "id": 403835647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751969,30.297016,-97.751969,30.297016",
     "geom:latitude":30.297016,
     "geom:longitude":-97.751969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Westover Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403835647,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1467084754,
     "wof:name":"Golden Financial Group",
     "wof:parent_id":85869913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.751969,30.297016,-97.751969,30.297016],
+  "bbox": [
+    -97.751969,
+    30.297016,
+    -97.751969,
+    30.297016
+],
   "geometry": {"coordinates":[-97.751969,30.297016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270285981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.565463,29.856275,-95.565463,29.856275",
     "geom:latitude":29.856275,
     "geom:longitude":-95.565463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5829 W. Sam Houston Pkwy. N. Suite 1001",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270285981,
-    "wof:lastmodified":1449008740,
+    "wof:lastmodified":1467084153,
     "wof:name":"Richard's Party Rentals and Tent Rentals",
     "wof:parent_id":85869785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "event"
     ]
 },
-  "bbox": [-95.565463,29.856275,-95.565463,29.856275],
-  "geometry": {"coordinates":[-95.565463,29.856275],"type":"Point"}
+  "bbox": [
+    -95.565463,
+    29.856275,
+    -95.565463,
+    29.856275
+],
+  "geometry": {"coordinates":[-95.56546299999999,29.856275],"type":"Point"}
 }

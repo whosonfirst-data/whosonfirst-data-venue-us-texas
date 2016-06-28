@@ -2,13 +2,14 @@
   "id": 303336059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.774498,30.247299,-97.774498,30.247299",
     "geom:latitude":30.247299,
     "geom:longitude":-97.774498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303336059,
-    "wof:lastmodified":1448998066,
+    "wof:lastmodified":1467083688,
     "wof:name":"Van's Auto Parts",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "part"
     ]
 },
-  "bbox": [-97.774498,30.247299,-97.774498,30.247299],
-  "geometry": {"coordinates":[-97.774498,30.247299],"type":"Point"}
+  "bbox": [
+    -97.774498,
+    30.247299,
+    -97.774498,
+    30.247299
+],
+  "geometry": {"coordinates":[-97.77449799999999,30.247299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337409835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856975,35.180638,-101.856975,35.180638",
     "geom:latitude":35.180638,
     "geom:longitude":-101.856975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 Bowie St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337409835,
-    "wof:lastmodified":1449027271,
+    "wof:lastmodified":1467084437,
     "wof:name":"Smart Chemical Holding",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-101.856975,35.180638,-101.856975,35.180638],
-  "geometry": {"coordinates":[-101.856975,35.180638],"type":"Point"}
+  "bbox": [
+    -101.856975,
+    35.180638,
+    -101.856975,
+    35.180638
+],
+  "geometry": {"coordinates":[-101.85697500000001,35.180638],"type":"Point"}
 }

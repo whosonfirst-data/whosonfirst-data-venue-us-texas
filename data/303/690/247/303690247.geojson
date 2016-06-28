@@ -2,13 +2,14 @@
   "id": 303690247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.809486,30.44186,-97.809486,30.44186",
     "geom:latitude":30.44186,
     "geom:longitude":-97.809486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11202 Taterwood Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":303690247,
-    "wof:lastmodified":1448999415,
+    "wof:lastmodified":1467083756,
     "wof:name":"Default Mortgage Counseling",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "counselor"
     ]
 },
-  "bbox": [-97.809486,30.44186,-97.809486,30.44186],
-  "geometry": {"coordinates":[-97.809486,30.44186],"type":"Point"}
+  "bbox": [
+    -97.809486,
+    30.44186,
+    -97.809486,
+    30.44186
+],
+  "geometry": {"coordinates":[-97.80948600000001,30.44186],"type":"Point"}
 }

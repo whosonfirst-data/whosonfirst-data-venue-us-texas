@@ -2,13 +2,14 @@
   "id": 370548147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.848826,32.778619,-96.848826,32.778619",
     "geom:latitude":32.778619,
     "geom:longitude":-96.848826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370548147,
-    "wof:lastmodified":1449031424,
+    "wof:lastmodified":1467084528,
     "wof:name":"James R Turner DDS",
     "wof:parent_id":85870331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.848826,32.778619,-96.848826,32.778619],
+  "bbox": [
+    -96.848826,
+    32.778619,
+    -96.848826,
+    32.778619
+],
   "geometry": {"coordinates":[-96.848826,32.778619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354080419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.380006,29.532355,-98.380006,29.532355",
     "geom:latitude":29.532355,
     "geom:longitude":-98.380006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Randolph Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354080419,
-    "wof:lastmodified":1449067640,
+    "wof:lastmodified":1467085093,
     "wof:name":"Bratton Automotive Repair",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.380006,29.532355,-98.380006,29.532355],
-  "geometry": {"coordinates":[-98.380006,29.532355],"type":"Point"}
+  "bbox": [
+    -98.380006,
+    29.532355,
+    -98.380006,
+    29.532355
+],
+  "geometry": {"coordinates":[-98.38000599999999,29.532355],"type":"Point"}
 }

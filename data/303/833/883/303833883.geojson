@@ -2,13 +2,14 @@
   "id": 303833883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7481,30.39915,-97.7481,30.39915",
     "geom:latitude":30.39915,
     "geom:longitude":-97.7481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10710 Research Blvd, Ste 326",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303833883,
-    "wof:lastmodified":1448998433,
+    "wof:lastmodified":1467083707,
     "wof:name":"Sunstone Yoga",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-97.7481,30.39915,-97.7481,30.39915],
-  "geometry": {"coordinates":[-97.7481,30.39915],"type":"Point"}
+  "bbox": [
+    -97.7481,
+    30.39915,
+    -97.7481,
+    30.39915
+],
+  "geometry": {"coordinates":[-97.74809999999999,30.39915],"type":"Point"}
 }

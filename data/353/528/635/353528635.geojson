@@ -2,13 +2,14 @@
   "id": 353528635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.786668,32.856973,-96.786668,32.856973",
     "geom:latitude":32.856973,
     "geom:longitude":-96.786668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 Southwestern Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353528635,
-    "wof:lastmodified":1449018953,
+    "wof:lastmodified":1467084336,
     "wof:name":"Classic Designs",
     "wof:parent_id":85870419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.786668,32.856973,-96.786668,32.856973],
-  "geometry": {"coordinates":[-96.786668,32.856973],"type":"Point"}
+  "bbox": [
+    -96.786668,
+    32.856973,
+    -96.786668,
+    32.856973
+],
+  "geometry": {"coordinates":[-96.78666800000001,32.856973],"type":"Point"}
 }

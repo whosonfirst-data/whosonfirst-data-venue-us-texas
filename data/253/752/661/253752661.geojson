@@ -2,13 +2,14 @@
   "id": 253752661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.380203,32.456253,-97.380203,32.456253",
     "geom:latitude":32.456253,
     "geom:longitude":-97.380203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Alta Vista",
     "sg:city":"Joshua",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253752661,
-    "wof:lastmodified":1449063316,
+    "wof:lastmodified":1467084962,
     "wof:name":"Trinity Praises",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.380203,32.456253,-97.380203,32.456253],
-  "geometry": {"coordinates":[-97.380203,32.456253],"type":"Point"}
+  "bbox": [
+    -97.380203,
+    32.456253,
+    -97.380203,
+    32.456253
+],
+  "geometry": {"coordinates":[-97.38020299999999,32.456253],"type":"Point"}
 }

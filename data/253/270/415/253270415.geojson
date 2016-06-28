@@ -2,13 +2,14 @@
   "id": 253270415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769129,32.949718,-96.769129,32.949718",
     "geom:latitude":32.949718,
     "geom:longitude":-96.769129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14721 Coit Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253270415,
-    "wof:lastmodified":1449063349,
+    "wof:lastmodified":1467084964,
     "wof:name":"Joe Buck's",
     "wof:parent_id":85880229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "video"
     ]
 },
-  "bbox": [-96.769129,32.949718,-96.769129,32.949718],
-  "geometry": {"coordinates":[-96.769129,32.949718],"type":"Point"}
+  "bbox": [
+    -96.769129,
+    32.949718,
+    -96.769129,
+    32.949718
+],
+  "geometry": {"coordinates":[-96.76912900000001,32.949718],"type":"Point"}
 }

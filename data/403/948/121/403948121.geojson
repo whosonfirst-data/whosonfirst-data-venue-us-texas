@@ -2,13 +2,14 @@
   "id": 403948121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.740355,32.936073,-96.740355,32.936073",
     "geom:latitude":32.936073,
     "geom:longitude":-96.740355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Buckingham Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403948121,
-    "wof:lastmodified":1449055685,
+    "wof:lastmodified":1467084774,
     "wof:name":"Realty One",
     "wof:parent_id":85880181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.740355,32.936073,-96.740355,32.936073],
-  "geometry": {"coordinates":[-96.740355,32.936073],"type":"Point"}
+  "bbox": [
+    -96.740355,
+    32.936073,
+    -96.740355,
+    32.936073
+],
+  "geometry": {"coordinates":[-96.74035499999999,32.936073],"type":"Point"}
 }

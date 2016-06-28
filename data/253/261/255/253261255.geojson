@@ -2,13 +2,14 @@
   "id": 253261255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747358,32.881763,-96.747358,32.881763",
     "geom:latitude":32.881763,
     "geom:longitude":-96.747358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7803 Fair Oaks Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253261255,
-    "wof:lastmodified":1449062868,
+    "wof:lastmodified":1467084947,
     "wof:name":"Dallas Fair Oaks Svc Ctr",
     "wof:parent_id":85897343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.747358,32.881763,-96.747358,32.881763],
-  "geometry": {"coordinates":[-96.747358,32.881763],"type":"Point"}
+  "bbox": [
+    -96.747358,
+    32.881763,
+    -96.747358,
+    32.881763
+],
+  "geometry": {"coordinates":[-96.74735800000001,32.881763],"type":"Point"}
 }

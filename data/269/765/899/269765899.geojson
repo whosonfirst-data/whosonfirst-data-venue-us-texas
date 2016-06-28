@@ -2,13 +2,14 @@
   "id": 269765899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.95565,31.747547,-99.95565,31.747547",
     "geom:latitude":31.747547,
     "geom:longitude":-99.95565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Sharp Ave",
     "sg:city":"Ballinger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269765899,
-    "wof:lastmodified":1449037534,
+    "wof:lastmodified":1467084610,
     "wof:name":"Little Thoughts Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-99.95565,31.747547,-99.95565,31.747547],
-  "geometry": {"coordinates":[-99.95565,31.747547],"type":"Point"}
+  "bbox": [
+    -99.95565,
+    31.747547,
+    -99.95565,
+    31.747547
+],
+  "geometry": {"coordinates":[-99.95565000000001,31.747547],"type":"Point"}
 }

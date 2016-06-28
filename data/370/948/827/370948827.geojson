@@ -2,13 +2,14 @@
   "id": 370948827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.626044,29.86983,-95.626044,29.86983",
     "geom:latitude":29.86983,
     "geom:longitude":-95.626044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14614 Hamstead Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370948827,
-    "wof:lastmodified":1449031781,
+    "wof:lastmodified":1467084537,
     "wof:name":"Houstronics",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.626044,29.86983,-95.626044,29.86983],
-  "geometry": {"coordinates":[-95.626044,29.86983],"type":"Point"}
+  "bbox": [
+    -95.626044,
+    29.86983,
+    -95.626044,
+    29.86983
+],
+  "geometry": {"coordinates":[-95.62604399999999,29.86983],"type":"Point"}
 }

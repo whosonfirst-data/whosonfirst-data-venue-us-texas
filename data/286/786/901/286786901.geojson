@@ -2,13 +2,14 @@
   "id": 286786901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.210023,29.661081,-95.210023,29.661081",
     "geom:latitude":29.661081,
     "geom:longitude":-95.210023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Shaver St",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":286786901,
-    "wof:lastmodified":1449015555,
+    "wof:lastmodified":1467084247,
     "wof:name":"Martinez Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.210023,29.661081,-95.210023,29.661081],
-  "geometry": {"coordinates":[-95.210023,29.661081],"type":"Point"}
+  "bbox": [
+    -95.210023,
+    29.661081,
+    -95.210023,
+    29.661081
+],
+  "geometry": {"coordinates":[-95.21002300000001,29.661081],"type":"Point"}
 }

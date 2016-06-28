@@ -2,13 +2,14 @@
   "id": 286347101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.208801,29.5884,-95.208801,29.5884",
     "geom:latitude":29.5884,
     "geom:longitude":-95.208801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11120 Scarsdale Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286347101,
-    "wof:lastmodified":1449016616,
+    "wof:lastmodified":1467084276,
     "wof:name":"Deschamps Lenette DVM",
     "wof:parent_id":85869665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.208801,29.5884,-95.208801,29.5884],
-  "geometry": {"coordinates":[-95.208801,29.5884],"type":"Point"}
+  "bbox": [
+    -95.208801,
+    29.5884,
+    -95.208801,
+    29.5884
+],
+  "geometry": {"coordinates":[-95.20880099999999,29.5884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236485277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.773154,30.563241,-97.773154,30.563241",
     "geom:latitude":30.563241,
     "geom:longitude":-97.773154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Co Rd 175",
     "sg:city":"Leander",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236485277,
-    "wof:lastmodified":1449003701,
+    "wof:lastmodified":1467083966,
     "wof:name":"Williamson County Tennis Ctr",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-97.773154,30.563241,-97.773154,30.563241],
-  "geometry": {"coordinates":[-97.773154,30.563241],"type":"Point"}
+  "bbox": [
+    -97.773154,
+    30.563241,
+    -97.773154,
+    30.563241
+],
+  "geometry": {"coordinates":[-97.77315400000001,30.563241],"type":"Point"}
 }

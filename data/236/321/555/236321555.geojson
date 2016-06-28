@@ -2,13 +2,14 @@
   "id": 236321555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760353,30.352302,-97.760353,30.352302",
     "geom:latitude":30.352302,
     "geom:longitude":-97.760353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6810 Thorncliffe Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236321555,
-    "wof:lastmodified":1449001738,
+    "wof:lastmodified":1467083858,
     "wof:name":"Capaware",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "improvement"
     ]
 },
-  "bbox": [-97.760353,30.352302,-97.760353,30.352302],
-  "geometry": {"coordinates":[-97.760353,30.352302],"type":"Point"}
+  "bbox": [
+    -97.760353,
+    30.352302,
+    -97.760353,
+    30.352302
+],
+  "geometry": {"coordinates":[-97.76035299999999,30.352302],"type":"Point"}
 }

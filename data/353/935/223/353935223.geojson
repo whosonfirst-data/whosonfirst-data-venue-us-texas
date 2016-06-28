@@ -2,13 +2,14 @@
   "id": 353935223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.299339,31.687356,-106.299339,31.687356",
     "geom:latitude":31.687356,
     "geom:longitude":-106.299339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9580 N Loop Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353935223,
-    "wof:lastmodified":1449020371,
+    "wof:lastmodified":1467084367,
     "wof:name":"Fred's Auto Ctr",
     "wof:parent_id":85859443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.299339,31.687356,-106.299339,31.687356],
+  "bbox": [
+    -106.299339,
+    31.687356,
+    -106.299339,
+    31.687356
+],
   "geometry": {"coordinates":[-106.299339,31.687356],"type":"Point"}
 }

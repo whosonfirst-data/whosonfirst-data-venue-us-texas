@@ -2,13 +2,14 @@
   "id": 387380525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.817587,32.930544,-96.817587,32.930544",
     "geom:latitude":32.930544,
     "geom:longitude":-96.817587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5580 Peterson Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387380525,
-    "wof:lastmodified":1449057866,
+    "wof:lastmodified":1467084829,
     "wof:name":"Murphymorris",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-96.817587,32.930544,-96.817587,32.930544],
+  "bbox": [
+    -96.817587,
+    32.930544,
+    -96.817587,
+    32.930544
+],
   "geometry": {"coordinates":[-96.817587,32.930544],"type":"Point"}
 }

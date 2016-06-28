@@ -2,13 +2,14 @@
   "id": 404080571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.860616,33.47986,-101.860616,33.47986",
     "geom:latitude":33.47986,
     "geom:longitude":-101.860616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 126th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404080571,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1467084660,
     "wof:name":"Knox Farms",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-101.860616,33.47986,-101.860616,33.47986],
-  "geometry": {"coordinates":[-101.860616,33.47986],"type":"Point"}
+  "bbox": [
+    -101.860616,
+    33.47986,
+    -101.860616,
+    33.47986
+],
+  "geometry": {"coordinates":[-101.86061599999999,33.47986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236030183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.654554,33.129785,-96.654554,33.129785",
     "geom:latitude":33.129785,
     "geom:longitude":-96.654554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 E Stacy Rd",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":236030183,
-    "wof:lastmodified":1449002741,
+    "wof:lastmodified":1467083921,
     "wof:name":"PetSmart",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "store"
     ]
 },
-  "bbox": [-96.654554,33.129785,-96.654554,33.129785],
+  "bbox": [
+    -96.654554,
+    33.129785,
+    -96.654554,
+    33.129785
+],
   "geometry": {"coordinates":[-96.654554,33.129785],"type":"Point"}
 }

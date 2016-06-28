@@ -2,13 +2,14 @@
   "id": 219230047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.615277,29.954576,-95.615277,29.954576",
     "geom:latitude":29.954576,
     "geom:longitude":-95.615277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12615 Manorwood Ln",
     "sg:city":"Cypress",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219230047,
-    "wof:lastmodified":1449073020,
+    "wof:lastmodified":1467085155,
     "wof:name":"Texas Mat Assist",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.615277,29.954576,-95.615277,29.954576],
-  "geometry": {"coordinates":[-95.615277,29.954576],"type":"Point"}
+  "bbox": [
+    -95.615277,
+    29.954576,
+    -95.615277,
+    29.954576
+],
+  "geometry": {"coordinates":[-95.61527700000001,29.954576],"type":"Point"}
 }

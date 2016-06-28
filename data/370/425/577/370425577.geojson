@@ -2,13 +2,14 @@
   "id": 370425577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.486567,29.687004,-95.486567,29.687004",
     "geom:latitude":29.687004,
     "geom:longitude":-95.486567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5502 Darnell St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370425577,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1467084499,
     "wof:name":"Ball Electric Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.486567,29.687004,-95.486567,29.687004],
-  "geometry": {"coordinates":[-95.486567,29.687004],"type":"Point"}
+  "bbox": [
+    -95.486567,
+    29.687004,
+    -95.486567,
+    29.687004
+],
+  "geometry": {"coordinates":[-95.48656699999999,29.687004],"type":"Point"}
 }

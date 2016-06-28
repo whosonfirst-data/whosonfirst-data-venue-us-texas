@@ -2,13 +2,14 @@
   "id": 287265173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509811,25.939331,-97.509811,25.939331",
     "geom:latitude":25.939331,
     "geom:longitude":-97.509811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2494 Central Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":287265173,
-    "wof:lastmodified":1449000961,
+    "wof:lastmodified":1467083828,
     "wof:name":"Printa Image",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.509811,25.939331,-97.509811,25.939331],
+  "bbox": [
+    -97.509811,
+    25.939331,
+    -97.509811,
+    25.939331
+],
   "geometry": {"coordinates":[-97.509811,25.939331],"type":"Point"}
 }

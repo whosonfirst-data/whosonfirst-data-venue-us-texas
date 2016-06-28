@@ -2,13 +2,14 @@
   "id": 219485321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.812964,33.05549,-96.812964,33.05549",
     "geom:latitude":33.05549,
     "geom:longitude":-96.812964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Saint Peter Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219485321,
-    "wof:lastmodified":1449072543,
+    "wof:lastmodified":1467085145,
     "wof:name":"Dyer Mortgage",
     "wof:parent_id":85879907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.812964,33.05549,-96.812964,33.05549],
-  "geometry": {"coordinates":[-96.812964,33.05549],"type":"Point"}
+  "bbox": [
+    -96.812964,
+    33.05549,
+    -96.812964,
+    33.05549
+],
+  "geometry": {"coordinates":[-96.81296399999999,33.05549],"type":"Point"}
 }

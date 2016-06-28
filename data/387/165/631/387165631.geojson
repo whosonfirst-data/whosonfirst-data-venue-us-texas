@@ -2,13 +2,14 @@
   "id": 387165631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.025781,29.646262,-95.025781,29.646262",
     "geom:latitude":29.646262,
     "geom:longitude":-95.025781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Poplar Cove St",
     "sg:city":"La Porte",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":387165631,
-    "wof:lastmodified":1449059925,
+    "wof:lastmodified":1467084883,
     "wof:name":"Baypoint Townhome Association",
     "wof:parent_id":85804809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.025781,29.646262,-95.025781,29.646262],
-  "geometry": {"coordinates":[-95.025781,29.646262],"type":"Point"}
+  "bbox": [
+    -95.025781,
+    29.646262,
+    -95.025781,
+    29.646262
+],
+  "geometry": {"coordinates":[-95.02578099999999,29.646262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303593171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.824666,30.19299,-97.824666,30.19299",
     "geom:latitude":30.19299,
     "geom:longitude":-97.824666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8412 Dixon Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303593171,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1467083773,
     "wof:name":"AAA Express Notary",
     "wof:parent_id":85893505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-97.824666,30.19299,-97.824666,30.19299],
-  "geometry": {"coordinates":[-97.824666,30.19299],"type":"Point"}
+  "bbox": [
+    -97.824666,
+    30.19299,
+    -97.824666,
+    30.19299
+],
+  "geometry": {"coordinates":[-97.82466599999999,30.19299],"type":"Point"}
 }

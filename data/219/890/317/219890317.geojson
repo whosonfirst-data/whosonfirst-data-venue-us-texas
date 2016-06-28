@@ -2,13 +2,14 @@
   "id": 219890317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.47562,29.786349,-95.47562,29.786349",
     "geom:latitude":29.786349,
     "geom:longitude":-95.47562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7227 Shavelson St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219890317,
-    "wof:lastmodified":1449071169,
+    "wof:lastmodified":1467085116,
     "wof:name":"Meridian Financial Inc",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-95.47562,29.786349,-95.47562,29.786349],
-  "geometry": {"coordinates":[-95.47562,29.786349],"type":"Point"}
+  "bbox": [
+    -95.47562,
+    29.786349,
+    -95.47562,
+    29.786349
+],
+  "geometry": {"coordinates":[-95.47562000000001,29.786349],"type":"Point"}
 }

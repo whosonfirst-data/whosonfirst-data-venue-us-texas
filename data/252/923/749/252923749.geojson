@@ -2,13 +2,14 @@
   "id": 252923749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682567,32.82179,-96.682567,32.82179",
     "geom:latitude":32.82179,
     "geom:longitude":-96.682567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Oates Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252923749,
-    "wof:lastmodified":1449006464,
+    "wof:lastmodified":1467084105,
     "wof:name":"Summit Animal Hospital",
     "wof:parent_id":85844255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-96.682567,32.82179,-96.682567,32.82179],
-  "geometry": {"coordinates":[-96.682567,32.82179],"type":"Point"}
+  "bbox": [
+    -96.682567,
+    32.82179,
+    -96.682567,
+    32.82179
+],
+  "geometry": {"coordinates":[-96.68256700000001,32.82179],"type":"Point"}
 }

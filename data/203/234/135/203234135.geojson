@@ -2,13 +2,14 @@
   "id": 203234135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.523938,29.489685,-98.523938,29.489685",
     "geom:latitude":29.489685,
     "geom:longitude":-98.523938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Harwood Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203234135,
-    "wof:lastmodified":1449026766,
+    "wof:lastmodified":1467084419,
     "wof:name":"Express Moving Svc",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organ"
     ]
 },
-  "bbox": [-98.523938,29.489685,-98.523938,29.489685],
+  "bbox": [
+    -98.523938,
+    29.489685,
+    -98.523938,
+    29.489685
+],
   "geometry": {"coordinates":[-98.523938,29.489685],"type":"Point"}
 }

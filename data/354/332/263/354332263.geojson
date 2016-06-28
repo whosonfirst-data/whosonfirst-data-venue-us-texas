@@ -2,13 +2,14 @@
   "id": 354332263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651575,32.949787,-96.651575,32.949787",
     "geom:latitude":32.949787,
     "geom:longitude":-96.651575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3260 N Garland Ave",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354332263,
-    "wof:lastmodified":1449066899,
+    "wof:lastmodified":1467085075,
     "wof:name":"Mayberry Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-96.651575,32.949787,-96.651575,32.949787],
-  "geometry": {"coordinates":[-96.651575,32.949787],"type":"Point"}
+  "bbox": [
+    -96.651575,
+    32.949787,
+    -96.651575,
+    32.949787
+],
+  "geometry": {"coordinates":[-96.65157499999999,32.949787],"type":"Point"}
 }

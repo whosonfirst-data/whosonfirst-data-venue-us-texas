@@ -2,13 +2,14 @@
   "id": 287131065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.485352,27.506599,-99.485352,27.506599",
     "geom:latitude":27.506599,
     "geom:longitude":-99.485352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Guadalupe St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287131065,
-    "wof:lastmodified":1449000916,
+    "wof:lastmodified":1467083827,
     "wof:name":"Recio Auto Sales",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-99.485352,27.506599,-99.485352,27.506599],
-  "geometry": {"coordinates":[-99.485352,27.506599],"type":"Point"}
+  "bbox": [
+    -99.485352,
+    27.506599,
+    -99.485352,
+    27.506599
+],
+  "geometry": {"coordinates":[-99.48535200000001,27.506599],"type":"Point"}
 }

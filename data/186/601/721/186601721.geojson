@@ -2,13 +2,14 @@
   "id": 186601721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.86817,33.515645,-101.86817,33.515645",
     "geom:latitude":33.515645,
     "geom:longitude":-101.86817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 87th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186601721,
-    "wof:lastmodified":1449051578,
+    "wof:lastmodified":1467084717,
     "wof:name":"Shelby & Friends",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-101.86817,33.515645,-101.86817,33.515645],
-  "geometry": {"coordinates":[-101.86817,33.515645],"type":"Point"}
+  "bbox": [
+    -101.86817,
+    33.515645,
+    -101.86817,
+    33.515645
+],
+  "geometry": {"coordinates":[-101.86817000000001,33.515645],"type":"Point"}
 }

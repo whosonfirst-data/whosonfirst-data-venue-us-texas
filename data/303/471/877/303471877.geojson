@@ -2,13 +2,14 @@
   "id": 303471877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749779,30.30871,-97.749779,30.30871",
     "geom:latitude":30.30871,
     "geom:longitude":-97.749779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W 38th St Ste 444",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303471877,
-    "wof:lastmodified":1448999101,
+    "wof:lastmodified":1467083740,
     "wof:name":"Austin Smiles",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-97.749779,30.30871,-97.749779,30.30871],
+  "bbox": [
+    -97.749779,
+    30.30871,
+    -97.749779,
+    30.30871
+],
   "geometry": {"coordinates":[-97.749779,30.30871],"type":"Point"}
 }

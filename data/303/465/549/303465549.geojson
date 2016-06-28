@@ -2,13 +2,14 @@
   "id": 303465549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771982,30.348226,-97.771982,30.348226",
     "geom:latitude":30.348226,
     "geom:longitude":-97.771982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6110 Mesa Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303465549,
-    "wof:lastmodified":1448999761,
+    "wof:lastmodified":1467083774,
     "wof:name":"Landscape And Garden Inc",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-97.771982,30.348226,-97.771982,30.348226],
-  "geometry": {"coordinates":[-97.771982,30.348226],"type":"Point"}
+  "bbox": [
+    -97.771982,
+    30.348226,
+    -97.771982,
+    30.348226
+],
+  "geometry": {"coordinates":[-97.77198199999999,30.348226],"type":"Point"}
 }

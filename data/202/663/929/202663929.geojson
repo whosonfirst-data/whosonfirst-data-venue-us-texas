@@ -2,13 +2,14 @@
   "id": 202663929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.366726,29.724381,-95.366726,29.724381",
     "geom:latitude":29.724381,
     "geom:longitude":-95.366726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Wheeler St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202663929,
-    "wof:lastmodified":1449061965,
+    "wof:lastmodified":1467084927,
     "wof:name":"Joe Moving Services",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "moving"
     ]
 },
-  "bbox": [-95.366726,29.724381,-95.366726,29.724381],
+  "bbox": [
+    -95.366726,
+    29.724381,
+    -95.366726,
+    29.724381
+],
   "geometry": {"coordinates":[-95.366726,29.724381],"type":"Point"}
 }

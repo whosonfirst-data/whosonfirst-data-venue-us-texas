@@ -2,13 +2,14 @@
   "id": 186557579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355548,29.812683,-95.355548,29.812683",
     "geom:latitude":29.812683,
     "geom:longitude":-95.355548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5812 Gano St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186557579,
-    "wof:lastmodified":1449052274,
+    "wof:lastmodified":1467084731,
     "wof:name":"Atlas PC Support",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.355548,29.812683,-95.355548,29.812683],
+  "bbox": [
+    -95.355548,
+    29.812683,
+    -95.355548,
+    29.812683
+],
   "geometry": {"coordinates":[-95.355548,29.812683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253165225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714672,32.912399,-96.714672,32.912399",
     "geom:latitude":32.912399,
     "geom:longitude":-96.714672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Woodlake Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253165225,
-    "wof:lastmodified":1449065812,
+    "wof:lastmodified":1467085047,
     "wof:name":"Precision Integration",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "system"
     ]
 },
-  "bbox": [-96.714672,32.912399,-96.714672,32.912399],
-  "geometry": {"coordinates":[-96.714672,32.912399],"type":"Point"}
+  "bbox": [
+    -96.714672,
+    32.912399,
+    -96.714672,
+    32.912399
+],
+  "geometry": {"coordinates":[-96.71467199999999,32.912399],"type":"Point"}
 }

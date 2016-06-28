@@ -2,13 +2,14 @@
   "id": 303214805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744374,30.268359,-97.744374,30.268359",
     "geom:latitude":30.268359,
     "geom:longitude":-97.744374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303214805,
-    "wof:lastmodified":1449000488,
+    "wof:lastmodified":1467083809,
     "wof:name":"Benjet Bryce",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744374,30.268359,-97.744374,30.268359],
-  "geometry": {"coordinates":[-97.744374,30.268359],"type":"Point"}
+  "bbox": [
+    -97.744374,
+    30.268359,
+    -97.744374,
+    30.268359
+],
+  "geometry": {"coordinates":[-97.74437399999999,30.268359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269987503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.21756,29.767142,-95.21756,29.767142",
     "geom:latitude":29.767142,
     "geom:longitude":-95.21756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12435 Market Street Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":269987503,
-    "wof:lastmodified":1449037474,
+    "wof:lastmodified":1467084609,
     "wof:name":"Public Storage - Houston",
     "wof:parent_id":85893771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "boat"
     ]
 },
-  "bbox": [-95.21756,29.767142,-95.21756,29.767142],
-  "geometry": {"coordinates":[-95.21756,29.767142],"type":"Point"}
+  "bbox": [
+    -95.21756,
+    29.767142,
+    -95.21756,
+    29.767142
+],
+  "geometry": {"coordinates":[-95.21756000000001,29.767142],"type":"Point"}
 }

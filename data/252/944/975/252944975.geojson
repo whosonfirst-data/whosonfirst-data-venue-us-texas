@@ -2,13 +2,14 @@
   "id": 252944975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892665,32.885081,-96.892665,32.885081",
     "geom:latitude":32.885081,
     "geom:longitude":-96.892665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11155 Morrison Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":252944975,
-    "wof:lastmodified":1449005962,
+    "wof:lastmodified":1467084078,
     "wof:name":"Big D Cycle",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction"
     ]
 },
-  "bbox": [-96.892665,32.885081,-96.892665,32.885081],
-  "geometry": {"coordinates":[-96.892665,32.885081],"type":"Point"}
+  "bbox": [
+    -96.892665,
+    32.885081,
+    -96.892665,
+    32.885081
+],
+  "geometry": {"coordinates":[-96.89266499999999,32.885081],"type":"Point"}
 }

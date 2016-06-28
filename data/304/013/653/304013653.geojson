@@ -2,13 +2,14 @@
   "id": 304013653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.96398,33.517368,-101.96398,33.517368",
     "geom:latitude":33.517368,
     "geom:longitude":-101.96398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6806 84th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304013653,
-    "wof:lastmodified":1449044000,
+    "wof:lastmodified":1467084667,
     "wof:name":"P.P.K.M Designs",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-101.96398,33.517368,-101.96398,33.517368],
-  "geometry": {"coordinates":[-101.96398,33.517368],"type":"Point"}
+  "bbox": [
+    -101.96398,
+    33.517368,
+    -101.96398,
+    33.517368
+],
+  "geometry": {"coordinates":[-101.96398000000001,33.517368],"type":"Point"}
 }

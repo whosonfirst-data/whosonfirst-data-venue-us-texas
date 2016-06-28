@@ -2,13 +2,14 @@
   "id": 286722275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.565075,29.637805,-95.565075,29.637805",
     "geom:latitude":29.637805,
     "geom:longitude":-95.565075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12725 Murphy Rd",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286722275,
-    "wof:lastmodified":1449016212,
+    "wof:lastmodified":1467084265,
     "wof:name":"Real Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-95.565075,29.637805,-95.565075,29.637805],
-  "geometry": {"coordinates":[-95.565075,29.637805],"type":"Point"}
+  "bbox": [
+    -95.565075,
+    29.637805,
+    -95.565075,
+    29.637805
+],
+  "geometry": {"coordinates":[-95.56507499999999,29.637805],"type":"Point"}
 }

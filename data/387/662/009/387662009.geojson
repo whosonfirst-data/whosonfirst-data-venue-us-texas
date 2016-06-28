@@ -2,13 +2,14 @@
   "id": 387662009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.596046,29.952524,-95.596046,29.952524",
     "geom:latitude":29.952524,
     "geom:longitude":-95.596046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11702 Cypress North Houston Rd",
     "sg:city":"Cypress",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387662009,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1467084850,
     "wof:name":"Cypress Food Store",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.596046,29.952524,-95.596046,29.952524],
+  "bbox": [
+    -95.596046,
+    29.952524,
+    -95.596046,
+    29.952524
+],
   "geometry": {"coordinates":[-95.596046,29.952524],"type":"Point"}
 }

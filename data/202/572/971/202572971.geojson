@@ -2,13 +2,14 @@
   "id": 202572971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483458,25.910764,-97.483458,25.910764",
     "geom:latitude":25.910764,
     "geom:longitude":-97.483458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Arthur St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202572971,
-    "wof:lastmodified":1449061675,
+    "wof:lastmodified":1467084921,
     "wof:name":"Morning Star Welding Svc",
     "wof:parent_id":85876601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.483458,25.910764,-97.483458,25.910764],
+  "bbox": [
+    -97.483458,
+    25.910764,
+    -97.483458,
+    25.910764
+],
   "geometry": {"coordinates":[-97.483458,25.910764],"type":"Point"}
 }

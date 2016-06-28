@@ -2,13 +2,14 @@
   "id": 202916975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.488108,31.777499,-106.488108,31.777499",
     "geom:latitude":31.777499,
     "geom:longitude":-106.488108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 E Schuster Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202916975,
-    "wof:lastmodified":1449061503,
+    "wof:lastmodified":1467084917,
     "wof:name":"Perinatal Healthcare Center",
     "wof:parent_id":85893665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.488108,31.777499,-106.488108,31.777499],
+  "bbox": [
+    -106.488108,
+    31.777499,
+    -106.488108,
+    31.777499
+],
   "geometry": {"coordinates":[-106.488108,31.777499],"type":"Point"}
 }

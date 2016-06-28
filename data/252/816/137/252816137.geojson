@@ -2,13 +2,14 @@
   "id": 252816137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813035,32.804895,-96.813035,32.804895",
     "geom:latitude":32.804895,
     "geom:longitude":-96.813035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Oak Lawn Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252816137,
-    "wof:lastmodified":1449006055,
+    "wof:lastmodified":1467084083,
     "wof:name":"Medical Park Pharmacy",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-96.813035,32.804895,-96.813035,32.804895],
+  "bbox": [
+    -96.813035,
+    32.804895,
+    -96.813035,
+    32.804895
+],
   "geometry": {"coordinates":[-96.813035,32.804895],"type":"Point"}
 }

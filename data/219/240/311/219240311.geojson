@@ -2,13 +2,14 @@
   "id": 219240311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.510913,29.882556,-95.510913,29.882556",
     "geom:latitude":29.882556,
     "geom:longitude":-95.510913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7923 Battleoak Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219240311,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1467085107,
     "wof:name":"Alpha Wrecker Svc",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.510913,29.882556,-95.510913,29.882556],
+  "bbox": [
+    -95.510913,
+    29.882556,
+    -95.510913,
+    29.882556
+],
   "geometry": {"coordinates":[-95.510913,29.882556],"type":"Point"}
 }

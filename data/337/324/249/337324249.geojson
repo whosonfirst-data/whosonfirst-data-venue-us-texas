@@ -2,13 +2,14 @@
   "id": 337324249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.329002,26.216463,-98.329002,26.216463",
     "geom:latitude":26.216463,
     "geom:longitude":-98.329002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Tom Landry St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337324249,
-    "wof:lastmodified":1449027421,
+    "wof:lastmodified":1467084444,
     "wof:name":"West Side Liquor Store",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-98.329002,26.216463,-98.329002,26.216463],
+  "bbox": [
+    -98.329002,
+    26.216463,
+    -98.329002,
+    26.216463
+],
   "geometry": {"coordinates":[-98.329002,26.216463],"type":"Point"}
 }

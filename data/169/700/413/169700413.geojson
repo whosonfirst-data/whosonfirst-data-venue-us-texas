@@ -2,13 +2,14 @@
   "id": 169700413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.356785,29.777782,-95.356785,29.777782",
     "geom:latitude":29.777782,
     "geom:longitude":-95.356785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Hogan St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169700413,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1467084568,
     "wof:name":"Multi Service Express",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.356785,29.777782,-95.356785,29.777782],
+  "bbox": [
+    -95.356785,
+    29.777782,
+    -95.356785,
+    29.777782
+],
   "geometry": {"coordinates":[-95.356785,29.777782],"type":"Point"}
 }

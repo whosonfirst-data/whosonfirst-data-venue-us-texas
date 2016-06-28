@@ -2,13 +2,14 @@
   "id": 219617781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.135242,34.187167,-102.135242,34.187167",
     "geom:latitude":34.187167,
     "geom:longitude":-102.135242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Main Ave",
     "sg:city":"Olton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219617781,
-    "wof:lastmodified":1449070489,
+    "wof:lastmodified":1467085102,
     "wof:name":"Great Plains Ag Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-102.135242,34.187167,-102.135242,34.187167],
-  "geometry": {"coordinates":[-102.135242,34.187167],"type":"Point"}
+  "bbox": [
+    -102.135242,
+    34.187167,
+    -102.135242,
+    34.187167
+],
+  "geometry": {"coordinates":[-102.13524200000001,34.187167],"type":"Point"}
 }

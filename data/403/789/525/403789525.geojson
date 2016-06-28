@@ -2,13 +2,14 @@
   "id": 403789525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.570169,29.850679,-95.570169,29.850679",
     "geom:latitude":29.850679,
     "geom:longitude":-95.570169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 Brittmoore Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403789525,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1467084764,
     "wof:name":"Joy Burger",
     "wof:parent_id":85869785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.570169,29.850679,-95.570169,29.850679],
-  "geometry": {"coordinates":[-95.570169,29.850679],"type":"Point"}
+  "bbox": [
+    -95.570169,
+    29.850679,
+    -95.570169,
+    29.850679
+],
+  "geometry": {"coordinates":[-95.57016900000001,29.850679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303657275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.844536,30.204484,-97.844536,30.204484",
     "geom:latitude":30.204484,
     "geom:longitude":-97.844536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8101 Treehouse Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303657275,
-    "wof:lastmodified":1448998393,
+    "wof:lastmodified":1467083705,
     "wof:name":"American Services",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "services-labor"
     ]
 },
-  "bbox": [-97.844536,30.204484,-97.844536,30.204484],
-  "geometry": {"coordinates":[-97.844536,30.204484],"type":"Point"}
+  "bbox": [
+    -97.844536,
+    30.204484,
+    -97.844536,
+    30.204484
+],
+  "geometry": {"coordinates":[-97.84453600000001,30.204484],"type":"Point"}
 }

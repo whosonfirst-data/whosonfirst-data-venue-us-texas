@@ -2,13 +2,14 @@
   "id": 303802811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719035,30.399109,-97.719035,30.399109",
     "geom:latitude":30.399109,
     "geom:longitude":-97.719035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Domain 11400-A Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303802811,
-    "wof:lastmodified":1449000109,
+    "wof:lastmodified":1467083790,
     "wof:name":"Juicy Couture",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.719035,30.399109,-97.719035,30.399109],
-  "geometry": {"coordinates":[-97.719035,30.399109],"type":"Point"}
+  "bbox": [
+    -97.719035,
+    30.399109,
+    -97.719035,
+    30.399109
+],
+  "geometry": {"coordinates":[-97.71903500000001,30.399109],"type":"Point"}
 }

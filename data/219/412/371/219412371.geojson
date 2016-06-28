@@ -2,13 +2,14 @@
   "id": 219412371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.883483,32.918703,-96.883483,32.918703",
     "geom:latitude":32.918703,
     "geom:longitude":-96.883483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 Maydelle Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219412371,
-    "wof:lastmodified":1449071116,
+    "wof:lastmodified":1467085115,
     "wof:name":"Coppertree Development",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-96.883483,32.918703,-96.883483,32.918703],
+  "bbox": [
+    -96.883483,
+    32.918703,
+    -96.883483,
+    32.918703
+],
   "geometry": {"coordinates":[-96.883483,32.918703],"type":"Point"}
 }

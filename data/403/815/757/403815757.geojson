@@ -2,13 +2,14 @@
   "id": 403815757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.577178,32.891939,-96.577178,32.891939",
     "geom:latitude":32.891939,
     "geom:longitude":-96.577178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Vanderbilt Ct",
     "sg:city":"Rowlett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403815757,
-    "wof:lastmodified":1449055277,
+    "wof:lastmodified":1467084765,
     "wof:name":"CPC of Dallas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.577178,32.891939,-96.577178,32.891939],
+  "bbox": [
+    -96.577178,
+    32.891939,
+    -96.577178,
+    32.891939
+],
   "geometry": {"coordinates":[-96.577178,32.891939],"type":"Point"}
 }

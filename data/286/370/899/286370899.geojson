@@ -2,13 +2,14 @@
   "id": 286370899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.479447,29.822133,-95.479447,29.822133",
     "geom:latitude":29.822133,
     "geom:longitude":-95.479447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6102 Milwee St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":286370899,
-    "wof:lastmodified":1449016786,
+    "wof:lastmodified":1467084280,
     "wof:name":"Specified Components",
     "wof:parent_id":85869401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.479447,29.822133,-95.479447,29.822133],
-  "geometry": {"coordinates":[-95.479447,29.822133],"type":"Point"}
+  "bbox": [
+    -95.479447,
+    29.822133,
+    -95.479447,
+    29.822133
+],
+  "geometry": {"coordinates":[-95.47944699999999,29.822133],"type":"Point"}
 }

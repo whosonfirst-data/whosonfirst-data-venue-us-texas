@@ -2,13 +2,14 @@
   "id": 303639805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.791008,30.171052,-97.791008,30.171052",
     "geom:latitude":30.171052,
     "geom:longitude":-97.791008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8816 Cullen Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303639805,
-    "wof:lastmodified":1449000555,
+    "wof:lastmodified":1467083812,
     "wof:name":"Wazoo's Austin",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.791008,30.171052,-97.791008,30.171052],
-  "geometry": {"coordinates":[-97.791008,30.171052],"type":"Point"}
+  "bbox": [
+    -97.791008,
+    30.171052,
+    -97.791008,
+    30.171052
+],
+  "geometry": {"coordinates":[-97.79100800000001,30.171052],"type":"Point"}
 }

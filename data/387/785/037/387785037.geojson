@@ -2,13 +2,14 @@
   "id": 387785037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.548403,29.614634,-95.548403,29.614634",
     "geom:latitude":29.614634,
     "geom:longitude":-95.548403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 S Main St",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387785037,
-    "wof:lastmodified":1449059272,
+    "wof:lastmodified":1467084866,
     "wof:name":"Tomium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-95.548403,29.614634,-95.548403,29.614634],
-  "geometry": {"coordinates":[-95.548403,29.614634],"type":"Point"}
+  "bbox": [
+    -95.548403,
+    29.614634,
+    -95.548403,
+    29.614634
+],
+  "geometry": {"coordinates":[-95.54840299999999,29.614634],"type":"Point"}
 }

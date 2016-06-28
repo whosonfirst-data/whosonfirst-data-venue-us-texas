@@ -2,13 +2,14 @@
   "id": 185814689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.805734,30.209101,-97.805734,30.209101",
     "geom:latitude":30.209101,
     "geom:longitude":-97.805734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Berkeley Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185814689,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1467084117,
     "wof:name":"Hunter's Glen Apartments",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.805734,30.209101,-97.805734,30.209101],
+  "bbox": [
+    -97.805734,
+    30.209101,
+    -97.805734,
+    30.209101
+],
   "geometry": {"coordinates":[-97.805734,30.209101],"type":"Point"}
 }

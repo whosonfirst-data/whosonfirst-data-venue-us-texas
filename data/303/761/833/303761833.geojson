@@ -2,13 +2,14 @@
   "id": 303761833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744049,30.325154,-97.744049,30.325154",
     "geom:latitude":30.325154,
     "geom:longitude":-97.744049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 W North Loop Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303761833,
-    "wof:lastmodified":1448999982,
+    "wof:lastmodified":1467083784,
     "wof:name":"Time Warner",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cable"
     ]
 },
-  "bbox": [-97.744049,30.325154,-97.744049,30.325154],
+  "bbox": [
+    -97.744049,
+    30.325154,
+    -97.744049,
+    30.325154
+],
   "geometry": {"coordinates":[-97.744049,30.325154],"type":"Point"}
 }

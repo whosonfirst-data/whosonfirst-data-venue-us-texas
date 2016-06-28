@@ -2,13 +2,14 @@
   "id": 387066755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.541423,29.569827,-98.541423,29.569827",
     "geom:latitude":29.569827,
     "geom:longitude":-98.541423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13854 NW Military Hwy",
     "sg:city":"Shavano Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387066755,
-    "wof:lastmodified":1449057206,
+    "wof:lastmodified":1467084812,
     "wof:name":"Rose Cleaners & Laundry",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-98.541423,29.569827,-98.541423,29.569827],
-  "geometry": {"coordinates":[-98.541423,29.569827],"type":"Point"}
+  "bbox": [
+    -98.541423,
+    29.569827,
+    -98.541423,
+    29.569827
+],
+  "geometry": {"coordinates":[-98.54142299999999,29.569827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186412085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.102335,31.670227,-97.102335,31.670227",
     "geom:latitude":31.670227,
     "geom:longitude":-97.102335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 W Elm Mott Dr",
     "sg:city":"Elm Mott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186412085,
-    "wof:lastmodified":1449050953,
+    "wof:lastmodified":1467084703,
     "wof:name":"Elm Mott Fire Dept",
     "wof:parent_id":85881739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.102335,31.670227,-97.102335,31.670227],
+  "bbox": [
+    -97.102335,
+    31.670227,
+    -97.102335,
+    31.670227
+],
   "geometry": {"coordinates":[-97.102335,31.670227],"type":"Point"}
 }

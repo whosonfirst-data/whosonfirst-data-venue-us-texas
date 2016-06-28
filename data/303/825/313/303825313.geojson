@@ -2,13 +2,14 @@
   "id": 303825313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767611,30.430833,-97.767611,30.430833",
     "geom:latitude":30.430833,
     "geom:longitude":-97.767611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11909 Charing Cross",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303825313,
-    "wof:lastmodified":1448998210,
+    "wof:lastmodified":1467083696,
     "wof:name":"Austin Job Hunter",
     "wof:parent_id":85893495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.767611,30.430833,-97.767611,30.430833],
+  "bbox": [
+    -97.767611,
+    30.430833,
+    -97.767611,
+    30.430833
+],
   "geometry": {"coordinates":[-97.767611,30.430833],"type":"Point"}
 }

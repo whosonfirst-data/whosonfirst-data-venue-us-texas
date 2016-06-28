@@ -2,13 +2,14 @@
   "id": 203309185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.109284,33.115576,-96.109284,33.115576",
     "geom:latitude":33.115576,
     "geom:longitude":-96.109284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 Wesley St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203309185,
-    "wof:lastmodified":1449025340,
+    "wof:lastmodified":1467084392,
     "wof:name":"Phone Booth",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.109284,33.115576,-96.109284,33.115576],
+  "bbox": [
+    -96.109284,
+    33.115576,
+    -96.109284,
+    33.115576
+],
   "geometry": {"coordinates":[-96.109284,33.115576],"type":"Point"}
 }

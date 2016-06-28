@@ -2,13 +2,14 @@
   "id": 337513831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.535587,29.737094,-95.535587,29.737094",
     "geom:latitude":29.737094,
     "geom:longitude":-95.535587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9603 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337513831,
-    "wof:lastmodified":1449027492,
+    "wof:lastmodified":1467084447,
     "wof:name":"Jeff Bolts Kung Fu & Taiji",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.535587,29.737094,-95.535587,29.737094],
-  "geometry": {"coordinates":[-95.535587,29.737094],"type":"Point"}
+  "bbox": [
+    -95.535587,
+    29.737094,
+    -95.535587,
+    29.737094
+],
+  "geometry": {"coordinates":[-95.53558700000001,29.737094],"type":"Point"}
 }

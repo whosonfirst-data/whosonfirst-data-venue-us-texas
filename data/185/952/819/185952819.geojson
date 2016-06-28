@@ -2,13 +2,14 @@
   "id": 185952819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.947392,31.669586,-98.947392,31.669586",
     "geom:latitude":31.669586,
     "geom:longitude":-98.947392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Oak Ridge Dr",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185952819,
-    "wof:lastmodified":1449007754,
+    "wof:lastmodified":1467084131,
     "wof:name":"Brownwood Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "boat"
     ]
 },
-  "bbox": [-98.947392,31.669586,-98.947392,31.669586],
-  "geometry": {"coordinates":[-98.947392,31.669586],"type":"Point"}
+  "bbox": [
+    -98.947392,
+    31.669586,
+    -98.947392,
+    31.669586
+],
+  "geometry": {"coordinates":[-98.94739199999999,31.669586],"type":"Point"}
 }

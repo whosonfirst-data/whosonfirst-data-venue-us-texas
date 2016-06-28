@@ -2,13 +2,14 @@
   "id": 270203953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.495047,29.634933,-95.495047,29.634933",
     "geom:latitude":29.634933,
     "geom:longitude":-95.495047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14041 Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270203953,
-    "wof:lastmodified":1449009723,
+    "wof:lastmodified":1467084185,
     "wof:name":"Southwest Business Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.495047,29.634933,-95.495047,29.634933],
+  "bbox": [
+    -95.495047,
+    29.634933,
+    -95.495047,
+    29.634933
+],
   "geometry": {"coordinates":[-95.495047,29.634933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303699013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.722168,30.317682,-97.722168,30.317682",
     "geom:latitude":30.317682,
     "geom:longitude":-97.722168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W North Loop Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303699013,
-    "wof:lastmodified":1448998454,
+    "wof:lastmodified":1467083708,
     "wof:name":"Travis County Hlth & Humn Svcs",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government-county"
     ]
 },
-  "bbox": [-97.722168,30.317682,-97.722168,30.317682],
+  "bbox": [
+    -97.722168,
+    30.317682,
+    -97.722168,
+    30.317682
+],
   "geometry": {"coordinates":[-97.722168,30.317682],"type":"Point"}
 }

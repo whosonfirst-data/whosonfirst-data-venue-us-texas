@@ -2,13 +2,14 @@
   "id": 270491599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.46841,30.013475,-95.46841,30.013475",
     "geom:latitude":30.013475,
     "geom:longitude":-95.46841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16300 Kuykendahl Rd # 330",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270491599,
-    "wof:lastmodified":1449008628,
+    "wof:lastmodified":1467084149,
     "wof:name":"Countryline Delivery Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "artist"
     ]
 },
-  "bbox": [-95.46841,30.013475,-95.46841,30.013475],
-  "geometry": {"coordinates":[-95.46841,30.013475],"type":"Point"}
+  "bbox": [
+    -95.46841,
+    30.013475,
+    -95.46841,
+    30.013475
+],
+  "geometry": {"coordinates":[-95.46841000000001,30.013475],"type":"Point"}
 }

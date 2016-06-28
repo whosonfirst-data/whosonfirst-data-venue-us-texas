@@ -2,13 +2,14 @@
   "id": 202809227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141344,32.902244,-97.141344,32.902244",
     "geom:latitude":32.902244,
     "geom:longitude":-97.141344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6226 Colleyville Blvd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202809227,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1467084932,
     "wof:name":"Fbs",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.141344,32.902244,-97.141344,32.902244],
+  "bbox": [
+    -97.141344,
+    32.902244,
+    -97.141344,
+    32.902244
+],
   "geometry": {"coordinates":[-97.141344,32.902244],"type":"Point"}
 }

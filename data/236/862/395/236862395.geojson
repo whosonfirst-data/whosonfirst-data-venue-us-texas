@@ -2,13 +2,14 @@
   "id": 236862395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806312,32.782307,-96.806312,32.782307",
     "geom:latitude":32.782307,
     "geom:longitude":-96.806312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Lamar St Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236862395,
-    "wof:lastmodified":1449005349,
+    "wof:lastmodified":1467084044,
     "wof:name":"West End Pub",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "american"
     ]
 },
-  "bbox": [-96.806312,32.782307,-96.806312,32.782307],
-  "geometry": {"coordinates":[-96.806312,32.782307],"type":"Point"}
+  "bbox": [
+    -96.806312,
+    32.782307,
+    -96.806312,
+    32.782307
+],
+  "geometry": {"coordinates":[-96.80631200000001,32.782307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370711023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445508,29.946449,-95.445508,29.946449",
     "geom:latitude":29.946449,
     "geom:longitude":-95.445508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Chestnut Tree Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370711023,
-    "wof:lastmodified":1449031855,
+    "wof:lastmodified":1467084539,
     "wof:name":"B B Sources",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.445508,29.946449,-95.445508,29.946449],
+  "bbox": [
+    -95.445508,
+    29.946449,
+    -95.445508,
+    29.946449
+],
   "geometry": {"coordinates":[-95.445508,29.946449],"type":"Point"}
 }

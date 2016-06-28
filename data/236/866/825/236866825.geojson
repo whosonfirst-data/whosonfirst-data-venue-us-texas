@@ -2,13 +2,14 @@
   "id": 236866825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807719,32.740555,-96.807719,32.740555",
     "geom:latitude":32.740555,
     "geom:longitude":-96.807719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Ridge St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236866825,
-    "wof:lastmodified":1449003171,
+    "wof:lastmodified":1467083941,
     "wof:name":"First National Bank of Forney",
     "wof:parent_id":85838633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.807719,32.740555,-96.807719,32.740555],
-  "geometry": {"coordinates":[-96.807719,32.740555],"type":"Point"}
+  "bbox": [
+    -96.807719,
+    32.740555,
+    -96.807719,
+    32.740555
+],
+  "geometry": {"coordinates":[-96.80771900000001,32.740555],"type":"Point"}
 }

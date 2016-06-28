@@ -2,13 +2,14 @@
   "id": 303212389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744509,30.277588,-97.744509,30.277588",
     "geom:latitude":30.277588,
     "geom:longitude":-97.744509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 San Antonio St Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303212389,
-    "wof:lastmodified":1448999702,
+    "wof:lastmodified":1467083771,
     "wof:name":"Fall Creek Vineyards",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744509,30.277588,-97.744509,30.277588],
-  "geometry": {"coordinates":[-97.744509,30.277588],"type":"Point"}
+  "bbox": [
+    -97.744509,
+    30.277588,
+    -97.744509,
+    30.277588
+],
+  "geometry": {"coordinates":[-97.74450899999999,30.277588],"type":"Point"}
 }

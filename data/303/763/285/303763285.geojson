@@ -2,13 +2,14 @@
   "id": 303763285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729655,30.360643,-97.729655,30.360643",
     "geom:latitude":30.360643,
     "geom:longitude":-97.729655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8140 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":303763285,
-    "wof:lastmodified":1449000557,
+    "wof:lastmodified":1467083812,
     "wof:name":"Sky.com Incorporated",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "plotting"
     ]
 },
-  "bbox": [-97.729655,30.360643,-97.729655,30.360643],
-  "geometry": {"coordinates":[-97.729655,30.360643],"type":"Point"}
+  "bbox": [
+    -97.729655,
+    30.360643,
+    -97.729655,
+    30.360643
+],
+  "geometry": {"coordinates":[-97.72965499999999,30.360643],"type":"Point"}
 }

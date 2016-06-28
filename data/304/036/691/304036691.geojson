@@ -2,13 +2,14 @@
   "id": 304036691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.409056,32.47098,-100.409056,32.47098",
     "geom:latitude":32.47098,
     "geom:longitude":-100.409056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W 3rd St",
     "sg:city":"Sweetwater",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":304036691,
-    "wof:lastmodified":1449043677,
+    "wof:lastmodified":1467084662,
     "wof:name":"BT Burnett Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.409056,32.47098,-100.409056,32.47098],
-  "geometry": {"coordinates":[-100.409056,32.47098],"type":"Point"}
+  "bbox": [
+    -100.409056,
+    32.47098,
+    -100.409056,
+    32.47098
+],
+  "geometry": {"coordinates":[-100.40905600000001,32.47098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387846271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76442,32.606239,-96.76442,32.606239",
     "geom:latitude":32.606239,
     "geom:longitude":-96.76442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Elm St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387846271,
-    "wof:lastmodified":1449059054,
+    "wof:lastmodified":1467084860,
     "wof:name":"Pro Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-96.76442,32.606239,-96.76442,32.606239],
+  "bbox": [
+    -96.76442,
+    32.606239,
+    -96.76442,
+    32.606239
+],
   "geometry": {"coordinates":[-96.76442,32.606239],"type":"Point"}
 }

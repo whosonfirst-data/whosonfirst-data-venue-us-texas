@@ -2,13 +2,14 @@
   "id": 270132463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.286638,29.80284,-95.286638,29.80284",
     "geom:latitude":29.80284,
     "geom:longitude":-95.286638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Ranger St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270132463,
-    "wof:lastmodified":1449009826,
+    "wof:lastmodified":1467084189,
     "wof:name":"International Casket Co",
     "wof:parent_id":85847801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casket"
     ]
 },
-  "bbox": [-95.286638,29.80284,-95.286638,29.80284],
+  "bbox": [
+    -95.286638,
+    29.80284,
+    -95.286638,
+    29.80284
+],
   "geometry": {"coordinates":[-95.286638,29.80284],"type":"Point"}
 }

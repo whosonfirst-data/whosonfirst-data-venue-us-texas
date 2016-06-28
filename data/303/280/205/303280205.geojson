@@ -2,13 +2,14 @@
   "id": 303280205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711017,30.281446,-97.711017,30.281446",
     "geom:latitude":30.281446,
     "geom:longitude":-97.711017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 E Martin Luther King Jr Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303280205,
-    "wof:lastmodified":1448999319,
+    "wof:lastmodified":1467083752,
     "wof:name":"Flatbed Press Inc",
     "wof:parent_id":85869947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.711017,30.281446,-97.711017,30.281446],
+  "bbox": [
+    -97.711017,
+    30.281446,
+    -97.711017,
+    30.281446
+],
   "geometry": {"coordinates":[-97.711017,30.281446],"type":"Point"}
 }

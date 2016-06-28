@@ -2,13 +2,14 @@
   "id": 236406783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515262,29.473663,-98.515262,29.473663",
     "geom:latitude":29.473663,
     "geom:longitude":-98.515262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 Mc Ilvaine St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236406783,
-    "wof:lastmodified":1449003416,
+    "wof:lastmodified":1467083952,
     "wof:name":"Maxey's Transmission Svc",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-98.515262,29.473663,-98.515262,29.473663],
-  "geometry": {"coordinates":[-98.515262,29.473663],"type":"Point"}
+  "bbox": [
+    -98.515262,
+    29.473663,
+    -98.515262,
+    29.473663
+],
+  "geometry": {"coordinates":[-98.51526200000001,29.473663],"type":"Point"}
 }

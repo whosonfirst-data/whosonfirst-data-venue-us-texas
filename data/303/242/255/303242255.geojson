@@ -2,13 +2,14 @@
   "id": 303242255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740574,30.267736,-97.740574,30.267736",
     "geom:latitude":30.267736,
     "geom:longitude":-97.740574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303242255,
-    "wof:lastmodified":1449000278,
+    "wof:lastmodified":1467083798,
     "wof:name":"Bat Bar Austin",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.740574,30.267736,-97.740574,30.267736],
+  "bbox": [
+    -97.740574,
+    30.267736,
+    -97.740574,
+    30.267736
+],
   "geometry": {"coordinates":[-97.740574,30.267736],"type":"Point"}
 }

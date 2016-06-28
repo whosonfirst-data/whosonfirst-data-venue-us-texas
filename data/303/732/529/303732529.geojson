@@ -2,13 +2,14 @@
   "id": 303732529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677209,30.351263,-97.677209,30.351263",
     "geom:latitude":30.351263,
     "geom:longitude":-97.677209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 E Rundberg Ln Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303732529,
-    "wof:lastmodified":1449000643,
+    "wof:lastmodified":1467083817,
     "wof:name":"Mom's Grocery Inc",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.677209,30.351263,-97.677209,30.351263],
+  "bbox": [
+    -97.677209,
+    30.351263,
+    -97.677209,
+    30.351263
+],
   "geometry": {"coordinates":[-97.677209,30.351263],"type":"Point"}
 }

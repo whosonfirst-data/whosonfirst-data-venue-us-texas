@@ -2,13 +2,14 @@
   "id": 303551765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.899246,30.191245,-97.899246,30.191245",
     "geom:latitude":30.191245,
     "geom:longitude":-97.899246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 Maelin Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303551765,
-    "wof:lastmodified":1448998606,
+    "wof:lastmodified":1467083715,
     "wof:name":"Presidio Doors",
     "wof:parent_id":85893511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber-used"
     ]
 },
-  "bbox": [-97.899246,30.191245,-97.899246,30.191245],
-  "geometry": {"coordinates":[-97.899246,30.191245],"type":"Point"}
+  "bbox": [
+    -97.899246,
+    30.191245,
+    -97.899246,
+    30.191245
+],
+  "geometry": {"coordinates":[-97.89924600000001,30.191245],"type":"Point"}
 }

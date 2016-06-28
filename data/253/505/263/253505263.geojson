@@ -2,13 +2,14 @@
   "id": 253505263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.300733,32.299376,-95.300733,32.299376",
     "geom:latitude":32.299376,
     "geom:longitude":-95.300733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 S Broadway Ave",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253505263,
-    "wof:lastmodified":1449065287,
+    "wof:lastmodified":1467085030,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-95.300733,32.299376,-95.300733,32.299376],
-  "geometry": {"coordinates":[-95.300733,32.299376],"type":"Point"}
+  "bbox": [
+    -95.300733,
+    32.299376,
+    -95.300733,
+    32.299376
+],
+  "geometry": {"coordinates":[-95.30073299999999,32.299376],"type":"Point"}
 }

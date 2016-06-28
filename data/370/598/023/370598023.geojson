@@ -2,13 +2,14 @@
   "id": 370598023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684017,32.85501,-96.684017,32.85501",
     "geom:latitude":32.85501,
     "geom:longitude":-96.684017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11323 Rupley Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370598023,
-    "wof:lastmodified":1449029257,
+    "wof:lastmodified":1467084473,
     "wof:name":"Waggoner Exploration Inc",
     "wof:parent_id":85882161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-96.684017,32.85501,-96.684017,32.85501],
+  "bbox": [
+    -96.684017,
+    32.85501,
+    -96.684017,
+    32.85501
+],
   "geometry": {"coordinates":[-96.684017,32.85501],"type":"Point"}
 }

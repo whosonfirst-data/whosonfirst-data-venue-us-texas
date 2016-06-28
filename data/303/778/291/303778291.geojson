@@ -2,13 +2,14 @@
   "id": 303778291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734321,30.359103,-97.734321,30.359103",
     "geom:latitude":30.359103,
     "geom:longitude":-97.734321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W Anderson Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303778291,
-    "wof:lastmodified":1448998167,
+    "wof:lastmodified":1467083693,
     "wof:name":"Gene Rogers Optical",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"
     ]
 },
-  "bbox": [-97.734321,30.359103,-97.734321,30.359103],
-  "geometry": {"coordinates":[-97.734321,30.359103],"type":"Point"}
+  "bbox": [
+    -97.734321,
+    30.359103,
+    -97.734321,
+    30.359103
+],
+  "geometry": {"coordinates":[-97.73432099999999,30.359103],"type":"Point"}
 }

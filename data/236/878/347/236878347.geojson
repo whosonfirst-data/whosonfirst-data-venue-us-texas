@@ -2,13 +2,14 @@
   "id": 236878347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405569,31.438653,-97.405569,31.438653",
     "geom:latitude":31.438653,
     "geom:longitude":-97.405569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Main St",
     "sg:city":"Mc Gregor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236878347,
-    "wof:lastmodified":1449003365,
+    "wof:lastmodified":1467083950,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.405569,31.438653,-97.405569,31.438653],
+  "bbox": [
+    -97.405569,
+    31.438653,
+    -97.405569,
+    31.438653
+],
   "geometry": {"coordinates":[-97.405569,31.438653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303881623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.470931,35.167169,-101.470931,35.167169",
     "geom:latitude":35.167169,
     "geom:longitude":-101.470931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5938 County Road 9",
     "sg:city":"Claude",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303881623,
-    "wof:lastmodified":1448999540,
+    "wof:lastmodified":1467083763,
     "wof:name":"James Oles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-101.470931,35.167169,-101.470931,35.167169],
-  "geometry": {"coordinates":[-101.470931,35.167169],"type":"Point"}
+  "bbox": [
+    -101.470931,
+    35.167169,
+    -101.470931,
+    35.167169
+],
+  "geometry": {"coordinates":[-101.47093099999999,35.167169],"type":"Point"}
 }

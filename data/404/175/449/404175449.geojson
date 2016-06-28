@@ -2,13 +2,14 @@
   "id": 404175449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49764,29.532038,-98.49764,29.532038",
     "geom:latitude":29.532038,
     "geom:longitude":-98.49764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10012 Sahara St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404175449,
-    "wof:lastmodified":1449039961,
+    "wof:lastmodified":1467084654,
     "wof:name":"San Antonio Housing Authority",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-98.49764,29.532038,-98.49764,29.532038],
+  "bbox": [
+    -98.49764,
+    29.532038,
+    -98.49764,
+    29.532038
+],
   "geometry": {"coordinates":[-98.49764,29.532038],"type":"Point"}
 }

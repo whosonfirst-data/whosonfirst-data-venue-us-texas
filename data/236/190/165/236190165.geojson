@@ -2,13 +2,14 @@
   "id": 236190165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.813572,35.201291,-101.813572,35.201291",
     "geom:latitude":35.201291,
     "geom:longitude":-101.813572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E 9th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236190165,
-    "wof:lastmodified":1449005000,
+    "wof:lastmodified":1467084027,
     "wof:name":"AES",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.813572,35.201291,-101.813572,35.201291],
-  "geometry": {"coordinates":[-101.813572,35.201291],"type":"Point"}
+  "bbox": [
+    -101.813572,
+    35.201291,
+    -101.813572,
+    35.201291
+],
+  "geometry": {"coordinates":[-101.81357199999999,35.201291],"type":"Point"}
 }

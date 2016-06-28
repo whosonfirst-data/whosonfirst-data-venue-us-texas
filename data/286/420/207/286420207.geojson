@@ -2,13 +2,14 @@
   "id": 286420207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.427338,29.730465,-95.427338,29.730465",
     "geom:latitude":29.730465,
     "geom:longitude":-95.427338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Southwest Fwy Suite 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":286420207,
-    "wof:lastmodified":1449016603,
+    "wof:lastmodified":1467084275,
     "wof:name":"Jeffery H Kaplan PC",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "public"
     ]
 },
-  "bbox": [-95.427338,29.730465,-95.427338,29.730465],
-  "geometry": {"coordinates":[-95.427338,29.730465],"type":"Point"}
+  "bbox": [
+    -95.427338,
+    29.730465,
+    -95.427338,
+    29.730465
+],
+  "geometry": {"coordinates":[-95.42733800000001,29.730465],"type":"Point"}
 }

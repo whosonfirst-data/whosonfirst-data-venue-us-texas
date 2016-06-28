@@ -2,13 +2,14 @@
   "id": 220111343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129957,30.070009,-94.129957,30.070009",
     "geom:latitude":30.070009,
     "geom:longitude":-94.129957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3869 Stagg Dr",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220111343,
-    "wof:lastmodified":1449074898,
+    "wof:lastmodified":1467085196,
     "wof:name":"Wireless World",
     "wof:parent_id":85851487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-94.129957,30.070009,-94.129957,30.070009],
+  "bbox": [
+    -94.129957,
+    30.070009,
+    -94.129957,
+    30.070009
+],
   "geometry": {"coordinates":[-94.129957,30.070009],"type":"Point"}
 }

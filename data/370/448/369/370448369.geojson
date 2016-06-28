@@ -2,13 +2,14 @@
   "id": 370448369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.117136,33.18188,-97.117136,33.18188",
     "geom:latitude":33.18188,
     "geom:longitude":-97.117136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Tennyson Trl",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370448369,
-    "wof:lastmodified":1449032308,
+    "wof:lastmodified":1467084550,
     "wof:name":"Dfw Data Com",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-97.117136,33.18188,-97.117136,33.18188],
+  "bbox": [
+    -97.117136,
+    33.18188,
+    -97.117136,
+    33.18188
+],
   "geometry": {"coordinates":[-97.117136,33.18188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236236865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791333,32.843781,-96.791333,32.843781",
     "geom:latitude":32.843781,
     "geom:longitude":-96.791333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Mc Farlin Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":236236865,
-    "wof:lastmodified":1449001938,
+    "wof:lastmodified":1467083873,
     "wof:name":"Mike Wurst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.791333,32.843781,-96.791333,32.843781],
-  "geometry": {"coordinates":[-96.791333,32.843781],"type":"Point"}
+  "bbox": [
+    -96.791333,
+    32.843781,
+    -96.791333,
+    32.843781
+],
+  "geometry": {"coordinates":[-96.79133299999999,32.843781],"type":"Point"}
 }

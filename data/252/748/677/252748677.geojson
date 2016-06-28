@@ -2,13 +2,14 @@
   "id": 252748677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729628,32.810729,-96.729628,32.810729",
     "geom:latitude":32.810729,
     "geom:longitude":-96.729628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7540 E Grand Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":252748677,
-    "wof:lastmodified":1449006225,
+    "wof:lastmodified":1467084093,
     "wof:name":"Dallas Beer Wine Liquor",
     "wof:parent_id":85870355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "liquors-wholesale"
     ]
 },
-  "bbox": [-96.729628,32.810729,-96.729628,32.810729],
-  "geometry": {"coordinates":[-96.729628,32.810729],"type":"Point"}
+  "bbox": [
+    -96.729628,
+    32.810729,
+    -96.729628,
+    32.810729
+],
+  "geometry": {"coordinates":[-96.72962800000001,32.810729],"type":"Point"}
 }

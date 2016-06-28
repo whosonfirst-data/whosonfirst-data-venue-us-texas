@@ -2,13 +2,14 @@
   "id": 236164447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746411,33.090642,-96.746411,33.090642",
     "geom:latitude":33.090642,
     "geom:longitude":-96.746411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Loftsmoor Ln",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236164447,
-    "wof:lastmodified":1449001971,
+    "wof:lastmodified":1467083876,
     "wof:name":"University Air And Heating",
     "wof:parent_id":85879943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-96.746411,33.090642,-96.746411,33.090642],
-  "geometry": {"coordinates":[-96.746411,33.090642],"type":"Point"}
+  "bbox": [
+    -96.746411,
+    33.090642,
+    -96.746411,
+    33.090642
+],
+  "geometry": {"coordinates":[-96.74641099999999,33.090642],"type":"Point"}
 }

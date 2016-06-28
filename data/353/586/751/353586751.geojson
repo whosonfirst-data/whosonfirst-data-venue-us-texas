@@ -2,13 +2,14 @@
   "id": 353586751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.478659,29.385399,-98.478659,29.385399",
     "geom:latitude":29.385399,
     "geom:longitude":-98.478659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 S Presa St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353586751,
-    "wof:lastmodified":1449020510,
+    "wof:lastmodified":1467084370,
     "wof:name":"Circle A",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.478659,29.385399,-98.478659,29.385399],
-  "geometry": {"coordinates":[-98.478659,29.385399],"type":"Point"}
+  "bbox": [
+    -98.478659,
+    29.385399,
+    -98.478659,
+    29.385399
+],
+  "geometry": {"coordinates":[-98.47865899999999,29.385399],"type":"Point"}
 }

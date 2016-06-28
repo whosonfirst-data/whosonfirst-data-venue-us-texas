@@ -2,13 +2,14 @@
   "id": 185712029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361641,29.778219,-95.361641,29.778219",
     "geom:latitude":29.778219,
     "geom:longitude":-95.361641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2046 Freeman St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185712029,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1467084123,
     "wof:name":"Hair Classic I",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.361641,29.778219,-95.361641,29.778219],
-  "geometry": {"coordinates":[-95.361641,29.778219],"type":"Point"}
+  "bbox": [
+    -95.361641,
+    29.778219,
+    -95.361641,
+    29.778219
+],
+  "geometry": {"coordinates":[-95.36164100000001,29.778219],"type":"Point"}
 }

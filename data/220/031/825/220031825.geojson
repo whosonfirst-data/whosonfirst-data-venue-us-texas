@@ -2,13 +2,14 @@
   "id": 220031825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.835485,33.064912,-96.835485,33.064912",
     "geom:latitude":33.064912,
     "geom:longitude":-96.835485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 Highview Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220031825,
-    "wof:lastmodified":1449074331,
+    "wof:lastmodified":1467085183,
     "wof:name":"Drees Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "builder"
     ]
 },
-  "bbox": [-96.835485,33.064912,-96.835485,33.064912],
-  "geometry": {"coordinates":[-96.835485,33.064912],"type":"Point"}
+  "bbox": [
+    -96.835485,
+    33.064912,
+    -96.835485,
+    33.064912
+],
+  "geometry": {"coordinates":[-96.83548500000001,33.064912],"type":"Point"}
 }

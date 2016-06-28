@@ -2,13 +2,14 @@
   "id": 387348305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48446,29.7387,-95.48446,29.7387",
     "geom:latitude":29.7387,
     "geom:longitude":-95.48446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Fountain View Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387348305,
-    "wof:lastmodified":1449056279,
+    "wof:lastmodified":1467084788,
     "wof:name":"DJL Interest",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.48446,29.7387,-95.48446,29.7387],
+  "bbox": [
+    -95.48446,
+    29.7387,
+    -95.48446,
+    29.7387
+],
   "geometry": {"coordinates":[-95.48446,29.7387],"type":"Point"}
 }

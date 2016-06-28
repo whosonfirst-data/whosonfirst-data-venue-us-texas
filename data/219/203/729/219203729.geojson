@@ -2,13 +2,14 @@
   "id": 219203729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.337697,29.832929,-95.337697,29.832929",
     "geom:latitude":29.832929,
     "geom:longitude":-95.337697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8006 Curry Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219203729,
-    "wof:lastmodified":1449071963,
+    "wof:lastmodified":1467085133,
     "wof:name":"Brandon Development",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.337697,29.832929,-95.337697,29.832929],
-  "geometry": {"coordinates":[-95.337697,29.832929],"type":"Point"}
+  "bbox": [
+    -95.337697,
+    29.832929,
+    -95.337697,
+    29.832929
+],
+  "geometry": {"coordinates":[-95.33769700000001,29.832929],"type":"Point"}
 }

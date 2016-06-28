@@ -2,13 +2,14 @@
   "id": 270121117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.458702,29.726365,-95.458702,29.726365",
     "geom:latitude":29.726365,
     "geom:longitude":-95.458702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4747 Westpark Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270121117,
-    "wof:lastmodified":1449010519,
+    "wof:lastmodified":1467084212,
     "wof:name":"E C D",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consumer"
     ]
 },
-  "bbox": [-95.458702,29.726365,-95.458702,29.726365],
+  "bbox": [
+    -95.458702,
+    29.726365,
+    -95.458702,
+    29.726365
+],
   "geometry": {"coordinates":[-95.458702,29.726365],"type":"Point"}
 }

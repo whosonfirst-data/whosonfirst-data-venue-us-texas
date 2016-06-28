@@ -2,13 +2,14 @@
   "id": 203010501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.351791,29.736037,-95.351791,29.736037",
     "geom:latitude":29.736037,
     "geom:longitude":-95.351791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 Hadley St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203010501,
-    "wof:lastmodified":1449026132,
+    "wof:lastmodified":1467084407,
     "wof:name":"City Wide Club Of Clubs",
     "wof:parent_id":85869285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.351791,29.736037,-95.351791,29.736037],
-  "geometry": {"coordinates":[-95.351791,29.736037],"type":"Point"}
+  "bbox": [
+    -95.351791,
+    29.736037,
+    -95.351791,
+    29.736037
+],
+  "geometry": {"coordinates":[-95.35179100000001,29.736037],"type":"Point"}
 }

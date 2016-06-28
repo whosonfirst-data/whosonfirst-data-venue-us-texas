@@ -2,13 +2,14 @@
   "id": 303785211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.714377,30.382348,-97.714377,30.382348",
     "geom:latitude":30.382348,
     "geom:longitude":-97.714377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 Metric Blvd Ste 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303785211,
-    "wof:lastmodified":1449000141,
+    "wof:lastmodified":1467083792,
     "wof:name":"Styx Capital",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-97.714377,30.382348,-97.714377,30.382348],
+  "bbox": [
+    -97.714377,
+    30.382348,
+    -97.714377,
+    30.382348
+],
   "geometry": {"coordinates":[-97.714377,30.382348],"type":"Point"}
 }

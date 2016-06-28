@@ -2,13 +2,14 @@
   "id": 220130923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890509,33.100499,-96.890509,33.100499",
     "geom:latitude":33.100499,
     "geom:longitude":-96.890509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Knight Dr",
     "sg:city":"The Colony",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220130923,
-    "wof:lastmodified":1449074293,
+    "wof:lastmodified":1467085182,
     "wof:name":"Pruitt Transport",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.890509,33.100499,-96.890509,33.100499],
-  "geometry": {"coordinates":[-96.890509,33.100499],"type":"Point"}
+  "bbox": [
+    -96.890509,
+    33.100499,
+    -96.890509,
+    33.100499
+],
+  "geometry": {"coordinates":[-96.89050899999999,33.100499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202623215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683208,32.866045,-96.683208,32.866045",
     "geom:latitude":32.866045,
     "geom:longitude":-96.683208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12610 Jupiter Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202623215,
-    "wof:lastmodified":1449061877,
+    "wof:lastmodified":1467084925,
     "wof:name":"AGB Donstruction",
     "wof:parent_id":85882161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.683208,32.866045,-96.683208,32.866045],
-  "geometry": {"coordinates":[-96.683208,32.866045],"type":"Point"}
+  "bbox": [
+    -96.683208,
+    32.866045,
+    -96.683208,
+    32.866045
+],
+  "geometry": {"coordinates":[-96.68320799999999,32.866045],"type":"Point"}
 }

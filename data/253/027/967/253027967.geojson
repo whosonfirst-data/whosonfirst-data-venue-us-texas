@@ -2,13 +2,14 @@
   "id": 253027967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.96568,33.663119,-101.96568,33.663119",
     "geom:latitude":33.663119,
     "geom:longitude":-101.96568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6927 US Hwy 84",
     "sg:city":"Shallowater",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253027967,
-    "wof:lastmodified":1449063366,
+    "wof:lastmodified":1467084964,
     "wof:name":"AFM Ministries",
     "wof:parent_id":85878799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.96568,33.663119,-101.96568,33.663119],
-  "geometry": {"coordinates":[-101.96568,33.663119],"type":"Point"}
+  "bbox": [
+    -101.96568,
+    33.663119,
+    -101.96568,
+    33.663119
+],
+  "geometry": {"coordinates":[-101.96568000000001,33.663119],"type":"Point"}
 }

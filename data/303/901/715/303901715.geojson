@@ -2,13 +2,14 @@
   "id": 303901715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.970784,35.532765,-100.970784,35.532765",
     "geom:latitude":35.532765,
     "geom:longitude":-100.970784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 W Kingsmill Ave",
     "sg:city":"Pampa",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":303901715,
-    "wof:lastmodified":1448999146,
+    "wof:lastmodified":1467083742,
     "wof:name":"Terry's Vcr Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "store"
     ]
 },
-  "bbox": [-100.970784,35.532765,-100.970784,35.532765],
-  "geometry": {"coordinates":[-100.970784,35.532765],"type":"Point"}
+  "bbox": [
+    -100.970784,
+    35.532765,
+    -100.970784,
+    35.532765
+],
+  "geometry": {"coordinates":[-100.97078399999999,35.532765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303863929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.916722,30.179568,-96.916722,30.179568",
     "geom:latitude":30.179568,
     "geom:longitude":-96.916722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 E Austin St",
     "sg:city":"Giddings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303863929,
-    "wof:lastmodified":1448999806,
+    "wof:lastmodified":1467083776,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "chicken"
     ]
 },
-  "bbox": [-96.916722,30.179568,-96.916722,30.179568],
-  "geometry": {"coordinates":[-96.916722,30.179568],"type":"Point"}
+  "bbox": [
+    -96.916722,
+    30.179568,
+    -96.916722,
+    30.179568
+],
+  "geometry": {"coordinates":[-96.91672199999999,30.179568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337411487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.938741,33.535659,-101.938741,33.535659",
     "geom:latitude":33.535659,
     "geom:longitude":-101.938741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5727 64th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337411487,
-    "wof:lastmodified":1449026977,
+    "wof:lastmodified":1467084425,
     "wof:name":"Edwards Trucking",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-101.938741,33.535659,-101.938741,33.535659],
-  "geometry": {"coordinates":[-101.938741,33.535659],"type":"Point"}
+  "bbox": [
+    -101.938741,
+    33.535659,
+    -101.938741,
+    33.535659
+],
+  "geometry": {"coordinates":[-101.93874099999999,33.535659],"type":"Point"}
 }

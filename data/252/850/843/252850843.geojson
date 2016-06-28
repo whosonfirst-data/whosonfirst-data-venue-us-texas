@@ -2,13 +2,14 @@
   "id": 252850843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.85603,32.870492,-96.85603,32.870492",
     "geom:latitude":32.870492,
     "geom:longitude":-96.85603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Clover Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252850843,
-    "wof:lastmodified":1449006045,
+    "wof:lastmodified":1467084082,
     "wof:name":"Schools",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.85603,32.870492,-96.85603,32.870492],
+  "bbox": [
+    -96.85603,
+    32.870492,
+    -96.85603,
+    32.870492
+],
   "geometry": {"coordinates":[-96.85603,32.870492],"type":"Point"}
 }

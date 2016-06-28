@@ -2,13 +2,14 @@
   "id": 387681805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.848227,35.115278,-101.848227,35.115278",
     "geom:latitude":35.115278,
     "geom:longitude":-101.848227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 FM 1541",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387681805,
-    "wof:lastmodified":1449058429,
+    "wof:lastmodified":1467084844,
     "wof:name":"AAA Electric",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.848227,35.115278,-101.848227,35.115278],
-  "geometry": {"coordinates":[-101.848227,35.115278],"type":"Point"}
+  "bbox": [
+    -101.848227,
+    35.115278,
+    -101.848227,
+    35.115278
+],
+  "geometry": {"coordinates":[-101.84822699999999,35.115278],"type":"Point"}
 }

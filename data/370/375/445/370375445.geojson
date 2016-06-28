@@ -2,13 +2,14 @@
   "id": 370375445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.993603,32.840767,-96.993603,32.840767",
     "geom:latitude":32.840767,
     "geom:longitude":-96.993603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 Irving Mall",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370375445,
-    "wof:lastmodified":1449029184,
+    "wof:lastmodified":1467084471,
     "wof:name":"Lids",
     "wof:parent_id":85850385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hat"
     ]
 },
-  "bbox": [-96.993603,32.840767,-96.993603,32.840767],
-  "geometry": {"coordinates":[-96.993603,32.840767],"type":"Point"}
+  "bbox": [
+    -96.993603,
+    32.840767,
+    -96.993603,
+    32.840767
+],
+  "geometry": {"coordinates":[-96.99360299999999,32.840767],"type":"Point"}
 }

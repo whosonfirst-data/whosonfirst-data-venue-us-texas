@@ -2,13 +2,14 @@
   "id": 370221479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760314,30.332904,-97.760314,30.332904",
     "geom:latitude":30.332904,
     "geom:longitude":-97.760314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 Hancock Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370221479,
-    "wof:lastmodified":1449030582,
+    "wof:lastmodified":1467084506,
     "wof:name":"Southwest Human Development",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.760314,30.332904,-97.760314,30.332904],
-  "geometry": {"coordinates":[-97.760314,30.332904],"type":"Point"}
+  "bbox": [
+    -97.760314,
+    30.332904,
+    -97.760314,
+    30.332904
+],
+  "geometry": {"coordinates":[-97.76031399999999,30.332904],"type":"Point"}
 }

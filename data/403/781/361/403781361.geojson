@@ -2,13 +2,14 @@
   "id": 403781361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384703,32.671857,-97.384703,32.671857",
     "geom:latitude":32.671857,
     "geom:longitude":-97.384703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5359 Old Granbury Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403781361,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1467084756,
     "wof:name":"Vacuum Depot",
     "wof:parent_id":85871651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-97.384703,32.671857,-97.384703,32.671857],
+  "bbox": [
+    -97.384703,
+    32.671857,
+    -97.384703,
+    32.671857
+],
   "geometry": {"coordinates":[-97.384703,32.671857],"type":"Point"}
 }

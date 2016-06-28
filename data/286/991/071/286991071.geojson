@@ -2,13 +2,14 @@
   "id": 286991071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.164244,30.079865,-94.164244,30.079865",
     "geom:latitude":30.079865,
     "geom:longitude":-94.164244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5925 Phelan Blvd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":286991071,
-    "wof:lastmodified":1449016105,
+    "wof:lastmodified":1467084262,
     "wof:name":"ION GPS",
     "wof:parent_id":85808829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "equipment"
     ]
 },
-  "bbox": [-94.164244,30.079865,-94.164244,30.079865],
+  "bbox": [
+    -94.164244,
+    30.079865,
+    -94.164244,
+    30.079865
+],
   "geometry": {"coordinates":[-94.164244,30.079865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202662141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.411003,29.517946,-98.411003,29.517946",
     "geom:latitude":29.517946,
     "geom:longitude":-98.411003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8531 Perrin Beitel Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202662141,
-    "wof:lastmodified":1449061806,
+    "wof:lastmodified":1467084923,
     "wof:name":"Bravo's Billiards Bar & Grill",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "drinking"
     ]
 },
-  "bbox": [-98.411003,29.517946,-98.411003,29.517946],
-  "geometry": {"coordinates":[-98.411003,29.517946],"type":"Point"}
+  "bbox": [
+    -98.411003,
+    29.517946,
+    -98.411003,
+    29.517946
+],
+  "geometry": {"coordinates":[-98.41100299999999,29.517946],"type":"Point"}
 }

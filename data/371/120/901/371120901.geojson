@@ -2,13 +2,14 @@
   "id": 371120901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774101,32.85701,-96.774101,32.85701",
     "geom:latitude":32.85701,
     "geom:longitude":-96.774101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7608 Southwestern Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371120901,
-    "wof:lastmodified":1449049983,
+    "wof:lastmodified":1467084688,
     "wof:name":"Jay B Terrell DDS",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.774101,32.85701,-96.774101,32.85701],
+  "bbox": [
+    -96.774101,
+    32.85701,
+    -96.774101,
+    32.85701
+],
   "geometry": {"coordinates":[-96.774101,32.85701],"type":"Point"}
 }

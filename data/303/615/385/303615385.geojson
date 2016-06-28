@@ -2,13 +2,14 @@
   "id": 303615385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.836199,30.156079,-97.836199,30.156079",
     "geom:latitude":30.156079,
     "geom:longitude":-97.836199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2499 S Capital Of Texas Hwy Ste A106",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":303615385,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1467083730,
     "wof:name":"Doug Henderson Insurance Agency",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "flood"
     ]
 },
-  "bbox": [-97.836199,30.156079,-97.836199,30.156079],
-  "geometry": {"coordinates":[-97.836199,30.156079],"type":"Point"}
+  "bbox": [
+    -97.836199,
+    30.156079,
+    -97.836199,
+    30.156079
+],
+  "geometry": {"coordinates":[-97.83619899999999,30.156079],"type":"Point"}
 }

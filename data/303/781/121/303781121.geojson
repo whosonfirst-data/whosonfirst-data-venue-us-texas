@@ -2,13 +2,14 @@
   "id": 303781121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.699281,30.413065,-97.699281,30.413065",
     "geom:latitude":30.413065,
     "geom:longitude":-97.699281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12323 Alderbrook Dr Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303781121,
-    "wof:lastmodified":1448998574,
+    "wof:lastmodified":1467083714,
     "wof:name":"A Clear View",
     "wof:parent_id":85818275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.699281,30.413065,-97.699281,30.413065],
+  "bbox": [
+    -97.699281,
+    30.413065,
+    -97.699281,
+    30.413065
+],
   "geometry": {"coordinates":[-97.699281,30.413065],"type":"Point"}
 }

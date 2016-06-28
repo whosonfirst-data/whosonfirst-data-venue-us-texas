@@ -2,13 +2,14 @@
   "id": 203377937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.474387,27.512133,-99.474387,27.512133",
     "geom:latitude":27.512133,
     "geom:longitude":-99.474387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Guerrero St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203377937,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1467084397,
     "wof:name":"Macdonald Land Co Ltd",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.474387,27.512133,-99.474387,27.512133],
-  "geometry": {"coordinates":[-99.474387,27.512133],"type":"Point"}
+  "bbox": [
+    -99.474387,
+    27.512133,
+    -99.474387,
+    27.512133
+],
+  "geometry": {"coordinates":[-99.47438699999999,27.512133],"type":"Point"}
 }

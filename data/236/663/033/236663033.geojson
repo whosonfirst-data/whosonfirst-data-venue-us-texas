@@ -2,13 +2,14 @@
   "id": 236663033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788398,32.603651,-96.788398,32.603651",
     "geom:latitude":32.603651,
     "geom:longitude":-96.788398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N Bluegrove Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236663033,
-    "wof:lastmodified":1449004194,
+    "wof:lastmodified":1467083989,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.788398,32.603651,-96.788398,32.603651],
+  "bbox": [
+    -96.788398,
+    32.603651,
+    -96.788398,
+    32.603651
+],
   "geometry": {"coordinates":[-96.788398,32.603651],"type":"Point"}
 }

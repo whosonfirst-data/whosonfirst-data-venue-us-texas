@@ -2,13 +2,14 @@
   "id": 404178787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504534,27.513375,-99.504534,27.513375",
     "geom:latitude":27.513375,
     "geom:longitude":-99.504534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404178787,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1467084654,
     "wof:name":"Guerra Margarito",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.504534,27.513375,-99.504534,27.513375],
-  "geometry": {"coordinates":[-99.504534,27.513375],"type":"Point"}
+  "bbox": [
+    -99.504534,
+    27.513375,
+    -99.504534,
+    27.513375
+],
+  "geometry": {"coordinates":[-99.50453400000001,27.513375],"type":"Point"}
 }

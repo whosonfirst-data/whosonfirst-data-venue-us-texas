@@ -2,13 +2,14 @@
   "id": 386990531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.625397,29.759067,-95.625397,29.759067",
     "geom:latitude":29.759067,
     "geom:longitude":-95.625397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Eldridge Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386990531,
-    "wof:lastmodified":1449028828,
+    "wof:lastmodified":1467084462,
     "wof:name":"Deluxe Drycleaners",
     "wof:parent_id":85885361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.625397,29.759067,-95.625397,29.759067],
-  "geometry": {"coordinates":[-95.625397,29.759067],"type":"Point"}
+  "bbox": [
+    -95.625397,
+    29.759067,
+    -95.625397,
+    29.759067
+],
+  "geometry": {"coordinates":[-95.62539700000001,29.759067],"type":"Point"}
 }

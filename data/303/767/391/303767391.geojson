@@ -2,13 +2,14 @@
   "id": 303767391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.716611,30.350335,-97.716611,30.350335",
     "geom:latitude":30.350335,
     "geom:longitude":-97.716611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7950 Anderson Sq",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":303767391,
-    "wof:lastmodified":1448998811,
+    "wof:lastmodified":1467083726,
     "wof:name":"Hsa Texas",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.716611,30.350335,-97.716611,30.350335],
+  "bbox": [
+    -97.716611,
+    30.350335,
+    -97.716611,
+    30.350335
+],
   "geometry": {"coordinates":[-97.716611,30.350335],"type":"Point"}
 }

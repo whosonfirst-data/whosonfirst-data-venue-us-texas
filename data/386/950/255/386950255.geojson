@@ -2,13 +2,14 @@
   "id": 386950255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.493457,32.394956,-99.493457,32.394956",
     "geom:latitude":32.394956,
     "geom:longitude":-99.493457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Sandy Ln",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386950255,
-    "wof:lastmodified":1449028749,
+    "wof:lastmodified":1467084461,
     "wof:name":"In Style Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.493457,32.394956,-99.493457,32.394956],
-  "geometry": {"coordinates":[-99.493457,32.394956],"type":"Point"}
+  "bbox": [
+    -99.493457,
+    32.394956,
+    -99.493457,
+    32.394956
+],
+  "geometry": {"coordinates":[-99.49345700000001,32.394956],"type":"Point"}
 }

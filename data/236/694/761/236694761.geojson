@@ -2,13 +2,14 @@
   "id": 236694761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.157872,29.788053,-95.157872,29.788053",
     "geom:latitude":29.788053,
     "geom:longitude":-95.157872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14703 Anoka St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236694761,
-    "wof:lastmodified":1449002397,
+    "wof:lastmodified":1467083905,
     "wof:name":"Harris Delivery Of Houston",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.157872,29.788053,-95.157872,29.788053],
+  "bbox": [
+    -95.157872,
+    29.788053,
+    -95.157872,
+    29.788053
+],
   "geometry": {"coordinates":[-95.157872,29.788053],"type":"Point"}
 }

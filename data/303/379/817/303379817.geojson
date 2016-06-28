@@ -2,13 +2,14 @@
   "id": 303379817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790009,30.494471,-97.790009,30.494471",
     "geom:latitude":30.494471,
     "geom:longitude":-97.790009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14100 Avery Ranch Blvd # 803",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303379817,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1467083763,
     "wof:name":"Austin Home Services Referral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-97.790009,30.494471,-97.790009,30.494471],
+  "bbox": [
+    -97.790009,
+    30.494471,
+    -97.790009,
+    30.494471
+],
   "geometry": {"coordinates":[-97.790009,30.494471],"type":"Point"}
 }

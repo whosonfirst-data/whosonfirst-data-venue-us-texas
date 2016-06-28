@@ -2,13 +2,14 @@
   "id": 303935465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.849965,35.221879,-101.849965,35.221879",
     "geom:latitude":35.221879,
     "geom:longitude":-101.849965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 E Amarillo Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303935465,
-    "wof:lastmodified":1449000124,
+    "wof:lastmodified":1467083791,
     "wof:name":"Epilepsy Foundation of West Texas",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "welfare"
     ]
 },
-  "bbox": [-101.849965,35.221879,-101.849965,35.221879],
+  "bbox": [
+    -101.849965,
+    35.221879,
+    -101.849965,
+    35.221879
+],
   "geometry": {"coordinates":[-101.849965,35.221879],"type":"Point"}
 }

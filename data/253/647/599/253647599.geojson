@@ -2,13 +2,14 @@
   "id": 253647599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524318,32.870471,-97.524318,32.870471",
     "geom:latitude":32.870471,
     "geom:longitude":-97.524318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Shoreline Dr",
     "sg:city":"Azle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253647599,
-    "wof:lastmodified":1449064225,
+    "wof:lastmodified":1467084993,
     "wof:name":"Ai Designs",
     "wof:parent_id":85871641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-97.524318,32.870471,-97.524318,32.870471],
-  "geometry": {"coordinates":[-97.524318,32.870471],"type":"Point"}
+  "bbox": [
+    -97.524318,
+    32.870471,
+    -97.524318,
+    32.870471
+],
+  "geometry": {"coordinates":[-97.52431799999999,32.870471],"type":"Point"}
 }

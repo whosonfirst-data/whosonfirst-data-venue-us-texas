@@ -2,13 +2,14 @@
   "id": 253737815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.100712,32.912683,-97.100712,32.912683",
     "geom:latitude":32.912683,
     "geom:longitude":-97.100712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Grayson Dr Ofc",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253737815,
-    "wof:lastmodified":1449063465,
+    "wof:lastmodified":1467084967,
     "wof:name":"Grayson Square Apartments",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-97.100712,32.912683,-97.100712,32.912683],
+  "bbox": [
+    -97.100712,
+    32.912683,
+    -97.100712,
+    32.912683
+],
   "geometry": {"coordinates":[-97.100712,32.912683],"type":"Point"}
 }

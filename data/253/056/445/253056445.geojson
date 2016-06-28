@@ -2,13 +2,14 @@
   "id": 253056445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.510759,29.516368,-98.510759,29.516368",
     "geom:latitude":29.516368,
     "geom:longitude":-98.510759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Sir Arthur Ct",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253056445,
-    "wof:lastmodified":1449063658,
+    "wof:lastmodified":1467084973,
     "wof:name":"Ken Oshima",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marketing"
     ]
 },
-  "bbox": [-98.510759,29.516368,-98.510759,29.516368],
-  "geometry": {"coordinates":[-98.510759,29.516368],"type":"Point"}
+  "bbox": [
+    -98.510759,
+    29.516368,
+    -98.510759,
+    29.516368
+],
+  "geometry": {"coordinates":[-98.51075899999999,29.516368],"type":"Point"}
 }

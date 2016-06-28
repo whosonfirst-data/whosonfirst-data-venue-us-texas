@@ -2,13 +2,14 @@
   "id": 202385873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508505,29.546713,-98.508505,29.546713",
     "geom:latitude":29.546713,
     "geom:longitude":-98.508505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11825 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202385873,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1467084919,
     "wof:name":"Taco Rey",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.508505,29.546713,-98.508505,29.546713],
+  "bbox": [
+    -98.508505,
+    29.546713,
+    -98.508505,
+    29.546713
+],
   "geometry": {"coordinates":[-98.508505,29.546713],"type":"Point"}
 }

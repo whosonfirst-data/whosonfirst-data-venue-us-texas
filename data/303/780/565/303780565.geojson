@@ -2,13 +2,14 @@
   "id": 303780565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73167,30.356574,-97.73167,30.356574",
     "geom:latitude":30.356574,
     "geom:longitude":-97.73167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2438 W Anderson Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303780565,
-    "wof:lastmodified":1448999953,
+    "wof:lastmodified":1467083783,
     "wof:name":"Balogue A Salon",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.73167,30.356574,-97.73167,30.356574],
-  "geometry": {"coordinates":[-97.73167,30.356574],"type":"Point"}
+  "bbox": [
+    -97.73167,
+    30.356574,
+    -97.73167,
+    30.356574
+],
+  "geometry": {"coordinates":[-97.73166999999999,30.356574],"type":"Point"}
 }

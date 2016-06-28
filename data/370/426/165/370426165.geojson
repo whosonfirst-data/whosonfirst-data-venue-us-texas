@@ -2,13 +2,14 @@
   "id": 370426165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751838,30.321509,-97.751838,30.321509",
     "geom:latitude":30.321509,
     "geom:longitude":-97.751838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Finley Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370426165,
-    "wof:lastmodified":1449029817,
+    "wof:lastmodified":1467084487,
     "wof:name":"O Day T",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.751838,30.321509,-97.751838,30.321509],
-  "geometry": {"coordinates":[-97.751838,30.321509],"type":"Point"}
+  "bbox": [
+    -97.751838,
+    30.321509,
+    -97.751838,
+    30.321509
+],
+  "geometry": {"coordinates":[-97.75183800000001,30.321509],"type":"Point"}
 }

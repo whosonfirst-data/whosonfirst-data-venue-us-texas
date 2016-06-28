@@ -2,13 +2,14 @@
   "id": 303354795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747086,30.305506,-97.747086,30.305506",
     "geom:latitude":30.305506,
     "geom:longitude":-97.747086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 West 38th Street, Ste 118",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303354795,
-    "wof:lastmodified":1449000292,
+    "wof:lastmodified":1467083799,
     "wof:name":"Austin Radiological Association",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.747086,30.305506,-97.747086,30.305506],
+  "bbox": [
+    -97.747086,
+    30.305506,
+    -97.747086,
+    30.305506
+],
   "geometry": {"coordinates":[-97.747086,30.305506],"type":"Point"}
 }

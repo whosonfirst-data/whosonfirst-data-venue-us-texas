@@ -2,13 +2,14 @@
   "id": 270012081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.433197,29.8283,-95.433197,29.8283",
     "geom:latitude":29.8283,
     "geom:longitude":-95.433197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 W 43rd St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270012081,
-    "wof:lastmodified":1449010850,
+    "wof:lastmodified":1467084223,
     "wof:name":"Kroger Food Stores",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.433197,29.8283,-95.433197,29.8283],
-  "geometry": {"coordinates":[-95.433197,29.8283],"type":"Point"}
+  "bbox": [
+    -95.433197,
+    29.8283,
+    -95.433197,
+    29.8283
+],
+  "geometry": {"coordinates":[-95.43319700000001,29.8283],"type":"Point"}
 }

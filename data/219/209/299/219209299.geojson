@@ -2,13 +2,14 @@
   "id": 219209299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.909267,29.393431,-94.909267,29.393431",
     "geom:latitude":29.393431,
     "geom:longitude":-94.909267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 9th Ave N",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219209299,
-    "wof:lastmodified":1449073542,
+    "wof:lastmodified":1467085166,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":85893973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crime"
     ]
 },
-  "bbox": [-94.909267,29.393431,-94.909267,29.393431],
+  "bbox": [
+    -94.909267,
+    29.393431,
+    -94.909267,
+    29.393431
+],
   "geometry": {"coordinates":[-94.909267,29.393431],"type":"Point"}
 }

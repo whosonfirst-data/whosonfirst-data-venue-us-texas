@@ -2,13 +2,14 @@
   "id": 202656029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.60671,33.643179,-96.60671,33.643179",
     "geom:latitude":33.643179,
     "geom:longitude":-96.60671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E Brockett St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202656029,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1467084922,
     "wof:name":"Texoma Auto Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-96.60671,33.643179,-96.60671,33.643179],
-  "geometry": {"coordinates":[-96.60671,33.643179],"type":"Point"}
+  "bbox": [
+    -96.60671,
+    33.643179,
+    -96.60671,
+    33.643179
+],
+  "geometry": {"coordinates":[-96.60671000000001,33.643179],"type":"Point"}
 }

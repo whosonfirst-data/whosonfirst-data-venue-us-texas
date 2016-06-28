@@ -2,13 +2,14 @@
   "id": 220074267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.807205,30.148855,-97.807205,30.148855",
     "geom:latitude":30.148855,
     "geom:longitude":-97.807205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10933 Mint Julep Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220074267,
-    "wof:lastmodified":1449074484,
+    "wof:lastmodified":1467085187,
     "wof:name":"Flint Trading",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.807205,30.148855,-97.807205,30.148855],
+  "bbox": [
+    -97.807205,
+    30.148855,
+    -97.807205,
+    30.148855
+],
   "geometry": {"coordinates":[-97.807205,30.148855],"type":"Point"}
 }

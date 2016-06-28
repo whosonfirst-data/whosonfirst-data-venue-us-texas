@@ -2,13 +2,14 @@
   "id": 303340049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765764,30.250603,-97.765764,30.250603",
     "geom:latitude":30.250603,
     "geom:longitude":-97.765764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":303340049,
-    "wof:lastmodified":1449000005,
+    "wof:lastmodified":1467083785,
     "wof:name":"The Storage Stall",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "records-storage"
     ]
 },
-  "bbox": [-97.765764,30.250603,-97.765764,30.250603],
+  "bbox": [
+    -97.765764,
+    30.250603,
+    -97.765764,
+    30.250603
+],
   "geometry": {"coordinates":[-97.765764,30.250603],"type":"Point"}
 }

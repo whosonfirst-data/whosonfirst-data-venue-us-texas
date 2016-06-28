@@ -2,13 +2,14 @@
   "id": 371081607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.545014,29.334125,-98.545014,29.334125",
     "geom:latitude":29.334125,
     "geom:longitude":-98.545014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Abacus Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371081607,
-    "wof:lastmodified":1449049330,
+    "wof:lastmodified":1467084676,
     "wof:name":"Limons Power Cleaning",
     "wof:parent_id":85840355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-98.545014,29.334125,-98.545014,29.334125],
-  "geometry": {"coordinates":[-98.545014,29.334125],"type":"Point"}
+  "bbox": [
+    -98.545014,
+    29.334125,
+    -98.545014,
+    29.334125
+],
+  "geometry": {"coordinates":[-98.54501399999999,29.334125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353855713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430225,27.730846,-97.430225,27.730846",
     "geom:latitude":27.730846,
     "geom:longitude":-97.430225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 Ayers St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353855713,
-    "wof:lastmodified":1449020125,
+    "wof:lastmodified":1467084362,
     "wof:name":"LA Taquaria Victoria",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.430225,27.730846,-97.430225,27.730846],
-  "geometry": {"coordinates":[-97.430225,27.730846],"type":"Point"}
+  "bbox": [
+    -97.430225,
+    27.730846,
+    -97.430225,
+    27.730846
+],
+  "geometry": {"coordinates":[-97.43022499999999,27.730846],"type":"Point"}
 }

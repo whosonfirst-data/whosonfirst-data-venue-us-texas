@@ -2,13 +2,14 @@
   "id": 370573305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82415,32.760446,-96.82415,32.760446",
     "geom:latitude":32.760446,
     "geom:longitude":-96.82415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Stemmons Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370573305,
-    "wof:lastmodified":1449031591,
+    "wof:lastmodified":1467084532,
     "wof:name":"Austin Commercial",
     "wof:parent_id":85897331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.82415,32.760446,-96.82415,32.760446],
+  "bbox": [
+    -96.82415,
+    32.760446,
+    -96.82415,
+    32.760446
+],
   "geometry": {"coordinates":[-96.82415,32.760446],"type":"Point"}
 }

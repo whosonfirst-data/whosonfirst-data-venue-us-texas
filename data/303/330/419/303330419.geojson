@@ -2,13 +2,14 @@
   "id": 303330419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757105,30.264334,-97.757105,30.264334",
     "geom:latitude":30.264334,
     "geom:longitude":-97.757105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Lamar Blvd Ste 202",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303330419,
-    "wof:lastmodified":1448999338,
+    "wof:lastmodified":1467083752,
     "wof:name":"P T Bodyworks",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.757105,30.264334,-97.757105,30.264334],
+  "bbox": [
+    -97.757105,
+    30.264334,
+    -97.757105,
+    30.264334
+],
   "geometry": {"coordinates":[-97.757105,30.264334],"type":"Point"}
 }

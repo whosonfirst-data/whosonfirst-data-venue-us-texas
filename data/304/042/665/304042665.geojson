@@ -2,13 +2,14 @@
   "id": 304042665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.730599,32.460647,-99.730599,32.460647",
     "geom:latitude":32.460647,
     "geom:longitude":-99.730599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Walnut St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":304042665,
-    "wof:lastmodified":1449044020,
+    "wof:lastmodified":1467084668,
     "wof:name":"A A A Sewer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-99.730599,32.460647,-99.730599,32.460647],
+  "bbox": [
+    -99.730599,
+    32.460647,
+    -99.730599,
+    32.460647
+],
   "geometry": {"coordinates":[-99.730599,32.460647],"type":"Point"}
 }

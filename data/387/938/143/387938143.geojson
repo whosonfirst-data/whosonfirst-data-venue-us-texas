@@ -2,13 +2,14 @@
   "id": 387938143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.290326,29.715645,-95.290326,29.715645",
     "geom:latitude":29.715645,
     "geom:longitude":-95.290326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Evergreen Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387938143,
-    "wof:lastmodified":1449058944,
+    "wof:lastmodified":1467084857,
     "wof:name":"Juanita's Bar",
     "wof:parent_id":85869409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "establishment"
     ]
 },
-  "bbox": [-95.290326,29.715645,-95.290326,29.715645],
-  "geometry": {"coordinates":[-95.290326,29.715645],"type":"Point"}
+  "bbox": [
+    -95.290326,
+    29.715645,
+    -95.290326,
+    29.715645
+],
+  "geometry": {"coordinates":[-95.29032599999999,29.715645],"type":"Point"}
 }

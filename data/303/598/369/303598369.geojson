@@ -2,13 +2,14 @@
   "id": 303598369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.807865,30.227612,-97.807865,30.227612",
     "geom:latitude":30.227612,
     "geom:longitude":-97.807865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5207 Brodie Ln Ste 170",
     "sg:city":"Sunset Valley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303598369,
-    "wof:lastmodified":1448998249,
+    "wof:lastmodified":1467083698,
     "wof:name":"PetSmart",
     "wof:parent_id":85869967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-97.807865,30.227612,-97.807865,30.227612],
-  "geometry": {"coordinates":[-97.807865,30.227612],"type":"Point"}
+  "bbox": [
+    -97.807865,
+    30.227612,
+    -97.807865,
+    30.227612
+],
+  "geometry": {"coordinates":[-97.80786500000001,30.227612],"type":"Point"}
 }

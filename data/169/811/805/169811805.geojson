@@ -2,13 +2,14 @@
   "id": 169811805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.054186,32.752362,-97.054186,32.752362",
     "geom:latitude":32.752362,
     "geom:longitude":-97.054186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"763 109th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169811805,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1467084563,
     "wof:name":"STM Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sweeper"
     ]
 },
-  "bbox": [-97.054186,32.752362,-97.054186,32.752362],
+  "bbox": [
+    -97.054186,
+    32.752362,
+    -97.054186,
+    32.752362
+],
   "geometry": {"coordinates":[-97.054186,32.752362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203035107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.843115,33.580909,-101.843115,33.580909",
     "geom:latitude":33.580909,
     "geom:longitude":-101.843115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Ave G",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203035107,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1467084413,
     "wof:name":"US Postal Service",
     "wof:parent_id":85878777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-101.843115,33.580909,-101.843115,33.580909],
+  "bbox": [
+    -101.843115,
+    33.580909,
+    -101.843115,
+    33.580909
+],
   "geometry": {"coordinates":[-101.843115,33.580909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253696687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351103,32.586103,-97.351103,32.586103",
     "geom:latitude":32.586103,
     "geom:longitude":-97.351103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 S Crowley Rd",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253696687,
-    "wof:lastmodified":1449063040,
+    "wof:lastmodified":1467084952,
     "wof:name":"Dish Network Retailer",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cable"
     ]
 },
-  "bbox": [-97.351103,32.586103,-97.351103,32.586103],
-  "geometry": {"coordinates":[-97.351103,32.586103],"type":"Point"}
+  "bbox": [
+    -97.351103,
+    32.586103,
+    -97.351103,
+    32.586103
+],
+  "geometry": {"coordinates":[-97.35110299999999,32.586103],"type":"Point"}
 }

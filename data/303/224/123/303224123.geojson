@@ -2,13 +2,14 @@
   "id": 303224123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746159,30.267993,-97.746159,30.267993",
     "geom:latitude":30.267993,
     "geom:longitude":-97.746159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W 5th St Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303224123,
-    "wof:lastmodified":1448999905,
+    "wof:lastmodified":1467083780,
     "wof:name":"Koehler-Barton Insurance Agency",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.746159,30.267993,-97.746159,30.267993],
-  "geometry": {"coordinates":[-97.746159,30.267993],"type":"Point"}
+  "bbox": [
+    -97.746159,
+    30.267993,
+    -97.746159,
+    30.267993
+],
+  "geometry": {"coordinates":[-97.74615900000001,30.267993],"type":"Point"}
 }

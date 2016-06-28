@@ -2,13 +2,14 @@
   "id": 203015227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970233,30.144903,-97.970233,30.144903",
     "geom:latitude":30.144903,
     "geom:longitude":-97.970233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16402 Westview Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203015227,
-    "wof:lastmodified":1449025363,
+    "wof:lastmodified":1467084392,
     "wof:name":"Dekle Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.970233,30.144903,-97.970233,30.144903],
-  "geometry": {"coordinates":[-97.970233,30.144903],"type":"Point"}
+  "bbox": [
+    -97.970233,
+    30.144903,
+    -97.970233,
+    30.144903
+],
+  "geometry": {"coordinates":[-97.97023299999999,30.144903],"type":"Point"}
 }

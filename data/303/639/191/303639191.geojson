@@ -2,13 +2,14 @@
   "id": 303639191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.791796,30.165314,-97.791796,30.165314",
     "geom:latitude":30.165314,
     "geom:longitude":-97.791796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 S Interstate Hwy 35 Ste G",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303639191,
-    "wof:lastmodified":1449000555,
+    "wof:lastmodified":1467083812,
     "wof:name":"Dr. Yen Doan",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.791796,30.165314,-97.791796,30.165314],
-  "geometry": {"coordinates":[-97.791796,30.165314],"type":"Point"}
+  "bbox": [
+    -97.791796,
+    30.165314,
+    -97.791796,
+    30.165314
+],
+  "geometry": {"coordinates":[-97.79179600000001,30.165314],"type":"Point"}
 }

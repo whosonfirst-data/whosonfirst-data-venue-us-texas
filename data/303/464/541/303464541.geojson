@@ -2,13 +2,14 @@
   "id": 303464541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757239,30.360778,-97.757239,30.360778",
     "geom:latitude":30.360778,
     "geom:longitude":-97.757239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 Greystone Dr",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303464541,
-    "wof:lastmodified":1448998769,
+    "wof:lastmodified":1467083724,
     "wof:name":"Ben Cook CPA",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.757239,30.360778,-97.757239,30.360778],
+  "bbox": [
+    -97.757239,
+    30.360778,
+    -97.757239,
+    30.360778
+],
   "geometry": {"coordinates":[-97.757239,30.360778],"type":"Point"}
 }

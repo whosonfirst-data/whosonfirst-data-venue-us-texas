@@ -2,13 +2,14 @@
   "id": 370602437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743049,30.305197,-97.743049,30.305197",
     "geom:latitude":30.305197,
     "geom:longitude":-97.743049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W 38th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370602437,
-    "wof:lastmodified":1449030684,
+    "wof:lastmodified":1467084509,
     "wof:name":"Winternals Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.743049,30.305197,-97.743049,30.305197],
+  "bbox": [
+    -97.743049,
+    30.305197,
+    -97.743049,
+    30.305197
+],
   "geometry": {"coordinates":[-97.743049,30.305197],"type":"Point"}
 }

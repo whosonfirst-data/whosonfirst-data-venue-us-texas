@@ -2,13 +2,14 @@
   "id": 403817487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.636453,32.719413,-96.636453,32.719413",
     "geom:latitude":32.719413,
     "geom:longitude":-96.636453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10948 Elam Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403817487,
-    "wof:lastmodified":1449055696,
+    "wof:lastmodified":1467084774,
     "wof:name":"Transmission Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-96.636453,32.719413,-96.636453,32.719413],
+  "bbox": [
+    -96.636453,
+    32.719413,
+    -96.636453,
+    32.719413
+],
   "geometry": {"coordinates":[-96.636453,32.719413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186006261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.894895,31.306371,-96.894895,31.306371",
     "geom:latitude":31.306371,
     "geom:longitude":-96.894895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Live Oak St",
     "sg:city":"Marlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186006261,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1467084735,
     "wof:name":"Health Dept WIC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-96.894895,31.306371,-96.894895,31.306371],
-  "geometry": {"coordinates":[-96.894895,31.306371],"type":"Point"}
+  "bbox": [
+    -96.894895,
+    31.306371,
+    -96.894895,
+    31.306371
+],
+  "geometry": {"coordinates":[-96.89489500000001,31.306371],"type":"Point"}
 }

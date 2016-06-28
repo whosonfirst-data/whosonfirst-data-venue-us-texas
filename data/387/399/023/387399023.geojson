@@ -2,13 +2,14 @@
   "id": 387399023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.61173,32.880075,-96.61173,32.880075",
     "geom:latitude":32.880075,
     "geom:longitude":-96.61173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 Merrimac Trl",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387399023,
-    "wof:lastmodified":1449056774,
+    "wof:lastmodified":1467084801,
     "wof:name":"Med Team Reimbursement Svc",
     "wof:parent_id":85877693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.61173,32.880075,-96.61173,32.880075],
-  "geometry": {"coordinates":[-96.61173,32.880075],"type":"Point"}
+  "bbox": [
+    -96.61173,
+    32.880075,
+    -96.61173,
+    32.880075
+],
+  "geometry": {"coordinates":[-96.61172999999999,32.880075],"type":"Point"}
 }

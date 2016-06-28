@@ -2,13 +2,14 @@
   "id": 387686699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.321042,32.324945,-95.321042,32.324945",
     "geom:latitude":32.324945,
     "geom:longitude":-95.321042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Old Noonday Rd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387686699,
-    "wof:lastmodified":1449058985,
+    "wof:lastmodified":1467084858,
     "wof:name":"East Texas Crisis Ctr",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "intervention"
     ]
 },
-  "bbox": [-95.321042,32.324945,-95.321042,32.324945],
-  "geometry": {"coordinates":[-95.321042,32.324945],"type":"Point"}
+  "bbox": [
+    -95.321042,
+    32.324945,
+    -95.321042,
+    32.324945
+],
+  "geometry": {"coordinates":[-95.32104200000001,32.324945],"type":"Point"}
 }

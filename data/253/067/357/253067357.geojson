@@ -2,13 +2,14 @@
   "id": 253067357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.449221,34.120552,-101.449221,34.120552",
     "geom:latitude":34.120552,
     "geom:longitude":-101.449221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Willow St",
     "sg:city":"Lockney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253067357,
-    "wof:lastmodified":1449063014,
+    "wof:lastmodified":1467084951,
     "wof:name":"Residence Record",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.449221,34.120552,-101.449221,34.120552],
-  "geometry": {"coordinates":[-101.449221,34.120552],"type":"Point"}
+  "bbox": [
+    -101.449221,
+    34.120552,
+    -101.449221,
+    34.120552
+],
+  "geometry": {"coordinates":[-101.44922099999999,34.120552],"type":"Point"}
 }

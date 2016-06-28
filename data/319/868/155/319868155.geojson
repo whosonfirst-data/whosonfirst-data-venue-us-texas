@@ -2,13 +2,14 @@
   "id": 319868155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619003,31.885799,-106.619003,31.885799",
     "geom:latitude":31.885799,
     "geom:longitude":-106.619003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Borderland Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319868155,
-    "wof:lastmodified":1449024132,
+    "wof:lastmodified":1467084378,
     "wof:name":"Westside Baptist Temple Academy",
     "wof:parent_id":85882363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.619003,31.885799,-106.619003,31.885799],
-  "geometry": {"coordinates":[-106.619003,31.885799],"type":"Point"}
+  "bbox": [
+    -106.619003,
+    31.885799,
+    -106.619003,
+    31.885799
+],
+  "geometry": {"coordinates":[-106.61900300000001,31.885799],"type":"Point"}
 }

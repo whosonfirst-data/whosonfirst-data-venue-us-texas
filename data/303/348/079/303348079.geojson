@@ -2,13 +2,14 @@
   "id": 303348079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.755255,30.248327,-97.755255,30.248327",
     "geom:latitude":30.248327,
     "geom:longitude":-97.755255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 S 1st St next to Jovitas",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303348079,
-    "wof:lastmodified":1448998225,
+    "wof:lastmodified":1467083696,
     "wof:name":"Mary's Cubana",
     "wof:parent_id":85893501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.755255,30.248327,-97.755255,30.248327],
-  "geometry": {"coordinates":[-97.755255,30.248327],"type":"Point"}
+  "bbox": [
+    -97.755255,
+    30.248327,
+    -97.755255,
+    30.248327
+],
+  "geometry": {"coordinates":[-97.75525500000001,30.248327],"type":"Point"}
 }

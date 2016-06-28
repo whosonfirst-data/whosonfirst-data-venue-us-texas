@@ -2,13 +2,14 @@
   "id": 202515747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.365421,31.7759,-106.365421,31.7759",
     "geom:latitude":31.7759,
     "geom:longitude":-106.365421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9329 Turrentine Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202515747,
-    "wof:lastmodified":1449060694,
+    "wof:lastmodified":1467084900,
     "wof:name":"Border Rats",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.365421,31.7759,-106.365421,31.7759],
+  "bbox": [
+    -106.365421,
+    31.7759,
+    -106.365421,
+    31.7759
+],
   "geometry": {"coordinates":[-106.365421,31.7759],"type":"Point"}
 }

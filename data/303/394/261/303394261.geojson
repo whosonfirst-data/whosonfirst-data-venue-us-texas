@@ -2,13 +2,14 @@
   "id": 303394261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.864381,30.234177,-97.864381,30.234177",
     "geom:latitude":30.234177,
     "geom:longitude":-97.864381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6375 Hwy 290 E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303394261,
-    "wof:lastmodified":1448998587,
+    "wof:lastmodified":1467083715,
     "wof:name":"Roger Beasley Volvo",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.864381,30.234177,-97.864381,30.234177],
-  "geometry": {"coordinates":[-97.864381,30.234177],"type":"Point"}
+  "bbox": [
+    -97.864381,
+    30.234177,
+    -97.864381,
+    30.234177
+],
+  "geometry": {"coordinates":[-97.86438099999999,30.234177],"type":"Point"}
 }

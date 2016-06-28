@@ -2,13 +2,14 @@
   "id": 286499293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.549793,30.697203,-95.549793,30.697203",
     "geom:latitude":30.697203,
     "geom:longitude":-95.549793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Montgomery Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286499293,
-    "wof:lastmodified":1449015723,
+    "wof:lastmodified":1467084251,
     "wof:name":"Drainco",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-95.549793,30.697203,-95.549793,30.697203],
-  "geometry": {"coordinates":[-95.549793,30.697203],"type":"Point"}
+  "bbox": [
+    -95.549793,
+    30.697203,
+    -95.549793,
+    30.697203
+],
+  "geometry": {"coordinates":[-95.54979299999999,30.697203],"type":"Point"}
 }

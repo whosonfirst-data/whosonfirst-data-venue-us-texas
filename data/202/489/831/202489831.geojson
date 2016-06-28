@@ -2,13 +2,14 @@
   "id": 202489831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.459768,29.381172,-98.459768,29.381172",
     "geom:latitude":29.381172,
     "geom:longitude":-98.459768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Ada St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202489831,
-    "wof:lastmodified":1449061499,
+    "wof:lastmodified":1467084917,
     "wof:name":"University Family Health Ctr",
     "wof:parent_id":85871089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.459768,29.381172,-98.459768,29.381172],
+  "bbox": [
+    -98.459768,
+    29.381172,
+    -98.459768,
+    29.381172
+],
   "geometry": {"coordinates":[-98.459768,29.381172],"type":"Point"}
 }

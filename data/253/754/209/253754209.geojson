@@ -2,13 +2,14 @@
   "id": 253754209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.232598,32.657262,-97.232598,32.657262",
     "geom:latitude":32.657262,
     "geom:longitude":-97.232598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 W Kennedale Pkwy",
     "sg:city":"Kennedale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253754209,
-    "wof:lastmodified":1449064779,
+    "wof:lastmodified":1467085012,
     "wof:name":"North Texas Auto",
     "wof:parent_id":85830685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "car"
     ]
 },
-  "bbox": [-97.232598,32.657262,-97.232598,32.657262],
+  "bbox": [
+    -97.232598,
+    32.657262,
+    -97.232598,
+    32.657262
+],
   "geometry": {"coordinates":[-97.232598,32.657262],"type":"Point"}
 }

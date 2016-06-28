@@ -2,13 +2,14 @@
   "id": 220147771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738058,30.357351,-97.738058,30.357351",
     "geom:latitude":30.357351,
     "geom:longitude":-97.738058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Foster Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220147771,
-    "wof:lastmodified":1449074782,
+    "wof:lastmodified":1467085194,
     "wof:name":"Rising Sun",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.738058,30.357351,-97.738058,30.357351],
+  "bbox": [
+    -97.738058,
+    30.357351,
+    -97.738058,
+    30.357351
+],
   "geometry": {"coordinates":[-97.738058,30.357351],"type":"Point"}
 }

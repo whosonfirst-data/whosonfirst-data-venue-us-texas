@@ -2,13 +2,14 @@
   "id": 403956201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149402,30.126022,-94.149402,30.126022",
     "geom:latitude":30.126022,
     "geom:longitude":-94.149402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5680 Concord Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403956201,
-    "wof:lastmodified":1449054858,
+    "wof:lastmodified":1467084755,
     "wof:name":"Concord Manor Apartments",
     "wof:parent_id":85845963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-94.149402,30.126022,-94.149402,30.126022],
-  "geometry": {"coordinates":[-94.149402,30.126022],"type":"Point"}
+  "bbox": [
+    -94.149402,
+    30.126022,
+    -94.149402,
+    30.126022
+],
+  "geometry": {"coordinates":[-94.14940199999999,30.126022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220062133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.465004,33.663404,-95.465004,33.663404",
     "geom:latitude":33.663404,
     "geom:longitude":-95.465004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6495 Lamar Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220062133,
-    "wof:lastmodified":1449074834,
+    "wof:lastmodified":1467085195,
     "wof:name":"Reno Tire & Svc Ctr",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-95.465004,33.663404,-95.465004,33.663404],
-  "geometry": {"coordinates":[-95.465004,33.663404],"type":"Point"}
+  "bbox": [
+    -95.465004,
+    33.663404,
+    -95.465004,
+    33.663404
+],
+  "geometry": {"coordinates":[-95.46500399999999,33.663404],"type":"Point"}
 }

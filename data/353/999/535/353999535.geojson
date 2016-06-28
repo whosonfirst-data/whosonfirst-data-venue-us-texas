@@ -2,13 +2,14 @@
   "id": 353999535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400981,29.709707,-95.400981,29.709707",
     "geom:latitude":29.709707,
     "geom:longitude":-95.400981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Dryden Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353999535,
-    "wof:lastmodified":1449020491,
+    "wof:lastmodified":1467084369,
     "wof:name":"Allied Dental Assoc",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.400981,29.709707,-95.400981,29.709707],
+  "bbox": [
+    -95.400981,
+    29.709707,
+    -95.400981,
+    29.709707
+],
   "geometry": {"coordinates":[-95.400981,29.709707],"type":"Point"}
 }

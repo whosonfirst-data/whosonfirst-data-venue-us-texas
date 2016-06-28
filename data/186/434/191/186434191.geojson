@@ -2,13 +2,14 @@
   "id": 186434191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.577282,29.5165,-98.577282,29.5165",
     "geom:latitude":29.5165,
     "geom:longitude":-98.577282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Ewing Halsell Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186434191,
-    "wof:lastmodified":1449050979,
+    "wof:lastmodified":1467084703,
     "wof:name":"Texas Transplant Institute",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.577282,29.5165,-98.577282,29.5165],
+  "bbox": [
+    -98.577282,
+    29.5165,
+    -98.577282,
+    29.5165
+],
   "geometry": {"coordinates":[-98.577282,29.5165],"type":"Point"}
 }

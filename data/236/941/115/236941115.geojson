@@ -2,13 +2,14 @@
   "id": 236941115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838281,32.802341,-96.838281,32.802341",
     "geom:latitude":32.802341,
     "geom:longitude":-96.838281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 Converse St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236941115,
-    "wof:lastmodified":1449003651,
+    "wof:lastmodified":1467083963,
     "wof:name":"025 Productions",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "exchange"
     ]
 },
-  "bbox": [-96.838281,32.802341,-96.838281,32.802341],
-  "geometry": {"coordinates":[-96.838281,32.802341],"type":"Point"}
+  "bbox": [
+    -96.838281,
+    32.802341,
+    -96.838281,
+    32.802341
+],
+  "geometry": {"coordinates":[-96.83828099999999,32.802341],"type":"Point"}
 }

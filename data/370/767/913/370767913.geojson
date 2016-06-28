@@ -2,13 +2,14 @@
   "id": 370767913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.207999,26.252077,-98.207999,26.252077",
     "geom:latitude":26.252077,
     "geom:longitude":-98.207999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E Dove Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370767913,
-    "wof:lastmodified":1449030076,
+    "wof:lastmodified":1467084494,
     "wof:name":"Advanced Extremity MRI",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.207999,26.252077,-98.207999,26.252077],
+  "bbox": [
+    -98.207999,
+    26.252077,
+    -98.207999,
+    26.252077
+],
   "geometry": {"coordinates":[-98.207999,26.252077],"type":"Point"}
 }

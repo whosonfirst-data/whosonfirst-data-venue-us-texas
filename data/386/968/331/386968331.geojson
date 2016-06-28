@@ -2,13 +2,14 @@
   "id": 386968331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.600519,33.671188,-96.600519,33.671188",
     "geom:latitude":33.671188,
     "geom:longitude":-96.600519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Marseille St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386968331,
-    "wof:lastmodified":1449028648,
+    "wof:lastmodified":1467084458,
     "wof:name":"Bobs Beer & Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-96.600519,33.671188,-96.600519,33.671188],
-  "geometry": {"coordinates":[-96.600519,33.671188],"type":"Point"}
+  "bbox": [
+    -96.600519,
+    33.671188,
+    -96.600519,
+    33.671188
+],
+  "geometry": {"coordinates":[-96.60051900000001,33.671188],"type":"Point"}
 }

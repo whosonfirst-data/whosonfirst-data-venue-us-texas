@@ -2,13 +2,14 @@
   "id": 354132001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698664,33.00745,-96.698664,33.00745",
     "geom:latitude":33.00745,
     "geom:longitude":-96.698664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 E Plano Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354132001,
-    "wof:lastmodified":1449066746,
+    "wof:lastmodified":1467085071,
     "wof:name":"Dallas Security Enforcement",
     "wof:parent_id":85893879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-96.698664,33.00745,-96.698664,33.00745],
-  "geometry": {"coordinates":[-96.698664,33.00745],"type":"Point"}
+  "bbox": [
+    -96.698664,
+    33.00745,
+    -96.698664,
+    33.00745
+],
+  "geometry": {"coordinates":[-96.69866399999999,33.00745],"type":"Point"}
 }

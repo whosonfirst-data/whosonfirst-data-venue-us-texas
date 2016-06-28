@@ -2,13 +2,14 @@
   "id": 387452967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.769408,30.300756,-97.769408,30.300756",
     "geom:latitude":30.300756,
     "geom:longitude":-97.769408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 Greenlee Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387452967,
-    "wof:lastmodified":1449057003,
+    "wof:lastmodified":1467084807,
     "wof:name":"Tom Pollard",
     "wof:parent_id":85867207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.769408,30.300756,-97.769408,30.300756],
+  "bbox": [
+    -97.769408,
+    30.300756,
+    -97.769408,
+    30.300756
+],
   "geometry": {"coordinates":[-97.769408,30.300756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252944257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.901845,32.891553,-96.901845,32.891553",
     "geom:latitude":32.891553,
     "geom:longitude":-96.901845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11252 Goodnight Ln # 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252944257,
-    "wof:lastmodified":1449005958,
+    "wof:lastmodified":1467084078,
     "wof:name":"C & J Systems, Inc",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.901845,32.891553,-96.901845,32.891553],
-  "geometry": {"coordinates":[-96.901845,32.891553],"type":"Point"}
+  "bbox": [
+    -96.901845,
+    32.891553,
+    -96.901845,
+    32.891553
+],
+  "geometry": {"coordinates":[-96.90184499999999,32.891553],"type":"Point"}
 }

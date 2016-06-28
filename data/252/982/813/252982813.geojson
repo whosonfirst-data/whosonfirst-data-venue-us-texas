@@ -2,13 +2,14 @@
   "id": 252982813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730568,32.913066,-96.730568,32.913066",
     "geom:latitude":32.913066,
     "geom:longitude":-96.730568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10440 N Centra Ste 1475",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252982813,
-    "wof:lastmodified":1449005597,
+    "wof:lastmodified":1467084058,
     "wof:name":"People Right",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.730568,32.913066,-96.730568,32.913066],
-  "geometry": {"coordinates":[-96.730568,32.913066],"type":"Point"}
+  "bbox": [
+    -96.730568,
+    32.913066,
+    -96.730568,
+    32.913066
+],
+  "geometry": {"coordinates":[-96.73056800000001,32.913066],"type":"Point"}
 }

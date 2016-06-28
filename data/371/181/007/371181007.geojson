@@ -2,13 +2,14 @@
   "id": 371181007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.321897,29.767428,-95.321897,29.767428",
     "geom:latitude":29.767428,
     "geom:longitude":-95.321897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Edmund St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371181007,
-    "wof:lastmodified":1449049672,
+    "wof:lastmodified":1467084682,
     "wof:name":"Immaculate Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.321897,29.767428,-95.321897,29.767428],
-  "geometry": {"coordinates":[-95.321897,29.767428],"type":"Point"}
+  "bbox": [
+    -95.321897,
+    29.767428,
+    -95.321897,
+    29.767428
+],
+  "geometry": {"coordinates":[-95.32189700000001,29.767428],"type":"Point"}
 }

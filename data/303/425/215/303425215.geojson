@@ -2,13 +2,14 @@
   "id": 303425215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.671095,30.444872,-97.671095,30.444872",
     "geom:latitude":30.444872,
     "geom:longitude":-97.671095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Fleischer Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303425215,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1467083735,
     "wof:name":"Tmo Custom Rod Air & Transmition",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.671095,30.444872,-97.671095,30.444872],
-  "geometry": {"coordinates":[-97.671095,30.444872],"type":"Point"}
+  "bbox": [
+    -97.671095,
+    30.444872,
+    -97.671095,
+    30.444872
+],
+  "geometry": {"coordinates":[-97.67109499999999,30.444872],"type":"Point"}
 }

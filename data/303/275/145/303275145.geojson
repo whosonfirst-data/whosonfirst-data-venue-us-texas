@@ -2,13 +2,14 @@
   "id": 303275145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730646,30.254124,-97.730646,30.254124",
     "geom:latitude":30.254124,
     "geom:longitude":-97.730646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Haskell St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303275145,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1467083731,
     "wof:name":"Schools",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.730646,30.254124,-97.730646,30.254124],
-  "geometry": {"coordinates":[-97.730646,30.254124],"type":"Point"}
+  "bbox": [
+    -97.730646,
+    30.254124,
+    -97.730646,
+    30.254124
+],
+  "geometry": {"coordinates":[-97.73064599999999,30.254124],"type":"Point"}
 }

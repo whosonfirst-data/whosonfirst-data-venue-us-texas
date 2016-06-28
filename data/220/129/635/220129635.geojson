@@ -2,13 +2,14 @@
   "id": 220129635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.307459,32.673285,-97.307459,32.673285",
     "geom:latitude":32.673285,
     "geom:longitude":-97.307459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Circle Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220129635,
-    "wof:lastmodified":1449074687,
+    "wof:lastmodified":1467085191,
     "wof:name":"Tarrant County Juvenile Prbtn",
     "wof:parent_id":85897397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.307459,32.673285,-97.307459,32.673285],
-  "geometry": {"coordinates":[-97.307459,32.673285],"type":"Point"}
+  "bbox": [
+    -97.307459,
+    32.673285,
+    -97.307459,
+    32.673285
+],
+  "geometry": {"coordinates":[-97.30745899999999,32.673285],"type":"Point"}
 }

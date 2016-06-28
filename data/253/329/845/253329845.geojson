@@ -2,13 +2,14 @@
   "id": 253329845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807848,32.778825,-96.807848,32.778825",
     "geom:latitude":32.778825,
     "geom:longitude":-96.807848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Houston St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253329845,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1467084973,
     "wof:name":"Old Red Museum",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.807848,32.778825,-96.807848,32.778825],
-  "geometry": {"coordinates":[-96.807848,32.778825],"type":"Point"}
+  "bbox": [
+    -96.807848,
+    32.778825,
+    -96.807848,
+    32.778825
+],
+  "geometry": {"coordinates":[-96.80784800000001,32.778825],"type":"Point"}
 }

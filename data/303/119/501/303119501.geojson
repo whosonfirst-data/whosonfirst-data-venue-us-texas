@@ -2,13 +2,14 @@
   "id": 303119501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.617179,30.320681,-98.617179,30.320681",
     "geom:latitude":30.320681,
     "geom:longitude":-98.617179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Elm Ridge Rd",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303119501,
-    "wof:lastmodified":1448999866,
+    "wof:lastmodified":1467083779,
     "wof:name":"Fickel Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-98.617179,30.320681,-98.617179,30.320681],
-  "geometry": {"coordinates":[-98.617179,30.320681],"type":"Point"}
+  "bbox": [
+    -98.617179,
+    30.320681,
+    -98.617179,
+    30.320681
+],
+  "geometry": {"coordinates":[-98.61717899999999,30.320681],"type":"Point"}
 }

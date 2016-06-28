@@ -2,13 +2,14 @@
   "id": 203240911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.751128,29.222601,-99.751128,29.222601",
     "geom:latitude":29.222601,
     "geom:longitude":-99.751128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Cottonwood St",
     "sg:city":"Uvalde",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203240911,
-    "wof:lastmodified":1449025136,
+    "wof:lastmodified":1467084388,
     "wof:name":"Pickets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.751128,29.222601,-99.751128,29.222601],
-  "geometry": {"coordinates":[-99.751128,29.222601],"type":"Point"}
+  "bbox": [
+    -99.751128,
+    29.222601,
+    -99.751128,
+    29.222601
+],
+  "geometry": {"coordinates":[-99.75112799999999,29.222601],"type":"Point"}
 }

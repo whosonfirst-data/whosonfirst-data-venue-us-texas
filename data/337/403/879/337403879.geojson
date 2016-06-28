@@ -2,13 +2,14 @@
   "id": 337403879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.330873,32.369698,-95.330873,32.369698",
     "geom:latitude":32.369698,
     "geom:longitude":-95.330873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 W Gentry Pkwy",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337403879,
-    "wof:lastmodified":1449027630,
+    "wof:lastmodified":1467084452,
     "wof:name":"A State Patrol",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-95.330873,32.369698,-95.330873,32.369698],
+  "bbox": [
+    -95.330873,
+    32.369698,
+    -95.330873,
+    32.369698
+],
   "geometry": {"coordinates":[-95.330873,32.369698],"type":"Point"}
 }

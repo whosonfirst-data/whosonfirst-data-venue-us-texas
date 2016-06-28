@@ -2,13 +2,14 @@
   "id": 269633249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726482,33.224324,-97.726482,33.224324",
     "geom:latitude":33.224324,
     "geom:longitude":-97.726482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 US Highway 380",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269633249,
-    "wof:lastmodified":1449038933,
+    "wof:lastmodified":1467084637,
     "wof:name":"Seymore Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-97.726482,33.224324,-97.726482,33.224324],
+  "bbox": [
+    -97.726482,
+    33.224324,
+    -97.726482,
+    33.224324
+],
   "geometry": {"coordinates":[-97.726482,33.224324],"type":"Point"}
 }

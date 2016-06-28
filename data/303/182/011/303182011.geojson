@@ -2,13 +2,14 @@
   "id": 303182011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620207,30.440739,-97.620207,30.440739",
     "geom:latitude":30.440739,
     "geom:longitude":-97.620207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Main St",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303182011,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1467083769,
     "wof:name":"Direct Pflugerville Satellite TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cable"
     ]
 },
-  "bbox": [-97.620207,30.440739,-97.620207,30.440739],
-  "geometry": {"coordinates":[-97.620207,30.440739],"type":"Point"}
+  "bbox": [
+    -97.620207,
+    30.440739,
+    -97.620207,
+    30.440739
+],
+  "geometry": {"coordinates":[-97.62020699999999,30.440739],"type":"Point"}
 }

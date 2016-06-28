@@ -2,13 +2,14 @@
   "id": 203404385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.120724,30.069028,-94.120724,30.069028",
     "geom:latitude":30.069028,
     "geom:longitude":-94.120724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Hospital Dr",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203404385,
-    "wof:lastmodified":1449026238,
+    "wof:lastmodified":1467084409,
     "wof:name":"Center For Venous Problems",
     "wof:parent_id":85856043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.120724,30.069028,-94.120724,30.069028],
+  "bbox": [
+    -94.120724,
+    30.069028,
+    -94.120724,
+    30.069028
+],
   "geometry": {"coordinates":[-94.120724,30.069028],"type":"Point"}
 }

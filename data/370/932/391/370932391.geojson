@@ -2,13 +2,14 @@
   "id": 370932391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.228885,33.138073,-100.228885,33.138073",
     "geom:latitude":33.138073,
     "geom:longitude":-100.228885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 S Washington",
     "sg:city":"Aspermont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370932391,
-    "wof:lastmodified":1449030340,
+    "wof:lastmodified":1467084500,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.228885,33.138073,-100.228885,33.138073],
-  "geometry": {"coordinates":[-100.228885,33.138073],"type":"Point"}
+  "bbox": [
+    -100.228885,
+    33.138073,
+    -100.228885,
+    33.138073
+],
+  "geometry": {"coordinates":[-100.22888500000001,33.138073],"type":"Point"}
 }

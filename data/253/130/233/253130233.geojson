@@ -2,13 +2,14 @@
   "id": 253130233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769616,32.691891,-96.769616,32.691891",
     "geom:latitude":32.691891,
     "geom:longitude":-96.769616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Stag Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253130233,
-    "wof:lastmodified":1449063846,
+    "wof:lastmodified":1467084980,
     "wof:name":"Schools",
     "wof:parent_id":85870469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.769616,32.691891,-96.769616,32.691891],
+  "bbox": [
+    -96.769616,
+    32.691891,
+    -96.769616,
+    32.691891
+],
   "geometry": {"coordinates":[-96.769616,32.691891],"type":"Point"}
 }

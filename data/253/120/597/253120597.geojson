@@ -2,13 +2,14 @@
   "id": 253120597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.817111,32.93384,-96.817111,32.93384",
     "geom:latitude":32.93384,
     "geom:longitude":-96.817111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Village on the Green Center, Ste 10 5301 Alpha Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253120597,
-    "wof:lastmodified":1449065352,
+    "wof:lastmodified":1467085032,
     "wof:name":"BoConcept",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-96.817111,32.93384,-96.817111,32.93384],
+  "bbox": [
+    -96.817111,
+    32.93384,
+    -96.817111,
+    32.93384
+],
   "geometry": {"coordinates":[-96.817111,32.93384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337395179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.774117,30.247419,-97.774117,30.247419",
     "geom:latitude":30.247419,
     "geom:longitude":-97.774117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Lamar Blvd Ste 107",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337395179,
-    "wof:lastmodified":1449027628,
+    "wof:lastmodified":1467084452,
     "wof:name":"Andrew Tacs",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "solar"
     ]
 },
-  "bbox": [-97.774117,30.247419,-97.774117,30.247419],
+  "bbox": [
+    -97.774117,
+    30.247419,
+    -97.774117,
+    30.247419
+],
   "geometry": {"coordinates":[-97.774117,30.247419],"type":"Point"}
 }

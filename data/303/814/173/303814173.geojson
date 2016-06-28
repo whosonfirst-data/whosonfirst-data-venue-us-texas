@@ -2,13 +2,14 @@
   "id": 303814173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751775,30.372615,-97.751775,30.372615",
     "geom:latitude":30.372615,
     "geom:longitude":-97.751775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3933 Steck Ave Ste B110",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303814173,
-    "wof:lastmodified":1448998565,
+    "wof:lastmodified":1467083713,
     "wof:name":"Tarica Navarro Interior Design",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.751775,30.372615,-97.751775,30.372615],
-  "geometry": {"coordinates":[-97.751775,30.372615],"type":"Point"}
+  "bbox": [
+    -97.751775,
+    30.372615,
+    -97.751775,
+    30.372615
+],
+  "geometry": {"coordinates":[-97.75177499999999,30.372615],"type":"Point"}
 }

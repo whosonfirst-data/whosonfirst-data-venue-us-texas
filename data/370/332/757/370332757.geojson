@@ -2,13 +2,14 @@
   "id": 370332757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.649825,32.495351,-94.649825,32.495351",
     "geom:latitude":32.495351,
     "geom:longitude":-94.649825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Brookhaven Dr",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370332757,
-    "wof:lastmodified":1449030948,
+    "wof:lastmodified":1467084516,
     "wof:name":"Abels Stables",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.649825,32.495351,-94.649825,32.495351],
-  "geometry": {"coordinates":[-94.649825,32.495351],"type":"Point"}
+  "bbox": [
+    -94.649825,
+    32.495351,
+    -94.649825,
+    32.495351
+],
+  "geometry": {"coordinates":[-94.64982500000001,32.495351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508574,29.670665,-95.508574,29.670665",
     "geom:latitude":29.670665,
     "geom:longitude":-95.508574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387725053,
-    "wof:lastmodified":1449057028,
+    "wof:lastmodified":1467084807,
     "wof:name":"Special Care",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.508574,29.670665,-95.508574,29.670665],
+  "bbox": [
+    -95.508574,
+    29.670665,
+    -95.508574,
+    29.670665
+],
   "geometry": {"coordinates":[-95.508574,29.670665],"type":"Point"}
 }

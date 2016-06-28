@@ -2,13 +2,14 @@
   "id": 185663615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.81269,32.819757,-96.81269,32.819757",
     "geom:latitude":32.819757,
     "geom:longitude":-96.81269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 Bowser Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185663615,
-    "wof:lastmodified":1449007779,
+    "wof:lastmodified":1467084132,
     "wof:name":"Manhattan Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.81269,32.819757,-96.81269,32.819757],
+  "bbox": [
+    -96.81269,
+    32.819757,
+    -96.81269,
+    32.819757
+],
   "geometry": {"coordinates":[-96.81269,32.819757],"type":"Point"}
 }

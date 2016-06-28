@@ -2,13 +2,14 @@
   "id": 236353933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.32631,32.705791,-97.32631,32.705791",
     "geom:latitude":32.705791,
     "geom:longitude":-97.32631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 S Main St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236353933,
-    "wof:lastmodified":1449002420,
+    "wof:lastmodified":1467083906,
     "wof:name":"B & G Carpets Inc",
     "wof:parent_id":85871643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-97.32631,32.705791,-97.32631,32.705791],
-  "geometry": {"coordinates":[-97.32631,32.705791],"type":"Point"}
+  "bbox": [
+    -97.32631,
+    32.705791,
+    -97.32631,
+    32.705791
+],
+  "geometry": {"coordinates":[-97.32631000000001,32.705791],"type":"Point"}
 }

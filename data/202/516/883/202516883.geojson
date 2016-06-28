@@ -2,13 +2,14 @@
   "id": 202516883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.135325,30.042555,-99.135325,30.042555",
     "geom:latitude":30.042555,
     "geom:longitude":-99.135325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Broadway",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202516883,
-    "wof:lastmodified":1449060600,
+    "wof:lastmodified":1467084898,
     "wof:name":"Ol Waterin Hole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-99.135325,30.042555,-99.135325,30.042555],
-  "geometry": {"coordinates":[-99.135325,30.042555],"type":"Point"}
+  "bbox": [
+    -99.135325,
+    30.042555,
+    -99.135325,
+    30.042555
+],
+  "geometry": {"coordinates":[-99.13532499999999,30.042555],"type":"Point"}
 }

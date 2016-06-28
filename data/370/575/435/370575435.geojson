@@ -2,13 +2,14 @@
   "id": 370575435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.449925,29.531285,-98.449925,29.531285",
     "geom:latitude":29.531285,
     "geom:longitude":-98.449925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10015 Broadway",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370575435,
-    "wof:lastmodified":1449030087,
+    "wof:lastmodified":1467084494,
     "wof:name":"Re/Max Pearland-Silverlake",
     "wof:parent_id":85837787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.449925,29.531285,-98.449925,29.531285],
-  "geometry": {"coordinates":[-98.449925,29.531285],"type":"Point"}
+  "bbox": [
+    -98.449925,
+    29.531285,
+    -98.449925,
+    29.531285
+],
+  "geometry": {"coordinates":[-98.44992499999999,29.531285],"type":"Point"}
 }

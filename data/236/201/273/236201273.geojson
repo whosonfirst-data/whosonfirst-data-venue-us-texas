@@ -2,13 +2,14 @@
   "id": 236201273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963203,32.880402,-96.963203,32.880402",
     "geom:latitude":32.880402,
     "geom:longitude":-96.963203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 N MacArthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236201273,
-    "wof:lastmodified":1449004714,
+    "wof:lastmodified":1467084013,
     "wof:name":"Walgreens the Pharmacy America Trusts",
     "wof:parent_id":85878321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-96.963203,32.880402,-96.963203,32.880402],
-  "geometry": {"coordinates":[-96.963203,32.880402],"type":"Point"}
+  "bbox": [
+    -96.963203,
+    32.880402,
+    -96.963203,
+    32.880402
+],
+  "geometry": {"coordinates":[-96.96320299999999,32.880402],"type":"Point"}
 }

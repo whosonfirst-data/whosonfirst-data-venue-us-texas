@@ -2,13 +2,14 @@
   "id": 185990001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334955,31.136847,-99.334955,31.136847",
     "geom:latitude":31.136847,
     "geom:longitude":-99.334955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 US Hwy 190",
     "sg:city":"Brady",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185990001,
-    "wof:lastmodified":1449007671,
+    "wof:lastmodified":1467084130,
     "wof:name":"T M Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.334955,31.136847,-99.334955,31.136847],
-  "geometry": {"coordinates":[-99.334955,31.136847],"type":"Point"}
+  "bbox": [
+    -99.334955,
+    31.136847,
+    -99.334955,
+    31.136847
+],
+  "geometry": {"coordinates":[-99.33495499999999,31.136847],"type":"Point"}
 }

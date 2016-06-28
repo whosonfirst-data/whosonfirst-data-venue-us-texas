@@ -2,13 +2,14 @@
   "id": 303310583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739899,30.237995,-97.739899,30.237995",
     "geom:latitude":30.237995,
     "geom:longitude":-97.739899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Mariposa Dr Apt 226",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303310583,
-    "wof:lastmodified":1448999625,
+    "wof:lastmodified":1467083767,
     "wof:name":"Graceful Healing",
     "wof:parent_id":85869951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rest"
     ]
 },
-  "bbox": [-97.739899,30.237995,-97.739899,30.237995],
-  "geometry": {"coordinates":[-97.739899,30.237995],"type":"Point"}
+  "bbox": [
+    -97.739899,
+    30.237995,
+    -97.739899,
+    30.237995
+],
+  "geometry": {"coordinates":[-97.73989899999999,30.237995],"type":"Point"}
 }

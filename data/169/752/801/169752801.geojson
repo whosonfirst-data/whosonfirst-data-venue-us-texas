@@ -2,13 +2,14 @@
   "id": 169752801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.329236,29.853317,-95.329236,29.853317",
     "geom:latitude":29.853317,
     "geom:longitude":-95.329236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3829 Hage St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169752801,
-    "wof:lastmodified":1449033250,
+    "wof:lastmodified":1467084560,
     "wof:name":"Valdez Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-95.329236,29.853317,-95.329236,29.853317],
-  "geometry": {"coordinates":[-95.329236,29.853317],"type":"Point"}
+  "bbox": [
+    -95.329236,
+    29.853317,
+    -95.329236,
+    29.853317
+],
+  "geometry": {"coordinates":[-95.32923599999999,29.853317],"type":"Point"}
 }

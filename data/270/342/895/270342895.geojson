@@ -2,13 +2,14 @@
   "id": 270342895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.439563,29.588182,-95.439563,29.588182",
     "geom:latitude":29.588182,
     "geom:longitude":-95.439563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 Bluebonnet Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270342895,
-    "wof:lastmodified":1449010933,
+    "wof:lastmodified":1467084226,
     "wof:name":"HomeTeam Pest Defense",
     "wof:parent_id":85869253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.439563,29.588182,-95.439563,29.588182],
-  "geometry": {"coordinates":[-95.439563,29.588182],"type":"Point"}
+  "bbox": [
+    -95.439563,
+    29.588182,
+    -95.439563,
+    29.588182
+],
+  "geometry": {"coordinates":[-95.43956300000001,29.588182],"type":"Point"}
 }

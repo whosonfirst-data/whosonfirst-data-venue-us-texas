@@ -2,13 +2,14 @@
   "id": 203218953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.759683,32.376402,-99.759683,32.376402",
     "geom:latitude":32.376402,
     "geom:longitude":-99.759683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Fairway Oaks Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203218953,
-    "wof:lastmodified":1449026173,
+    "wof:lastmodified":1467084408,
     "wof:name":"Fairway Oaks Country Club",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-99.759683,32.376402,-99.759683,32.376402],
+  "bbox": [
+    -99.759683,
+    32.376402,
+    -99.759683,
+    32.376402
+],
   "geometry": {"coordinates":[-99.759683,32.376402],"type":"Point"}
 }

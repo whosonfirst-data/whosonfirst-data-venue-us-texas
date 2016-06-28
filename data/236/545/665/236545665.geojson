@@ -2,13 +2,14 @@
   "id": 236545665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795921,33.027546,-96.795921,33.027546",
     "geom:latitude":33.027546,
     "geom:longitude":-96.795921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5013 W Park Blvd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236545665,
-    "wof:lastmodified":1449002275,
+    "wof:lastmodified":1467083898,
     "wof:name":"Steve Fields' Steak and Lobster Lounge",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "steakhouse"
     ]
 },
-  "bbox": [-96.795921,33.027546,-96.795921,33.027546],
-  "geometry": {"coordinates":[-96.795921,33.027546],"type":"Point"}
+  "bbox": [
+    -96.795921,
+    33.027546,
+    -96.795921,
+    33.027546
+],
+  "geometry": {"coordinates":[-96.79592100000001,33.027546],"type":"Point"}
 }

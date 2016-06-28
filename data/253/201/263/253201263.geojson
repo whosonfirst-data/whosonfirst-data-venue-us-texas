@@ -2,13 +2,14 @@
   "id": 253201263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86417,32.816567,-96.86417,32.816567",
     "geom:latitude":32.816567,
     "geom:longitude":-96.86417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 River Bend Dr Ste 202",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253201263,
-    "wof:lastmodified":1449065380,
+    "wof:lastmodified":1467085033,
     "wof:name":"State of Texas",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-96.86417,32.816567,-96.86417,32.816567],
+  "bbox": [
+    -96.86417,
+    32.816567,
+    -96.86417,
+    32.816567
+],
   "geometry": {"coordinates":[-96.86417,32.816567],"type":"Point"}
 }

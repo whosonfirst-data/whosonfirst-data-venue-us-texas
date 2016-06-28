@@ -2,13 +2,14 @@
   "id": 202517801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474811,29.409227,-98.474811,29.409227",
     "geom:latitude":29.409227,
     "geom:longitude":-98.474811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Mesquite St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202517801,
-    "wof:lastmodified":1449061549,
+    "wof:lastmodified":1467084918,
     "wof:name":"St Michael's Hall",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-98.474811,29.409227,-98.474811,29.409227],
+  "bbox": [
+    -98.474811,
+    29.409227,
+    -98.474811,
+    29.409227
+],
   "geometry": {"coordinates":[-98.474811,29.409227],"type":"Point"}
 }

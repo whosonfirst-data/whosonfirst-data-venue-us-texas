@@ -2,13 +2,14 @@
   "id": 220200143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.195534,30.07352,-95.195534,30.07352",
     "geom:latitude":30.07352,
     "geom:longitude":-95.195534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Glen Springs Dr",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220200143,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1467085184,
     "wof:name":"My Own Sauce",
     "wof:parent_id":85828487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.195534,30.07352,-95.195534,30.07352],
-  "geometry": {"coordinates":[-95.195534,30.07352],"type":"Point"}
+  "bbox": [
+    -95.195534,
+    30.07352,
+    -95.195534,
+    30.07352
+],
+  "geometry": {"coordinates":[-95.19553399999999,30.07352],"type":"Point"}
 }

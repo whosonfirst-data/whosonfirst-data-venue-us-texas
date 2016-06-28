@@ -2,13 +2,14 @@
   "id": 303705001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719597,30.32238,-97.719597,30.32238",
     "geom:latitude":30.32238,
     "geom:longitude":-97.719597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Koenig Ln",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303705001,
-    "wof:lastmodified":1449000580,
+    "wof:lastmodified":1467083813,
     "wof:name":"Parker Beauty Supply Inc",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.719597,30.32238,-97.719597,30.32238],
-  "geometry": {"coordinates":[-97.719597,30.32238],"type":"Point"}
+  "bbox": [
+    -97.719597,
+    30.32238,
+    -97.719597,
+    30.32238
+],
+  "geometry": {"coordinates":[-97.71959699999999,30.32238],"type":"Point"}
 }

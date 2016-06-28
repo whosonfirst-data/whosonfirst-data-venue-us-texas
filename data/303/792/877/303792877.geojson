@@ -2,13 +2,14 @@
   "id": 303792877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707947,30.374329,-97.707947,30.374329",
     "geom:latitude":30.374329,
     "geom:longitude":-97.707947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 Oak Run Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303792877,
-    "wof:lastmodified":1448998640,
+    "wof:lastmodified":1467083717,
     "wof:name":"Alice Plumbing",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.707947,30.374329,-97.707947,30.374329],
+  "bbox": [
+    -97.707947,
+    30.374329,
+    -97.707947,
+    30.374329
+],
   "geometry": {"coordinates":[-97.707947,30.374329],"type":"Point"}
 }

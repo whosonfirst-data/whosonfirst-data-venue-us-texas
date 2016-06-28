@@ -2,13 +2,14 @@
   "id": 303307701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753586,30.272415,-97.753586,30.272415",
     "geom:latitude":30.272415,
     "geom:longitude":-97.753586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303307701,
-    "wof:lastmodified":1448998744,
+    "wof:lastmodified":1467083723,
     "wof:name":"Rei",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "camping"
     ]
 },
-  "bbox": [-97.753586,30.272415,-97.753586,30.272415],
+  "bbox": [
+    -97.753586,
+    30.272415,
+    -97.753586,
+    30.272415
+],
   "geometry": {"coordinates":[-97.753586,30.272415],"type":"Point"}
 }

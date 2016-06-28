@@ -2,13 +2,14 @@
   "id": 220060261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.831193,32.968726,-101.831193,32.968726",
     "geom:latitude":32.968726,
     "geom:longitude":-101.831193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 4th St",
     "sg:city":"Odonnell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220060261,
-    "wof:lastmodified":1449074801,
+    "wof:lastmodified":1467085194,
     "wof:name":"O'Donnell Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.831193,32.968726,-101.831193,32.968726],
+  "bbox": [
+    -101.831193,
+    32.968726,
+    -101.831193,
+    32.968726
+],
   "geometry": {"coordinates":[-101.831193,32.968726],"type":"Point"}
 }

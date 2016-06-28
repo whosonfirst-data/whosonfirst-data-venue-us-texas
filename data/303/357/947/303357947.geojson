@@ -2,13 +2,14 @@
   "id": 303357947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753212,30.286189,-97.753212,30.286189",
     "geom:latitude":30.286189,
     "geom:longitude":-97.753212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 N Lamar Blvd Apt 211",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303357947,
-    "wof:lastmodified":1449000269,
+    "wof:lastmodified":1467083798,
     "wof:name":"Adele Houghton Consulting",
     "wof:parent_id":85893557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [-97.753212,30.286189,-97.753212,30.286189],
+  "bbox": [
+    -97.753212,
+    30.286189,
+    -97.753212,
+    30.286189
+],
   "geometry": {"coordinates":[-97.753212,30.286189],"type":"Point"}
 }

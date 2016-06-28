@@ -2,13 +2,14 @@
   "id": 202577037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76583,30.203907,-97.76583,30.203907",
     "geom:latitude":30.203907,
     "geom:longitude":-97.76583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Battle Bend Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202577037,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1467084943,
     "wof:name":"Logical Solution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-97.76583,30.203907,-97.76583,30.203907],
-  "geometry": {"coordinates":[-97.76583,30.203907],"type":"Point"}
+  "bbox": [
+    -97.76583,
+    30.203907,
+    -97.76583,
+    30.203907
+],
+  "geometry": {"coordinates":[-97.76582999999999,30.203907],"type":"Point"}
 }

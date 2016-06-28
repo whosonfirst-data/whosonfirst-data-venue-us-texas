@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102301861",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.838709,35.204809,-101.838709,35.204809",
     "geom:latitude":35.204809,
     "geom:longitude":-101.838709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 S Tyler St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875863,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102301861",
-    "wof:lastmodified":1449068408,
+    "wof:lastmodified":1467085096,
     "wof:name":"At & T Cits",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.838709,35.204809,-101.838709,35.204809],
-  "geometry": {"coordinates":[-101.838709,35.204809],"type":"Point"}
+  "bbox": [
+    -101.838709,
+    35.204809,
+    -101.838709,
+    35.204809
+],
+  "geometry": {"coordinates":[-101.83870899999999,35.204809],"type":"Point"}
 }

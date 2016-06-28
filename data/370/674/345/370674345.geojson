@@ -2,13 +2,14 @@
   "id": 370674345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.494306,33.91065,-98.494306,33.91065",
     "geom:latitude":33.91065,
     "geom:longitude":-98.494306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 8th St",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370674345,
-    "wof:lastmodified":1449031627,
+    "wof:lastmodified":1467084533,
     "wof:name":"Mutual Of Omaha Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.494306,33.91065,-98.494306,33.91065],
-  "geometry": {"coordinates":[-98.494306,33.91065],"type":"Point"}
+  "bbox": [
+    -98.494306,
+    33.91065,
+    -98.494306,
+    33.91065
+],
+  "geometry": {"coordinates":[-98.49430599999999,33.91065],"type":"Point"}
 }

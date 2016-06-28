@@ -2,13 +2,14 @@
   "id": 303580463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.800194,30.214039,-97.800194,30.214039",
     "geom:latitude":30.214039,
     "geom:longitude":-97.800194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5726 Manchaca Rd. Suite 240",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303580463,
-    "wof:lastmodified":1448999767,
+    "wof:lastmodified":1467083774,
     "wof:name":"Thrift Town",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "consignment"
     ]
 },
-  "bbox": [-97.800194,30.214039,-97.800194,30.214039],
+  "bbox": [
+    -97.800194,
+    30.214039,
+    -97.800194,
+    30.214039
+],
   "geometry": {"coordinates":[-97.800194,30.214039],"type":"Point"}
 }

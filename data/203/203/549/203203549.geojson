@@ -2,13 +2,14 @@
   "id": 203203549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86553,32.578502,-96.86553,32.578502",
     "geom:latitude":32.578502,
     "geom:longitude":-96.86553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Brees Dr",
     "sg:city":"Desoto",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203203549,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1467084400,
     "wof:name":"Sunday Shoes",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.86553,32.578502,-96.86553,32.578502],
-  "geometry": {"coordinates":[-96.86553,32.578502],"type":"Point"}
+  "bbox": [
+    -96.86553,
+    32.578502,
+    -96.86553,
+    32.578502
+],
+  "geometry": {"coordinates":[-96.86553000000001,32.578502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370846257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.227167,31.027219,-98.227167,31.027219",
     "geom:latitude":31.027219,
     "geom:longitude":-98.227167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Co Rd 111",
     "sg:city":"Lampasas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370846257,
-    "wof:lastmodified":1449031724,
+    "wof:lastmodified":1467084536,
     "wof:name":"Secure Care Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.227167,31.027219,-98.227167,31.027219],
-  "geometry": {"coordinates":[-98.227167,31.027219],"type":"Point"}
+  "bbox": [
+    -98.227167,
+    31.027219,
+    -98.227167,
+    31.027219
+],
+  "geometry": {"coordinates":[-98.22716699999999,31.027219],"type":"Point"}
 }

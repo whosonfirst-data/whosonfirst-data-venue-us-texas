@@ -2,13 +2,14 @@
   "id": 387545413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328031,27.638154,-97.328031,27.638154",
     "geom:latitude":27.638154,
     "geom:longitude":-97.328031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 Blue Oak Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387545413,
-    "wof:lastmodified":1449057019,
+    "wof:lastmodified":1467084807,
     "wof:name":"Hurricane Drain",
     "wof:parent_id":85819661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-97.328031,27.638154,-97.328031,27.638154],
+  "bbox": [
+    -97.328031,
+    27.638154,
+    -97.328031,
+    27.638154
+],
   "geometry": {"coordinates":[-97.328031,27.638154],"type":"Point"}
 }

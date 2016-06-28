@@ -2,13 +2,14 @@
   "id": 219181601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.848403,32.831285,-96.848403,32.831285",
     "geom:latitude":32.831285,
     "geom:longitude":-96.848403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Empire Central",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219181601,
-    "wof:lastmodified":1449072561,
+    "wof:lastmodified":1467085145,
     "wof:name":"Re Creations",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-96.848403,32.831285,-96.848403,32.831285],
+  "bbox": [
+    -96.848403,
+    32.831285,
+    -96.848403,
+    32.831285
+],
   "geometry": {"coordinates":[-96.848403,32.831285],"type":"Point"}
 }

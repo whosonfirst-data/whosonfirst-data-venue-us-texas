@@ -2,13 +2,14 @@
   "id": 286279319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.59847,29.749701,-95.59847,29.749701",
     "geom:latitude":29.749701,
     "geom:longitude":-95.59847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12314 Wedgehill Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286279319,
-    "wof:lastmodified":1449016541,
+    "wof:lastmodified":1467084273,
     "wof:name":"Mattress Stop",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-95.59847,29.749701,-95.59847,29.749701],
-  "geometry": {"coordinates":[-95.59847,29.749701],"type":"Point"}
+  "bbox": [
+    -95.59847,
+    29.749701,
+    -95.59847,
+    29.749701
+],
+  "geometry": {"coordinates":[-95.59847000000001,29.749701],"type":"Point"}
 }

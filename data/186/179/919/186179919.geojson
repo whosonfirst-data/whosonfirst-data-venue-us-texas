@@ -2,13 +2,14 @@
   "id": 186179919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789878,32.781913,-96.789878,32.781913",
     "geom:latitude":32.781913,
     "geom:longitude":-96.789878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186179919,
-    "wof:lastmodified":1449052744,
+    "wof:lastmodified":1467084741,
     "wof:name":"Space Plan",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-96.789878,32.781913,-96.789878,32.781913],
+  "bbox": [
+    -96.789878,
+    32.781913,
+    -96.789878,
+    32.781913
+],
   "geometry": {"coordinates":[-96.789878,32.781913],"type":"Point"}
 }

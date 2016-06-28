@@ -2,13 +2,14 @@
   "id": 269535643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.147245,33.229458,-97.147245,33.229458",
     "geom:latitude":33.229458,
     "geom:longitude":-97.147245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 W University Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":269535643,
-    "wof:lastmodified":1449036568,
+    "wof:lastmodified":1467084583,
     "wof:name":"Taco Bueno",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.147245,33.229458,-97.147245,33.229458],
+  "bbox": [
+    -97.147245,
+    33.229458,
+    -97.147245,
+    33.229458
+],
   "geometry": {"coordinates":[-97.147245,33.229458],"type":"Point"}
 }

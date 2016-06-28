@@ -2,13 +2,14 @@
   "id": 387400891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825296,32.760526,-97.825296,32.760526",
     "geom:latitude":32.760526,
     "geom:longitude":-97.825296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1877 Mineral Wells Hwy",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387400891,
-    "wof:lastmodified":1449056479,
+    "wof:lastmodified":1467084794,
     "wof:name":"Weatherford Equine Medical Ctr",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.825296,32.760526,-97.825296,32.760526],
-  "geometry": {"coordinates":[-97.825296,32.760526],"type":"Point"}
+  "bbox": [
+    -97.825296,
+    32.760526,
+    -97.825296,
+    32.760526
+],
+  "geometry": {"coordinates":[-97.82529599999999,32.760526],"type":"Point"}
 }

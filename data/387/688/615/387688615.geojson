@@ -2,13 +2,14 @@
   "id": 387688615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255111,32.916572,-97.255111,32.916572",
     "geom:latitude":32.916572,
     "geom:longitude":-97.255111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 S Main St",
     "sg:city":"Keller",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387688615,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1467084820,
     "wof:name":"King & Roberts Studio Of Dance",
     "wof:parent_id":85897409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-97.255111,32.916572,-97.255111,32.916572],
+  "bbox": [
+    -97.255111,
+    32.916572,
+    -97.255111,
+    32.916572
+],
   "geometry": {"coordinates":[-97.255111,32.916572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253060419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.173593,30.083008,-95.173593,30.083008",
     "geom:latitude":30.083008,
     "geom:longitude":-95.173593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 June Grass Ct",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253060419,
-    "wof:lastmodified":1449065516,
+    "wof:lastmodified":1467085038,
     "wof:name":"Mike Hoeller",
     "wof:parent_id":85815503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.173593,30.083008,-95.173593,30.083008],
+  "bbox": [
+    -95.173593,
+    30.083008,
+    -95.173593,
+    30.083008
+],
   "geometry": {"coordinates":[-95.173593,30.083008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270495205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.575426,29.959427,-95.575426,29.959427",
     "geom:latitude":29.959427,
     "geom:longitude":-95.575426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10422 Bushy Creek Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270495205,
-    "wof:lastmodified":1449009720,
+    "wof:lastmodified":1467084185,
     "wof:name":"Charles L Mahan",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.575426,29.959427,-95.575426,29.959427],
-  "geometry": {"coordinates":[-95.575426,29.959427],"type":"Point"}
+  "bbox": [
+    -95.575426,
+    29.959427,
+    -95.575426,
+    29.959427
+],
+  "geometry": {"coordinates":[-95.57542599999999,29.959427],"type":"Point"}
 }

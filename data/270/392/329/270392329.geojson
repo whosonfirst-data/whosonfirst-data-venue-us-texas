@@ -2,13 +2,14 @@
   "id": 270392329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473198,29.747999,-95.473198,29.747999",
     "geom:latitude":29.747999,
     "geom:longitude":-95.473198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Saint James Pl Ste 650",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270392329,
-    "wof:lastmodified":1449010578,
+    "wof:lastmodified":1467084214,
     "wof:name":"Center For Cosmetic Dermatology",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-95.473198,29.747999,-95.473198,29.747999],
+  "bbox": [
+    -95.473198,
+    29.747999,
+    -95.473198,
+    29.747999
+],
   "geometry": {"coordinates":[-95.473198,29.747999],"type":"Point"}
 }

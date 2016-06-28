@@ -2,13 +2,14 @@
   "id": 186522771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.748483,31.357873,-94.748483,31.357873",
     "geom:latitude":31.357873,
     "geom:longitude":-94.748483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Old Mill Rd",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186522771,
-    "wof:lastmodified":1449051655,
+    "wof:lastmodified":1467084718,
     "wof:name":"Brown's Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.748483,31.357873,-94.748483,31.357873],
-  "geometry": {"coordinates":[-94.748483,31.357873],"type":"Point"}
+  "bbox": [
+    -94.748483,
+    31.357873,
+    -94.748483,
+    31.357873
+],
+  "geometry": {"coordinates":[-94.74848299999999,31.357873],"type":"Point"}
 }

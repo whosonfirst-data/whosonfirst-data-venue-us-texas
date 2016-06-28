@@ -2,13 +2,14 @@
   "id": 169773977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.508113,27.53371,-99.508113,27.53371",
     "geom:latitude":27.53371,
     "geom:longitude":-99.508113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Salinas Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169773977,
-    "wof:lastmodified":1449033105,
+    "wof:lastmodified":1467084559,
     "wof:name":"Santana Grocery",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.508113,27.53371,-99.508113,27.53371],
-  "geometry": {"coordinates":[-99.508113,27.53371],"type":"Point"}
+  "bbox": [
+    -99.508113,
+    27.53371,
+    -99.508113,
+    27.53371
+],
+  "geometry": {"coordinates":[-99.50811299999999,27.53371],"type":"Point"}
 }

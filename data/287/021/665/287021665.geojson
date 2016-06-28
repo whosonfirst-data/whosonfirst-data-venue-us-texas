@@ -2,13 +2,14 @@
   "id": 287021665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.285423,30.235725,-96.285423,30.235725",
     "geom:latitude":30.235725,
     "geom:longitude":-96.285423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8307 Highway 105",
     "sg:city":"Brenham",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":287021665,
-    "wof:lastmodified":1449001234,
+    "wof:lastmodified":1467083837,
     "wof:name":"Beckendorf Dairy",
     "wof:parent_id":85893589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.285423,30.235725,-96.285423,30.235725],
-  "geometry": {"coordinates":[-96.285423,30.235725],"type":"Point"}
+  "bbox": [
+    -96.285423,
+    30.235725,
+    -96.285423,
+    30.235725
+],
+  "geometry": {"coordinates":[-96.28542299999999,30.235725],"type":"Point"}
 }

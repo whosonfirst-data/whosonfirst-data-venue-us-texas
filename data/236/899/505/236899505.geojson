@@ -2,13 +2,14 @@
   "id": 236899505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806503,32.835999,-96.806503,32.835999",
     "geom:latitude":32.835999,
     "geom:longitude":-96.806503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Highland Park Vlg Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":236899505,
-    "wof:lastmodified":1449005053,
+    "wof:lastmodified":1467084030,
     "wof:name":"Paradigm Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.806503,32.835999,-96.806503,32.835999],
-  "geometry": {"coordinates":[-96.806503,32.835999],"type":"Point"}
+  "bbox": [
+    -96.806503,
+    32.835999,
+    -96.806503,
+    32.835999
+],
+  "geometry": {"coordinates":[-96.80650300000001,32.835999],"type":"Point"}
 }

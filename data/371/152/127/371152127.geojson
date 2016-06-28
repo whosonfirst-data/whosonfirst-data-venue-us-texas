@@ -2,13 +2,14 @@
   "id": 371152127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856366,33.594279,-101.856366,33.594279",
     "geom:latitude":33.594279,
     "geom:longitude":-101.856366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 3rd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371152127,
-    "wof:lastmodified":1449049842,
+    "wof:lastmodified":1467084685,
     "wof:name":"Taco Pueblo Restaurant",
     "wof:parent_id":85878803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-101.856366,33.594279,-101.856366,33.594279],
-  "geometry": {"coordinates":[-101.856366,33.594279],"type":"Point"}
+  "bbox": [
+    -101.856366,
+    33.594279,
+    -101.856366,
+    33.594279
+],
+  "geometry": {"coordinates":[-101.85636599999999,33.594279],"type":"Point"}
 }

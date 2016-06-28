@@ -2,13 +2,14 @@
   "id": 303797363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702249,30.399086,-97.702249,30.399086",
     "geom:latitude":30.399086,
     "geom:longitude":-97.702249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Albury Cv Apt A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303797363,
-    "wof:lastmodified":1449000327,
+    "wof:lastmodified":1467083801,
     "wof:name":"Gold Key Realtors",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.702249,30.399086,-97.702249,30.399086],
-  "geometry": {"coordinates":[-97.702249,30.399086],"type":"Point"}
+  "bbox": [
+    -97.702249,
+    30.399086,
+    -97.702249,
+    30.399086
+],
+  "geometry": {"coordinates":[-97.70224899999999,30.399086],"type":"Point"}
 }

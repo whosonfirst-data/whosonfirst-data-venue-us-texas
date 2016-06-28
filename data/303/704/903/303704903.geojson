@@ -2,13 +2,14 @@
   "id": 303704903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730719,30.299251,-97.730719,30.299251",
     "geom:latitude":30.299251,
     "geom:longitude":-97.730719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Avenue H",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303704903,
-    "wof:lastmodified":1448998749,
+    "wof:lastmodified":1467083723,
     "wof:name":"Gonzales, Rueben",
     "wof:parent_id":85869907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-97.730719,30.299251,-97.730719,30.299251],
-  "geometry": {"coordinates":[-97.730719,30.299251],"type":"Point"}
+  "bbox": [
+    -97.730719,
+    30.299251,
+    -97.730719,
+    30.299251
+],
+  "geometry": {"coordinates":[-97.73071899999999,30.299251],"type":"Point"}
 }

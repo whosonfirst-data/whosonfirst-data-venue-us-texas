@@ -2,13 +2,14 @@
   "id": 303997481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.852623,33.545197,-101.852623,33.545197",
     "geom:latitude":33.545197,
     "geom:longitude":-101.852623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Avenue Q",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303997481,
-    "wof:lastmodified":1449000127,
+    "wof:lastmodified":1467083791,
     "wof:name":"Gene Messer Used Cars",
     "wof:parent_id":85878769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-101.852623,33.545197,-101.852623,33.545197],
-  "geometry": {"coordinates":[-101.852623,33.545197],"type":"Point"}
+  "bbox": [
+    -101.852623,
+    33.545197,
+    -101.852623,
+    33.545197
+],
+  "geometry": {"coordinates":[-101.85262299999999,33.545197],"type":"Point"}
 }

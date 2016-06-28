@@ -2,13 +2,14 @@
   "id": 236445245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730461,32.956518,-96.730461,32.956518",
     "geom:latitude":32.956518,
     "geom:longitude":-96.730461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N. Central Expressway",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236445245,
-    "wof:lastmodified":1449002007,
+    "wof:lastmodified":1467083878,
     "wof:name":"AT&T Mobility",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.730461,32.956518,-96.730461,32.956518],
-  "geometry": {"coordinates":[-96.730461,32.956518],"type":"Point"}
+  "bbox": [
+    -96.730461,
+    32.956518,
+    -96.730461,
+    32.956518
+],
+  "geometry": {"coordinates":[-96.73046100000001,32.956518],"type":"Point"}
 }

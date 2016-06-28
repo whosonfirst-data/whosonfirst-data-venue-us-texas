@@ -2,13 +2,14 @@
   "id": 387188193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.899432,30.663491,-97.899432,30.663491",
     "geom:latitude":30.663491,
     "geom:longitude":-97.899432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Independence Dr",
     "sg:city":"Liberty Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387188193,
-    "wof:lastmodified":1449057995,
+    "wof:lastmodified":1467084832,
     "wof:name":"Us Govt",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.899432,30.663491,-97.899432,30.663491],
+  "bbox": [
+    -97.899432,
+    30.663491,
+    -97.899432,
+    30.663491
+],
   "geometry": {"coordinates":[-97.899432,30.663491],"type":"Point"}
 }

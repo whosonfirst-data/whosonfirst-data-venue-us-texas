@@ -2,13 +2,14 @@
   "id": 253171279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833504,32.9352,-96.833504,32.9352",
     "geom:latitude":32.9352,
     "geom:longitude":-96.833504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13725 Omega Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253171279,
-    "wof:lastmodified":1449065820,
+    "wof:lastmodified":1467085048,
     "wof:name":"Allied Fidelity Mortgage",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.833504,32.9352,-96.833504,32.9352],
+  "bbox": [
+    -96.833504,
+    32.9352,
+    -96.833504,
+    32.9352
+],
   "geometry": {"coordinates":[-96.833504,32.9352],"type":"Point"}
 }

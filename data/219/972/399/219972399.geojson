@@ -2,13 +2,14 @@
   "id": 219972399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.552486,29.727944,-95.552486,29.727944",
     "geom:latitude":29.727944,
     "geom:longitude":-95.552486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10111 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219972399,
-    "wof:lastmodified":1449072149,
+    "wof:lastmodified":1467085137,
     "wof:name":"SAP America Inc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.552486,29.727944,-95.552486,29.727944],
+  "bbox": [
+    -95.552486,
+    29.727944,
+    -95.552486,
+    29.727944
+],
   "geometry": {"coordinates":[-95.552486,29.727944],"type":"Point"}
 }

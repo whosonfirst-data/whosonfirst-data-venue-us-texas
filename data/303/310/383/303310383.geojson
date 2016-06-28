@@ -2,13 +2,14 @@
   "id": 303310383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767796,30.248761,-97.767796,30.248761",
     "geom:latitude":30.248761,
     "geom:longitude":-97.767796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303310383,
-    "wof:lastmodified":1448999625,
+    "wof:lastmodified":1467083767,
     "wof:name":"SoLa",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-97.767796,30.248761,-97.767796,30.248761],
+  "bbox": [
+    -97.767796,
+    30.248761,
+    -97.767796,
+    30.248761
+],
   "geometry": {"coordinates":[-97.767796,30.248761],"type":"Point"}
 }

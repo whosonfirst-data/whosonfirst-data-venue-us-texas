@@ -2,13 +2,14 @@
   "id": 404160683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.116793,31.70168,-98.116793,31.70168",
     "geom:latitude":31.70168,
     "geom:longitude":-98.116793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 E Main St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404160683,
-    "wof:lastmodified":1449040119,
+    "wof:lastmodified":1467084657,
     "wof:name":"Medical Equipment & Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-98.116793,31.70168,-98.116793,31.70168],
+  "bbox": [
+    -98.116793,
+    31.70168,
+    -98.116793,
+    31.70168
+],
   "geometry": {"coordinates":[-98.116793,31.70168],"type":"Point"}
 }

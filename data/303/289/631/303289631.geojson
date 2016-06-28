@@ -2,13 +2,14 @@
   "id": 303289631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727506,30.256779,-97.727506,30.256779",
     "geom:latitude":30.256779,
     "geom:longitude":-97.727506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Willow",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303289631,
-    "wof:lastmodified":1449000156,
+    "wof:lastmodified":1467083793,
     "wof:name":"d-crain",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.727506,30.256779,-97.727506,30.256779],
-  "geometry": {"coordinates":[-97.727506,30.256779],"type":"Point"}
+  "bbox": [
+    -97.727506,
+    30.256779,
+    -97.727506,
+    30.256779
+],
+  "geometry": {"coordinates":[-97.72750600000001,30.256779],"type":"Point"}
 }

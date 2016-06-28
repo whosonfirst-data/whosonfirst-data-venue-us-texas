@@ -2,13 +2,14 @@
   "id": 303703383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725142,30.309827,-97.725142,30.309827",
     "geom:latitude":30.309827,
     "geom:longitude":-97.725142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 Avenue G",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303703383,
-    "wof:lastmodified":1448998859,
+    "wof:lastmodified":1467083728,
     "wof:name":"Heavenly Designs",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.725142,30.309827,-97.725142,30.309827],
-  "geometry": {"coordinates":[-97.725142,30.309827],"type":"Point"}
+  "bbox": [
+    -97.725142,
+    30.309827,
+    -97.725142,
+    30.309827
+],
+  "geometry": {"coordinates":[-97.72514200000001,30.309827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202431233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.119944,32.813678,-98.119944,32.813678",
     "geom:latitude":32.813678,
     "geom:longitude":-98.119944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 NW 7th Ave",
     "sg:city":"Mineral Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202431233,
-    "wof:lastmodified":1449060452,
+    "wof:lastmodified":1467084895,
     "wof:name":"Watson Collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.119944,32.813678,-98.119944,32.813678],
+  "bbox": [
+    -98.119944,
+    32.813678,
+    -98.119944,
+    32.813678
+],
   "geometry": {"coordinates":[-98.119944,32.813678],"type":"Point"}
 }

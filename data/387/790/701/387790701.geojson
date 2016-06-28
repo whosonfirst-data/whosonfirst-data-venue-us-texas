@@ -2,13 +2,14 @@
   "id": 387790701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.450933,30.013919,-95.450933,30.013919",
     "geom:latitude":30.013919,
     "geom:longitude":-95.450933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 FM 1960 W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387790701,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1467084859,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.450933,30.013919,-95.450933,30.013919],
-  "geometry": {"coordinates":[-95.450933,30.013919],"type":"Point"}
+  "bbox": [
+    -95.450933,
+    30.013919,
+    -95.450933,
+    30.013919
+],
+  "geometry": {"coordinates":[-95.45093300000001,30.013919],"type":"Point"}
 }

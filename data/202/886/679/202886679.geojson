@@ -2,13 +2,14 @@
   "id": 202886679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132449,33.213969,-97.132449,33.213969",
     "geom:latitude":33.213969,
     "geom:longitude":-97.132449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Locust St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202886679,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1467084917,
     "wof:name":"Denton Main Street",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.132449,33.213969,-97.132449,33.213969],
-  "geometry": {"coordinates":[-97.132449,33.213969],"type":"Point"}
+  "bbox": [
+    -97.132449,
+    33.213969,
+    -97.132449,
+    33.213969
+],
+  "geometry": {"coordinates":[-97.13244899999999,33.213969],"type":"Point"}
 }

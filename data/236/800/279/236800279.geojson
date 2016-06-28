@@ -2,13 +2,14 @@
   "id": 236800279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.464327,30.446884,-95.464327,30.446884",
     "geom:latitude":30.446884,
     "geom:longitude":-95.464327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Grand Oaks Dr",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236800279,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1467083868,
     "wof:name":"OBD2",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "emission"
     ]
 },
-  "bbox": [-95.464327,30.446884,-95.464327,30.446884],
+  "bbox": [
+    -95.464327,
+    30.446884,
+    -95.464327,
+    30.446884
+],
   "geometry": {"coordinates":[-95.464327,30.446884],"type":"Point"}
 }

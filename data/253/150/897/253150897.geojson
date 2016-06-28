@@ -2,13 +2,14 @@
   "id": 253150897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716797,32.901798,-96.716797,32.901798",
     "geom:latitude":32.901798,
     "geom:longitude":-96.716797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9090 Skillman St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253150897,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1467084947,
     "wof:name":"Compass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.716797,32.901798,-96.716797,32.901798],
+  "bbox": [
+    -96.716797,
+    32.901798,
+    -96.716797,
+    32.901798
+],
   "geometry": {"coordinates":[-96.716797,32.901798],"type":"Point"}
 }

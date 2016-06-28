@@ -2,13 +2,14 @@
   "id": 252986253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763583,32.97593,-96.763583,32.97593",
     "geom:latitude":32.97593,
     "geom:longitude":-96.763583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Huntington Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252986253,
-    "wof:lastmodified":1449006296,
+    "wof:lastmodified":1467084097,
     "wof:name":"PSI",
     "wof:parent_id":85880209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-96.763583,32.97593,-96.763583,32.97593],
+  "bbox": [
+    -96.763583,
+    32.97593,
+    -96.763583,
+    32.97593
+],
   "geometry": {"coordinates":[-96.763583,32.97593],"type":"Point"}
 }

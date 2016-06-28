@@ -2,13 +2,14 @@
   "id": 253245247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741315,31.102943,-97.741315,31.102943",
     "geom:latitude":31.102943,
     "geom:longitude":-97.741315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Central Texas Expy",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253245247,
-    "wof:lastmodified":1449065702,
+    "wof:lastmodified":1467085043,
     "wof:name":"Stone Hill Apartments",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.741315,31.102943,-97.741315,31.102943],
+  "bbox": [
+    -97.741315,
+    31.102943,
+    -97.741315,
+    31.102943
+],
   "geometry": {"coordinates":[-97.741315,31.102943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371055709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.320997,31.712239,-106.320997,31.712239",
     "geom:latitude":31.712239,
     "geom:longitude":-106.320997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Gilmore Way",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371055709,
-    "wof:lastmodified":1449049268,
+    "wof:lastmodified":1467084674,
     "wof:name":"Ponces Electric",
     "wof:parent_id":85831241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-106.320997,31.712239,-106.320997,31.712239],
-  "geometry": {"coordinates":[-106.320997,31.712239],"type":"Point"}
+  "bbox": [
+    -106.320997,
+    31.712239,
+    -106.320997,
+    31.712239
+],
+  "geometry": {"coordinates":[-106.32099700000001,31.712239],"type":"Point"}
 }

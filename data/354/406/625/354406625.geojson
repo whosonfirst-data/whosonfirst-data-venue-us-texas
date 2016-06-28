@@ -2,13 +2,14 @@
   "id": 354406625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795848,32.736793,-96.795848,32.736793",
     "geom:latitude":32.736793,
     "geom:longitude":-96.795848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2134 Hulse Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354406625,
-    "wof:lastmodified":1449066851,
+    "wof:lastmodified":1467085074,
     "wof:name":"Warrens Global Technolog",
     "wof:parent_id":85893627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-96.795848,32.736793,-96.795848,32.736793],
-  "geometry": {"coordinates":[-96.795848,32.736793],"type":"Point"}
+  "bbox": [
+    -96.795848,
+    32.736793,
+    -96.795848,
+    32.736793
+],
+  "geometry": {"coordinates":[-96.79584800000001,32.736793],"type":"Point"}
 }

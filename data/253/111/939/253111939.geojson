@@ -2,13 +2,14 @@
   "id": 253111939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.815697,32.9254,-96.815697,32.9254",
     "geom:latitude":32.9254,
     "geom:longitude":-96.815697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5470 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253111939,
-    "wof:lastmodified":1449065893,
+    "wof:lastmodified":1467085050,
     "wof:name":"Special Delivery Service",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "courier"
     ]
 },
-  "bbox": [-96.815697,32.9254,-96.815697,32.9254],
+  "bbox": [
+    -96.815697,
+    32.9254,
+    -96.815697,
+    32.9254
+],
   "geometry": {"coordinates":[-96.815697,32.9254],"type":"Point"}
 }

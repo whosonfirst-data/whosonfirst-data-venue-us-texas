@@ -2,13 +2,14 @@
   "id": 252801455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.401495,29.558831,-98.401495,29.558831",
     "geom:latitude":29.558831,
     "geom:longitude":-98.401495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12802 Skyline Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252801455,
-    "wof:lastmodified":1449006327,
+    "wof:lastmodified":1467084098,
     "wof:name":"Gary Silva Painting",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-98.401495,29.558831,-98.401495,29.558831],
+  "bbox": [
+    -98.401495,
+    29.558831,
+    -98.401495,
+    29.558831
+],
   "geometry": {"coordinates":[-98.401495,29.558831],"type":"Point"}
 }

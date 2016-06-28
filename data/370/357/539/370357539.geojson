@@ -2,13 +2,14 @@
   "id": 370357539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.904525,32.900535,-96.904525,32.900535",
     "geom:latitude":32.900535,
     "geom:longitude":-96.904525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2261 Crown Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370357539,
-    "wof:lastmodified":1449032064,
+    "wof:lastmodified":1467084544,
     "wof:name":"Distinctive Poolscape Envrnmnt",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.904525,32.900535,-96.904525,32.900535],
-  "geometry": {"coordinates":[-96.904525,32.900535],"type":"Point"}
+  "bbox": [
+    -96.904525,
+    32.900535,
+    -96.904525,
+    32.900535
+],
+  "geometry": {"coordinates":[-96.90452500000001,32.900535],"type":"Point"}
 }

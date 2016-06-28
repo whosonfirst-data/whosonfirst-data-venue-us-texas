@@ -2,13 +2,14 @@
   "id": 269536929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13617,33.21809,-97.13617,33.21809",
     "geom:latitude":33.21809,
     "geom:longitude":-97.13617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 W Parkway St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269536929,
-    "wof:lastmodified":1449037575,
+    "wof:lastmodified":1467084612,
     "wof:name":"Leadership Denton",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.13617,33.21809,-97.13617,33.21809],
-  "geometry": {"coordinates":[-97.13617,33.21809],"type":"Point"}
+  "bbox": [
+    -97.13617,
+    33.21809,
+    -97.13617,
+    33.21809
+],
+  "geometry": {"coordinates":[-97.13617000000001,33.21809],"type":"Point"}
 }

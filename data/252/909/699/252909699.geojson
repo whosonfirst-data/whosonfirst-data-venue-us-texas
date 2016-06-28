@@ -2,13 +2,14 @@
   "id": 252909699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682618,32.773166,-96.682618,32.773166",
     "geom:latitude":32.773166,
     "geom:longitude":-96.682618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 S Buckner Blvd Ste A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252909699,
-    "wof:lastmodified":1449006228,
+    "wof:lastmodified":1467084093,
     "wof:name":"Healthcare For Children Dallas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.682618,32.773166,-96.682618,32.773166],
-  "geometry": {"coordinates":[-96.682618,32.773166],"type":"Point"}
+  "bbox": [
+    -96.682618,
+    32.773166,
+    -96.682618,
+    32.773166
+],
+  "geometry": {"coordinates":[-96.68261800000001,32.773166],"type":"Point"}
 }

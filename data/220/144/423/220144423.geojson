@@ -2,13 +2,14 @@
   "id": 220144423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.458075,30.16746,-95.458075,30.16746",
     "geom:latitude":30.16746,
     "geom:longitude":-95.458075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9425 Pinecroft Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220144423,
-    "wof:lastmodified":1449074635,
+    "wof:lastmodified":1467085190,
     "wof:name":"Entergy",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "legal"
     ]
 },
-  "bbox": [-95.458075,30.16746,-95.458075,30.16746],
-  "geometry": {"coordinates":[-95.458075,30.16746],"type":"Point"}
+  "bbox": [
+    -95.458075,
+    30.16746,
+    -95.458075,
+    30.16746
+],
+  "geometry": {"coordinates":[-95.45807499999999,30.16746],"type":"Point"}
 }

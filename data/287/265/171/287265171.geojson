@@ -2,13 +2,14 @@
   "id": 287265171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511247,25.908285,-97.511247,25.908285",
     "geom:latitude":25.908285,
     "geom:longitude":-97.511247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W Fronton St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287265171,
-    "wof:lastmodified":1449000962,
+    "wof:lastmodified":1467083828,
     "wof:name":"Best Border Cargo",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-97.511247,25.908285,-97.511247,25.908285],
+  "bbox": [
+    -97.511247,
+    25.908285,
+    -97.511247,
+    25.908285
+],
   "geometry": {"coordinates":[-97.511247,25.908285],"type":"Point"}
 }

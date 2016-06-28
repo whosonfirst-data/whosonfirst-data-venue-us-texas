@@ -2,13 +2,14 @@
   "id": 304057291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.786393,32.353472,-99.786393,32.353472",
     "geom:latitude":32.353472,
     "geom:longitude":-99.786393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8050 Buffalo Gap Rd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":304057291,
-    "wof:lastmodified":1449043852,
+    "wof:lastmodified":1467084665,
     "wof:name":"Plant Lady",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "decorator"
     ]
 },
-  "bbox": [-99.786393,32.353472,-99.786393,32.353472],
+  "bbox": [
+    -99.786393,
+    32.353472,
+    -99.786393,
+    32.353472
+],
   "geometry": {"coordinates":[-99.786393,32.353472],"type":"Point"}
 }

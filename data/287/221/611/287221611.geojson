@@ -2,13 +2,14 @@
   "id": 287221611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.303334,27.887642,-97.303334,27.887642",
     "geom:latitude":27.887642,
     "geom:longitude":-97.303334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Northshore Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287221611,
-    "wof:lastmodified":1449001049,
+    "wof:lastmodified":1467083831,
     "wof:name":"Portland Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.303334,27.887642,-97.303334,27.887642],
-  "geometry": {"coordinates":[-97.303334,27.887642],"type":"Point"}
+  "bbox": [
+    -97.303334,
+    27.887642,
+    -97.303334,
+    27.887642
+],
+  "geometry": {"coordinates":[-97.30333400000001,27.887642],"type":"Point"}
 }

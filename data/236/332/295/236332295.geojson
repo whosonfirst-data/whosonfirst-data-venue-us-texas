@@ -2,13 +2,14 @@
   "id": 236332295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.512245,27.516237,-99.512245,27.516237",
     "geom:latitude":27.516237,
     "geom:longitude":-99.512245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Sanchez St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236332295,
-    "wof:lastmodified":1449003500,
+    "wof:lastmodified":1467083956,
     "wof:name":"Home Inspector",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.512245,27.516237,-99.512245,27.516237],
-  "geometry": {"coordinates":[-99.512245,27.516237],"type":"Point"}
+  "bbox": [
+    -99.512245,
+    27.516237,
+    -99.512245,
+    27.516237
+],
+  "geometry": {"coordinates":[-99.51224499999999,27.516237],"type":"Point"}
 }

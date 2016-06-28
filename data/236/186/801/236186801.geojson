@@ -2,13 +2,14 @@
   "id": 236186801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82662,33.10168,-96.82662,33.10168",
     "geom:latitude":33.10168,
     "geom:longitude":-96.82662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Network Blvd Ste 507",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":236186801,
-    "wof:lastmodified":1449004387,
+    "wof:lastmodified":1467083998,
     "wof:name":"Sage It Inc.",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "engineer"
     ]
 },
-  "bbox": [-96.82662,33.10168,-96.82662,33.10168],
-  "geometry": {"coordinates":[-96.82662,33.10168],"type":"Point"}
+  "bbox": [
+    -96.82662,
+    33.10168,
+    -96.82662,
+    33.10168
+],
+  "geometry": {"coordinates":[-96.82662000000001,33.10168],"type":"Point"}
 }

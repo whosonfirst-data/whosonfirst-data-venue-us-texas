@@ -2,13 +2,14 @@
   "id": 387389499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.182645,29.537305,-95.182645,29.537305",
     "geom:latitude":29.537305,
     "geom:longitude":-95.182645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16010 Leigh Canyon Dr",
     "sg:city":"Friendswood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387389499,
-    "wof:lastmodified":1449059136,
+    "wof:lastmodified":1467084862,
     "wof:name":"N2 Trucks",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.182645,29.537305,-95.182645,29.537305],
-  "geometry": {"coordinates":[-95.182645,29.537305],"type":"Point"}
+  "bbox": [
+    -95.182645,
+    29.537305,
+    -95.182645,
+    29.537305
+],
+  "geometry": {"coordinates":[-95.18264499999999,29.537305],"type":"Point"}
 }

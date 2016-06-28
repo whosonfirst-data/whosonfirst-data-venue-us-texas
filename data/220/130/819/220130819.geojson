@@ -2,13 +2,14 @@
   "id": 220130819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702964,30.397651,-97.702964,30.397651",
     "geom:latitude":30.397651,
     "geom:longitude":-97.702964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Prairie Knoll Ct",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220130819,
-    "wof:lastmodified":1449074290,
+    "wof:lastmodified":1467085182,
     "wof:name":"Rt Enterprises",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.702964,30.397651,-97.702964,30.397651],
-  "geometry": {"coordinates":[-97.702964,30.397651],"type":"Point"}
+  "bbox": [
+    -97.702964,
+    30.397651,
+    -97.702964,
+    30.397651
+],
+  "geometry": {"coordinates":[-97.70296399999999,30.397651],"type":"Point"}
 }

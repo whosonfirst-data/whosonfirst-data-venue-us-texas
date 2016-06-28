@@ -2,13 +2,14 @@
   "id": 303489679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.90377,30.354971,-97.90377,30.354971",
     "geom:latitude":30.354971,
     "geom:longitude":-97.90377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12500 Capitol Saddlery Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303489679,
-    "wof:lastmodified":1448999455,
+    "wof:lastmodified":1467083758,
     "wof:name":"Mike Coy's \"Referral Training Center\"",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-97.90377,30.354971,-97.90377,30.354971],
-  "geometry": {"coordinates":[-97.90377,30.354971],"type":"Point"}
+  "bbox": [
+    -97.90377,
+    30.354971,
+    -97.90377,
+    30.354971
+],
+  "geometry": {"coordinates":[-97.90376999999999,30.354971],"type":"Point"}
 }

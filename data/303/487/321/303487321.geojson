@@ -2,13 +2,14 @@
   "id": 303487321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.893347,30.368277,-97.893347,30.368277",
     "geom:latitude":30.368277,
     "geom:longitude":-97.893347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Quinlan Park Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303487321,
-    "wof:lastmodified":1448998914,
+    "wof:lastmodified":1467083732,
     "wof:name":"Lakeside Pizza and Grill",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "pizza"
     ]
 },
-  "bbox": [-97.893347,30.368277,-97.893347,30.368277],
-  "geometry": {"coordinates":[-97.893347,30.368277],"type":"Point"}
+  "bbox": [
+    -97.893347,
+    30.368277,
+    -97.893347,
+    30.368277
+],
+  "geometry": {"coordinates":[-97.89334700000001,30.368277],"type":"Point"}
 }

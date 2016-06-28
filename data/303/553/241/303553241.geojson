@@ -2,13 +2,14 @@
   "id": 303553241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739376,30.215349,-97.739376,30.215349",
     "geom:latitude":30.215349,
     "geom:longitude":-97.739376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 E Ben White Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303553241,
-    "wof:lastmodified":1448998133,
+    "wof:lastmodified":1467083692,
     "wof:name":"Ben E Keith",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.739376,30.215349,-97.739376,30.215349],
-  "geometry": {"coordinates":[-97.739376,30.215349],"type":"Point"}
+  "bbox": [
+    -97.739376,
+    30.215349,
+    -97.739376,
+    30.215349
+],
+  "geometry": {"coordinates":[-97.73937599999999,30.215349],"type":"Point"}
 }

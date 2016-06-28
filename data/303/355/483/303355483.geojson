@@ -2,13 +2,14 @@
   "id": 303355483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747684,30.297883,-97.747684,30.297883",
     "geom:latitude":30.297883,
     "geom:longitude":-97.747684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 San Gabriel St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303355483,
-    "wof:lastmodified":1448998795,
+    "wof:lastmodified":1467083725,
     "wof:name":"Banana Bay Trading Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-97.747684,30.297883,-97.747684,30.297883],
-  "geometry": {"coordinates":[-97.747684,30.297883],"type":"Point"}
+  "bbox": [
+    -97.747684,
+    30.297883,
+    -97.747684,
+    30.297883
+],
+  "geometry": {"coordinates":[-97.74768400000001,30.297883],"type":"Point"}
 }

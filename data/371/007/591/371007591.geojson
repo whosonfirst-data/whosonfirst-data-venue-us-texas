@@ -2,13 +2,14 @@
   "id": 371007591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.558344,29.481379,-98.558344,29.481379",
     "geom:latitude":29.481379,
     "geom:longitude":-98.558344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 Oak Trl",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371007591,
-    "wof:lastmodified":1449049932,
+    "wof:lastmodified":1467084687,
     "wof:name":"Wired",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.558344,29.481379,-98.558344,29.481379],
-  "geometry": {"coordinates":[-98.558344,29.481379],"type":"Point"}
+  "bbox": [
+    -98.558344,
+    29.481379,
+    -98.558344,
+    29.481379
+],
+  "geometry": {"coordinates":[-98.55834400000001,29.481379],"type":"Point"}
 }

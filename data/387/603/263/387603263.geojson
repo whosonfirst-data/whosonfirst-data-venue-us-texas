@@ -2,13 +2,14 @@
   "id": 387603263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501245,25.898501,-97.501245,25.898501",
     "geom:latitude":25.898501,
     "geom:longitude":-97.501245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Sam Perl Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387603263,
-    "wof:lastmodified":1449059341,
+    "wof:lastmodified":1467084867,
     "wof:name":"Gulf Special Svc Inc",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.501245,25.898501,-97.501245,25.898501],
+  "bbox": [
+    -97.501245,
+    25.898501,
+    -97.501245,
+    25.898501
+],
   "geometry": {"coordinates":[-97.501245,25.898501],"type":"Point"}
 }

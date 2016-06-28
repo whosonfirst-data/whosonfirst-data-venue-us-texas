@@ -2,13 +2,14 @@
   "id": 337341379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.793268,30.345565,-95.793268,30.345565",
     "geom:latitude":30.345565,
     "geom:longitude":-95.793268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18420 Old Hwy 105 W",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337341379,
-    "wof:lastmodified":1449027711,
+    "wof:lastmodified":1467084456,
     "wof:name":"Texas State Mortgage",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-95.793268,30.345565,-95.793268,30.345565],
+  "bbox": [
+    -95.793268,
+    30.345565,
+    -95.793268,
+    30.345565
+],
   "geometry": {"coordinates":[-95.793268,30.345565],"type":"Point"}
 }

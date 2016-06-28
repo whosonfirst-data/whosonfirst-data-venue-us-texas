@@ -2,13 +2,14 @@
   "id": 370623111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496729,25.902326,-97.496729,25.902326",
     "geom:latitude":25.902326,
     "geom:longitude":-97.496729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Adams St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370623111,
-    "wof:lastmodified":1449031464,
+    "wof:lastmodified":1467084529,
     "wof:name":"White Horse Tavern",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.496729,25.902326,-97.496729,25.902326],
+  "bbox": [
+    -97.496729,
+    25.902326,
+    -97.496729,
+    25.902326
+],
   "geometry": {"coordinates":[-97.496729,25.902326],"type":"Point"}
 }

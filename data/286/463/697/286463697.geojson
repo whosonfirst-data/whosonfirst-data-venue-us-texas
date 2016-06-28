@@ -2,13 +2,14 @@
   "id": 286463697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55522,30.425293,-95.55522,30.425293",
     "geom:latitude":30.425293,
     "geom:longitude":-95.55522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12705 Hackberry Dr",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286463697,
-    "wof:lastmodified":1449017228,
+    "wof:lastmodified":1467084293,
     "wof:name":"Woodlands Landscape Supply",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "goods-wholesale"
     ]
 },
-  "bbox": [-95.55522,30.425293,-95.55522,30.425293],
-  "geometry": {"coordinates":[-95.55522,30.425293],"type":"Point"}
+  "bbox": [
+    -95.55522,
+    30.425293,
+    -95.55522,
+    30.425293
+],
+  "geometry": {"coordinates":[-95.55522000000001,30.425293],"type":"Point"}
 }

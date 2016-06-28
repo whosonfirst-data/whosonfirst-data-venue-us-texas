@@ -2,13 +2,14 @@
   "id": 403784133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.561417,29.727578,-95.561417,29.727578",
     "geom:latitude":29.727578,
     "geom:longitude":-95.561417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10555 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403784133,
-    "wof:lastmodified":1449055504,
+    "wof:lastmodified":1467084770,
     "wof:name":"Acap Corp",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.561417,29.727578,-95.561417,29.727578],
-  "geometry": {"coordinates":[-95.561417,29.727578],"type":"Point"}
+  "bbox": [
+    -95.561417,
+    29.727578,
+    -95.561417,
+    29.727578
+],
+  "geometry": {"coordinates":[-95.56141700000001,29.727578],"type":"Point"}
 }

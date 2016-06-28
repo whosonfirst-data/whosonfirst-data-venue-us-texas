@@ -2,13 +2,14 @@
   "id": 185655571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750959,30.386499,-97.750959,30.386499",
     "geom:latitude":30.386499,
     "geom:longitude":-97.750959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4304 Cliffwood Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185655571,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1467084127,
     "wof:name":"Mike Wise Real Estate",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.750959,30.386499,-97.750959,30.386499],
-  "geometry": {"coordinates":[-97.750959,30.386499],"type":"Point"}
+  "bbox": [
+    -97.750959,
+    30.386499,
+    -97.750959,
+    30.386499
+],
+  "geometry": {"coordinates":[-97.75095899999999,30.386499],"type":"Point"}
 }

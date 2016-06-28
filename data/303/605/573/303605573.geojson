@@ -2,13 +2,14 @@
   "id": 303605573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.806855,30.279494,-97.806855,30.279494",
     "geom:latitude":30.279494,
     "geom:longitude":-97.806855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Bee Cave Rd",
     "sg:city":"West Lake Hills",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303605573,
-    "wof:lastmodified":1448999308,
+    "wof:lastmodified":1467083751,
     "wof:name":"Walgreens",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-97.806855,30.279494,-97.806855,30.279494],
+  "bbox": [
+    -97.806855,
+    30.279494,
+    -97.806855,
+    30.279494
+],
   "geometry": {"coordinates":[-97.806855,30.279494],"type":"Point"}
 }

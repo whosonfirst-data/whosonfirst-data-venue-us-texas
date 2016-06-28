@@ -2,13 +2,14 @@
   "id": 303588037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76891,30.214661,-97.76891,30.214661",
     "geom:latitude":30.214661,
     "geom:longitude":-97.76891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4719 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303588037,
-    "wof:lastmodified":1449000086,
+    "wof:lastmodified":1467083789,
     "wof:name":"Department of Public Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.76891,30.214661,-97.76891,30.214661],
-  "geometry": {"coordinates":[-97.76891,30.214661],"type":"Point"}
+  "bbox": [
+    -97.76891,
+    30.214661,
+    -97.76891,
+    30.214661
+],
+  "geometry": {"coordinates":[-97.76891000000001,30.214661],"type":"Point"}
 }

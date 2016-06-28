@@ -2,13 +2,14 @@
   "id": 253098003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.817028,32.934963,-96.817028,32.934963",
     "geom:latitude":32.934963,
     "geom:longitude":-96.817028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13760 Noel Road Ste. 327",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253098003,
-    "wof:lastmodified":1449065471,
+    "wof:lastmodified":1467085036,
     "wof:name":"Agility Communications Group",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.817028,32.934963,-96.817028,32.934963],
-  "geometry": {"coordinates":[-96.817028,32.934963],"type":"Point"}
+  "bbox": [
+    -96.817028,
+    32.934963,
+    -96.817028,
+    32.934963
+],
+  "geometry": {"coordinates":[-96.81702799999999,32.934963],"type":"Point"}
 }

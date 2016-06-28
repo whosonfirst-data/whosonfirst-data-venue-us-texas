@@ -2,13 +2,14 @@
   "id": 253137577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505027,25.972135,-97.505027,25.972135",
     "geom:latitude":25.972135,
     "geom:longitude":-97.505027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 Pablo Kisel Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253137577,
-    "wof:lastmodified":1449065366,
+    "wof:lastmodified":1467085033,
     "wof:name":"Lets Talk Wireless",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-97.505027,25.972135,-97.505027,25.972135],
+  "bbox": [
+    -97.505027,
+    25.972135,
+    -97.505027,
+    25.972135
+],
   "geometry": {"coordinates":[-97.505027,25.972135],"type":"Point"}
 }

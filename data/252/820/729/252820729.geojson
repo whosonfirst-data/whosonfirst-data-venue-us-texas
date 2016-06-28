@@ -2,13 +2,14 @@
   "id": 252820729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.961705,32.939183,-96.961705,32.939183",
     "geom:latitude":32.939183,
     "geom:longitude":-96.961705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Windy Hollow Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252820729,
-    "wof:lastmodified":1449005984,
+    "wof:lastmodified":1467084079,
     "wof:name":"Itb Inc",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.961705,32.939183,-96.961705,32.939183],
-  "geometry": {"coordinates":[-96.961705,32.939183],"type":"Point"}
+  "bbox": [
+    -96.961705,
+    32.939183,
+    -96.961705,
+    32.939183
+],
+  "geometry": {"coordinates":[-96.96170499999999,32.939183],"type":"Point"}
 }

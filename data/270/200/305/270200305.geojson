@@ -2,13 +2,14 @@
   "id": 270200305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.241312,29.642142,-95.241312,29.642142",
     "geom:latitude":29.642142,
     "geom:longitude":-95.241312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Edgebrook Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":270200305,
-    "wof:lastmodified":1449009609,
+    "wof:lastmodified":1467084182,
     "wof:name":"Excelsior Travel & Tours Inc",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "promoter"
     ]
 },
-  "bbox": [-95.241312,29.642142,-95.241312,29.642142],
-  "geometry": {"coordinates":[-95.241312,29.642142],"type":"Point"}
+  "bbox": [
+    -95.241312,
+    29.642142,
+    -95.241312,
+    29.642142
+],
+  "geometry": {"coordinates":[-95.24131199999999,29.642142],"type":"Point"}
 }

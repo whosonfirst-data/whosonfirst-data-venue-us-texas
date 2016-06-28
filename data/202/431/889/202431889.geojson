@@ -2,13 +2,14 @@
   "id": 202431889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.618535,33.011355,-96.618535,33.011355",
     "geom:latitude":33.011355,
     "geom:longitude":-96.618535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W FM 544",
     "sg:city":"Murphy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202431889,
-    "wof:lastmodified":1449060446,
+    "wof:lastmodified":1467084895,
     "wof:name":"First Baptist Church-Murphy",
     "wof:parent_id":85880211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.618535,33.011355,-96.618535,33.011355],
-  "geometry": {"coordinates":[-96.618535,33.011355],"type":"Point"}
+  "bbox": [
+    -96.618535,
+    33.011355,
+    -96.618535,
+    33.011355
+],
+  "geometry": {"coordinates":[-96.61853499999999,33.011355],"type":"Point"}
 }

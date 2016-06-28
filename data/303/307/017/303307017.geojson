@@ -2,13 +2,14 @@
   "id": 303307017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750458,30.30715,-97.750458,30.30715",
     "geom:latitude":30.30715,
     "geom:longitude":-97.750458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 W 35th St Ctof",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303307017,
-    "wof:lastmodified":1448998744,
+    "wof:lastmodified":1467083722,
     "wof:name":"French Blue Company",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "invitation"
     ]
 },
-  "bbox": [-97.750458,30.30715,-97.750458,30.30715],
-  "geometry": {"coordinates":[-97.750458,30.30715],"type":"Point"}
+  "bbox": [
+    -97.750458,
+    30.30715,
+    -97.750458,
+    30.30715
+],
+  "geometry": {"coordinates":[-97.75045799999999,30.30715],"type":"Point"}
 }

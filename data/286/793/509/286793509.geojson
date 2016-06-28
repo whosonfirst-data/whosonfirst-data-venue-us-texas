@@ -2,13 +2,14 @@
   "id": 286793509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.197268,29.692727,-95.197268,29.692727",
     "geom:latitude":29.692727,
     "geom:longitude":-95.197268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Jeff Ginn Memorial Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286793509,
-    "wof:lastmodified":1449016797,
+    "wof:lastmodified":1467084281,
     "wof:name":"Main Library",
     "wof:parent_id":85879753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-95.197268,29.692727,-95.197268,29.692727],
-  "geometry": {"coordinates":[-95.197268,29.692727],"type":"Point"}
+  "bbox": [
+    -95.197268,
+    29.692727,
+    -95.197268,
+    29.692727
+],
+  "geometry": {"coordinates":[-95.19726799999999,29.692727],"type":"Point"}
 }

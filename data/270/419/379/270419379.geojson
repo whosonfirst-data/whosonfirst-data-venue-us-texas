@@ -2,13 +2,14 @@
   "id": 270419379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.477268,29.726612,-95.477268,29.726612",
     "geom:latitude":29.726612,
     "geom:longitude":-95.477268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 Southwest Fwy Ste 104",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270419379,
-    "wof:lastmodified":1449011094,
+    "wof:lastmodified":1467084231,
     "wof:name":"American Auto Claims",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.477268,29.726612,-95.477268,29.726612],
+  "bbox": [
+    -95.477268,
+    29.726612,
+    -95.477268,
+    29.726612
+],
   "geometry": {"coordinates":[-95.477268,29.726612],"type":"Point"}
 }

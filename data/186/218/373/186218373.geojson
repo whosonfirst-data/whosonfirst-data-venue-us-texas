@@ -2,13 +2,14 @@
   "id": 186218373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.481276,29.638005,-95.481276,29.638005",
     "geom:latitude":29.638005,
     "geom:longitude":-95.481276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12702 Golden Brook Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186218373,
-    "wof:lastmodified":1449052074,
+    "wof:lastmodified":1467084727,
     "wof:name":"La Vision Magazine",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-95.481276,29.638005,-95.481276,29.638005],
-  "geometry": {"coordinates":[-95.481276,29.638005],"type":"Point"}
+  "bbox": [
+    -95.481276,
+    29.638005,
+    -95.481276,
+    29.638005
+],
+  "geometry": {"coordinates":[-95.48127599999999,29.638005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270473033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.501851,29.742788,-95.501851,29.742788",
     "geom:latitude":29.742788,
     "geom:longitude":-95.501851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Burgoyne Rd Unit 119",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270473033,
-    "wof:lastmodified":1449009139,
+    "wof:lastmodified":1467084166,
     "wof:name":"US Limousine & Transportation",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limo"
     ]
 },
-  "bbox": [-95.501851,29.742788,-95.501851,29.742788],
+  "bbox": [
+    -95.501851,
+    29.742788,
+    -95.501851,
+    29.742788
+],
   "geometry": {"coordinates":[-95.501851,29.742788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354342623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.639463,29.381426,-98.639463,29.381426",
     "geom:latitude":29.381426,
     "geom:longitude":-98.639463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Valley Hi Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354342623,
-    "wof:lastmodified":1449067557,
+    "wof:lastmodified":1467085091,
     "wof:name":"Valley HI Phillips 66 Svc Ctr",
     "wof:parent_id":85828971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-98.639463,29.381426,-98.639463,29.381426],
-  "geometry": {"coordinates":[-98.639463,29.381426],"type":"Point"}
+  "bbox": [
+    -98.639463,
+    29.381426,
+    -98.639463,
+    29.381426
+],
+  "geometry": {"coordinates":[-98.63946300000001,29.381426],"type":"Point"}
 }

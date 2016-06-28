@@ -2,13 +2,14 @@
   "id": 236088519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.159974,26.191172,-98.159974,26.191172",
     "geom:latitude":26.191172,
     "geom:longitude":-98.159974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Railroad St",
     "sg:city":"San Juan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236088519,
-    "wof:lastmodified":1449004369,
+    "wof:lastmodified":1467083997,
     "wof:name":"Central Ready Mix",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-98.159974,26.191172,-98.159974,26.191172],
-  "geometry": {"coordinates":[-98.159974,26.191172],"type":"Point"}
+  "bbox": [
+    -98.159974,
+    26.191172,
+    -98.159974,
+    26.191172
+],
+  "geometry": {"coordinates":[-98.15997400000001,26.191172],"type":"Point"}
 }

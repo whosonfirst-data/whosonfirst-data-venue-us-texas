@@ -2,13 +2,14 @@
   "id": 403722113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.242799,30.741468,-99.242799,30.741468",
     "geom:latitude":30.741468,
     "geom:longitude":-99.242799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Ave F",
     "sg:city":"Mason",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403722113,
-    "wof:lastmodified":1449055097,
+    "wof:lastmodified":1467084760,
     "wof:name":"Mason Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-99.242799,30.741468,-99.242799,30.741468],
-  "geometry": {"coordinates":[-99.242799,30.741468],"type":"Point"}
+  "bbox": [
+    -99.242799,
+    30.741468,
+    -99.242799,
+    30.741468
+],
+  "geometry": {"coordinates":[-99.24279900000001,30.741468],"type":"Point"}
 }

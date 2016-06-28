@@ -2,13 +2,14 @@
   "id": 387483211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.548967,29.557978,-95.548967,29.557978",
     "geom:latitude":29.557978,
     "geom:longitude":-95.548967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 King Cotton Ln",
     "sg:city":"Missouri City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387483211,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1467084861,
     "wof:name":"Energizer",
     "wof:parent_id":85814431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-95.548967,29.557978,-95.548967,29.557978],
+  "bbox": [
+    -95.548967,
+    29.557978,
+    -95.548967,
+    29.557978
+],
   "geometry": {"coordinates":[-95.548967,29.557978],"type":"Point"}
 }

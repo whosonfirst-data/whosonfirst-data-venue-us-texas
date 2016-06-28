@@ -2,13 +2,14 @@
   "id": 236591699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.953662,32.587998,-96.953662,32.587998",
     "geom:latitude":32.587998,
     "geom:longitude":-96.953662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Texas St",
     "sg:city":"Cedar Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236591699,
-    "wof:lastmodified":1449003414,
+    "wof:lastmodified":1467083952,
     "wof:name":"Eclair Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-96.953662,32.587998,-96.953662,32.587998],
-  "geometry": {"coordinates":[-96.953662,32.587998],"type":"Point"}
+  "bbox": [
+    -96.953662,
+    32.587998,
+    -96.953662,
+    32.587998
+],
+  "geometry": {"coordinates":[-96.95366199999999,32.587998],"type":"Point"}
 }

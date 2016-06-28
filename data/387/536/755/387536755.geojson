@@ -2,13 +2,14 @@
   "id": 387536755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480386,29.505682,-98.480386,29.505682",
     "geom:latitude":29.505682,
     "geom:longitude":-98.480386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Concord Plaza Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387536755,
-    "wof:lastmodified":1449058375,
+    "wof:lastmodified":1467084842,
     "wof:name":"Concord Plaza",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "parks"
     ]
 },
-  "bbox": [-98.480386,29.505682,-98.480386,29.505682],
+  "bbox": [
+    -98.480386,
+    29.505682,
+    -98.480386,
+    29.505682
+],
   "geometry": {"coordinates":[-98.480386,29.505682],"type":"Point"}
 }

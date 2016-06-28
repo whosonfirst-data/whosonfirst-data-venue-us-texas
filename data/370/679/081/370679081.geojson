@@ -2,13 +2,14 @@
   "id": 370679081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.44991,29.59497,-98.44991,29.59497",
     "geom:latitude":29.59497,
     "geom:longitude":-98.44991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Turkey Oak St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370679081,
-    "wof:lastmodified":1449031252,
+    "wof:lastmodified":1467084523,
     "wof:name":"Custom Touch Inc",
     "wof:parent_id":85828145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-98.44991,29.59497,-98.44991,29.59497],
+  "bbox": [
+    -98.44991,
+    29.59497,
+    -98.44991,
+    29.59497
+],
   "geometry": {"coordinates":[-98.44991,29.59497],"type":"Point"}
 }

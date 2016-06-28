@@ -2,13 +2,14 @@
   "id": 269540581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.139365,33.189951,-97.139365,33.189951",
     "geom:latitude":33.189951,
     "geom:longitude":-97.139365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Fort Worth Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":269540581,
-    "wof:lastmodified":1449037100,
+    "wof:lastmodified":1467084598,
     "wof:name":"Monterey Car",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-97.139365,33.189951,-97.139365,33.189951],
+  "bbox": [
+    -97.139365,
+    33.189951,
+    -97.139365,
+    33.189951
+],
   "geometry": {"coordinates":[-97.139365,33.189951],"type":"Point"}
 }

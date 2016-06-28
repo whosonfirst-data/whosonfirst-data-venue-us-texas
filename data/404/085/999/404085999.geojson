@@ -2,13 +2,14 @@
   "id": 404085999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.861465,32.700929,-96.861465,32.700929",
     "geom:latitude":32.700929,
     "geom:longitude":-96.861465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 Woodmere Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404085999,
-    "wof:lastmodified":1449039346,
+    "wof:lastmodified":1467084645,
     "wof:name":"Robert Moomaw DVM",
     "wof:parent_id":85897351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.861465,32.700929,-96.861465,32.700929],
+  "bbox": [
+    -96.861465,
+    32.700929,
+    -96.861465,
+    32.700929
+],
   "geometry": {"coordinates":[-96.861465,32.700929],"type":"Point"}
 }

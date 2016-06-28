@@ -2,13 +2,14 @@
   "id": 387536293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.471033,29.949284,-95.471033,29.949284",
     "geom:latitude":29.949284,
     "geom:longitude":-95.471033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 Bolton Gardens Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387536293,
-    "wof:lastmodified":1449058374,
+    "wof:lastmodified":1467084842,
     "wof:name":"St Johns Medical Services",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organization"
     ]
 },
-  "bbox": [-95.471033,29.949284,-95.471033,29.949284],
-  "geometry": {"coordinates":[-95.471033,29.949284],"type":"Point"}
+  "bbox": [
+    -95.471033,
+    29.949284,
+    -95.471033,
+    29.949284
+],
+  "geometry": {"coordinates":[-95.47103300000001,29.949284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253358975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.514412,33.660845,-95.514412,33.660845",
     "geom:latitude":33.660845,
     "geom:longitude":-95.514412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 Lamar Ave",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":253358975,
-    "wof:lastmodified":1449064068,
+    "wof:lastmodified":1467084988,
     "wof:name":"H&R Block",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-95.514412,33.660845,-95.514412,33.660845],
-  "geometry": {"coordinates":[-95.514412,33.660845],"type":"Point"}
+  "bbox": [
+    -95.514412,
+    33.660845,
+    -95.514412,
+    33.660845
+],
+  "geometry": {"coordinates":[-95.51441199999999,33.660845],"type":"Point"}
 }

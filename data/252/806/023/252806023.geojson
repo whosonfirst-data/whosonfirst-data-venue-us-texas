@@ -2,13 +2,14 @@
   "id": 252806023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701344,32.840462,-96.701344,32.840462",
     "geom:latitude":32.840462,
     "geom:longitude":-96.701344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9835 Donegal Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -86,10 +87,11 @@
         }
     ],
     "wof:id":252806023,
-    "wof:lastmodified":1449005404,
+    "wof:lastmodified":1467084047,
     "wof:name":"Jesse's AC & Appliance",
     "wof:parent_id":85897333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -110,6 +112,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-96.701344,32.840462,-96.701344,32.840462],
-  "geometry": {"coordinates":[-96.701344,32.840462],"type":"Point"}
+  "bbox": [
+    -96.701344,
+    32.840462,
+    -96.701344,
+    32.840462
+],
+  "geometry": {"coordinates":[-96.70134400000001,32.840462],"type":"Point"}
 }

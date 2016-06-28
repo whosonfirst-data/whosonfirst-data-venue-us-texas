@@ -2,13 +2,14 @@
   "id": 219944829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487231,29.440029,-98.487231,29.440029",
     "geom:latitude":29.440029,
     "geom:longitude":-98.487231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Elmira St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219944829,
-    "wof:lastmodified":1449072150,
+    "wof:lastmodified":1467085137,
     "wof:name":"Vera's Auto Care",
     "wof:parent_id":85871065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-98.487231,29.440029,-98.487231,29.440029],
-  "geometry": {"coordinates":[-98.487231,29.440029],"type":"Point"}
+  "bbox": [
+    -98.487231,
+    29.440029,
+    -98.487231,
+    29.440029
+],
+  "geometry": {"coordinates":[-98.48723099999999,29.440029],"type":"Point"}
 }

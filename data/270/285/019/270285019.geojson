@@ -2,13 +2,14 @@
   "id": 270285019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.608173,29.86428,-95.608173,29.86428",
     "geom:latitude":29.86428,
     "geom:longitude":-95.608173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6340 N Eldridge Pkwy Ste I-302",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270285019,
-    "wof:lastmodified":1449008739,
+    "wof:lastmodified":1467084153,
     "wof:name":"Shred Tex",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "destruction"
     ]
 },
-  "bbox": [-95.608173,29.86428,-95.608173,29.86428],
-  "geometry": {"coordinates":[-95.608173,29.86428],"type":"Point"}
+  "bbox": [
+    -95.608173,
+    29.86428,
+    -95.608173,
+    29.86428
+],
+  "geometry": {"coordinates":[-95.60817299999999,29.86428],"type":"Point"}
 }

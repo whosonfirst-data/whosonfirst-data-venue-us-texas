@@ -2,13 +2,14 @@
   "id": 303349037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757776,30.24436,-97.757776,30.24436",
     "geom:latitude":30.24436,
     "geom:longitude":-97.757776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 S 1st St Ste H",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303349037,
-    "wof:lastmodified":1448999042,
+    "wof:lastmodified":1467083738,
     "wof:name":"Instapay Inc",
     "wof:parent_id":85893501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "order"
     ]
 },
-  "bbox": [-97.757776,30.24436,-97.757776,30.24436],
-  "geometry": {"coordinates":[-97.757776,30.24436],"type":"Point"}
+  "bbox": [
+    -97.757776,
+    30.24436,
+    -97.757776,
+    30.24436
+],
+  "geometry": {"coordinates":[-97.75777600000001,30.24436],"type":"Point"}
 }

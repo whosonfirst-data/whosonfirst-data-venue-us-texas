@@ -2,13 +2,14 @@
   "id": 270030733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.408256,29.753038,-95.408256,29.753038",
     "geom:latitude":29.753038,
     "geom:longitude":-95.408256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1997-A West Gray",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270030733,
-    "wof:lastmodified":1449009535,
+    "wof:lastmodified":1467084179,
     "wof:name":"Weight Control by Shaun Eckhardt",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weight"
     ]
 },
-  "bbox": [-95.408256,29.753038,-95.408256,29.753038],
-  "geometry": {"coordinates":[-95.408256,29.753038],"type":"Point"}
+  "bbox": [
+    -95.408256,
+    29.753038,
+    -95.408256,
+    29.753038
+],
+  "geometry": {"coordinates":[-95.40825599999999,29.753038],"type":"Point"}
 }

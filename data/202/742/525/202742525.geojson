@@ -2,13 +2,14 @@
   "id": 202742525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.055462,33.022306,-97.055462,33.022306",
     "geom:latitude":33.022306,
     "geom:longitude":-97.055462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 River Birch Dr",
     "sg:city":"Flower Mound",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202742525,
-    "wof:lastmodified":1449060279,
+    "wof:lastmodified":1467084891,
     "wof:name":"Pick Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.055462,33.022306,-97.055462,33.022306],
-  "geometry": {"coordinates":[-97.055462,33.022306],"type":"Point"}
+  "bbox": [
+    -97.055462,
+    33.022306,
+    -97.055462,
+    33.022306
+],
+  "geometry": {"coordinates":[-97.05546200000001,33.022306],"type":"Point"}
 }

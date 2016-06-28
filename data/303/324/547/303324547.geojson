@@ -2,13 +2,14 @@
   "id": 303324547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748945,30.259716,-97.748945,30.259716",
     "geom:latitude":30.259716,
     "geom:longitude":-97.748945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 West Riverside Dr.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303324547,
-    "wof:lastmodified":1448999548,
+    "wof:lastmodified":1467083763,
     "wof:name":"Gilbert's Gazelles",
     "wof:parent_id":85893573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"
     ]
 },
-  "bbox": [-97.748945,30.259716,-97.748945,30.259716],
-  "geometry": {"coordinates":[-97.748945,30.259716],"type":"Point"}
+  "bbox": [
+    -97.748945,
+    30.259716,
+    -97.748945,
+    30.259716
+],
+  "geometry": {"coordinates":[-97.74894500000001,30.259716],"type":"Point"}
 }

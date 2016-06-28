@@ -2,13 +2,14 @@
   "id": 253385095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.144505,33.352133,-94.144505,33.352133",
     "geom:latitude":33.352133,
     "geom:longitude":-94.144505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Whispering Pines Cir",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253385095,
-    "wof:lastmodified":1449064572,
+    "wof:lastmodified":1467085005,
     "wof:name":"Bob's Stump Grinding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-94.144505,33.352133,-94.144505,33.352133],
+  "bbox": [
+    -94.144505,
+    33.352133,
+    -94.144505,
+    33.352133
+],
   "geometry": {"coordinates":[-94.144505,33.352133],"type":"Point"}
 }

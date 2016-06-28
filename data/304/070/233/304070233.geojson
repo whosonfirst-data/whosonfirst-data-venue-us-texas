@@ -2,13 +2,14 @@
   "id": 304070233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.549867,32.350509,-102.549867,32.350509",
     "geom:latitude":32.350509,
     "geom:longitude":-102.549867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2164 NE 211",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304070233,
-    "wof:lastmodified":1449043838,
+    "wof:lastmodified":1467084665,
     "wof:name":"Propetro Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-102.549867,32.350509,-102.549867,32.350509],
-  "geometry": {"coordinates":[-102.549867,32.350509],"type":"Point"}
+  "bbox": [
+    -102.549867,
+    32.350509,
+    -102.549867,
+    32.350509
+],
+  "geometry": {"coordinates":[-102.54986700000001,32.350509],"type":"Point"}
 }

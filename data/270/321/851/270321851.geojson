@@ -2,13 +2,14 @@
   "id": 270321851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.43116,29.731835,-95.43116,29.731835",
     "geom:latitude":29.731835,
     "geom:longitude":-95.43116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Greenway Plz Ste 2000",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270321851,
-    "wof:lastmodified":1449008723,
+    "wof:lastmodified":1467084152,
     "wof:name":"Paxson & Associates Pc",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "law"
     ]
 },
-  "bbox": [-95.43116,29.731835,-95.43116,29.731835],
-  "geometry": {"coordinates":[-95.43116,29.731835],"type":"Point"}
+  "bbox": [
+    -95.43116,
+    29.731835,
+    -95.43116,
+    29.731835
+],
+  "geometry": {"coordinates":[-95.43116000000001,29.731835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303055133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.236756,30.073576,-97.236756,30.073576",
     "geom:latitude":30.073576,
     "geom:longitude":-97.236756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Highway 71 E",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303055133,
-    "wof:lastmodified":1448998667,
+    "wof:lastmodified":1467083718,
     "wof:name":"Bastrop Open MRI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "imaging"
     ]
 },
-  "bbox": [-97.236756,30.073576,-97.236756,30.073576],
+  "bbox": [
+    -97.236756,
+    30.073576,
+    -97.236756,
+    30.073576
+],
   "geometry": {"coordinates":[-97.236756,30.073576],"type":"Point"}
 }

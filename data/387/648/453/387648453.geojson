@@ -2,13 +2,14 @@
   "id": 387648453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432617,29.363027,-98.432617,29.363027",
     "geom:latitude":29.363027,
     "geom:longitude":-98.432617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Nash Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387648453,
-    "wof:lastmodified":1449057137,
+    "wof:lastmodified":1467084810,
     "wof:name":"Advent Computers",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.432617,29.363027,-98.432617,29.363027],
-  "geometry": {"coordinates":[-98.432617,29.363027],"type":"Point"}
+  "bbox": [
+    -98.432617,
+    29.363027,
+    -98.432617,
+    29.363027
+],
+  "geometry": {"coordinates":[-98.43261699999999,29.363027],"type":"Point"}
 }

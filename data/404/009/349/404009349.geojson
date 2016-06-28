@@ -2,13 +2,14 @@
   "id": 404009349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.50347,31.404721,-103.50347,31.404721",
     "geom:latitude":31.404721,
     "geom:longitude":-103.50347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 W Daggett St",
     "sg:city":"Pecos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404009349,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1467084660,
     "wof:name":"NHLI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.50347,31.404721,-103.50347,31.404721],
-  "geometry": {"coordinates":[-103.50347,31.404721],"type":"Point"}
+  "bbox": [
+    -103.50347,
+    31.404721,
+    -103.50347,
+    31.404721
+],
+  "geometry": {"coordinates":[-103.50346999999999,31.404721],"type":"Point"}
 }

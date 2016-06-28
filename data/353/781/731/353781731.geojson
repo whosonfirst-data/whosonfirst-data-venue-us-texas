@@ -2,13 +2,14 @@
   "id": 353781731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.553435,29.77047,-95.553435,29.77047",
     "geom:latitude":29.77047,
     "geom:longitude":-95.553435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12601 Overcup Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353781731,
-    "wof:lastmodified":1449018731,
+    "wof:lastmodified":1467084331,
     "wof:name":"Automation Supply and Engrg",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "integration"
     ]
 },
-  "bbox": [-95.553435,29.77047,-95.553435,29.77047],
-  "geometry": {"coordinates":[-95.553435,29.77047],"type":"Point"}
+  "bbox": [
+    -95.553435,
+    29.77047,
+    -95.553435,
+    29.77047
+],
+  "geometry": {"coordinates":[-95.55343499999999,29.77047],"type":"Point"}
 }

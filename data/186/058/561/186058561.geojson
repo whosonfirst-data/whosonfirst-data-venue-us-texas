@@ -2,13 +2,14 @@
   "id": 186058561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.308378,30.589229,-96.308378,30.589229",
     "geom:latitude":30.589229,
     "geom:longitude":-96.308378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 San Saba Dr",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186058561,
-    "wof:lastmodified":1449050786,
+    "wof:lastmodified":1467084700,
     "wof:name":"Alpine Filter Service",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.308378,30.589229,-96.308378,30.589229],
+  "bbox": [
+    -96.308378,
+    30.589229,
+    -96.308378,
+    30.589229
+],
   "geometry": {"coordinates":[-96.308378,30.589229],"type":"Point"}
 }

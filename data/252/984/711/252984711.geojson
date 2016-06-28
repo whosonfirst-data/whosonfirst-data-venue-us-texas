@@ -2,13 +2,14 @@
   "id": 252984711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.168865,26.109765,-97.168865,26.109765",
     "geom:latitude":26.109765,
     "geom:longitude":-97.168865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Padre Blvd",
     "sg:city":"S Padre Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252984711,
-    "wof:lastmodified":1449006031,
+    "wof:lastmodified":1467084082,
     "wof:name":"Island Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.168865,26.109765,-97.168865,26.109765],
+  "bbox": [
+    -97.168865,
+    26.109765,
+    -97.168865,
+    26.109765
+],
   "geometry": {"coordinates":[-97.168865,26.109765],"type":"Point"}
 }

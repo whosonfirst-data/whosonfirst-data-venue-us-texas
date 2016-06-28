@@ -2,13 +2,14 @@
   "id": 219289773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.083013,29.975727,-99.083013,29.975727",
     "geom:latitude":29.975727,
     "geom:longitude":-99.083013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Airport Loop",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219289773,
-    "wof:lastmodified":1449073326,
+    "wof:lastmodified":1467085161,
     "wof:name":"Cusick Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-99.083013,29.975727,-99.083013,29.975727],
-  "geometry": {"coordinates":[-99.083013,29.975727],"type":"Point"}
+  "bbox": [
+    -99.083013,
+    29.975727,
+    -99.083013,
+    29.975727
+],
+  "geometry": {"coordinates":[-99.08301299999999,29.975727],"type":"Point"}
 }

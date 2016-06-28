@@ -2,13 +2,14 @@
   "id": 236890415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785332,32.787861,-96.785332,32.787861",
     "geom:latitude":32.787861,
     "geom:longitude":-96.785332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Floyd Street",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236890415,
-    "wof:lastmodified":1449002220,
+    "wof:lastmodified":1467083894,
     "wof:name":"Freedman's Memorial",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-96.785332,32.787861,-96.785332,32.787861],
+  "bbox": [
+    -96.785332,
+    32.787861,
+    -96.785332,
+    32.787861
+],
   "geometry": {"coordinates":[-96.785332,32.787861],"type":"Point"}
 }

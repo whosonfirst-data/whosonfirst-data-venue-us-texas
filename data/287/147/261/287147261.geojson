@@ -2,13 +2,14 @@
   "id": 287147261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.499637,28.949658,-98.499637,28.949658",
     "geom:latitude":28.949658,
     "geom:longitude":-98.499637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 W Oaklawn Rd",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287147261,
-    "wof:lastmodified":1449001479,
+    "wof:lastmodified":1467083845,
     "wof:name":"Pleasanton Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-98.499637,28.949658,-98.499637,28.949658],
-  "geometry": {"coordinates":[-98.499637,28.949658],"type":"Point"}
+  "bbox": [
+    -98.499637,
+    28.949658,
+    -98.499637,
+    28.949658
+],
+  "geometry": {"coordinates":[-98.49963700000001,28.949658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269935711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.442001,29.808001,-95.442001,29.808001",
     "geom:latitude":29.808001,
     "geom:longitude":-95.442001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 North Loop W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269935711,
-    "wof:lastmodified":1449038418,
+    "wof:lastmodified":1467084627,
     "wof:name":"Murphy's Deli",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.442001,29.808001,-95.442001,29.808001],
+  "bbox": [
+    -95.442001,
+    29.808001,
+    -95.442001,
+    29.808001
+],
   "geometry": {"coordinates":[-95.442001,29.808001],"type":"Point"}
 }

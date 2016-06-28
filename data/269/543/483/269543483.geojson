@@ -2,13 +2,14 @@
   "id": 269543483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05431,33.15962,-97.05431,33.15962",
     "geom:latitude":33.15962,
     "geom:longitude":-97.05431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3602 Black Jack Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269543483,
-    "wof:lastmodified":1449036611,
+    "wof:lastmodified":1467084585,
     "wof:name":"Bulldog Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billing"
     ]
 },
-  "bbox": [-97.05431,33.15962,-97.05431,33.15962],
+  "bbox": [
+    -97.05431,
+    33.15962,
+    -97.05431,
+    33.15962
+],
   "geometry": {"coordinates":[-97.05431,33.15962],"type":"Point"}
 }

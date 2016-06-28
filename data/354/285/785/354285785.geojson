@@ -2,13 +2,14 @@
   "id": 354285785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549921,31.835708,-106.549921,31.835708",
     "geom:latitude":31.835708,
     "geom:longitude":-106.549921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6950 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354285785,
-    "wof:lastmodified":1449065989,
+    "wof:lastmodified":1467085053,
     "wof:name":"KWAL Paints",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-106.549921,31.835708,-106.549921,31.835708],
+  "bbox": [
+    -106.549921,
+    31.835708,
+    -106.549921,
+    31.835708
+],
   "geometry": {"coordinates":[-106.549921,31.835708],"type":"Point"}
 }

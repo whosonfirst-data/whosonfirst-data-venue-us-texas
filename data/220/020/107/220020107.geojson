@@ -2,13 +2,14 @@
   "id": 220020107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.857857,33.477231,-100.857857,33.477231",
     "geom:latitude":33.477231,
     "geom:longitude":-100.857857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Harris St",
     "sg:city":"Spur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220020107,
-    "wof:lastmodified":1449074394,
+    "wof:lastmodified":1467085185,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.857857,33.477231,-100.857857,33.477231],
+  "bbox": [
+    -100.857857,
+    33.477231,
+    -100.857857,
+    33.477231
+],
   "geometry": {"coordinates":[-100.857857,33.477231],"type":"Point"}
 }

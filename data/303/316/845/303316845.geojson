@@ -2,13 +2,14 @@
   "id": 303316845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.756828,30.254514,-97.756828,30.254514",
     "geom:latitude":30.254514,
     "geom:longitude":-97.756828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Columbus St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303316845,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1467083774,
     "wof:name":"Barton Springs Painting",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-97.756828,30.254514,-97.756828,30.254514],
+  "bbox": [
+    -97.756828,
+    30.254514,
+    -97.756828,
+    30.254514
+],
   "geometry": {"coordinates":[-97.756828,30.254514],"type":"Point"}
 }

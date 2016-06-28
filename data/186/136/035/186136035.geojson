@@ -2,13 +2,14 @@
   "id": 186136035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.133068,32.855821,-97.133068,32.855821",
     "geom:latitude":32.855821,
     "geom:longitude":-97.133068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3029 Richwood Cir",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186136035,
-    "wof:lastmodified":1449052995,
+    "wof:lastmodified":1467084746,
     "wof:name":"Brokers Transactions Svc",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-97.133068,32.855821,-97.133068,32.855821],
-  "geometry": {"coordinates":[-97.133068,32.855821],"type":"Point"}
+  "bbox": [
+    -97.133068,
+    32.855821,
+    -97.133068,
+    32.855821
+],
+  "geometry": {"coordinates":[-97.13306799999999,32.855821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387390751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.530543,29.892777,-95.530543,29.892777",
     "geom:latitude":29.892777,
     "geom:longitude":-95.530543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 Tiger Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387390751,
-    "wof:lastmodified":1449059958,
+    "wof:lastmodified":1467084884,
     "wof:name":"CIT Group",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.530543,29.892777,-95.530543,29.892777],
-  "geometry": {"coordinates":[-95.530543,29.892777],"type":"Point"}
+  "bbox": [
+    -95.530543,
+    29.892777,
+    -95.530543,
+    29.892777
+],
+  "geometry": {"coordinates":[-95.53054299999999,29.892777],"type":"Point"}
 }

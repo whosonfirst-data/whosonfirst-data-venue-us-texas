@@ -2,13 +2,14 @@
   "id": 370606825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.530504,30.21525,-95.530504,30.21525",
     "geom:latitude":30.21525,
     "geom:longitude":-95.530504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 W Sienna Pl",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370606825,
-    "wof:lastmodified":1449029609,
+    "wof:lastmodified":1467084482,
     "wof:name":"Seismodel 1",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-95.530504,30.21525,-95.530504,30.21525],
-  "geometry": {"coordinates":[-95.530504,30.21525],"type":"Point"}
+  "bbox": [
+    -95.530504,
+    30.21525,
+    -95.530504,
+    30.21525
+],
+  "geometry": {"coordinates":[-95.53050399999999,30.21525],"type":"Point"}
 }

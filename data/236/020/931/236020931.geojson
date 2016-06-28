@@ -2,13 +2,14 @@
   "id": 236020931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521627,29.668986,-95.521627,29.668986",
     "geom:latitude":29.668986,
     "geom:longitude":-95.521627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8103 Burning Hills Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236020931,
-    "wof:lastmodified":1449003143,
+    "wof:lastmodified":1467083940,
     "wof:name":"Multiplan",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-95.521627,29.668986,-95.521627,29.668986],
+  "bbox": [
+    -95.521627,
+    29.668986,
+    -95.521627,
+    29.668986
+],
   "geometry": {"coordinates":[-95.521627,29.668986],"type":"Point"}
 }

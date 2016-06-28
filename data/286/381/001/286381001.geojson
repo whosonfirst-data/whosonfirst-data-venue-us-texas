@@ -2,13 +2,14 @@
   "id": 286381001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.449839,29.80777,-95.449839,29.80777",
     "geom:latitude":29.80777,
     "geom:longitude":-95.449839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 Directors Row",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286381001,
-    "wof:lastmodified":1449015421,
+    "wof:lastmodified":1467084243,
     "wof:name":"Harris Stamp Shop",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamp"
     ]
 },
-  "bbox": [-95.449839,29.80777,-95.449839,29.80777],
+  "bbox": [
+    -95.449839,
+    29.80777,
+    -95.449839,
+    29.80777
+],
   "geometry": {"coordinates":[-95.449839,29.80777],"type":"Point"}
 }

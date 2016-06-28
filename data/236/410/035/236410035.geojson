@@ -2,13 +2,14 @@
   "id": 236410035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718788,33.174375,-96.718788,33.174375",
     "geom:latitude":33.174375,
     "geom:longitude":-96.718788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7692 W Eldorado Pkwy",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236410035,
-    "wof:lastmodified":1449001714,
+    "wof:lastmodified":1467083856,
     "wof:name":"Mckinney Family Medicine",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.718788,33.174375,-96.718788,33.174375],
+  "bbox": [
+    -96.718788,
+    33.174375,
+    -96.718788,
+    33.174375
+],
   "geometry": {"coordinates":[-96.718788,33.174375],"type":"Point"}
 }

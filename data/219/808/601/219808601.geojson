@@ -2,13 +2,14 @@
   "id": 219808601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.53708,32.10899,-98.53708,32.10899",
     "geom:latitude":32.10899,
     "geom:longitude":-98.53708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Texas St",
     "sg:city":"De Leon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219808601,
-    "wof:lastmodified":1449070545,
+    "wof:lastmodified":1467085103,
     "wof:name":"Texas Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.53708,32.10899,-98.53708,32.10899],
+  "bbox": [
+    -98.53708,
+    32.10899,
+    -98.53708,
+    32.10899
+],
   "geometry": {"coordinates":[-98.53708,32.10899],"type":"Point"}
 }

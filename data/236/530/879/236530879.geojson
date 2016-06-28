@@ -2,13 +2,14 @@
   "id": 236530879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.345306,31.116242,-99.345306,31.116242",
     "geom:latitude":31.116242,
     "geom:longitude":-99.345306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Southgate Dr",
     "sg:city":"Brady",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236530879,
-    "wof:lastmodified":1449003404,
+    "wof:lastmodified":1467083952,
     "wof:name":"Mike Gutierrez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-99.345306,31.116242,-99.345306,31.116242],
-  "geometry": {"coordinates":[-99.345306,31.116242],"type":"Point"}
+  "bbox": [
+    -99.345306,
+    31.116242,
+    -99.345306,
+    31.116242
+],
+  "geometry": {"coordinates":[-99.34530599999999,31.116242],"type":"Point"}
 }

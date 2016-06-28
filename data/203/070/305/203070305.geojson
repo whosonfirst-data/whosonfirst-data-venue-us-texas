@@ -2,13 +2,14 @@
   "id": 203070305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.060448,29.651953,-95.060448,29.651953",
     "geom:latitude":29.651953,
     "geom:longitude":-95.060448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11450 Fairmont Pkwy",
     "sg:city":"La Porte",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203070305,
-    "wof:lastmodified":1449025834,
+    "wof:lastmodified":1467084401,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85804809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.060448,29.651953,-95.060448,29.651953],
-  "geometry": {"coordinates":[-95.060448,29.651953],"type":"Point"}
+  "bbox": [
+    -95.060448,
+    29.651953,
+    -95.060448,
+    29.651953
+],
+  "geometry": {"coordinates":[-95.06044799999999,29.651953],"type":"Point"}
 }

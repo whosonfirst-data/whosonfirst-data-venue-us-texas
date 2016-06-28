@@ -2,13 +2,14 @@
   "id": 236337369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.285206,29.685461,-95.285206,29.685461",
     "geom:latitude":29.685461,
     "geom:longitude":-95.285206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7739 Park Place Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236337369,
-    "wof:lastmodified":1449003151,
+    "wof:lastmodified":1467083940,
     "wof:name":"Gilbert Leasing",
     "wof:parent_id":85869623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-95.285206,29.685461,-95.285206,29.685461],
+  "bbox": [
+    -95.285206,
+    29.685461,
+    -95.285206,
+    29.685461
+],
   "geometry": {"coordinates":[-95.285206,29.685461],"type":"Point"}
 }

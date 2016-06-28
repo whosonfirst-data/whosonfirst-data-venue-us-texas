@@ -2,13 +2,14 @@
   "id": 270250255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.405403,29.9168,-95.405403,29.9168",
     "geom:latitude":29.9168,
     "geom:longitude":-95.405403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11012 Airline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270250255,
-    "wof:lastmodified":1449010052,
+    "wof:lastmodified":1467084197,
     "wof:name":"Speedy Dry Cleaning",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.405403,29.9168,-95.405403,29.9168],
-  "geometry": {"coordinates":[-95.405403,29.9168],"type":"Point"}
+  "bbox": [
+    -95.405403,
+    29.9168,
+    -95.405403,
+    29.9168
+],
+  "geometry": {"coordinates":[-95.40540300000001,29.9168],"type":"Point"}
 }

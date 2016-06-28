@@ -2,13 +2,14 @@
   "id": 253143887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749013,32.90552,-96.749013,32.90552",
     "geom:latitude":32.90552,
     "geom:longitude":-96.749013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9310 Forest Ln Ste 334",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253143887,
-    "wof:lastmodified":1449065265,
+    "wof:lastmodified":1467085029,
     "wof:name":"Primo Brothers Pizza",
     "wof:parent_id":85897337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-96.749013,32.90552,-96.749013,32.90552],
-  "geometry": {"coordinates":[-96.749013,32.90552],"type":"Point"}
+  "bbox": [
+    -96.749013,
+    32.90552,
+    -96.749013,
+    32.90552
+],
+  "geometry": {"coordinates":[-96.74901300000001,32.90552],"type":"Point"}
 }

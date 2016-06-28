@@ -2,13 +2,14 @@
   "id": 287284557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.669823,26.205302,-97.669823,26.205302",
     "geom:latitude":26.205302,
     "geom:longitude":-97.669823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 N 25th St Apt 100",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287284557,
-    "wof:lastmodified":1449001214,
+    "wof:lastmodified":1467083836,
     "wof:name":"Southwest Properties",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.669823,26.205302,-97.669823,26.205302],
-  "geometry": {"coordinates":[-97.669823,26.205302],"type":"Point"}
+  "bbox": [
+    -97.669823,
+    26.205302,
+    -97.669823,
+    26.205302
+],
+  "geometry": {"coordinates":[-97.66982299999999,26.205302],"type":"Point"}
 }

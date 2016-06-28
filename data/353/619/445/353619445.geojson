@@ -2,13 +2,14 @@
   "id": 353619445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.256617,30.679993,-96.256617,30.679993",
     "geom:latitude":30.679993,
     "geom:longitude":-96.256617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9370 el Campo Trl",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353619445,
-    "wof:lastmodified":1449018699,
+    "wof:lastmodified":1467084331,
     "wof:name":"Boleman Cattle Co",
     "wof:parent_id":85824183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-96.256617,30.679993,-96.256617,30.679993],
-  "geometry": {"coordinates":[-96.256617,30.679993],"type":"Point"}
+  "bbox": [
+    -96.256617,
+    30.679993,
+    -96.256617,
+    30.679993
+],
+  "geometry": {"coordinates":[-96.25661700000001,30.679993],"type":"Point"}
 }

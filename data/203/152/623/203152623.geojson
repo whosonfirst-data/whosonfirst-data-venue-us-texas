@@ -2,13 +2,14 @@
   "id": 203152623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.471325,29.866175,-95.471325,29.866175",
     "geom:latitude":29.866175,
     "geom:longitude":-95.471325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7203 Brush Wood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203152623,
-    "wof:lastmodified":1449026392,
+    "wof:lastmodified":1467084412,
     "wof:name":"Heidi's Trucking",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.471325,29.866175,-95.471325,29.866175],
-  "geometry": {"coordinates":[-95.471325,29.866175],"type":"Point"}
+  "bbox": [
+    -95.471325,
+    29.866175,
+    -95.471325,
+    29.866175
+],
+  "geometry": {"coordinates":[-95.47132499999999,29.866175],"type":"Point"}
 }

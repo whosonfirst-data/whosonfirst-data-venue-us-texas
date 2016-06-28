@@ -2,13 +2,14 @@
   "id": 303308141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757942,30.27302,-97.757942,30.27302",
     "geom:latitude":30.27302,
     "geom:longitude":-97.757942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 W 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303308141,
-    "wof:lastmodified":1449000631,
+    "wof:lastmodified":1467083816,
     "wof:name":"Kreiss",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.757942,30.27302,-97.757942,30.27302],
+  "bbox": [
+    -97.757942,
+    30.27302,
+    -97.757942,
+    30.27302
+],
   "geometry": {"coordinates":[-97.757942,30.27302],"type":"Point"}
 }

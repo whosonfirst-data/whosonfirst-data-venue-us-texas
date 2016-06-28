@@ -2,13 +2,14 @@
   "id": 202717801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.007484,32.662079,-97.007484,32.662079",
     "geom:latitude":32.662079,
     "geom:longitude":-97.007484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4426 Cabot Dr",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202717801,
-    "wof:lastmodified":1449060166,
+    "wof:lastmodified":1467084888,
     "wof:name":"A Stitch Above",
     "wof:parent_id":85819647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.007484,32.662079,-97.007484,32.662079],
-  "geometry": {"coordinates":[-97.007484,32.662079],"type":"Point"}
+  "bbox": [
+    -97.007484,
+    32.662079,
+    -97.007484,
+    32.662079
+],
+  "geometry": {"coordinates":[-97.00748400000001,32.662079],"type":"Point"}
 }

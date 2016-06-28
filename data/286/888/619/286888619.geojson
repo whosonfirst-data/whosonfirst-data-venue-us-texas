@@ -2,13 +2,14 @@
   "id": 286888619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.86002,29.290111,-94.86002,29.290111",
     "geom:latitude":29.290111,
     "geom:longitude":-94.86002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7817 Bayside Ave",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286888619,
-    "wof:lastmodified":1449017035,
+    "wof:lastmodified":1467084288,
     "wof:name":"Sunbird Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-94.86002,29.290111,-94.86002,29.290111],
-  "geometry": {"coordinates":[-94.86002,29.290111],"type":"Point"}
+  "bbox": [
+    -94.86002,
+    29.290111,
+    -94.86002,
+    29.290111
+],
+  "geometry": {"coordinates":[-94.86002000000001,29.290111],"type":"Point"}
 }

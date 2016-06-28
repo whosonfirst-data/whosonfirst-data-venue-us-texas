@@ -2,13 +2,14 @@
   "id": 387079043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.500588,27.584699,-99.500588,27.584699",
     "geom:latitude":27.584699,
     "geom:longitude":-99.500588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8340 Tejas Loop",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387079043,
-    "wof:lastmodified":1449059288,
+    "wof:lastmodified":1467084866,
     "wof:name":"Roadrunner Vehicle Escort Svc",
     "wof:parent_id":85838603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.500588,27.584699,-99.500588,27.584699],
-  "geometry": {"coordinates":[-99.500588,27.584699],"type":"Point"}
+  "bbox": [
+    -99.500588,
+    27.584699,
+    -99.500588,
+    27.584699
+],
+  "geometry": {"coordinates":[-99.50058799999999,27.584699],"type":"Point"}
 }

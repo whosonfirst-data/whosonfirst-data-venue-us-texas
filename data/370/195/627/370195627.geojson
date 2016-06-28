@@ -2,13 +2,14 @@
   "id": 370195627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.191054,29.654296,-95.191054,29.654296",
     "geom:latitude":29.654296,
     "geom:longitude":-95.191054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Llano St",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370195627,
-    "wof:lastmodified":1449031303,
+    "wof:lastmodified":1467084525,
     "wof:name":"Metro City Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.191054,29.654296,-95.191054,29.654296],
-  "geometry": {"coordinates":[-95.191054,29.654296],"type":"Point"}
+  "bbox": [
+    -95.191054,
+    29.654296,
+    -95.191054,
+    29.654296
+],
+  "geometry": {"coordinates":[-95.19105399999999,29.654296],"type":"Point"}
 }

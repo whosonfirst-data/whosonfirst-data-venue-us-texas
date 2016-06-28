@@ -2,13 +2,14 @@
   "id": 303283151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.728017,30.258172,-97.728017,30.258172",
     "geom:latitude":30.258172,
     "geom:longitude":-97.728017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 E. Cesar Chavez",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303283151,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1467083727,
     "wof:name":"Orbit Salon",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-97.728017,30.258172,-97.728017,30.258172],
-  "geometry": {"coordinates":[-97.728017,30.258172],"type":"Point"}
+  "bbox": [
+    -97.728017,
+    30.258172,
+    -97.728017,
+    30.258172
+],
+  "geometry": {"coordinates":[-97.72801699999999,30.258172],"type":"Point"}
 }

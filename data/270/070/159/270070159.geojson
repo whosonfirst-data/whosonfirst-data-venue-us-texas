@@ -2,13 +2,14 @@
   "id": 270070159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.45673,29.780893,-95.45673,29.780893",
     "geom:latitude":29.780893,
     "geom:longitude":-95.45673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Post Oak Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270070159,
-    "wof:lastmodified":1449009816,
+    "wof:lastmodified":1467084189,
     "wof:name":"Bradford Airport Logistics",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [-95.45673,29.780893,-95.45673,29.780893],
-  "geometry": {"coordinates":[-95.45673,29.780893],"type":"Point"}
+  "bbox": [
+    -95.45673,
+    29.780893,
+    -95.45673,
+    29.780893
+],
+  "geometry": {"coordinates":[-95.45672999999999,29.780893],"type":"Point"}
 }

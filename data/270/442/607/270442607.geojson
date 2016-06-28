@@ -2,13 +2,14 @@
   "id": 270442607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.087474,29.548027,-95.087474,29.548027",
     "geom:latitude":29.548027,
     "geom:longitude":-95.087474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Space Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270442607,
-    "wof:lastmodified":1449009708,
+    "wof:lastmodified":1467084185,
     "wof:name":"St. John Hospital",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.087474,29.548027,-95.087474,29.548027],
+  "bbox": [
+    -95.087474,
+    29.548027,
+    -95.087474,
+    29.548027
+],
   "geometry": {"coordinates":[-95.087474,29.548027],"type":"Point"}
 }

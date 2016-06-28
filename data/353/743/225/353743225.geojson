@@ -2,13 +2,14 @@
   "id": 353743225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.875439,30.887259,-102.875439,30.887259",
     "geom:latitude":30.887259,
     "geom:longitude":-102.875439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E 3rd St",
     "sg:city":"Fort Stockton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353743225,
-    "wof:lastmodified":1449020771,
+    "wof:lastmodified":1467084375,
     "wof:name":"Historic Fort Stockton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-102.875439,30.887259,-102.875439,30.887259],
+  "bbox": [
+    -102.875439,
+    30.887259,
+    -102.875439,
+    30.887259
+],
   "geometry": {"coordinates":[-102.875439,30.887259],"type":"Point"}
 }

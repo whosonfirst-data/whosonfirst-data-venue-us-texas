@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102269633",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.84529,35.210861,-101.84529,35.210861",
     "geom:latitude":35.210861,
     "geom:longitude":-101.84529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Jefferson St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875863,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102269633",
-    "wof:lastmodified":1449069273,
+    "wof:lastmodified":1467085097,
     "wof:name":"Amarillo Plastic Fabricators",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.84529,35.210861,-101.84529,35.210861],
-  "geometry": {"coordinates":[-101.84529,35.210861],"type":"Point"}
+  "bbox": [
+    -101.84529,
+    35.210861,
+    -101.84529,
+    35.210861
+],
+  "geometry": {"coordinates":[-101.84529000000001,35.210861],"type":"Point"}
 }

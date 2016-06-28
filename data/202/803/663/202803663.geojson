@@ -2,13 +2,14 @@
   "id": 202803663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.368781,30.664682,-96.368781,30.664682",
     "geom:latitude":30.664682,
     "geom:longitude":-96.368781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 E 32nd St",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202803663,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1467084941,
     "wof:name":"Rd Pharmaceutical",
     "wof:parent_id":85893605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.368781,30.664682,-96.368781,30.664682],
+  "bbox": [
+    -96.368781,
+    30.664682,
+    -96.368781,
+    30.664682
+],
   "geometry": {"coordinates":[-96.368781,30.664682],"type":"Point"}
 }

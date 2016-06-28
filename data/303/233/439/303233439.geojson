@@ -2,13 +2,14 @@
   "id": 303233439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740753,30.269675,-97.740753,30.269675",
     "geom:latitude":30.269675,
     "geom:longitude":-97.740753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815A Brazos St A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303233439,
-    "wof:lastmodified":1449000606,
+    "wof:lastmodified":1467083815,
     "wof:name":"220 East 8th Street Garage",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-97.740753,30.269675,-97.740753,30.269675],
+  "bbox": [
+    -97.740753,
+    30.269675,
+    -97.740753,
+    30.269675
+],
   "geometry": {"coordinates":[-97.740753,30.269675],"type":"Point"}
 }

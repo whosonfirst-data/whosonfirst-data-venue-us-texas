@@ -2,13 +2,14 @@
   "id": 253603405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.166783,32.617385,-97.166783,32.617385",
     "geom:latitude":32.617385,
     "geom:longitude":-97.166783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8008 Saddle Oak Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253603405,
-    "wof:lastmodified":1449065314,
+    "wof:lastmodified":1467085031,
     "wof:name":"Novitas Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.166783,32.617385,-97.166783,32.617385],
+  "bbox": [
+    -97.166783,
+    32.617385,
+    -97.166783,
+    32.617385
+],
   "geometry": {"coordinates":[-97.166783,32.617385],"type":"Point"}
 }

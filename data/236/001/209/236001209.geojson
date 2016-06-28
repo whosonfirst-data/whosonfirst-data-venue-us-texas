@@ -2,13 +2,14 @@
   "id": 236001209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756583,32.587999,-96.756583,32.587999",
     "geom:latitude":32.587999,
     "geom:longitude":-96.756583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Dallas Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236001209,
-    "wof:lastmodified":1449002242,
+    "wof:lastmodified":1467083895,
     "wof:name":"Cc Charter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-96.756583,32.587999,-96.756583,32.587999],
-  "geometry": {"coordinates":[-96.756583,32.587999],"type":"Point"}
+  "bbox": [
+    -96.756583,
+    32.587999,
+    -96.756583,
+    32.587999
+],
+  "geometry": {"coordinates":[-96.75658300000001,32.587999],"type":"Point"}
 }

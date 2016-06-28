@@ -2,13 +2,14 @@
   "id": 387851723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.904311,35.176542,-101.904311,35.176542",
     "geom:latitude":35.176542,
     "geom:longitude":-101.904311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 W 34th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387851723,
-    "wof:lastmodified":1449058616,
+    "wof:lastmodified":1467084849,
     "wof:name":"David Allison Law Office",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-101.904311,35.176542,-101.904311,35.176542],
-  "geometry": {"coordinates":[-101.904311,35.176542],"type":"Point"}
+  "bbox": [
+    -101.904311,
+    35.176542,
+    -101.904311,
+    35.176542
+],
+  "geometry": {"coordinates":[-101.90431100000001,35.176542],"type":"Point"}
 }

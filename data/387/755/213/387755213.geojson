@@ -2,13 +2,14 @@
   "id": 387755213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.703145,34.189508,-101.703145,34.189508",
     "geom:latitude":34.189508,
     "geom:longitude":-101.703145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Broadway St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387755213,
-    "wof:lastmodified":1449057172,
+    "wof:lastmodified":1467084811,
     "wof:name":"Plainview Mattress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.703145,34.189508,-101.703145,34.189508],
-  "geometry": {"coordinates":[-101.703145,34.189508],"type":"Point"}
+  "bbox": [
+    -101.703145,
+    34.189508,
+    -101.703145,
+    34.189508
+],
+  "geometry": {"coordinates":[-101.70314500000001,34.189508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387836323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.401356,31.912383,-106.401356,31.912383",
     "geom:latitude":31.912383,
     "geom:longitude":-106.401356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10350 Grouse Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387836323,
-    "wof:lastmodified":1449058623,
+    "wof:lastmodified":1467084849,
     "wof:name":"Jim Swanson Builders",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.401356,31.912383,-106.401356,31.912383],
-  "geometry": {"coordinates":[-106.401356,31.912383],"type":"Point"}
+  "bbox": [
+    -106.401356,
+    31.912383,
+    -106.401356,
+    31.912383
+],
+  "geometry": {"coordinates":[-106.40135600000001,31.912383],"type":"Point"}
 }

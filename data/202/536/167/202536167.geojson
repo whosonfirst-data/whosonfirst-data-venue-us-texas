@@ -2,13 +2,14 @@
   "id": 202536167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.784641,30.450505,-97.784641,30.450505",
     "geom:latitude":30.450505,
     "geom:longitude":-97.784641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9219 Anderson Mill Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202536167,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1467084920,
     "wof:name":"S & S Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-97.784641,30.450505,-97.784641,30.450505],
-  "geometry": {"coordinates":[-97.784641,30.450505],"type":"Point"}
+  "bbox": [
+    -97.784641,
+    30.450505,
+    -97.784641,
+    30.450505
+],
+  "geometry": {"coordinates":[-97.78464099999999,30.450505],"type":"Point"}
 }

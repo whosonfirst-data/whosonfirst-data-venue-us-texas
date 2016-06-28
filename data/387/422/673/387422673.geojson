@@ -2,13 +2,14 @@
   "id": 387422673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335045,32.852076,-97.335045,32.852076",
     "geom:latitude":32.852076,
     "geom:longitude":-97.335045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Minuteman Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387422673,
-    "wof:lastmodified":1449056378,
+    "wof:lastmodified":1467084791,
     "wof:name":"CA Enterprises",
     "wof:parent_id":85871595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.335045,32.852076,-97.335045,32.852076],
-  "geometry": {"coordinates":[-97.335045,32.852076],"type":"Point"}
+  "bbox": [
+    -97.335045,
+    32.852076,
+    -97.335045,
+    32.852076
+],
+  "geometry": {"coordinates":[-97.33504499999999,32.852076],"type":"Point"}
 }

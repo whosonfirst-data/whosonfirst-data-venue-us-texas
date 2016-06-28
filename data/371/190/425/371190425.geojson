@@ -2,13 +2,14 @@
   "id": 371190425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.376849,31.752357,-106.376849,31.752357",
     "geom:latitude":31.752357,
     "geom:longitude":-106.376849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7240 N Loop Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371190425,
-    "wof:lastmodified":1449050085,
+    "wof:lastmodified":1467084690,
     "wof:name":"Barillitos",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.376849,31.752357,-106.376849,31.752357],
-  "geometry": {"coordinates":[-106.376849,31.752357],"type":"Point"}
+  "bbox": [
+    -106.376849,
+    31.752357,
+    -106.376849,
+    31.752357
+],
+  "geometry": {"coordinates":[-106.37684900000001,31.752357],"type":"Point"}
 }

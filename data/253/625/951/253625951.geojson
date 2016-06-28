@@ -2,13 +2,14 @@
   "id": 253625951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077553,32.748421,-97.077553,32.748421",
     "geom:latitude":32.748421,
     "geom:longitude":-97.077553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E Randol Mill Rd # 612",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253625951,
-    "wof:lastmodified":1449065844,
+    "wof:lastmodified":1467085049,
     "wof:name":"Wintool Usa",
     "wof:parent_id":85897289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-97.077553,32.748421,-97.077553,32.748421],
-  "geometry": {"coordinates":[-97.077553,32.748421],"type":"Point"}
+  "bbox": [
+    -97.077553,
+    32.748421,
+    -97.077553,
+    32.748421
+],
+  "geometry": {"coordinates":[-97.07755299999999,32.748421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287137135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.45713,27.60375,-99.45713,27.60375",
     "geom:latitude":27.60375,
     "geom:longitude":-99.45713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9551 Backwoods Trl",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287137135,
-    "wof:lastmodified":1449001452,
+    "wof:lastmodified":1467083844,
     "wof:name":"United Independent School Dist",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-99.45713,27.60375,-99.45713,27.60375],
-  "geometry": {"coordinates":[-99.45713,27.60375],"type":"Point"}
+  "bbox": [
+    -99.45713,
+    27.60375,
+    -99.45713,
+    27.60375
+],
+  "geometry": {"coordinates":[-99.45713000000001,27.60375],"type":"Point"}
 }

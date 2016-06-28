@@ -2,13 +2,14 @@
   "id": 202478939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725063,30.517098,-97.725063,30.517098",
     "geom:latitude":30.517098,
     "geom:longitude":-97.725063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8442 Fern Bluff Ave",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202478939,
-    "wof:lastmodified":1449060176,
+    "wof:lastmodified":1467084889,
     "wof:name":"Kandy Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.725063,30.517098,-97.725063,30.517098],
-  "geometry": {"coordinates":[-97.725063,30.517098],"type":"Point"}
+  "bbox": [
+    -97.725063,
+    30.517098,
+    -97.725063,
+    30.517098
+],
+  "geometry": {"coordinates":[-97.72506300000001,30.517098],"type":"Point"}
 }

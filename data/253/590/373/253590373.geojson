@@ -2,13 +2,14 @@
   "id": 253590373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.900551,30.638671,-93.900551,30.638671",
     "geom:latitude":30.638671,
     "geom:longitude":-93.900551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 S Margaret Ave",
     "sg:city":"Kirbyville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253590373,
-    "wof:lastmodified":1449064575,
+    "wof:lastmodified":1467085005,
     "wof:name":"Dave's Java Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-93.900551,30.638671,-93.900551,30.638671],
-  "geometry": {"coordinates":[-93.900551,30.638671],"type":"Point"}
+  "bbox": [
+    -93.900551,
+    30.638671,
+    -93.900551,
+    30.638671
+],
+  "geometry": {"coordinates":[-93.90055099999999,30.638671],"type":"Point"}
 }

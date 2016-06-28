@@ -2,13 +2,14 @@
   "id": 219638001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.455796,31.455512,-100.455796,31.455512",
     "geom:latitude":31.455512,
     "geom:longitude":-100.455796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 W Beauregard Ave",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219638001,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1467085104,
     "wof:name":"Giz & Hums Billiards & Brew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drinking"
     ]
 },
-  "bbox": [-100.455796,31.455512,-100.455796,31.455512],
-  "geometry": {"coordinates":[-100.455796,31.455512],"type":"Point"}
+  "bbox": [
+    -100.455796,
+    31.455512,
+    -100.455796,
+    31.455512
+],
+  "geometry": {"coordinates":[-100.45579600000001,31.455512],"type":"Point"}
 }

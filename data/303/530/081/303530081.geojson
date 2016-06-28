@@ -2,13 +2,14 @@
   "id": 303530081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.955008,30.222493,-97.955008,30.222493",
     "geom:latitude":30.222493,
     "geom:longitude":-97.955008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10808 Highway 290 W",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303530081,
-    "wof:lastmodified":1448999422,
+    "wof:lastmodified":1467083757,
     "wof:name":"K & R Plastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "etc-producers"
     ]
 },
-  "bbox": [-97.955008,30.222493,-97.955008,30.222493],
-  "geometry": {"coordinates":[-97.955008,30.222493],"type":"Point"}
+  "bbox": [
+    -97.955008,
+    30.222493,
+    -97.955008,
+    30.222493
+],
+  "geometry": {"coordinates":[-97.95500800000001,30.222493],"type":"Point"}
 }

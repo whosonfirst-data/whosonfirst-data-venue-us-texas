@@ -2,13 +2,14 @@
   "id": 236801201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.847299,32.983696,-96.847299,32.983696",
     "geom:latitude":32.983696,
     "geom:longitude":-96.847299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2538 Golden Bear Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236801201,
-    "wof:lastmodified":1449004548,
+    "wof:lastmodified":1467084006,
     "wof:name":"Golden Bear Golf Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mini"
     ]
 },
-  "bbox": [-96.847299,32.983696,-96.847299,32.983696],
-  "geometry": {"coordinates":[-96.847299,32.983696],"type":"Point"}
+  "bbox": [
+    -96.847299,
+    32.983696,
+    -96.847299,
+    32.983696
+],
+  "geometry": {"coordinates":[-96.84729900000001,32.983696],"type":"Point"}
 }

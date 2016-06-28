@@ -2,13 +2,14 @@
   "id": 270127541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.439102,29.7416,-95.439102,29.7416",
     "geom:latitude":29.7416,
     "geom:longitude":-95.439102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270127541,
-    "wof:lastmodified":1449010894,
+    "wof:lastmodified":1467084225,
     "wof:name":"Quick Pick Lock & Key",
     "wof:parent_id":85869307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.439102,29.7416,-95.439102,29.7416],
-  "geometry": {"coordinates":[-95.439102,29.7416],"type":"Point"}
+  "bbox": [
+    -95.439102,
+    29.7416,
+    -95.439102,
+    29.7416
+],
+  "geometry": {"coordinates":[-95.43910200000001,29.7416],"type":"Point"}
 }

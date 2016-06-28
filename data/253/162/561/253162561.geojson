@@ -2,13 +2,14 @@
   "id": 253162561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701864,32.916569,-96.701864,32.916569",
     "geom:latitude":32.916569,
     "geom:longitude":-96.701864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10560 Walnut St #100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253162561,
-    "wof:lastmodified":1449065342,
+    "wof:lastmodified":1467085032,
     "wof:name":"The Boiling Crab",
     "wof:parent_id":85897405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cajun/creole"
     ]
 },
-  "bbox": [-96.701864,32.916569,-96.701864,32.916569],
+  "bbox": [
+    -96.701864,
+    32.916569,
+    -96.701864,
+    32.916569
+],
   "geometry": {"coordinates":[-96.701864,32.916569],"type":"Point"}
 }

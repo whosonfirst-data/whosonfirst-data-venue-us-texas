@@ -2,13 +2,14 @@
   "id": 236868751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805777,32.739398,-96.805777,32.739398",
     "geom:latitude":32.739398,
     "geom:longitude":-96.805777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 Morrell Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236868751,
-    "wof:lastmodified":1449001789,
+    "wof:lastmodified":1467083862,
     "wof:name":"Chi's Grocery Store",
     "wof:parent_id":85838633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805777,32.739398,-96.805777,32.739398],
-  "geometry": {"coordinates":[-96.805777,32.739398],"type":"Point"}
+  "bbox": [
+    -96.805777,
+    32.739398,
+    -96.805777,
+    32.739398
+],
+  "geometry": {"coordinates":[-96.80577700000001,32.739398],"type":"Point"}
 }

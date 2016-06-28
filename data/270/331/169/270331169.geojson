@@ -2,13 +2,14 @@
   "id": 270331169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.190601,29.810216,-95.190601,29.810216",
     "geom:latitude":29.810216,
     "geom:longitude":-95.190601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14514 Lorne Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270331169,
-    "wof:lastmodified":1449010124,
+    "wof:lastmodified":1467084199,
     "wof:name":"Glass Etching by Matisse",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-95.190601,29.810216,-95.190601,29.810216],
+  "bbox": [
+    -95.190601,
+    29.810216,
+    -95.190601,
+    29.810216
+],
   "geometry": {"coordinates":[-95.190601,29.810216],"type":"Point"}
 }

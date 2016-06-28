@@ -2,13 +2,14 @@
   "id": 387007369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.96071,33.596375,-101.96071,33.596375",
     "geom:latitude":33.596375,
     "geom:longitude":-101.96071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6711 1st St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387007369,
-    "wof:lastmodified":1449059269,
+    "wof:lastmodified":1467084865,
     "wof:name":"H & W Genetex",
     "wof:parent_id":85878805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "seed"
     ]
 },
-  "bbox": [-101.96071,33.596375,-101.96071,33.596375],
-  "geometry": {"coordinates":[-101.96071,33.596375],"type":"Point"}
+  "bbox": [
+    -101.96071,
+    33.596375,
+    -101.96071,
+    33.596375
+],
+  "geometry": {"coordinates":[-101.96071000000001,33.596375],"type":"Point"}
 }

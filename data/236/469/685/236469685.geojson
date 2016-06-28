@@ -2,13 +2,14 @@
   "id": 236469685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742388,32.936383,-96.742388,32.936383",
     "geom:latitude":32.936383,
     "geom:longitude":-96.742388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Prestonwood Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236469685,
-    "wof:lastmodified":1449005353,
+    "wof:lastmodified":1467084045,
     "wof:name":"Dallas Arboretum",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arboretum"
     ]
 },
-  "bbox": [-96.742388,32.936383,-96.742388,32.936383],
-  "geometry": {"coordinates":[-96.742388,32.936383],"type":"Point"}
+  "bbox": [
+    -96.742388,
+    32.936383,
+    -96.742388,
+    32.936383
+],
+  "geometry": {"coordinates":[-96.74238800000001,32.936383],"type":"Point"}
 }

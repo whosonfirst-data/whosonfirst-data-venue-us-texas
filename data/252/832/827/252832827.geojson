@@ -2,13 +2,14 @@
   "id": 252832827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806727,32.812944,-96.806727,32.812944",
     "geom:latitude":32.812944,
     "geom:longitude":-96.806727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Lemmon Ave #110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":252832827,
-    "wof:lastmodified":1449005406,
+    "wof:lastmodified":1467084047,
     "wof:name":"la Madeleine",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "take"
     ]
 },
-  "bbox": [-96.806727,32.812944,-96.806727,32.812944],
+  "bbox": [
+    -96.806727,
+    32.812944,
+    -96.806727,
+    32.812944
+],
   "geometry": {"coordinates":[-96.806727,32.812944],"type":"Point"}
 }

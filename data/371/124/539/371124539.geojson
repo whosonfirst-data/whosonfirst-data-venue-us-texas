@@ -2,13 +2,14 @@
   "id": 371124539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.472247,29.319402,-98.472247,29.319402",
     "geom:latitude":29.319402,
     "geom:longitude":-98.472247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Sanez",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371124539,
-    "wof:lastmodified":1449050072,
+    "wof:lastmodified":1467084689,
     "wof:name":"Daily Grocery",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.472247,29.319402,-98.472247,29.319402],
+  "bbox": [
+    -98.472247,
+    29.319402,
+    -98.472247,
+    29.319402
+],
   "geometry": {"coordinates":[-98.472247,29.319402],"type":"Point"}
 }

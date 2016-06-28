@@ -2,13 +2,14 @@
   "id": 303560219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743141,30.22529,-97.743141,30.22529",
     "geom:latitude":30.22529,
     "geom:longitude":-97.743141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Timber Ridge Rd D157",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303560219,
-    "wof:lastmodified":1448999987,
+    "wof:lastmodified":1467083784,
     "wof:name":"37th Campus",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "listing"
     ]
 },
-  "bbox": [-97.743141,30.22529,-97.743141,30.22529],
-  "geometry": {"coordinates":[-97.743141,30.22529],"type":"Point"}
+  "bbox": [
+    -97.743141,
+    30.22529,
+    -97.743141,
+    30.22529
+],
+  "geometry": {"coordinates":[-97.74314099999999,30.22529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186484731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521076,29.737176,-95.521076,29.737176",
     "geom:latitude":29.737176,
     "geom:longitude":-95.521076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186484731,
-    "wof:lastmodified":1449052879,
+    "wof:lastmodified":1467084744,
     "wof:name":"American Computer Svc",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.521076,29.737176,-95.521076,29.737176],
-  "geometry": {"coordinates":[-95.521076,29.737176],"type":"Point"}
+  "bbox": [
+    -95.521076,
+    29.737176,
+    -95.521076,
+    29.737176
+],
+  "geometry": {"coordinates":[-95.52107599999999,29.737176],"type":"Point"}
 }

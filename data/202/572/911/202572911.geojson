@@ -2,13 +2,14 @@
   "id": 202572911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.711559,31.34795,-94.711559,31.34795",
     "geom:latitude":31.34795,
     "geom:longitude":-94.711559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Atkinson Dr",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202572911,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1467084921,
     "wof:name":"Stacy & Andy's Resale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.711559,31.34795,-94.711559,31.34795],
-  "geometry": {"coordinates":[-94.711559,31.34795],"type":"Point"}
+  "bbox": [
+    -94.711559,
+    31.34795,
+    -94.711559,
+    31.34795
+],
+  "geometry": {"coordinates":[-94.71155899999999,31.34795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370553573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.210789,33.017294,-97.210789,33.017294",
     "geom:latitude":33.017294,
     "geom:longitude":-97.210789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Collington Dr",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370553573,
-    "wof:lastmodified":1449029083,
+    "wof:lastmodified":1467084469,
     "wof:name":"Roanoke HVAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.210789,33.017294,-97.210789,33.017294],
-  "geometry": {"coordinates":[-97.210789,33.017294],"type":"Point"}
+  "bbox": [
+    -97.210789,
+    33.017294,
+    -97.210789,
+    33.017294
+],
+  "geometry": {"coordinates":[-97.21078900000001,33.017294],"type":"Point"}
 }

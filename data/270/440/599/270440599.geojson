@@ -2,13 +2,14 @@
   "id": 270440599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500847,29.734723,-95.500847,29.734723",
     "geom:latitude":29.734723,
     "geom:longitude":-95.500847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Hillcroft St Ste 275",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270440599,
-    "wof:lastmodified":1449009513,
+    "wof:lastmodified":1467084179,
     "wof:name":"Perfume Di Or",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.500847,29.734723,-95.500847,29.734723],
-  "geometry": {"coordinates":[-95.500847,29.734723],"type":"Point"}
+  "bbox": [
+    -95.500847,
+    29.734723,
+    -95.500847,
+    29.734723
+],
+  "geometry": {"coordinates":[-95.50084699999999,29.734723],"type":"Point"}
 }

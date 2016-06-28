@@ -2,13 +2,14 @@
   "id": 252837113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.874556,32.872491,-96.874556,32.872491",
     "geom:latitude":32.872491,
     "geom:longitude":-96.874556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Wheelock St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252837113,
-    "wof:lastmodified":1449005579,
+    "wof:lastmodified":1467084057,
     "wof:name":"Innovation Mechanical",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.874556,32.872491,-96.874556,32.872491],
+  "bbox": [
+    -96.874556,
+    32.872491,
+    -96.874556,
+    32.872491
+],
   "geometry": {"coordinates":[-96.874556,32.872491],"type":"Point"}
 }

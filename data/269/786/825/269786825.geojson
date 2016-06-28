@@ -2,13 +2,14 @@
   "id": 269786825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.373398,29.7533,-95.373398,29.7533",
     "geom:latitude":29.7533,
     "geom:longitude":-95.373398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Jefferson St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269786825,
-    "wof:lastmodified":1449036453,
+    "wof:lastmodified":1467084580,
     "wof:name":"Simon's Barber & Beauty Salon",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.373398,29.7533,-95.373398,29.7533],
-  "geometry": {"coordinates":[-95.373398,29.7533],"type":"Point"}
+  "bbox": [
+    -95.373398,
+    29.7533,
+    -95.373398,
+    29.7533
+],
+  "geometry": {"coordinates":[-95.37339799999999,29.7533],"type":"Point"}
 }

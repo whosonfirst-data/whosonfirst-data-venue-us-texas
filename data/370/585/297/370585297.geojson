@@ -2,13 +2,14 @@
   "id": 370585297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416854,29.539059,-98.416854,29.539059",
     "geom:latitude":29.539059,
     "geom:longitude":-98.416854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11003 Iota Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370585297,
-    "wof:lastmodified":1449031332,
+    "wof:lastmodified":1467084525,
     "wof:name":"Texas Interior Construction",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.416854,29.539059,-98.416854,29.539059],
+  "bbox": [
+    -98.416854,
+    29.539059,
+    -98.416854,
+    29.539059
+],
   "geometry": {"coordinates":[-98.416854,29.539059],"type":"Point"}
 }

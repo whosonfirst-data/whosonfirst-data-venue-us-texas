@@ -2,13 +2,14 @@
   "id": 370312813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.527229,29.797046,-95.527229,29.797046",
     "geom:latitude":29.797046,
     "geom:longitude":-95.527229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Long Point Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370312813,
-    "wof:lastmodified":1449030790,
+    "wof:lastmodified":1467084512,
     "wof:name":"American Cruises & Tour Ctr",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-95.527229,29.797046,-95.527229,29.797046],
-  "geometry": {"coordinates":[-95.527229,29.797046],"type":"Point"}
+  "bbox": [
+    -95.527229,
+    29.797046,
+    -95.527229,
+    29.797046
+],
+  "geometry": {"coordinates":[-95.52722900000001,29.797046],"type":"Point"}
 }

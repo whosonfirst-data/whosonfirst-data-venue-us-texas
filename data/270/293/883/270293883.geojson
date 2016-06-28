@@ -2,13 +2,14 @@
   "id": 270293883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.564729,29.733036,-95.564729,29.733036",
     "geom:latitude":29.733036,
     "geom:longitude":-95.564729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Wallingford Drive",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270293883,
-    "wof:lastmodified":1449009115,
+    "wof:lastmodified":1467084165,
     "wof:name":"Wallingford Apartments",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.564729,29.733036,-95.564729,29.733036],
+  "bbox": [
+    -95.564729,
+    29.733036,
+    -95.564729,
+    29.733036
+],
   "geometry": {"coordinates":[-95.564729,29.733036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303928009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.845228,35.205581,-101.845228,35.205581",
     "geom:latitude":35.205581,
     "geom:longitude":-101.845228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 SW 9th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303928009,
-    "wof:lastmodified":1449000221,
+    "wof:lastmodified":1467083796,
     "wof:name":"T D Hammons Attorney at Law",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "law"
     ]
 },
-  "bbox": [-101.845228,35.205581,-101.845228,35.205581],
-  "geometry": {"coordinates":[-101.845228,35.205581],"type":"Point"}
+  "bbox": [
+    -101.845228,
+    35.205581,
+    -101.845228,
+    35.205581
+],
+  "geometry": {"coordinates":[-101.84522800000001,35.205581],"type":"Point"}
 }

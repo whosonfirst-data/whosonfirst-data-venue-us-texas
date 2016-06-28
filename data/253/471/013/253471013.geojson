@@ -2,13 +2,14 @@
   "id": 253471013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.95136,32.452331,-94.95136,32.452331",
     "geom:latitude":32.452331,
     "geom:longitude":-94.95136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Richard Rd",
     "sg:city":"Gladewater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253471013,
-    "wof:lastmodified":1449064016,
+    "wof:lastmodified":1467084986,
     "wof:name":"T L C Data Input Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "data"
     ]
 },
-  "bbox": [-94.95136,32.452331,-94.95136,32.452331],
-  "geometry": {"coordinates":[-94.95136,32.452331],"type":"Point"}
+  "bbox": [
+    -94.95136,
+    32.452331,
+    -94.95136,
+    32.452331
+],
+  "geometry": {"coordinates":[-94.95135999999999,32.452331],"type":"Point"}
 }

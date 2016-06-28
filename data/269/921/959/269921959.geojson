@@ -2,13 +2,14 @@
   "id": 269921959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.410525,29.772665,-95.410525,29.772665",
     "geom:latitude":29.772665,
     "geom:longitude":-95.410525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Durham Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269921959,
-    "wof:lastmodified":1449037666,
+    "wof:lastmodified":1467084614,
     "wof:name":"Kwal Paint",
     "wof:parent_id":85893803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.410525,29.772665,-95.410525,29.772665],
-  "geometry": {"coordinates":[-95.410525,29.772665],"type":"Point"}
+  "bbox": [
+    -95.410525,
+    29.772665,
+    -95.410525,
+    29.772665
+],
+  "geometry": {"coordinates":[-95.41052500000001,29.772665],"type":"Point"}
 }

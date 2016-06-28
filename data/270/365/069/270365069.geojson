@@ -2,13 +2,14 @@
   "id": 270365069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.496902,29.802999,-95.496902,29.802999",
     "geom:latitude":29.802999,
     "geom:longitude":-95.496902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8501 Long Point Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270365069,
-    "wof:lastmodified":1449009025,
+    "wof:lastmodified":1467084162,
     "wof:name":"La Mexican Fruit & Meat Market",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.496902,29.802999,-95.496902,29.802999],
-  "geometry": {"coordinates":[-95.496902,29.802999],"type":"Point"}
+  "bbox": [
+    -95.496902,
+    29.802999,
+    -95.496902,
+    29.802999
+],
+  "geometry": {"coordinates":[-95.49690200000001,29.802999],"type":"Point"}
 }

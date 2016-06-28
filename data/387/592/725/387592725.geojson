@@ -2,13 +2,14 @@
   "id": 387592725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.623096,29.588086,-98.623096,29.588086",
     "geom:latitude":29.588086,
     "geom:longitude":-98.623096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6835 State Hwy 1604",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387592725,
-    "wof:lastmodified":1449058290,
+    "wof:lastmodified":1467084840,
     "wof:name":"Chevron",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-98.623096,29.588086,-98.623096,29.588086],
+  "bbox": [
+    -98.623096,
+    29.588086,
+    -98.623096,
+    29.588086
+],
   "geometry": {"coordinates":[-98.623096,29.588086],"type":"Point"}
 }

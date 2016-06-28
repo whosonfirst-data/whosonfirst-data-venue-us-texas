@@ -2,13 +2,14 @@
   "id": 303842001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744009,30.407173,-97.744009,30.407173",
     "geom:latitude":30.407173,
     "geom:longitude":-97.744009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11149 Research Blvd Ste 320",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303842001,
-    "wof:lastmodified":1448998299,
+    "wof:lastmodified":1467083700,
     "wof:name":"Warr International Group",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advising"
     ]
 },
-  "bbox": [-97.744009,30.407173,-97.744009,30.407173],
-  "geometry": {"coordinates":[-97.744009,30.407173],"type":"Point"}
+  "bbox": [
+    -97.744009,
+    30.407173,
+    -97.744009,
+    30.407173
+],
+  "geometry": {"coordinates":[-97.74400900000001,30.407173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236361203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.716542,30.312472,-97.716542,30.312472",
     "geom:latitude":30.312472,
     "geom:longitude":-97.716542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Caswell Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236361203,
-    "wof:lastmodified":1449004169,
+    "wof:lastmodified":1467083988,
     "wof:name":"First Full Gospel Church",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.716542,30.312472,-97.716542,30.312472],
+  "bbox": [
+    -97.716542,
+    30.312472,
+    -97.716542,
+    30.312472
+],
   "geometry": {"coordinates":[-97.716542,30.312472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287133299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.48122,27.540933,-99.48122,27.540933",
     "geom:latitude":27.540933,
     "geom:longitude":-99.48122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Calton Rd",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287133299,
-    "wof:lastmodified":1449001408,
+    "wof:lastmodified":1467083843,
     "wof:name":"Woodlake Apts.",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-99.48122,27.540933,-99.48122,27.540933],
-  "geometry": {"coordinates":[-99.48122,27.540933],"type":"Point"}
+  "bbox": [
+    -99.48122,
+    27.540933,
+    -99.48122,
+    27.540933
+],
+  "geometry": {"coordinates":[-99.48121999999999,27.540933],"type":"Point"}
 }

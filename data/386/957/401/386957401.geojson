@@ -2,13 +2,14 @@
   "id": 386957401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.42692,30.708812,-96.42692,30.708812",
     "geom:latitude":30.708812,
     "geom:longitude":-96.42692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Phil Gramm Blvd",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386957401,
-    "wof:lastmodified":1449028906,
+    "wof:lastmodified":1467084464,
     "wof:name":"American Lumber",
     "wof:parent_id":85893595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-96.42692,30.708812,-96.42692,30.708812],
+  "bbox": [
+    -96.42692,
+    30.708812,
+    -96.42692,
+    30.708812
+],
   "geometry": {"coordinates":[-96.42692,30.708812],"type":"Point"}
 }

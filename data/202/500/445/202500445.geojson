@@ -2,13 +2,14 @@
   "id": 202500445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.875125,30.51698,-97.875125,30.51698",
     "geom:latitude":30.51698,
     "geom:longitude":-97.875125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3061 W Whitestone Blvd",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202500445,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1467084901,
     "wof:name":"Power Quality Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.875125,30.51698,-97.875125,30.51698],
+  "bbox": [
+    -97.875125,
+    30.51698,
+    -97.875125,
+    30.51698
+],
   "geometry": {"coordinates":[-97.875125,30.51698],"type":"Point"}
 }

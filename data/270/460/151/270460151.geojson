@@ -2,13 +2,14 @@
   "id": 270460151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.122319,29.577103,-95.122319,29.577103",
     "geom:latitude":29.577103,
     "geom:longitude":-95.122319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1837 El Dorado Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":270460151,
-    "wof:lastmodified":1449010974,
+    "wof:lastmodified":1467084227,
     "wof:name":"American Post and Parcel",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "mail"
     ]
 },
-  "bbox": [-95.122319,29.577103,-95.122319,29.577103],
+  "bbox": [
+    -95.122319,
+    29.577103,
+    -95.122319,
+    29.577103
+],
   "geometry": {"coordinates":[-95.122319,29.577103],"type":"Point"}
 }

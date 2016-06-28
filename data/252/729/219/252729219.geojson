@@ -2,13 +2,14 @@
   "id": 252729219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.461633,31.776516,-106.461633,31.776516",
     "geom:latitude":31.776516,
     "geom:longitude":-106.461633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Piedras St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252729219,
-    "wof:lastmodified":1449005972,
+    "wof:lastmodified":1467084078,
     "wof:name":"Alex's Transportation",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.461633,31.776516,-106.461633,31.776516],
-  "geometry": {"coordinates":[-106.461633,31.776516],"type":"Point"}
+  "bbox": [
+    -106.461633,
+    31.776516,
+    -106.461633,
+    31.776516
+],
+  "geometry": {"coordinates":[-106.46163300000001,31.776516],"type":"Point"}
 }

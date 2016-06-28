@@ -2,13 +2,14 @@
   "id": 387780365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797987,32.79881,-96.797987,32.79881",
     "geom:latitude":32.79881,
     "geom:longitude":-96.797987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Clark St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387780365,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1467084857,
     "wof:name":"Dole",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.797987,32.79881,-96.797987,32.79881],
-  "geometry": {"coordinates":[-96.797987,32.79881],"type":"Point"}
+  "bbox": [
+    -96.797987,
+    32.79881,
+    -96.797987,
+    32.79881
+],
+  "geometry": {"coordinates":[-96.79798700000001,32.79881],"type":"Point"}
 }

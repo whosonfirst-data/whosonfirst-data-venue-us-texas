@@ -2,13 +2,14 @@
   "id": 220123093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.476972,29.548716,-98.476972,29.548716",
     "geom:latitude":29.548716,
     "geom:longitude":-98.476972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Arion Pkwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220123093,
-    "wof:lastmodified":1449074255,
+    "wof:lastmodified":1467085181,
     "wof:name":"ASP Engines",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-98.476972,29.548716,-98.476972,29.548716],
+  "bbox": [
+    -98.476972,
+    29.548716,
+    -98.476972,
+    29.548716
+],
   "geometry": {"coordinates":[-98.476972,29.548716],"type":"Point"}
 }

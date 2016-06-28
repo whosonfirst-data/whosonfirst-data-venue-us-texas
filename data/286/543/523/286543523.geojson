@@ -2,13 +2,14 @@
   "id": 286543523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.554215,30.121331,-95.554215,30.121331",
     "geom:latitude":30.121331,
     "geom:longitude":-95.554215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24914 Kuykendahl Rd Ste D",
     "sg:city":"Tomball",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286543523,
-    "wof:lastmodified":1449015738,
+    "wof:lastmodified":1467084251,
     "wof:name":"Your Point Of View Tombal",
     "wof:parent_id":85893755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.554215,30.121331,-95.554215,30.121331],
+  "bbox": [
+    -95.554215,
+    30.121331,
+    -95.554215,
+    30.121331
+],
   "geometry": {"coordinates":[-95.554215,30.121331],"type":"Point"}
 }

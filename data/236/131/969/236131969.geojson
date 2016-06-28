@@ -2,13 +2,14 @@
   "id": 236131969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.99339,32.956741,-96.99339,32.956741",
     "geom:latitude":32.956741,
     "geom:longitude":-96.99339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 S Denton Tap Rd",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236131969,
-    "wof:lastmodified":1449002478,
+    "wof:lastmodified":1467083909,
     "wof:name":"Health South Diagnostic",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apparatus"
     ]
 },
-  "bbox": [-96.99339,32.956741,-96.99339,32.956741],
-  "geometry": {"coordinates":[-96.99339,32.956741],"type":"Point"}
+  "bbox": [
+    -96.99339,
+    32.956741,
+    -96.99339,
+    32.956741
+],
+  "geometry": {"coordinates":[-96.99339000000001,32.956741],"type":"Point"}
 }

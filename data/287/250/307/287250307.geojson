@@ -2,13 +2,14 @@
   "id": 287250307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.259628,26.184931,-98.259628,26.184931",
     "geom:latitude":26.184931,
     "geom:longitude":-98.259628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Jordan Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":287250307,
-    "wof:lastmodified":1449001183,
+    "wof:lastmodified":1467083835,
     "wof:name":"Sunset Gardens",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-98.259628,26.184931,-98.259628,26.184931],
-  "geometry": {"coordinates":[-98.259628,26.184931],"type":"Point"}
+  "bbox": [
+    -98.259628,
+    26.184931,
+    -98.259628,
+    26.184931
+],
+  "geometry": {"coordinates":[-98.25962800000001,26.184931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387530405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396291,32.798394,-97.396291,32.798394",
     "geom:latitude":32.798394,
     "geom:longitude":-97.396291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5104 Glade St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387530405,
-    "wof:lastmodified":1449058138,
+    "wof:lastmodified":1467084836,
     "wof:name":"Fs Trucking",
     "wof:parent_id":85871639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.396291,32.798394,-97.396291,32.798394],
-  "geometry": {"coordinates":[-97.396291,32.798394],"type":"Point"}
+  "bbox": [
+    -97.396291,
+    32.798394,
+    -97.396291,
+    32.798394
+],
+  "geometry": {"coordinates":[-97.39629100000001,32.798394],"type":"Point"}
 }

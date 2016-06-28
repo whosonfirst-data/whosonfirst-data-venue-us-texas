@@ -2,13 +2,14 @@
   "id": 202962733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.494536,28.704089,-100.494536,28.704089",
     "geom:latitude":28.704089,
     "geom:longitude":-100.494536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Williams St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202962733,
-    "wof:lastmodified":1449061604,
+    "wof:lastmodified":1467084919,
     "wof:name":"San Luis Neighborhood Ctr",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-100.494536,28.704089,-100.494536,28.704089],
+  "bbox": [
+    -100.494536,
+    28.704089,
+    -100.494536,
+    28.704089
+],
   "geometry": {"coordinates":[-100.494536,28.704089],"type":"Point"}
 }

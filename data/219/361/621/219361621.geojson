@@ -2,13 +2,14 @@
   "id": 219361621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839333,32.821939,-96.839333,32.821939",
     "geom:latitude":32.821939,
     "geom:longitude":-96.839333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Stutz Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219361621,
-    "wof:lastmodified":1449072974,
+    "wof:lastmodified":1467085154,
     "wof:name":"US Post Office",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.839333,32.821939,-96.839333,32.821939],
+  "bbox": [
+    -96.839333,
+    32.821939,
+    -96.839333,
+    32.821939
+],
   "geometry": {"coordinates":[-96.839333,32.821939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303793581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.704608,30.3907,-97.704608,30.3907",
     "geom:latitude":30.3907,
     "geom:longitude":-97.704608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 W Braker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303793581,
-    "wof:lastmodified":1448999465,
+    "wof:lastmodified":1467083759,
     "wof:name":"Manatron Records Management",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "records-storage"
     ]
 },
-  "bbox": [-97.704608,30.3907,-97.704608,30.3907],
-  "geometry": {"coordinates":[-97.704608,30.3907],"type":"Point"}
+  "bbox": [
+    -97.704608,
+    30.3907,
+    -97.704608,
+    30.3907
+],
+  "geometry": {"coordinates":[-97.70460799999999,30.3907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370845137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.452396,29.41215,-98.452396,29.41215",
     "geom:latitude":29.41215,
     "geom:longitude":-98.452396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 S Walters",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370845137,
-    "wof:lastmodified":1449029637,
+    "wof:lastmodified":1467084482,
     "wof:name":"Office Technology Systems",
     "wof:parent_id":85871055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.452396,29.41215,-98.452396,29.41215],
-  "geometry": {"coordinates":[-98.452396,29.41215],"type":"Point"}
+  "bbox": [
+    -98.452396,
+    29.41215,
+    -98.452396,
+    29.41215
+],
+  "geometry": {"coordinates":[-98.45239599999999,29.41215],"type":"Point"}
 }

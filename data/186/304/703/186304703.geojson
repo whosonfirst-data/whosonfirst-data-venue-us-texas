@@ -2,13 +2,14 @@
   "id": 186304703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480551,29.429365,-98.480551,29.429365",
     "geom:latitude":29.429365,
     "geom:longitude":-98.480551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Brooklyn Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186304703,
-    "wof:lastmodified":1449052345,
+    "wof:lastmodified":1467084732,
     "wof:name":"Villanueva Wrecker Co",
     "wof:parent_id":85871035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-98.480551,29.429365,-98.480551,29.429365],
-  "geometry": {"coordinates":[-98.480551,29.429365],"type":"Point"}
+  "bbox": [
+    -98.480551,
+    29.429365,
+    -98.480551,
+    29.429365
+],
+  "geometry": {"coordinates":[-98.48055100000001,29.429365],"type":"Point"}
 }

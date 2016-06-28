@@ -2,13 +2,14 @@
   "id": 354356035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.52549,29.438453,-98.52549,29.438453",
     "geom:latitude":29.438453,
     "geom:longitude":-98.52549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Delgado St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354356035,
-    "wof:lastmodified":1449067339,
+    "wof:lastmodified":1467085086,
     "wof:name":"Richard Carreon Tile",
     "wof:parent_id":85871063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.52549,29.438453,-98.52549,29.438453],
+  "bbox": [
+    -98.52549,
+    29.438453,
+    -98.52549,
+    29.438453
+],
   "geometry": {"coordinates":[-98.52549,29.438453],"type":"Point"}
 }

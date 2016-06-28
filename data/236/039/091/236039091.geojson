@@ -2,13 +2,14 @@
   "id": 236039091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.49648,29.731811,-95.49648,29.731811",
     "geom:latitude":29.731811,
     "geom:longitude":-95.49648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6356 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236039091,
-    "wof:lastmodified":1449004749,
+    "wof:lastmodified":1467084015,
     "wof:name":"King Fish Market",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-95.49648,29.731811,-95.49648,29.731811],
-  "geometry": {"coordinates":[-95.49648,29.731811],"type":"Point"}
+  "bbox": [
+    -95.49648,
+    29.731811,
+    -95.49648,
+    29.731811
+],
+  "geometry": {"coordinates":[-95.49648000000001,29.731811],"type":"Point"}
 }

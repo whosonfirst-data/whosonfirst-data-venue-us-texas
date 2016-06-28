@@ -2,13 +2,14 @@
   "id": 236827795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802101,32.789398,-96.802101,32.789398",
     "geom:latitude":32.789398,
     "geom:longitude":-96.802101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41500 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236827795,
-    "wof:lastmodified":1449002702,
+    "wof:lastmodified":1467083919,
     "wof:name":"Chevron Stations Inc",
     "wof:parent_id":85870321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.802101,32.789398,-96.802101,32.789398],
-  "geometry": {"coordinates":[-96.802101,32.789398],"type":"Point"}
+  "bbox": [
+    -96.802101,
+    32.789398,
+    -96.802101,
+    32.789398
+],
+  "geometry": {"coordinates":[-96.80210099999999,32.789398],"type":"Point"}
 }

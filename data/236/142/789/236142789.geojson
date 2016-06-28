@@ -2,13 +2,14 @@
   "id": 236142789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.413485,30.030053,-95.413485,30.030053",
     "geom:latitude":30.030053,
     "geom:longitude":-95.413485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Whitestone Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236142789,
-    "wof:lastmodified":1449004454,
+    "wof:lastmodified":1467084001,
     "wof:name":"Ella Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-95.413485,30.030053,-95.413485,30.030053],
-  "geometry": {"coordinates":[-95.413485,30.030053],"type":"Point"}
+  "bbox": [
+    -95.413485,
+    30.030053,
+    -95.413485,
+    30.030053
+],
+  "geometry": {"coordinates":[-95.41348499999999,30.030053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354302179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748529,32.792528,-96.748529,32.792528",
     "geom:latitude":32.792528,
     "geom:longitude":-96.748529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5438 E Grand Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354302179,
-    "wof:lastmodified":1449066484,
+    "wof:lastmodified":1467085065,
     "wof:name":"Z Discotheque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.748529,32.792528,-96.748529,32.792528],
+  "bbox": [
+    -96.748529,
+    32.792528,
+    -96.748529,
+    32.792528
+],
   "geometry": {"coordinates":[-96.748529,32.792528],"type":"Point"}
 }

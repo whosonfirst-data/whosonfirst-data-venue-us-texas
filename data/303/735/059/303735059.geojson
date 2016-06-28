@@ -2,13 +2,14 @@
   "id": 303735059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677049,30.3526,-97.677049,30.3526",
     "geom:latitude":30.3526,
     "geom:longitude":-97.677049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404B Marlborough Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303735059,
-    "wof:lastmodified":1449000510,
+    "wof:lastmodified":1467083810,
     "wof:name":"Hope Properties",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.677049,30.3526,-97.677049,30.3526],
+  "bbox": [
+    -97.677049,
+    30.3526,
+    -97.677049,
+    30.3526
+],
   "geometry": {"coordinates":[-97.677049,30.3526],"type":"Point"}
 }

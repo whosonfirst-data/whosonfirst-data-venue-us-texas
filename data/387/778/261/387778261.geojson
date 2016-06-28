@@ -2,13 +2,14 @@
   "id": 387778261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.568778,29.50929,-98.568778,29.50929",
     "geom:latitude":29.50929,
     "geom:longitude":-98.568778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Louis Pasteur Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387778261,
-    "wof:lastmodified":1449056193,
+    "wof:lastmodified":1467084786,
     "wof:name":"Joe B Ehresman MD",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.568778,29.50929,-98.568778,29.50929],
-  "geometry": {"coordinates":[-98.568778,29.50929],"type":"Point"}
+  "bbox": [
+    -98.568778,
+    29.50929,
+    -98.568778,
+    29.50929
+],
+  "geometry": {"coordinates":[-98.56877799999999,29.50929],"type":"Point"}
 }

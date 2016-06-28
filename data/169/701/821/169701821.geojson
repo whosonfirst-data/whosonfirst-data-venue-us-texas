@@ -2,13 +2,14 @@
   "id": 169701821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.430506,31.488901,-100.430506,31.488901",
     "geom:latitude":31.488901,
     "geom:longitude":-100.430506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 E 25th St",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169701821,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1467084567,
     "wof:name":"Richard Self",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-100.430506,31.488901,-100.430506,31.488901],
-  "geometry": {"coordinates":[-100.430506,31.488901],"type":"Point"}
+  "bbox": [
+    -100.430506,
+    31.488901,
+    -100.430506,
+    31.488901
+],
+  "geometry": {"coordinates":[-100.43050599999999,31.488901],"type":"Point"}
 }

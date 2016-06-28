@@ -2,13 +2,14 @@
   "id": 354079565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.448651,30.303026,-95.448651,30.303026",
     "geom:latitude":30.303026,
     "geom:longitude":-95.448651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 S 3rd St",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354079565,
-    "wof:lastmodified":1449067368,
+    "wof:lastmodified":1467085086,
     "wof:name":"MPS Trucking",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.448651,30.303026,-95.448651,30.303026],
+  "bbox": [
+    -95.448651,
+    30.303026,
+    -95.448651,
+    30.303026
+],
   "geometry": {"coordinates":[-95.448651,30.303026],"type":"Point"}
 }

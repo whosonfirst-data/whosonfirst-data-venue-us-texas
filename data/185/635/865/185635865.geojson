@@ -2,13 +2,14 @@
   "id": 185635865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756883,32.800791,-96.756883,32.800791",
     "geom:latitude":32.800791,
     "geom:longitude":-96.756883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 Columbia Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185635865,
-    "wof:lastmodified":1449007315,
+    "wof:lastmodified":1467084124,
     "wof:name":"Super Mercado Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.756883,32.800791,-96.756883,32.800791],
+  "bbox": [
+    -96.756883,
+    32.800791,
+    -96.756883,
+    32.800791
+],
   "geometry": {"coordinates":[-96.756883,32.800791],"type":"Point"}
 }

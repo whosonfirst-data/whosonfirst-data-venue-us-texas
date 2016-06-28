@@ -2,13 +2,14 @@
   "id": 353929025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.653613,35.20509,-101.653613,35.20509",
     "geom:latitude":35.20509,
     "geom:longitude":-101.653613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S FM 1912",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":353929025,
-    "wof:lastmodified":1449019240,
+    "wof:lastmodified":1467084343,
     "wof:name":"Warren Cat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-101.653613,35.20509,-101.653613,35.20509],
-  "geometry": {"coordinates":[-101.653613,35.20509],"type":"Point"}
+  "bbox": [
+    -101.653613,
+    35.20509,
+    -101.653613,
+    35.20509
+],
+  "geometry": {"coordinates":[-101.65361300000001,35.20509],"type":"Point"}
 }

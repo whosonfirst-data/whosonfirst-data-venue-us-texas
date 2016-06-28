@@ -2,13 +2,14 @@
   "id": 236185321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.861624,33.152988,-96.861624,33.152988",
     "geom:latitude":33.152988,
     "geom:longitude":-96.861624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3245 W Main St",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236185321,
-    "wof:lastmodified":1449002082,
+    "wof:lastmodified":1467083884,
     "wof:name":"J's Hallmark",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-96.861624,33.152988,-96.861624,33.152988],
-  "geometry": {"coordinates":[-96.861624,33.152988],"type":"Point"}
+  "bbox": [
+    -96.861624,
+    33.152988,
+    -96.861624,
+    33.152988
+],
+  "geometry": {"coordinates":[-96.86162400000001,33.152988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253699439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338366,32.574825,-97.338366,32.574825",
     "geom:latitude":32.574825,
     "geom:longitude":-97.338366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Fm 1187 E",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253699439,
-    "wof:lastmodified":1449063226,
+    "wof:lastmodified":1467084959,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.338366,32.574825,-97.338366,32.574825],
-  "geometry": {"coordinates":[-97.338366,32.574825],"type":"Point"}
+  "bbox": [
+    -97.338366,
+    32.574825,
+    -97.338366,
+    32.574825
+],
+  "geometry": {"coordinates":[-97.33836599999999,32.574825],"type":"Point"}
 }

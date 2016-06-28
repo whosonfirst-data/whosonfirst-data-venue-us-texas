@@ -2,13 +2,14 @@
   "id": 353561215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.17792,32.848926,-97.17792,32.848926",
     "geom:latitude":32.848926,
     "geom:longitude":-97.17792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Hurstview Dr",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353561215,
-    "wof:lastmodified":1449020060,
+    "wof:lastmodified":1467084360,
     "wof:name":"West Dental Lab",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.17792,32.848926,-97.17792,32.848926],
+  "bbox": [
+    -97.17792,
+    32.848926,
+    -97.17792,
+    32.848926
+],
   "geometry": {"coordinates":[-97.17792,32.848926],"type":"Point"}
 }

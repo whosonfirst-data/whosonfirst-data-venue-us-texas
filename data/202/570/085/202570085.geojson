@@ -2,13 +2,14 @@
   "id": 202570085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.854005,30.515198,-97.854005,30.515198",
     "geom:latitude":30.515198,
     "geom:longitude":-97.854005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Treeline Dr",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202570085,
-    "wof:lastmodified":1449061612,
+    "wof:lastmodified":1467084919,
     "wof:name":"A & B Cable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-97.854005,30.515198,-97.854005,30.515198],
+  "bbox": [
+    -97.854005,
+    30.515198,
+    -97.854005,
+    30.515198
+],
   "geometry": {"coordinates":[-97.854005,30.515198],"type":"Point"}
 }

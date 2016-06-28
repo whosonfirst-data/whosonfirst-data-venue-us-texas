@@ -2,13 +2,14 @@
   "id": 403876535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308518,32.647947,-97.308518,32.647947",
     "geom:latitude":32.647947,
     "geom:longitude":-97.308518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6851 Snowden Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403876535,
-    "wof:lastmodified":1449054900,
+    "wof:lastmodified":1467084756,
     "wof:name":"Hogan Oil Company",
     "wof:parent_id":85871543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.308518,32.647947,-97.308518,32.647947],
-  "geometry": {"coordinates":[-97.308518,32.647947],"type":"Point"}
+  "bbox": [
+    -97.308518,
+    32.647947,
+    -97.308518,
+    32.647947
+],
+  "geometry": {"coordinates":[-97.30851800000001,32.647947],"type":"Point"}
 }

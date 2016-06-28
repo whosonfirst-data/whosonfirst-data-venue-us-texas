@@ -2,13 +2,14 @@
   "id": 303412345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.8501,30.415177,-97.8501,30.415177",
     "geom:latitude":30.415177,
     "geom:longitude":-97.8501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 N FM 620",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303412345,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1467083716,
     "wof:name":"Take 5 \u00a0Haircuts",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-97.8501,30.415177,-97.8501,30.415177],
+  "bbox": [
+    -97.8501,
+    30.415177,
+    -97.8501,
+    30.415177
+],
   "geometry": {"coordinates":[-97.8501,30.415177],"type":"Point"}
 }

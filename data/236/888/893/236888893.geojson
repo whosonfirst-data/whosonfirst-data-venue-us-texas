@@ -2,13 +2,14 @@
   "id": 236888893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800142,32.795175,-96.800142,32.795175",
     "geom:latitude":32.795175,
     "geom:longitude":-96.800142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 State Street",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236888893,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1467083968,
     "wof:name":"Broden & Mickelsen",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.800142,32.795175,-96.800142,32.795175],
-  "geometry": {"coordinates":[-96.800142,32.795175],"type":"Point"}
+  "bbox": [
+    -96.800142,
+    32.795175,
+    -96.800142,
+    32.795175
+],
+  "geometry": {"coordinates":[-96.80014199999999,32.795175],"type":"Point"}
 }

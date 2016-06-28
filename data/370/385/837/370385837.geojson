@@ -2,13 +2,14 @@
   "id": 370385837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.133423,29.335901,-99.133423,29.335901",
     "geom:latitude":29.335901,
     "geom:longitude":-99.133423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Avenue E",
     "sg:city":"Hondo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370385837,
-    "wof:lastmodified":1449031088,
+    "wof:lastmodified":1467084519,
     "wof:name":"Medical Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.133423,29.335901,-99.133423,29.335901],
-  "geometry": {"coordinates":[-99.133423,29.335901],"type":"Point"}
+  "bbox": [
+    -99.133423,
+    29.335901,
+    -99.133423,
+    29.335901
+],
+  "geometry": {"coordinates":[-99.13342299999999,29.335901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303392931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.670961,30.309002,-97.670961,30.309002",
     "geom:latitude":30.309002,
     "geom:longitude":-97.670961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 Northeast Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303392931,
-    "wof:lastmodified":1449000081,
+    "wof:lastmodified":1467083789,
     "wof:name":"Kraftsman Playground & Park",
     "wof:parent_id":85869905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.670961,30.309002,-97.670961,30.309002],
-  "geometry": {"coordinates":[-97.670961,30.309002],"type":"Point"}
+  "bbox": [
+    -97.670961,
+    30.309002,
+    -97.670961,
+    30.309002
+],
+  "geometry": {"coordinates":[-97.67096100000001,30.309002],"type":"Point"}
 }

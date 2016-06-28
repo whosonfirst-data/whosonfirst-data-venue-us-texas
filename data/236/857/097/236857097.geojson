@@ -2,13 +2,14 @@
   "id": 236857097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803294,32.777834,-96.803294,32.777834",
     "geom:latitude":32.777834,
     "geom:longitude":-96.803294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Jackson St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236857097,
-    "wof:lastmodified":1449003860,
+    "wof:lastmodified":1467083973,
     "wof:name":"Geek Choice",
     "wof:parent_id":85870315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.803294,32.777834,-96.803294,32.777834],
-  "geometry": {"coordinates":[-96.803294,32.777834],"type":"Point"}
+  "bbox": [
+    -96.803294,
+    32.777834,
+    -96.803294,
+    32.777834
+],
+  "geometry": {"coordinates":[-96.80329399999999,32.777834],"type":"Point"}
 }

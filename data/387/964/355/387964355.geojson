@@ -2,13 +2,14 @@
   "id": 387964355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504564,27.516904,-99.504564,27.516904",
     "geom:latitude":27.516904,
     "geom:longitude":-99.504564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387964355,
-    "wof:lastmodified":1449058971,
+    "wof:lastmodified":1467084858,
     "wof:name":"Import Factory",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.504564,27.516904,-99.504564,27.516904],
+  "bbox": [
+    -99.504564,
+    27.516904,
+    -99.504564,
+    27.516904
+],
   "geometry": {"coordinates":[-99.504564,27.516904],"type":"Point"}
 }

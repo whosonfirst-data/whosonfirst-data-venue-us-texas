@@ -2,13 +2,14 @@
   "id": 387497089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500675,29.689465,-95.500675,29.689465",
     "geom:latitude":29.689465,
     "geom:longitude":-95.500675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Cypress St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387497089,
-    "wof:lastmodified":1449059866,
+    "wof:lastmodified":1467084881,
     "wof:name":"Doug Phillips",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.500675,29.689465,-95.500675,29.689465],
+  "bbox": [
+    -95.500675,
+    29.689465,
+    -95.500675,
+    29.689465
+],
   "geometry": {"coordinates":[-95.500675,29.689465],"type":"Point"}
 }

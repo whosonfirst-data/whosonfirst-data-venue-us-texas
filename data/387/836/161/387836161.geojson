@@ -2,13 +2,14 @@
   "id": 387836161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.503403,30.148618,-95.503403,30.148618",
     "geom:latitude":30.148618,
     "geom:longitude":-95.503403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 S Wavy Oak Cir",
     "sg:city":"The Woodlands",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387836161,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1467084849,
     "wof:name":"Jenkins Gutter Svc",
     "wof:parent_id":85893773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-95.503403,30.148618,-95.503403,30.148618],
-  "geometry": {"coordinates":[-95.503403,30.148618],"type":"Point"}
+  "bbox": [
+    -95.503403,
+    30.148618,
+    -95.503403,
+    30.148618
+],
+  "geometry": {"coordinates":[-95.50340300000001,30.148618],"type":"Point"}
 }

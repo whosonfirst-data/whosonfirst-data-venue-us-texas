@@ -2,13 +2,14 @@
   "id": 354166865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.578506,29.577486,-95.578506,29.577486",
     "geom:latitude":29.577486,
     "geom:longitude":-95.578506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 State Hwy 6",
     "sg:city":"Missouri City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354166865,
-    "wof:lastmodified":1449066901,
+    "wof:lastmodified":1467085075,
     "wof:name":"Walgreens",
     "wof:parent_id":85849025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.578506,29.577486,-95.578506,29.577486],
+  "bbox": [
+    -95.578506,
+    29.577486,
+    -95.578506,
+    29.577486
+],
   "geometry": {"coordinates":[-95.578506,29.577486],"type":"Point"}
 }

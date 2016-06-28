@@ -2,13 +2,14 @@
   "id": 253202307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.28711,32.809642,-97.28711,32.809642",
     "geom:latitude":32.809642,
     "geom:longitude":-97.28711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 W Broadway Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253202307,
-    "wof:lastmodified":1449065386,
+    "wof:lastmodified":1467085033,
     "wof:name":"Broadway Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.28711,32.809642,-97.28711,32.809642],
+  "bbox": [
+    -97.28711,
+    32.809642,
+    -97.28711,
+    32.809642
+],
   "geometry": {"coordinates":[-97.28711,32.809642],"type":"Point"}
 }

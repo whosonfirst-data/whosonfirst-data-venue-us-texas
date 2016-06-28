@@ -2,13 +2,14 @@
   "id": 270520679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51141,29.706386,-95.51141,29.706386",
     "geom:latitude":29.706386,
     "geom:longitude":-95.51141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12603 Southwest Fwy Ste 510",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270520679,
-    "wof:lastmodified":1449009440,
+    "wof:lastmodified":1467084176,
     "wof:name":"William H Reading MD Psychiatry",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-95.51141,29.706386,-95.51141,29.706386],
+  "bbox": [
+    -95.51141,
+    29.706386,
+    -95.51141,
+    29.706386
+],
   "geometry": {"coordinates":[-95.51141,29.706386],"type":"Point"}
 }

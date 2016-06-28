@@ -2,13 +2,14 @@
   "id": 286333859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.32004,29.696787,-95.32004,29.696787",
     "geom:latitude":29.696787,
     "geom:longitude":-95.32004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4579 S Wayside Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":286333859,
-    "wof:lastmodified":1449017884,
+    "wof:lastmodified":1467084312,
     "wof:name":"Ch2 Distribution",
     "wof:parent_id":85832957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.32004,29.696787,-95.32004,29.696787],
-  "geometry": {"coordinates":[-95.32004,29.696787],"type":"Point"}
+  "bbox": [
+    -95.32004,
+    29.696787,
+    -95.32004,
+    29.696787
+],
+  "geometry": {"coordinates":[-95.32004000000001,29.696787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252913531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70646,32.970619,-96.70646,32.970619",
     "geom:latitude":32.970619,
     "geom:longitude":-96.70646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Kas Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252913531,
-    "wof:lastmodified":1449005829,
+    "wof:lastmodified":1467084071,
     "wof:name":"Richardson Starling Cnstr",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.70646,32.970619,-96.70646,32.970619],
-  "geometry": {"coordinates":[-96.70646,32.970619],"type":"Point"}
+  "bbox": [
+    -96.70646,
+    32.970619,
+    -96.70646,
+    32.970619
+],
+  "geometry": {"coordinates":[-96.70646000000001,32.970619],"type":"Point"}
 }

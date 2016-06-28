@@ -2,13 +2,14 @@
   "id": 387941153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503617,29.581293,-98.503617,29.581293",
     "geom:latitude":29.581293,
     "geom:longitude":-98.503617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 W Bitters Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387941153,
-    "wof:lastmodified":1449058380,
+    "wof:lastmodified":1467084842,
     "wof:name":"Edward G Teniente Jr PC",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "certified"
     ]
 },
-  "bbox": [-98.503617,29.581293,-98.503617,29.581293],
-  "geometry": {"coordinates":[-98.503617,29.581293],"type":"Point"}
+  "bbox": [
+    -98.503617,
+    29.581293,
+    -98.503617,
+    29.581293
+],
+  "geometry": {"coordinates":[-98.50361700000001,29.581293],"type":"Point"}
 }

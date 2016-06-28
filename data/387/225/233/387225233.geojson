@@ -2,13 +2,14 @@
   "id": 387225233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.820462,30.094891,-93.820462,30.094891",
     "geom:latitude":30.094891,
     "geom:longitude":-93.820462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18702 State Hwy 62",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387225233,
-    "wof:lastmodified":1449057284,
+    "wof:lastmodified":1467084814,
     "wof:name":"George's Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-93.820462,30.094891,-93.820462,30.094891],
-  "geometry": {"coordinates":[-93.820462,30.094891],"type":"Point"}
+  "bbox": [
+    -93.820462,
+    30.094891,
+    -93.820462,
+    30.094891
+],
+  "geometry": {"coordinates":[-93.82046200000001,30.094891],"type":"Point"}
 }

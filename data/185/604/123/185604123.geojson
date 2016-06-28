@@ -2,13 +2,14 @@
   "id": 185604123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.611059,29.410559,-98.611059,29.410559",
     "geom:latitude":29.410559,
     "geom:longitude":-98.611059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 Old US Hwy 90 W",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185604123,
-    "wof:lastmodified":1449008035,
+    "wof:lastmodified":1467084136,
     "wof:name":"Kelley Motel",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-98.611059,29.410559,-98.611059,29.410559],
+  "bbox": [
+    -98.611059,
+    29.410559,
+    -98.611059,
+    29.410559
+],
   "geometry": {"coordinates":[-98.611059,29.410559],"type":"Point"}
 }

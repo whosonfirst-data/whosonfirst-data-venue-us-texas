@@ -2,13 +2,14 @@
   "id": 186511271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.576276,30.407559,-95.576276,30.407559",
     "geom:latitude":30.407559,
     "geom:longitude":-95.576276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2025 Lakewood Ct",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186511271,
-    "wof:lastmodified":1449051612,
+    "wof:lastmodified":1467084717,
     "wof:name":"Harbour Town",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.576276,30.407559,-95.576276,30.407559],
-  "geometry": {"coordinates":[-95.576276,30.407559],"type":"Point"}
+  "bbox": [
+    -95.576276,
+    30.407559,
+    -95.576276,
+    30.407559
+],
+  "geometry": {"coordinates":[-95.57627599999999,30.407559],"type":"Point"}
 }

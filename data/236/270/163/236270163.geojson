@@ -2,13 +2,14 @@
   "id": 236270163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67122,32.906616,-96.67122,32.906616",
     "geom:latitude":32.906616,
     "geom:longitude":-96.67122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 Miller Park N Ste 100",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236270163,
-    "wof:lastmodified":1449002116,
+    "wof:lastmodified":1467083886,
     "wof:name":"O'neil Relocation",
     "wof:parent_id":85877699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-96.67122,32.906616,-96.67122,32.906616],
-  "geometry": {"coordinates":[-96.67122,32.906616],"type":"Point"}
+  "bbox": [
+    -96.67122,
+    32.906616,
+    -96.67122,
+    32.906616
+],
+  "geometry": {"coordinates":[-96.67122000000001,32.906616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387880701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538457,31.845411,-106.538457,31.845411",
     "geom:latitude":31.845411,
     "geom:longitude":-106.538457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6612 Los Altos Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387880701,
-    "wof:lastmodified":1449059955,
+    "wof:lastmodified":1467084884,
     "wof:name":"Pinto Yard Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-106.538457,31.845411,-106.538457,31.845411],
-  "geometry": {"coordinates":[-106.538457,31.845411],"type":"Point"}
+  "bbox": [
+    -106.538457,
+    31.845411,
+    -106.538457,
+    31.845411
+],
+  "geometry": {"coordinates":[-106.53845699999999,31.845411],"type":"Point"}
 }

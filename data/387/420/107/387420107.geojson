@@ -2,13 +2,14 @@
   "id": 387420107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.907818,32.872821,-96.907818,32.872821",
     "geom:latitude":32.872821,
     "geom:longitude":-96.907818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10555 Newkirk St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387420107,
-    "wof:lastmodified":1449057919,
+    "wof:lastmodified":1467084830,
     "wof:name":"Planet Productions",
     "wof:parent_id":85825015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-96.907818,32.872821,-96.907818,32.872821],
-  "geometry": {"coordinates":[-96.907818,32.872821],"type":"Point"}
+  "bbox": [
+    -96.907818,
+    32.872821,
+    -96.907818,
+    32.872821
+],
+  "geometry": {"coordinates":[-96.90781800000001,32.872821],"type":"Point"}
 }

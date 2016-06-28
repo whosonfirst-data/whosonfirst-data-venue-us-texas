@@ -2,13 +2,14 @@
   "id": 202491591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.383789,29.824046,-95.383789,29.824046",
     "geom:latitude":29.824046,
     "geom:longitude":-95.383789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Airline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202491591,
-    "wof:lastmodified":1449060072,
+    "wof:lastmodified":1467084887,
     "wof:name":"High Point Sanitary Solutions",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-95.383789,29.824046,-95.383789,29.824046],
-  "geometry": {"coordinates":[-95.383789,29.824046],"type":"Point"}
+  "bbox": [
+    -95.383789,
+    29.824046,
+    -95.383789,
+    29.824046
+],
+  "geometry": {"coordinates":[-95.38378899999999,29.824046],"type":"Point"}
 }

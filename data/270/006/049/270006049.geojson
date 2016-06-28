@@ -2,13 +2,14 @@
   "id": 270006049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.250436,29.654874,-95.250436,29.654874",
     "geom:latitude":29.654874,
     "geom:longitude":-95.250436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 Easthaven Blvd Ste A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270006049,
-    "wof:lastmodified":1449010584,
+    "wof:lastmodified":1467084214,
     "wof:name":"New Heavenly Washateria",
     "wof:parent_id":85816393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.250436,29.654874,-95.250436,29.654874],
-  "geometry": {"coordinates":[-95.250436,29.654874],"type":"Point"}
+  "bbox": [
+    -95.250436,
+    29.654874,
+    -95.250436,
+    29.654874
+],
+  "geometry": {"coordinates":[-95.25043599999999,29.654874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185925503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.922351,33.565154,-101.922351,33.565154",
     "geom:latitude":33.565154,
     "geom:longitude":-101.922351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Slide Rd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185925503,
-    "wof:lastmodified":1449006611,
+    "wof:lastmodified":1467084111,
     "wof:name":"Sun West Auto Sales",
     "wof:parent_id":85878823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-101.922351,33.565154,-101.922351,33.565154],
-  "geometry": {"coordinates":[-101.922351,33.565154],"type":"Point"}
+  "bbox": [
+    -101.922351,
+    33.565154,
+    -101.922351,
+    33.565154
+],
+  "geometry": {"coordinates":[-101.92235100000001,33.565154],"type":"Point"}
 }

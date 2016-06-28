@@ -2,13 +2,14 @@
   "id": 287137483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.511209,27.581547,-99.511209,27.581547",
     "geom:latitude":27.581547,
     "geom:longitude":-99.511209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Flecha Ln",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287137483,
-    "wof:lastmodified":1449001452,
+    "wof:lastmodified":1467083844,
     "wof:name":"Southern Fastening",
     "wof:parent_id":85838603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "nailer"
     ]
 },
-  "bbox": [-99.511209,27.581547,-99.511209,27.581547],
-  "geometry": {"coordinates":[-99.511209,27.581547],"type":"Point"}
+  "bbox": [
+    -99.511209,
+    27.581547,
+    -99.511209,
+    27.581547
+],
+  "geometry": {"coordinates":[-99.51120899999999,27.581547],"type":"Point"}
 }

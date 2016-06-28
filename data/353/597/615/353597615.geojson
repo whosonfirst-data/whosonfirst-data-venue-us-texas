@@ -2,13 +2,14 @@
   "id": 353597615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.72052,31.352905,-94.72052,31.352905",
     "geom:latitude":31.352905,
     "geom:longitude":-94.72052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 N Timberland Dr",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353597615,
-    "wof:lastmodified":1449020743,
+    "wof:lastmodified":1467084375,
     "wof:name":"American Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.72052,31.352905,-94.72052,31.352905],
-  "geometry": {"coordinates":[-94.72052,31.352905],"type":"Point"}
+  "bbox": [
+    -94.72052,
+    31.352905,
+    -94.72052,
+    31.352905
+],
+  "geometry": {"coordinates":[-94.72051999999999,31.352905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303440045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75589,30.45603,-97.75589,30.45603",
     "geom:latitude":30.45603,
     "geom:longitude":-97.75589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13400 Moscow Trl",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303440045,
-    "wof:lastmodified":1448998985,
+    "wof:lastmodified":1467083735,
     "wof:name":"Faux Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.75589,30.45603,-97.75589,30.45603],
-  "geometry": {"coordinates":[-97.75589,30.45603],"type":"Point"}
+  "bbox": [
+    -97.75589,
+    30.45603,
+    -97.75589,
+    30.45603
+],
+  "geometry": {"coordinates":[-97.75588999999999,30.45603],"type":"Point"}
 }

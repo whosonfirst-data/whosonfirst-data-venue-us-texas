@@ -2,13 +2,14 @@
   "id": 303343607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771595,30.248667,-97.771595,30.248667",
     "geom:latitude":30.248667,
     "geom:longitude":-97.771595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 Oxford Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303343607,
-    "wof:lastmodified":1448999852,
+    "wof:lastmodified":1467083778,
     "wof:name":"Cooke Holdings",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-97.771595,30.248667,-97.771595,30.248667],
+  "bbox": [
+    -97.771595,
+    30.248667,
+    -97.771595,
+    30.248667
+],
   "geometry": {"coordinates":[-97.771595,30.248667],"type":"Point"}
 }

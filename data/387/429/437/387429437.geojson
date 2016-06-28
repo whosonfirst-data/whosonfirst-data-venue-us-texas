@@ -2,13 +2,14 @@
   "id": 387429437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.49189,27.509243,-99.49189,27.509243",
     "geom:latitude":27.509243,
     "geom:longitude":-99.49189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Garfield St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387429437,
-    "wof:lastmodified":1449059716,
+    "wof:lastmodified":1467084877,
     "wof:name":"Rafael Cano",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.49189,27.509243,-99.49189,27.509243],
+  "bbox": [
+    -99.49189,
+    27.509243,
+    -99.49189,
+    27.509243
+],
   "geometry": {"coordinates":[-99.49189,27.509243],"type":"Point"}
 }

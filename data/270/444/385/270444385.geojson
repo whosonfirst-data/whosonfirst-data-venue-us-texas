@@ -2,13 +2,14 @@
   "id": 270444385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.106422,29.573009,-95.106422,29.573009",
     "geom:latitude":29.573009,
     "geom:longitude":-95.106422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cyberonics Blvd # 2096",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270444385,
-    "wof:lastmodified":1449010753,
+    "wof:lastmodified":1467084220,
     "wof:name":"Community Medical Center At Clear Lake",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.106422,29.573009,-95.106422,29.573009],
-  "geometry": {"coordinates":[-95.106422,29.573009],"type":"Point"}
+  "bbox": [
+    -95.106422,
+    29.573009,
+    -95.106422,
+    29.573009
+],
+  "geometry": {"coordinates":[-95.10642199999999,29.573009],"type":"Point"}
 }

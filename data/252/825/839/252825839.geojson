@@ -2,13 +2,14 @@
   "id": 252825839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811826,32.801989,-96.811826,32.801989",
     "geom:latitude":32.801989,
     "geom:longitude":-96.811826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Maple Ave 17th Fl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252825839,
-    "wof:lastmodified":1449005440,
+    "wof:lastmodified":1467084049,
     "wof:name":"Heritage Auctions, Inc.",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.811826,32.801989,-96.811826,32.801989],
+  "bbox": [
+    -96.811826,
+    32.801989,
+    -96.811826,
+    32.801989
+],
   "geometry": {"coordinates":[-96.811826,32.801989],"type":"Point"}
 }

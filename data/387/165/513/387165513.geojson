@@ -2,13 +2,14 @@
   "id": 387165513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.406487,29.824492,-95.406487,29.824492",
     "geom:latitude":29.824492,
     "geom:longitude":-95.406487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Garden Oaks Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387165513,
-    "wof:lastmodified":1449059929,
+    "wof:lastmodified":1467084883,
     "wof:name":"CenturyTel",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "local"
     ]
 },
-  "bbox": [-95.406487,29.824492,-95.406487,29.824492],
+  "bbox": [
+    -95.406487,
+    29.824492,
+    -95.406487,
+    29.824492
+],
   "geometry": {"coordinates":[-95.406487,29.824492],"type":"Point"}
 }

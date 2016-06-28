@@ -2,13 +2,14 @@
   "id": 370522329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.011991,29.35369,-99.011991,29.35369",
     "geom:latitude":29.35369,
     "geom:longitude":-99.011991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Co Rd 4511",
     "sg:city":"Hondo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370522329,
-    "wof:lastmodified":1449030701,
+    "wof:lastmodified":1467084509,
     "wof:name":"Wood N Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.011991,29.35369,-99.011991,29.35369],
-  "geometry": {"coordinates":[-99.011991,29.35369],"type":"Point"}
+  "bbox": [
+    -99.011991,
+    29.35369,
+    -99.011991,
+    29.35369
+],
+  "geometry": {"coordinates":[-99.01199099999999,29.35369],"type":"Point"}
 }

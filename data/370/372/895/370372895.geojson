@@ -2,13 +2,14 @@
   "id": 370372895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.687221,30.173413,-95.687221,30.173413",
     "geom:latitude":30.173413,
     "geom:longitude":-95.687221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 Lone Star Ln",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370372895,
-    "wof:lastmodified":1449031137,
+    "wof:lastmodified":1467084520,
     "wof:name":"Information Store",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.687221,30.173413,-95.687221,30.173413],
-  "geometry": {"coordinates":[-95.687221,30.173413],"type":"Point"}
+  "bbox": [
+    -95.687221,
+    30.173413,
+    -95.687221,
+    30.173413
+],
+  "geometry": {"coordinates":[-95.68722099999999,30.173413],"type":"Point"}
 }

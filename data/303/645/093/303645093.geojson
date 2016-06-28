@@ -2,13 +2,14 @@
   "id": 303645093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.826051,30.17072,-97.826051,30.17072",
     "geom:latitude":30.17072,
     "geom:longitude":-97.826051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303645093,
-    "wof:lastmodified":1448998366,
+    "wof:lastmodified":1467083704,
     "wof:name":"Goodbye Hello Consignment",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.826051,30.17072,-97.826051,30.17072],
-  "geometry": {"coordinates":[-97.826051,30.17072],"type":"Point"}
+  "bbox": [
+    -97.826051,
+    30.17072,
+    -97.826051,
+    30.17072
+],
+  "geometry": {"coordinates":[-97.82605100000001,30.17072],"type":"Point"}
 }

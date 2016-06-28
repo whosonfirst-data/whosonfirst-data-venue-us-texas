@@ -2,13 +2,14 @@
   "id": 253233519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802146,32.982433,-96.802146,32.982433",
     "geom:latitude":32.982433,
     "geom:longitude":-96.802146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6090 Campbell Rd Ste 136",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253233519,
-    "wof:lastmodified":1449065853,
+    "wof:lastmodified":1467085049,
     "wof:name":"Koehl Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trainer"
     ]
 },
-  "bbox": [-96.802146,32.982433,-96.802146,32.982433],
-  "geometry": {"coordinates":[-96.802146,32.982433],"type":"Point"}
+  "bbox": [
+    -96.802146,
+    32.982433,
+    -96.802146,
+    32.982433
+],
+  "geometry": {"coordinates":[-96.80214599999999,32.982433],"type":"Point"}
 }

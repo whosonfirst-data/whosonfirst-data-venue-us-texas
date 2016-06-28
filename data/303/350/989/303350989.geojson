@@ -2,13 +2,14 @@
   "id": 303350989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741289,30.301132,-97.741289,30.301132",
     "geom:latitude":30.301132,
     "geom:longitude":-97.741289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404A King St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303350989,
-    "wof:lastmodified":1448999369,
+    "wof:lastmodified":1467083754,
     "wof:name":"Austin Tutors",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tutoring"
     ]
 },
-  "bbox": [-97.741289,30.301132,-97.741289,30.301132],
-  "geometry": {"coordinates":[-97.741289,30.301132],"type":"Point"}
+  "bbox": [
+    -97.741289,
+    30.301132,
+    -97.741289,
+    30.301132
+],
+  "geometry": {"coordinates":[-97.74128899999999,30.301132],"type":"Point"}
 }

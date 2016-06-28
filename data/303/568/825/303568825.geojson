@@ -2,13 +2,14 @@
   "id": 303568825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.753486,30.202311,-97.753486,30.202311",
     "geom:latitude":30.202311,
     "geom:longitude":-97.753486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5003 Merritt Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303568825,
-    "wof:lastmodified":1448998057,
+    "wof:lastmodified":1467083688,
     "wof:name":"Sewing It Up",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machines-household"
     ]
 },
-  "bbox": [-97.753486,30.202311,-97.753486,30.202311],
+  "bbox": [
+    -97.753486,
+    30.202311,
+    -97.753486,
+    30.202311
+],
   "geometry": {"coordinates":[-97.753486,30.202311],"type":"Point"}
 }

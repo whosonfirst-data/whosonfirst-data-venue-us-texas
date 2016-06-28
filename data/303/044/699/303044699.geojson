@@ -2,13 +2,14 @@
   "id": 303044699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.992256,26.169916,-97.992256,26.169916",
     "geom:latitude":26.169916,
     "geom:longitude":-97.992256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Pike Blvd",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303044699,
-    "wof:lastmodified":1448999393,
+    "wof:lastmodified":1467083755,
     "wof:name":"Ameritex Mortgage",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "loan"
     ]
 },
-  "bbox": [-97.992256,26.169916,-97.992256,26.169916],
+  "bbox": [
+    -97.992256,
+    26.169916,
+    -97.992256,
+    26.169916
+],
   "geometry": {"coordinates":[-97.992256,26.169916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286500863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.552901,30.717791,-95.552901,30.717791",
     "geom:latitude":30.717791,
     "geom:longitude":-95.552901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 16th St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":286500863,
-    "wof:lastmodified":1449015905,
+    "wof:lastmodified":1467084256,
     "wof:name":"Burdett Music Studio",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.552901,30.717791,-95.552901,30.717791],
-  "geometry": {"coordinates":[-95.552901,30.717791],"type":"Point"}
+  "bbox": [
+    -95.552901,
+    30.717791,
+    -95.552901,
+    30.717791
+],
+  "geometry": {"coordinates":[-95.55290100000001,30.717791],"type":"Point"}
 }

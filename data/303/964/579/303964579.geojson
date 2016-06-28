@@ -2,13 +2,14 @@
   "id": 303964579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.688961,33.664432,-101.688961,33.664432",
     "geom:latitude":33.664432,
     "geom:longitude":-101.688961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Frontage Rd",
     "sg:city":"Idalou",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303964579,
-    "wof:lastmodified":1448999962,
+    "wof:lastmodified":1467083783,
     "wof:name":"Subway",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-101.688961,33.664432,-101.688961,33.664432],
-  "geometry": {"coordinates":[-101.688961,33.664432],"type":"Point"}
+  "bbox": [
+    -101.688961,
+    33.664432,
+    -101.688961,
+    33.664432
+],
+  "geometry": {"coordinates":[-101.68896100000001,33.664432],"type":"Point"}
 }

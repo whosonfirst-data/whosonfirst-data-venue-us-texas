@@ -2,13 +2,14 @@
   "id": 387279861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.030487,31.987475,-98.030487,31.987475",
     "geom:latitude":31.987475,
     "geom:longitude":-98.030487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 College St",
     "sg:city":"Cisco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387279861,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1467084829,
     "wof:name":"Memorial Dormitory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dormitory"
     ]
 },
-  "bbox": [-98.030487,31.987475,-98.030487,31.987475],
-  "geometry": {"coordinates":[-98.030487,31.987475],"type":"Point"}
+  "bbox": [
+    -98.030487,
+    31.987475,
+    -98.030487,
+    31.987475
+],
+  "geometry": {"coordinates":[-98.03048699999999,31.987475],"type":"Point"}
 }

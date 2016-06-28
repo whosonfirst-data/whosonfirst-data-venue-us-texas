@@ -2,13 +2,14 @@
   "id": 353943307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.392203,32.362481,-97.392203,32.362481",
     "geom:latitude":32.362481,
     "geom:longitude":-97.392203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 N Main St",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353943307,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1467084336,
     "wof:name":"Bob's Appliance Svc",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-97.392203,32.362481,-97.392203,32.362481],
-  "geometry": {"coordinates":[-97.392203,32.362481],"type":"Point"}
+  "bbox": [
+    -97.392203,
+    32.362481,
+    -97.392203,
+    32.362481
+],
+  "geometry": {"coordinates":[-97.39220299999999,32.362481],"type":"Point"}
 }

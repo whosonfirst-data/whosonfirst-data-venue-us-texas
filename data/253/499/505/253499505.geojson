@@ -2,13 +2,14 @@
   "id": 253499505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.26614,32.33058,-95.26614,32.33058",
     "geom:latitude":32.33058,
     "geom:longitude":-95.26614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Southeast Loop 323",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":253499505,
-    "wof:lastmodified":1449063372,
+    "wof:lastmodified":1467084965,
     "wof:name":"Nix Chiropractic",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-95.26614,32.33058,-95.26614,32.33058],
-  "geometry": {"coordinates":[-95.26614,32.33058],"type":"Point"}
+  "bbox": [
+    -95.26614,
+    32.33058,
+    -95.26614,
+    32.33058
+],
+  "geometry": {"coordinates":[-95.26613999999999,32.33058],"type":"Point"}
 }

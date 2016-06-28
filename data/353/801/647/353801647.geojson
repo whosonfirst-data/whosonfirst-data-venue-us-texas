@@ -2,13 +2,14 @@
   "id": 353801647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.641191,29.403825,-98.641191,29.403825",
     "geom:latitude":29.403825,
     "geom:longitude":-98.641191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7622 Muleshoe Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353801647,
-    "wof:lastmodified":1449020382,
+    "wof:lastmodified":1467084367,
     "wof:name":"Metro Plumbing & Sewer Svc",
     "wof:parent_id":85827935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.641191,29.403825,-98.641191,29.403825],
-  "geometry": {"coordinates":[-98.641191,29.403825],"type":"Point"}
+  "bbox": [
+    -98.641191,
+    29.403825,
+    -98.641191,
+    29.403825
+],
+  "geometry": {"coordinates":[-98.64119100000001,29.403825],"type":"Point"}
 }

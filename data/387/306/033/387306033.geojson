@@ -2,13 +2,14 @@
   "id": 387306033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46469,29.505336,-98.46469,29.505336",
     "geom:latitude":29.505336,
     "geom:longitude":-98.46469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Terra Alta Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387306033,
-    "wof:lastmodified":1449059742,
+    "wof:lastmodified":1467084878,
     "wof:name":"Claim Solutions Of San Antonio",
     "wof:parent_id":85837787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-98.46469,29.505336,-98.46469,29.505336],
+  "bbox": [
+    -98.46469,
+    29.505336,
+    -98.46469,
+    29.505336
+],
   "geometry": {"coordinates":[-98.46469,29.505336],"type":"Point"}
 }

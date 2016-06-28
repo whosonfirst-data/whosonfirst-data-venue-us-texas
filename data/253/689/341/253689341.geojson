@@ -2,13 +2,14 @@
   "id": 253689341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.14997,32.889256,-97.14997,32.889256",
     "geom:latitude":32.889256,
     "geom:longitude":-97.14997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 Colleyville Blvd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253689341,
-    "wof:lastmodified":1449065270,
+    "wof:lastmodified":1467085029,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.14997,32.889256,-97.14997,32.889256],
+  "bbox": [
+    -97.14997,
+    32.889256,
+    -97.14997,
+    32.889256
+],
   "geometry": {"coordinates":[-97.14997,32.889256],"type":"Point"}
 }

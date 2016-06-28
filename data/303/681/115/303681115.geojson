@@ -2,13 +2,14 @@
   "id": 303681115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.864901,30.395194,-97.864901,30.395194",
     "geom:latitude":30.395194,
     "geom:longitude":-97.864901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12233 RR 620 N",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303681115,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1467083766,
     "wof:name":"RC Fowlers",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.864901,30.395194,-97.864901,30.395194],
+  "bbox": [
+    -97.864901,
+    30.395194,
+    -97.864901,
+    30.395194
+],
   "geometry": {"coordinates":[-97.864901,30.395194],"type":"Point"}
 }

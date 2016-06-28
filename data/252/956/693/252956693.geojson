@@ -2,13 +2,14 @@
   "id": 252956693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.779647,32.895004,-96.779647,32.895004",
     "geom:latitude":32.895004,
     "geom:longitude":-96.779647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Saint Michaels Drive",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252956693,
-    "wof:lastmodified":1449005592,
+    "wof:lastmodified":1467084058,
     "wof:name":"Dallas Dog Exerciser",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-96.779647,32.895004,-96.779647,32.895004],
+  "bbox": [
+    -96.779647,
+    32.895004,
+    -96.779647,
+    32.895004
+],
   "geometry": {"coordinates":[-96.779647,32.895004],"type":"Point"}
 }

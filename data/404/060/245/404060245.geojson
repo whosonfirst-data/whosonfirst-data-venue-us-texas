@@ -2,13 +2,14 @@
   "id": 404060245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.050614,33.082078,-97.050614,33.082078",
     "geom:latitude":33.082078,
     "geom:longitude":-97.050614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Louise Ln",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404060245,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1467084658,
     "wof:name":"Gcp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.050614,33.082078,-97.050614,33.082078],
+  "bbox": [
+    -97.050614,
+    33.082078,
+    -97.050614,
+    33.082078
+],
   "geometry": {"coordinates":[-97.050614,33.082078],"type":"Point"}
 }

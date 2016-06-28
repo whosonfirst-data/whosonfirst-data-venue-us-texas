@@ -2,13 +2,14 @@
   "id": 236795309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79631,32.782133,-96.79631,32.782133",
     "geom:latitude":32.782133,
     "geom:longitude":-96.79631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Pacific Ave Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236795309,
-    "wof:lastmodified":1449003631,
+    "wof:lastmodified":1467083962,
     "wof:name":"Elevation Fitness Club",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.79631,32.782133,-96.79631,32.782133],
-  "geometry": {"coordinates":[-96.79631,32.782133],"type":"Point"}
+  "bbox": [
+    -96.79631,
+    32.782133,
+    -96.79631,
+    32.782133
+],
+  "geometry": {"coordinates":[-96.79631000000001,32.782133],"type":"Point"}
 }

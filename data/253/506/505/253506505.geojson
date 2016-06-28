@@ -2,13 +2,14 @@
   "id": 253506505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39348,32.248486,-95.39348,32.248486",
     "geom:latitude":32.248486,
     "geom:longitude":-95.39348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15986 State Highway 155 S",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253506505,
-    "wof:lastmodified":1449062885,
+    "wof:lastmodified":1467084948,
     "wof:name":"Texas Department Of Transportation",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-95.39348,32.248486,-95.39348,32.248486],
+  "bbox": [
+    -95.39348,
+    32.248486,
+    -95.39348,
+    32.248486
+],
   "geometry": {"coordinates":[-95.39348,32.248486],"type":"Point"}
 }

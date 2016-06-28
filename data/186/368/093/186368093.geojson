@@ -2,13 +2,14 @@
   "id": 186368093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.505142,28.707426,-100.505142,28.707426",
     "geom:latitude":28.707426,
     "geom:longitude":-100.505142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Washington St",
     "sg:city":"Eagle Pass",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186368093,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1467084704,
     "wof:name":"Delete On 09/19/03 Chicos Str",
     "wof:parent_id":85884105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.505142,28.707426,-100.505142,28.707426],
-  "geometry": {"coordinates":[-100.505142,28.707426],"type":"Point"}
+  "bbox": [
+    -100.505142,
+    28.707426,
+    -100.505142,
+    28.707426
+],
+  "geometry": {"coordinates":[-100.50514200000001,28.707426],"type":"Point"}
 }

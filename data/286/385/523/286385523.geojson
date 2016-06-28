@@ -2,13 +2,14 @@
   "id": 286385523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.4543,29.806801,-95.4543,29.806801",
     "geom:latitude":29.806801,
     "geom:longitude":-95.4543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10110 Northwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286385523,
-    "wof:lastmodified":1449016942,
+    "wof:lastmodified":1467084285,
     "wof:name":"Department of Public Safety",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "historical"
     ]
 },
-  "bbox": [-95.4543,29.806801,-95.4543,29.806801],
+  "bbox": [
+    -95.4543,
+    29.806801,
+    -95.4543,
+    29.806801
+],
   "geometry": {"coordinates":[-95.4543,29.806801],"type":"Point"}
 }

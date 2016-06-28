@@ -2,13 +2,14 @@
   "id": 202886969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.397648,32.794993,-96.397648,32.794993",
     "geom:latitude":32.794993,
     "geom:longitude":-96.397648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16351 Calvert Rd",
     "sg:city":"Forney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202886969,
-    "wof:lastmodified":1449061508,
+    "wof:lastmodified":1467084917,
     "wof:name":"Warehouse",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.397648,32.794993,-96.397648,32.794993],
+  "bbox": [
+    -96.397648,
+    32.794993,
+    -96.397648,
+    32.794993
+],
   "geometry": {"coordinates":[-96.397648,32.794993],"type":"Point"}
 }

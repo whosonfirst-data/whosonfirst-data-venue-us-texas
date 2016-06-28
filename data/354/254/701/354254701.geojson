@@ -2,13 +2,14 @@
   "id": 354254701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.846027,30.189349,-97.846027,30.189349",
     "geom:latitude":30.189349,
     "geom:longitude":-97.846027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9607 Brodie Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354254701,
-    "wof:lastmodified":1449067144,
+    "wof:lastmodified":1467085081,
     "wof:name":"Kids Network",
     "wof:parent_id":85869991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.846027,30.189349,-97.846027,30.189349],
-  "geometry": {"coordinates":[-97.846027,30.189349],"type":"Point"}
+  "bbox": [
+    -97.846027,
+    30.189349,
+    -97.846027,
+    30.189349
+],
+  "geometry": {"coordinates":[-97.84602700000001,30.189349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287282195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.147781,26.291615,-98.147781,26.291615",
     "geom:latitude":26.291615,
     "geom:longitude":-98.147781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 S 25th Ave",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287282195,
-    "wof:lastmodified":1449001225,
+    "wof:lastmodified":1467083837,
     "wof:name":"Hidalgo Cnty Hlth & Humn Svcs",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-98.147781,26.291615,-98.147781,26.291615],
-  "geometry": {"coordinates":[-98.147781,26.291615],"type":"Point"}
+  "bbox": [
+    -98.147781,
+    26.291615,
+    -98.147781,
+    26.291615
+],
+  "geometry": {"coordinates":[-98.14778099999999,26.291615],"type":"Point"}
 }

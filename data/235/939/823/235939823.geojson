@@ -2,13 +2,14 @@
   "id": 235939823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.795487,35.196547,-101.795487,35.196547",
     "geom:latitude":35.196547,
     "geom:longitude":-101.795487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 S Grand St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235939823,
-    "wof:lastmodified":1449008358,
+    "wof:lastmodified":1467084142,
     "wof:name":"Harold's Farmers Market",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocery"
     ]
 },
-  "bbox": [-101.795487,35.196547,-101.795487,35.196547],
-  "geometry": {"coordinates":[-101.795487,35.196547],"type":"Point"}
+  "bbox": [
+    -101.795487,
+    35.196547,
+    -101.795487,
+    35.196547
+],
+  "geometry": {"coordinates":[-101.79548699999999,35.196547],"type":"Point"}
 }

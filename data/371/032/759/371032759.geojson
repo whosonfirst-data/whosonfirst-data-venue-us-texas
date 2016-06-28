@@ -2,13 +2,14 @@
   "id": 371032759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.225966,32.172502,-95.225966,32.172502",
     "geom:latitude":32.172502,
     "geom:longitude":-95.225966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21070 Co Rd 2182",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371032759,
-    "wof:lastmodified":1449049528,
+    "wof:lastmodified":1467084679,
     "wof:name":"KSL Engineering",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.225966,32.172502,-95.225966,32.172502],
+  "bbox": [
+    -95.225966,
+    32.172502,
+    -95.225966,
+    32.172502
+],
   "geometry": {"coordinates":[-95.225966,32.172502],"type":"Point"}
 }

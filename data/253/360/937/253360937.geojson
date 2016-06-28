@@ -2,13 +2,14 @@
   "id": 253360937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.505302,33.536425,-95.505302,33.536425",
     "geom:latitude":33.536425,
     "geom:longitude":-95.505302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 County Road 13685",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253360937,
-    "wof:lastmodified":1449065079,
+    "wof:lastmodified":1467085023,
     "wof:name":"Biardstown Volunteer Fire Department",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.505302,33.536425,-95.505302,33.536425],
+  "bbox": [
+    -95.505302,
+    33.536425,
+    -95.505302,
+    33.536425
+],
   "geometry": {"coordinates":[-95.505302,33.536425],"type":"Point"}
 }

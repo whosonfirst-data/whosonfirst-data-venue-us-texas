@@ -2,13 +2,14 @@
   "id": 303363195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744443,30.303341,-97.744443,30.303341",
     "geom:latitude":30.303341,
     "geom:longitude":-97.744443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3418 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303363195,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1467083798,
     "wof:name":"Cafe Express",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-97.744443,30.303341,-97.744443,30.303341],
+  "bbox": [
+    -97.744443,
+    30.303341,
+    -97.744443,
+    30.303341
+],
   "geometry": {"coordinates":[-97.744443,30.303341],"type":"Point"}
 }

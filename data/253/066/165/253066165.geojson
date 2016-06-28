@@ -2,13 +2,14 @@
   "id": 253066165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54582,30.09529,-95.54582,30.09529",
     "geom:latitude":30.09529,
     "geom:longitude":-95.54582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22715 Elmbark St",
     "sg:city":"Tomball",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253066165,
-    "wof:lastmodified":1449063675,
+    "wof:lastmodified":1467084974,
     "wof:name":"Compass Instruments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.54582,30.09529,-95.54582,30.09529],
-  "geometry": {"coordinates":[-95.54582,30.09529],"type":"Point"}
+  "bbox": [
+    -95.54582,
+    30.09529,
+    -95.54582,
+    30.09529
+],
+  "geometry": {"coordinates":[-95.54582000000001,30.09529],"type":"Point"}
 }

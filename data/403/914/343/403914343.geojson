@@ -2,13 +2,14 @@
   "id": 403914343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.281759,31.767742,-106.281759,31.767742",
     "geom:latitude":31.767742,
     "geom:longitude":-106.281759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2084 Pueblo Nuevo Cir",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403914343,
-    "wof:lastmodified":1449055136,
+    "wof:lastmodified":1467084761,
     "wof:name":"Tinting Of America",
     "wof:parent_id":85871379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-106.281759,31.767742,-106.281759,31.767742],
-  "geometry": {"coordinates":[-106.281759,31.767742],"type":"Point"}
+  "bbox": [
+    -106.281759,
+    31.767742,
+    -106.281759,
+    31.767742
+],
+  "geometry": {"coordinates":[-106.28175899999999,31.767742],"type":"Point"}
 }

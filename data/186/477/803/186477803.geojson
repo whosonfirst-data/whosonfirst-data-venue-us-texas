@@ -2,13 +2,14 @@
   "id": 186477803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505862,33.070095,-97.505862,33.070095",
     "geom:latitude":33.070095,
     "geom:longitude":-97.505862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Private Ln",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186477803,
-    "wof:lastmodified":1449050874,
+    "wof:lastmodified":1467084701,
     "wof:name":"Van Diver Billing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-97.505862,33.070095,-97.505862,33.070095],
-  "geometry": {"coordinates":[-97.505862,33.070095],"type":"Point"}
+  "bbox": [
+    -97.505862,
+    33.070095,
+    -97.505862,
+    33.070095
+],
+  "geometry": {"coordinates":[-97.50586199999999,33.070095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303766213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739098,30.338499,-97.739098,30.338499",
     "geom:latitude":30.338499,
     "geom:longitude":-97.739098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6318 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303766213,
-    "wof:lastmodified":1448998082,
+    "wof:lastmodified":1467083689,
     "wof:name":"Light Bulbs Plus",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "electrician"
     ]
 },
-  "bbox": [-97.739098,30.338499,-97.739098,30.338499],
+  "bbox": [
+    -97.739098,
+    30.338499,
+    -97.739098,
+    30.338499
+],
   "geometry": {"coordinates":[-97.739098,30.338499],"type":"Point"}
 }

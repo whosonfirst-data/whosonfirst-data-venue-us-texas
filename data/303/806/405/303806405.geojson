@@ -2,13 +2,14 @@
   "id": 303806405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767212,30.425609,-97.767212,30.425609",
     "geom:latitude":30.425609,
     "geom:longitude":-97.767212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11743 D-K Ranch Rd P.O. Box 200142",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303806405,
-    "wof:lastmodified":1448998109,
+    "wof:lastmodified":1467083690,
     "wof:name":"Pink Dot Concierge",
     "wof:parent_id":85893495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "event"
     ]
 },
-  "bbox": [-97.767212,30.425609,-97.767212,30.425609],
+  "bbox": [
+    -97.767212,
+    30.425609,
+    -97.767212,
+    30.425609
+],
   "geometry": {"coordinates":[-97.767212,30.425609],"type":"Point"}
 }

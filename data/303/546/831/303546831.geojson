@@ -2,13 +2,14 @@
   "id": 303546831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.92297,30.309523,-97.92297,30.309523",
     "geom:latitude":30.309523,
     "geom:longitude":-97.92297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3214 Tehama Ct",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303546831,
-    "wof:lastmodified":1448998110,
+    "wof:lastmodified":1467083690,
     "wof:name":"Ann E Dimick Pediatric Dentistry Pc",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.92297,30.309523,-97.92297,30.309523],
-  "geometry": {"coordinates":[-97.92297,30.309523],"type":"Point"}
+  "bbox": [
+    -97.92297,
+    30.309523,
+    -97.92297,
+    30.309523
+],
+  "geometry": {"coordinates":[-97.92297000000001,30.309523],"type":"Point"}
 }

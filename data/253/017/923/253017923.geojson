@@ -2,13 +2,14 @@
   "id": 253017923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796975,33.00005,-96.796975,33.00005",
     "geom:latitude":33.00005,
     "geom:longitude":-96.796975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18383 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253017923,
-    "wof:lastmodified":1449064397,
+    "wof:lastmodified":1467084999,
     "wof:name":"Lincoln Financial",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-96.796975,33.00005,-96.796975,33.00005],
+  "bbox": [
+    -96.796975,
+    33.00005,
+    -96.796975,
+    33.00005
+],
   "geometry": {"coordinates":[-96.796975,33.00005],"type":"Point"}
 }

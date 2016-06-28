@@ -2,13 +2,14 @@
   "id": 236860973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800075,32.78031,-96.800075,32.78031",
     "geom:latitude":32.78031,
     "geom:longitude":-96.800075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Main St Ste 905",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236860973,
-    "wof:lastmodified":1449003060,
+    "wof:lastmodified":1467083936,
     "wof:name":"Metroplex Medical Centre",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.800075,32.78031,-96.800075,32.78031],
-  "geometry": {"coordinates":[-96.800075,32.78031],"type":"Point"}
+  "bbox": [
+    -96.800075,
+    32.78031,
+    -96.800075,
+    32.78031
+],
+  "geometry": {"coordinates":[-96.80007500000001,32.78031],"type":"Point"}
 }

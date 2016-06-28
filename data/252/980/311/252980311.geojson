@@ -2,13 +2,14 @@
   "id": 252980311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749841,32.858293,-96.749841,32.858293",
     "geom:latitude":32.858293,
     "geom:longitude":-96.749841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10440 N Central Expwy Ste 400",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252980311,
-    "wof:lastmodified":1449005486,
+    "wof:lastmodified":1467084052,
     "wof:name":"Hotels.com",
     "wof:parent_id":85870379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.749841,32.858293,-96.749841,32.858293],
+  "bbox": [
+    -96.749841,
+    32.858293,
+    -96.749841,
+    32.858293
+],
   "geometry": {"coordinates":[-96.749841,32.858293],"type":"Point"}
 }

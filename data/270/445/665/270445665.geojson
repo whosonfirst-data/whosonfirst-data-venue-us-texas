@@ -2,13 +2,14 @@
   "id": 270445665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.145465,29.60138,-95.145465,29.60138",
     "geom:latitude":29.60138,
     "geom:longitude":-95.145465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13100 Space Center Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270445665,
-    "wof:lastmodified":1449008969,
+    "wof:lastmodified":1467084160,
     "wof:name":"Boeing",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.145465,29.60138,-95.145465,29.60138],
+  "bbox": [
+    -95.145465,
+    29.60138,
+    -95.145465,
+    29.60138
+],
   "geometry": {"coordinates":[-95.145465,29.60138],"type":"Point"}
 }

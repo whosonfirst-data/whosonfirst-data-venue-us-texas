@@ -2,13 +2,14 @@
   "id": 353599055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.522079,29.47759,-98.522079,29.47759",
     "geom:latitude":29.47759,
     "geom:longitude":-98.522079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Clower St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353599055,
-    "wof:lastmodified":1449019442,
+    "wof:lastmodified":1467084347,
     "wof:name":"Saint Marys Magdalen School",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.522079,29.47759,-98.522079,29.47759],
-  "geometry": {"coordinates":[-98.522079,29.47759],"type":"Point"}
+  "bbox": [
+    -98.522079,
+    29.47759,
+    -98.522079,
+    29.47759
+],
+  "geometry": {"coordinates":[-98.52207900000001,29.47759],"type":"Point"}
 }

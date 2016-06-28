@@ -2,13 +2,14 @@
   "id": 253611661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.244087,32.480831,-97.244087,32.480831",
     "geom:latitude":32.480831,
     "geom:longitude":-97.244087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 June Dr",
     "sg:city":"Alvarado",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253611661,
-    "wof:lastmodified":1449065134,
+    "wof:lastmodified":1467085025,
     "wof:name":"Jims Machine And Mfg",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-97.244087,32.480831,-97.244087,32.480831],
-  "geometry": {"coordinates":[-97.244087,32.480831],"type":"Point"}
+  "bbox": [
+    -97.244087,
+    32.480831,
+    -97.244087,
+    32.480831
+],
+  "geometry": {"coordinates":[-97.24408699999999,32.480831],"type":"Point"}
 }

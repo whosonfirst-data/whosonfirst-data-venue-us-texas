@@ -2,13 +2,14 @@
   "id": 370933421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.305805,29.552479,-98.305805,29.552479",
     "geom:latitude":29.552479,
     "geom:longitude":-98.305805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 Pat Booker Rd",
     "sg:city":"Universal City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370933421,
-    "wof:lastmodified":1449029788,
+    "wof:lastmodified":1467084486,
     "wof:name":"Radio Shack",
     "wof:parent_id":85802531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.305805,29.552479,-98.305805,29.552479],
-  "geometry": {"coordinates":[-98.305805,29.552479],"type":"Point"}
+  "bbox": [
+    -98.305805,
+    29.552479,
+    -98.305805,
+    29.552479
+],
+  "geometry": {"coordinates":[-98.30580500000001,29.552479],"type":"Point"}
 }

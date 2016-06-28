@@ -2,13 +2,14 @@
   "id": 303845015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.851816,30.234354,-97.851816,30.234354",
     "geom:latitude":30.234354,
     "geom:longitude":-97.851816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6104 Old Fredericksburg Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303845015,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1467083711,
     "wof:name":"US Post Office",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.851816,30.234354,-97.851816,30.234354],
+  "bbox": [
+    -97.851816,
+    30.234354,
+    -97.851816,
+    30.234354
+],
   "geometry": {"coordinates":[-97.851816,30.234354],"type":"Point"}
 }

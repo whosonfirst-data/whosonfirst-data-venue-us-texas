@@ -2,13 +2,14 @@
   "id": 303945639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.866203,35.169176,-101.866203,35.169176",
     "geom:latitude":35.169176,
     "geom:longitude":-101.866203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 S Georgia St Rm 300",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303945639,
-    "wof:lastmodified":1448998329,
+    "wof:lastmodified":1467083702,
     "wof:name":"Randall County",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government-county"
     ]
 },
-  "bbox": [-101.866203,35.169176,-101.866203,35.169176],
+  "bbox": [
+    -101.866203,
+    35.169176,
+    -101.866203,
+    35.169176
+],
   "geometry": {"coordinates":[-101.866203,35.169176],"type":"Point"}
 }

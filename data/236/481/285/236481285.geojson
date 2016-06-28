@@ -2,13 +2,14 @@
   "id": 236481285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699611,32.961579,-96.699611,32.961579",
     "geom:latitude":32.961579,
     "geom:longitude":-96.699611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 N Plano Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236481285,
-    "wof:lastmodified":1449004739,
+    "wof:lastmodified":1467084015,
     "wof:name":"Fred's Downtown Philly",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-96.699611,32.961579,-96.699611,32.961579],
+  "bbox": [
+    -96.699611,
+    32.961579,
+    -96.699611,
+    32.961579
+],
   "geometry": {"coordinates":[-96.699611,32.961579],"type":"Point"}
 }

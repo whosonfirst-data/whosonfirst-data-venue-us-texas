@@ -2,13 +2,14 @@
   "id": 186629629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.57286,29.518315,-98.57286,29.518315",
     "geom:latitude":29.518315,
     "geom:longitude":-98.57286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8431 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186629629,
-    "wof:lastmodified":1449052381,
+    "wof:lastmodified":1467084733,
     "wof:name":"Americas Hearing Health Netwrk",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hearing"
     ]
 },
-  "bbox": [-98.57286,29.518315,-98.57286,29.518315],
-  "geometry": {"coordinates":[-98.57286,29.518315],"type":"Point"}
+  "bbox": [
+    -98.57286,
+    29.518315,
+    -98.57286,
+    29.518315
+],
+  "geometry": {"coordinates":[-98.57286000000001,29.518315],"type":"Point"}
 }

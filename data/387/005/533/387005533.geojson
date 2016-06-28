@@ -2,13 +2,14 @@
   "id": 387005533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.795293,30.441002,-97.795293,30.441002",
     "geom:latitude":30.441002,
     "geom:longitude":-97.795293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9309 Spring Wood Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387005533,
-    "wof:lastmodified":1449059609,
+    "wof:lastmodified":1467084874,
     "wof:name":"Homefinder of Austin",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-97.795293,30.441002,-97.795293,30.441002],
+  "bbox": [
+    -97.795293,
+    30.441002,
+    -97.795293,
+    30.441002
+],
   "geometry": {"coordinates":[-97.795293,30.441002],"type":"Point"}
 }

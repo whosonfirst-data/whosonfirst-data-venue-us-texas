@@ -2,13 +2,14 @@
   "id": 303568715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720189,30.211141,-97.720189,30.211141",
     "geom:latitude":30.211141,
     "geom:longitude":-97.720189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5810 Trade Center Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303568715,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1467083688,
     "wof:name":"Hill & Wilkinson",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.720189,30.211141,-97.720189,30.211141],
+  "bbox": [
+    -97.720189,
+    30.211141,
+    -97.720189,
+    30.211141
+],
   "geometry": {"coordinates":[-97.720189,30.211141],"type":"Point"}
 }

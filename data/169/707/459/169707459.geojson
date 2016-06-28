@@ -2,13 +2,14 @@
   "id": 169707459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.466215,32.995575,-96.466215,32.995575",
     "geom:latitude":32.995575,
     "geom:longitude":-96.466215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11943 State Hwy 205",
     "sg:city":"Rockwall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169707459,
-    "wof:lastmodified":1449035440,
+    "wof:lastmodified":1467084568,
     "wof:name":"Kennels At Foxrun",
     "wof:parent_id":85877695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [-96.466215,32.995575,-96.466215,32.995575],
-  "geometry": {"coordinates":[-96.466215,32.995575],"type":"Point"}
+  "bbox": [
+    -96.466215,
+    32.995575,
+    -96.466215,
+    32.995575
+],
+  "geometry": {"coordinates":[-96.46621500000001,32.995575],"type":"Point"}
 }

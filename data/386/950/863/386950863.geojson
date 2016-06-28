@@ -2,13 +2,14 @@
   "id": 386950863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739047,30.27121,-97.739047,30.27121",
     "geom:latitude":30.27121,
     "geom:longitude":-97.739047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E 10th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386950863,
-    "wof:lastmodified":1449028751,
+    "wof:lastmodified":1467084461,
     "wof:name":"Elections Div",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-97.739047,30.27121,-97.739047,30.27121],
+  "bbox": [
+    -97.739047,
+    30.27121,
+    -97.739047,
+    30.27121
+],
   "geometry": {"coordinates":[-97.739047,30.27121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219573149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.394256,29.557717,-98.394256,29.557717",
     "geom:latitude":29.557717,
     "geom:longitude":-98.394256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13022 Los Espanada St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219573149,
-    "wof:lastmodified":1449073006,
+    "wof:lastmodified":1467085155,
     "wof:name":"AHI",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.394256,29.557717,-98.394256,29.557717],
+  "bbox": [
+    -98.394256,
+    29.557717,
+    -98.394256,
+    29.557717
+],
   "geometry": {"coordinates":[-98.394256,29.557717],"type":"Point"}
 }

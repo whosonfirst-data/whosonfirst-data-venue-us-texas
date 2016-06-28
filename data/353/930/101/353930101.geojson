@@ -2,13 +2,14 @@
   "id": 353930101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.779497,33.024816,-96.779497,33.024816",
     "geom:latitude":33.024816,
     "geom:longitude":-96.779497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 Cleveland Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353930101,
-    "wof:lastmodified":1449019079,
+    "wof:lastmodified":1467084339,
     "wof:name":"Gns Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.779497,33.024816,-96.779497,33.024816],
-  "geometry": {"coordinates":[-96.779497,33.024816],"type":"Point"}
+  "bbox": [
+    -96.779497,
+    33.024816,
+    -96.779497,
+    33.024816
+],
+  "geometry": {"coordinates":[-96.77949700000001,33.024816],"type":"Point"}
 }

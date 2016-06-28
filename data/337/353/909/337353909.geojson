@@ -2,13 +2,14 @@
   "id": 337353909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.837207,30.292342,-98.837207,30.292342",
     "geom:latitude":30.292342,
     "geom:longitude":-98.837207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 State Hwy 16",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337353909,
-    "wof:lastmodified":1449027174,
+    "wof:lastmodified":1467084433,
     "wof:name":"Carreno Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.837207,30.292342,-98.837207,30.292342],
-  "geometry": {"coordinates":[-98.837207,30.292342],"type":"Point"}
+  "bbox": [
+    -98.837207,
+    30.292342,
+    -98.837207,
+    30.292342
+],
+  "geometry": {"coordinates":[-98.83720700000001,30.292342],"type":"Point"}
 }

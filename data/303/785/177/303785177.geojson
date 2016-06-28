@@ -2,13 +2,14 @@
   "id": 303785177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.712493,30.378945,-97.712493,30.378945",
     "geom:latitude":30.378945,
     "geom:longitude":-97.712493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Rutland Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303785177,
-    "wof:lastmodified":1449000145,
+    "wof:lastmodified":1467083792,
     "wof:name":"Select Mart",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.712493,30.378945,-97.712493,30.378945],
-  "geometry": {"coordinates":[-97.712493,30.378945],"type":"Point"}
+  "bbox": [
+    -97.712493,
+    30.378945,
+    -97.712493,
+    30.378945
+],
+  "geometry": {"coordinates":[-97.71249299999999,30.378945],"type":"Point"}
 }

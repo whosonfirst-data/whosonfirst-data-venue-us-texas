@@ -2,13 +2,14 @@
   "id": 253031307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880879,32.924885,-96.880879,32.924885",
     "geom:latitude":32.924885,
     "geom:longitude":-96.880879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13260 Josey Ln",
     "sg:city":"Farmers Branch",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253031307,
-    "wof:lastmodified":1449063930,
+    "wof:lastmodified":1467084983,
     "wof:name":"Walgreens",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-96.880879,32.924885,-96.880879,32.924885],
-  "geometry": {"coordinates":[-96.880879,32.924885],"type":"Point"}
+  "bbox": [
+    -96.880879,
+    32.924885,
+    -96.880879,
+    32.924885
+],
+  "geometry": {"coordinates":[-96.88087899999999,32.924885],"type":"Point"}
 }

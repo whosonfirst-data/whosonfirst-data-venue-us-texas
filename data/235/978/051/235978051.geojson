@@ -2,13 +2,14 @@
   "id": 235978051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.457926,29.808874,-95.457926,29.808874",
     "geom:latitude":29.808874,
     "geom:longitude":-95.457926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10303 Northwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235978051,
-    "wof:lastmodified":1449008444,
+    "wof:lastmodified":1467084145,
     "wof:name":"A&M Publishing",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-95.457926,29.808874,-95.457926,29.808874],
+  "bbox": [
+    -95.457926,
+    29.808874,
+    -95.457926,
+    29.808874
+],
   "geometry": {"coordinates":[-95.457926,29.808874],"type":"Point"}
 }

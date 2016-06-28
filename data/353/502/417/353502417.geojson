@@ -2,13 +2,14 @@
   "id": 353502417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.853445,33.577737,-101.853445,33.577737",
     "geom:latitude":33.577737,
     "geom:longitude":-101.853445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 19th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353502417,
-    "wof:lastmodified":1449019431,
+    "wof:lastmodified":1467084347,
     "wof:name":"Texas Games",
     "wof:parent_id":85878813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "video"
     ]
 },
-  "bbox": [-101.853445,33.577737,-101.853445,33.577737],
-  "geometry": {"coordinates":[-101.853445,33.577737],"type":"Point"}
+  "bbox": [
+    -101.853445,
+    33.577737,
+    -101.853445,
+    33.577737
+],
+  "geometry": {"coordinates":[-101.85344499999999,33.577737],"type":"Point"}
 }

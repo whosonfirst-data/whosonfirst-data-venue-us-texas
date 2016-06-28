@@ -2,13 +2,14 @@
   "id": 236844443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799035,32.781206,-96.799035,32.781206",
     "geom:latitude":32.781206,
     "geom:longitude":-96.799035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Elm St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236844443,
-    "wof:lastmodified":1449002995,
+    "wof:lastmodified":1467083932,
     "wof:name":"4G Dallas Internet Providers",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-96.799035,32.781206,-96.799035,32.781206],
+  "bbox": [
+    -96.799035,
+    32.781206,
+    -96.799035,
+    32.781206
+],
   "geometry": {"coordinates":[-96.799035,32.781206],"type":"Point"}
 }

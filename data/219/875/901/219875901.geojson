@@ -2,13 +2,14 @@
   "id": 219875901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766204,32.770909,-96.766204,32.770909",
     "geom:latitude":32.770909,
     "geom:longitude":-96.766204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 Martin Luther King Jr Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219875901,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1467085155,
     "wof:name":"Dallas Youth Svc Office",
     "wof:parent_id":85870447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-96.766204,32.770909,-96.766204,32.770909],
+  "bbox": [
+    -96.766204,
+    32.770909,
+    -96.766204,
+    32.770909
+],
   "geometry": {"coordinates":[-96.766204,32.770909],"type":"Point"}
 }

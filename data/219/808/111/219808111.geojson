@@ -2,13 +2,14 @@
   "id": 219808111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.474911,31.765587,-106.474911,31.765587",
     "geom:latitude":31.765587,
     "geom:longitude":-106.474911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Myrtle Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219808111,
-    "wof:lastmodified":1449070546,
+    "wof:lastmodified":1467085103,
     "wof:name":"Campos Trasnsmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.474911,31.765587,-106.474911,31.765587],
-  "geometry": {"coordinates":[-106.474911,31.765587],"type":"Point"}
+  "bbox": [
+    -106.474911,
+    31.765587,
+    -106.474911,
+    31.765587
+],
+  "geometry": {"coordinates":[-106.47491100000001,31.765587],"type":"Point"}
 }

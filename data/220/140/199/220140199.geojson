@@ -2,13 +2,14 @@
   "id": 220140199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.321775,32.641154,-97.321775,32.641154",
     "geom:latitude":32.641154,
     "geom:longitude":-97.321775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 South Fwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220140199,
-    "wof:lastmodified":1449074142,
+    "wof:lastmodified":1467085179,
     "wof:name":"Ballard's Wrecker Svc",
     "wof:parent_id":85871543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.321775,32.641154,-97.321775,32.641154],
+  "bbox": [
+    -97.321775,
+    32.641154,
+    -97.321775,
+    32.641154
+],
   "geometry": {"coordinates":[-97.321775,32.641154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387840691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55109,29.724063,-95.55109,29.724063",
     "geom:latitude":29.724063,
     "geom:longitude":-95.55109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 Westchase Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387840691,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1467084860,
     "wof:name":"Macartney Offshore Inc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-95.55109,29.724063,-95.55109,29.724063],
+  "bbox": [
+    -95.55109,
+    29.724063,
+    -95.55109,
+    29.724063
+],
   "geometry": {"coordinates":[-95.55109,29.724063],"type":"Point"}
 }

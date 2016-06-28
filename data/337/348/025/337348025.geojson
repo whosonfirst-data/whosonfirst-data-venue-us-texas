@@ -2,13 +2,14 @@
   "id": 337348025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.327768,32.118809,-96.327768,32.118809",
     "geom:latitude":32.118809,
     "geom:longitude":-96.327768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Brookshire",
     "sg:city":"Powell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337348025,
-    "wof:lastmodified":1449026974,
+    "wof:lastmodified":1467084425,
     "wof:name":"US Post Office",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.327768,32.118809,-96.327768,32.118809],
-  "geometry": {"coordinates":[-96.327768,32.118809],"type":"Point"}
+  "bbox": [
+    -96.327768,
+    32.118809,
+    -96.327768,
+    32.118809
+],
+  "geometry": {"coordinates":[-96.32776800000001,32.118809],"type":"Point"}
 }

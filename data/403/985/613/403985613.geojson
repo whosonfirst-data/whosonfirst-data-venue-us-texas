@@ -2,13 +2,14 @@
   "id": 403985613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.863414,30.34037,-97.863414,30.34037",
     "geom:latitude":30.34037,
     "geom:longitude":-97.863414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Cuernavaca Dr N",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403985613,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1467084765,
     "wof:name":"Tom Hobbs Co",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.863414,30.34037,-97.863414,30.34037],
-  "geometry": {"coordinates":[-97.863414,30.34037],"type":"Point"}
+  "bbox": [
+    -97.863414,
+    30.34037,
+    -97.863414,
+    30.34037
+],
+  "geometry": {"coordinates":[-97.86341400000001,30.34037],"type":"Point"}
 }

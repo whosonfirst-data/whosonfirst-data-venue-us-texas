@@ -2,13 +2,14 @@
   "id": 370656463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.275686,29.790496,-95.275686,29.790496",
     "geom:latitude":29.790496,
     "geom:longitude":-95.275686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8811 Wallisville Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370656463,
-    "wof:lastmodified":1449031279,
+    "wof:lastmodified":1467084524,
     "wof:name":"Haulco Trucking",
     "wof:parent_id":85847801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.275686,29.790496,-95.275686,29.790496],
-  "geometry": {"coordinates":[-95.275686,29.790496],"type":"Point"}
+  "bbox": [
+    -95.275686,
+    29.790496,
+    -95.275686,
+    29.790496
+],
+  "geometry": {"coordinates":[-95.27568599999999,29.790496],"type":"Point"}
 }

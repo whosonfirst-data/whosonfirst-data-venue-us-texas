@@ -2,13 +2,14 @@
   "id": 304021061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.132457,32.883153,-100.132457,32.883153",
     "geom:latitude":32.883153,
     "geom:longitude":-100.132457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 SW Avenue E D D",
     "sg:city":"Hamlin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":304021061,
-    "wof:lastmodified":1449043970,
+    "wof:lastmodified":1467084667,
     "wof:name":"Church of The Nazarene Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "churches-nazarene"
     ]
 },
-  "bbox": [-100.132457,32.883153,-100.132457,32.883153],
+  "bbox": [
+    -100.132457,
+    32.883153,
+    -100.132457,
+    32.883153
+],
   "geometry": {"coordinates":[-100.132457,32.883153],"type":"Point"}
 }

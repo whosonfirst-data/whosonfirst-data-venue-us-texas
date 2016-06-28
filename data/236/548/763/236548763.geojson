@@ -2,13 +2,14 @@
   "id": 236548763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.854818,33.561804,-97.854818,33.561804",
     "geom:latitude":33.561804,
     "geom:longitude":-97.854818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W Wise St",
     "sg:city":"Bowie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236548763,
-    "wof:lastmodified":1449004031,
+    "wof:lastmodified":1467083981,
     "wof:name":"Pete's Suzuki-Polaris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.854818,33.561804,-97.854818,33.561804],
-  "geometry": {"coordinates":[-97.854818,33.561804],"type":"Point"}
+  "bbox": [
+    -97.854818,
+    33.561804,
+    -97.854818,
+    33.561804
+],
+  "geometry": {"coordinates":[-97.85481799999999,33.561804],"type":"Point"}
 }

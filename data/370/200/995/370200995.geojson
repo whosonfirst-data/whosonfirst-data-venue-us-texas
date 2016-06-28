@@ -2,13 +2,14 @@
   "id": 370200995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.128451,29.554316,-95.128451,29.554316",
     "geom:latitude":29.554316,
     "geom:longitude":-95.128451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Ramada Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370200995,
-    "wof:lastmodified":1449030439,
+    "wof:lastmodified":1467084503,
     "wof:name":"Aerosys Groups",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-95.128451,29.554316,-95.128451,29.554316],
+  "bbox": [
+    -95.128451,
+    29.554316,
+    -95.128451,
+    29.554316
+],
   "geometry": {"coordinates":[-95.128451,29.554316],"type":"Point"}
 }

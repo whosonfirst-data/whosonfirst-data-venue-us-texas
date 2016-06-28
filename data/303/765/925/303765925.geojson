@@ -2,13 +2,14 @@
   "id": 303765925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73612,30.361453,-97.73612,30.361453",
     "geom:latitude":30.361453,
     "geom:longitude":-97.73612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 Ashdale Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303765925,
-    "wof:lastmodified":1448999533,
+    "wof:lastmodified":1467083762,
     "wof:name":"Spencer Construction Management",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.73612,30.361453,-97.73612,30.361453],
+  "bbox": [
+    -97.73612,
+    30.361453,
+    -97.73612,
+    30.361453
+],
   "geometry": {"coordinates":[-97.73612,30.361453],"type":"Point"}
 }

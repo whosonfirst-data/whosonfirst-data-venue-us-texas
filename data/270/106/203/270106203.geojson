@@ -2,13 +2,14 @@
   "id": 270106203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.43022,29.729406,-95.43022,29.729406",
     "geom:latitude":29.729406,
     "geom:longitude":-95.43022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3237 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":270106203,
-    "wof:lastmodified":1449008635,
+    "wof:lastmodified":1467084149,
     "wof:name":"Rustika Caf? & Bakery",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.43022,29.729406,-95.43022,29.729406],
-  "geometry": {"coordinates":[-95.43022,29.729406],"type":"Point"}
+  "bbox": [
+    -95.43022,
+    29.729406,
+    -95.43022,
+    29.729406
+],
+  "geometry": {"coordinates":[-95.43022000000001,29.729406],"type":"Point"}
 }

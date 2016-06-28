@@ -2,13 +2,14 @@
   "id": 354380425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.040948,32.828245,-97.040948,32.828245",
     "geom:latitude":32.828245,
     "geom:longitude":-97.040948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 Diplomacy Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354380425,
-    "wof:lastmodified":1449066708,
+    "wof:lastmodified":1467085070,
     "wof:name":"Andromedia Imports",
     "wof:parent_id":85851835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-97.040948,32.828245,-97.040948,32.828245],
+  "bbox": [
+    -97.040948,
+    32.828245,
+    -97.040948,
+    32.828245
+],
   "geometry": {"coordinates":[-97.040948,32.828245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286452929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359975,30.175325,-95.359975,30.175325",
     "geom:latitude":30.175325,
     "geom:longitude":-95.359975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19531 Moorhead Rd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286452929,
-    "wof:lastmodified":1449015858,
+    "wof:lastmodified":1467084255,
     "wof:name":"Moorhead's Blueberry Farm",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.359975,30.175325,-95.359975,30.175325],
-  "geometry": {"coordinates":[-95.359975,30.175325],"type":"Point"}
+  "bbox": [
+    -95.359975,
+    30.175325,
+    -95.359975,
+    30.175325
+],
+  "geometry": {"coordinates":[-95.35997500000001,30.175325],"type":"Point"}
 }

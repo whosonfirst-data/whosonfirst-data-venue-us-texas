@@ -2,13 +2,14 @@
   "id": 387604135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777212,32.79565,-96.777212,32.79565",
     "geom:latitude":32.79565,
     "geom:longitude":-96.777212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 Swiss Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":387604135,
-    "wof:lastmodified":1449059475,
+    "wof:lastmodified":1467084871,
     "wof:name":"Amalgamated Transit Union 1338",
     "wof:parent_id":85870373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.777212,32.79565,-96.777212,32.79565],
-  "geometry": {"coordinates":[-96.777212,32.79565],"type":"Point"}
+  "bbox": [
+    -96.777212,
+    32.79565,
+    -96.777212,
+    32.79565
+],
+  "geometry": {"coordinates":[-96.77721200000001,32.79565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303739603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677206,30.409231,-97.677206,30.409231",
     "geom:latitude":30.409231,
     "geom:longitude":-97.677206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12509 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303739603,
-    "wof:lastmodified":1448999153,
+    "wof:lastmodified":1467083743,
     "wof:name":"Golden Corral Restaurants",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "buffet"
     ]
 },
-  "bbox": [-97.677206,30.409231,-97.677206,30.409231],
+  "bbox": [
+    -97.677206,
+    30.409231,
+    -97.677206,
+    30.409231
+],
   "geometry": {"coordinates":[-97.677206,30.409231],"type":"Point"}
 }

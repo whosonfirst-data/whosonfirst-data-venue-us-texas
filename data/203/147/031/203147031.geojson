@@ -2,13 +2,14 @@
   "id": 203147031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.251366,32.660999,-97.251366,32.660999",
     "geom:latitude":32.660999,
     "geom:longitude":-97.251366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 SE Loop 820",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203147031,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1467084417,
     "wof:name":"ARC Rental",
     "wof:parent_id":85871617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.251366,32.660999,-97.251366,32.660999],
+  "bbox": [
+    -97.251366,
+    32.660999,
+    -97.251366,
+    32.660999
+],
   "geometry": {"coordinates":[-97.251366,32.660999],"type":"Point"}
 }

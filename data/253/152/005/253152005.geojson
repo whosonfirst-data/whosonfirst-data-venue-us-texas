@@ -2,13 +2,14 @@
   "id": 253152005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44128,32.71517,-97.44128,32.71517",
     "geom:latitude":32.71517,
     "geom:longitude":-97.44128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Southwest Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253152005,
-    "wof:lastmodified":1449065077,
+    "wof:lastmodified":1467085023,
     "wof:name":"Busy B's Bakery",
     "wof:parent_id":85871663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-97.44128,32.71517,-97.44128,32.71517],
-  "geometry": {"coordinates":[-97.44128,32.71517],"type":"Point"}
+  "bbox": [
+    -97.44128,
+    32.71517,
+    -97.44128,
+    32.71517
+],
+  "geometry": {"coordinates":[-97.44128000000001,32.71517],"type":"Point"}
 }

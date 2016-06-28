@@ -2,13 +2,14 @@
   "id": 186062277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.6973,30.407677,-97.6973,30.407677",
     "geom:latitude":30.407677,
     "geom:longitude":-97.6973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12166 Metric Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186062277,
-    "wof:lastmodified":1449052835,
+    "wof:lastmodified":1467084743,
     "wof:name":"Edgecreek Apartments",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.6973,30.407677,-97.6973,30.407677],
+  "bbox": [
+    -97.6973,
+    30.407677,
+    -97.6973,
+    30.407677
+],
   "geometry": {"coordinates":[-97.6973,30.407677],"type":"Point"}
 }

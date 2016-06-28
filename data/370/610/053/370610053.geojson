@@ -2,13 +2,14 @@
   "id": 370610053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.896618,30.894001,-102.896618,30.894001",
     "geom:latitude":30.894001,
     "geom:longitude":-102.896618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 W Dickinson Blvd",
     "sg:city":"Fort Stockton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370610053,
-    "wof:lastmodified":1449032411,
+    "wof:lastmodified":1467084553,
     "wof:name":"Apache Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.896618,30.894001,-102.896618,30.894001],
+  "bbox": [
+    -102.896618,
+    30.894001,
+    -102.896618,
+    30.894001
+],
   "geometry": {"coordinates":[-102.896618,30.894001],"type":"Point"}
 }

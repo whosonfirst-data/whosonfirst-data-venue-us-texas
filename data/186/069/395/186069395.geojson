@@ -2,13 +2,14 @@
   "id": 186069395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.463557,31.77164,-106.463557,31.77164",
     "geom:latitude":31.77164,
     "geom:longitude":-106.463557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Bassett Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186069395,
-    "wof:lastmodified":1449052068,
+    "wof:lastmodified":1467084727,
     "wof:name":"Environmental Supply Co",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "collector"
     ]
 },
-  "bbox": [-106.463557,31.77164,-106.463557,31.77164],
-  "geometry": {"coordinates":[-106.463557,31.77164],"type":"Point"}
+  "bbox": [
+    -106.463557,
+    31.77164,
+    -106.463557,
+    31.77164
+],
+  "geometry": {"coordinates":[-106.46355699999999,31.77164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253488765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.352989,32.519766,-94.352989,32.519766",
     "geom:latitude":32.519766,
     "geom:longitude":-94.352989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 E End Blvd S Ste 101",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253488765,
-    "wof:lastmodified":1449065727,
+    "wof:lastmodified":1467085044,
     "wof:name":"Center For Applied Technology",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-94.352989,32.519766,-94.352989,32.519766],
-  "geometry": {"coordinates":[-94.352989,32.519766],"type":"Point"}
+  "bbox": [
+    -94.352989,
+    32.519766,
+    -94.352989,
+    32.519766
+],
+  "geometry": {"coordinates":[-94.35298899999999,32.519766],"type":"Point"}
 }

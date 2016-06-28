@@ -2,13 +2,14 @@
   "id": 252997851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797558,32.782576,-96.797558,32.782576",
     "geom:latitude":32.782576,
     "geom:longitude":-96.797558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Pacific Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252997851,
-    "wof:lastmodified":1449006325,
+    "wof:lastmodified":1467084098,
     "wof:name":"Thomas & Thomas",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.797558,32.782576,-96.797558,32.782576],
+  "bbox": [
+    -96.797558,
+    32.782576,
+    -96.797558,
+    32.782576
+],
   "geometry": {"coordinates":[-96.797558,32.782576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353484577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.600201,29.913609,-95.600201,29.913609",
     "geom:latitude":29.913609,
     "geom:longitude":-95.600201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12219 Paddock Way",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353484577,
-    "wof:lastmodified":1449020649,
+    "wof:lastmodified":1467084373,
     "wof:name":"Benchmark Deveolpement",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.600201,29.913609,-95.600201,29.913609],
+  "bbox": [
+    -95.600201,
+    29.913609,
+    -95.600201,
+    29.913609
+],
   "geometry": {"coordinates":[-95.600201,29.913609],"type":"Point"}
 }

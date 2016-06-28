@@ -2,13 +2,14 @@
   "id": 286881161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.240501,29.7323,-95.240501,29.7323",
     "geom:latitude":29.7323,
     "geom:longitude":-95.240501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Clinton Dr",
     "sg:city":"Galena Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286881161,
-    "wof:lastmodified":1449016898,
+    "wof:lastmodified":1467084284,
     "wof:name":"M S Express",
     "wof:parent_id":85832051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.240501,29.7323,-95.240501,29.7323],
-  "geometry": {"coordinates":[-95.240501,29.7323],"type":"Point"}
+  "bbox": [
+    -95.240501,
+    29.7323,
+    -95.240501,
+    29.7323
+],
+  "geometry": {"coordinates":[-95.24050099999999,29.7323],"type":"Point"}
 }

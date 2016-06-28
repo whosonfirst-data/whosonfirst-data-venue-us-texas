@@ -2,13 +2,14 @@
   "id": 286400779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.699199,29.775095,-95.699199,29.775095",
     "geom:latitude":29.775095,
     "geom:longitude":-95.699199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Kingsmark Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":286400779,
-    "wof:lastmodified":1449015467,
+    "wof:lastmodified":1467084244,
     "wof:name":"Advanced Air Care, Inc.",
     "wof:parent_id":85804499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.699199,29.775095,-95.699199,29.775095],
-  "geometry": {"coordinates":[-95.699199,29.775095],"type":"Point"}
+  "bbox": [
+    -95.699199,
+    29.775095,
+    -95.699199,
+    29.775095
+],
+  "geometry": {"coordinates":[-95.69919899999999,29.775095],"type":"Point"}
 }

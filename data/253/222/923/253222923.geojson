@@ -2,13 +2,14 @@
   "id": 253222923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.157546,32.66089,-97.157546,32.66089",
     "geom:latitude":32.66089,
     "geom:longitude":-97.157546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Rush Creek Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253222923,
-    "wof:lastmodified":1449064819,
+    "wof:lastmodified":1467085014,
     "wof:name":"Process Integrity Inc",
     "wof:parent_id":85897311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.157546,32.66089,-97.157546,32.66089],
+  "bbox": [
+    -97.157546,
+    32.66089,
+    -97.157546,
+    32.66089
+],
   "geometry": {"coordinates":[-97.157546,32.66089],"type":"Point"}
 }

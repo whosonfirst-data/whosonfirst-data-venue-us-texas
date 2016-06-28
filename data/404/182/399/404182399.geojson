@@ -2,13 +2,14 @@
   "id": 404182399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.616555,29.855848,-95.616555,29.855848",
     "geom:latitude":29.855848,
     "geom:longitude":-95.616555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6007 Central Falls Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404182399,
-    "wof:lastmodified":1449039888,
+    "wof:lastmodified":1467084653,
     "wof:name":"Crawford International Sales",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-95.616555,29.855848,-95.616555,29.855848],
-  "geometry": {"coordinates":[-95.616555,29.855848],"type":"Point"}
+  "bbox": [
+    -95.616555,
+    29.855848,
+    -95.616555,
+    29.855848
+],
+  "geometry": {"coordinates":[-95.61655500000001,29.855848],"type":"Point"}
 }

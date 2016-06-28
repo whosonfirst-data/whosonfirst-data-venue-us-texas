@@ -2,13 +2,14 @@
   "id": 253046721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.866402,32.934101,-96.866402,32.934101",
     "geom:latitude":32.934101,
     "geom:longitude":-96.866402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Golfing Green Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253046721,
-    "wof:lastmodified":1449064469,
+    "wof:lastmodified":1467085001,
     "wof:name":"Golf Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.866402,32.934101,-96.866402,32.934101],
-  "geometry": {"coordinates":[-96.866402,32.934101],"type":"Point"}
+  "bbox": [
+    -96.866402,
+    32.934101,
+    -96.866402,
+    32.934101
+],
+  "geometry": {"coordinates":[-96.86640199999999,32.934101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219297565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.463749,31.766554,-106.463749,31.766554",
     "geom:latitude":31.766554,
     "geom:longitude":-106.463749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Cypress Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219297565,
-    "wof:lastmodified":1449072629,
+    "wof:lastmodified":1467085147,
     "wof:name":"DWS Building Supply",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.463749,31.766554,-106.463749,31.766554],
-  "geometry": {"coordinates":[-106.463749,31.766554],"type":"Point"}
+  "bbox": [
+    -106.463749,
+    31.766554,
+    -106.463749,
+    31.766554
+],
+  "geometry": {"coordinates":[-106.46374900000001,31.766554],"type":"Point"}
 }

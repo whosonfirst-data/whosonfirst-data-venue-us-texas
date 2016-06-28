@@ -2,13 +2,14 @@
   "id": 370520097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.305776,30.569119,-96.305776,30.569119",
     "geom:latitude":30.569119,
     "geom:longitude":-96.305776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Augsburg Ct",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370520097,
-    "wof:lastmodified":1449030212,
+    "wof:lastmodified":1467084497,
     "wof:name":"Atex Graphics LLC",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trimming"
     ]
 },
-  "bbox": [-96.305776,30.569119,-96.305776,30.569119],
-  "geometry": {"coordinates":[-96.305776,30.569119],"type":"Point"}
+  "bbox": [
+    -96.305776,
+    30.569119,
+    -96.305776,
+    30.569119
+],
+  "geometry": {"coordinates":[-96.30577599999999,30.569119],"type":"Point"}
 }

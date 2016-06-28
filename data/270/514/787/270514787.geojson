@@ -2,13 +2,14 @@
   "id": 270514787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.537331,29.67904,-95.537331,29.67904",
     "geom:latitude":29.67904,
     "geom:longitude":-95.537331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Southwest Fwy Ste 250",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":270514787,
-    "wof:lastmodified":1449009865,
+    "wof:lastmodified":1467084190,
     "wof:name":"Environmental Protech",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "local"
     ]
 },
-  "bbox": [-95.537331,29.67904,-95.537331,29.67904],
-  "geometry": {"coordinates":[-95.537331,29.67904],"type":"Point"}
+  "bbox": [
+    -95.537331,
+    29.67904,
+    -95.537331,
+    29.67904
+],
+  "geometry": {"coordinates":[-95.53733099999999,29.67904],"type":"Point"}
 }

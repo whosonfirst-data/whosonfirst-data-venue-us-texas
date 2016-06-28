@@ -2,13 +2,14 @@
   "id": 404113493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.473848,29.610312,-98.473848,29.610312",
     "geom:latitude":29.610312,
     "geom:longitude":-98.473848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 State Hwy 1604",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404113493,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1467084658,
     "wof:name":"Jeff Elkins MD",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.473848,29.610312,-98.473848,29.610312],
+  "bbox": [
+    -98.473848,
+    29.610312,
+    -98.473848,
+    29.610312
+],
   "geometry": {"coordinates":[-98.473848,29.610312],"type":"Point"}
 }

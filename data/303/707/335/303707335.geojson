@@ -2,13 +2,14 @@
   "id": 303707335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.71727,30.314659,-97.71727,30.314659",
     "geom:latitude":30.314659,
     "geom:longitude":-97.71727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5203 Martin Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303707335,
-    "wof:lastmodified":1449000176,
+    "wof:lastmodified":1467083793,
     "wof:name":"Jet Propeller",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "propeller"
     ]
 },
-  "bbox": [-97.71727,30.314659,-97.71727,30.314659],
+  "bbox": [
+    -97.71727,
+    30.314659,
+    -97.71727,
+    30.314659
+],
   "geometry": {"coordinates":[-97.71727,30.314659],"type":"Point"}
 }

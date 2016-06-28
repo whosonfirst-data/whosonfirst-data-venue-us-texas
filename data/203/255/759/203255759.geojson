@@ -2,13 +2,14 @@
   "id": 203255759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.267806,32.877859,-97.267806,32.877859",
     "geom:latitude":32.877859,
     "geom:longitude":-97.267806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 Bryce Canyon Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203255759,
-    "wof:lastmodified":1449025775,
+    "wof:lastmodified":1467084400,
     "wof:name":"Classic Glassworks",
     "wof:parent_id":85871627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.267806,32.877859,-97.267806,32.877859],
-  "geometry": {"coordinates":[-97.267806,32.877859],"type":"Point"}
+  "bbox": [
+    -97.267806,
+    32.877859,
+    -97.267806,
+    32.877859
+],
+  "geometry": {"coordinates":[-97.26780599999999,32.877859],"type":"Point"}
 }

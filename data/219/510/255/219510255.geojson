@@ -2,13 +2,14 @@
   "id": 219510255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.842611,31.217954,-99.842611,31.217954",
     "geom:latitude":31.217954,
     "geom:longitude":-99.842611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Smith St",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219510255,
-    "wof:lastmodified":1449072514,
+    "wof:lastmodified":1467085144,
     "wof:name":"Mueller Metals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-99.842611,31.217954,-99.842611,31.217954],
-  "geometry": {"coordinates":[-99.842611,31.217954],"type":"Point"}
+  "bbox": [
+    -99.842611,
+    31.217954,
+    -99.842611,
+    31.217954
+],
+  "geometry": {"coordinates":[-99.84261100000001,31.217954],"type":"Point"}
 }

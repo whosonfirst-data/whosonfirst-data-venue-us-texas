@@ -2,13 +2,14 @@
   "id": 269618789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.447905,33.592949,-98.447905,33.592949",
     "geom:latitude":33.592949,
     "geom:longitude":-98.447905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Peysen Rd",
     "sg:city":"Windthorst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269618789,
-    "wof:lastmodified":1449037637,
+    "wof:lastmodified":1467084613,
     "wof:name":"Archer County Precinct 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government-county"
     ]
 },
-  "bbox": [-98.447905,33.592949,-98.447905,33.592949],
-  "geometry": {"coordinates":[-98.447905,33.592949],"type":"Point"}
+  "bbox": [
+    -98.447905,
+    33.592949,
+    -98.447905,
+    33.592949
+],
+  "geometry": {"coordinates":[-98.44790500000001,33.592949],"type":"Point"}
 }

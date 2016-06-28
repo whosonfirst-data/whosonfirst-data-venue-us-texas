@@ -2,13 +2,14 @@
   "id": 270353235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.409668,29.670733,-95.409668,29.670733",
     "geom:latitude":29.670733,
     "geom:longitude":-95.409668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 Crosspoint Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270353235,
-    "wof:lastmodified":1449009303,
+    "wof:lastmodified":1467084171,
     "wof:name":"Preferred Food Service",
     "wof:parent_id":85841553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "concessionaire"
     ]
 },
-  "bbox": [-95.409668,29.670733,-95.409668,29.670733],
+  "bbox": [
+    -95.409668,
+    29.670733,
+    -95.409668,
+    29.670733
+],
   "geometry": {"coordinates":[-95.409668,29.670733],"type":"Point"}
 }

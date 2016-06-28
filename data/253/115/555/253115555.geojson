@@ -2,13 +2,14 @@
   "id": 253115555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80347,32.929256,-96.80347,32.929256",
     "geom:latitude":32.929256,
     "geom:longitude":-96.80347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13378 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253115555,
-    "wof:lastmodified":1449062806,
+    "wof:lastmodified":1467084945,
     "wof:name":"Jersey Mike Sub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-96.80347,32.929256,-96.80347,32.929256],
+  "bbox": [
+    -96.80347,
+    32.929256,
+    -96.80347,
+    32.929256
+],
   "geometry": {"coordinates":[-96.80347,32.929256],"type":"Point"}
 }

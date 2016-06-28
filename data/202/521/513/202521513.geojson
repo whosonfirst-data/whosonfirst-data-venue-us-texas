@@ -2,13 +2,14 @@
   "id": 202521513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.083121,32.70924,-97.083121,32.70924",
     "geom:latitude":32.70924,
     "geom:longitude":-97.083121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 E Pioneer Pkwy",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202521513,
-    "wof:lastmodified":1449062520,
+    "wof:lastmodified":1467084938,
     "wof:name":"Dimensions Wireless",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-97.083121,32.70924,-97.083121,32.70924],
-  "geometry": {"coordinates":[-97.083121,32.70924],"type":"Point"}
+  "bbox": [
+    -97.083121,
+    32.70924,
+    -97.083121,
+    32.70924
+],
+  "geometry": {"coordinates":[-97.08312100000001,32.70924],"type":"Point"}
 }

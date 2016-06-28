@@ -2,13 +2,14 @@
   "id": 353661121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.764542,32.443714,-99.764542,32.443714",
     "geom:latitude":32.443714,
     "geom:longitude":-99.764542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Blair St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353661121,
-    "wof:lastmodified":1449020533,
+    "wof:lastmodified":1467084370,
     "wof:name":"City of Abilene",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.764542,32.443714,-99.764542,32.443714],
-  "geometry": {"coordinates":[-99.764542,32.443714],"type":"Point"}
+  "bbox": [
+    -99.764542,
+    32.443714,
+    -99.764542,
+    32.443714
+],
+  "geometry": {"coordinates":[-99.76454200000001,32.443714],"type":"Point"}
 }

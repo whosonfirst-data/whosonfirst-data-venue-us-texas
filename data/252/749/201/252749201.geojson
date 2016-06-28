@@ -2,13 +2,14 @@
   "id": 252749201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.291074,32.865926,-97.291074,32.865926",
     "geom:latitude":32.865926,
     "geom:longitude":-97.291074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6960 N Beach St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252749201,
-    "wof:lastmodified":1449005730,
+    "wof:lastmodified":1467084066,
     "wof:name":"Park Creek Apartments",
     "wof:parent_id":85871629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.291074,32.865926,-97.291074,32.865926],
-  "geometry": {"coordinates":[-97.291074,32.865926],"type":"Point"}
+  "bbox": [
+    -97.291074,
+    32.865926,
+    -97.291074,
+    32.865926
+],
+  "geometry": {"coordinates":[-97.29107399999999,32.865926],"type":"Point"}
 }

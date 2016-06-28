@@ -2,13 +2,14 @@
   "id": 387462347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.497892,29.811063,-95.497892,29.811063",
     "geom:latitude":29.811063,
     "geom:longitude":-95.497892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8420 Hammerly Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387462347,
-    "wof:lastmodified":1449059768,
+    "wof:lastmodified":1467084879,
     "wof:name":"Hammerly Auto",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.497892,29.811063,-95.497892,29.811063],
-  "geometry": {"coordinates":[-95.497892,29.811063],"type":"Point"}
+  "bbox": [
+    -95.497892,
+    29.811063,
+    -95.497892,
+    29.811063
+],
+  "geometry": {"coordinates":[-95.49789199999999,29.811063],"type":"Point"}
 }

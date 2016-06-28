@@ -2,13 +2,14 @@
   "id": 303520109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.904444,30.257192,-97.904444,30.257192",
     "geom:latitude":30.257192,
     "geom:longitude":-97.904444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9125 W Highway 71",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303520109,
-    "wof:lastmodified":1448998922,
+    "wof:lastmodified":1467083732,
     "wof:name":"Native Scapes",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "companies-bottled"
     ]
 },
-  "bbox": [-97.904444,30.257192,-97.904444,30.257192],
+  "bbox": [
+    -97.904444,
+    30.257192,
+    -97.904444,
+    30.257192
+],
   "geometry": {"coordinates":[-97.904444,30.257192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371121347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.650017,31.751204,-96.650017,31.751204",
     "geom:latitude":31.751204,
     "geom:longitude":-96.650017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Askew St",
     "sg:city":"Coolidge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371121347,
-    "wof:lastmodified":1449049851,
+    "wof:lastmodified":1467084685,
     "wof:name":"Haircuts & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.650017,31.751204,-96.650017,31.751204],
-  "geometry": {"coordinates":[-96.650017,31.751204],"type":"Point"}
+  "bbox": [
+    -96.650017,
+    31.751204,
+    -96.650017,
+    31.751204
+],
+  "geometry": {"coordinates":[-96.65001700000001,31.751204],"type":"Point"}
 }

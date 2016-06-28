@@ -2,13 +2,14 @@
   "id": 236165387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.761628,30.344079,-97.761628,30.344079",
     "geom:latitude":30.344079,
     "geom:longitude":-97.761628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5804 Highland Pass",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236165387,
-    "wof:lastmodified":1449005258,
+    "wof:lastmodified":1467084040,
     "wof:name":"Network Services Group",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.761628,30.344079,-97.761628,30.344079],
+  "bbox": [
+    -97.761628,
+    30.344079,
+    -97.761628,
+    30.344079
+],
   "geometry": {"coordinates":[-97.761628,30.344079],"type":"Point"}
 }

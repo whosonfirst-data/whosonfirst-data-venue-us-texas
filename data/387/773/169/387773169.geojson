@@ -2,13 +2,14 @@
   "id": 387773169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.980601,33.518003,-101.980601,33.518003",
     "geom:latitude":33.518003,
     "geom:longitude":-101.980601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8302 Venita Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387773169,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1467084797,
     "wof:name":"Applebaker Construction",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.980601,33.518003,-101.980601,33.518003],
-  "geometry": {"coordinates":[-101.980601,33.518003],"type":"Point"}
+  "bbox": [
+    -101.980601,
+    33.518003,
+    -101.980601,
+    33.518003
+],
+  "geometry": {"coordinates":[-101.98060099999999,33.518003],"type":"Point"}
 }

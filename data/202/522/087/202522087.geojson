@@ -2,13 +2,14 @@
   "id": 202522087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.367089,31.76569,-106.367089,31.76569",
     "geom:latitude":31.76569,
     "geom:longitude":-106.367089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Gateway Blvd E",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202522087,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1467084914,
     "wof:name":"Drivers License",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-106.367089,31.76569,-106.367089,31.76569],
-  "geometry": {"coordinates":[-106.367089,31.76569],"type":"Point"}
+  "bbox": [
+    -106.367089,
+    31.76569,
+    -106.367089,
+    31.76569
+],
+  "geometry": {"coordinates":[-106.36708900000001,31.76569],"type":"Point"}
 }

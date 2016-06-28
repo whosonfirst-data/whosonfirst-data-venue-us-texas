@@ -2,13 +2,14 @@
   "id": 236005617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.320986,32.627006,-96.320986,32.627006",
     "geom:latitude":32.627006,
     "geom:longitude":-96.320986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 FM 987",
     "sg:city":"Kaufman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236005617,
-    "wof:lastmodified":1449004926,
+    "wof:lastmodified":1467084024,
     "wof:name":"Victorian House",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-96.320986,32.627006,-96.320986,32.627006],
+  "bbox": [
+    -96.320986,
+    32.627006,
+    -96.320986,
+    32.627006
+],
   "geometry": {"coordinates":[-96.320986,32.627006],"type":"Point"}
 }

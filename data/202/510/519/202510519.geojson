@@ -2,13 +2,14 @@
   "id": 202510519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.189091,31.685312,-97.189091,31.685312",
     "geom:latitude":31.685312,
     "geom:longitude":-97.189091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12195 Gholson Rd",
     "sg:city":"Bellmead",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202510519,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1467084920,
     "wof:name":"Gholson Automotive",
     "wof:parent_id":85804399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.189091,31.685312,-97.189091,31.685312],
+  "bbox": [
+    -97.189091,
+    31.685312,
+    -97.189091,
+    31.685312
+],
   "geometry": {"coordinates":[-97.189091,31.685312],"type":"Point"}
 }

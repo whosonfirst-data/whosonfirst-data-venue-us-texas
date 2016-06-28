@@ -2,13 +2,14 @@
   "id": 303403503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.652275,30.323985,-97.652275,30.323985",
     "geom:latitude":30.323985,
     "geom:longitude":-97.652275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8234 Ferguson Cut Off",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303403503,
-    "wof:lastmodified":1449000220,
+    "wof:lastmodified":1467083796,
     "wof:name":"AAA Auger",
     "wof:parent_id":85869905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.652275,30.323985,-97.652275,30.323985],
+  "bbox": [
+    -97.652275,
+    30.323985,
+    -97.652275,
+    30.323985
+],
   "geometry": {"coordinates":[-97.652275,30.323985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303306535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749699,30.306255,-97.749699,30.306255",
     "geom:latitude":30.306255,
     "geom:longitude":-97.749699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W 35th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303306535,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1467083807,
     "wof:name":"Brykerwood Veterinary Clinic",
     "wof:parent_id":85869865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.749699,30.306255,-97.749699,30.306255],
-  "geometry": {"coordinates":[-97.749699,30.306255],"type":"Point"}
+  "bbox": [
+    -97.749699,
+    30.306255,
+    -97.749699,
+    30.306255
+],
+  "geometry": {"coordinates":[-97.74969900000001,30.306255],"type":"Point"}
 }

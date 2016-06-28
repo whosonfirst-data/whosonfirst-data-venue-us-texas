@@ -2,13 +2,14 @@
   "id": 270469955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.510959,29.729547,-95.510959,29.729547",
     "geom:latitude":29.729547,
     "geom:longitude":-95.510959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8110 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270469955,
-    "wof:lastmodified":1449011157,
+    "wof:lastmodified":1467084233,
     "wof:name":"Tire Maximum",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-95.510959,29.729547,-95.510959,29.729547],
+  "bbox": [
+    -95.510959,
+    29.729547,
+    -95.510959,
+    29.729547
+],
   "geometry": {"coordinates":[-95.510959,29.729547],"type":"Point"}
 }

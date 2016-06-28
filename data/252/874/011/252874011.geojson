@@ -2,13 +2,14 @@
   "id": 252874011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773254,32.871604,-96.773254,32.871604",
     "geom:latitude":32.871604,
     "geom:longitude":-96.773254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8687 N Central Expressway",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252874011,
-    "wof:lastmodified":1449006441,
+    "wof:lastmodified":1467084104,
     "wof:name":"Sephora",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-96.773254,32.871604,-96.773254,32.871604],
-  "geometry": {"coordinates":[-96.773254,32.871604],"type":"Point"}
+  "bbox": [
+    -96.773254,
+    32.871604,
+    -96.773254,
+    32.871604
+],
+  "geometry": {"coordinates":[-96.77325399999999,32.871604],"type":"Point"}
 }

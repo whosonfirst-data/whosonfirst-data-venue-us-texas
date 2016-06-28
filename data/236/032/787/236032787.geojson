@@ -2,13 +2,14 @@
   "id": 236032787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.069514,32.743149,-97.069514,32.743149",
     "geom:latitude":32.743149,
     "geom:longitude":-97.069514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2219 E Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236032787,
-    "wof:lastmodified":1449003229,
+    "wof:lastmodified":1467083944,
     "wof:name":"Precision Interconnect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wire"
     ]
 },
-  "bbox": [-97.069514,32.743149,-97.069514,32.743149],
+  "bbox": [
+    -97.069514,
+    32.743149,
+    -97.069514,
+    32.743149
+],
   "geometry": {"coordinates":[-97.069514,32.743149],"type":"Point"}
 }

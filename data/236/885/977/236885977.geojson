@@ -2,13 +2,14 @@
   "id": 236885977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.554349,33.690701,-95.554349,33.690701",
     "geom:latitude":33.690701,
     "geom:longitude":-95.554349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2885 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236885977,
-    "wof:lastmodified":1449003398,
+    "wof:lastmodified":1467083952,
     "wof:name":"Public Safety TX Dept of",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "safety"
     ]
 },
-  "bbox": [-95.554349,33.690701,-95.554349,33.690701],
+  "bbox": [
+    -95.554349,
+    33.690701,
+    -95.554349,
+    33.690701
+],
   "geometry": {"coordinates":[-95.554349,33.690701],"type":"Point"}
 }

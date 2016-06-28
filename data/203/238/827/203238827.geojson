@@ -2,13 +2,14 @@
   "id": 203238827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719816,32.944621,-96.719816,32.944621",
     "geom:latitude":32.944621,
     "geom:longitude":-96.719816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Shirley Ct",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203238827,
-    "wof:lastmodified":1449025627,
+    "wof:lastmodified":1467084397,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85880207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.719816,32.944621,-96.719816,32.944621],
-  "geometry": {"coordinates":[-96.719816,32.944621],"type":"Point"}
+  "bbox": [
+    -96.719816,
+    32.944621,
+    -96.719816,
+    32.944621
+],
+  "geometry": {"coordinates":[-96.71981599999999,32.944621],"type":"Point"}
 }

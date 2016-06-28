@@ -2,13 +2,14 @@
   "id": 252850145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.895897,32.861698,-96.895897,32.861698",
     "geom:latitude":32.861698,
     "geom:longitude":-96.895897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10310 Technology Blvd E",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252850145,
-    "wof:lastmodified":1449006044,
+    "wof:lastmodified":1467084082,
     "wof:name":"Cowboys Red River",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "venue"
     ]
 },
-  "bbox": [-96.895897,32.861698,-96.895897,32.861698],
-  "geometry": {"coordinates":[-96.895897,32.861698],"type":"Point"}
+  "bbox": [
+    -96.895897,
+    32.861698,
+    -96.895897,
+    32.861698
+],
+  "geometry": {"coordinates":[-96.89589700000001,32.861698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253597115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.753769,30.851958,-93.753769,30.851958",
     "geom:latitude":30.851958,
     "geom:longitude":-93.753769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 E Court St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253597115,
-    "wof:lastmodified":1449065770,
+    "wof:lastmodified":1467085046,
     "wof:name":"City Of Newton Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-93.753769,30.851958,-93.753769,30.851958],
-  "geometry": {"coordinates":[-93.753769,30.851958],"type":"Point"}
+  "bbox": [
+    -93.753769,
+    30.851958,
+    -93.753769,
+    30.851958
+],
+  "geometry": {"coordinates":[-93.75376900000001,30.851958],"type":"Point"}
 }

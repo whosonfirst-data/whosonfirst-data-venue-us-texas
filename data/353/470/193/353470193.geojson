@@ -2,13 +2,14 @@
   "id": 353470193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317647,32.922709,-97.317647,32.922709",
     "geom:latitude":32.922709,
     "geom:longitude":-97.317647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10495 North Fwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353470193,
-    "wof:lastmodified":1449018876,
+    "wof:lastmodified":1467084335,
     "wof:name":"Baker Tanks",
     "wof:parent_id":85897409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tank"
     ]
 },
-  "bbox": [-97.317647,32.922709,-97.317647,32.922709],
-  "geometry": {"coordinates":[-97.317647,32.922709],"type":"Point"}
+  "bbox": [
+    -97.317647,
+    32.922709,
+    -97.317647,
+    32.922709
+],
+  "geometry": {"coordinates":[-97.31764699999999,32.922709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253183353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.8545,32.909599,-96.8545,32.909599",
     "geom:latitude":32.909599,
     "geom:longitude":-96.8545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3767 Forest Ln Ste 124",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253183353,
-    "wof:lastmodified":1449064415,
+    "wof:lastmodified":1467084999,
     "wof:name":"Mail America Corp",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.8545,32.909599,-96.8545,32.909599],
+  "bbox": [
+    -96.8545,
+    32.909599,
+    -96.8545,
+    32.909599
+],
   "geometry": {"coordinates":[-96.8545,32.909599],"type":"Point"}
 }

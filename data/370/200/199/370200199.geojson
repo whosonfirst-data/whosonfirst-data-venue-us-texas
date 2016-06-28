@@ -2,13 +2,14 @@
   "id": 370200199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.288896,29.553725,-98.288896,29.553725",
     "geom:latitude":29.553725,
     "geom:longitude":-98.288896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 North Blvd",
     "sg:city":"Universal City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370200199,
-    "wof:lastmodified":1449030437,
+    "wof:lastmodified":1467084503,
     "wof:name":"Knights of Columbus Council",
     "wof:parent_id":85802531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.288896,29.553725,-98.288896,29.553725],
-  "geometry": {"coordinates":[-98.288896,29.553725],"type":"Point"}
+  "bbox": [
+    -98.288896,
+    29.553725,
+    -98.288896,
+    29.553725
+],
+  "geometry": {"coordinates":[-98.28889599999999,29.553725],"type":"Point"}
 }

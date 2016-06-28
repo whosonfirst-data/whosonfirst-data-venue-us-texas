@@ -2,13 +2,14 @@
   "id": 404048453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495466,32.552143,-98.495466,32.552143",
     "geom:latitude":32.552143,
     "geom:longitude":-98.495466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Travis Ave",
     "sg:city":"Strawn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404048453,
-    "wof:lastmodified":1449039434,
+    "wof:lastmodified":1467084646,
     "wof:name":"T & S Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "harness"
     ]
 },
-  "bbox": [-98.495466,32.552143,-98.495466,32.552143],
-  "geometry": {"coordinates":[-98.495466,32.552143],"type":"Point"}
+  "bbox": [
+    -98.495466,
+    32.552143,
+    -98.495466,
+    32.552143
+],
+  "geometry": {"coordinates":[-98.49546599999999,32.552143],"type":"Point"}
 }

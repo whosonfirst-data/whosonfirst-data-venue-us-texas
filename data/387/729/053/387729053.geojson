@@ -2,13 +2,14 @@
   "id": 387729053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.11678,31.975525,-102.11678,31.975525",
     "geom:latitude":31.975525,
     "geom:longitude":-102.11678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4005 W Wall St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387729053,
-    "wof:lastmodified":1449058022,
+    "wof:lastmodified":1467084833,
     "wof:name":"Leslies Swimming Pool Supplies",
     "wof:parent_id":85893827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "swimming"
     ]
 },
-  "bbox": [-102.11678,31.975525,-102.11678,31.975525],
-  "geometry": {"coordinates":[-102.11678,31.975525],"type":"Point"}
+  "bbox": [
+    -102.11678,
+    31.975525,
+    -102.11678,
+    31.975525
+],
+  "geometry": {"coordinates":[-102.11678000000001,31.975525],"type":"Point"}
 }

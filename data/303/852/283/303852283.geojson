@@ -2,13 +2,14 @@
   "id": 303852283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.745512,29.240508,-99.745512,29.240508",
     "geom:latitude":29.240508,
     "geom:longitude":-99.745512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4419 E Main St",
     "sg:city":"Uvalde",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":303852283,
-    "wof:lastmodified":1449000145,
+    "wof:lastmodified":1467083792,
     "wof:name":"Ted Sanford Irrigation & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "landscape"
     ]
 },
-  "bbox": [-99.745512,29.240508,-99.745512,29.240508],
-  "geometry": {"coordinates":[-99.745512,29.240508],"type":"Point"}
+  "bbox": [
+    -99.745512,
+    29.240508,
+    -99.745512,
+    29.240508
+],
+  "geometry": {"coordinates":[-99.74551200000001,29.240508],"type":"Point"}
 }

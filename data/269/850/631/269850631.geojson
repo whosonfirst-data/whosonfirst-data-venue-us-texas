@@ -2,13 +2,14 @@
   "id": 269850631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.351784,29.760383,-95.351784,29.760383",
     "geom:latitude":29.760383,
     "geom:longitude":-95.351784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Ruiz St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269850631,
-    "wof:lastmodified":1449037535,
+    "wof:lastmodified":1467084610,
     "wof:name":"Baylor College of Medicine",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-95.351784,29.760383,-95.351784,29.760383],
-  "geometry": {"coordinates":[-95.351784,29.760383],"type":"Point"}
+  "bbox": [
+    -95.351784,
+    29.760383,
+    -95.351784,
+    29.760383
+],
+  "geometry": {"coordinates":[-95.35178399999999,29.760383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202703861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551448,30.722975,-95.551448,30.722975",
     "geom:latitude":30.722975,
     "geom:longitude":-95.551448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 12th St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202703861,
-    "wof:lastmodified":1449060886,
+    "wof:lastmodified":1467084904,
     "wof:name":"Fabric Carousel",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [-95.551448,30.722975,-95.551448,30.722975],
-  "geometry": {"coordinates":[-95.551448,30.722975],"type":"Point"}
+  "bbox": [
+    -95.551448,
+    30.722975,
+    -95.551448,
+    30.722975
+],
+  "geometry": {"coordinates":[-95.55144799999999,30.722975],"type":"Point"}
 }

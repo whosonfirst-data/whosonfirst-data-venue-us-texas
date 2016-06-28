@@ -2,13 +2,14 @@
   "id": 354130813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159871,33.103004,-94.159871,33.103004",
     "geom:latitude":33.103004,
     "geom:longitude":-94.159871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 E Pinecrest Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354130813,
-    "wof:lastmodified":1449066497,
+    "wof:lastmodified":1467085065,
     "wof:name":"Mark Norris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.159871,33.103004,-94.159871,33.103004],
+  "bbox": [
+    -94.159871,
+    33.103004,
+    -94.159871,
+    33.103004
+],
   "geometry": {"coordinates":[-94.159871,33.103004],"type":"Point"}
 }

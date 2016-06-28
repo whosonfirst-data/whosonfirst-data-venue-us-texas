@@ -2,13 +2,14 @@
   "id": 286374137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.480523,29.840298,-95.480523,29.840298",
     "geom:latitude":29.840298,
     "geom:longitude":-95.480523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6131 Pinemont Dr Ste A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286374137,
-    "wof:lastmodified":1449016472,
+    "wof:lastmodified":1467084271,
     "wof:name":"Ko-Am Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.480523,29.840298,-95.480523,29.840298],
-  "geometry": {"coordinates":[-95.480523,29.840298],"type":"Point"}
+  "bbox": [
+    -95.480523,
+    29.840298,
+    -95.480523,
+    29.840298
+],
+  "geometry": {"coordinates":[-95.48052300000001,29.840298],"type":"Point"}
 }

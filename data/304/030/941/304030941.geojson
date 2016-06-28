@@ -2,13 +2,14 @@
   "id": 304030941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.93058,32.712023,-100.93058,32.712023",
     "geom:latitude":32.712023,
     "geom:longitude":-100.93058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 Crockett Ave",
     "sg:city":"Snyder",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304030941,
-    "wof:lastmodified":1449043781,
+    "wof:lastmodified":1467084664,
     "wof:name":"Williamson Joe T Insurance Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-100.93058,32.712023,-100.93058,32.712023],
-  "geometry": {"coordinates":[-100.93058,32.712023],"type":"Point"}
+  "bbox": [
+    -100.93058,
+    32.712023,
+    -100.93058,
+    32.712023
+],
+  "geometry": {"coordinates":[-100.93058000000001,32.712023],"type":"Point"}
 }

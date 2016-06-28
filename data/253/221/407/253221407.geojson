@@ -2,13 +2,14 @@
   "id": 253221407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.399955,35.655006,-101.399955,35.655006",
     "geom:latitude":35.655006,
     "geom:longitude":-101.399955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Franklin St",
     "sg:city":"Borger",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253221407,
-    "wof:lastmodified":1449064127,
+    "wof:lastmodified":1467084989,
     "wof:name":"Adams Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.399955,35.655006,-101.399955,35.655006],
-  "geometry": {"coordinates":[-101.399955,35.655006],"type":"Point"}
+  "bbox": [
+    -101.399955,
+    35.655006,
+    -101.399955,
+    35.655006
+],
+  "geometry": {"coordinates":[-101.39995500000001,35.655006],"type":"Point"}
 }

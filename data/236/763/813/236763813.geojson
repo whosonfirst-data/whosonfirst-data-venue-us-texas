@@ -2,13 +2,14 @@
   "id": 236763813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.289746,32.338952,-95.289746,32.338952",
     "geom:latitude":32.338952,
     "geom:longitude":-95.289746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Clinic Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236763813,
-    "wof:lastmodified":1449005232,
+    "wof:lastmodified":1467084039,
     "wof:name":"John M Miller MD",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.289746,32.338952,-95.289746,32.338952],
-  "geometry": {"coordinates":[-95.289746,32.338952],"type":"Point"}
+  "bbox": [
+    -95.289746,
+    32.338952,
+    -95.289746,
+    32.338952
+],
+  "geometry": {"coordinates":[-95.28974599999999,32.338952],"type":"Point"}
 }

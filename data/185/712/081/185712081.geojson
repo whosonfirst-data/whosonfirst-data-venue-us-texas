@@ -2,13 +2,14 @@
   "id": 185712081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.40215,32.904953,-97.40215,32.904953",
     "geom:latitude":32.904953,
     "geom:longitude":-97.40215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1652 Hicks Field Rd",
     "sg:city":"Saginaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185712081,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1467084123,
     "wof:name":"Genco Redi Mix In",
     "wof:parent_id":85897375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-97.40215,32.904953,-97.40215,32.904953],
-  "geometry": {"coordinates":[-97.40215,32.904953],"type":"Point"}
+  "bbox": [
+    -97.40215,
+    32.904953,
+    -97.40215,
+    32.904953
+],
+  "geometry": {"coordinates":[-97.40215000000001,32.904953],"type":"Point"}
 }

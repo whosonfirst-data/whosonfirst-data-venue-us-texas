@@ -2,13 +2,14 @@
   "id": 236889059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801275,32.79976,-96.801275,32.79976",
     "geom:latitude":32.79976,
     "geom:longitude":-96.801275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 McKinney Ave Ste 8",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236889059,
-    "wof:lastmodified":1449001631,
+    "wof:lastmodified":1467083851,
     "wof:name":"International Passport Visa",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.801275,32.79976,-96.801275,32.79976],
+  "bbox": [
+    -96.801275,
+    32.79976,
+    -96.801275,
+    32.79976
+],
   "geometry": {"coordinates":[-96.801275,32.79976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303233685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745601,30.274075,-97.745601,30.274075",
     "geom:latitude":30.274075,
     "geom:longitude":-97.745601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 San Antonio Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303233685,
-    "wof:lastmodified":1449000609,
+    "wof:lastmodified":1467083815,
     "wof:name":"Law Office of Carlos H Barrera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.745601,30.274075,-97.745601,30.274075],
-  "geometry": {"coordinates":[-97.745601,30.274075],"type":"Point"}
+  "bbox": [
+    -97.745601,
+    30.274075,
+    -97.745601,
+    30.274075
+],
+  "geometry": {"coordinates":[-97.74560099999999,30.274075],"type":"Point"}
 }

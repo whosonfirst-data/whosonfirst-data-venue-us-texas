@@ -2,13 +2,14 @@
   "id": 253001623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760984,32.886625,-96.760984,32.886625",
     "geom:latitude":32.886625,
     "geom:longitude":-96.760984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8340 Meadow Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253001623,
-    "wof:lastmodified":1449063480,
+    "wof:lastmodified":1467084968,
     "wof:name":"Moseley Mortgage Capital",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.760984,32.886625,-96.760984,32.886625],
-  "geometry": {"coordinates":[-96.760984,32.886625],"type":"Point"}
+  "bbox": [
+    -96.760984,
+    32.886625,
+    -96.760984,
+    32.886625
+],
+  "geometry": {"coordinates":[-96.76098399999999,32.886625],"type":"Point"}
 }

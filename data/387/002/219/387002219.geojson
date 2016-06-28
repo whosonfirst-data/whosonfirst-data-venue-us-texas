@@ -2,13 +2,14 @@
   "id": 387002219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.286513,29.735332,-95.286513,29.735332",
     "geom:latitude":29.735332,
     "geom:longitude":-95.286513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Canal St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387002219,
-    "wof:lastmodified":1449059234,
+    "wof:lastmodified":1467084864,
     "wof:name":"Bell & Mc Coy Inc",
     "wof:parent_id":85824091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.286513,29.735332,-95.286513,29.735332],
+  "bbox": [
+    -95.286513,
+    29.735332,
+    -95.286513,
+    29.735332
+],
   "geometry": {"coordinates":[-95.286513,29.735332],"type":"Point"}
 }

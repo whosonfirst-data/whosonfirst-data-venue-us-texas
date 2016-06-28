@@ -2,13 +2,14 @@
   "id": 354026733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.382359,30.9574,-95.382359,30.9574",
     "geom:latitude":30.9574,
     "geom:longitude":-95.382359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Prospect Dr",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354026733,
-    "wof:lastmodified":1449066948,
+    "wof:lastmodified":1467085076,
     "wof:name":"ETMC Regional Healthcare Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.382359,30.9574,-95.382359,30.9574],
-  "geometry": {"coordinates":[-95.382359,30.9574],"type":"Point"}
+  "bbox": [
+    -95.382359,
+    30.9574,
+    -95.382359,
+    30.9574
+],
+  "geometry": {"coordinates":[-95.38235899999999,30.9574],"type":"Point"}
 }

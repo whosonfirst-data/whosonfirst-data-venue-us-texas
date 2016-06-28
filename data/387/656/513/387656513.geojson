@@ -2,13 +2,14 @@
   "id": 387656513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.429753,31.04999,-97.429753,31.04999",
     "geom:latitude":31.04999,
     "geom:longitude":-97.429753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Taylors Valley Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387656513,
-    "wof:lastmodified":1449058590,
+    "wof:lastmodified":1467084848,
     "wof:name":"Belcrete",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-97.429753,31.04999,-97.429753,31.04999],
-  "geometry": {"coordinates":[-97.429753,31.04999],"type":"Point"}
+  "bbox": [
+    -97.429753,
+    31.04999,
+    -97.429753,
+    31.04999
+],
+  "geometry": {"coordinates":[-97.42975300000001,31.04999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387804255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.087508,30.190693,-98.087508,30.190693",
     "geom:latitude":30.190693,
     "geom:longitude":-98.087508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Hays St",
     "sg:city":"Dripping Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387804255,
-    "wof:lastmodified":1449058760,
+    "wof:lastmodified":1467084852,
     "wof:name":"Brg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "correctional"
     ]
 },
-  "bbox": [-98.087508,30.190693,-98.087508,30.190693],
+  "bbox": [
+    -98.087508,
+    30.190693,
+    -98.087508,
+    30.190693
+],
   "geometry": {"coordinates":[-98.087508,30.190693],"type":"Point"}
 }

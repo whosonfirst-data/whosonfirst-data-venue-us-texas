@@ -2,13 +2,14 @@
   "id": 303303827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754719,30.296313,-97.754719,30.296313",
     "geom:latitude":30.296313,
     "geom:longitude":-97.754719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Gaston Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303303827,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1467083692,
     "wof:name":"Bauman, Edwin R",
     "wof:parent_id":85869913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.754719,30.296313,-97.754719,30.296313],
-  "geometry": {"coordinates":[-97.754719,30.296313],"type":"Point"}
+  "bbox": [
+    -97.754719,
+    30.296313,
+    -97.754719,
+    30.296313
+],
+  "geometry": {"coordinates":[-97.75471899999999,30.296313],"type":"Point"}
 }

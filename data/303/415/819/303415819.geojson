@@ -2,13 +2,14 @@
   "id": 303415819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.686321,30.430118,-97.686321,30.430118",
     "geom:latitude":30.430118,
     "geom:longitude":-97.686321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Scofield Ridge Pkwy Ste 502",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303415819,
-    "wof:lastmodified":1448999881,
+    "wof:lastmodified":1467083779,
     "wof:name":"Sko Design Lab",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-97.686321,30.430118,-97.686321,30.430118],
-  "geometry": {"coordinates":[-97.686321,30.430118],"type":"Point"}
+  "bbox": [
+    -97.686321,
+    30.430118,
+    -97.686321,
+    30.430118
+],
+  "geometry": {"coordinates":[-97.68632100000001,30.430118],"type":"Point"}
 }

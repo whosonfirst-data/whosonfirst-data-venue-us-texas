@@ -2,13 +2,14 @@
   "id": 287146441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.484311,28.959099,-98.484311,28.959099",
     "geom:latitude":28.959099,
     "geom:longitude":-98.484311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W Goodwin St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287146441,
-    "wof:lastmodified":1449001036,
+    "wof:lastmodified":1467083830,
     "wof:name":"USPS - United States Post Office - Pleasanton Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-98.484311,28.959099,-98.484311,28.959099],
-  "geometry": {"coordinates":[-98.484311,28.959099],"type":"Point"}
+  "bbox": [
+    -98.484311,
+    28.959099,
+    -98.484311,
+    28.959099
+],
+  "geometry": {"coordinates":[-98.48431100000001,28.959099],"type":"Point"}
 }

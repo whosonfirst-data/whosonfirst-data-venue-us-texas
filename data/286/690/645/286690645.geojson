@@ -2,13 +2,14 @@
   "id": 286690645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.761153,29.781181,-95.761153,29.781181",
     "geom:latitude":29.781181,
     "geom:longitude":-95.761153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22407 Fincastle Dr",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286690645,
-    "wof:lastmodified":1449016739,
+    "wof:lastmodified":1467084279,
     "wof:name":"Bmc Texas Patrol Security",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "investigator"
     ]
 },
-  "bbox": [-95.761153,29.781181,-95.761153,29.781181],
-  "geometry": {"coordinates":[-95.761153,29.781181],"type":"Point"}
+  "bbox": [
+    -95.761153,
+    29.781181,
+    -95.761153,
+    29.781181
+],
+  "geometry": {"coordinates":[-95.76115299999999,29.781181],"type":"Point"}
 }

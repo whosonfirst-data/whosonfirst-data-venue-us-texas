@@ -2,13 +2,14 @@
   "id": 202704625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832521,32.817916,-96.832521,32.817916",
     "geom:latitude":32.817916,
     "geom:longitude":-96.832521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 Maple Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704625,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1467084902,
     "wof:name":"Acorn",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "civic"
     ]
 },
-  "bbox": [-96.832521,32.817916,-96.832521,32.817916],
+  "bbox": [
+    -96.832521,
+    32.817916,
+    -96.832521,
+    32.817916
+],
   "geometry": {"coordinates":[-96.832521,32.817916],"type":"Point"}
 }

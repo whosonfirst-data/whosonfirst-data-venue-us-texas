@@ -2,13 +2,14 @@
   "id": 303945631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.869836,35.153966,-101.869836,35.153966",
     "geom:latitude":35.153966,
     "geom:longitude":-101.869836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5112 Benton Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303945631,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1467083702,
     "wof:name":"Graphic Allure",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-101.869836,35.153966,-101.869836,35.153966],
-  "geometry": {"coordinates":[-101.869836,35.153966],"type":"Point"}
+  "bbox": [
+    -101.869836,
+    35.153966,
+    -101.869836,
+    35.153966
+],
+  "geometry": {"coordinates":[-101.86983600000001,35.153966],"type":"Point"}
 }

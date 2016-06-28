@@ -2,13 +2,14 @@
   "id": 387183255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.583243,29.674917,-95.583243,29.674917",
     "geom:latitude":29.674917,
     "geom:longitude":-95.583243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11619 Bissonnet St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387183255,
-    "wof:lastmodified":1449058154,
+    "wof:lastmodified":1467084837,
     "wof:name":"All Tech Transmission",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.583243,29.674917,-95.583243,29.674917],
+  "bbox": [
+    -95.583243,
+    29.674917,
+    -95.583243,
+    29.674917
+],
   "geometry": {"coordinates":[-95.583243,29.674917],"type":"Point"}
 }

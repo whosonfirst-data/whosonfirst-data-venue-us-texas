@@ -2,13 +2,14 @@
   "id": 185755747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733612,30.265366,-97.733612,30.265366",
     "geom:latitude":30.265366,
     "geom:longitude":-97.733612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E 6th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185755747,
-    "wof:lastmodified":1449007064,
+    "wof:lastmodified":1467084119,
     "wof:name":"Cash America",
     "wof:parent_id":85869867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sport"
     ]
 },
-  "bbox": [-97.733612,30.265366,-97.733612,30.265366],
-  "geometry": {"coordinates":[-97.733612,30.265366],"type":"Point"}
+  "bbox": [
+    -97.733612,
+    30.265366,
+    -97.733612,
+    30.265366
+],
+  "geometry": {"coordinates":[-97.73361199999999,30.265366],"type":"Point"}
 }

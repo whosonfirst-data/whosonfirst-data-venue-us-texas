@@ -2,13 +2,14 @@
   "id": 220114957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.93049,29.394833,-94.93049,29.394833",
     "geom:latitude":29.394833,
     "geom:longitude":-94.93049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 Palmer Hwy",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220114957,
-    "wof:lastmodified":1449074375,
+    "wof:lastmodified":1467085184,
     "wof:name":"Shipley Do-Nut Shop",
     "wof:parent_id":85824553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-94.93049,29.394833,-94.93049,29.394833],
-  "geometry": {"coordinates":[-94.93049,29.394833],"type":"Point"}
+  "bbox": [
+    -94.93049,
+    29.394833,
+    -94.93049,
+    29.394833
+],
+  "geometry": {"coordinates":[-94.93049000000001,29.394833],"type":"Point"}
 }

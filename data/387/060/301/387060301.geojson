@@ -2,13 +2,14 @@
   "id": 387060301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947161,32.86449,-96.947161,32.86449",
     "geom:latitude":32.86449,
     "geom:longitude":-96.947161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Decker Ct",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387060301,
-    "wof:lastmodified":1449059567,
+    "wof:lastmodified":1467084873,
     "wof:name":"R S Wilkinson & Assoc Inc",
     "wof:parent_id":85878305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.947161,32.86449,-96.947161,32.86449],
-  "geometry": {"coordinates":[-96.947161,32.86449],"type":"Point"}
+  "bbox": [
+    -96.947161,
+    32.86449,
+    -96.947161,
+    32.86449
+],
+  "geometry": {"coordinates":[-96.94716099999999,32.86449],"type":"Point"}
 }

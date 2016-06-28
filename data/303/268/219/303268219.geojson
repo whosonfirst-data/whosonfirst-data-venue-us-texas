@@ -2,13 +2,14 @@
   "id": 303268219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749948,30.271725,-97.749948,30.271725",
     "geom:latitude":30.271725,
     "geom:longitude":-97.749948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 West Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303268219,
-    "wof:lastmodified":1448999514,
+    "wof:lastmodified":1467083761,
     "wof:name":"Golf 512",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.749948,30.271725,-97.749948,30.271725],
+  "bbox": [
+    -97.749948,
+    30.271725,
+    -97.749948,
+    30.271725
+],
   "geometry": {"coordinates":[-97.749948,30.271725],"type":"Point"}
 }

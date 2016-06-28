@@ -2,13 +2,14 @@
   "id": 303149377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.828561,30.582661,-97.828561,30.582661",
     "geom:latitude":30.582661,
     "geom:longitude":-97.828561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9250 Ranch Road 2243",
     "sg:city":"Leander",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303149377,
-    "wof:lastmodified":1448998121,
+    "wof:lastmodified":1467083691,
     "wof:name":"Sullivan Welding",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-97.828561,30.582661,-97.828561,30.582661],
-  "geometry": {"coordinates":[-97.828561,30.582661],"type":"Point"}
+  "bbox": [
+    -97.828561,
+    30.582661,
+    -97.828561,
+    30.582661
+],
+  "geometry": {"coordinates":[-97.82856099999999,30.582661],"type":"Point"}
 }

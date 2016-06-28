@@ -2,13 +2,14 @@
   "id": 303428479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67495,30.430059,-97.67495,30.430059",
     "geom:latitude":30.430059,
     "geom:longitude":-97.67495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13903 Thermal Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303428479,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1467083804,
     "wof:name":"Spotless Cleaning",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.67495,30.430059,-97.67495,30.430059],
+  "bbox": [
+    -97.67495,
+    30.430059,
+    -97.67495,
+    30.430059
+],
   "geometry": {"coordinates":[-97.67495,30.430059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202511311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.82089,30.039262,-93.82089,30.039262",
     "geom:latitude":30.039262,
     "geom:longitude":-93.82089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Bower Rd",
     "sg:city":"Bridge City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202511311,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1467084913,
     "wof:name":"Bridge City H S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.82089,30.039262,-93.82089,30.039262],
-  "geometry": {"coordinates":[-93.82089,30.039262],"type":"Point"}
+  "bbox": [
+    -93.82089,
+    30.039262,
+    -93.82089,
+    30.039262
+],
+  "geometry": {"coordinates":[-93.82089000000001,30.039262],"type":"Point"}
 }

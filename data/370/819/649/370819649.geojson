@@ -2,13 +2,14 @@
   "id": 370819649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.631616,30.639387,-97.631616,30.639387",
     "geom:latitude":30.639387,
     "geom:longitude":-97.631616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50102 Flintrock Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370819649,
-    "wof:lastmodified":1449029897,
+    "wof:lastmodified":1467084489,
     "wof:name":"Sossamon Trucking",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.631616,30.639387,-97.631616,30.639387],
-  "geometry": {"coordinates":[-97.631616,30.639387],"type":"Point"}
+  "bbox": [
+    -97.631616,
+    30.639387,
+    -97.631616,
+    30.639387
+],
+  "geometry": {"coordinates":[-97.63161599999999,30.639387],"type":"Point"}
 }

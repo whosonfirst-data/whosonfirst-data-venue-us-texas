@@ -2,13 +2,14 @@
   "id": 252710231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.819978,32.825952,-96.819978,32.825952",
     "geom:latitude":32.825952,
     "geom:longitude":-96.819978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Wheeler Street",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":252710231,
-    "wof:lastmodified":1449005477,
+    "wof:lastmodified":1467084051,
     "wof:name":"Cityville Oak Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.819978,32.825952,-96.819978,32.825952],
-  "geometry": {"coordinates":[-96.819978,32.825952],"type":"Point"}
+  "bbox": [
+    -96.819978,
+    32.825952,
+    -96.819978,
+    32.825952
+],
+  "geometry": {"coordinates":[-96.81997800000001,32.825952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185789877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73068,33.011941,-96.73068,33.011941",
     "geom:latitude":33.011941,
     "geom:longitude":-96.73068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Midcrest Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185789877,
-    "wof:lastmodified":1449007342,
+    "wof:lastmodified":1467084124,
     "wof:name":"Aquatic Irrigation",
     "wof:parent_id":85879903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-96.73068,33.011941,-96.73068,33.011941],
-  "geometry": {"coordinates":[-96.73068,33.011941],"type":"Point"}
+  "bbox": [
+    -96.73068,
+    33.011941,
+    -96.73068,
+    33.011941
+],
+  "geometry": {"coordinates":[-96.73068000000001,33.011941],"type":"Point"}
 }

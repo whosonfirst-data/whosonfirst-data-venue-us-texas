@@ -2,13 +2,14 @@
   "id": 236140921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.509104,27.521692,-99.509104,27.521692",
     "geom:latitude":27.521692,
     "geom:longitude":-99.509104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Garden St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236140921,
-    "wof:lastmodified":1449002033,
+    "wof:lastmodified":1467083880,
     "wof:name":"Leyendecker Elementary",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.509104,27.521692,-99.509104,27.521692],
-  "geometry": {"coordinates":[-99.509104,27.521692],"type":"Point"}
+  "bbox": [
+    -99.509104,
+    27.521692,
+    -99.509104,
+    27.521692
+],
+  "geometry": {"coordinates":[-99.50910399999999,27.521692],"type":"Point"}
 }

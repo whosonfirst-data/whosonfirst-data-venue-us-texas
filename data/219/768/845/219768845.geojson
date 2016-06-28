@@ -2,13 +2,14 @@
   "id": 219768845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.353831,31.795001,-106.353831,31.795001",
     "geom:latitude":31.795001,
     "geom:longitude":-106.353831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219768845,
-    "wof:lastmodified":1449071744,
+    "wof:lastmodified":1467085128,
     "wof:name":"Olive Tree",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.353831,31.795001,-106.353831,31.795001],
+  "bbox": [
+    -106.353831,
+    31.795001,
+    -106.353831,
+    31.795001
+],
   "geometry": {"coordinates":[-106.353831,31.795001],"type":"Point"}
 }

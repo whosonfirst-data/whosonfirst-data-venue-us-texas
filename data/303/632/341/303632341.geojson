@@ -2,13 +2,14 @@
   "id": 303632341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.802006,30.273301,-97.802006,30.273301",
     "geom:latitude":30.273301,
     "geom:longitude":-97.802006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Sanderling Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303632341,
-    "wof:lastmodified":1448999680,
+    "wof:lastmodified":1467083770,
     "wof:name":"Gep",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-97.802006,30.273301,-97.802006,30.273301],
-  "geometry": {"coordinates":[-97.802006,30.273301],"type":"Point"}
+  "bbox": [
+    -97.802006,
+    30.273301,
+    -97.802006,
+    30.273301
+],
+  "geometry": {"coordinates":[-97.80200600000001,30.273301],"type":"Point"}
 }

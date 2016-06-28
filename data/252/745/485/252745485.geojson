@@ -2,13 +2,14 @@
   "id": 252745485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7528,32.811501,-96.7528,32.811501",
     "geom:latitude":32.811501,
     "geom:longitude":-96.7528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Abrams Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252745485,
-    "wof:lastmodified":1449006452,
+    "wof:lastmodified":1467084105,
     "wof:name":"Compass",
     "wof:parent_id":85893617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.7528,32.811501,-96.7528,32.811501],
-  "geometry": {"coordinates":[-96.7528,32.811501],"type":"Point"}
+  "bbox": [
+    -96.7528,
+    32.811501,
+    -96.7528,
+    32.811501
+],
+  "geometry": {"coordinates":[-96.75279999999999,32.811501],"type":"Point"}
 }

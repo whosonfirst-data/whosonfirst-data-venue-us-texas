@@ -2,13 +2,14 @@
   "id": 353861391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.450296,32.670887,-97.450296,32.670887",
     "geom:latitude":32.670887,
     "geom:longitude":-97.450296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Manning Rd",
     "sg:city":"Benbrook",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353861391,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1467084375,
     "wof:name":"HAVE",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-97.450296,32.670887,-97.450296,32.670887],
-  "geometry": {"coordinates":[-97.450296,32.670887],"type":"Point"}
+  "bbox": [
+    -97.450296,
+    32.670887,
+    -97.450296,
+    32.670887
+],
+  "geometry": {"coordinates":[-97.45029599999999,32.670887],"type":"Point"}
 }

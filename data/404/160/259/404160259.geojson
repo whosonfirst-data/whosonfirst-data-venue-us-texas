@@ -2,13 +2,14 @@
   "id": 404160259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.882151,35.143975,-101.882151,35.143975",
     "geom:latitude":35.143975,
     "geom:longitude":-101.882151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3772 Bus Park Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404160259,
-    "wof:lastmodified":1449040120,
+    "wof:lastmodified":1467084657,
     "wof:name":"Zipdog Errand Svc",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-101.882151,35.143975,-101.882151,35.143975],
-  "geometry": {"coordinates":[-101.882151,35.143975],"type":"Point"}
+  "bbox": [
+    -101.882151,
+    35.143975,
+    -101.882151,
+    35.143975
+],
+  "geometry": {"coordinates":[-101.88215099999999,35.143975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236475959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46835,29.502419,-98.46835,29.502419",
     "geom:latitude":29.502419,
     "geom:longitude":-98.46835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Lorenz Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236475959,
-    "wof:lastmodified":1449002945,
+    "wof:lastmodified":1467083930,
     "wof:name":"Constant Exposure",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.46835,29.502419,-98.46835,29.502419],
+  "bbox": [
+    -98.46835,
+    29.502419,
+    -98.46835,
+    29.502419
+],
   "geometry": {"coordinates":[-98.46835,29.502419],"type":"Point"}
 }

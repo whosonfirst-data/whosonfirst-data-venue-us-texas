@@ -2,13 +2,14 @@
   "id": 387252791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.145573,30.020625,-99.145573,30.020625",
     "geom:latitude":30.020625,
     "geom:longitude":-99.145573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Royal Oaks Dr",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387252791,
-    "wof:lastmodified":1449056606,
+    "wof:lastmodified":1467084797,
     "wof:name":"Mike Shipman & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.145573,30.020625,-99.145573,30.020625],
+  "bbox": [
+    -99.145573,
+    30.020625,
+    -99.145573,
+    30.020625
+],
   "geometry": {"coordinates":[-99.145573,30.020625],"type":"Point"}
 }

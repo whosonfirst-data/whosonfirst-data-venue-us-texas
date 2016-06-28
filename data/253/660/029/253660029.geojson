@@ -2,13 +2,14 @@
   "id": 253660029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130777,32.833772,-97.130777,32.833772",
     "geom:latitude":32.833772,
     "geom:longitude":-97.130777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Central Park Blvd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253660029,
-    "wof:lastmodified":1449065473,
+    "wof:lastmodified":1467085037,
     "wof:name":"Village at Central Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-97.130777,32.833772,-97.130777,32.833772],
-  "geometry": {"coordinates":[-97.130777,32.833772],"type":"Point"}
+  "bbox": [
+    -97.130777,
+    32.833772,
+    -97.130777,
+    32.833772
+],
+  "geometry": {"coordinates":[-97.13077699999999,32.833772],"type":"Point"}
 }

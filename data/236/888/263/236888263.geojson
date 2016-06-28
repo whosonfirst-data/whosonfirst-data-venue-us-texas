@@ -2,13 +2,14 @@
   "id": 236888263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800797,32.802101,-96.800797,32.802101",
     "geom:latitude":32.802101,
     "geom:longitude":-96.800797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3128 McKinney Ave Ste D",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236888263,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1467083969,
     "wof:name":"McKinney Liquors",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.800797,32.802101,-96.800797,32.802101],
+  "bbox": [
+    -96.800797,
+    32.802101,
+    -96.800797,
+    32.802101
+],
   "geometry": {"coordinates":[-96.800797,32.802101],"type":"Point"}
 }

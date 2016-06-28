@@ -2,13 +2,14 @@
   "id": 353639335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.50938,32.240181,-101.50938,32.240181",
     "geom:latitude":32.240181,
     "geom:longitude":-101.50938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Creighton St",
     "sg:city":"Big Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353639335,
-    "wof:lastmodified":1449020778,
+    "wof:lastmodified":1467084375,
     "wof:name":"Country Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-101.50938,32.240181,-101.50938,32.240181],
-  "geometry": {"coordinates":[-101.50938,32.240181],"type":"Point"}
+  "bbox": [
+    -101.50938,
+    32.240181,
+    -101.50938,
+    32.240181
+],
+  "geometry": {"coordinates":[-101.50937999999999,32.240181],"type":"Point"}
 }

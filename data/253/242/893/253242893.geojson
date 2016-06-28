@@ -2,13 +2,14 @@
   "id": 253242893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.900415,33.250126,-95.900415,33.250126",
     "geom:latitude":33.250126,
     "geom:longitude":-95.900415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Alamo St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253242893,
-    "wof:lastmodified":1449065427,
+    "wof:lastmodified":1467085035,
     "wof:name":"COPD",
     "wof:parent_id":85803433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapy"
     ]
 },
-  "bbox": [-95.900415,33.250126,-95.900415,33.250126],
+  "bbox": [
+    -95.900415,
+    33.250126,
+    -95.900415,
+    33.250126
+],
   "geometry": {"coordinates":[-95.900415,33.250126],"type":"Point"}
 }

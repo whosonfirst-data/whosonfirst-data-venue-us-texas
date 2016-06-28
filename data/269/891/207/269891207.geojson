@@ -2,13 +2,14 @@
   "id": 269891207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.416739,29.720649,-95.416739,29.720649",
     "geom:latitude":29.720649,
     "geom:longitude":-95.416739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Robinhood St Ste 190",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":269891207,
-    "wof:lastmodified":1449037605,
+    "wof:lastmodified":1467084613,
     "wof:name":"Embellished",
     "wof:parent_id":85893775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "advertising-promotional"
     ]
 },
-  "bbox": [-95.416739,29.720649,-95.416739,29.720649],
-  "geometry": {"coordinates":[-95.416739,29.720649],"type":"Point"}
+  "bbox": [
+    -95.416739,
+    29.720649,
+    -95.416739,
+    29.720649
+],
+  "geometry": {"coordinates":[-95.41673900000001,29.720649],"type":"Point"}
 }

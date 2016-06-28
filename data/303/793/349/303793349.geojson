@@ -2,13 +2,14 @@
   "id": 303793349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.704433,30.35972,-97.704433,30.35972",
     "geom:latitude":30.35972,
     "geom:longitude":-97.704433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Payton Gin Rd Ste R",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303793349,
-    "wof:lastmodified":1448999465,
+    "wof:lastmodified":1467083759,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.704433,30.35972,-97.704433,30.35972],
-  "geometry": {"coordinates":[-97.704433,30.35972],"type":"Point"}
+  "bbox": [
+    -97.704433,
+    30.35972,
+    -97.704433,
+    30.35972
+],
+  "geometry": {"coordinates":[-97.70443299999999,30.35972],"type":"Point"}
 }

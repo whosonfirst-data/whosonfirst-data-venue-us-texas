@@ -2,13 +2,14 @@
   "id": 203056701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505684,27.505622,-99.505684,27.505622",
     "geom:latitude":27.505622,
     "geom:longitude":-99.505684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 San Agustin Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203056701,
-    "wof:lastmodified":1449025443,
+    "wof:lastmodified":1467084394,
     "wof:name":"SLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-99.505684,27.505622,-99.505684,27.505622],
+  "bbox": [
+    -99.505684,
+    27.505622,
+    -99.505684,
+    27.505622
+],
   "geometry": {"coordinates":[-99.505684,27.505622],"type":"Point"}
 }

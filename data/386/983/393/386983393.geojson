@@ -2,13 +2,14 @@
   "id": 386983393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.793092,32.220369,-99.793092,32.220369",
     "geom:latitude":32.220369,
     "geom:longitude":-99.793092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2034 Co Rd 131",
     "sg:city":"Tuscola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386983393,
-    "wof:lastmodified":1449028958,
+    "wof:lastmodified":1467084465,
     "wof:name":"Homeplace",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.793092,32.220369,-99.793092,32.220369],
+  "bbox": [
+    -99.793092,
+    32.220369,
+    -99.793092,
+    32.220369
+],
   "geometry": {"coordinates":[-99.793092,32.220369],"type":"Point"}
 }

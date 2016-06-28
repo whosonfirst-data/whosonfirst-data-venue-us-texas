@@ -2,13 +2,14 @@
   "id": 303787023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.708761,30.413199,-97.708761,30.413199",
     "geom:latitude":30.413199,
     "geom:longitude":-97.708761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12180 N Mo Pac Expy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303787023,
-    "wof:lastmodified":1448999224,
+    "wof:lastmodified":1467083747,
     "wof:name":"NESC",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.708761,30.413199,-97.708761,30.413199],
+  "bbox": [
+    -97.708761,
+    30.413199,
+    -97.708761,
+    30.413199
+],
   "geometry": {"coordinates":[-97.708761,30.413199],"type":"Point"}
 }

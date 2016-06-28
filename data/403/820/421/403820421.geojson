@@ -2,13 +2,14 @@
   "id": 403820421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455475,29.487935,-98.455475,29.487935",
     "geom:latitude":29.487935,
     "geom:longitude":-98.455475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Emporia Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403820421,
-    "wof:lastmodified":1449055335,
+    "wof:lastmodified":1467084766,
     "wof:name":"Wall Mart Fireworks",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.455475,29.487935,-98.455475,29.487935],
-  "geometry": {"coordinates":[-98.455475,29.487935],"type":"Point"}
+  "bbox": [
+    -98.455475,
+    29.487935,
+    -98.455475,
+    29.487935
+],
+  "geometry": {"coordinates":[-98.45547500000001,29.487935],"type":"Point"}
 }

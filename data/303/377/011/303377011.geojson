@@ -2,13 +2,14 @@
   "id": 303377011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.777438,30.497575,-97.777438,30.497575",
     "geom:latitude":30.497575,
     "geom:longitude":-97.777438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14900 Avery Ranch Blvd Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303377011,
-    "wof:lastmodified":1448999037,
+    "wof:lastmodified":1467083737,
     "wof:name":"Massage Heights",
     "wof:parent_id":85893537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.777438,30.497575,-97.777438,30.497575],
+  "bbox": [
+    -97.777438,
+    30.497575,
+    -97.777438,
+    30.497575
+],
   "geometry": {"coordinates":[-97.777438,30.497575],"type":"Point"}
 }

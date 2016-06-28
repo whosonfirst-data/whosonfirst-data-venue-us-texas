@@ -2,13 +2,14 @@
   "id": 387588883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.225394,32.222183,-95.225394,32.222183",
     "geom:latitude":32.222183,
     "geom:longitude":-95.225394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 State Hwy 110",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387588883,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1467084863,
     "wof:name":"Stop n In",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.225394,32.222183,-95.225394,32.222183],
-  "geometry": {"coordinates":[-95.225394,32.222183],"type":"Point"}
+  "bbox": [
+    -95.225394,
+    32.222183,
+    -95.225394,
+    32.222183
+],
+  "geometry": {"coordinates":[-95.22539399999999,32.222183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303653875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.831927,30.214146,-97.831927,30.214146",
     "geom:latitude":30.214146,
     "geom:longitude":-97.831927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 W William Cannon Dr Ste 275",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303653875,
-    "wof:lastmodified":1448998298,
+    "wof:lastmodified":1467083700,
     "wof:name":"Mathnasium",
     "wof:parent_id":85857877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-97.831927,30.214146,-97.831927,30.214146],
-  "geometry": {"coordinates":[-97.831927,30.214146],"type":"Point"}
+  "bbox": [
+    -97.831927,
+    30.214146,
+    -97.831927,
+    30.214146
+],
+  "geometry": {"coordinates":[-97.83192699999999,30.214146],"type":"Point"}
 }

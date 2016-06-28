@@ -2,13 +2,14 @@
   "id": 186208981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.276508,33.195479,-102.276508,33.195479",
     "geom:latitude":33.195479,
     "geom:longitude":-102.276508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Levelland Hwy",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186208981,
-    "wof:lastmodified":1449050567,
+    "wof:lastmodified":1467084699,
     "wof:name":"West Texas Agriplex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chemical"
     ]
 },
-  "bbox": [-102.276508,33.195479,-102.276508,33.195479],
-  "geometry": {"coordinates":[-102.276508,33.195479],"type":"Point"}
+  "bbox": [
+    -102.276508,
+    33.195479,
+    -102.276508,
+    33.195479
+],
+  "geometry": {"coordinates":[-102.27650800000001,33.195479],"type":"Point"}
 }

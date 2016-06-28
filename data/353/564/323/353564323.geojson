@@ -2,13 +2,14 @@
   "id": 353564323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.935994,30.179609,-96.935994,30.179609",
     "geom:latitude":30.179609,
     "geom:longitude":-96.935994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 S Leon St",
     "sg:city":"Giddings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353564323,
-    "wof:lastmodified":1449020642,
+    "wof:lastmodified":1467084373,
     "wof:name":"Giddings Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.935994,30.179609,-96.935994,30.179609],
-  "geometry": {"coordinates":[-96.935994,30.179609],"type":"Point"}
+  "bbox": [
+    -96.935994,
+    30.179609,
+    -96.935994,
+    30.179609
+],
+  "geometry": {"coordinates":[-96.93599399999999,30.179609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236219239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.43122,29.829707,-95.43122,29.829707",
     "geom:latitude":29.829707,
     "geom:longitude":-95.43122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Overhill St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236219239,
-    "wof:lastmodified":1449005086,
+    "wof:lastmodified":1467084032,
     "wof:name":"Bob Lee & Assoc",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.43122,29.829707,-95.43122,29.829707],
+  "bbox": [
+    -95.43122,
+    29.829707,
+    -95.43122,
+    29.829707
+],
   "geometry": {"coordinates":[-95.43122,29.829707],"type":"Point"}
 }

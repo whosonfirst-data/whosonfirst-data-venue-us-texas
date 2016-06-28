@@ -2,13 +2,14 @@
   "id": 403977941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11499,32.669068,-97.11499,32.669068",
     "geom:latitude":32.669068,
     "geom:longitude":-97.11499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Matlock Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403977941,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1467084782,
     "wof:name":"Rent Today Locators",
     "wof:parent_id":85850295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.11499,32.669068,-97.11499,32.669068],
-  "geometry": {"coordinates":[-97.11499,32.669068],"type":"Point"}
+  "bbox": [
+    -97.11499,
+    32.669068,
+    -97.11499,
+    32.669068
+],
+  "geometry": {"coordinates":[-97.11499000000001,32.669068],"type":"Point"}
 }

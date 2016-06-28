@@ -2,13 +2,14 @@
   "id": 387510433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.828404,32.92324,-96.828404,32.92324",
     "geom:latitude":32.92324,
     "geom:longitude":-96.828404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4858 Forest Bend Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387510433,
-    "wof:lastmodified":1449058394,
+    "wof:lastmodified":1467084843,
     "wof:name":"Thomas F Hall",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.828404,32.92324,-96.828404,32.92324],
-  "geometry": {"coordinates":[-96.828404,32.92324],"type":"Point"}
+  "bbox": [
+    -96.828404,
+    32.92324,
+    -96.828404,
+    32.92324
+],
+  "geometry": {"coordinates":[-96.82840400000001,32.92324],"type":"Point"}
 }

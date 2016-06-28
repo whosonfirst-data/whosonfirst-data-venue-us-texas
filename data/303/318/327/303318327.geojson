@@ -2,13 +2,14 @@
   "id": 303318327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787403,30.234513,-97.787403,30.234513",
     "geom:latitude":30.234513,
     "geom:longitude":-97.787403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Prather Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303318327,
-    "wof:lastmodified":1448998655,
+    "wof:lastmodified":1467083718,
     "wof:name":"Austin Independent School District",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.787403,30.234513,-97.787403,30.234513],
+  "bbox": [
+    -97.787403,
+    30.234513,
+    -97.787403,
+    30.234513
+],
   "geometry": {"coordinates":[-97.787403,30.234513],"type":"Point"}
 }

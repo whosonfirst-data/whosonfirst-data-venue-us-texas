@@ -2,13 +2,14 @@
   "id": 270045871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.368131,29.837717,-95.368131,29.837717",
     "geom:latitude":29.837717,
     "geom:longitude":-95.368131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Berry Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270045871,
-    "wof:lastmodified":1449010807,
+    "wof:lastmodified":1467084221,
     "wof:name":"Butler's Daycare",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.368131,29.837717,-95.368131,29.837717],
-  "geometry": {"coordinates":[-95.368131,29.837717],"type":"Point"}
+  "bbox": [
+    -95.368131,
+    29.837717,
+    -95.368131,
+    29.837717
+],
+  "geometry": {"coordinates":[-95.36813100000001,29.837717],"type":"Point"}
 }

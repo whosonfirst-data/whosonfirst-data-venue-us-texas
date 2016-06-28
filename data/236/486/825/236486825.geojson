@@ -2,13 +2,14 @@
   "id": 236486825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71465,32.960502,-96.71465,32.960502",
     "geom:latitude":32.960502,
     "geom:longitude":-96.71465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E Arapaho Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236486825,
-    "wof:lastmodified":1449003502,
+    "wof:lastmodified":1467083956,
     "wof:name":"Viewpoint Bank",
     "wof:parent_id":85880213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.71465,32.960502,-96.71465,32.960502],
-  "geometry": {"coordinates":[-96.71465,32.960502],"type":"Point"}
+  "bbox": [
+    -96.71465,
+    32.960502,
+    -96.71465,
+    32.960502
+],
+  "geometry": {"coordinates":[-96.71465000000001,32.960502],"type":"Point"}
 }

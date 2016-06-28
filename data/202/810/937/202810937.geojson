@@ -2,13 +2,14 @@
   "id": 202810937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.239528,27.762193,-98.239528,27.762193",
     "geom:latitude":27.762193,
     "geom:longitude":-98.239528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Dr E E Dunlap St",
     "sg:city":"San Diego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202810937,
-    "wof:lastmodified":1449060857,
+    "wof:lastmodified":1467084904,
     "wof:name":"R Amusement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.239528,27.762193,-98.239528,27.762193],
-  "geometry": {"coordinates":[-98.239528,27.762193],"type":"Point"}
+  "bbox": [
+    -98.239528,
+    27.762193,
+    -98.239528,
+    27.762193
+],
+  "geometry": {"coordinates":[-98.23952800000001,27.762193],"type":"Point"}
 }

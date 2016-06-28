@@ -2,13 +2,14 @@
   "id": 269952809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.354233,29.797447,-95.354233,29.797447",
     "geom:latitude":29.797447,
     "geom:longitude":-95.354233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 Chapman St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":269952809,
-    "wof:lastmodified":1449037939,
+    "wof:lastmodified":1467084619,
     "wof:name":"Glass Man",
     "wof:parent_id":85869287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "repair"
     ]
 },
-  "bbox": [-95.354233,29.797447,-95.354233,29.797447],
-  "geometry": {"coordinates":[-95.354233,29.797447],"type":"Point"}
+  "bbox": [
+    -95.354233,
+    29.797447,
+    -95.354233,
+    29.797447
+],
+  "geometry": {"coordinates":[-95.35423299999999,29.797447],"type":"Point"}
 }

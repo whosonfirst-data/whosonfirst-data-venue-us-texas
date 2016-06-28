@@ -2,13 +2,14 @@
   "id": 203019609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360336,32.697621,-97.360336,32.697621",
     "geom:latitude":32.697621,
     "geom:longitude":-97.360336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 S University Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203019609,
-    "wof:lastmodified":1449026039,
+    "wof:lastmodified":1467084405,
     "wof:name":"University Apartments",
     "wof:parent_id":85871615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.360336,32.697621,-97.360336,32.697621],
+  "bbox": [
+    -97.360336,
+    32.697621,
+    -97.360336,
+    32.697621
+],
   "geometry": {"coordinates":[-97.360336,32.697621],"type":"Point"}
 }

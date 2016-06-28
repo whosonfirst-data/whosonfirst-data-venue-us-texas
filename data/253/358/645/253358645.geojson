@@ -2,13 +2,14 @@
   "id": 253358645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.555231,33.660647,-95.555231,33.660647",
     "geom:latitude":33.660647,
     "geom:longitude":-95.555231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Clarksville St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253358645,
-    "wof:lastmodified":1449064064,
+    "wof:lastmodified":1467084988,
     "wof:name":"Royal Management",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-95.555231,33.660647,-95.555231,33.660647],
-  "geometry": {"coordinates":[-95.555231,33.660647],"type":"Point"}
+  "bbox": [
+    -95.555231,
+    33.660647,
+    -95.555231,
+    33.660647
+],
+  "geometry": {"coordinates":[-95.55523100000001,33.660647],"type":"Point"}
 }

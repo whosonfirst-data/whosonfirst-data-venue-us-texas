@@ -2,13 +2,14 @@
   "id": 303331657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.762263,30.223894,-97.762263,30.223894",
     "geom:latitude":30.223894,
     "geom:longitude":-97.762263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 S. Congress Ave.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303331657,
-    "wof:lastmodified":1448999605,
+    "wof:lastmodified":1467083766,
     "wof:name":"US Post Office",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.762263,30.223894,-97.762263,30.223894],
+  "bbox": [
+    -97.762263,
+    30.223894,
+    -97.762263,
+    30.223894
+],
   "geometry": {"coordinates":[-97.762263,30.223894],"type":"Point"}
 }

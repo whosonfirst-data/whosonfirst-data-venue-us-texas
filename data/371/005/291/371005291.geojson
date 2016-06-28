@@ -2,13 +2,14 @@
   "id": 371005291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.340553,31.784559,-106.340553,31.784559",
     "geom:latitude":31.784559,
     "geom:longitude":-106.340553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Woodall St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371005291,
-    "wof:lastmodified":1449050058,
+    "wof:lastmodified":1467084689,
     "wof:name":"Print World",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.340553,31.784559,-106.340553,31.784559],
+  "bbox": [
+    -106.340553,
+    31.784559,
+    -106.340553,
+    31.784559
+],
   "geometry": {"coordinates":[-106.340553,31.784559],"type":"Point"}
 }

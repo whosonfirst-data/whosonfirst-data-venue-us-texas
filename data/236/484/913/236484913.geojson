@@ -2,13 +2,14 @@
   "id": 236484913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716323,32.954683,-96.716323,32.954683",
     "geom:latitude":32.954683,
     "geom:longitude":-96.716323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Royal Crest Drive",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236484913,
-    "wof:lastmodified":1449005022,
+    "wof:lastmodified":1467084028,
     "wof:name":"DFW-Metroplex Plumbers",
     "wof:parent_id":85880207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.716323,32.954683,-96.716323,32.954683],
+  "bbox": [
+    -96.716323,
+    32.954683,
+    -96.716323,
+    32.954683
+],
   "geometry": {"coordinates":[-96.716323,32.954683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253696953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351049,32.586508,-97.351049,32.586508",
     "geom:latitude":32.586508,
     "geom:longitude":-97.351049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 S Crowley Rd",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253696953,
-    "wof:lastmodified":1449063040,
+    "wof:lastmodified":1467084952,
     "wof:name":"Bank of America ATM",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "location"
     ]
 },
-  "bbox": [-97.351049,32.586508,-97.351049,32.586508],
+  "bbox": [
+    -97.351049,
+    32.586508,
+    -97.351049,
+    32.586508
+],
   "geometry": {"coordinates":[-97.351049,32.586508],"type":"Point"}
 }

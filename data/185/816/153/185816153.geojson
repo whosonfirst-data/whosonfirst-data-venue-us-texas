@@ -2,13 +2,14 @@
   "id": 185816153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.787244,35.185375,-101.787244,35.185375",
     "geom:latitude":35.185375,
     "geom:longitude":-101.787244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 S Bolton St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185816153,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1467084128,
     "wof:name":"Bolton Street Baptist Church",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.787244,35.185375,-101.787244,35.185375],
+  "bbox": [
+    -101.787244,
+    35.185375,
+    -101.787244,
+    35.185375
+],
   "geometry": {"coordinates":[-101.787244,35.185375],"type":"Point"}
 }

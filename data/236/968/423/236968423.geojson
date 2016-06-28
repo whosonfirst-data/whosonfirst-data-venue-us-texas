@@ -2,13 +2,14 @@
   "id": 236968423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.409443,32.767529,-97.409443,32.767529",
     "geom:latitude":32.767529,
     "geom:longitude":-97.409443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Sam Calloway Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236968423,
-    "wof:lastmodified":1449001832,
+    "wof:lastmodified":1467083865,
     "wof:name":"Calloway Place Apartments",
     "wof:parent_id":85897403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.409443,32.767529,-97.409443,32.767529],
+  "bbox": [
+    -97.409443,
+    32.767529,
+    -97.409443,
+    32.767529
+],
   "geometry": {"coordinates":[-97.409443,32.767529],"type":"Point"}
 }

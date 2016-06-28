@@ -2,13 +2,14 @@
   "id": 387935035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.889502,33.527663,-101.889502,33.527663",
     "geom:latitude":33.527663,
     "geom:longitude":-101.889502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3403 73rd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387935035,
-    "wof:lastmodified":1449059245,
+    "wof:lastmodified":1467084865,
     "wof:name":"Christian Counseling Lubbock",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-101.889502,33.527663,-101.889502,33.527663],
-  "geometry": {"coordinates":[-101.889502,33.527663],"type":"Point"}
+  "bbox": [
+    -101.889502,
+    33.527663,
+    -101.889502,
+    33.527663
+],
+  "geometry": {"coordinates":[-101.88950199999999,33.527663],"type":"Point"}
 }

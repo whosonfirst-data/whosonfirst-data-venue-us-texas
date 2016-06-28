@@ -2,13 +2,14 @@
   "id": 286937987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.239305,29.659973,-95.239305,29.659973",
     "geom:latitude":29.659973,
     "geom:longitude":-95.239305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 College Ave",
     "sg:city":"South Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":286937987,
-    "wof:lastmodified":1449015720,
+    "wof:lastmodified":1467084251,
     "wof:name":"ARC Auto",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-95.239305,29.659973,-95.239305,29.659973],
+  "bbox": [
+    -95.239305,
+    29.659973,
+    -95.239305,
+    29.659973
+],
   "geometry": {"coordinates":[-95.239305,29.659973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370596133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75809,30.281885,-97.75809,30.281885",
     "geom:latitude":30.281885,
     "geom:longitude":-97.75809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Palma Plz",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370596133,
-    "wof:lastmodified":1449030819,
+    "wof:lastmodified":1467084512,
     "wof:name":"24 Flats",
     "wof:parent_id":85893513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.75809,30.281885,-97.75809,30.281885],
+  "bbox": [
+    -97.75809,
+    30.281885,
+    -97.75809,
+    30.281885
+],
   "geometry": {"coordinates":[-97.75809,30.281885],"type":"Point"}
 }

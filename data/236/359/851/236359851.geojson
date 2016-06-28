@@ -2,13 +2,14 @@
   "id": 236359851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.955002,32.845402,-96.955002,32.845402",
     "geom:latitude":32.845402,
     "geom:longitude":-96.955002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Metker St",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236359851,
-    "wof:lastmodified":1449001640,
+    "wof:lastmodified":1467083851,
     "wof:name":"Metker Place Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.955002,32.845402,-96.955002,32.845402],
-  "geometry": {"coordinates":[-96.955002,32.845402],"type":"Point"}
+  "bbox": [
+    -96.955002,
+    32.845402,
+    -96.955002,
+    32.845402
+],
+  "geometry": {"coordinates":[-96.95500199999999,32.845402],"type":"Point"}
 }

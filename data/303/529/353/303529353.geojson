@@ -2,13 +2,14 @@
   "id": 303529353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.889013,30.240661,-97.889013,30.240661",
     "geom:latitude":30.240661,
     "geom:longitude":-97.889013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7003 Pinto Cv",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303529353,
-    "wof:lastmodified":1448999188,
+    "wof:lastmodified":1467083745,
     "wof:name":"Oakhill Drum Studio",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "service-sound"
     ]
 },
-  "bbox": [-97.889013,30.240661,-97.889013,30.240661],
-  "geometry": {"coordinates":[-97.889013,30.240661],"type":"Point"}
+  "bbox": [
+    -97.889013,
+    30.240661,
+    -97.889013,
+    30.240661
+],
+  "geometry": {"coordinates":[-97.88901300000001,30.240661],"type":"Point"}
 }

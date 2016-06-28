@@ -2,13 +2,14 @@
   "id": 354012095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.448552,32.763608,-97.448552,32.763608",
     "geom:latitude":32.763608,
     "geom:longitude":-97.448552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Bolliger Blvd",
     "sg:city":"White Settlement",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354012095,
-    "wof:lastmodified":1449067500,
+    "wof:lastmodified":1467085090,
     "wof:name":"Austin Enterprises",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.448552,32.763608,-97.448552,32.763608],
-  "geometry": {"coordinates":[-97.448552,32.763608],"type":"Point"}
+  "bbox": [
+    -97.448552,
+    32.763608,
+    -97.448552,
+    32.763608
+],
+  "geometry": {"coordinates":[-97.44855200000001,32.763608],"type":"Point"}
 }

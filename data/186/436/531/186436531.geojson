@@ -2,13 +2,14 @@
   "id": 186436531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.37556,33.190585,-101.37556,33.190585",
     "geom:latitude":33.190585,
     "geom:longitude":-101.37556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Ave H",
     "sg:city":"Post",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186436531,
-    "wof:lastmodified":1449052763,
+    "wof:lastmodified":1467084742,
     "wof:name":"Bo Jackson Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-101.37556,33.190585,-101.37556,33.190585],
-  "geometry": {"coordinates":[-101.37556,33.190585],"type":"Point"}
+  "bbox": [
+    -101.37556,
+    33.190585,
+    -101.37556,
+    33.190585
+],
+  "geometry": {"coordinates":[-101.37555999999999,33.190585],"type":"Point"}
 }

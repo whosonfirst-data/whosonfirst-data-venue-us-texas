@@ -2,13 +2,14 @@
   "id": 235985407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.442379,29.578625,-98.442379,29.578625",
     "geom:latitude":29.578625,
     "geom:longitude":-98.442379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Thousand Oaks Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":235985407,
-    "wof:lastmodified":1449008414,
+    "wof:lastmodified":1467084144,
     "wof:name":"Med-Center Chiropractic",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.442379,29.578625,-98.442379,29.578625],
+  "bbox": [
+    -98.442379,
+    29.578625,
+    -98.442379,
+    29.578625
+],
   "geometry": {"coordinates":[-98.442379,29.578625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303661299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.805608,30.44667,-97.805608,30.44667",
     "geom:latitude":30.44667,
     "geom:longitude":-97.805608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 Anderson Mill Rd. Suite 110A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303661299,
-    "wof:lastmodified":1449000303,
+    "wof:lastmodified":1467083800,
     "wof:name":"Extreme Fun, Inc",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.805608,30.44667,-97.805608,30.44667],
-  "geometry": {"coordinates":[-97.805608,30.44667],"type":"Point"}
+  "bbox": [
+    -97.805608,
+    30.44667,
+    -97.805608,
+    30.44667
+],
+  "geometry": {"coordinates":[-97.80560800000001,30.44667],"type":"Point"}
 }

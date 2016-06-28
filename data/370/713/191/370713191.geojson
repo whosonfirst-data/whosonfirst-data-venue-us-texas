@@ -2,13 +2,14 @@
   "id": 370713191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.656415,29.412722,-98.656415,29.412722",
     "geom:latitude":29.412722,
     "geom:longitude":-98.656415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 Horal St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370713191,
-    "wof:lastmodified":1449032158,
+    "wof:lastmodified":1467084546,
     "wof:name":"Westpond Apartments",
     "wof:parent_id":85828981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.656415,29.412722,-98.656415,29.412722],
+  "bbox": [
+    -98.656415,
+    29.412722,
+    -98.656415,
+    29.412722
+],
   "geometry": {"coordinates":[-98.656415,29.412722],"type":"Point"}
 }

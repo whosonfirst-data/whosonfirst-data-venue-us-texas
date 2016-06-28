@@ -2,13 +2,14 @@
   "id": 303295579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.762,30.285999,-97.762,30.285999",
     "geom:latitude":30.285999,
     "geom:longitude":-97.762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Wethersfield Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303295579,
-    "wof:lastmodified":1448999110,
+    "wof:lastmodified":1467083741,
     "wof:name":"Ctap",
     "wof:parent_id":85893557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-97.762,30.285999,-97.762,30.285999],
+  "bbox": [
+    -97.762,
+    30.285999,
+    -97.762,
+    30.285999
+],
   "geometry": {"coordinates":[-97.762,30.285999],"type":"Point"}
 }

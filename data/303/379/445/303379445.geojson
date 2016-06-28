@@ -2,13 +2,14 @@
   "id": 303379445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765898,30.477409,-97.765898,30.477409",
     "geom:latitude":30.477409,
     "geom:longitude":-97.765898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9215 West Parmer Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303379445,
-    "wof:lastmodified":1448999541,
+    "wof:lastmodified":1467083763,
     "wof:name":"Sonic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.765898,30.477409,-97.765898,30.477409],
-  "geometry": {"coordinates":[-97.765898,30.477409],"type":"Point"}
+  "bbox": [
+    -97.765898,
+    30.477409,
+    -97.765898,
+    30.477409
+],
+  "geometry": {"coordinates":[-97.76589800000001,30.477409],"type":"Point"}
 }

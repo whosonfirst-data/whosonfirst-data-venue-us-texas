@@ -2,13 +2,14 @@
   "id": 253114503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730677,30.259145,-97.730677,30.259145",
     "geom:latitude":30.259145,
     "geom:longitude":-97.730677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 E Cesar Chavez St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253114503,
-    "wof:lastmodified":1449064060,
+    "wof:lastmodified":1467084987,
     "wof:name":"D & M Paints",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-97.730677,30.259145,-97.730677,30.259145],
+  "bbox": [
+    -97.730677,
+    30.259145,
+    -97.730677,
+    30.259145
+],
   "geometry": {"coordinates":[-97.730677,30.259145],"type":"Point"}
 }

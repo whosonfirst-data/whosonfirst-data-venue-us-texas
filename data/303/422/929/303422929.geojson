@@ -2,13 +2,14 @@
   "id": 303422929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.683084,30.441298,-97.683084,30.441298",
     "geom:latitude":30.441298,
     "geom:longitude":-97.683084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 Wells Branch Parkway",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303422929,
-    "wof:lastmodified":1448998292,
+    "wof:lastmodified":1467083700,
     "wof:name":"Taqueria Los Jaliscienses",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.683084,30.441298,-97.683084,30.441298],
-  "geometry": {"coordinates":[-97.683084,30.441298],"type":"Point"}
+  "bbox": [
+    -97.683084,
+    30.441298,
+    -97.683084,
+    30.441298
+],
+  "geometry": {"coordinates":[-97.68308399999999,30.441298],"type":"Point"}
 }

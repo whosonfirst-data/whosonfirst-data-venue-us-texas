@@ -2,13 +2,14 @@
   "id": 219902383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550694,31.844447,-106.550694,31.844447",
     "geom:latitude":31.844447,
     "geom:longitude":-106.550694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Armistad Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219902383,
-    "wof:lastmodified":1449073018,
+    "wof:lastmodified":1467085155,
     "wof:name":"CCI Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.550694,31.844447,-106.550694,31.844447],
-  "geometry": {"coordinates":[-106.550694,31.844447],"type":"Point"}
+  "bbox": [
+    -106.550694,
+    31.844447,
+    -106.550694,
+    31.844447
+],
+  "geometry": {"coordinates":[-106.55069399999999,31.844447],"type":"Point"}
 }

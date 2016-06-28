@@ -2,13 +2,14 @@
   "id": 270200743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.222473,29.621476,-95.222473,29.621476",
     "geom:latitude":29.621476,
     "geom:longitude":-95.222473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":270200743,
-    "wof:lastmodified":1449009615,
+    "wof:lastmodified":1467084182,
     "wof:name":"Kaleidoscoops Ice Cream",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "distributor"
     ]
 },
-  "bbox": [-95.222473,29.621476,-95.222473,29.621476],
-  "geometry": {"coordinates":[-95.222473,29.621476],"type":"Point"}
+  "bbox": [
+    -95.222473,
+    29.621476,
+    -95.222473,
+    29.621476
+],
+  "geometry": {"coordinates":[-95.22247299999999,29.621476],"type":"Point"}
 }

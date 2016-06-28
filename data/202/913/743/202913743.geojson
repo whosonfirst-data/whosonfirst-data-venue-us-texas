@@ -2,13 +2,14 @@
   "id": 202913743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504545,27.511539,-99.504545,27.511539",
     "geom:latitude":27.511539,
     "geom:longitude":-99.504545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913743,
-    "wof:lastmodified":1449061096,
+    "wof:lastmodified":1467084909,
     "wof:name":"Jesse Martinez Auto Parts",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-99.504545,27.511539,-99.504545,27.511539],
-  "geometry": {"coordinates":[-99.504545,27.511539],"type":"Point"}
+  "bbox": [
+    -99.504545,
+    27.511539,
+    -99.504545,
+    27.511539
+],
+  "geometry": {"coordinates":[-99.50454499999999,27.511539],"type":"Point"}
 }

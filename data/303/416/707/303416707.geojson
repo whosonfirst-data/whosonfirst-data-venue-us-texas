@@ -2,13 +2,14 @@
   "id": 303416707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.680538,30.423653,-97.680538,30.423653",
     "geom:latitude":30.423653,
     "geom:longitude":-97.680538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13401 Metric Boulevard Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303416707,
-    "wof:lastmodified":1448999219,
+    "wof:lastmodified":1467083747,
     "wof:name":"Madison At Scofield Farms",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.680538,30.423653,-97.680538,30.423653],
+  "bbox": [
+    -97.680538,
+    30.423653,
+    -97.680538,
+    30.423653
+],
   "geometry": {"coordinates":[-97.680538,30.423653],"type":"Point"}
 }

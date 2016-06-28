@@ -2,13 +2,14 @@
   "id": 303751835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.72594,30.328628,-97.72594,30.328628",
     "geom:latitude":30.328628,
     "geom:longitude":-97.72594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Old Koenig Ln Ste 122",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303751835,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1467083698,
     "wof:name":"Austin Interior Remodelers",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.72594,30.328628,-97.72594,30.328628],
-  "geometry": {"coordinates":[-97.72594,30.328628],"type":"Point"}
+  "bbox": [
+    -97.72594,
+    30.328628,
+    -97.72594,
+    30.328628
+],
+  "geometry": {"coordinates":[-97.72593999999999,30.328628],"type":"Point"}
 }

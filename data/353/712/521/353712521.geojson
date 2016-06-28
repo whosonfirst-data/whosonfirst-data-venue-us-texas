@@ -2,13 +2,14 @@
   "id": 353712521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.519287,29.684274,-95.519287,29.684274",
     "geom:latitude":29.684274,
     "geom:longitude":-95.519287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7527 Jason St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353712521,
-    "wof:lastmodified":1449019346,
+    "wof:lastmodified":1467084345,
     "wof:name":"Coastal Asphalt Svc",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.519287,29.684274,-95.519287,29.684274],
-  "geometry": {"coordinates":[-95.519287,29.684274],"type":"Point"}
+  "bbox": [
+    -95.519287,
+    29.684274,
+    -95.519287,
+    29.684274
+],
+  "geometry": {"coordinates":[-95.51928700000001,29.684274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303362547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726287,30.289066,-97.726287,30.289066",
     "geom:latitude":30.289066,
     "geom:longitude":-97.726287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E 30th St Ste 111",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303362547,
-    "wof:lastmodified":1448999697,
+    "wof:lastmodified":1467083771,
     "wof:name":"St David's Medical Center",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.726287,30.289066,-97.726287,30.289066],
+  "bbox": [
+    -97.726287,
+    30.289066,
+    -97.726287,
+    30.289066
+],
   "geometry": {"coordinates":[-97.726287,30.289066],"type":"Point"}
 }

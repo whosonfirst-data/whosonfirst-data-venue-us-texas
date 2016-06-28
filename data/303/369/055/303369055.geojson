@@ -2,13 +2,14 @@
   "id": 303369055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.660469,30.337477,-97.660469,30.337477",
     "geom:latitude":30.337477,
     "geom:longitude":-97.660469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9020 Tuscany Way",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303369055,
-    "wof:lastmodified":1449000439,
+    "wof:lastmodified":1467083806,
     "wof:name":"UPS Customer Center",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.660469,30.337477,-97.660469,30.337477],
-  "geometry": {"coordinates":[-97.660469,30.337477],"type":"Point"}
+  "bbox": [
+    -97.660469,
+    30.337477,
+    -97.660469,
+    30.337477
+],
+  "geometry": {"coordinates":[-97.66046900000001,30.337477],"type":"Point"}
 }

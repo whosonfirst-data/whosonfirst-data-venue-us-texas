@@ -2,13 +2,14 @@
   "id": 303942619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.875,35.186529,-101.875,35.186529",
     "geom:latitude":35.186529,
     "geom:longitude":-101.875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Lakeview Dr Ste 300",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303942619,
-    "wof:lastmodified":1448999233,
+    "wof:lastmodified":1467083747,
     "wof:name":"Regional Office-Amarillo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.875,35.186529,-101.875,35.186529],
+  "bbox": [
+    -101.875,
+    35.186529,
+    -101.875,
+    35.186529
+],
   "geometry": {"coordinates":[-101.875,35.186529],"type":"Point"}
 }

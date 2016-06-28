@@ -2,13 +2,14 @@
   "id": 270301767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551616,29.786324,-95.551616,29.786324",
     "geom:latitude":29.786324,
     "geom:longitude":-95.551616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 Katy Freeway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270301767,
-    "wof:lastmodified":1449009248,
+    "wof:lastmodified":1467084170,
     "wof:name":"Goodson Honda West",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-95.551616,29.786324,-95.551616,29.786324],
+  "bbox": [
+    -95.551616,
+    29.786324,
+    -95.551616,
+    29.786324
+],
   "geometry": {"coordinates":[-95.551616,29.786324],"type":"Point"}
 }

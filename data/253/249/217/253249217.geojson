@@ -2,13 +2,14 @@
   "id": 253249217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769043,32.921371,-96.769043,32.921371",
     "geom:latitude":32.921371,
     "geom:longitude":-96.769043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12770 Coit Rd Ste 1000",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253249217,
-    "wof:lastmodified":1449062971,
+    "wof:lastmodified":1467084950,
     "wof:name":"Choicepoint",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "analyst"
     ]
 },
-  "bbox": [-96.769043,32.921371,-96.769043,32.921371],
+  "bbox": [
+    -96.769043,
+    32.921371,
+    -96.769043,
+    32.921371
+],
   "geometry": {"coordinates":[-96.769043,32.921371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252743349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393279,32.528594,-94.393279,32.528594",
     "geom:latitude":32.528594,
     "geom:longitude":-94.393279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Walter St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252743349,
-    "wof:lastmodified":1449006502,
+    "wof:lastmodified":1467084108,
     "wof:name":"Kingdom Connection",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.393279,32.528594,-94.393279,32.528594],
-  "geometry": {"coordinates":[-94.393279,32.528594],"type":"Point"}
+  "bbox": [
+    -94.393279,
+    32.528594,
+    -94.393279,
+    32.528594
+],
+  "geometry": {"coordinates":[-94.39327900000001,32.528594],"type":"Point"}
 }

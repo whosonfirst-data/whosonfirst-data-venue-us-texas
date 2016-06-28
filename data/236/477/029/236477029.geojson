@@ -2,13 +2,14 @@
   "id": 236477029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704919,32.953342,-96.704919,32.953342",
     "geom:latitude":32.953342,
     "geom:longitude":-96.704919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Apollo Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236477029,
-    "wof:lastmodified":1449002097,
+    "wof:lastmodified":1467083885,
     "wof:name":"United States Postal Service-USPS",
     "wof:parent_id":85880213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704919,32.953342,-96.704919,32.953342],
+  "bbox": [
+    -96.704919,
+    32.953342,
+    -96.704919,
+    32.953342
+],
   "geometry": {"coordinates":[-96.704919,32.953342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304024067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.01268,32.470699,-100.01268,32.470699",
     "geom:latitude":32.470699,
     "geom:longitude":-100.01268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Kent",
     "sg:city":"Merkel",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":304024067,
-    "wof:lastmodified":1449043827,
+    "wof:lastmodified":1467084665,
     "wof:name":"City of Merkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "government-city"
     ]
 },
-  "bbox": [-100.01268,32.470699,-100.01268,32.470699],
+  "bbox": [
+    -100.01268,
+    32.470699,
+    -100.01268,
+    32.470699
+],
   "geometry": {"coordinates":[-100.01268,32.470699],"type":"Point"}
 }

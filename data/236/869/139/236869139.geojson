@@ -2,13 +2,14 @@
   "id": 236869139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.641573,32.719597,-96.641573,32.719597",
     "geom:latitude":32.719597,
     "geom:longitude":-96.641573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10607 Elam Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236869139,
-    "wof:lastmodified":1449004931,
+    "wof:lastmodified":1467084024,
     "wof:name":"Betty & Damions Retail Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.641573,32.719597,-96.641573,32.719597],
-  "geometry": {"coordinates":[-96.641573,32.719597],"type":"Point"}
+  "bbox": [
+    -96.641573,
+    32.719597,
+    -96.641573,
+    32.719597
+],
+  "geometry": {"coordinates":[-96.64157299999999,32.719597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404184479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.328595,30.636712,-96.328595,30.636712",
     "geom:latitude":30.636712,
     "geom:longitude":-96.328595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Tarrow St",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404184479,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1467084643,
     "wof:name":"Rodney Winchel",
     "wof:parent_id":85893611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-96.328595,30.636712,-96.328595,30.636712],
-  "geometry": {"coordinates":[-96.328595,30.636712],"type":"Point"}
+  "bbox": [
+    -96.328595,
+    30.636712,
+    -96.328595,
+    30.636712
+],
+  "geometry": {"coordinates":[-96.32859500000001,30.636712],"type":"Point"}
 }

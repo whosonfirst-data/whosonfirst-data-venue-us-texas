@@ -2,13 +2,14 @@
   "id": 269977163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.277993,29.715375,-95.277993,29.715375",
     "geom:latitude":29.715375,
     "geom:longitude":-95.277993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 Broadway St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269977163,
-    "wof:lastmodified":1449039049,
+    "wof:lastmodified":1467084640,
     "wof:name":"Broadway Computer Repair",
     "wof:parent_id":85824091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-95.277993,29.715375,-95.277993,29.715375],
+  "bbox": [
+    -95.277993,
+    29.715375,
+    -95.277993,
+    29.715375
+],
   "geometry": {"coordinates":[-95.277993,29.715375],"type":"Point"}
 }

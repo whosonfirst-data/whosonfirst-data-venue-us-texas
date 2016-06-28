@@ -2,13 +2,14 @@
   "id": 303735677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.684069,30.355032,-97.684069,30.355032",
     "geom:latitude":30.355032,
     "geom:longitude":-97.684069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 E Rundberg Ln Apt 152",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303735677,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1467083810,
     "wof:name":"Glen Oaks Apartments",
     "wof:parent_id":85869897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.684069,30.355032,-97.684069,30.355032],
-  "geometry": {"coordinates":[-97.684069,30.355032],"type":"Point"}
+  "bbox": [
+    -97.684069,
+    30.355032,
+    -97.684069,
+    30.355032
+],
+  "geometry": {"coordinates":[-97.68406899999999,30.355032],"type":"Point"}
 }

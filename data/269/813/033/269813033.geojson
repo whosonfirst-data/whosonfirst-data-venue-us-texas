@@ -2,13 +2,14 @@
   "id": 269813033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.410289,29.810229,-95.410289,29.810229",
     "geom:latitude":29.810229,
     "geom:longitude":-95.410289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Shepherd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269813033,
-    "wof:lastmodified":1449036768,
+    "wof:lastmodified":1467084589,
     "wof:name":"Franklin Covey",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.410289,29.810229,-95.410289,29.810229],
-  "geometry": {"coordinates":[-95.410289,29.810229],"type":"Point"}
+  "bbox": [
+    -95.410289,
+    29.810229,
+    -95.410289,
+    29.810229
+],
+  "geometry": {"coordinates":[-95.41028900000001,29.810229],"type":"Point"}
 }

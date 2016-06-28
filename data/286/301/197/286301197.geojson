@@ -2,13 +2,14 @@
   "id": 286301197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473099,29.7076,-95.473099,29.7076",
     "geom:latitude":29.7076,
     "geom:longitude":-95.473099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5314 Dashwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286301197,
-    "wof:lastmodified":1449015924,
+    "wof:lastmodified":1467084256,
     "wof:name":"Bellaire Hospital",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.473099,29.7076,-95.473099,29.7076],
+  "bbox": [
+    -95.473099,
+    29.7076,
+    -95.473099,
+    29.7076
+],
   "geometry": {"coordinates":[-95.473099,29.7076],"type":"Point"}
 }

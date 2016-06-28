@@ -2,13 +2,14 @@
   "id": 185863065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.450711,30.300417,-95.450711,30.300417",
     "geom:latitude":30.300417,
     "geom:longitude":-95.450711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S 1st St",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185863065,
-    "wof:lastmodified":1449007705,
+    "wof:lastmodified":1467084130,
     "wof:name":"Rosewood Apartments",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.450711,30.300417,-95.450711,30.300417],
+  "bbox": [
+    -95.450711,
+    30.300417,
+    -95.450711,
+    30.300417
+],
   "geometry": {"coordinates":[-95.450711,30.300417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287132381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504168,27.557588,-99.504168,27.557588",
     "geom:latitude":27.557588,
     "geom:longitude":-99.504168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5910 San Bernardo Ave Ofc",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287132381,
-    "wof:lastmodified":1449001085,
+    "wof:lastmodified":1467083832,
     "wof:name":"El Paisano Apartments",
     "wof:parent_id":85838603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-99.504168,27.557588,-99.504168,27.557588],
-  "geometry": {"coordinates":[-99.504168,27.557588],"type":"Point"}
+  "bbox": [
+    -99.504168,
+    27.557588,
+    -99.504168,
+    27.557588
+],
+  "geometry": {"coordinates":[-99.50416800000001,27.557588],"type":"Point"}
 }

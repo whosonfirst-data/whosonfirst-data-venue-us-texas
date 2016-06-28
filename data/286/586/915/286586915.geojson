@@ -2,13 +2,14 @@
   "id": 286586915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456358,30.19139,-95.456358,30.19139",
     "geom:latitude":30.19139,
     "geom:longitude":-95.456358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Vision Park Blvd # 200",
     "sg:city":"Shenandoah",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286586915,
-    "wof:lastmodified":1449017763,
+    "wof:lastmodified":1467084308,
     "wof:name":"The Center For Cosmetic & Functional Dentistry",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-95.456358,30.19139,-95.456358,30.19139],
-  "geometry": {"coordinates":[-95.456358,30.19139],"type":"Point"}
+  "bbox": [
+    -95.456358,
+    30.19139,
+    -95.456358,
+    30.19139
+],
+  "geometry": {"coordinates":[-95.45635799999999,30.19139],"type":"Point"}
 }

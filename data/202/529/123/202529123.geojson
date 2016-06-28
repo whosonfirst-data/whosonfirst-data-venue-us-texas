@@ -2,13 +2,14 @@
   "id": 202529123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.294903,29.349925,-98.294903,29.349925",
     "geom:latitude":29.349925,
     "geom:longitude":-98.294903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7395 FM 1628",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202529123,
-    "wof:lastmodified":1449061232,
+    "wof:lastmodified":1467084911,
     "wof:name":"East Central Prof Support Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.294903,29.349925,-98.294903,29.349925],
-  "geometry": {"coordinates":[-98.294903,29.349925],"type":"Point"}
+  "bbox": [
+    -98.294903,
+    29.349925,
+    -98.294903,
+    29.349925
+],
+  "geometry": {"coordinates":[-98.29490300000001,29.349925],"type":"Point"}
 }

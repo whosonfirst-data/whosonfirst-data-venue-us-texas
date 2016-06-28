@@ -2,13 +2,14 @@
   "id": 404027429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715874,32.79348,-96.715874,32.79348",
     "geom:latitude":32.79348,
     "geom:longitude":-96.715874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Samuell Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404027429,
-    "wof:lastmodified":1449039264,
+    "wof:lastmodified":1467084644,
     "wof:name":"Dallas Metrocare Svc",
     "wof:parent_id":85882337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-96.715874,32.79348,-96.715874,32.79348],
+  "bbox": [
+    -96.715874,
+    32.79348,
+    -96.715874,
+    32.79348
+],
   "geometry": {"coordinates":[-96.715874,32.79348],"type":"Point"}
 }

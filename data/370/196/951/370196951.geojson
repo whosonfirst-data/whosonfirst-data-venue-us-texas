@@ -2,13 +2,14 @@
   "id": 370196951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.999552,33.689585,-101.999552,33.689585",
     "geom:latitude":33.689585,
     "geom:longitude":-101.999552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 8th St",
     "sg:city":"Shallowater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370196951,
-    "wof:lastmodified":1449029856,
+    "wof:lastmodified":1467084488,
     "wof:name":"Shallowater Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-101.999552,33.689585,-101.999552,33.689585],
-  "geometry": {"coordinates":[-101.999552,33.689585],"type":"Point"}
+  "bbox": [
+    -101.999552,
+    33.689585,
+    -101.999552,
+    33.689585
+],
+  "geometry": {"coordinates":[-101.99955199999999,33.689585],"type":"Point"}
 }

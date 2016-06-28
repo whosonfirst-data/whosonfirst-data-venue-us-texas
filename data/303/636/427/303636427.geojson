@@ -2,13 +2,14 @@
   "id": 303636427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752739,30.119801,-97.752739,30.119801",
     "geom:latitude":30.119801,
     "geom:longitude":-97.752739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11123 Old Lockhart Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303636427,
-    "wof:lastmodified":1448999091,
+    "wof:lastmodified":1467083740,
     "wof:name":"Red Horse Studio",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-97.752739,30.119801,-97.752739,30.119801],
-  "geometry": {"coordinates":[-97.752739,30.119801],"type":"Point"}
+  "bbox": [
+    -97.752739,
+    30.119801,
+    -97.752739,
+    30.119801
+],
+  "geometry": {"coordinates":[-97.75273900000001,30.119801],"type":"Point"}
 }

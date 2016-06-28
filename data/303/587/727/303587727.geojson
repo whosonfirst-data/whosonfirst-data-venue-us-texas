@@ -2,13 +2,14 @@
   "id": 303587727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.775078,30.204845,-97.775078,30.204845",
     "geom:latitude":30.204845,
     "geom:longitude":-97.775078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Stassney Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303587727,
-    "wof:lastmodified":1448998955,
+    "wof:lastmodified":1467083734,
     "wof:name":"Reuben's Wine & Spirits",
     "wof:parent_id":85869971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.775078,30.204845,-97.775078,30.204845],
-  "geometry": {"coordinates":[-97.775078,30.204845],"type":"Point"}
+  "bbox": [
+    -97.775078,
+    30.204845,
+    -97.775078,
+    30.204845
+],
+  "geometry": {"coordinates":[-97.77507799999999,30.204845],"type":"Point"}
 }

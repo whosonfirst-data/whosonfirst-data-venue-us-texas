@@ -2,13 +2,14 @@
   "id": 371036705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.696498,30.330639,-97.696498,30.330639",
     "geom:latitude":30.330639,
     "geom:longitude":-97.696498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7211 Providence Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371036705,
-    "wof:lastmodified":1449049268,
+    "wof:lastmodified":1467084674,
     "wof:name":"Miles Tax Service",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.696498,30.330639,-97.696498,30.330639],
-  "geometry": {"coordinates":[-97.696498,30.330639],"type":"Point"}
+  "bbox": [
+    -97.696498,
+    30.330639,
+    -97.696498,
+    30.330639
+],
+  "geometry": {"coordinates":[-97.69649800000001,30.330639],"type":"Point"}
 }

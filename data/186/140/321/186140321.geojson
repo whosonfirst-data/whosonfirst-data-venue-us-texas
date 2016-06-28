@@ -2,13 +2,14 @@
   "id": 186140321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.804303,32.945185,-99.804303,32.945185",
     "geom:latitude":32.945185,
     "geom:longitude":-99.804303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W McHarg St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186140321,
-    "wof:lastmodified":1449050754,
+    "wof:lastmodified":1467084700,
     "wof:name":"Rent City Superstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-99.804303,32.945185,-99.804303,32.945185],
+  "bbox": [
+    -99.804303,
+    32.945185,
+    -99.804303,
+    32.945185
+],
   "geometry": {"coordinates":[-99.804303,32.945185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185917935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.449706,30.03355,-95.449706,30.03355",
     "geom:latitude":30.03355,
     "geom:longitude":-95.449706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18209 Mossforest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185917935,
-    "wof:lastmodified":1449008007,
+    "wof:lastmodified":1467084136,
     "wof:name":"Rogers Mach & Sply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.449706,30.03355,-95.449706,30.03355],
-  "geometry": {"coordinates":[-95.449706,30.03355],"type":"Point"}
+  "bbox": [
+    -95.449706,
+    30.03355,
+    -95.449706,
+    30.03355
+],
+  "geometry": {"coordinates":[-95.44970600000001,30.03355],"type":"Point"}
 }

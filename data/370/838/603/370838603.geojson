@@ -2,13 +2,14 @@
   "id": 370838603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.270434,30.177953,-97.270434,30.177953",
     "geom:latitude":30.177953,
     "geom:longitude":-97.270434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Wandering Oak St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370838603,
-    "wof:lastmodified":1449029501,
+    "wof:lastmodified":1467084479,
     "wof:name":"Area Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.270434,30.177953,-97.270434,30.177953],
-  "geometry": {"coordinates":[-97.270434,30.177953],"type":"Point"}
+  "bbox": [
+    -97.270434,
+    30.177953,
+    -97.270434,
+    30.177953
+],
+  "geometry": {"coordinates":[-97.27043399999999,30.177953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219892147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.248241,34.149627,-99.248241,34.149627",
     "geom:latitude":34.149627,
     "geom:longitude":-99.248241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6110 Bus Hwy 287",
     "sg:city":"Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219892147,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1467085111,
     "wof:name":"Conway Classic Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "classic"
     ]
 },
-  "bbox": [-99.248241,34.149627,-99.248241,34.149627],
-  "geometry": {"coordinates":[-99.248241,34.149627],"type":"Point"}
+  "bbox": [
+    -99.248241,
+    34.149627,
+    -99.248241,
+    34.149627
+],
+  "geometry": {"coordinates":[-99.24824099999999,34.149627],"type":"Point"}
 }

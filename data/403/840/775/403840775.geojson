@@ -2,13 +2,14 @@
   "id": 403840775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.340116,32.864154,-97.340116,32.864154",
     "geom:latitude":32.864154,
     "geom:longitude":-97.340116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Canyon Ridge St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403840775,
-    "wof:lastmodified":1449055668,
+    "wof:lastmodified":1467084774,
     "wof:name":"Maries Trucking",
     "wof:parent_id":85871595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.340116,32.864154,-97.340116,32.864154],
-  "geometry": {"coordinates":[-97.340116,32.864154],"type":"Point"}
+  "bbox": [
+    -97.340116,
+    32.864154,
+    -97.340116,
+    32.864154
+],
+  "geometry": {"coordinates":[-97.34011599999999,32.864154],"type":"Point"}
 }

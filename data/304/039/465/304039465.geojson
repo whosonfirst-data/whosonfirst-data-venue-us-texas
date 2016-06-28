@@ -2,13 +2,14 @@
   "id": 304039465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.903819,32.219511,-99.903819,32.219511",
     "geom:latitude":32.219511,
     "geom:longitude":-99.903819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Heinze Ranch Rd",
     "sg:city":"Tuscola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304039465,
-    "wof:lastmodified":1449044090,
+    "wof:lastmodified":1467084669,
     "wof:name":"Heinze Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.903819,32.219511,-99.903819,32.219511],
+  "bbox": [
+    -99.903819,
+    32.219511,
+    -99.903819,
+    32.219511
+],
   "geometry": {"coordinates":[-99.903819,32.219511],"type":"Point"}
 }

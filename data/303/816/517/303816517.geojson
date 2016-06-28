@@ -2,13 +2,14 @@
   "id": 303816517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760044,30.375041,-97.760044,30.375041",
     "geom:latitude":30.375041,
     "geom:longitude":-97.760044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Spicewood Springs Road Suite 103",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303816517,
-    "wof:lastmodified":1448999547,
+    "wof:lastmodified":1467083763,
     "wof:name":"Southwest Car Wash Association",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.760044,30.375041,-97.760044,30.375041],
-  "geometry": {"coordinates":[-97.760044,30.375041],"type":"Point"}
+  "bbox": [
+    -97.760044,
+    30.375041,
+    -97.760044,
+    30.375041
+],
+  "geometry": {"coordinates":[-97.76004399999999,30.375041],"type":"Point"}
 }

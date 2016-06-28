@@ -2,13 +2,14 @@
   "id": 236110237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.666384,29.699157,-95.666384,29.699157",
     "geom:latitude":29.699157,
     "geom:longitude":-95.666384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16002 Mendocino Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236110237,
-    "wof:lastmodified":1449002580,
+    "wof:lastmodified":1467083913,
     "wof:name":"Tennyson Electrical Servi",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.666384,29.699157,-95.666384,29.699157],
-  "geometry": {"coordinates":[-95.666384,29.699157],"type":"Point"}
+  "bbox": [
+    -95.666384,
+    29.699157,
+    -95.666384,
+    29.699157
+],
+  "geometry": {"coordinates":[-95.66638399999999,29.699157],"type":"Point"}
 }

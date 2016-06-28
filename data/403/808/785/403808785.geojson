@@ -2,13 +2,14 @@
   "id": 403808785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.235442,26.198624,-98.235442,26.198624",
     "geom:latitude":26.198624,
     "geom:longitude":-98.235442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Main St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403808785,
-    "wof:lastmodified":1449054684,
+    "wof:lastmodified":1467084751,
     "wof:name":"Boot Jack",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-98.235442,26.198624,-98.235442,26.198624],
-  "geometry": {"coordinates":[-98.235442,26.198624],"type":"Point"}
+  "bbox": [
+    -98.235442,
+    26.198624,
+    -98.235442,
+    26.198624
+],
+  "geometry": {"coordinates":[-98.23544200000001,26.198624],"type":"Point"}
 }

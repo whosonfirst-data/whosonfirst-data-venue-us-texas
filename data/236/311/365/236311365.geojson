@@ -2,13 +2,14 @@
   "id": 236311365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.799281,30.270611,-97.799281,30.270611",
     "geom:latitude":30.270611,
     "geom:longitude":-97.799281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Honey Tree Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236311365,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1467083896,
     "wof:name":"C&D American Offshore Pow",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.799281,30.270611,-97.799281,30.270611],
-  "geometry": {"coordinates":[-97.799281,30.270611],"type":"Point"}
+  "bbox": [
+    -97.799281,
+    30.270611,
+    -97.799281,
+    30.270611
+],
+  "geometry": {"coordinates":[-97.79928099999999,30.270611],"type":"Point"}
 }

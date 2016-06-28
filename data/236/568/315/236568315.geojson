@@ -2,13 +2,14 @@
   "id": 236568315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.605593,33.011265,-96.605593,33.011265",
     "geom:latitude":33.011265,
     "geom:longitude":-96.605593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E Fm 544 Ste 110",
     "sg:city":"Murphy",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":236568315,
-    "wof:lastmodified":1449001621,
+    "wof:lastmodified":1467083850,
     "wof:name":"Subway",
     "wof:parent_id":85877695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-96.605593,33.011265,-96.605593,33.011265],
+  "bbox": [
+    -96.605593,
+    33.011265,
+    -96.605593,
+    33.011265
+],
   "geometry": {"coordinates":[-96.605593,33.011265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236785423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80043,32.783649,-96.80043,32.783649",
     "geom:latitude":32.783649,
     "geom:longitude":-96.80043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Akard St Ste 14",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236785423,
-    "wof:lastmodified":1449004565,
+    "wof:lastmodified":1467084006,
     "wof:name":"Southwstrn Elec Serv Company",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-96.80043,32.783649,-96.80043,32.783649],
-  "geometry": {"coordinates":[-96.80043,32.783649],"type":"Point"}
+  "bbox": [
+    -96.80043,
+    32.783649,
+    -96.80043,
+    32.783649
+],
+  "geometry": {"coordinates":[-96.80043000000001,32.783649],"type":"Point"}
 }

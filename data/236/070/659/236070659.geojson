@@ -2,13 +2,14 @@
   "id": 236070659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.292352,32.624393,-97.292352,32.624393",
     "geom:latitude":32.624393,
     "geom:longitude":-97.292352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Russell Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236070659,
-    "wof:lastmodified":1449003218,
+    "wof:lastmodified":1467083943,
     "wof:name":"Friends of Everman Library",
     "wof:parent_id":85871545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.292352,32.624393,-97.292352,32.624393],
-  "geometry": {"coordinates":[-97.292352,32.624393],"type":"Point"}
+  "bbox": [
+    -97.292352,
+    32.624393,
+    -97.292352,
+    32.624393
+],
+  "geometry": {"coordinates":[-97.29235199999999,32.624393],"type":"Point"}
 }

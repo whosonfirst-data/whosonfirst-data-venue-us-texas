@@ -2,13 +2,14 @@
   "id": 371105713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.003652,32.709694,-97.003652,32.709694",
     "geom:latitude":32.709694,
     "geom:longitude":-97.003652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Oak Ln",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371105713,
-    "wof:lastmodified":1449049420,
+    "wof:lastmodified":1467084677,
     "wof:name":"Transcar Transport",
     "wof:parent_id":85829447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporter"
     ]
 },
-  "bbox": [-97.003652,32.709694,-97.003652,32.709694],
+  "bbox": [
+    -97.003652,
+    32.709694,
+    -97.003652,
+    32.709694
+],
   "geometry": {"coordinates":[-97.003652,32.709694],"type":"Point"}
 }

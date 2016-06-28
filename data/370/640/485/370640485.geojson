@@ -2,13 +2,14 @@
   "id": 370640485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.888085,35.191906,-101.888085,35.191906",
     "geom:latitude":35.191906,
     "geom:longitude":-101.888085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Interstate Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370640485,
-    "wof:lastmodified":1449030558,
+    "wof:lastmodified":1467084506,
     "wof:name":"West Texas Therapeutic Center",
     "wof:parent_id":85875861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-101.888085,35.191906,-101.888085,35.191906],
+  "bbox": [
+    -101.888085,
+    35.191906,
+    -101.888085,
+    35.191906
+],
   "geometry": {"coordinates":[-101.888085,35.191906],"type":"Point"}
 }

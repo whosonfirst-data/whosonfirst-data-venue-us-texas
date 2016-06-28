@@ -2,13 +2,14 @@
   "id": 203333977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.343686,32.728319,-97.343686,32.728319",
     "geom:latitude":32.728319,
     "geom:longitude":-97.343686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 8th Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203333977,
-    "wof:lastmodified":1449026745,
+    "wof:lastmodified":1467084419,
     "wof:name":"Tarrant Pathology Associates",
     "wof:parent_id":85871537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-97.343686,32.728319,-97.343686,32.728319],
-  "geometry": {"coordinates":[-97.343686,32.728319],"type":"Point"}
+  "bbox": [
+    -97.343686,
+    32.728319,
+    -97.343686,
+    32.728319
+],
+  "geometry": {"coordinates":[-97.34368600000001,32.728319],"type":"Point"}
 }

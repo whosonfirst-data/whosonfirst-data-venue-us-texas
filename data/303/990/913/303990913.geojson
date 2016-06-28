@@ -2,13 +2,14 @@
   "id": 303990913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.806328,33.546181,-101.806328,33.546181",
     "geom:latitude":33.546181,
     "geom:longitude":-101.806328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 E 53rd St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303990913,
-    "wof:lastmodified":1448999754,
+    "wof:lastmodified":1467083773,
     "wof:name":"Woody Tire Company, Inc.",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tire"
     ]
 },
-  "bbox": [-101.806328,33.546181,-101.806328,33.546181],
-  "geometry": {"coordinates":[-101.806328,33.546181],"type":"Point"}
+  "bbox": [
+    -101.806328,
+    33.546181,
+    -101.806328,
+    33.546181
+],
+  "geometry": {"coordinates":[-101.80632799999999,33.546181],"type":"Point"}
 }

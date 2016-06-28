@@ -2,13 +2,14 @@
   "id": 220055587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.753599,32.573018,-94.753599,32.573018",
     "geom:latitude":32.573018,
     "geom:longitude":-94.753599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 Judson Rd",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220055587,
-    "wof:lastmodified":1449074218,
+    "wof:lastmodified":1467085181,
     "wof:name":"Judson Road Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.753599,32.573018,-94.753599,32.573018],
-  "geometry": {"coordinates":[-94.753599,32.573018],"type":"Point"}
+  "bbox": [
+    -94.753599,
+    32.573018,
+    -94.753599,
+    32.573018
+],
+  "geometry": {"coordinates":[-94.75359899999999,32.573018],"type":"Point"}
 }

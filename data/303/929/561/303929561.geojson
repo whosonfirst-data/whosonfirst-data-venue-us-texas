@@ -2,13 +2,14 @@
   "id": 303929561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.781343,35.187431,-101.781343,35.187431",
     "geom:latitude":35.187431,
     "geom:longitude":-101.781343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4831 SE 25th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":303929561,
-    "wof:lastmodified":1448999054,
+    "wof:lastmodified":1467083738,
     "wof:name":"Allied Waste Services of Amarillo",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "waste"
     ]
 },
-  "bbox": [-101.781343,35.187431,-101.781343,35.187431],
-  "geometry": {"coordinates":[-101.781343,35.187431],"type":"Point"}
+  "bbox": [
+    -101.781343,
+    35.187431,
+    -101.781343,
+    35.187431
+],
+  "geometry": {"coordinates":[-101.78134300000001,35.187431],"type":"Point"}
 }

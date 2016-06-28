@@ -2,13 +2,14 @@
   "id": 337401483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.793157,30.260202,-97.793157,30.260202",
     "geom:latitude":30.260202,
     "geom:longitude":-97.793157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 S Mo Pac Expressway Suite 300",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337401483,
-    "wof:lastmodified":1449027624,
+    "wof:lastmodified":1467084452,
     "wof:name":"Davis & Wilkerson PC",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.793157,30.260202,-97.793157,30.260202],
-  "geometry": {"coordinates":[-97.793157,30.260202],"type":"Point"}
+  "bbox": [
+    -97.793157,
+    30.260202,
+    -97.793157,
+    30.260202
+],
+  "geometry": {"coordinates":[-97.79315699999999,30.260202],"type":"Point"}
 }

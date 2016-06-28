@@ -2,13 +2,14 @@
   "id": 354270283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416114,29.503389,-98.416114,29.503389",
     "geom:latitude":29.503389,
     "geom:longitude":-98.416114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Lanark Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354270283,
-    "wof:lastmodified":1449066242,
+    "wof:lastmodified":1467085059,
     "wof:name":"Summit Lighthouse",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.416114,29.503389,-98.416114,29.503389],
-  "geometry": {"coordinates":[-98.416114,29.503389],"type":"Point"}
+  "bbox": [
+    -98.416114,
+    29.503389,
+    -98.416114,
+    29.503389
+],
+  "geometry": {"coordinates":[-98.41611399999999,29.503389],"type":"Point"}
 }

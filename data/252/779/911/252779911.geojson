@@ -2,13 +2,14 @@
   "id": 252779911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.653979,32.6791,-96.653979,32.6791",
     "geom:latitude":32.6791,
     "geom:longitude":-96.653979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9745 Labett St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252779911,
-    "wof:lastmodified":1449005576,
+    "wof:lastmodified":1467084057,
     "wof:name":"Dallas Jocs",
     "wof:parent_id":85846533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.653979,32.6791,-96.653979,32.6791],
-  "geometry": {"coordinates":[-96.653979,32.6791],"type":"Point"}
+  "bbox": [
+    -96.653979,
+    32.6791,
+    -96.653979,
+    32.6791
+],
+  "geometry": {"coordinates":[-96.65397900000001,32.6791],"type":"Point"}
 }

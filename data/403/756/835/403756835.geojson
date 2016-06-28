@@ -2,13 +2,14 @@
   "id": 403756835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.059031,32.225401,-95.059031,32.225401",
     "geom:latitude":32.225401,
     "geom:longitude":-95.059031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Main St",
     "sg:city":"Arp",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403756835,
-    "wof:lastmodified":1449055441,
+    "wof:lastmodified":1467084768,
     "wof:name":"Arp's Food Store",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.059031,32.225401,-95.059031,32.225401],
+  "bbox": [
+    -95.059031,
+    32.225401,
+    -95.059031,
+    32.225401
+],
   "geometry": {"coordinates":[-95.059031,32.225401],"type":"Point"}
 }

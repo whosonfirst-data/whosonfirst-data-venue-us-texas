@@ -2,13 +2,14 @@
   "id": 236603369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.441324,32.290108,-101.441324,32.290108",
     "geom:latitude":32.290108,
     "geom:longitude":-101.441324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 S Anderson Rd",
     "sg:city":"Big Spring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236603369,
-    "wof:lastmodified":1449004637,
+    "wof:lastmodified":1467084010,
     "wof:name":"Belew Water Well Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-101.441324,32.290108,-101.441324,32.290108],
-  "geometry": {"coordinates":[-101.441324,32.290108],"type":"Point"}
+  "bbox": [
+    -101.441324,
+    32.290108,
+    -101.441324,
+    32.290108
+],
+  "geometry": {"coordinates":[-101.44132399999999,32.290108],"type":"Point"}
 }

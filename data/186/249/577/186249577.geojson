@@ -2,13 +2,14 @@
   "id": 186249577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.591864,29.479686,-98.591864,29.479686",
     "geom:latitude":29.479686,
     "geom:longitude":-98.591864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5409 Bandera Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186249577,
-    "wof:lastmodified":1449050408,
+    "wof:lastmodified":1467084695,
     "wof:name":"Vineyard Church Of San Antonio",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.591864,29.479686,-98.591864,29.479686],
+  "bbox": [
+    -98.591864,
+    29.479686,
+    -98.591864,
+    29.479686
+],
   "geometry": {"coordinates":[-98.591864,29.479686],"type":"Point"}
 }

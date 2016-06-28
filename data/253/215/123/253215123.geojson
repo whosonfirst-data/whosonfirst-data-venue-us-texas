@@ -2,13 +2,14 @@
   "id": 253215123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.859964,33.48001,-101.859964,33.48001",
     "geom:latitude":33.48001,
     "geom:longitude":-101.859964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 126th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253215123,
-    "wof:lastmodified":1449065247,
+    "wof:lastmodified":1467085028,
     "wof:name":"Right Way Construction",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-101.859964,33.48001,-101.859964,33.48001],
-  "geometry": {"coordinates":[-101.859964,33.48001],"type":"Point"}
+  "bbox": [
+    -101.859964,
+    33.48001,
+    -101.859964,
+    33.48001
+],
+  "geometry": {"coordinates":[-101.85996400000001,33.48001],"type":"Point"}
 }

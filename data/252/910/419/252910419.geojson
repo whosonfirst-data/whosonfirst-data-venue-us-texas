@@ -2,13 +2,14 @@
   "id": 252910419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384075,32.347234,-97.384075,32.347234",
     "geom:latitude":32.347234,
     "geom:longitude":-97.384075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Chambers St",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252910419,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1467084073,
     "wof:name":"Tri State Delivery",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.384075,32.347234,-97.384075,32.347234],
+  "bbox": [
+    -97.384075,
+    32.347234,
+    -97.384075,
+    32.347234
+],
   "geometry": {"coordinates":[-97.384075,32.347234],"type":"Point"}
 }

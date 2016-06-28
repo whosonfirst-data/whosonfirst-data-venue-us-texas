@@ -2,13 +2,14 @@
   "id": 253148359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747054,32.9309,-96.747054,32.9309",
     "geom:latitude":32.9309,
     "geom:longitude":-96.747054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13405 Floyd Cir",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253148359,
-    "wof:lastmodified":1449065302,
+    "wof:lastmodified":1467085030,
     "wof:name":"North Central Mortgage",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.747054,32.9309,-96.747054,32.9309],
-  "geometry": {"coordinates":[-96.747054,32.9309],"type":"Point"}
+  "bbox": [
+    -96.747054,
+    32.9309,
+    -96.747054,
+    32.9309
+],
+  "geometry": {"coordinates":[-96.74705400000001,32.9309],"type":"Point"}
 }

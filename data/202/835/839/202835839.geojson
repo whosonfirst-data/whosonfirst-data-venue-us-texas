@@ -2,13 +2,14 @@
   "id": 202835839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.01673,33.119819,-97.01673,33.119819",
     "geom:latitude":33.119819,
     "geom:longitude":-97.01673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Thompson Dr",
     "sg:city":"Lake Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202835839,
-    "wof:lastmodified":1449060469,
+    "wof:lastmodified":1467084895,
     "wof:name":"Love Notes Press",
     "wof:parent_id":85893649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-97.01673,33.119819,-97.01673,33.119819],
+  "bbox": [
+    -97.01673,
+    33.119819,
+    -97.01673,
+    33.119819
+],
   "geometry": {"coordinates":[-97.01673,33.119819],"type":"Point"}
 }

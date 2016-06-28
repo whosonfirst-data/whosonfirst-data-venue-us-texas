@@ -2,13 +2,14 @@
   "id": 404135187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.610003,32.768222,-96.610003,32.768222",
     "geom:latitude":32.768222,
     "geom:longitude":-96.610003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Scyene Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404135187,
-    "wof:lastmodified":1449039492,
+    "wof:lastmodified":1467084647,
     "wof:name":"West Mesquite High School",
     "wof:parent_id":85878895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.610003,32.768222,-96.610003,32.768222],
-  "geometry": {"coordinates":[-96.610003,32.768222],"type":"Point"}
+  "bbox": [
+    -96.610003,
+    32.768222,
+    -96.610003,
+    32.768222
+],
+  "geometry": {"coordinates":[-96.61000300000001,32.768222],"type":"Point"}
 }

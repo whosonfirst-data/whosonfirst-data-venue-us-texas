@@ -2,13 +2,14 @@
   "id": 303955243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.341118,33.982101,-101.341118,33.982101",
     "geom:latitude":33.982101,
     "geom:longitude":-101.341118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Kentucky St",
     "sg:city":"Floydada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303955243,
-    "wof:lastmodified":1448999813,
+    "wof:lastmodified":1467083776,
     "wof:name":"Bunkhouse Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.341118,33.982101,-101.341118,33.982101],
-  "geometry": {"coordinates":[-101.341118,33.982101],"type":"Point"}
+  "bbox": [
+    -101.341118,
+    33.982101,
+    -101.341118,
+    33.982101
+],
+  "geometry": {"coordinates":[-101.34111799999999,33.982101],"type":"Point"}
 }

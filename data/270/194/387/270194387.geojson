@@ -2,13 +2,14 @@
   "id": 270194387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.233803,29.645399,-95.233803,29.645399",
     "geom:latitude":29.645399,
     "geom:longitude":-95.233803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Edgebrook Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270194387,
-    "wof:lastmodified":1449010733,
+    "wof:lastmodified":1467084219,
     "wof:name":"World Tailor and Alterations",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alteration"
     ]
 },
-  "bbox": [-95.233803,29.645399,-95.233803,29.645399],
-  "geometry": {"coordinates":[-95.233803,29.645399],"type":"Point"}
+  "bbox": [
+    -95.233803,
+    29.645399,
+    -95.233803,
+    29.645399
+],
+  "geometry": {"coordinates":[-95.23380299999999,29.645399],"type":"Point"}
 }

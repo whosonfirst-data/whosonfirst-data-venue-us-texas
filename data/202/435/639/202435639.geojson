@@ -2,13 +2,14 @@
   "id": 202435639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.763759,30.334075,-97.763759,30.334075",
     "geom:latitude":30.334075,
     "geom:longitude":-97.763759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Westview Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202435639,
-    "wof:lastmodified":1449062419,
+    "wof:lastmodified":1467084936,
     "wof:name":"Adams & Assoc",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.763759,30.334075,-97.763759,30.334075],
-  "geometry": {"coordinates":[-97.763759,30.334075],"type":"Point"}
+  "bbox": [
+    -97.763759,
+    30.334075,
+    -97.763759,
+    30.334075
+],
+  "geometry": {"coordinates":[-97.76375899999999,30.334075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370819235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.454394,32.666867,-97.454394,32.666867",
     "geom:latitude":32.666867,
     "geom:longitude":-97.454394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Cozby St E",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370819235,
-    "wof:lastmodified":1449029896,
+    "wof:lastmodified":1467084489,
     "wof:name":"Rich Photo",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.454394,32.666867,-97.454394,32.666867],
-  "geometry": {"coordinates":[-97.454394,32.666867],"type":"Point"}
+  "bbox": [
+    -97.454394,
+    32.666867,
+    -97.454394,
+    32.666867
+],
+  "geometry": {"coordinates":[-97.45439399999999,32.666867],"type":"Point"}
 }

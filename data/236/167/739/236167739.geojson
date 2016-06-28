@@ -2,13 +2,14 @@
   "id": 236167739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.189945,30.268304,-94.189945,30.268304",
     "geom:latitude":30.268304,
     "geom:longitude":-94.189945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Hawn Dr",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236167739,
-    "wof:lastmodified":1449003350,
+    "wof:lastmodified":1467083949,
     "wof:name":"Hawn's Gunsmithing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-94.189945,30.268304,-94.189945,30.268304],
-  "geometry": {"coordinates":[-94.189945,30.268304],"type":"Point"}
+  "bbox": [
+    -94.189945,
+    30.268304,
+    -94.189945,
+    30.268304
+],
+  "geometry": {"coordinates":[-94.18994499999999,30.268304],"type":"Point"}
 }

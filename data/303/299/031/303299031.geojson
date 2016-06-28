@@ -2,13 +2,14 @@
   "id": 303299031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750234,30.277563,-97.750234,30.277563",
     "geom:latitude":30.277563,
     "geom:longitude":-97.750234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Shoal Creek Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303299031,
-    "wof:lastmodified":1448998733,
+    "wof:lastmodified":1467083722,
     "wof:name":"House Park Stadium",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.750234,30.277563,-97.750234,30.277563],
-  "geometry": {"coordinates":[-97.750234,30.277563],"type":"Point"}
+  "bbox": [
+    -97.750234,
+    30.277563,
+    -97.750234,
+    30.277563
+],
+  "geometry": {"coordinates":[-97.75023400000001,30.277563],"type":"Point"}
 }

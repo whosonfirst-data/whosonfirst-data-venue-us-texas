@@ -2,13 +2,14 @@
   "id": 219966167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.031097,29.559851,-95.031097,29.559851",
     "geom:latitude":29.559851,
     "geom:longitude":-95.031097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lakewood Ln",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219966167,
-    "wof:lastmodified":1449070395,
+    "wof:lastmodified":1467085100,
     "wof:name":"Physician Time Management Svc",
     "wof:parent_id":85821673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.031097,29.559851,-95.031097,29.559851],
+  "bbox": [
+    -95.031097,
+    29.559851,
+    -95.031097,
+    29.559851
+],
   "geometry": {"coordinates":[-95.031097,29.559851],"type":"Point"}
 }

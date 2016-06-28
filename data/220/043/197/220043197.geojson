@@ -2,13 +2,14 @@
   "id": 220043197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747796,30.255296,-97.747796,30.255296",
     "geom:latitude":30.255296,
     "geom:longitude":-97.747796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220043197,
-    "wof:lastmodified":1449074647,
+    "wof:lastmodified":1467085190,
     "wof:name":"Legislative Library",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interest"
     ]
 },
-  "bbox": [-97.747796,30.255296,-97.747796,30.255296],
-  "geometry": {"coordinates":[-97.747796,30.255296],"type":"Point"}
+  "bbox": [
+    -97.747796,
+    30.255296,
+    -97.747796,
+    30.255296
+],
+  "geometry": {"coordinates":[-97.74779599999999,30.255296],"type":"Point"}
 }

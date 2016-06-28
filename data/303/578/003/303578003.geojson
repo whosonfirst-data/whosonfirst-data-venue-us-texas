@@ -2,13 +2,14 @@
   "id": 303578003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764333,30.20035,-97.764333,30.20035",
     "geom:latitude":30.20035,
     "geom:longitude":-97.764333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 S I H 35 #C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303578003,
-    "wof:lastmodified":1448998731,
+    "wof:lastmodified":1467083721,
     "wof:name":"Funny Bone Defensive Driving",
     "wof:parent_id":85869971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-97.764333,30.20035,-97.764333,30.20035],
-  "geometry": {"coordinates":[-97.764333,30.20035],"type":"Point"}
+  "bbox": [
+    -97.764333,
+    30.20035,
+    -97.764333,
+    30.20035
+],
+  "geometry": {"coordinates":[-97.76433299999999,30.20035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219779707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677856,30.451399,-97.677856,30.451399",
     "geom:latitude":30.451399,
     "geom:longitude":-97.677856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Fuzz Fairway",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219779707,
-    "wof:lastmodified":1449070932,
+    "wof:lastmodified":1467085111,
     "wof:name":"World of Atheltics",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.677856,30.451399,-97.677856,30.451399],
-  "geometry": {"coordinates":[-97.677856,30.451399],"type":"Point"}
+  "bbox": [
+    -97.677856,
+    30.451399,
+    -97.677856,
+    30.451399
+],
+  "geometry": {"coordinates":[-97.67785600000001,30.451399],"type":"Point"}
 }

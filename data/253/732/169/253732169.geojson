@@ -2,13 +2,14 @@
   "id": 253732169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.181717,32.26305,-97.181717,32.26305",
     "geom:latitude":32.26305,
     "geom:longitude":-97.181717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Pecan St Apt 18",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253732169,
-    "wof:lastmodified":1449065890,
+    "wof:lastmodified":1467085050,
     "wof:name":"Pecan Tree Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-97.181717,32.26305,-97.181717,32.26305],
-  "geometry": {"coordinates":[-97.181717,32.26305],"type":"Point"}
+  "bbox": [
+    -97.181717,
+    32.26305,
+    -97.181717,
+    32.26305
+],
+  "geometry": {"coordinates":[-97.18171700000001,32.26305],"type":"Point"}
 }

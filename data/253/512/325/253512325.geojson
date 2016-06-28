@@ -2,13 +2,14 @@
   "id": 253512325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.249497,32.295346,-95.249497,32.295346",
     "geom:latitude":32.295346,
     "geom:longitude":-95.249497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 Shiloh Rd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253512325,
-    "wof:lastmodified":1449064978,
+    "wof:lastmodified":1467085019,
     "wof:name":"Tyler Building Systems L.P.",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.249497,32.295346,-95.249497,32.295346],
-  "geometry": {"coordinates":[-95.249497,32.295346],"type":"Point"}
+  "bbox": [
+    -95.249497,
+    32.295346,
+    -95.249497,
+    32.295346
+],
+  "geometry": {"coordinates":[-95.24949700000001,32.295346],"type":"Point"}
 }

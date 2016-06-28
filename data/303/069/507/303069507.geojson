@@ -2,13 +2,14 @@
   "id": 303069507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.232177,30.75746,-98.232177,30.75746",
     "geom:latitude":30.75746,
     "geom:longitude":-98.232177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Buchanan Dr Ste 11",
     "sg:city":"Burnet",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303069507,
-    "wof:lastmodified":1448999662,
+    "wof:lastmodified":1467083769,
     "wof:name":"Highlander Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "hall"
     ]
 },
-  "bbox": [-98.232177,30.75746,-98.232177,30.75746],
-  "geometry": {"coordinates":[-98.232177,30.75746],"type":"Point"}
+  "bbox": [
+    -98.232177,
+    30.75746,
+    -98.232177,
+    30.75746
+],
+  "geometry": {"coordinates":[-98.23217699999999,30.75746],"type":"Point"}
 }

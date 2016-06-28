@@ -2,13 +2,14 @@
   "id": 403948887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456251,32.713998,-97.456251,32.713998",
     "geom:latitude":32.713998,
     "geom:longitude":-97.456251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Sagebrush Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403948887,
-    "wof:lastmodified":1449055686,
+    "wof:lastmodified":1467084774,
     "wof:name":"Roger T Hunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.456251,32.713998,-97.456251,32.713998],
-  "geometry": {"coordinates":[-97.456251,32.713998],"type":"Point"}
+  "bbox": [
+    -97.456251,
+    32.713998,
+    -97.456251,
+    32.713998
+],
+  "geometry": {"coordinates":[-97.45625099999999,32.713998],"type":"Point"}
 }

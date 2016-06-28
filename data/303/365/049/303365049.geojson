@@ -2,13 +2,14 @@
   "id": 303365049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734744,30.301096,-97.734744,30.301096",
     "geom:latitude":30.301096,
     "geom:longitude":-97.734744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W 38th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303365049,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1467083711,
     "wof:name":"Everyday Property Service",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.734744,30.301096,-97.734744,30.301096],
-  "geometry": {"coordinates":[-97.734744,30.301096],"type":"Point"}
+  "bbox": [
+    -97.734744,
+    30.301096,
+    -97.734744,
+    30.301096
+],
+  "geometry": {"coordinates":[-97.73474400000001,30.301096],"type":"Point"}
 }

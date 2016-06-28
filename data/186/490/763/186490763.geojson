@@ -2,13 +2,14 @@
   "id": 186490763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.625028,29.419228,-98.625028,29.419228",
     "geom:latitude":29.419228,
     "geom:longitude":-98.625028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6807 Whitestone St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186490763,
-    "wof:lastmodified":1449052749,
+    "wof:lastmodified":1467084741,
     "wof:name":"Joe M Camacho",
     "wof:parent_id":85828981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-98.625028,29.419228,-98.625028,29.419228],
+  "bbox": [
+    -98.625028,
+    29.419228,
+    -98.625028,
+    29.419228
+],
   "geometry": {"coordinates":[-98.625028,29.419228],"type":"Point"}
 }

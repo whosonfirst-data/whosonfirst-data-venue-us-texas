@@ -2,13 +2,14 @@
   "id": 202391659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.484705,27.575961,-99.484705,27.575961",
     "geom:latitude":27.575961,
     "geom:longitude":-99.484705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Grove Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202391659,
-    "wof:lastmodified":1449061709,
+    "wof:lastmodified":1467084921,
     "wof:name":"Southern Contracting",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-99.484705,27.575961,-99.484705,27.575961],
-  "geometry": {"coordinates":[-99.484705,27.575961],"type":"Point"}
+  "bbox": [
+    -99.484705,
+    27.575961,
+    -99.484705,
+    27.575961
+],
+  "geometry": {"coordinates":[-99.48470500000001,27.575961],"type":"Point"}
 }

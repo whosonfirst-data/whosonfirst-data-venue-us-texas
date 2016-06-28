@@ -2,13 +2,14 @@
   "id": 303067945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.876285,30.097576,-97.876285,30.097576",
     "geom:latitude":30.097576,
     "geom:longitude":-97.876285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 FM 967 Ste B",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303067945,
-    "wof:lastmodified":1448998277,
+    "wof:lastmodified":1467083699,
     "wof:name":"Sonic Drive-in",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-97.876285,30.097576,-97.876285,30.097576],
+  "bbox": [
+    -97.876285,
+    30.097576,
+    -97.876285,
+    30.097576
+],
   "geometry": {"coordinates":[-97.876285,30.097576],"type":"Point"}
 }

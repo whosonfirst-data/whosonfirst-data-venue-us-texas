@@ -2,13 +2,14 @@
   "id": 220100869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.147986,31.548387,-97.147986,31.548387",
     "geom:latitude":31.548387,
     "geom:longitude":-97.147986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 W Waco Dr",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220100869,
-    "wof:lastmodified":1449074641,
+    "wof:lastmodified":1467085190,
     "wof:name":"Shipley Do-Nuts",
     "wof:parent_id":85881765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-97.147986,31.548387,-97.147986,31.548387],
+  "bbox": [
+    -97.147986,
+    31.548387,
+    -97.147986,
+    31.548387
+],
   "geometry": {"coordinates":[-97.147986,31.548387],"type":"Point"}
 }

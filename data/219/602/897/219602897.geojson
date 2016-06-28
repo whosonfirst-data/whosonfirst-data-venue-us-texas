@@ -2,13 +2,14 @@
   "id": 219602897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.391335,32.587689,-96.391335,32.587689",
     "geom:latitude":32.587689,
     "geom:longitude":-96.391335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8740 Co Rd 4116",
     "sg:city":"Kaufman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219602897,
-    "wof:lastmodified":1449072052,
+    "wof:lastmodified":1467085135,
     "wof:name":"David Trail",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-96.391335,32.587689,-96.391335,32.587689],
+  "bbox": [
+    -96.391335,
+    32.587689,
+    -96.391335,
+    32.587689
+],
   "geometry": {"coordinates":[-96.391335,32.587689],"type":"Point"}
 }

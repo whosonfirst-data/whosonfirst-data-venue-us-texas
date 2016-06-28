@@ -2,13 +2,14 @@
   "id": 403702079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.237366,30.74907,-99.237366,30.74907",
     "geom:latitude":30.74907,
     "geom:longitude":-99.237366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 el Paso St",
     "sg:city":"Mason",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403702079,
-    "wof:lastmodified":1449055303,
+    "wof:lastmodified":1467084765,
     "wof:name":"Beefmasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-99.237366,30.74907,-99.237366,30.74907],
-  "geometry": {"coordinates":[-99.237366,30.74907],"type":"Point"}
+  "bbox": [
+    -99.237366,
+    30.74907,
+    -99.237366,
+    30.74907
+],
+  "geometry": {"coordinates":[-99.23736599999999,30.74907],"type":"Point"}
 }

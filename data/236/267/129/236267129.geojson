@@ -2,13 +2,14 @@
   "id": 236267129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663559,32.919965,-96.663559,32.919965",
     "geom:latitude":32.919965,
     "geom:longitude":-96.663559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Walter Reed Blvd Ste 200",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236267129,
-    "wof:lastmodified":1449004892,
+    "wof:lastmodified":1467084022,
     "wof:name":"Audiology Center of Garland",
     "wof:parent_id":85877699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "hearing"
     ]
 },
-  "bbox": [-96.663559,32.919965,-96.663559,32.919965],
-  "geometry": {"coordinates":[-96.663559,32.919965],"type":"Point"}
+  "bbox": [
+    -96.663559,
+    32.919965,
+    -96.663559,
+    32.919965
+],
+  "geometry": {"coordinates":[-96.66355900000001,32.919965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353505575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.914656,32.895649,-96.914656,32.895649",
     "geom:latitude":32.895649,
     "geom:longitude":-96.914656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11431 Ferrell Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353505575,
-    "wof:lastmodified":1449020403,
+    "wof:lastmodified":1467084368,
     "wof:name":"Shred-It Dallas Inc",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.914656,32.895649,-96.914656,32.895649],
-  "geometry": {"coordinates":[-96.914656,32.895649],"type":"Point"}
+  "bbox": [
+    -96.914656,
+    32.895649,
+    -96.914656,
+    32.895649
+],
+  "geometry": {"coordinates":[-96.91465599999999,32.895649],"type":"Point"}
 }

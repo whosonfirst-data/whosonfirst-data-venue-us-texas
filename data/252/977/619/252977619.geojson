@@ -2,13 +2,14 @@
   "id": 252977619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773694,32.868963,-96.773694,32.868963",
     "geom:latitude":32.868963,
     "geom:longitude":-96.773694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"North Park Suite 1432 8687 N Central Expressway",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252977619,
-    "wof:lastmodified":1449006545,
+    "wof:lastmodified":1467084110,
     "wof:name":"Ted Baker",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.773694,32.868963,-96.773694,32.868963],
-  "geometry": {"coordinates":[-96.773694,32.868963],"type":"Point"}
+  "bbox": [
+    -96.773694,
+    32.868963,
+    -96.773694,
+    32.868963
+],
+  "geometry": {"coordinates":[-96.77369400000001,32.868963],"type":"Point"}
 }

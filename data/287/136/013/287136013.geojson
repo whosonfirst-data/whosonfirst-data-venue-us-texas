@@ -2,13 +2,14 @@
   "id": 287136013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.451569,27.494517,-99.451569,27.494517",
     "geom:latitude":27.494517,
     "geom:longitude":-99.451569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 Loop 20 Ste 4",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":287136013,
-    "wof:lastmodified":1449001586,
+    "wof:lastmodified":1467083848,
     "wof:name":"Quik Rentals",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "store"
     ]
 },
-  "bbox": [-99.451569,27.494517,-99.451569,27.494517],
-  "geometry": {"coordinates":[-99.451569,27.494517],"type":"Point"}
+  "bbox": [
+    -99.451569,
+    27.494517,
+    -99.451569,
+    27.494517
+],
+  "geometry": {"coordinates":[-99.45156900000001,27.494517],"type":"Point"}
 }

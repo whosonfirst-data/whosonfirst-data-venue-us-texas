@@ -2,13 +2,14 @@
   "id": 370733331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.326895,34.15026,-99.326895,34.15026",
     "geom:latitude":34.15026,
     "geom:longitude":-99.326895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5215 College Dr",
     "sg:city":"Vernon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370733331,
-    "wof:lastmodified":1449029564,
+    "wof:lastmodified":1467084480,
     "wof:name":"Wilbarger County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-99.326895,34.15026,-99.326895,34.15026],
-  "geometry": {"coordinates":[-99.326895,34.15026],"type":"Point"}
+  "bbox": [
+    -99.326895,
+    34.15026,
+    -99.326895,
+    34.15026
+],
+  "geometry": {"coordinates":[-99.32689499999999,34.15026],"type":"Point"}
 }

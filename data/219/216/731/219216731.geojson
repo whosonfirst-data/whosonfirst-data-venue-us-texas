@@ -2,13 +2,14 @@
   "id": 219216731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.494363,29.820668,-95.494363,29.820668",
     "geom:latitude":29.820668,
     "geom:longitude":-95.494363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 Blankenship Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219216731,
-    "wof:lastmodified":1449073519,
+    "wof:lastmodified":1467085166,
     "wof:name":"American Welding Alloys",
     "wof:parent_id":85869401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [-95.494363,29.820668,-95.494363,29.820668],
-  "geometry": {"coordinates":[-95.494363,29.820668],"type":"Point"}
+  "bbox": [
+    -95.494363,
+    29.820668,
+    -95.494363,
+    29.820668
+],
+  "geometry": {"coordinates":[-95.49436300000001,29.820668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236841229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805122,32.792118,-96.805122,32.792118",
     "geom:latitude":32.792118,
     "geom:longitude":-96.805122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Mckinnon St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236841229,
-    "wof:lastmodified":1449002198,
+    "wof:lastmodified":1467083892,
     "wof:name":"Open Realty Advisors",
     "wof:parent_id":85870441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "broker"
     ]
 },
-  "bbox": [-96.805122,32.792118,-96.805122,32.792118],
+  "bbox": [
+    -96.805122,
+    32.792118,
+    -96.805122,
+    32.792118
+],
   "geometry": {"coordinates":[-96.805122,32.792118],"type":"Point"}
 }

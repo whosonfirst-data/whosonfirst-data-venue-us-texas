@@ -2,13 +2,14 @@
   "id": 286372055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473351,29.814608,-95.473351,29.814608",
     "geom:latitude":29.814608,
     "geom:longitude":-95.473351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3044 Antoine Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286372055,
-    "wof:lastmodified":1449016985,
+    "wof:lastmodified":1467084286,
     "wof:name":"Elite Pharmacy",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.473351,29.814608,-95.473351,29.814608],
-  "geometry": {"coordinates":[-95.473351,29.814608],"type":"Point"}
+  "bbox": [
+    -95.473351,
+    29.814608,
+    -95.473351,
+    29.814608
+],
+  "geometry": {"coordinates":[-95.47335099999999,29.814608],"type":"Point"}
 }

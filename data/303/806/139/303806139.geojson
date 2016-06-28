@@ -2,13 +2,14 @@
   "id": 303806139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743596,30.415773,-97.743596,30.415773",
     "geom:latitude":30.415773,
     "geom:longitude":-97.743596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 Thunder Creek Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303806139,
-    "wof:lastmodified":1448998108,
+    "wof:lastmodified":1467083690,
     "wof:name":"Keystone",
     "wof:parent_id":85893531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.743596,30.415773,-97.743596,30.415773],
+  "bbox": [
+    -97.743596,
+    30.415773,
+    -97.743596,
+    30.415773
+],
   "geometry": {"coordinates":[-97.743596,30.415773],"type":"Point"}
 }

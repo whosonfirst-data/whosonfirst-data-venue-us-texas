@@ -2,13 +2,14 @@
   "id": 370610203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.421034,30.020265,-95.421034,30.020265",
     "geom:latitude":30.020265,
     "geom:longitude":-95.421034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Bammel Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370610203,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1467084553,
     "wof:name":"Insurance Offices-Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.421034,30.020265,-95.421034,30.020265],
-  "geometry": {"coordinates":[-95.421034,30.020265],"type":"Point"}
+  "bbox": [
+    -95.421034,
+    30.020265,
+    -95.421034,
+    30.020265
+],
+  "geometry": {"coordinates":[-95.42103400000001,30.020265],"type":"Point"}
 }

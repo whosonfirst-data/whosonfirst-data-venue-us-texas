@@ -2,13 +2,14 @@
   "id": 303403915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629419,30.270463,-97.629419,30.270463",
     "geom:latitude":30.270463,
     "geom:longitude":-97.629419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 FM 969",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303403915,
-    "wof:lastmodified":1449000220,
+    "wof:lastmodified":1467083796,
     "wof:name":"Custom Construction & Remodeling",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.629419,30.270463,-97.629419,30.270463],
+  "bbox": [
+    -97.629419,
+    30.270463,
+    -97.629419,
+    30.270463
+],
   "geometry": {"coordinates":[-97.629419,30.270463],"type":"Point"}
 }

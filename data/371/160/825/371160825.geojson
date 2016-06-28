@@ -2,13 +2,14 @@
   "id": 371160825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.483809,31.757948,-106.483809,31.757948",
     "geom:latitude":31.757948,
     "geom:longitude":-106.483809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 E Overland Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371160825,
-    "wof:lastmodified":1449049953,
+    "wof:lastmodified":1467084687,
     "wof:name":"Davis Investigations",
     "wof:parent_id":85871375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.483809,31.757948,-106.483809,31.757948],
-  "geometry": {"coordinates":[-106.483809,31.757948],"type":"Point"}
+  "bbox": [
+    -106.483809,
+    31.757948,
+    -106.483809,
+    31.757948
+],
+  "geometry": {"coordinates":[-106.48380899999999,31.757948],"type":"Point"}
 }

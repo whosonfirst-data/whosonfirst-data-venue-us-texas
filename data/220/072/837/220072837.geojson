@@ -2,13 +2,14 @@
   "id": 220072837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359114,29.735423,-95.359114,29.735423",
     "geom:latitude":29.735423,
     "geom:longitude":-95.359114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Delano St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220072837,
-    "wof:lastmodified":1449074468,
+    "wof:lastmodified":1467085187,
     "wof:name":"Mary's Cleaning Svc",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-95.359114,29.735423,-95.359114,29.735423],
-  "geometry": {"coordinates":[-95.359114,29.735423],"type":"Point"}
+  "bbox": [
+    -95.359114,
+    29.735423,
+    -95.359114,
+    29.735423
+],
+  "geometry": {"coordinates":[-95.35911400000001,29.735423],"type":"Point"}
 }

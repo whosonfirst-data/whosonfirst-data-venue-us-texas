@@ -2,13 +2,14 @@
   "id": 186202667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.587635,29.432588,-98.587635,29.432588",
     "geom:latitude":29.432588,
     "geom:longitude":-98.587635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S Acme Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186202667,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1467084739,
     "wof:name":"Exclusive Creations",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.587635,29.432588,-98.587635,29.432588],
-  "geometry": {"coordinates":[-98.587635,29.432588],"type":"Point"}
+  "bbox": [
+    -98.587635,
+    29.432588,
+    -98.587635,
+    29.432588
+],
+  "geometry": {"coordinates":[-98.58763500000001,29.432588],"type":"Point"}
 }

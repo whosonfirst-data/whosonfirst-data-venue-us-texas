@@ -2,13 +2,14 @@
   "id": 303335843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747989,30.252602,-97.747989,30.252602",
     "geom:latitude":30.252602,
     "geom:longitude":-97.747989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Music Ln #303",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303335843,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1467083772,
     "wof:name":"First Samples CLOSED",
     "wof:parent_id":85867213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "alteration"
     ]
 },
-  "bbox": [-97.747989,30.252602,-97.747989,30.252602],
+  "bbox": [
+    -97.747989,
+    30.252602,
+    -97.747989,
+    30.252602
+],
   "geometry": {"coordinates":[-97.747989,30.252602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404189125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.307955,31.880965,-102.307955,31.880965",
     "geom:latitude":31.880965,
     "geom:longitude":-102.307955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Ladue Ln",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404189125,
-    "wof:lastmodified":1449039972,
+    "wof:lastmodified":1467084654,
     "wof:name":"Tornado Shelters Of Odessa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storm"
     ]
 },
-  "bbox": [-102.307955,31.880965,-102.307955,31.880965],
-  "geometry": {"coordinates":[-102.307955,31.880965],"type":"Point"}
+  "bbox": [
+    -102.307955,
+    31.880965,
+    -102.307955,
+    31.880965
+],
+  "geometry": {"coordinates":[-102.30795500000001,31.880965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303312967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740037,30.310686,-97.740037,30.310686",
     "geom:latitude":30.310686,
     "geom:longitude":-97.740037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303312967,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1467083753,
     "wof:name":"Lone Star Cafe",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.740037,30.310686,-97.740037,30.310686],
+  "bbox": [
+    -97.740037,
+    30.310686,
+    -97.740037,
+    30.310686
+],
   "geometry": {"coordinates":[-97.740037,30.310686],"type":"Point"}
 }

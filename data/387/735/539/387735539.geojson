@@ -2,13 +2,14 @@
   "id": 387735539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881453,31.056935,-97.881453,31.056935",
     "geom:latitude":31.056935,
     "geom:longitude":-97.881453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Boys Ranch Rd",
     "sg:city":"Kempner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387735539,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1467084880,
     "wof:name":"Wells Ranch Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.881453,31.056935,-97.881453,31.056935],
-  "geometry": {"coordinates":[-97.881453,31.056935],"type":"Point"}
+  "bbox": [
+    -97.881453,
+    31.056935,
+    -97.881453,
+    31.056935
+],
+  "geometry": {"coordinates":[-97.88145299999999,31.056935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236356431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.648035,29.925922,-95.648035,29.925922",
     "geom:latitude":29.925922,
     "geom:longitude":-95.648035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9762 Whithorn Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236356431,
-    "wof:lastmodified":1449004542,
+    "wof:lastmodified":1467084005,
     "wof:name":"Cypress Fellowship",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.648035,29.925922,-95.648035,29.925922],
-  "geometry": {"coordinates":[-95.648035,29.925922],"type":"Point"}
+  "bbox": [
+    -95.648035,
+    29.925922,
+    -95.648035,
+    29.925922
+],
+  "geometry": {"coordinates":[-95.64803499999999,29.925922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186558415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793928,32.816939,-96.793928,32.816939",
     "geom:latitude":32.816939,
     "geom:longitude":-96.793928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 Travis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186558415,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1467084706,
     "wof:name":"Kevin Sloan Studio",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.793928,32.816939,-96.793928,32.816939],
-  "geometry": {"coordinates":[-96.793928,32.816939],"type":"Point"}
+  "bbox": [
+    -96.793928,
+    32.816939,
+    -96.793928,
+    32.816939
+],
+  "geometry": {"coordinates":[-96.79392799999999,32.816939],"type":"Point"}
 }

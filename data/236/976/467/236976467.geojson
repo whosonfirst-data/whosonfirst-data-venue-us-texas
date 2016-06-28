@@ -2,13 +2,14 @@
   "id": 236976467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.846184,32.854351,-96.846184,32.854351",
     "geom:latitude":32.854351,
     "geom:longitude":-96.846184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8321 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236976467,
-    "wof:lastmodified":1449002936,
+    "wof:lastmodified":1467083930,
     "wof:name":"MLW Air",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-96.846184,32.854351,-96.846184,32.854351],
-  "geometry": {"coordinates":[-96.846184,32.854351],"type":"Point"}
+  "bbox": [
+    -96.846184,
+    32.854351,
+    -96.846184,
+    32.854351
+],
+  "geometry": {"coordinates":[-96.84618399999999,32.854351],"type":"Point"}
 }

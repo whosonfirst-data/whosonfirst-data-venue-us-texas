@@ -2,13 +2,14 @@
   "id": 303238093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738098,30.2806,-97.738098,30.2806",
     "geom:latitude":30.2806,
     "geom:longitude":-97.738098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Martin Luther King at Congress",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303238093,
-    "wof:lastmodified":1448999031,
+    "wof:lastmodified":1467083737,
     "wof:name":"The Blanton Museum of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.738098,30.2806,-97.738098,30.2806],
-  "geometry": {"coordinates":[-97.738098,30.2806],"type":"Point"}
+  "bbox": [
+    -97.738098,
+    30.2806,
+    -97.738098,
+    30.2806
+],
+  "geometry": {"coordinates":[-97.73809799999999,30.2806],"type":"Point"}
 }

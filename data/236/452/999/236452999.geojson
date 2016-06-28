@@ -2,13 +2,14 @@
   "id": 236452999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719806,32.970293,-96.719806,32.970293",
     "geom:latitude":32.970293,
     "geom:longitude":-96.719806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 N Central Expy (US 75)",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":236452999,
-    "wof:lastmodified":1449002264,
+    "wof:lastmodified":1467083897,
     "wof:name":"Holiday Inn Dallas-Richardson",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "facility"
     ]
 },
-  "bbox": [-96.719806,32.970293,-96.719806,32.970293],
-  "geometry": {"coordinates":[-96.719806,32.970293],"type":"Point"}
+  "bbox": [
+    -96.719806,
+    32.970293,
+    -96.719806,
+    32.970293
+],
+  "geometry": {"coordinates":[-96.71980600000001,32.970293],"type":"Point"}
 }

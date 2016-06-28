@@ -2,13 +2,14 @@
   "id": 252915029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685488,32.757906,-96.685488,32.757906",
     "geom:latitude":32.757906,
     "geom:longitude":-96.685488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Hume Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":252915029,
-    "wof:lastmodified":1449006492,
+    "wof:lastmodified":1467084107,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.685488,32.757906,-96.685488,32.757906],
-  "geometry": {"coordinates":[-96.685488,32.757906],"type":"Point"}
+  "bbox": [
+    -96.685488,
+    32.757906,
+    -96.685488,
+    32.757906
+],
+  "geometry": {"coordinates":[-96.68548800000001,32.757906],"type":"Point"}
 }

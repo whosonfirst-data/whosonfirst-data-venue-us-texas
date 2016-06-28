@@ -2,13 +2,14 @@
   "id": 220129593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432776,29.505646,-98.432776,29.505646",
     "geom:latitude":29.505646,
     "geom:longitude":-98.432776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Oakwell Ct",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220129593,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1467085191,
     "wof:name":"Omni Billing Service",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-98.432776,29.505646,-98.432776,29.505646],
+  "bbox": [
+    -98.432776,
+    29.505646,
+    -98.432776,
+    29.505646
+],
   "geometry": {"coordinates":[-98.432776,29.505646],"type":"Point"}
 }

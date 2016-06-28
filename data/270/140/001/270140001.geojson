@@ -2,13 +2,14 @@
   "id": 270140001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.233803,29.7624,-95.233803,29.7624",
     "geom:latitude":29.7624,
     "geom:longitude":-95.233803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Holland St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270140001,
-    "wof:lastmodified":1449008987,
+    "wof:lastmodified":1467084161,
     "wof:name":"Holland Avenue Tax Service",
     "wof:parent_id":85893771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-95.233803,29.7624,-95.233803,29.7624],
-  "geometry": {"coordinates":[-95.233803,29.7624],"type":"Point"}
+  "bbox": [
+    -95.233803,
+    29.7624,
+    -95.233803,
+    29.7624
+],
+  "geometry": {"coordinates":[-95.23380299999999,29.7624],"type":"Point"}
 }

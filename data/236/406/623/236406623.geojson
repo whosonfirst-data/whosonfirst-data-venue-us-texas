@@ -2,13 +2,14 @@
   "id": 236406623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735881,33.186199,-96.735881,33.186199",
     "geom:latitude":33.186199,
     "geom:longitude":-96.735881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16001 Plum Ln",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236406623,
-    "wof:lastmodified":1449003418,
+    "wof:lastmodified":1467083952,
     "wof:name":"Daylight Restorations",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-96.735881,33.186199,-96.735881,33.186199],
-  "geometry": {"coordinates":[-96.735881,33.186199],"type":"Point"}
+  "bbox": [
+    -96.735881,
+    33.186199,
+    -96.735881,
+    33.186199
+],
+  "geometry": {"coordinates":[-96.73588100000001,33.186199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203081603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504428,27.515962,-99.504428,27.515962",
     "geom:latitude":27.515962,
     "geom:longitude":-99.504428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203081603,
-    "wof:lastmodified":1449025498,
+    "wof:lastmodified":1467084395,
     "wof:name":"LA Reynera Bakery & Restaurant",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-99.504428,27.515962,-99.504428,27.515962],
+  "bbox": [
+    -99.504428,
+    27.515962,
+    -99.504428,
+    27.515962
+],
   "geometry": {"coordinates":[-99.504428,27.515962],"type":"Point"}
 }

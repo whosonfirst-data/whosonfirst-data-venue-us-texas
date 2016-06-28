@@ -2,13 +2,14 @@
   "id": 353635455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.463067,29.572037,-98.463067,29.572037",
     "geom:latitude":29.572037,
     "geom:longitude":-98.463067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13859 Brook Hollow Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353635455,
-    "wof:lastmodified":1449019362,
+    "wof:lastmodified":1467084345,
     "wof:name":"Stripe Tech",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.463067,29.572037,-98.463067,29.572037],
+  "bbox": [
+    -98.463067,
+    29.572037,
+    -98.463067,
+    29.572037
+],
   "geometry": {"coordinates":[-98.463067,29.572037],"type":"Point"}
 }

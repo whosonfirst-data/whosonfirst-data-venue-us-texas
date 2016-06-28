@@ -2,13 +2,14 @@
   "id": 387080915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788584,30.189496,-97.788584,30.189496",
     "geom:latitude":30.189496,
     "geom:longitude":-97.788584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7211 Bill Hughes Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387080915,
-    "wof:lastmodified":1449059816,
+    "wof:lastmodified":1467084880,
     "wof:name":"Goodworks",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.788584,30.189496,-97.788584,30.189496],
+  "bbox": [
+    -97.788584,
+    30.189496,
+    -97.788584,
+    30.189496
+],
   "geometry": {"coordinates":[-97.788584,30.189496],"type":"Point"}
 }

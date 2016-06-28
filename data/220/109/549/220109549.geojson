@@ -2,13 +2,14 @@
   "id": 220109549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.519095,29.46638,-98.519095,29.46638",
     "geom:latitude":29.46638,
     "geom:longitude":-98.519095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W Hildebrand Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220109549,
-    "wof:lastmodified":1449074293,
+    "wof:lastmodified":1467085182,
     "wof:name":"Petro Pantry 7",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reg"
     ]
 },
-  "bbox": [-98.519095,29.46638,-98.519095,29.46638],
-  "geometry": {"coordinates":[-98.519095,29.46638],"type":"Point"}
+  "bbox": [
+    -98.519095,
+    29.46638,
+    -98.519095,
+    29.46638
+],
+  "geometry": {"coordinates":[-98.51909499999999,29.46638],"type":"Point"}
 }

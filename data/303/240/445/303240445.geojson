@@ -2,13 +2,14 @@
   "id": 303240445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744559,30.263397,-97.744559,30.263397",
     "geom:latitude":30.263397,
     "geom:longitude":-97.744559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Congress Ave Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303240445,
-    "wof:lastmodified":1448998375,
+    "wof:lastmodified":1467083704,
     "wof:name":"Charles Schwab",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-97.744559,30.263397,-97.744559,30.263397],
+  "bbox": [
+    -97.744559,
+    30.263397,
+    -97.744559,
+    30.263397
+],
   "geometry": {"coordinates":[-97.744559,30.263397],"type":"Point"}
 }

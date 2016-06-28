@@ -2,13 +2,14 @@
   "id": 303452879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.769657,30.442419,-97.769657,30.442419",
     "geom:latitude":30.442419,
     "geom:longitude":-97.769657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12343 Hunters Chase Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303452879,
-    "wof:lastmodified":1448998685,
+    "wof:lastmodified":1467083719,
     "wof:name":"Central Texas Moving Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.769657,30.442419,-97.769657,30.442419],
+  "bbox": [
+    -97.769657,
+    30.442419,
+    -97.769657,
+    30.442419
+],
   "geometry": {"coordinates":[-97.769657,30.442419],"type":"Point"}
 }

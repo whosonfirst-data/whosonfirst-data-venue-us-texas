@@ -2,13 +2,14 @@
   "id": 186147931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129478,30.08555,-94.129478,30.08555",
     "geom:latitude":30.08555,
     "geom:longitude":-94.129478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Calder Ave",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186147931,
-    "wof:lastmodified":1449052731,
+    "wof:lastmodified":1467084741,
     "wof:name":"Condit Co",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-94.129478,30.08555,-94.129478,30.08555],
-  "geometry": {"coordinates":[-94.129478,30.08555],"type":"Point"}
+  "bbox": [
+    -94.129478,
+    30.08555,
+    -94.129478,
+    30.08555
+],
+  "geometry": {"coordinates":[-94.12947800000001,30.08555],"type":"Point"}
 }

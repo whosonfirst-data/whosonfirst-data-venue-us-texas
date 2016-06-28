@@ -2,13 +2,14 @@
   "id": 303942251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.905861,35.139919,-101.905861,35.139919",
     "geom:latitude":35.139919,
     "geom:longitude":-101.905861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 Hamstead Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303942251,
-    "wof:lastmodified":1448999233,
+    "wof:lastmodified":1467083747,
     "wof:name":"Newman Heating & Air",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-101.905861,35.139919,-101.905861,35.139919],
+  "bbox": [
+    -101.905861,
+    35.139919,
+    -101.905861,
+    35.139919
+],
   "geometry": {"coordinates":[-101.905861,35.139919],"type":"Point"}
 }

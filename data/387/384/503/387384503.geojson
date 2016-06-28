@@ -2,13 +2,14 @@
   "id": 387384503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.409528,29.508903,-98.409528,29.508903",
     "geom:latitude":29.508903,
     "geom:longitude":-98.409528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2376 Austin Hwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387384503,
-    "wof:lastmodified":1449056583,
+    "wof:lastmodified":1467084796,
     "wof:name":"Apollo News",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-98.409528,29.508903,-98.409528,29.508903],
-  "geometry": {"coordinates":[-98.409528,29.508903],"type":"Point"}
+  "bbox": [
+    -98.409528,
+    29.508903,
+    -98.409528,
+    29.508903
+],
+  "geometry": {"coordinates":[-98.40952799999999,29.508903],"type":"Point"}
 }

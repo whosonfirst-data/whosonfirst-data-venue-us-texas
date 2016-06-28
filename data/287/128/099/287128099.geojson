@@ -2,13 +2,14 @@
   "id": 287128099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.484528,27.52874,-99.484528,27.52874",
     "geom:latitude":27.52874,
     "geom:longitude":-99.484528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Mcpherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287128099,
-    "wof:lastmodified":1449001013,
+    "wof:lastmodified":1467083830,
     "wof:name":"Catholic Cemetery",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-99.484528,27.52874,-99.484528,27.52874],
+  "bbox": [
+    -99.484528,
+    27.52874,
+    -99.484528,
+    27.52874
+],
   "geometry": {"coordinates":[-99.484528,27.52874],"type":"Point"}
 }

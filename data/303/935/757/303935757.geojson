@@ -2,13 +2,14 @@
   "id": 303935757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856946,35.234501,-101.856946,35.234501",
     "geom:latitude":35.234501,
     "geom:longitude":-101.856946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 NW 20th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303935757,
-    "wof:lastmodified":1449000124,
+    "wof:lastmodified":1467083791,
     "wof:name":"O English Real Estate Management",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-101.856946,35.234501,-101.856946,35.234501],
-  "geometry": {"coordinates":[-101.856946,35.234501],"type":"Point"}
+  "bbox": [
+    -101.856946,
+    35.234501,
+    -101.856946,
+    35.234501
+],
+  "geometry": {"coordinates":[-101.85694599999999,35.234501],"type":"Point"}
 }

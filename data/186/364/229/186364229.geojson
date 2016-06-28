@@ -2,13 +2,14 @@
   "id": 186364229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.50192,29.413233,-98.50192,29.413233",
     "geom:latitude":29.413233,
     "geom:longitude":-98.50192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Camp St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364229,
-    "wof:lastmodified":1449051889,
+    "wof:lastmodified":1467084723,
     "wof:name":"Camp Street Residences",
     "wof:parent_id":85871051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-98.50192,29.413233,-98.50192,29.413233],
+  "bbox": [
+    -98.50192,
+    29.413233,
+    -98.50192,
+    29.413233
+],
   "geometry": {"coordinates":[-98.50192,29.413233],"type":"Point"}
 }

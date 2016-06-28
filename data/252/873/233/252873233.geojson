@@ -2,13 +2,14 @@
   "id": 252873233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63523,32.85496,-96.63523,32.85496",
     "geom:latitude":32.85496,
     "geom:longitude":-96.63523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 W Northwest Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252873233,
-    "wof:lastmodified":1449005646,
+    "wof:lastmodified":1467084061,
     "wof:name":"Sorbeteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-96.63523,32.85496,-96.63523,32.85496],
-  "geometry": {"coordinates":[-96.63523,32.85496],"type":"Point"}
+  "bbox": [
+    -96.63523,
+    32.85496,
+    -96.63523,
+    32.85496
+],
+  "geometry": {"coordinates":[-96.63523000000001,32.85496],"type":"Point"}
 }

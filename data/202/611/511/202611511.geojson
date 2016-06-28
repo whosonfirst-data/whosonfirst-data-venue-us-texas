@@ -2,13 +2,14 @@
   "id": 202611511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806656,32.836277,-96.806656,32.836277",
     "geom:latitude":32.836277,
     "geom:longitude":-96.806656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Highland Park Village",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202611511,
-    "wof:lastmodified":1449062123,
+    "wof:lastmodified":1467084930,
     "wof:name":"Ralph Lauren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-96.806656,32.836277,-96.806656,32.836277],
+  "bbox": [
+    -96.806656,
+    32.836277,
+    -96.806656,
+    32.836277
+],
   "geometry": {"coordinates":[-96.806656,32.836277],"type":"Point"}
 }

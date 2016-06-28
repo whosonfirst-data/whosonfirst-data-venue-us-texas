@@ -2,13 +2,14 @@
   "id": 303549803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.896116,30.18969,-97.896116,30.18969",
     "geom:latitude":30.18969,
     "geom:longitude":-97.896116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11004 S Bay Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303549803,
-    "wof:lastmodified":1448998786,
+    "wof:lastmodified":1467083725,
     "wof:name":"Waltuck",
     "wof:parent_id":85893511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.896116,30.18969,-97.896116,30.18969],
-  "geometry": {"coordinates":[-97.896116,30.18969],"type":"Point"}
+  "bbox": [
+    -97.896116,
+    30.18969,
+    -97.896116,
+    30.18969
+],
+  "geometry": {"coordinates":[-97.89611600000001,30.18969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286987007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.119579,30.05189,-94.119579,30.05189",
     "geom:latitude":30.05189,
     "geom:longitude":-94.119579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Fannett Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286987007,
-    "wof:lastmodified":1449016825,
+    "wof:lastmodified":1467084282,
     "wof:name":"Fannett Medical Center",
     "wof:parent_id":85856043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.119579,30.05189,-94.119579,30.05189],
+  "bbox": [
+    -94.119579,
+    30.05189,
+    -94.119579,
+    30.05189
+],
   "geometry": {"coordinates":[-94.119579,30.05189],"type":"Point"}
 }

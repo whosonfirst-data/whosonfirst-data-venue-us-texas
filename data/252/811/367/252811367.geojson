@@ -2,13 +2,14 @@
   "id": 252811367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705002,32.831699,-96.705002,32.831699",
     "geom:latitude":32.831699,
     "geom:longitude":-96.705002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9335 Garland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252811367,
-    "wof:lastmodified":1449005936,
+    "wof:lastmodified":1467084077,
     "wof:name":"Wootan Richard MD",
     "wof:parent_id":85870479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.705002,32.831699,-96.705002,32.831699],
-  "geometry": {"coordinates":[-96.705002,32.831699],"type":"Point"}
+  "bbox": [
+    -96.705002,
+    32.831699,
+    -96.705002,
+    32.831699
+],
+  "geometry": {"coordinates":[-96.70500199999999,32.831699],"type":"Point"}
 }

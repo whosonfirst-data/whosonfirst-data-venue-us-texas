@@ -2,13 +2,14 @@
   "id": 387500713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.379407,31.737125,-106.379407,31.737125",
     "geom:latitude":31.737125,
     "geom:longitude":-106.379407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7424 Mimosa Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387500713,
-    "wof:lastmodified":1449057055,
+    "wof:lastmodified":1467084808,
     "wof:name":"Saint Paul Catholic Church",
     "wof:parent_id":85852245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.379407,31.737125,-106.379407,31.737125],
+  "bbox": [
+    -106.379407,
+    31.737125,
+    -106.379407,
+    31.737125
+],
   "geometry": {"coordinates":[-106.379407,31.737125],"type":"Point"}
 }

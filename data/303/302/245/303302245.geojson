@@ -2,13 +2,14 @@
   "id": 303302245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751337,30.269555,-97.751337,30.269555",
     "geom:latitude":30.269555,
     "geom:longitude":-97.751337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":303302245,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1467083733,
     "wof:name":"car2go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "public"
     ]
 },
-  "bbox": [-97.751337,30.269555,-97.751337,30.269555],
-  "geometry": {"coordinates":[-97.751337,30.269555],"type":"Point"}
+  "bbox": [
+    -97.751337,
+    30.269555,
+    -97.751337,
+    30.269555
+],
+  "geometry": {"coordinates":[-97.75133700000001,30.269555],"type":"Point"}
 }

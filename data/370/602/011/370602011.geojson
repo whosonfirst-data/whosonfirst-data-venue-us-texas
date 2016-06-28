@@ -2,13 +2,14 @@
   "id": 370602011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785504,32.947902,-96.785504,32.947902",
     "geom:latitude":32.947902,
     "geom:longitude":-96.785504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14739 Hillcrest Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370602011,
-    "wof:lastmodified":1449030685,
+    "wof:lastmodified":1467084509,
     "wof:name":"Fretz Swimming Pool",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.785504,32.947902,-96.785504,32.947902],
+  "bbox": [
+    -96.785504,
+    32.947902,
+    -96.785504,
+    32.947902
+],
   "geometry": {"coordinates":[-96.785504,32.947902],"type":"Point"}
 }

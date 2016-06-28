@@ -2,13 +2,14 @@
   "id": 354120119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.499294,29.779274,-95.499294,29.779274",
     "geom:latitude":29.779274,
     "geom:longitude":-95.499294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Oak Valley Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354120119,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1467085088,
     "wof:name":"Willow Three LLC",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.499294,29.779274,-95.499294,29.779274],
-  "geometry": {"coordinates":[-95.499294,29.779274],"type":"Point"}
+  "bbox": [
+    -95.499294,
+    29.779274,
+    -95.499294,
+    29.779274
+],
+  "geometry": {"coordinates":[-95.49929400000001,29.779274],"type":"Point"}
 }

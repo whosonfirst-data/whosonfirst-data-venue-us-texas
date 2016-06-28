@@ -2,13 +2,14 @@
   "id": 370931267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412078,29.555595,-98.412078,29.555595",
     "geom:latitude":29.555595,
     "geom:longitude":-98.412078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12635 Scarsdale St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370931267,
-    "wof:lastmodified":1449032173,
+    "wof:lastmodified":1467084547,
     "wof:name":"Alamo Wedding Svc",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chapel"
     ]
 },
-  "bbox": [-98.412078,29.555595,-98.412078,29.555595],
-  "geometry": {"coordinates":[-98.412078,29.555595],"type":"Point"}
+  "bbox": [
+    -98.412078,
+    29.555595,
+    -98.412078,
+    29.555595
+],
+  "geometry": {"coordinates":[-98.41207799999999,29.555595],"type":"Point"}
 }

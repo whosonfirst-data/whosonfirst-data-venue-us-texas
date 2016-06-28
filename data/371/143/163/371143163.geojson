@@ -2,13 +2,14 @@
   "id": 371143163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.544074,30.184245,-95.544074,30.184245",
     "geom:latitude":30.184245,
     "geom:longitude":-95.544074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Carlyle Pl",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371143163,
-    "wof:lastmodified":1449049939,
+    "wof:lastmodified":1467084687,
     "wof:name":"John D Samuels",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manipulation"
     ]
 },
-  "bbox": [-95.544074,30.184245,-95.544074,30.184245],
-  "geometry": {"coordinates":[-95.544074,30.184245],"type":"Point"}
+  "bbox": [
+    -95.544074,
+    30.184245,
+    -95.544074,
+    30.184245
+],
+  "geometry": {"coordinates":[-95.54407399999999,30.184245],"type":"Point"}
 }

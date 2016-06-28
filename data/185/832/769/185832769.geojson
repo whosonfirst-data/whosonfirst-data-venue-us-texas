@@ -2,13 +2,14 @@
   "id": 185832769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.830109,30.304682,-97.830109,30.304682",
     "geom:latitude":30.304682,
     "geom:longitude":-97.830109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Wild Basin Rd S",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185832769,
-    "wof:lastmodified":1449006600,
+    "wof:lastmodified":1467084111,
     "wof:name":"Brock Consulting Group",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.830109,30.304682,-97.830109,30.304682],
-  "geometry": {"coordinates":[-97.830109,30.304682],"type":"Point"}
+  "bbox": [
+    -97.830109,
+    30.304682,
+    -97.830109,
+    30.304682
+],
+  "geometry": {"coordinates":[-97.83010899999999,30.304682],"type":"Point"}
 }

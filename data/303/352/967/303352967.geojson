@@ -2,13 +2,14 @@
   "id": 303352967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744171,30.299315,-97.744171,30.299315",
     "geom:latitude":30.299315,
     "geom:longitude":-97.744171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 West Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303352967,
-    "wof:lastmodified":1448999623,
+    "wof:lastmodified":1467083767,
     "wof:name":"Bbell Investments",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-97.744171,30.299315,-97.744171,30.299315],
-  "geometry": {"coordinates":[-97.744171,30.299315],"type":"Point"}
+  "bbox": [
+    -97.744171,
+    30.299315,
+    -97.744171,
+    30.299315
+],
+  "geometry": {"coordinates":[-97.74417099999999,30.299315],"type":"Point"}
 }

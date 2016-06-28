@@ -2,13 +2,14 @@
   "id": 253679295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.365028,32.50059,-97.365028,32.50059",
     "geom:latitude":32.50059,
     "geom:longitude":-97.365028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 SW Wilshire Blvd",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253679295,
-    "wof:lastmodified":1449064734,
+    "wof:lastmodified":1467085011,
     "wof:name":"Blossoms On The Boulevard",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "gardening"
     ]
 },
-  "bbox": [-97.365028,32.50059,-97.365028,32.50059],
+  "bbox": [
+    -97.365028,
+    32.50059,
+    -97.365028,
+    32.50059
+],
   "geometry": {"coordinates":[-97.365028,32.50059],"type":"Point"}
 }

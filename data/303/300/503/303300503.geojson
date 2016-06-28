@@ -2,13 +2,14 @@
   "id": 303300503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751709,30.273609,-97.751709,30.273609",
     "geom:latitude":30.273609,
     "geom:longitude":-97.751709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 9th St Apt 410",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303300503,
-    "wof:lastmodified":1448999499,
+    "wof:lastmodified":1467083760,
     "wof:name":"Overture Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "services-household"
     ]
 },
-  "bbox": [-97.751709,30.273609,-97.751709,30.273609],
-  "geometry": {"coordinates":[-97.751709,30.273609],"type":"Point"}
+  "bbox": [
+    -97.751709,
+    30.273609,
+    -97.751709,
+    30.273609
+],
+  "geometry": {"coordinates":[-97.75170900000001,30.273609],"type":"Point"}
 }

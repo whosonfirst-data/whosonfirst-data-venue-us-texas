@@ -2,13 +2,14 @@
   "id": 186384395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771003,32.699708,-96.771003,32.699708",
     "geom:latitude":32.699708,
     "geom:longitude":-96.771003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Cummings St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186384395,
-    "wof:lastmodified":1449050629,
+    "wof:lastmodified":1467084699,
     "wof:name":"Cummings Recreation Ctr",
     "wof:parent_id":85870469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-96.771003,32.699708,-96.771003,32.699708],
-  "geometry": {"coordinates":[-96.771003,32.699708],"type":"Point"}
+  "bbox": [
+    -96.771003,
+    32.699708,
+    -96.771003,
+    32.699708
+],
+  "geometry": {"coordinates":[-96.77100299999999,32.699708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303962739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.256042,33.169327,-102.256042,33.169327",
     "geom:latitude":33.169327,
     "geom:longitude":-102.256042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Pecos St",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303962739,
-    "wof:lastmodified":1448999559,
+    "wof:lastmodified":1467083763,
     "wof:name":"B&B Weed & Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-102.256042,33.169327,-102.256042,33.169327],
-  "geometry": {"coordinates":[-102.256042,33.169327],"type":"Point"}
+  "bbox": [
+    -102.256042,
+    33.169327,
+    -102.256042,
+    33.169327
+],
+  "geometry": {"coordinates":[-102.25604199999999,33.169327],"type":"Point"}
 }

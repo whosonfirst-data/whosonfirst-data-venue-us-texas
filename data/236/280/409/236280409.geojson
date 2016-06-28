@@ -2,13 +2,14 @@
   "id": 236280409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738768,30.410879,-97.738768,30.410879",
     "geom:latitude":30.410879,
     "geom:longitude":-97.738768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4704 Wind River Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236280409,
-    "wof:lastmodified":1449003237,
+    "wof:lastmodified":1467083944,
     "wof:name":"Marcom",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.738768,30.410879,-97.738768,30.410879],
-  "geometry": {"coordinates":[-97.738768,30.410879],"type":"Point"}
+  "bbox": [
+    -97.738768,
+    30.410879,
+    -97.738768,
+    30.410879
+],
+  "geometry": {"coordinates":[-97.73876799999999,30.410879],"type":"Point"}
 }

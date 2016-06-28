@@ -2,13 +2,14 @@
   "id": 270443451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.125647,29.551346,-95.125647,29.551346",
     "geom:latitude":29.551346,
     "geom:longitude":-95.125647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Bay Area Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270443451,
-    "wof:lastmodified":1449010615,
+    "wof:lastmodified":1467084215,
     "wof:name":"Residence Inn Houston Clear Lake",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-95.125647,29.551346,-95.125647,29.551346],
+  "bbox": [
+    -95.125647,
+    29.551346,
+    -95.125647,
+    29.551346
+],
   "geometry": {"coordinates":[-95.125647,29.551346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403922325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560256,29.731289,-95.560256,29.731289",
     "geom:latitude":29.731289,
     "geom:longitude":-95.560256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10532 Meadowglen Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403922325,
-    "wof:lastmodified":1449054759,
+    "wof:lastmodified":1467084752,
     "wof:name":"At",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-95.560256,29.731289,-95.560256,29.731289],
+  "bbox": [
+    -95.560256,
+    29.731289,
+    -95.560256,
+    29.731289
+],
   "geometry": {"coordinates":[-95.560256,29.731289],"type":"Point"}
 }

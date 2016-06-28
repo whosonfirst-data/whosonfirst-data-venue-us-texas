@@ -2,13 +2,14 @@
   "id": 270003659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.269096,29.6775,-95.269096,29.6775",
     "geom:latitude":29.6775,
     "geom:longitude":-95.269096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8303 Gulf Fwy Ste 112",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270003659,
-    "wof:lastmodified":1449010907,
+    "wof:lastmodified":1467084225,
     "wof:name":"Royal Dental",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pediatric"
     ]
 },
-  "bbox": [-95.269096,29.6775,-95.269096,29.6775],
+  "bbox": [
+    -95.269096,
+    29.6775,
+    -95.269096,
+    29.6775
+],
   "geometry": {"coordinates":[-95.269096,29.6775],"type":"Point"}
 }

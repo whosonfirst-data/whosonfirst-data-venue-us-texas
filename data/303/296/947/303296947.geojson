@@ -2,13 +2,14 @@
   "id": 303296947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771459,30.277862,-97.771459,30.277862",
     "geom:latitude":30.277862,
     "geom:longitude":-97.771459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Lake Austin Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303296947,
-    "wof:lastmodified":1449000112,
+    "wof:lastmodified":1467083791,
     "wof:name":"Dolce Salon",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "artist"
     ]
 },
-  "bbox": [-97.771459,30.277862,-97.771459,30.277862],
-  "geometry": {"coordinates":[-97.771459,30.277862],"type":"Point"}
+  "bbox": [
+    -97.771459,
+    30.277862,
+    -97.771459,
+    30.277862
+],
+  "geometry": {"coordinates":[-97.77145899999999,30.277862],"type":"Point"}
 }

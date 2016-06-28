@@ -2,13 +2,14 @@
   "id": 236372325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.273429,32.630902,-97.273429,32.630902",
     "geom:latitude":32.630902,
     "geom:longitude":-97.273429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 E Enon Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236372325,
-    "wof:lastmodified":1449003694,
+    "wof:lastmodified":1467083965,
     "wof:name":"Charles Chambers",
     "wof:parent_id":85871545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.273429,32.630902,-97.273429,32.630902],
-  "geometry": {"coordinates":[-97.273429,32.630902],"type":"Point"}
+  "bbox": [
+    -97.273429,
+    32.630902,
+    -97.273429,
+    32.630902
+],
+  "geometry": {"coordinates":[-97.27342899999999,32.630902],"type":"Point"}
 }

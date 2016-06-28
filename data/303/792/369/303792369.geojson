@@ -2,13 +2,14 @@
   "id": 303792369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721651,30.399001,-97.721651,30.399001",
     "geom:latitude":30.399001,
     "geom:longitude":-97.721651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Esperanza Xing # 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":303792369,
-    "wof:lastmodified":1448998641,
+    "wof:lastmodified":1467083717,
     "wof:name":"Texas Culinary Acadamy",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "trade"
     ]
 },
-  "bbox": [-97.721651,30.399001,-97.721651,30.399001],
-  "geometry": {"coordinates":[-97.721651,30.399001],"type":"Point"}
+  "bbox": [
+    -97.721651,
+    30.399001,
+    -97.721651,
+    30.399001
+],
+  "geometry": {"coordinates":[-97.72165099999999,30.399001],"type":"Point"}
 }

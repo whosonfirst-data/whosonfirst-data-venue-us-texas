@@ -2,13 +2,14 @@
   "id": 354090201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.681484,31.647883,-94.681484,31.647883",
     "geom:latitude":31.647883,
     "geom:longitude":-94.681484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 NW Stallings Dr",
     "sg:city":"Nacogdoches",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354090201,
-    "wof:lastmodified":1449067287,
+    "wof:lastmodified":1467085084,
     "wof:name":"Triple C Feed",
     "wof:parent_id":85806661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-94.681484,31.647883,-94.681484,31.647883],
+  "bbox": [
+    -94.681484,
+    31.647883,
+    -94.681484,
+    31.647883
+],
   "geometry": {"coordinates":[-94.681484,31.647883],"type":"Point"}
 }

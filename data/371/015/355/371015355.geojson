@@ -2,13 +2,14 @@
   "id": 371015355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.227374,32.603891,-97.227374,32.603891",
     "geom:latitude":32.603891,
     "geom:longitude":-97.227374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9705 Elm Creek Way",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371015355,
-    "wof:lastmodified":1449049281,
+    "wof:lastmodified":1467084675,
     "wof:name":"Mortgage Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-97.227374,32.603891,-97.227374,32.603891],
+  "bbox": [
+    -97.227374,
+    32.603891,
+    -97.227374,
+    32.603891
+],
   "geometry": {"coordinates":[-97.227374,32.603891],"type":"Point"}
 }

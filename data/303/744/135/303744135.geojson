@@ -2,13 +2,14 @@
   "id": 303744135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706438,30.350668,-97.706438,30.350668",
     "geom:latitude":30.350668,
     "geom:longitude":-97.706438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8227 N Lamar Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303744135,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1467083736,
     "wof:name":"Uncle Bob's Self Storage",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-97.706438,30.350668,-97.706438,30.350668],
-  "geometry": {"coordinates":[-97.706438,30.350668],"type":"Point"}
+  "bbox": [
+    -97.706438,
+    30.350668,
+    -97.706438,
+    30.350668
+],
+  "geometry": {"coordinates":[-97.70643800000001,30.350668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303310921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752862,30.245168,-97.752862,30.245168",
     "geom:latitude":30.245168,
     "geom:longitude":-97.752862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Eva St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303310921,
-    "wof:lastmodified":1448999624,
+    "wof:lastmodified":1467083767,
     "wof:name":"Bruce David Johnson",
     "wof:parent_id":85893501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.752862,30.245168,-97.752862,30.245168],
-  "geometry": {"coordinates":[-97.752862,30.245168],"type":"Point"}
+  "bbox": [
+    -97.752862,
+    30.245168,
+    -97.752862,
+    30.245168
+],
+  "geometry": {"coordinates":[-97.75286199999999,30.245168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404190051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406428,30.562393,-97.406428,30.562393",
     "geom:latitude":30.562393,
     "geom:longitude":-97.406428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Avery Dr",
     "sg:city":"Taylor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404190051,
-    "wof:lastmodified":1449040264,
+    "wof:lastmodified":1467084659,
     "wof:name":"Taylor City Police Sub Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.406428,30.562393,-97.406428,30.562393],
-  "geometry": {"coordinates":[-97.406428,30.562393],"type":"Point"}
+  "bbox": [
+    -97.406428,
+    30.562393,
+    -97.406428,
+    30.562393
+],
+  "geometry": {"coordinates":[-97.40642800000001,30.562393],"type":"Point"}
 }

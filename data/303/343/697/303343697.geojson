@@ -2,13 +2,14 @@
   "id": 303343697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.784599,30.241797,-97.784599,30.241797",
     "geom:latitude":30.241797,
     "geom:longitude":-97.784599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303343697,
-    "wof:lastmodified":1448999854,
+    "wof:lastmodified":1467083778,
     "wof:name":"Us Auto Glass",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-97.784599,30.241797,-97.784599,30.241797],
+  "bbox": [
+    -97.784599,
+    30.241797,
+    -97.784599,
+    30.241797
+],
   "geometry": {"coordinates":[-97.784599,30.241797],"type":"Point"}
 }

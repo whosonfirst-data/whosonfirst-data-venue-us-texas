@@ -2,13 +2,14 @@
   "id": 303200185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752482,30.268365,-97.752482,30.268365",
     "geom:latitude":30.268365,
     "geom:longitude":-97.752482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W 3rd St Suite 1308",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303200185,
-    "wof:lastmodified":1448999098,
+    "wof:lastmodified":1467083740,
     "wof:name":"John Girard Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "artist"
     ]
 },
-  "bbox": [-97.752482,30.268365,-97.752482,30.268365],
+  "bbox": [
+    -97.752482,
+    30.268365,
+    -97.752482,
+    30.268365
+],
   "geometry": {"coordinates":[-97.752482,30.268365],"type":"Point"}
 }

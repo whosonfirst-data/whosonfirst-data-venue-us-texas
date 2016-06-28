@@ -2,13 +2,14 @@
   "id": 270233719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500588,29.720017,-95.500588,29.720017",
     "geom:latitude":29.720017,
     "geom:longitude":-95.500588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5711 Hillcroft Unit B4",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270233719,
-    "wof:lastmodified":1449011145,
+    "wof:lastmodified":1467084233,
     "wof:name":"The Clay Pot",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-95.500588,29.720017,-95.500588,29.720017],
-  "geometry": {"coordinates":[-95.500588,29.720017],"type":"Point"}
+  "bbox": [
+    -95.500588,
+    29.720017,
+    -95.500588,
+    29.720017
+],
+  "geometry": {"coordinates":[-95.50058799999999,29.720017],"type":"Point"}
 }

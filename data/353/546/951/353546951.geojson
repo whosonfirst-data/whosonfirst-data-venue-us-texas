@@ -2,13 +2,14 @@
   "id": 353546951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.001449,28.835321,-97.001449,28.835321",
     "geom:latitude":28.835321,
     "geom:longitude":-97.001449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4603 N Navarro St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353546951,
-    "wof:lastmodified":1449018251,
+    "wof:lastmodified":1467084321,
     "wof:name":"United States Cellular Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [-97.001449,28.835321,-97.001449,28.835321],
-  "geometry": {"coordinates":[-97.001449,28.835321],"type":"Point"}
+  "bbox": [
+    -97.001449,
+    28.835321,
+    -97.001449,
+    28.835321
+],
+  "geometry": {"coordinates":[-97.00144899999999,28.835321],"type":"Point"}
 }

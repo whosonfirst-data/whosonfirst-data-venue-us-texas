@@ -2,13 +2,14 @@
   "id": 353859909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.973908,32.855624,-96.973908,32.855624",
     "geom:latitude":32.855624,
     "geom:longitude":-96.973908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 W Northgate Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353859909,
-    "wof:lastmodified":1449020071,
+    "wof:lastmodified":1467084361,
     "wof:name":"Northgate Plaza",
     "wof:parent_id":85878291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.973908,32.855624,-96.973908,32.855624],
-  "geometry": {"coordinates":[-96.973908,32.855624],"type":"Point"}
+  "bbox": [
+    -96.973908,
+    32.855624,
+    -96.973908,
+    32.855624
+],
+  "geometry": {"coordinates":[-96.97390799999999,32.855624],"type":"Point"}
 }

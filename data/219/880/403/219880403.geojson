@@ -2,13 +2,14 @@
   "id": 219880403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.799506,32.147556,-94.799506,32.147556",
     "geom:latitude":32.147556,
     "geom:longitude":-94.799506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Richardson Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219880403,
-    "wof:lastmodified":1449073956,
+    "wof:lastmodified":1467085175,
     "wof:name":"Country Health Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.799506,32.147556,-94.799506,32.147556],
-  "geometry": {"coordinates":[-94.799506,32.147556],"type":"Point"}
+  "bbox": [
+    -94.799506,
+    32.147556,
+    -94.799506,
+    32.147556
+],
+  "geometry": {"coordinates":[-94.79950599999999,32.147556],"type":"Point"}
 }

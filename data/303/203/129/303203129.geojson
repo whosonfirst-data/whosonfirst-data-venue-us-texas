@@ -2,13 +2,14 @@
   "id": 303203129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738968,30.267997,-97.738968,30.267997",
     "geom:latitude":30.267997,
     "geom:longitude":-97.738968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E 7th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303203129,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1467083746,
     "wof:name":"Rusty Spurs",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "night"
     ]
 },
-  "bbox": [-97.738968,30.267997,-97.738968,30.267997],
+  "bbox": [
+    -97.738968,
+    30.267997,
+    -97.738968,
+    30.267997
+],
   "geometry": {"coordinates":[-97.738968,30.267997],"type":"Point"}
 }

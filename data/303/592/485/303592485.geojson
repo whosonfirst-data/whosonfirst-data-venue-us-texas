@@ -2,13 +2,14 @@
   "id": 303592485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772219,30.222161,-97.772219,30.222161",
     "geom:latitude":30.222161,
     "geom:longitude":-97.772219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303592485,
-    "wof:lastmodified":1448999525,
+    "wof:lastmodified":1467083762,
     "wof:name":"The Mutt Cutt",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.772219,30.222161,-97.772219,30.222161],
-  "geometry": {"coordinates":[-97.772219,30.222161],"type":"Point"}
+  "bbox": [
+    -97.772219,
+    30.222161,
+    -97.772219,
+    30.222161
+],
+  "geometry": {"coordinates":[-97.77221900000001,30.222161],"type":"Point"}
 }

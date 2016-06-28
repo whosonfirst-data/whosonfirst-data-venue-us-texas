@@ -2,13 +2,14 @@
   "id": 403975847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.416129,31.92456,-106.416129,31.92456",
     "geom:latitude":31.92456,
     "geom:longitude":-106.416129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10772 Eagle Pass Ln",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403975847,
-    "wof:lastmodified":1449055782,
+    "wof:lastmodified":1467084776,
     "wof:name":"Frontera Floor",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-106.416129,31.92456,-106.416129,31.92456],
+  "bbox": [
+    -106.416129,
+    31.92456,
+    -106.416129,
+    31.92456
+],
   "geometry": {"coordinates":[-106.416129,31.92456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236794681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798048,32.781754,-96.798048,32.781754",
     "geom:latitude":32.781754,
     "geom:longitude":-96.798048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Elm St Ste 3000",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236794681,
-    "wof:lastmodified":1449003192,
+    "wof:lastmodified":1467083942,
     "wof:name":"Peter Vogel, Attorney",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.798048,32.781754,-96.798048,32.781754],
-  "geometry": {"coordinates":[-96.798048,32.781754],"type":"Point"}
+  "bbox": [
+    -96.798048,
+    32.781754,
+    -96.798048,
+    32.781754
+],
+  "geometry": {"coordinates":[-96.79804799999999,32.781754],"type":"Point"}
 }

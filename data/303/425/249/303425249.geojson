@@ -2,13 +2,14 @@
   "id": 303425249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.694584,30.438675,-97.694584,30.438675",
     "geom:latitude":30.438675,
     "geom:longitude":-97.694584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4616 W Howard Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303425249,
-    "wof:lastmodified":1448998980,
+    "wof:lastmodified":1467083735,
     "wof:name":"Northstar Alarm & Suppression System",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-97.694584,30.438675,-97.694584,30.438675],
-  "geometry": {"coordinates":[-97.694584,30.438675],"type":"Point"}
+  "bbox": [
+    -97.694584,
+    30.438675,
+    -97.694584,
+    30.438675
+],
+  "geometry": {"coordinates":[-97.69458400000001,30.438675],"type":"Point"}
 }

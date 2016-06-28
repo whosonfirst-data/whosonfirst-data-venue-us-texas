@@ -2,13 +2,14 @@
   "id": 370325767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.175823,32.65911,-97.175823,32.65911",
     "geom:latitude":32.65911,
     "geom:longitude":-97.175823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 SW Green Oaks Blvd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370325767,
-    "wof:lastmodified":1449030409,
+    "wof:lastmodified":1467084502,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85873083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.175823,32.65911,-97.175823,32.65911],
-  "geometry": {"coordinates":[-97.175823,32.65911],"type":"Point"}
+  "bbox": [
+    -97.175823,
+    32.65911,
+    -97.175823,
+    32.65911
+],
+  "geometry": {"coordinates":[-97.17582299999999,32.65911],"type":"Point"}
 }

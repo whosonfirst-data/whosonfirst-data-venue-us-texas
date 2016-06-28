@@ -2,13 +2,14 @@
   "id": 236151919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.325865,29.506259,-98.325865,29.506259",
     "geom:latitude":29.506259,
     "geom:longitude":-98.325865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8007 Chestnut Manor Dr",
     "sg:city":"Converse",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236151919,
-    "wof:lastmodified":1449001706,
+    "wof:lastmodified":1467083856,
     "wof:name":"High Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.325865,29.506259,-98.325865,29.506259],
-  "geometry": {"coordinates":[-98.325865,29.506259],"type":"Point"}
+  "bbox": [
+    -98.325865,
+    29.506259,
+    -98.325865,
+    29.506259
+],
+  "geometry": {"coordinates":[-98.32586499999999,29.506259],"type":"Point"}
 }

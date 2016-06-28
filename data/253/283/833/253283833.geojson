@@ -2,13 +2,14 @@
   "id": 253283833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492371,29.35309,-98.492371,29.35309",
     "geom:latitude":29.35309,
     "geom:longitude":-98.492371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Sussex Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253283833,
-    "wof:lastmodified":1449063685,
+    "wof:lastmodified":1467084975,
     "wof:name":"Randall Thomas Construction",
     "wof:parent_id":85871089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.492371,29.35309,-98.492371,29.35309],
-  "geometry": {"coordinates":[-98.492371,29.35309],"type":"Point"}
+  "bbox": [
+    -98.492371,
+    29.35309,
+    -98.492371,
+    29.35309
+],
+  "geometry": {"coordinates":[-98.49237100000001,29.35309],"type":"Point"}
 }

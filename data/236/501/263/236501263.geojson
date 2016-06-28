@@ -2,13 +2,14 @@
   "id": 236501263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.376263,32.965486,-96.376263,32.965486",
     "geom:latitude":32.965486,
     "geom:longitude":-96.376263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 State Highway 66",
     "sg:city":"Rockwall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236501263,
-    "wof:lastmodified":1449005284,
+    "wof:lastmodified":1467084041,
     "wof:name":"Rhino Linings Of Rockwall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.376263,32.965486,-96.376263,32.965486],
-  "geometry": {"coordinates":[-96.376263,32.965486],"type":"Point"}
+  "bbox": [
+    -96.376263,
+    32.965486,
+    -96.376263,
+    32.965486
+],
+  "geometry": {"coordinates":[-96.37626299999999,32.965486],"type":"Point"}
 }

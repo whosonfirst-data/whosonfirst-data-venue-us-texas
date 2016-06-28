@@ -2,13 +2,14 @@
   "id": 185974021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.42778,31.870568,-106.42778,31.870568",
     "geom:latitude":31.870568,
     "geom:longitude":-106.42778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 Dyer St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185974021,
-    "wof:lastmodified":1449008010,
+    "wof:lastmodified":1467084136,
     "wof:name":"Acme Chiropractic Northeast",
     "wof:parent_id":85814117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.42778,31.870568,-106.42778,31.870568],
+  "bbox": [
+    -106.42778,
+    31.870568,
+    -106.42778,
+    31.870568
+],
   "geometry": {"coordinates":[-106.42778,31.870568],"type":"Point"}
 }

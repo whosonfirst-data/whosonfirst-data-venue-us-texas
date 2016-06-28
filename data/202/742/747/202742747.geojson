@@ -2,13 +2,14 @@
   "id": 202742747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154425,30.083272,-94.154425,30.083272",
     "geom:latitude":30.083272,
     "geom:longitude":-94.154425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Wren Way",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202742747,
-    "wof:lastmodified":1449060276,
+    "wof:lastmodified":1467084891,
     "wof:name":"A B C Irrigation",
     "wof:parent_id":85808829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-94.154425,30.083272,-94.154425,30.083272],
+  "bbox": [
+    -94.154425,
+    30.083272,
+    -94.154425,
+    30.083272
+],
   "geometry": {"coordinates":[-94.154425,30.083272],"type":"Point"}
 }

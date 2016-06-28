@@ -2,13 +2,14 @@
   "id": 354143531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.43958,32.440101,-100.43958,32.440101",
     "geom:latitude":32.440101,
     "geom:longitude":-100.43958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Gulfton Rd",
     "sg:city":"Sweetwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354143531,
-    "wof:lastmodified":1449067359,
+    "wof:lastmodified":1467085086,
     "wof:name":"Kimberly Hunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "house"
     ]
 },
-  "bbox": [-100.43958,32.440101,-100.43958,32.440101],
-  "geometry": {"coordinates":[-100.43958,32.440101],"type":"Point"}
+  "bbox": [
+    -100.43958,
+    32.440101,
+    -100.43958,
+    32.440101
+],
+  "geometry": {"coordinates":[-100.43958000000001,32.440101],"type":"Point"}
 }

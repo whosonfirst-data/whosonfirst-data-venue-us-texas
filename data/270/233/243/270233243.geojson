@@ -2,13 +2,14 @@
   "id": 270233243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55489,29.667926,-95.55489,29.667926",
     "geom:latitude":29.667926,
     "geom:longitude":-95.55489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10203 Forum Park Dr # 104",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270233243,
-    "wof:lastmodified":1449011147,
+    "wof:lastmodified":1467084233,
     "wof:name":"Place 2 Place",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-95.55489,29.667926,-95.55489,29.667926],
+  "bbox": [
+    -95.55489,
+    29.667926,
+    -95.55489,
+    29.667926
+],
   "geometry": {"coordinates":[-95.55489,29.667926],"type":"Point"}
 }

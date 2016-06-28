@@ -2,13 +2,14 @@
   "id": 219880153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.690044,30.517452,-97.690044,30.517452",
     "geom:latitude":30.517452,
     "geom:longitude":-97.690044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Sam Bass Rd",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219880153,
-    "wof:lastmodified":1449073954,
+    "wof:lastmodified":1467085175,
     "wof:name":"Shell Sam Bass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.690044,30.517452,-97.690044,30.517452],
+  "bbox": [
+    -97.690044,
+    30.517452,
+    -97.690044,
+    30.517452
+],
   "geometry": {"coordinates":[-97.690044,30.517452],"type":"Point"}
 }

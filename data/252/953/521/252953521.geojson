@@ -2,13 +2,14 @@
   "id": 252953521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.678134,30.640787,-97.678134,30.640787",
     "geom:latitude":30.640787,
     "geom:longitude":-97.678134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 3rd St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252953521,
-    "wof:lastmodified":1449006142,
+    "wof:lastmodified":1467084088,
     "wof:name":"Williams Cnty Cities Hlth Dst",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.678134,30.640787,-97.678134,30.640787],
+  "bbox": [
+    -97.678134,
+    30.640787,
+    -97.678134,
+    30.640787
+],
   "geometry": {"coordinates":[-97.678134,30.640787],"type":"Point"}
 }

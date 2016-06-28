@@ -2,13 +2,14 @@
   "id": 253261463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806629,32.990658,-96.806629,32.990658",
     "geom:latitude":32.990658,
     "geom:longitude":-96.806629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17430 Campbell Rd Ste 110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253261463,
-    "wof:lastmodified":1449062868,
+    "wof:lastmodified":1467084947,
     "wof:name":"Offices To Go",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-96.806629,32.990658,-96.806629,32.990658],
+  "bbox": [
+    -96.806629,
+    32.990658,
+    -96.806629,
+    32.990658
+],
   "geometry": {"coordinates":[-96.806629,32.990658],"type":"Point"}
 }

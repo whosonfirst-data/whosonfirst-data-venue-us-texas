@@ -2,13 +2,14 @@
   "id": 186220101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.317989,26.213725,-98.317989,26.213725",
     "geom:latitude":26.213725,
     "geom:longitude":-98.317989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E 9th St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186220101,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1467084745,
     "wof:name":"Mission Maternity Clinic",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.317989,26.213725,-98.317989,26.213725],
+  "bbox": [
+    -98.317989,
+    26.213725,
+    -98.317989,
+    26.213725
+],
   "geometry": {"coordinates":[-98.317989,26.213725],"type":"Point"}
 }

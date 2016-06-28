@@ -2,13 +2,14 @@
   "id": 219930825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508203,29.641533,-95.508203,29.641533",
     "geom:latitude":29.641533,
     "geom:longitude":-95.508203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12521 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219930825,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1467085123,
     "wof:name":"A 1 Appliances of Houston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.508203,29.641533,-95.508203,29.641533],
-  "geometry": {"coordinates":[-95.508203,29.641533],"type":"Point"}
+  "bbox": [
+    -95.508203,
+    29.641533,
+    -95.508203,
+    29.641533
+],
+  "geometry": {"coordinates":[-95.50820299999999,29.641533],"type":"Point"}
 }

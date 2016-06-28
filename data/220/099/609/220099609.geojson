@@ -2,13 +2,14 @@
   "id": 220099609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.979504,31.72343,-98.979504,31.72343",
     "geom:latitude":31.72343,
     "geom:longitude":-98.979504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Pecan St",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220099609,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1467085189,
     "wof:name":"John Lee Blagg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.979504,31.72343,-98.979504,31.72343],
-  "geometry": {"coordinates":[-98.979504,31.72343],"type":"Point"}
+  "bbox": [
+    -98.979504,
+    31.72343,
+    -98.979504,
+    31.72343
+],
+  "geometry": {"coordinates":[-98.97950400000001,31.72343],"type":"Point"}
 }

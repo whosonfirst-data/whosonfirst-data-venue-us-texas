@@ -2,13 +2,14 @@
   "id": 252979861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74377,32.864416,-96.74377,32.864416",
     "geom:latitude":32.864416,
     "geom:longitude":-96.74377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 Abrams Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252979861,
-    "wof:lastmodified":1449006167,
+    "wof:lastmodified":1467084090,
     "wof:name":"US Post Office",
     "wof:parent_id":85870379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.74377,32.864416,-96.74377,32.864416],
+  "bbox": [
+    -96.74377,
+    32.864416,
+    -96.74377,
+    32.864416
+],
   "geometry": {"coordinates":[-96.74377,32.864416],"type":"Point"}
 }

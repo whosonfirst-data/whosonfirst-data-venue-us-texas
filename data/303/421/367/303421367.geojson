@@ -2,13 +2,14 @@
   "id": 303421367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.722091,30.42626,-97.722091,30.42626",
     "geom:latitude":30.42626,
     "geom:longitude":-97.722091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12507 Phoebe Ct",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303421367,
-    "wof:lastmodified":1448999670,
+    "wof:lastmodified":1467083769,
     "wof:name":"A-Town Home Inspections",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.722091,30.42626,-97.722091,30.42626],
-  "geometry": {"coordinates":[-97.722091,30.42626],"type":"Point"}
+  "bbox": [
+    -97.722091,
+    30.42626,
+    -97.722091,
+    30.42626
+],
+  "geometry": {"coordinates":[-97.72209100000001,30.42626],"type":"Point"}
 }

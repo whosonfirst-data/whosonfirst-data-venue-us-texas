@@ -2,13 +2,14 @@
   "id": 186074447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.831235,32.749373,-96.831235,32.749373",
     "geom:latitude":32.749373,
     "geom:longitude":-96.831235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Davis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186074447,
-    "wof:lastmodified":1449051829,
+    "wof:lastmodified":1467084722,
     "wof:name":"Advantage Healthcare Systems",
     "wof:parent_id":85882141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-96.831235,32.749373,-96.831235,32.749373],
-  "geometry": {"coordinates":[-96.831235,32.749373],"type":"Point"}
+  "bbox": [
+    -96.831235,
+    32.749373,
+    -96.831235,
+    32.749373
+],
+  "geometry": {"coordinates":[-96.83123500000001,32.749373],"type":"Point"}
 }

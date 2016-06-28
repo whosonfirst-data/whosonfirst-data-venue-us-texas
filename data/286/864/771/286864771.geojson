@@ -2,13 +2,14 @@
   "id": 286864771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348137,28.95314,-95.348137,28.95314",
     "geom:latitude":28.95314,
     "geom:longitude":-95.348137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Brazos St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":286864771,
-    "wof:lastmodified":1449018123,
+    "wof:lastmodified":1467084318,
     "wof:name":"Freeport Diesel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-95.348137,28.95314,-95.348137,28.95314],
-  "geometry": {"coordinates":[-95.348137,28.95314],"type":"Point"}
+  "bbox": [
+    -95.348137,
+    28.95314,
+    -95.348137,
+    28.95314
+],
+  "geometry": {"coordinates":[-95.34813699999999,28.95314],"type":"Point"}
 }

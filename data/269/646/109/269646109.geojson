@@ -2,13 +2,14 @@
   "id": 269646109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.591259,33.106949,-98.591259,33.106949",
     "geom:latitude":33.106949,
     "geom:longitude":-98.591259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 4th St",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":269646109,
-    "wof:lastmodified":1449036081,
+    "wof:lastmodified":1467084570,
     "wof:name":"Juvenile Probation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "government-county"
     ]
 },
-  "bbox": [-98.591259,33.106949,-98.591259,33.106949],
-  "geometry": {"coordinates":[-98.591259,33.106949],"type":"Point"}
+  "bbox": [
+    -98.591259,
+    33.106949,
+    -98.591259,
+    33.106949
+],
+  "geometry": {"coordinates":[-98.59125899999999,33.106949],"type":"Point"}
 }

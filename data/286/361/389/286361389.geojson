@@ -2,13 +2,14 @@
   "id": 286361389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.444388,30.017931,-95.444388,30.017931",
     "geom:latitude":30.017931,
     "geom:longitude":-95.444388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17119 Red Oak Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286361389,
-    "wof:lastmodified":1449017325,
+    "wof:lastmodified":1467084296,
     "wof:name":"USPS - United States Post Office - Westfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.444388,30.017931,-95.444388,30.017931],
+  "bbox": [
+    -95.444388,
+    30.017931,
+    -95.444388,
+    30.017931
+],
   "geometry": {"coordinates":[-95.444388,30.017931],"type":"Point"}
 }

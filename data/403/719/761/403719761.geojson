@@ -2,13 +2,14 @@
   "id": 403719761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.039493,32.928389,-98.039493,32.928389",
     "geom:latitude":32.928389,
     "geom:longitude":-98.039493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Bounty Rd",
     "sg:city":"Perrin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403719761,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1467084753,
     "wof:name":"Kincaid Dozer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.039493,32.928389,-98.039493,32.928389],
-  "geometry": {"coordinates":[-98.039493,32.928389],"type":"Point"}
+  "bbox": [
+    -98.039493,
+    32.928389,
+    -98.039493,
+    32.928389
+],
+  "geometry": {"coordinates":[-98.03949299999999,32.928389],"type":"Point"}
 }

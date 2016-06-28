@@ -2,13 +2,14 @@
   "id": 202866593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806283,32.724893,-96.806283,32.724893",
     "geom:latitude":32.724893,
     "geom:longitude":-96.806283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Georgia Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202866593,
-    "wof:lastmodified":1449061330,
+    "wof:lastmodified":1467084913,
     "wof:name":"By Faith Family Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.806283,32.724893,-96.806283,32.724893],
-  "geometry": {"coordinates":[-96.806283,32.724893],"type":"Point"}
+  "bbox": [
+    -96.806283,
+    32.724893,
+    -96.806283,
+    32.724893
+],
+  "geometry": {"coordinates":[-96.80628299999999,32.724893],"type":"Point"}
 }

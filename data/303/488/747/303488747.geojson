@@ -2,13 +2,14 @@
   "id": 303488747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.910103,30.383801,-97.910103,30.383801",
     "geom:latitude":30.383801,
     "geom:longitude":-97.910103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Fritz Hughes Park Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303488747,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1467083810,
     "wof:name":"Lakeway Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.910103,30.383801,-97.910103,30.383801],
-  "geometry": {"coordinates":[-97.910103,30.383801],"type":"Point"}
+  "bbox": [
+    -97.910103,
+    30.383801,
+    -97.910103,
+    30.383801
+],
+  "geometry": {"coordinates":[-97.91010300000001,30.383801],"type":"Point"}
 }

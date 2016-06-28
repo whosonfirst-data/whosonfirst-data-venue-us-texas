@@ -2,13 +2,14 @@
   "id": 303424675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.675248,30.429436,-97.675248,30.429436",
     "geom:latitude":30.429436,
     "geom:longitude":-97.675248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Bench Mark Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303424675,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1467083805,
     "wof:name":"Barrett Auto Care",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.675248,30.429436,-97.675248,30.429436],
+  "bbox": [
+    -97.675248,
+    30.429436,
+    -97.675248,
+    30.429436
+],
   "geometry": {"coordinates":[-97.675248,30.429436],"type":"Point"}
 }

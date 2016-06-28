@@ -2,13 +2,14 @@
   "id": 354288611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.277133,32.313449,-95.277133,32.313449",
     "geom:latitude":32.313449,
     "geom:longitude":-95.277133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Golden Rd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354288611,
-    "wof:lastmodified":1449066113,
+    "wof:lastmodified":1467085056,
     "wof:name":"Ear Nose & Throat Assoc",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.277133,32.313449,-95.277133,32.313449],
-  "geometry": {"coordinates":[-95.277133,32.313449],"type":"Point"}
+  "bbox": [
+    -95.277133,
+    32.313449,
+    -95.277133,
+    32.313449
+],
+  "geometry": {"coordinates":[-95.27713300000001,32.313449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353825737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.630939,29.678872,-95.630939,29.678872",
     "geom:latitude":29.678872,
     "geom:longitude":-95.630939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9310 Lynchester Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353825737,
-    "wof:lastmodified":1449018338,
+    "wof:lastmodified":1467084323,
     "wof:name":"MEH Building Contractors",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.630939,29.678872,-95.630939,29.678872],
+  "bbox": [
+    -95.630939,
+    29.678872,
+    -95.630939,
+    29.678872
+],
   "geometry": {"coordinates":[-95.630939,29.678872],"type":"Point"}
 }

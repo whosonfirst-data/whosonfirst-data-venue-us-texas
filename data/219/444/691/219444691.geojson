@@ -2,13 +2,14 @@
   "id": 219444691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.801933,30.27553,-97.801933,30.27553",
     "geom:latitude":30.27553,
     "geom:longitude":-97.801933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3345 Bee Caves Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219444691,
-    "wof:lastmodified":1449073429,
+    "wof:lastmodified":1467085164,
     "wof:name":"DSS Solutions",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-97.801933,30.27553,-97.801933,30.27553],
-  "geometry": {"coordinates":[-97.801933,30.27553],"type":"Point"}
+  "bbox": [
+    -97.801933,
+    30.27553,
+    -97.801933,
+    30.27553
+],
+  "geometry": {"coordinates":[-97.80193300000001,30.27553],"type":"Point"}
 }

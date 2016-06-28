@@ -2,13 +2,14 @@
   "id": 303094353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.820077,30.520864,-97.820077,30.520864",
     "geom:latitude":30.520864,
     "geom:longitude":-97.820077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Discovery Blvd Ste 212",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303094353,
-    "wof:lastmodified":1448999652,
+    "wof:lastmodified":1467083768,
     "wof:name":"Benchmark Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.820077,30.520864,-97.820077,30.520864],
+  "bbox": [
+    -97.820077,
+    30.520864,
+    -97.820077,
+    30.520864
+],
   "geometry": {"coordinates":[-97.820077,30.520864],"type":"Point"}
 }

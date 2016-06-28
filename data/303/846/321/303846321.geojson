@@ -2,13 +2,14 @@
   "id": 303846321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745705,30.274176,-97.745705,30.274176",
     "geom:latitude":30.274176,
     "geom:longitude":-97.745705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W 11th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303846321,
-    "wof:lastmodified":1449000013,
+    "wof:lastmodified":1467083786,
     "wof:name":"Travis County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.745705,30.274176,-97.745705,30.274176],
+  "bbox": [
+    -97.745705,
+    30.274176,
+    -97.745705,
+    30.274176
+],
   "geometry": {"coordinates":[-97.745705,30.274176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236905027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806386,32.836326,-96.806386,32.836326",
     "geom:latitude":32.836326,
     "geom:longitude":-96.806386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Highland Park Vlg",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":236905027,
-    "wof:lastmodified":1449002839,
+    "wof:lastmodified":1467083925,
     "wof:name":"HIGHLAND PARK VILLAGE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.806386,32.836326,-96.806386,32.836326],
+  "bbox": [
+    -96.806386,
+    32.836326,
+    -96.806386,
+    32.836326
+],
   "geometry": {"coordinates":[-96.806386,32.836326],"type":"Point"}
 }

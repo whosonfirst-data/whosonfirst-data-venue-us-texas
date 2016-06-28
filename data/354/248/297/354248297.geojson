@@ -2,13 +2,14 @@
   "id": 354248297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.472031,29.740094,-95.472031,29.740094",
     "geom:latitude":29.740094,
     "geom:longitude":-95.472031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Westheimer Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354248297,
-    "wof:lastmodified":1449066875,
+    "wof:lastmodified":1467085074,
     "wof:name":"Duke Energy Trading & Mktg",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-95.472031,29.740094,-95.472031,29.740094],
+  "bbox": [
+    -95.472031,
+    29.740094,
+    -95.472031,
+    29.740094
+],
   "geometry": {"coordinates":[-95.472031,29.740094],"type":"Point"}
 }

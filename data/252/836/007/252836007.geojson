@@ -2,13 +2,14 @@
   "id": 252836007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890198,32.861801,-96.890198,32.861801",
     "geom:latitude":32.861801,
     "geom:longitude":-96.890198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Willowbrook Rd Ste 209",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -108,10 +109,11 @@
         }
     ],
     "wof:id":252836007,
-    "wof:lastmodified":1449006121,
+    "wof:lastmodified":1467084087,
     "wof:name":"Delivery Dallas Light Bulb",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -134,6 +136,11 @@
         "spirit"
     ]
 },
-  "bbox": [-96.890198,32.861801,-96.890198,32.861801],
+  "bbox": [
+    -96.890198,
+    32.861801,
+    -96.890198,
+    32.861801
+],
   "geometry": {"coordinates":[-96.890198,32.861801],"type":"Point"}
 }

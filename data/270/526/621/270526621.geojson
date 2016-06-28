@@ -2,13 +2,14 @@
   "id": 270526621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.515503,29.698099,-95.515503,29.698099",
     "geom:latitude":29.698099,
     "geom:longitude":-95.515503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7502 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270526621,
-    "wof:lastmodified":1449009365,
+    "wof:lastmodified":1467084173,
     "wof:name":"Houston Baptist University",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-95.515503,29.698099,-95.515503,29.698099],
+  "bbox": [
+    -95.515503,
+    29.698099,
+    -95.515503,
+    29.698099
+],
   "geometry": {"coordinates":[-95.515503,29.698099],"type":"Point"}
 }

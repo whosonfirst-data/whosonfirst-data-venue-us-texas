@@ -2,13 +2,14 @@
   "id": 202589459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.47087,30.136723,-95.47087,30.136723",
     "geom:latitude":30.136723,
     "geom:longitude":-95.47087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 S Millbend Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202589459,
-    "wof:lastmodified":1449061465,
+    "wof:lastmodified":1467084916,
     "wof:name":"Schweiker Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.47087,30.136723,-95.47087,30.136723],
-  "geometry": {"coordinates":[-95.47087,30.136723],"type":"Point"}
+  "bbox": [
+    -95.47087,
+    30.136723,
+    -95.47087,
+    30.136723
+],
+  "geometry": {"coordinates":[-95.47087000000001,30.136723],"type":"Point"}
 }

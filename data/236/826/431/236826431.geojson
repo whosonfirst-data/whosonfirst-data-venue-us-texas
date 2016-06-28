@@ -2,13 +2,14 @@
   "id": 236826431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797501,32.776534,-96.797501,32.776534",
     "geom:latitude":32.776534,
     "geom:longitude":-96.797501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Marilla St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236826431,
-    "wof:lastmodified":1449004159,
+    "wof:lastmodified":1467083987,
     "wof:name":"Zoo",
     "wof:parent_id":85870319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.797501,32.776534,-96.797501,32.776534],
+  "bbox": [
+    -96.797501,
+    32.776534,
+    -96.797501,
+    32.776534
+],
   "geometry": {"coordinates":[-96.797501,32.776534],"type":"Point"}
 }

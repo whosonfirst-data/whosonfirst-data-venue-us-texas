@@ -2,13 +2,14 @@
   "id": 370968235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825571,30.199108,-97.825571,30.199108",
     "geom:latitude":30.199108,
     "geom:longitude":-97.825571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7910 W Gate Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370968235,
-    "wof:lastmodified":1449029296,
+    "wof:lastmodified":1467084474,
     "wof:name":"Bethesda Church",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.825571,30.199108,-97.825571,30.199108],
+  "bbox": [
+    -97.825571,
+    30.199108,
+    -97.825571,
+    30.199108
+],
   "geometry": {"coordinates":[-97.825571,30.199108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203225645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.741543,32.758381,-96.741543,32.758381",
     "geom:latitude":32.758381,
     "geom:longitude":-96.741543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 S 2nd Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203225645,
-    "wof:lastmodified":1449025498,
+    "wof:lastmodified":1467084395,
     "wof:name":"Pacer Stacktrain",
     "wof:parent_id":85897325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.741543,32.758381,-96.741543,32.758381],
-  "geometry": {"coordinates":[-96.741543,32.758381],"type":"Point"}
+  "bbox": [
+    -96.741543,
+    32.758381,
+    -96.741543,
+    32.758381
+],
+  "geometry": {"coordinates":[-96.74154299999999,32.758381],"type":"Point"}
 }

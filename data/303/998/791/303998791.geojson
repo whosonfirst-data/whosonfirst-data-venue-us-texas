@@ -2,13 +2,14 @@
   "id": 303998791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.887752,33.53616,-101.887752,33.53616",
     "geom:latitude":33.53616,
     "geom:longitude":-101.887752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3406 64th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":303998791,
-    "wof:lastmodified":1448998925,
+    "wof:lastmodified":1467083732,
     "wof:name":"Decker Specialty Advertising",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "shows"
     ]
 },
-  "bbox": [-101.887752,33.53616,-101.887752,33.53616],
-  "geometry": {"coordinates":[-101.887752,33.53616],"type":"Point"}
+  "bbox": [
+    -101.887752,
+    33.53616,
+    -101.887752,
+    33.53616
+],
+  "geometry": {"coordinates":[-101.88775200000001,33.53616],"type":"Point"}
 }

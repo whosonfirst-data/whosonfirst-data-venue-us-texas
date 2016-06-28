@@ -2,13 +2,14 @@
   "id": 236922501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772149,32.822392,-96.772149,32.822392",
     "geom:latitude":32.822392,
     "geom:longitude":-96.772149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5606 Vickery Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236922501,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1467083870,
     "wof:name":"Inpatient Rehabilitation Specialists, P.A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "treatment"
     ]
 },
-  "bbox": [-96.772149,32.822392,-96.772149,32.822392],
+  "bbox": [
+    -96.772149,
+    32.822392,
+    -96.772149,
+    32.822392
+],
   "geometry": {"coordinates":[-96.772149,32.822392],"type":"Point"}
 }

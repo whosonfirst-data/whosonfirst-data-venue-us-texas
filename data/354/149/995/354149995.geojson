@@ -2,13 +2,14 @@
   "id": 354149995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.092461,31.855788,-103.092461,31.855788",
     "geom:latitude":31.855788,
     "geom:longitude":-103.092461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Poplar St",
     "sg:city":"Kermit",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354149995,
-    "wof:lastmodified":1449065933,
+    "wof:lastmodified":1467085051,
     "wof:name":"Drivers License",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-103.092461,31.855788,-103.092461,31.855788],
+  "bbox": [
+    -103.092461,
+    31.855788,
+    -103.092461,
+    31.855788
+],
   "geometry": {"coordinates":[-103.092461,31.855788],"type":"Point"}
 }

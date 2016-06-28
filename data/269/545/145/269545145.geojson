@@ -2,13 +2,14 @@
   "id": 269545145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.127158,33.233205,-97.127158,33.233205",
     "geom:latitude":33.233205,
     "geom:longitude":-97.127158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 N Bell Ave",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":269545145,
-    "wof:lastmodified":1449036722,
+    "wof:lastmodified":1467084587,
     "wof:name":"Ics",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-97.127158,33.233205,-97.127158,33.233205],
-  "geometry": {"coordinates":[-97.127158,33.233205],"type":"Point"}
+  "bbox": [
+    -97.127158,
+    33.233205,
+    -97.127158,
+    33.233205
+],
+  "geometry": {"coordinates":[-97.12715799999999,33.233205],"type":"Point"}
 }

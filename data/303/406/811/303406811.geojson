@@ -2,13 +2,14 @@
   "id": 303406811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.6343,30.2943,-97.6343,30.2943",
     "geom:latitude":30.2943,
     "geom:longitude":-97.6343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Fm 969",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303406811,
-    "wof:lastmodified":1448999431,
+    "wof:lastmodified":1467083757,
     "wof:name":"Double M Grocery",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.6343,30.2943,-97.6343,30.2943],
+  "bbox": [
+    -97.6343,
+    30.2943,
+    -97.6343,
+    30.2943
+],
   "geometry": {"coordinates":[-97.6343,30.2943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253250689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.559462,29.629299,-95.559462,29.629299",
     "geom:latitude":29.629299,
     "geom:longitude":-95.559462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13333 Redfish Ln",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253250689,
-    "wof:lastmodified":1449064512,
+    "wof:lastmodified":1467085003,
     "wof:name":"Southwest Dispatch Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.559462,29.629299,-95.559462,29.629299],
+  "bbox": [
+    -95.559462,
+    29.629299,
+    -95.559462,
+    29.629299
+],
   "geometry": {"coordinates":[-95.559462,29.629299],"type":"Point"}
 }

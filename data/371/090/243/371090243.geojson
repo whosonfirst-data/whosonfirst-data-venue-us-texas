@@ -2,13 +2,14 @@
   "id": 371090243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751592,32.800133,-96.751592,32.800133",
     "geom:latitude":32.800133,
     "geom:longitude":-96.751592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Parkview Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":371090243,
-    "wof:lastmodified":1449049867,
+    "wof:lastmodified":1467084686,
     "wof:name":"City Curb Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.751592,32.800133,-96.751592,32.800133],
+  "bbox": [
+    -96.751592,
+    32.800133,
+    -96.751592,
+    32.800133
+],
   "geometry": {"coordinates":[-96.751592,32.800133],"type":"Point"}
 }

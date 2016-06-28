@@ -2,13 +2,14 @@
   "id": 202587589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.892631,33.256278,-95.892631,33.256278",
     "geom:latitude":33.256278,
     "geom:longitude":-95.892631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 2nd St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202587589,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1467084906,
     "wof:name":"Fix All Remodeling",
     "wof:parent_id":85803433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.892631,33.256278,-95.892631,33.256278],
-  "geometry": {"coordinates":[-95.892631,33.256278],"type":"Point"}
+  "bbox": [
+    -95.892631,
+    33.256278,
+    -95.892631,
+    33.256278
+],
+  "geometry": {"coordinates":[-95.89263099999999,33.256278],"type":"Point"}
 }

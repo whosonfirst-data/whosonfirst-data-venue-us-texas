@@ -2,13 +2,14 @@
   "id": 236749565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.391961,31.790363,-106.391961,31.790363",
     "geom:latitude":31.790363,
     "geom:longitude":-106.391961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6999 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236749565,
-    "wof:lastmodified":1449002409,
+    "wof:lastmodified":1467083905,
     "wof:name":"Mavericks Bar & Grill",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.391961,31.790363,-106.391961,31.790363],
-  "geometry": {"coordinates":[-106.391961,31.790363],"type":"Point"}
+  "bbox": [
+    -106.391961,
+    31.790363,
+    -106.391961,
+    31.790363
+],
+  "geometry": {"coordinates":[-106.39196099999999,31.790363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236120057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.938101,33.022543,-96.938101,33.022543",
     "geom:latitude":33.022543,
     "geom:longitude":-96.938101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 Fairway Dr Ste 100",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236120057,
-    "wof:lastmodified":1449004676,
+    "wof:lastmodified":1467084012,
     "wof:name":"Fairway Dental",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clinic"
     ]
 },
-  "bbox": [-96.938101,33.022543,-96.938101,33.022543],
+  "bbox": [
+    -96.938101,
+    33.022543,
+    -96.938101,
+    33.022543
+],
   "geometry": {"coordinates":[-96.938101,33.022543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269484121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.179403,32.582536,-97.179403,32.582536",
     "geom:latitude":32.582536,
     "geom:longitude":-97.179403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 Highway 1187",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":269484121,
-    "wof:lastmodified":1449038834,
+    "wof:lastmodified":1467084634,
     "wof:name":"Calverley Heating & Air",
     "wof:parent_id":85854779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.179403,32.582536,-97.179403,32.582536],
-  "geometry": {"coordinates":[-97.179403,32.582536],"type":"Point"}
+  "bbox": [
+    -97.179403,
+    32.582536,
+    -97.179403,
+    32.582536
+],
+  "geometry": {"coordinates":[-97.17940299999999,32.582536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270223409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.549561,29.711063,-95.549561,29.711063",
     "geom:latitude":29.711063,
     "geom:longitude":-95.549561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Westline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":270223409,
-    "wof:lastmodified":1449008820,
+    "wof:lastmodified":1467084155,
     "wof:name":"Southwest Central Air Conditioning",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.549561,29.711063,-95.549561,29.711063],
+  "bbox": [
+    -95.549561,
+    29.711063,
+    -95.549561,
+    29.711063
+],
   "geometry": {"coordinates":[-95.549561,29.711063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303428431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.684526,30.431023,-97.684526,30.431023",
     "geom:latitude":30.431023,
     "geom:longitude":-97.684526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Howard Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303428431,
-    "wof:lastmodified":1449000399,
+    "wof:lastmodified":1467083804,
     "wof:name":"Load Bank Of America",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "internet"
     ]
 },
-  "bbox": [-97.684526,30.431023,-97.684526,30.431023],
-  "geometry": {"coordinates":[-97.684526,30.431023],"type":"Point"}
+  "bbox": [
+    -97.684526,
+    30.431023,
+    -97.684526,
+    30.431023
+],
+  "geometry": {"coordinates":[-97.68452600000001,30.431023],"type":"Point"}
 }

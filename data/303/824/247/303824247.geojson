@@ -2,13 +2,14 @@
   "id": 303824247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744809,30.411144,-97.744809,30.411144",
     "geom:latitude":30.411144,
     "geom:longitude":-97.744809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11411 Research Boulevard Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303824247,
-    "wof:lastmodified":1448998991,
+    "wof:lastmodified":1467083735,
     "wof:name":"Wind River Crossing",
     "wof:parent_id":85893531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.744809,30.411144,-97.744809,30.411144],
+  "bbox": [
+    -97.744809,
+    30.411144,
+    -97.744809,
+    30.411144
+],
   "geometry": {"coordinates":[-97.744809,30.411144],"type":"Point"}
 }

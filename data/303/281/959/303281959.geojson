@@ -2,13 +2,14 @@
   "id": 303281959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.807161,30.302604,-97.807161,30.302604",
     "geom:latitude":30.302604,
     "geom:longitude":-97.807161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Springdale Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303281959,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1467083794,
     "wof:name":"Westlake Woodwerks",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.807161,30.302604,-97.807161,30.302604],
-  "geometry": {"coordinates":[-97.807161,30.302604],"type":"Point"}
+  "bbox": [
+    -97.807161,
+    30.302604,
+    -97.807161,
+    30.302604
+],
+  "geometry": {"coordinates":[-97.80716099999999,30.302604],"type":"Point"}
 }

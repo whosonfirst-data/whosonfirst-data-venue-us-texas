@@ -2,13 +2,14 @@
   "id": 253076835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.352236,29.562223,-98.352236,29.562223",
     "geom:latitude":29.562223,
     "geom:longitude":-98.352236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14039 Toepperwein Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253076835,
-    "wof:lastmodified":1449065119,
+    "wof:lastmodified":1467085024,
     "wof:name":"Commercial Van",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.352236,29.562223,-98.352236,29.562223],
+  "bbox": [
+    -98.352236,
+    29.562223,
+    -98.352236,
+    29.562223
+],
   "geometry": {"coordinates":[-98.352236,29.562223],"type":"Point"}
 }

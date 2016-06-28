@@ -2,13 +2,14 @@
   "id": 371043057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.84771,33.065854,-96.84771,33.065854",
     "geom:latitude":33.065854,
     "geom:longitude":-96.84771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6637 Whispering Woods Ct",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":371043057,
-    "wof:lastmodified":1449049828,
+    "wof:lastmodified":1467084685,
     "wof:name":"Trimble Land & Cattle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "an"
     ]
 },
-  "bbox": [-96.84771,33.065854,-96.84771,33.065854],
-  "geometry": {"coordinates":[-96.84771,33.065854],"type":"Point"}
+  "bbox": [
+    -96.84771,
+    33.065854,
+    -96.84771,
+    33.065854
+],
+  "geometry": {"coordinates":[-96.84771000000001,33.065854],"type":"Point"}
 }

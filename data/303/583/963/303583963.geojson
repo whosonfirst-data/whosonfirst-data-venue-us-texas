@@ -2,13 +2,14 @@
   "id": 303583963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.800179,30.214016,-97.800179,30.214016",
     "geom:latitude":30.214016,
     "geom:longitude":-97.800179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5726 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303583963,
-    "wof:lastmodified":1449000050,
+    "wof:lastmodified":1467083787,
     "wof:name":"The Arc of Texas",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "human"
     ]
 },
-  "bbox": [-97.800179,30.214016,-97.800179,30.214016],
+  "bbox": [
+    -97.800179,
+    30.214016,
+    -97.800179,
+    30.214016
+],
   "geometry": {"coordinates":[-97.800179,30.214016],"type":"Point"}
 }

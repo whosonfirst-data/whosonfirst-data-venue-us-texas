@@ -2,13 +2,14 @@
   "id": 253191715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.506295,29.515278,-98.506295,29.515278",
     "geom:latitude":29.515278,
     "geom:longitude":-98.506295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Thames Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253191715,
-    "wof:lastmodified":1449064598,
+    "wof:lastmodified":1467085006,
     "wof:name":"San Antonio Good News",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-98.506295,29.515278,-98.506295,29.515278],
-  "geometry": {"coordinates":[-98.506295,29.515278],"type":"Point"}
+  "bbox": [
+    -98.506295,
+    29.515278,
+    -98.506295,
+    29.515278
+],
+  "geometry": {"coordinates":[-98.50629499999999,29.515278],"type":"Point"}
 }

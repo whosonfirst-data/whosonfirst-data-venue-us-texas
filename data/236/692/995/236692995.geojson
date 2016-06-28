@@ -2,13 +2,14 @@
   "id": 236692995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.610971,32.801165,-96.610971,32.801165",
     "geom:latitude":32.801165,
     "geom:longitude":-96.610971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2698 N Galloway Ave Ste 107",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236692995,
-    "wof:lastmodified":1449002340,
+    "wof:lastmodified":1467083902,
     "wof:name":"Dallas Renal Group",
     "wof:parent_id":85878905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.610971,32.801165,-96.610971,32.801165],
-  "geometry": {"coordinates":[-96.610971,32.801165],"type":"Point"}
+  "bbox": [
+    -96.610971,
+    32.801165,
+    -96.610971,
+    32.801165
+],
+  "geometry": {"coordinates":[-96.61097100000001,32.801165],"type":"Point"}
 }

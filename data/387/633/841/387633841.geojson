@@ -2,13 +2,14 @@
   "id": 387633841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.306154,32.266479,-95.306154,32.266479",
     "geom:latitude":32.266479,
     "geom:longitude":-95.306154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Heritage Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387633841,
-    "wof:lastmodified":1449059892,
+    "wof:lastmodified":1467084882,
     "wof:name":"Grandma's Fried Chicken Office",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.306154,32.266479,-95.306154,32.266479],
-  "geometry": {"coordinates":[-95.306154,32.266479],"type":"Point"}
+  "bbox": [
+    -95.306154,
+    32.266479,
+    -95.306154,
+    32.266479
+],
+  "geometry": {"coordinates":[-95.30615400000001,32.266479],"type":"Point"}
 }

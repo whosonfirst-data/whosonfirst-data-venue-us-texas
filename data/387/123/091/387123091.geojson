@@ -2,13 +2,14 @@
   "id": 387123091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.124669,29.806714,-95.124669,29.806714",
     "geom:latitude":29.806714,
     "geom:longitude":-95.124669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Sheldon Rd",
     "sg:city":"Channelview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387123091,
-    "wof:lastmodified":1449057237,
+    "wof:lastmodified":1467084813,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-95.124669,29.806714,-95.124669,29.806714],
+  "bbox": [
+    -95.124669,
+    29.806714,
+    -95.124669,
+    29.806714
+],
   "geometry": {"coordinates":[-95.124669,29.806714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253177265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.823402,32.926701,-96.823402,32.926701",
     "geom:latitude":32.926701,
     "geom:longitude":-96.823402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Lyndon B Johnson Fwy Ste 900",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253177265,
-    "wof:lastmodified":1449065803,
+    "wof:lastmodified":1467085047,
     "wof:name":"Churchill Capital",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.823402,32.926701,-96.823402,32.926701],
+  "bbox": [
+    -96.823402,
+    32.926701,
+    -96.823402,
+    32.926701
+],
   "geometry": {"coordinates":[-96.823402,32.926701],"type":"Point"}
 }

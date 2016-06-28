@@ -2,13 +2,14 @@
   "id": 303608265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788276,30.338366,-97.788276,30.338366",
     "geom:latitude":30.338366,
     "geom:longitude":-97.788276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Rockcliff Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303608265,
-    "wof:lastmodified":1448999164,
+    "wof:lastmodified":1467083743,
     "wof:name":"Marcus, Michael P",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.788276,30.338366,-97.788276,30.338366],
+  "bbox": [
+    -97.788276,
+    30.338366,
+    -97.788276,
+    30.338366
+],
   "geometry": {"coordinates":[-97.788276,30.338366],"type":"Point"}
 }

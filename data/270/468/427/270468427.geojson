@@ -2,13 +2,14 @@
   "id": 270468427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508598,29.722401,-95.508598,29.722401",
     "geom:latitude":29.722401,
     "geom:longitude":-95.508598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8168 Westpark Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270468427,
-    "wof:lastmodified":1449010405,
+    "wof:lastmodified":1467084208,
     "wof:name":"In-Touch Cellular",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.508598,29.722401,-95.508598,29.722401],
-  "geometry": {"coordinates":[-95.508598,29.722401],"type":"Point"}
+  "bbox": [
+    -95.508598,
+    29.722401,
+    -95.508598,
+    29.722401
+],
+  "geometry": {"coordinates":[-95.50859800000001,29.722401],"type":"Point"}
 }

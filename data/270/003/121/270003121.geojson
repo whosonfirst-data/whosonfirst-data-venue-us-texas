@@ -2,13 +2,14 @@
   "id": 270003121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.300363,29.871455,-95.300363,29.871455",
     "geom:latitude":29.871455,
     "geom:longitude":-95.300363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 Little York Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270003121,
-    "wof:lastmodified":1449010909,
+    "wof:lastmodified":1467084225,
     "wof:name":"Northeast Houston Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.300363,29.871455,-95.300363,29.871455],
+  "bbox": [
+    -95.300363,
+    29.871455,
+    -95.300363,
+    29.871455
+],
   "geometry": {"coordinates":[-95.300363,29.871455],"type":"Point"}
 }

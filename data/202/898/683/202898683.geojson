@@ -2,13 +2,14 @@
   "id": 202898683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145072,32.876247,-97.145072,32.876247",
     "geom:latitude":32.876247,
     "geom:longitude":-97.145072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Stafford Dr",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202898683,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1467084886,
     "wof:name":"Prime Source",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-97.145072,32.876247,-97.145072,32.876247],
+  "bbox": [
+    -97.145072,
+    32.876247,
+    -97.145072,
+    32.876247
+],
   "geometry": {"coordinates":[-97.145072,32.876247],"type":"Point"}
 }

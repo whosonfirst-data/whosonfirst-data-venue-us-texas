@@ -2,13 +2,14 @@
   "id": 186412429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412523,29.778519,-95.412523,29.778519",
     "geom:latitude":29.778519,
     "geom:longitude":-95.412523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5014 Cornish St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186412429,
-    "wof:lastmodified":1449050955,
+    "wof:lastmodified":1467084703,
     "wof:name":"Baum Corp",
     "wof:parent_id":85869475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.412523,29.778519,-95.412523,29.778519],
-  "geometry": {"coordinates":[-95.412523,29.778519],"type":"Point"}
+  "bbox": [
+    -95.412523,
+    29.778519,
+    -95.412523,
+    29.778519
+],
+  "geometry": {"coordinates":[-95.41252299999999,29.778519],"type":"Point"}
 }

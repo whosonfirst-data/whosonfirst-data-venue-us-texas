@@ -2,13 +2,14 @@
   "id": 202680461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560447,29.66199,-95.560447,29.66199",
     "geom:latitude":29.66199,
     "geom:longitude":-95.560447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10419 Rockley Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202680461,
-    "wof:lastmodified":1449061872,
+    "wof:lastmodified":1467084925,
     "wof:name":"Houston Photonics Inc",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.560447,29.66199,-95.560447,29.66199],
+  "bbox": [
+    -95.560447,
+    29.66199,
+    -95.560447,
+    29.66199
+],
   "geometry": {"coordinates":[-95.560447,29.66199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370312243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503866,29.361704,-98.503866,29.361704",
     "geom:latitude":29.361704,
     "geom:longitude":-98.503866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Pleasanton Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370312243,
-    "wof:lastmodified":1449030789,
+    "wof:lastmodified":1467084512,
     "wof:name":"Botanical Alquimist",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-98.503866,29.361704,-98.503866,29.361704],
+  "bbox": [
+    -98.503866,
+    29.361704,
+    -98.503866,
+    29.361704
+],
   "geometry": {"coordinates":[-98.503866,29.361704],"type":"Point"}
 }

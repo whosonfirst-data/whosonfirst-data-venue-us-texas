@@ -2,13 +2,14 @@
   "id": 303218931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749106,30.267767,-97.749106,30.267767",
     "geom:latitude":30.267767,
     "geom:longitude":-97.749106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4th & Nueces Streets",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303218931,
-    "wof:lastmodified":1448999668,
+    "wof:lastmodified":1467083769,
     "wof:name":"Juan Pelota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.749106,30.267767,-97.749106,30.267767],
+  "bbox": [
+    -97.749106,
+    30.267767,
+    -97.749106,
+    30.267767
+],
   "geometry": {"coordinates":[-97.749106,30.267767],"type":"Point"}
 }

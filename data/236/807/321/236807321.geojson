@@ -2,13 +2,14 @@
   "id": 236807321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39105,29.812361,-95.39105,29.812361",
     "geom:latitude":29.812361,
     "geom:longitude":-95.39105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E 28th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236807321,
-    "wof:lastmodified":1449002313,
+    "wof:lastmodified":1467083900,
     "wof:name":"Stuart M Goswick",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-95.39105,29.812361,-95.39105,29.812361],
-  "geometry": {"coordinates":[-95.39105,29.812361],"type":"Point"}
+  "bbox": [
+    -95.39105,
+    29.812361,
+    -95.39105,
+    29.812361
+],
+  "geometry": {"coordinates":[-95.39105000000001,29.812361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404177683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.542972,29.64445,-95.542972,29.64445",
     "geom:latitude":29.64445,
     "geom:longitude":-95.542972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12523 Chessington Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404177683,
-    "wof:lastmodified":1449040323,
+    "wof:lastmodified":1467084660,
     "wof:name":"JBF Enterprises",
     "wof:parent_id":85893845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.542972,29.64445,-95.542972,29.64445],
-  "geometry": {"coordinates":[-95.542972,29.64445],"type":"Point"}
+  "bbox": [
+    -95.542972,
+    29.64445,
+    -95.542972,
+    29.64445
+],
+  "geometry": {"coordinates":[-95.54297200000001,29.64445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252707429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49353,28.95602,-98.49353,28.95602",
     "geom:latitude":28.95602,
     "geom:longitude":-98.49353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 W Oaklawn Rd",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252707429,
-    "wof:lastmodified":1449006353,
+    "wof:lastmodified":1467084100,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-98.49353,28.95602,-98.49353,28.95602],
-  "geometry": {"coordinates":[-98.49353,28.95602],"type":"Point"}
+  "bbox": [
+    -98.49353,
+    28.95602,
+    -98.49353,
+    28.95602
+],
+  "geometry": {"coordinates":[-98.49353000000001,28.95602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386947769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713557,32.650073,-96.713557,32.650073",
     "geom:latitude":32.650073,
     "geom:longitude":-96.713557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Main St",
     "sg:city":"Hutchins",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386947769,
-    "wof:lastmodified":1449028863,
+    "wof:lastmodified":1467084463,
     "wof:name":"Adrian's Cellular Solution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-96.713557,32.650073,-96.713557,32.650073],
-  "geometry": {"coordinates":[-96.713557,32.650073],"type":"Point"}
+  "bbox": [
+    -96.713557,
+    32.650073,
+    -96.713557,
+    32.650073
+],
+  "geometry": {"coordinates":[-96.71355699999999,32.650073],"type":"Point"}
 }

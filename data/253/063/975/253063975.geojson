@@ -2,13 +2,14 @@
   "id": 253063975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.762183,29.463694,-98.762183,29.463694",
     "geom:latitude":29.463694,
     "geom:longitude":-98.762183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3075 Talley Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253063975,
-    "wof:lastmodified":1449063074,
+    "wof:lastmodified":1467084953,
     "wof:name":"Insured Transporters",
     "wof:parent_id":85837993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporter"
     ]
 },
-  "bbox": [-98.762183,29.463694,-98.762183,29.463694],
-  "geometry": {"coordinates":[-98.762183,29.463694],"type":"Point"}
+  "bbox": [
+    -98.762183,
+    29.463694,
+    -98.762183,
+    29.463694
+],
+  "geometry": {"coordinates":[-98.76218299999999,29.463694],"type":"Point"}
 }

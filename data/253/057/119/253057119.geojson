@@ -2,13 +2,14 @@
   "id": 253057119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.845406,32.823812,-96.845406,32.823812",
     "geom:latitude":32.823812,
     "geom:longitude":-96.845406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6363 Forest Park Rd Ste 1040",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253057119,
-    "wof:lastmodified":1449064285,
+    "wof:lastmodified":1467084995,
     "wof:name":"Medical Risk Management",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "malpractice"
     ]
 },
-  "bbox": [-96.845406,32.823812,-96.845406,32.823812],
+  "bbox": [
+    -96.845406,
+    32.823812,
+    -96.845406,
+    32.823812
+],
   "geometry": {"coordinates":[-96.845406,32.823812],"type":"Point"}
 }

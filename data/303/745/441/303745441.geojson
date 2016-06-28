@@ -2,13 +2,14 @@
   "id": 303745441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.649791,30.337853,-97.649791,30.337853",
     "geom:latitude":30.337853,
     "geom:longitude":-97.649791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Springdale Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303745441,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1467083807,
     "wof:name":"Croft Associates Architects",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "engineer"
     ]
 },
-  "bbox": [-97.649791,30.337853,-97.649791,30.337853],
-  "geometry": {"coordinates":[-97.649791,30.337853],"type":"Point"}
+  "bbox": [
+    -97.649791,
+    30.337853,
+    -97.649791,
+    30.337853
+],
+  "geometry": {"coordinates":[-97.64979099999999,30.337853],"type":"Point"}
 }

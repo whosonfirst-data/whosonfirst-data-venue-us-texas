@@ -2,13 +2,14 @@
   "id": 236905225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806529,32.836275,-96.806529,32.836275",
     "geom:latitude":32.836275,
     "geom:longitude":-96.806529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Highland Park Village Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":236905225,
-    "wof:lastmodified":1449002841,
+    "wof:lastmodified":1467083925,
     "wof:name":"Highland Park Village Shopping Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.806529,32.836275,-96.806529,32.836275],
+  "bbox": [
+    -96.806529,
+    32.836275,
+    -96.806529,
+    32.836275
+],
   "geometry": {"coordinates":[-96.806529,32.836275],"type":"Point"}
 }

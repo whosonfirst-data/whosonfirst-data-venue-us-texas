@@ -2,13 +2,14 @@
   "id": 202955375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.56104,33.858093,-98.56104,33.858093",
     "geom:latitude":33.858093,
     "geom:longitude":-98.56104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Southwest Pkwy",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202955375,
-    "wof:lastmodified":1449061846,
+    "wof:lastmodified":1467084924,
     "wof:name":"Blockbuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-98.56104,33.858093,-98.56104,33.858093],
-  "geometry": {"coordinates":[-98.56104,33.858093],"type":"Point"}
+  "bbox": [
+    -98.56104,
+    33.858093,
+    -98.56104,
+    33.858093
+],
+  "geometry": {"coordinates":[-98.56104000000001,33.858093],"type":"Point"}
 }

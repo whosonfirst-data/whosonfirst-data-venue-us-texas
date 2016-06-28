@@ -2,13 +2,14 @@
   "id": 253174307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833464,32.93547,-96.833464,32.93547",
     "geom:latitude":32.93547,
     "geom:longitude":-96.833464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13719 Omega Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":253174307,
-    "wof:lastmodified":1449063220,
+    "wof:lastmodified":1467084958,
     "wof:name":"Aspen Packaging & Forest Products Inc",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.833464,32.93547,-96.833464,32.93547],
-  "geometry": {"coordinates":[-96.833464,32.93547],"type":"Point"}
+  "bbox": [
+    -96.833464,
+    32.93547,
+    -96.833464,
+    32.93547
+],
+  "geometry": {"coordinates":[-96.83346400000001,32.93547],"type":"Point"}
 }

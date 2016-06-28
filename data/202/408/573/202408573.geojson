@@ -2,13 +2,14 @@
   "id": 202408573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.014508,29.531952,-95.014508,29.531952",
     "geom:latitude":29.531952,
     "geom:longitude":-95.014508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 State Hwy 146",
     "sg:city":"Kemah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202408573,
-    "wof:lastmodified":1449060413,
+    "wof:lastmodified":1467084894,
     "wof:name":"Awesome Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.014508,29.531952,-95.014508,29.531952],
-  "geometry": {"coordinates":[-95.014508,29.531952],"type":"Point"}
+  "bbox": [
+    -95.014508,
+    29.531952,
+    -95.014508,
+    29.531952
+],
+  "geometry": {"coordinates":[-95.01450800000001,29.531952],"type":"Point"}
 }

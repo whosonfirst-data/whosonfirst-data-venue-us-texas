@@ -2,13 +2,14 @@
   "id": 387048277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.31905,31.753215,-106.31905,31.753215",
     "geom:latitude":31.753215,
     "geom:longitude":-106.31905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Lee Trevino Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387048277,
-    "wof:lastmodified":1449057419,
+    "wof:lastmodified":1467084817,
     "wof:name":"Vintage Drive Through",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-106.31905,31.753215,-106.31905,31.753215],
+  "bbox": [
+    -106.31905,
+    31.753215,
+    -106.31905,
+    31.753215
+],
   "geometry": {"coordinates":[-106.31905,31.753215],"type":"Point"}
 }

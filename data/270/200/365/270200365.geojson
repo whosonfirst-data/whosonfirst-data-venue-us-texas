@@ -2,13 +2,14 @@
   "id": 270200365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.213448,29.61445,-95.213448,29.61445",
     "geom:latitude":29.61445,
     "geom:longitude":-95.213448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12811 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270200365,
-    "wof:lastmodified":1449009608,
+    "wof:lastmodified":1467084182,
     "wof:name":"Partners in Time",
     "wof:parent_id":85893781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-95.213448,29.61445,-95.213448,29.61445],
+  "bbox": [
+    -95.213448,
+    29.61445,
+    -95.213448,
+    29.61445
+],
   "geometry": {"coordinates":[-95.213448,29.61445],"type":"Point"}
 }

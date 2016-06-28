@@ -2,13 +2,14 @@
   "id": 202567619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.369159,29.745184,-95.369159,29.745184",
     "geom:latitude":29.745184,
     "geom:longitude":-95.369159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Austin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202567619,
-    "wof:lastmodified":1449062665,
+    "wof:lastmodified":1467084941,
     "wof:name":"Friendly Haven",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.369159,29.745184,-95.369159,29.745184],
+  "bbox": [
+    -95.369159,
+    29.745184,
+    -95.369159,
+    29.745184
+],
   "geometry": {"coordinates":[-95.369159,29.745184],"type":"Point"}
 }

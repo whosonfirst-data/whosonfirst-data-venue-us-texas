@@ -2,13 +2,14 @@
   "id": 185681035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.659883,29.404376,-98.659883,29.404376",
     "geom:latitude":29.404376,
     "geom:longitude":-98.659883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Zabra St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185681035,
-    "wof:lastmodified":1449007601,
+    "wof:lastmodified":1467084129,
     "wof:name":"Daylight Appliances",
     "wof:parent_id":85827935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-98.659883,29.404376,-98.659883,29.404376],
-  "geometry": {"coordinates":[-98.659883,29.404376],"type":"Point"}
+  "bbox": [
+    -98.659883,
+    29.404376,
+    -98.659883,
+    29.404376
+],
+  "geometry": {"coordinates":[-98.65988299999999,29.404376],"type":"Point"}
 }

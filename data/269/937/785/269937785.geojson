@@ -2,13 +2,14 @@
   "id": 269937785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.410503,29.801751,-95.410503,29.801751",
     "geom:latitude":29.801751,
     "geom:longitude":-95.410503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 W 18th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":269937785,
-    "wof:lastmodified":1449036598,
+    "wof:lastmodified":1467084584,
     "wof:name":"Airmaker Air Cond & Heating",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.410503,29.801751,-95.410503,29.801751],
-  "geometry": {"coordinates":[-95.410503,29.801751],"type":"Point"}
+  "bbox": [
+    -95.410503,
+    29.801751,
+    -95.410503,
+    29.801751
+],
+  "geometry": {"coordinates":[-95.41050300000001,29.801751],"type":"Point"}
 }

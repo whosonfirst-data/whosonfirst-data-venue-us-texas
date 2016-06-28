@@ -2,13 +2,14 @@
   "id": 287262409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.500786,25.904845,-97.500786,25.904845",
     "geom:latitude":25.904845,
     "geom:longitude":-97.500786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 E Washington St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287262409,
-    "wof:lastmodified":1449001211,
+    "wof:lastmodified":1467083836,
     "wof:name":"CHASE Bank",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.500786,25.904845,-97.500786,25.904845],
-  "geometry": {"coordinates":[-97.500786,25.904845],"type":"Point"}
+  "bbox": [
+    -97.500786,
+    25.904845,
+    -97.500786,
+    25.904845
+],
+  "geometry": {"coordinates":[-97.50078600000001,25.904845],"type":"Point"}
 }

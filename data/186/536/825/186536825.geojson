@@ -2,13 +2,14 @@
   "id": 186536825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.832617,32.962654,-101.832617,32.962654",
     "geom:latitude":32.962654,
     "geom:longitude":-101.832617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Doak St",
     "sg:city":"Odonnell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186536825,
-    "wof:lastmodified":1449051968,
+    "wof:lastmodified":1467084725,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.832617,32.962654,-101.832617,32.962654],
+  "bbox": [
+    -101.832617,
+    32.962654,
+    -101.832617,
+    32.962654
+],
   "geometry": {"coordinates":[-101.832617,32.962654],"type":"Point"}
 }

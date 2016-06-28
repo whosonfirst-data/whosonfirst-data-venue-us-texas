@@ -2,13 +2,14 @@
   "id": 353499005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.318933,29.813224,-95.318933,29.813224",
     "geom:latitude":29.813224,
     "geom:longitude":-95.318933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Pickfair St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353499005,
-    "wof:lastmodified":1449018744,
+    "wof:lastmodified":1467084332,
     "wof:name":"Stop N Go Defensive Driving",
     "wof:parent_id":85869741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.318933,29.813224,-95.318933,29.813224],
+  "bbox": [
+    -95.318933,
+    29.813224,
+    -95.318933,
+    29.813224
+],
   "geometry": {"coordinates":[-95.318933,29.813224],"type":"Point"}
 }

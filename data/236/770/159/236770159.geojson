@@ -2,13 +2,14 @@
   "id": 236770159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.617787,29.542351,-98.617787,29.542351",
     "geom:latitude":29.542351,
     "geom:longitude":-98.617787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 Rambling Trail Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236770159,
-    "wof:lastmodified":1449005320,
+    "wof:lastmodified":1467084043,
     "wof:name":"Aero AC & Htg Svc",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-98.617787,29.542351,-98.617787,29.542351],
-  "geometry": {"coordinates":[-98.617787,29.542351],"type":"Point"}
+  "bbox": [
+    -98.617787,
+    29.542351,
+    -98.617787,
+    29.542351
+],
+  "geometry": {"coordinates":[-98.61778700000001,29.542351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353871147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234395,26.197401,-98.234395,26.197401",
     "geom:latitude":26.197401,
     "geom:longitude":-98.234395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Galveston Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353871147,
-    "wof:lastmodified":1449019091,
+    "wof:lastmodified":1467084339,
     "wof:name":"South Tx Immigration",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "immigration"
     ]
 },
-  "bbox": [-98.234395,26.197401,-98.234395,26.197401],
-  "geometry": {"coordinates":[-98.234395,26.197401],"type":"Point"}
+  "bbox": [
+    -98.234395,
+    26.197401,
+    -98.234395,
+    26.197401
+],
+  "geometry": {"coordinates":[-98.23439500000001,26.197401],"type":"Point"}
 }

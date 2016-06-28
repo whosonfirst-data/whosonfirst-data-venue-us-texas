@@ -2,13 +2,14 @@
   "id": 269908345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.384499,29.7465,-95.384499,29.7465",
     "geom:latitude":29.7465,
     "geom:longitude":-95.384499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Stratford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269908345,
-    "wof:lastmodified":1449037498,
+    "wof:lastmodified":1467084609,
     "wof:name":"Dietz C Logan",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.384499,29.7465,-95.384499,29.7465],
-  "geometry": {"coordinates":[-95.384499,29.7465],"type":"Point"}
+  "bbox": [
+    -95.384499,
+    29.7465,
+    -95.384499,
+    29.7465
+],
+  "geometry": {"coordinates":[-95.38449900000001,29.7465],"type":"Point"}
 }

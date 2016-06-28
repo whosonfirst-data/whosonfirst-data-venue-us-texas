@@ -2,13 +2,14 @@
   "id": 219820003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485593,31.771106,-106.485593,31.771106",
     "geom:latitude":31.771106,
     "geom:longitude":-106.485593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Nevada Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219820003,
-    "wof:lastmodified":1449072207,
+    "wof:lastmodified":1467085138,
     "wof:name":"E E & E Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.485593,31.771106,-106.485593,31.771106],
-  "geometry": {"coordinates":[-106.485593,31.771106],"type":"Point"}
+  "bbox": [
+    -106.485593,
+    31.771106,
+    -106.485593,
+    31.771106
+],
+  "geometry": {"coordinates":[-106.48559299999999,31.771106],"type":"Point"}
 }

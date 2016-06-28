@@ -2,13 +2,14 @@
   "id": 303338543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.763047,30.236749,-97.763047,30.236749",
     "geom:latitude":30.236749,
     "geom:longitude":-97.763047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S 1st Street Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303338543,
-    "wof:lastmodified":1448998962,
+    "wof:lastmodified":1467083734,
     "wof:name":"Silvercreek Apartments",
     "wof:parent_id":85869931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.763047,30.236749,-97.763047,30.236749],
+  "bbox": [
+    -97.763047,
+    30.236749,
+    -97.763047,
+    30.236749
+],
   "geometry": {"coordinates":[-97.763047,30.236749],"type":"Point"}
 }

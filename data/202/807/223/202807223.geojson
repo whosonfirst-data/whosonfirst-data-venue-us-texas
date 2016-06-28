@@ -2,13 +2,14 @@
   "id": 202807223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.283473,30.565406,-96.283473,30.565406",
     "geom:latitude":30.565406,
     "geom:longitude":-96.283473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Baywood Ct",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202807223,
-    "wof:lastmodified":1449060762,
+    "wof:lastmodified":1467084901,
     "wof:name":"Santos Inc",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-96.283473,30.565406,-96.283473,30.565406],
+  "bbox": [
+    -96.283473,
+    30.565406,
+    -96.283473,
+    30.565406
+],
   "geometry": {"coordinates":[-96.283473,30.565406],"type":"Point"}
 }

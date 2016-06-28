@@ -2,13 +2,14 @@
   "id": 354411345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.436518,29.73422,-95.436518,29.73422",
     "geom:latitude":29.73422,
     "geom:longitude":-95.436518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Timmons Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354411345,
-    "wof:lastmodified":1449066028,
+    "wof:lastmodified":1467085054,
     "wof:name":"Annovo",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-95.436518,29.73422,-95.436518,29.73422],
-  "geometry": {"coordinates":[-95.436518,29.73422],"type":"Point"}
+  "bbox": [
+    -95.436518,
+    29.73422,
+    -95.436518,
+    29.73422
+],
+  "geometry": {"coordinates":[-95.43651800000001,29.73422],"type":"Point"}
 }

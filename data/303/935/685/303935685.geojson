@@ -2,13 +2,14 @@
   "id": 303935685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.847099,35.215462,-101.847099,35.215462",
     "geom:latitude":35.215462,
     "geom:longitude":-101.847099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 NW 1st Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303935685,
-    "wof:lastmodified":1449000125,
+    "wof:lastmodified":1467083791,
     "wof:name":"Tech Spray",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hand"
     ]
 },
-  "bbox": [-101.847099,35.215462,-101.847099,35.215462],
+  "bbox": [
+    -101.847099,
+    35.215462,
+    -101.847099,
+    35.215462
+],
   "geometry": {"coordinates":[-101.847099,35.215462],"type":"Point"}
 }

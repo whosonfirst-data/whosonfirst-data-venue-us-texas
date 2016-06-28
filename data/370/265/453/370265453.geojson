@@ -2,13 +2,14 @@
   "id": 370265453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.815323,35.21522,-101.815323,35.21522",
     "geom:latitude":35.21522,
     "geom:longitude":-101.815323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N Williams St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370265453,
-    "wof:lastmodified":1449030256,
+    "wof:lastmodified":1467084498,
     "wof:name":"Charlie's Machine & Welding",
     "wof:parent_id":85875853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-101.815323,35.21522,-101.815323,35.21522],
-  "geometry": {"coordinates":[-101.815323,35.21522],"type":"Point"}
+  "bbox": [
+    -101.815323,
+    35.21522,
+    -101.815323,
+    35.21522
+],
+  "geometry": {"coordinates":[-101.81532300000001,35.21522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370432353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.758324,32.402476,-99.758324,32.402476",
     "geom:latitude":32.402476,
     "geom:longitude":-99.758324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4109 S Danville Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370432353,
-    "wof:lastmodified":1449029009,
+    "wof:lastmodified":1467084467,
     "wof:name":"Little Texas",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-99.758324,32.402476,-99.758324,32.402476],
+  "bbox": [
+    -99.758324,
+    32.402476,
+    -99.758324,
+    32.402476
+],
   "geometry": {"coordinates":[-99.758324,32.402476],"type":"Point"}
 }

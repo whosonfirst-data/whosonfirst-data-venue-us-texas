@@ -2,13 +2,14 @@
   "id": 387692503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.733685,29.775869,-95.733685,29.775869",
     "geom:latitude":29.775869,
     "geom:longitude":-95.733685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20829 Kingsland Blvd",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387692503,
-    "wof:lastmodified":1449057113,
+    "wof:lastmodified":1467084810,
     "wof:name":"Church On Rock Katy",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.733685,29.775869,-95.733685,29.775869],
-  "geometry": {"coordinates":[-95.733685,29.775869],"type":"Point"}
+  "bbox": [
+    -95.733685,
+    29.775869,
+    -95.733685,
+    29.775869
+],
+  "geometry": {"coordinates":[-95.73368499999999,29.775869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370268985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.705301,30.317588,-97.705301,30.317588",
     "geom:latitude":30.317588,
     "geom:longitude":-97.705301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Reinli St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370268985,
-    "wof:lastmodified":1449030997,
+    "wof:lastmodified":1467084517,
     "wof:name":"Tint Specialist",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tinting"
     ]
 },
-  "bbox": [-97.705301,30.317588,-97.705301,30.317588],
-  "geometry": {"coordinates":[-97.705301,30.317588],"type":"Point"}
+  "bbox": [
+    -97.705301,
+    30.317588,
+    -97.705301,
+    30.317588
+],
+  "geometry": {"coordinates":[-97.70530100000001,30.317588],"type":"Point"}
 }

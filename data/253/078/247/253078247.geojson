@@ -2,13 +2,14 @@
   "id": 253078247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.888107,32.677616,-96.888107,32.677616",
     "geom:latitude":32.677616,
     "geom:longitude":-96.888107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5613 Blue Bird Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253078247,
-    "wof:lastmodified":1449065310,
+    "wof:lastmodified":1467085031,
     "wof:name":"Sharrari Swim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.888107,32.677616,-96.888107,32.677616],
-  "geometry": {"coordinates":[-96.888107,32.677616],"type":"Point"}
+  "bbox": [
+    -96.888107,
+    32.677616,
+    -96.888107,
+    32.677616
+],
+  "geometry": {"coordinates":[-96.88810700000001,32.677616],"type":"Point"}
 }

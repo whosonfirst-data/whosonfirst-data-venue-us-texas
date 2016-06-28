@@ -2,13 +2,14 @@
   "id": 269935003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.421004,29.812228,-95.421004,29.812228",
     "geom:latitude":29.812228,
     "geom:longitude":-95.421004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 North Loop W Ste 1005",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269935003,
-    "wof:lastmodified":1449038420,
+    "wof:lastmodified":1467084627,
     "wof:name":"Bair Tom",
     "wof:parent_id":85869411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.421004,29.812228,-95.421004,29.812228],
+  "bbox": [
+    -95.421004,
+    29.812228,
+    -95.421004,
+    29.812228
+],
   "geometry": {"coordinates":[-95.421004,29.812228],"type":"Point"}
 }

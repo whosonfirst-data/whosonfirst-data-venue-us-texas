@@ -2,13 +2,14 @@
   "id": 354256465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.091255,31.858104,-103.091255,31.858104",
     "geom:latitude":31.858104,
     "geom:longitude":-103.091255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Ash St",
     "sg:city":"Kermit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354256465,
-    "wof:lastmodified":1449067238,
+    "wof:lastmodified":1467085083,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.091255,31.858104,-103.091255,31.858104],
+  "bbox": [
+    -103.091255,
+    31.858104,
+    -103.091255,
+    31.858104
+],
   "geometry": {"coordinates":[-103.091255,31.858104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186330471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.398587,32.774048,-97.398587,32.774048",
     "geom:latitude":32.774048,
     "geom:longitude":-97.398587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5157 River Oaks Blvd",
     "sg:city":"River Oaks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186330471,
-    "wof:lastmodified":1449051717,
+    "wof:lastmodified":1467084720,
     "wof:name":"Hair On The Run",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.398587,32.774048,-97.398587,32.774048],
-  "geometry": {"coordinates":[-97.398587,32.774048],"type":"Point"}
+  "bbox": [
+    -97.398587,
+    32.774048,
+    -97.398587,
+    32.774048
+],
+  "geometry": {"coordinates":[-97.39858700000001,32.774048],"type":"Point"}
 }

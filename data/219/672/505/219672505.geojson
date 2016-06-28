@@ -2,13 +2,14 @@
   "id": 219672505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.37977,29.735007,-95.37977,29.735007",
     "geom:latitude":29.735007,
     "geom:longitude":-95.37977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 San Jacinto St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219672505,
-    "wof:lastmodified":1449070613,
+    "wof:lastmodified":1467085104,
     "wof:name":"Regal Medical Supply and Distr",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.37977,29.735007,-95.37977,29.735007],
-  "geometry": {"coordinates":[-95.37977,29.735007],"type":"Point"}
+  "bbox": [
+    -95.37977,
+    29.735007,
+    -95.37977,
+    29.735007
+],
+  "geometry": {"coordinates":[-95.37976999999999,29.735007],"type":"Point"}
 }

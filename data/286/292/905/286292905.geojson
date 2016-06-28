@@ -2,13 +2,14 @@
   "id": 286292905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.516511,29.823691,-95.516511,29.823691",
     "geom:latitude":29.823691,
     "geom:longitude":-95.516511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3227 Peppermill Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286292905,
-    "wof:lastmodified":1449015430,
+    "wof:lastmodified":1467084243,
     "wof:name":"Frank Lewis",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-95.516511,29.823691,-95.516511,29.823691],
-  "geometry": {"coordinates":[-95.516511,29.823691],"type":"Point"}
+  "bbox": [
+    -95.516511,
+    29.823691,
+    -95.516511,
+    29.823691
+],
+  "geometry": {"coordinates":[-95.51651099999999,29.823691],"type":"Point"}
 }

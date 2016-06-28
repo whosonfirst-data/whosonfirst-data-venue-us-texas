@@ -2,13 +2,14 @@
   "id": 185741377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529157,32.445802,-97.529157,32.445802",
     "geom:latitude":32.445802,
     "geom:longitude":-97.529157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Godley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185741377,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1467084112,
     "wof:name":"Godley Fire Dept",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.529157,32.445802,-97.529157,32.445802],
+  "bbox": [
+    -97.529157,
+    32.445802,
+    -97.529157,
+    32.445802
+],
   "geometry": {"coordinates":[-97.529157,32.445802],"type":"Point"}
 }

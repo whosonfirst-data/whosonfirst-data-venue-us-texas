@@ -2,13 +2,14 @@
   "id": 185980511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.905239,33.638657,-101.905239,33.638657",
     "geom:latitude":33.638657,
     "geom:longitude":-101.905239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4209 N Quaker Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185980511,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1467084113,
     "wof:name":"Hindman Home Improvement",
     "wof:parent_id":85878793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-101.905239,33.638657,-101.905239,33.638657],
-  "geometry": {"coordinates":[-101.905239,33.638657],"type":"Point"}
+  "bbox": [
+    -101.905239,
+    33.638657,
+    -101.905239,
+    33.638657
+],
+  "geometry": {"coordinates":[-101.90523899999999,33.638657],"type":"Point"}
 }

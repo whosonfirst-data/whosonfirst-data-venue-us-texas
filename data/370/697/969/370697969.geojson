@@ -2,13 +2,14 @@
   "id": 370697969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.882208,32.807569,-96.882208,32.807569",
     "geom:latitude":32.807569,
     "geom:longitude":-96.882208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 Cash Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370697969,
-    "wof:lastmodified":1449031208,
+    "wof:lastmodified":1467084522,
     "wof:name":"Marble Concepts",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-96.882208,32.807569,-96.882208,32.807569],
-  "geometry": {"coordinates":[-96.882208,32.807569],"type":"Point"}
+  "bbox": [
+    -96.882208,
+    32.807569,
+    -96.882208,
+    32.807569
+],
+  "geometry": {"coordinates":[-96.88220800000001,32.807569],"type":"Point"}
 }

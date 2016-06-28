@@ -2,13 +2,14 @@
   "id": 202683349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715072,32.878797,-96.715072,32.878797",
     "geom:latitude":32.878797,
     "geom:longitude":-96.715072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9810 Kingsley Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202683349,
-    "wof:lastmodified":1449061043,
+    "wof:lastmodified":1467084908,
     "wof:name":"Braum's Ice Cream & Dairy",
     "wof:parent_id":85870461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-96.715072,32.878797,-96.715072,32.878797],
-  "geometry": {"coordinates":[-96.715072,32.878797],"type":"Point"}
+  "bbox": [
+    -96.715072,
+    32.878797,
+    -96.715072,
+    32.878797
+],
+  "geometry": {"coordinates":[-96.71507200000001,32.878797],"type":"Point"}
 }

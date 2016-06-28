@@ -2,13 +2,14 @@
   "id": 202645813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.695163,32.978054,-96.695163,32.978054",
     "geom:latitude":32.978054,
     "geom:longitude":-96.695163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Yorkshire Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202645813,
-    "wof:lastmodified":1449060368,
+    "wof:lastmodified":1467084893,
     "wof:name":"Bassic Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.695163,32.978054,-96.695163,32.978054],
-  "geometry": {"coordinates":[-96.695163,32.978054],"type":"Point"}
+  "bbox": [
+    -96.695163,
+    32.978054,
+    -96.695163,
+    32.978054
+],
+  "geometry": {"coordinates":[-96.69516299999999,32.978054],"type":"Point"}
 }

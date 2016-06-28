@@ -2,13 +2,14 @@
   "id": 370732769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.682556,30.279439,-97.682556,30.279439",
     "geom:latitude":30.279439,
     "geom:longitude":-97.682556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Webberville Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370732769,
-    "wof:lastmodified":1449032604,
+    "wof:lastmodified":1467084557,
     "wof:name":"Webberville Baptist Church",
     "wof:parent_id":85893545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.682556,30.279439,-97.682556,30.279439],
-  "geometry": {"coordinates":[-97.682556,30.279439],"type":"Point"}
+  "bbox": [
+    -97.682556,
+    30.279439,
+    -97.682556,
+    30.279439
+],
+  "geometry": {"coordinates":[-97.68255600000001,30.279439],"type":"Point"}
 }

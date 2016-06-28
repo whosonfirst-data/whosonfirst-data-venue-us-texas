@@ -2,13 +2,14 @@
   "id": 387792311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.610637,31.781648,-95.610637,31.781648",
     "geom:latitude":31.781648,
     "geom:longitude":-95.610637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 E Palestine Ave",
     "sg:city":"Palestine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387792311,
-    "wof:lastmodified":1449056915,
+    "wof:lastmodified":1467084805,
     "wof:name":"MBC Resources",
     "wof:parent_id":85897415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-95.610637,31.781648,-95.610637,31.781648],
+  "bbox": [
+    -95.610637,
+    31.781648,
+    -95.610637,
+    31.781648
+],
   "geometry": {"coordinates":[-95.610637,31.781648],"type":"Point"}
 }

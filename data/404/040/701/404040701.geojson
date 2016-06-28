@@ -2,13 +2,14 @@
   "id": 404040701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732673,33.093169,-96.732673,33.093169",
     "geom:latitude":33.093169,
     "geom:longitude":-96.732673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2032 Nottingham Pl",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404040701,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1467084660,
     "wof:name":"Goldleaf",
     "wof:parent_id":85879901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.732673,33.093169,-96.732673,33.093169],
-  "geometry": {"coordinates":[-96.732673,33.093169],"type":"Point"}
+  "bbox": [
+    -96.732673,
+    33.093169,
+    -96.732673,
+    33.093169
+],
+  "geometry": {"coordinates":[-96.73267300000001,33.093169],"type":"Point"}
 }

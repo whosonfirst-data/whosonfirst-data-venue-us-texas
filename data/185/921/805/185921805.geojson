@@ -2,13 +2,14 @@
   "id": 185921805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483244,29.441367,-98.483244,29.441367",
     "geom:latitude":29.441367,
     "geom:longitude":-98.483244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 E Park Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185921805,
-    "wof:lastmodified":1449007628,
+    "wof:lastmodified":1467084129,
     "wof:name":"Menger & Assoc",
     "wof:parent_id":85871045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-98.483244,29.441367,-98.483244,29.441367],
+  "bbox": [
+    -98.483244,
+    29.441367,
+    -98.483244,
+    29.441367
+],
   "geometry": {"coordinates":[-98.483244,29.441367],"type":"Point"}
 }

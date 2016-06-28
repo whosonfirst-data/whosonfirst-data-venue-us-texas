@@ -2,13 +2,14 @@
   "id": 220010681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.215584,32.823783,-97.215584,32.823783",
     "geom:latitude":32.823783,
     "geom:longitude":-97.215584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Glenview Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220010681,
-    "wof:lastmodified":1449074538,
+    "wof:lastmodified":1467085188,
     "wof:name":"Family Healthcare Associates",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-97.215584,32.823783,-97.215584,32.823783],
-  "geometry": {"coordinates":[-97.215584,32.823783],"type":"Point"}
+  "bbox": [
+    -97.215584,
+    32.823783,
+    -97.215584,
+    32.823783
+],
+  "geometry": {"coordinates":[-97.21558400000001,32.823783],"type":"Point"}
 }

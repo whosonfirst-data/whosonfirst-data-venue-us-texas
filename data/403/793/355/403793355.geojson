@@ -2,13 +2,14 @@
   "id": 403793355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.499874,29.987105,-95.499874,29.987105",
     "geom:latitude":29.987105,
     "geom:longitude":-95.499874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 FM 1960 W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403793355,
-    "wof:lastmodified":1449055367,
+    "wof:lastmodified":1467084767,
     "wof:name":"Datanywhere",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.499874,29.987105,-95.499874,29.987105],
-  "geometry": {"coordinates":[-95.499874,29.987105],"type":"Point"}
+  "bbox": [
+    -95.499874,
+    29.987105,
+    -95.499874,
+    29.987105
+],
+  "geometry": {"coordinates":[-95.49987400000001,29.987105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236972873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832305,32.743299,-96.832305,32.743299",
     "geom:latitude":32.743299,
     "geom:longitude":-96.832305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W Jefferson Blvd Ste B",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236972873,
-    "wof:lastmodified":1449003279,
+    "wof:lastmodified":1467083946,
     "wof:name":"Chase",
     "wof:parent_id":85870397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.832305,32.743299,-96.832305,32.743299],
-  "geometry": {"coordinates":[-96.832305,32.743299],"type":"Point"}
+  "bbox": [
+    -96.832305,
+    32.743299,
+    -96.832305,
+    32.743299
+],
+  "geometry": {"coordinates":[-96.83230500000001,32.743299],"type":"Point"}
 }

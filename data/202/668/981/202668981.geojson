@@ -2,13 +2,14 @@
   "id": 202668981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.232583,26.251483,-98.232583,26.251483",
     "geom:latitude":26.251483,
     "geom:longitude":-98.232583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Industrial Dr",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668981,
-    "wof:lastmodified":1449061865,
+    "wof:lastmodified":1467084924,
     "wof:name":"E C Trading",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-98.232583,26.251483,-98.232583,26.251483],
-  "geometry": {"coordinates":[-98.232583,26.251483],"type":"Point"}
+  "bbox": [
+    -98.232583,
+    26.251483,
+    -98.232583,
+    26.251483
+],
+  "geometry": {"coordinates":[-98.23258300000001,26.251483],"type":"Point"}
 }

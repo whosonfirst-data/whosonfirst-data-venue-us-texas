@@ -2,13 +2,14 @@
   "id": 202732597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.534484,29.834277,-95.534484,29.834277",
     "geom:latitude":29.834277,
     "geom:longitude":-95.534484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9733 Brookshire St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202732597,
-    "wof:lastmodified":1449062753,
+    "wof:lastmodified":1467084943,
     "wof:name":"Church Of God Seven Day",
     "wof:parent_id":85869695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.534484,29.834277,-95.534484,29.834277],
-  "geometry": {"coordinates":[-95.534484,29.834277],"type":"Point"}
+  "bbox": [
+    -95.534484,
+    29.834277,
+    -95.534484,
+    29.834277
+],
+  "geometry": {"coordinates":[-95.53448400000001,29.834277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403866719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.391501,32.738764,-97.391501,32.738764",
     "geom:latitude":32.738764,
     "geom:longitude":-97.391501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4812 Camp Bowie Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403866719,
-    "wof:lastmodified":1449055262,
+    "wof:lastmodified":1467084764,
     "wof:name":"Paperdoll",
     "wof:parent_id":85871605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "invitation"
     ]
 },
-  "bbox": [-97.391501,32.738764,-97.391501,32.738764],
-  "geometry": {"coordinates":[-97.391501,32.738764],"type":"Point"}
+  "bbox": [
+    -97.391501,
+    32.738764,
+    -97.391501,
+    32.738764
+],
+  "geometry": {"coordinates":[-97.39150100000001,32.738764],"type":"Point"}
 }

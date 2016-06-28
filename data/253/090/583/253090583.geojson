@@ -2,13 +2,14 @@
   "id": 253090583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707022,32.879207,-96.707022,32.879207",
     "geom:latitude":32.879207,
     "geom:longitude":-96.707022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10301 Walnut Hill Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253090583,
-    "wof:lastmodified":1449065167,
+    "wof:lastmodified":1467085025,
     "wof:name":"Schools",
     "wof:parent_id":85870389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.707022,32.879207,-96.707022,32.879207],
-  "geometry": {"coordinates":[-96.707022,32.879207],"type":"Point"}
+  "bbox": [
+    -96.707022,
+    32.879207,
+    -96.707022,
+    32.879207
+],
+  "geometry": {"coordinates":[-96.70702199999999,32.879207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219323741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825914,30.193021,-97.825914,30.193021",
     "geom:latitude":30.193021,
     "geom:longitude":-97.825914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8305 Fort Sumter Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219323741,
-    "wof:lastmodified":1449070692,
+    "wof:lastmodified":1467085106,
     "wof:name":"SAP America Inc",
     "wof:parent_id":85893505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.825914,30.193021,-97.825914,30.193021],
+  "bbox": [
+    -97.825914,
+    30.193021,
+    -97.825914,
+    30.193021
+],
   "geometry": {"coordinates":[-97.825914,30.193021],"type":"Point"}
 }

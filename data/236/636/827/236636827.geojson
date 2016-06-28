@@ -2,13 +2,14 @@
   "id": 236636827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.630744,32.310431,-96.630744,32.310431",
     "geom:latitude":32.310431,
     "geom:longitude":-96.630744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Grace Cir",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236636827,
-    "wof:lastmodified":1449002869,
+    "wof:lastmodified":1467083926,
     "wof:name":"Grace Townhomes",
     "wof:parent_id":85897363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-96.630744,32.310431,-96.630744,32.310431],
-  "geometry": {"coordinates":[-96.630744,32.310431],"type":"Point"}
+  "bbox": [
+    -96.630744,
+    32.310431,
+    -96.630744,
+    32.310431
+],
+  "geometry": {"coordinates":[-96.63074400000001,32.310431],"type":"Point"}
 }

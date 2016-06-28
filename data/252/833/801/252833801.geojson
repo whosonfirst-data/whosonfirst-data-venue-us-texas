@@ -2,13 +2,14 @@
   "id": 252833801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.202611,26.207257,-98.202611,26.207257",
     "geom:latitude":26.207257,
     "geom:longitude":-98.202611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W Polk Ave",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":252833801,
-    "wof:lastmodified":1449005540,
+    "wof:lastmodified":1467084055,
     "wof:name":"ASAP Medical Equipment",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.202611,26.207257,-98.202611,26.207257],
+  "bbox": [
+    -98.202611,
+    26.207257,
+    -98.202611,
+    26.207257
+],
   "geometry": {"coordinates":[-98.202611,26.207257],"type":"Point"}
 }

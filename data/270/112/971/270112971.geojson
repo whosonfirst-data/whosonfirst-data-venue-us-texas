@@ -2,13 +2,14 @@
   "id": 270112971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.434153,29.741031,-95.434153,29.741031",
     "geom:latitude":29.741031,
     "geom:longitude":-95.434153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 Westheimer Rd Ste 280",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270112971,
-    "wof:lastmodified":1449009762,
+    "wof:lastmodified":1467084186,
     "wof:name":"The Houston Wellness Clinic",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "weight"
     ]
 },
-  "bbox": [-95.434153,29.741031,-95.434153,29.741031],
-  "geometry": {"coordinates":[-95.434153,29.741031],"type":"Point"}
+  "bbox": [
+    -95.434153,
+    29.741031,
+    -95.434153,
+    29.741031
+],
+  "geometry": {"coordinates":[-95.43415299999999,29.741031],"type":"Point"}
 }

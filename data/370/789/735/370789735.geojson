@@ -2,13 +2,14 @@
   "id": 370789735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.350946,32.975162,-97.350946,32.975162",
     "geom:latitude":32.975162,
     "geom:longitude":-97.350946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 2nd St",
     "sg:city":"Haslet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370789735,
-    "wof:lastmodified":1449030627,
+    "wof:lastmodified":1467084507,
     "wof:name":"Haslet Methodist Church",
     "wof:parent_id":85897369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-97.350946,32.975162,-97.350946,32.975162],
-  "geometry": {"coordinates":[-97.350946,32.975162],"type":"Point"}
+  "bbox": [
+    -97.350946,
+    32.975162,
+    -97.350946,
+    32.975162
+],
+  "geometry": {"coordinates":[-97.35094599999999,32.975162],"type":"Point"}
 }

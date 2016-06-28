@@ -2,13 +2,14 @@
   "id": 404122673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.466383,29.904452,-95.466383,29.904452",
     "geom:latitude":29.904452,
     "geom:longitude":-95.466383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11810 Proctor St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404122673,
-    "wof:lastmodified":1449039815,
+    "wof:lastmodified":1467084651,
     "wof:name":"Mercado Fence",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.466383,29.904452,-95.466383,29.904452],
-  "geometry": {"coordinates":[-95.466383,29.904452],"type":"Point"}
+  "bbox": [
+    -95.466383,
+    29.904452,
+    -95.466383,
+    29.904452
+],
+  "geometry": {"coordinates":[-95.46638299999999,29.904452],"type":"Point"}
 }

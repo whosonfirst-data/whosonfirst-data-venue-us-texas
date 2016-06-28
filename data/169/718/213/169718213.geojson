@@ -2,13 +2,14 @@
   "id": 169718213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.562014,32.875829,-96.562014,32.875829",
     "geom:latitude":32.875829,
     "geom:longitude":-96.562014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Victoria Dr",
     "sg:city":"Rowlett",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169718213,
-    "wof:lastmodified":1449033394,
+    "wof:lastmodified":1467084561,
     "wof:name":"My Friends Place",
     "wof:parent_id":85877681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.562014,32.875829,-96.562014,32.875829],
+  "bbox": [
+    -96.562014,
+    32.875829,
+    -96.562014,
+    32.875829
+],
   "geometry": {"coordinates":[-96.562014,32.875829],"type":"Point"}
 }

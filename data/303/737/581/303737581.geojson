@@ -2,13 +2,14 @@
   "id": 303737581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.678884,30.36292,-97.678884,30.36292",
     "geom:latitude":30.36292,
     "geom:longitude":-97.678884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 Childress Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303737581,
-    "wof:lastmodified":1448998661,
+    "wof:lastmodified":1467083718,
     "wof:name":"David Elliott",
     "wof:parent_id":85869897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-97.678884,30.36292,-97.678884,30.36292],
+  "bbox": [
+    -97.678884,
+    30.36292,
+    -97.678884,
+    30.36292
+],
   "geometry": {"coordinates":[-97.678884,30.36292],"type":"Point"}
 }

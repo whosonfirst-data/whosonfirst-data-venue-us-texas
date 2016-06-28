@@ -2,13 +2,14 @@
   "id": 303530417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.895447,30.236855,-97.895447,30.236855",
     "geom:latitude":30.236855,
     "geom:longitude":-97.895447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Gallatin Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303530417,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1467083757,
     "wof:name":"Local Life Adventures",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magician"
     ]
 },
-  "bbox": [-97.895447,30.236855,-97.895447,30.236855],
+  "bbox": [
+    -97.895447,
+    30.236855,
+    -97.895447,
+    30.236855
+],
   "geometry": {"coordinates":[-97.895447,30.236855],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270129419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.435018,29.729474,-95.435018,29.729474",
     "geom:latitude":29.729474,
     "geom:longitude":-95.435018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270129419,
-    "wof:lastmodified":1449010592,
+    "wof:lastmodified":1467084214,
     "wof:name":"Lakewood Church",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.435018,29.729474,-95.435018,29.729474],
+  "bbox": [
+    -95.435018,
+    29.729474,
+    -95.435018,
+    29.729474
+],
   "geometry": {"coordinates":[-95.435018,29.729474],"type":"Point"}
 }

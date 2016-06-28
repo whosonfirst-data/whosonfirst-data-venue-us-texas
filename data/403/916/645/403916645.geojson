@@ -2,13 +2,14 @@
   "id": 403916645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.535002,29.476127,-98.535002,29.476127",
     "geom:latitude":29.476127,
     "geom:longitude":-98.535002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Vance Jackson Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403916645,
-    "wof:lastmodified":1449055362,
+    "wof:lastmodified":1467084767,
     "wof:name":"Eden Gardens",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.535002,29.476127,-98.535002,29.476127],
-  "geometry": {"coordinates":[-98.535002,29.476127],"type":"Point"}
+  "bbox": [
+    -98.535002,
+    29.476127,
+    -98.535002,
+    29.476127
+],
+  "geometry": {"coordinates":[-98.53500200000001,29.476127],"type":"Point"}
 }

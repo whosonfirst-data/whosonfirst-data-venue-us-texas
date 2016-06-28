@@ -2,13 +2,14 @@
   "id": 370785157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.434593,29.726324,-95.434593,29.726324",
     "geom:latitude":29.726324,
     "geom:longitude":-95.434593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3779 Purdue St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370785157,
-    "wof:lastmodified":1449031895,
+    "wof:lastmodified":1467084540,
     "wof:name":"J Martin",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-95.434593,29.726324,-95.434593,29.726324],
-  "geometry": {"coordinates":[-95.434593,29.726324],"type":"Point"}
+  "bbox": [
+    -95.434593,
+    29.726324,
+    -95.434593,
+    29.726324
+],
+  "geometry": {"coordinates":[-95.43459300000001,29.726324],"type":"Point"}
 }

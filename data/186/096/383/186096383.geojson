@@ -2,13 +2,14 @@
   "id": 186096383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.376578,29.74223,-95.376578,29.74223",
     "geom:latitude":29.74223,
     "geom:longitude":-95.376578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186096383,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1467084710,
     "wof:name":"Crime Stoppers Of Houston Inc",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.376578,29.74223,-95.376578,29.74223],
-  "geometry": {"coordinates":[-95.376578,29.74223],"type":"Point"}
+  "bbox": [
+    -95.376578,
+    29.74223,
+    -95.376578,
+    29.74223
+],
+  "geometry": {"coordinates":[-95.37657799999999,29.74223],"type":"Point"}
 }

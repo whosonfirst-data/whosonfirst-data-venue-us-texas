@@ -2,13 +2,14 @@
   "id": 387700773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476193,29.651912,-95.476193,29.651912",
     "geom:latitude":29.651912,
     "geom:longitude":-95.476193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 S Willow Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387700773,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1467084874,
     "wof:name":"Dutchess Rehabilitation Center",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-95.476193,29.651912,-95.476193,29.651912],
-  "geometry": {"coordinates":[-95.476193,29.651912],"type":"Point"}
+  "bbox": [
+    -95.476193,
+    29.651912,
+    -95.476193,
+    29.651912
+],
+  "geometry": {"coordinates":[-95.47619299999999,29.651912],"type":"Point"}
 }

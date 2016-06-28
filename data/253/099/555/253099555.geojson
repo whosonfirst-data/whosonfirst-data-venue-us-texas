@@ -2,13 +2,14 @@
   "id": 253099555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.345657,29.845324,-95.345657,29.845324",
     "geom:latitude":29.845324,
     "geom:longitude":-95.345657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Aldine Westfield Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253099555,
-    "wof:lastmodified":1449064760,
+    "wof:lastmodified":1467085012,
     "wof:name":"Shoreham Apartments",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.345657,29.845324,-95.345657,29.845324],
+  "bbox": [
+    -95.345657,
+    29.845324,
+    -95.345657,
+    29.845324
+],
   "geometry": {"coordinates":[-95.345657,29.845324],"type":"Point"}
 }

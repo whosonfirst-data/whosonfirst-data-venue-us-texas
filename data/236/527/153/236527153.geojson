@@ -2,13 +2,14 @@
   "id": 236527153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758525,32.878889,-96.758525,32.878889",
     "geom:latitude":32.878889,
     "geom:longitude":-96.758525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5735 Pineland Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236527153,
-    "wof:lastmodified":1449004429,
+    "wof:lastmodified":1467084000,
     "wof:name":"Universal City",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-96.758525,32.878889,-96.758525,32.878889],
-  "geometry": {"coordinates":[-96.758525,32.878889],"type":"Point"}
+  "bbox": [
+    -96.758525,
+    32.878889,
+    -96.758525,
+    32.878889
+],
+  "geometry": {"coordinates":[-96.75852500000001,32.878889],"type":"Point"}
 }

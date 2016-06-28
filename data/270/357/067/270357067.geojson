@@ -2,13 +2,14 @@
   "id": 270357067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.388932,29.685413,-95.388932,29.685413",
     "geom:latitude":29.685413,
     "geom:longitude":-95.388932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8080 El Rio St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270357067,
-    "wof:lastmodified":1449010795,
+    "wof:lastmodified":1467084221,
     "wof:name":"Harris County Public Library",
     "wof:parent_id":85849809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "government-county"
     ]
 },
-  "bbox": [-95.388932,29.685413,-95.388932,29.685413],
+  "bbox": [
+    -95.388932,
+    29.685413,
+    -95.388932,
+    29.685413
+],
   "geometry": {"coordinates":[-95.388932,29.685413],"type":"Point"}
 }

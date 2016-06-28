@@ -2,13 +2,14 @@
   "id": 303080543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.833017,30.480546,-97.833017,30.480546",
     "geom:latitude":30.480546,
     "geom:longitude":-97.833017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Cypress Creek Rd",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303080543,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1467083810,
     "wof:name":"Austin Community College - Cypress Creek Campus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-97.833017,30.480546,-97.833017,30.480546],
+  "bbox": [
+    -97.833017,
+    30.480546,
+    -97.833017,
+    30.480546
+],
   "geometry": {"coordinates":[-97.833017,30.480546],"type":"Point"}
 }

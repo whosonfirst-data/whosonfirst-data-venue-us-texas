@@ -2,13 +2,14 @@
   "id": 303699649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733648,30.309192,-97.733648,30.309192",
     "geom:latitude":30.309192,
     "geom:longitude":-97.733648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Guadalupe #303",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303699649,
-    "wof:lastmodified":1448998454,
+    "wof:lastmodified":1467083708,
     "wof:name":"The Care Communities",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "service/non-profit"
     ]
 },
-  "bbox": [-97.733648,30.309192,-97.733648,30.309192],
+  "bbox": [
+    -97.733648,
+    30.309192,
+    -97.733648,
+    30.309192
+],
   "geometry": {"coordinates":[-97.733648,30.309192],"type":"Point"}
 }

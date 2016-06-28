@@ -2,13 +2,14 @@
   "id": 370586977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735188,32.958539,-96.735188,32.958539",
     "geom:latitude":32.958539,
     "geom:longitude":-96.735188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Custer Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370586977,
-    "wof:lastmodified":1449032088,
+    "wof:lastmodified":1467084545,
     "wof:name":"Owens BB Trust",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trust"
     ]
 },
-  "bbox": [-96.735188,32.958539,-96.735188,32.958539],
-  "geometry": {"coordinates":[-96.735188,32.958539],"type":"Point"}
+  "bbox": [
+    -96.735188,
+    32.958539,
+    -96.735188,
+    32.958539
+],
+  "geometry": {"coordinates":[-96.73518799999999,32.958539],"type":"Point"}
 }

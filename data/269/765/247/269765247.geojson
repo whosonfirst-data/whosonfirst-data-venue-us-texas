@@ -2,13 +2,14 @@
   "id": 269765247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.947286,31.73823,-99.947286,31.73823",
     "geom:latitude":31.73823,
     "geom:longitude":-99.947286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Hutchins Ave",
     "sg:city":"Ballinger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269765247,
-    "wof:lastmodified":1449037533,
+    "wof:lastmodified":1467084610,
     "wof:name":"Ballinger Ledger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [-99.947286,31.73823,-99.947286,31.73823],
-  "geometry": {"coordinates":[-99.947286,31.73823],"type":"Point"}
+  "bbox": [
+    -99.947286,
+    31.73823,
+    -99.947286,
+    31.73823
+],
+  "geometry": {"coordinates":[-99.94728600000001,31.73823],"type":"Point"}
 }

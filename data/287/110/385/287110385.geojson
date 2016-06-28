@@ -2,13 +2,14 @@
   "id": 287110385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.164201,30.022469,-99.164201,30.022469",
     "geom:latitude":30.022469,
     "geom:longitude":-99.164201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Monroe Dr",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287110385,
-    "wof:lastmodified":1449000950,
+    "wof:lastmodified":1467083828,
     "wof:name":"Weatherford Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.164201,30.022469,-99.164201,30.022469],
-  "geometry": {"coordinates":[-99.164201,30.022469],"type":"Point"}
+  "bbox": [
+    -99.164201,
+    30.022469,
+    -99.164201,
+    30.022469
+],
+  "geometry": {"coordinates":[-99.16420100000001,30.022469],"type":"Point"}
 }

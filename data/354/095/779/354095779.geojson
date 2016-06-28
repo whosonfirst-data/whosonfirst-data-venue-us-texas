@@ -2,13 +2,14 @@
   "id": 354095779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.446636,29.350213,-98.446636,29.350213",
     "geom:latitude":29.350213,
     "geom:longitude":-98.446636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 5th St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354095779,
-    "wof:lastmodified":1449066786,
+    "wof:lastmodified":1467085072,
     "wof:name":"US Dept of the Air Force",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-98.446636,29.350213,-98.446636,29.350213],
+  "bbox": [
+    -98.446636,
+    29.350213,
+    -98.446636,
+    29.350213
+],
   "geometry": {"coordinates":[-98.446636,29.350213],"type":"Point"}
 }

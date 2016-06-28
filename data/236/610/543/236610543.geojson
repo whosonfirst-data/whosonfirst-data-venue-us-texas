@@ -2,13 +2,14 @@
   "id": 236610543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.350305,31.775307,-106.350305,31.775307",
     "geom:latitude":31.775307,
     "geom:longitude":-106.350305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10009 Trinidad Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236610543,
-    "wof:lastmodified":1449005185,
+    "wof:lastmodified":1467084037,
     "wof:name":"Davids Workshop",
     "wof:parent_id":85814121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.350305,31.775307,-106.350305,31.775307],
-  "geometry": {"coordinates":[-106.350305,31.775307],"type":"Point"}
+  "bbox": [
+    -106.350305,
+    31.775307,
+    -106.350305,
+    31.775307
+],
+  "geometry": {"coordinates":[-106.35030500000001,31.775307],"type":"Point"}
 }

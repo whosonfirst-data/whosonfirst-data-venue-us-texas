@@ -2,13 +2,14 @@
   "id": 203036515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488121,33.867581,-98.488121,33.867581",
     "geom:latitude":33.867581,
     "geom:longitude":-98.488121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Hatton Rd",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203036515,
-    "wof:lastmodified":1449025346,
+    "wof:lastmodified":1467084392,
     "wof:name":"Fed Ex Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.488121,33.867581,-98.488121,33.867581],
-  "geometry": {"coordinates":[-98.488121,33.867581],"type":"Point"}
+  "bbox": [
+    -98.488121,
+    33.867581,
+    -98.488121,
+    33.867581
+],
+  "geometry": {"coordinates":[-98.48812100000001,33.867581],"type":"Point"}
 }

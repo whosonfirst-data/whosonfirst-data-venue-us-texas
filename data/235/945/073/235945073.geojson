@@ -2,13 +2,14 @@
   "id": 235945073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42763,29.525125,-98.42763,29.525125",
     "geom:latitude":29.525125,
     "geom:longitude":-98.42763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 Twisted Oaks Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235945073,
-    "wof:lastmodified":1449008306,
+    "wof:lastmodified":1467084141,
     "wof:name":"Bertex Realty",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.42763,29.525125,-98.42763,29.525125],
-  "geometry": {"coordinates":[-98.42763,29.525125],"type":"Point"}
+  "bbox": [
+    -98.42763,
+    29.525125,
+    -98.42763,
+    29.525125
+],
+  "geometry": {"coordinates":[-98.42762999999999,29.525125],"type":"Point"}
 }

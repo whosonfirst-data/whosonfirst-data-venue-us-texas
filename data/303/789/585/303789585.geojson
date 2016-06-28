@@ -2,13 +2,14 @@
   "id": 303789585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7323,30.3757,-97.7323,30.3757",
     "geom:latitude":30.3757,
     "geom:longitude":-97.7323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9112 Research Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303789585,
-    "wof:lastmodified":1448999222,
+    "wof:lastmodified":1467083747,
     "wof:name":"Maxwell Town North",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.7323,30.3757,-97.7323,30.3757],
+  "bbox": [
+    -97.7323,
+    30.3757,
+    -97.7323,
+    30.3757
+],
   "geometry": {"coordinates":[-97.7323,30.3757],"type":"Point"}
 }

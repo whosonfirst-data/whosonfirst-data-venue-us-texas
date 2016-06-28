@@ -2,13 +2,14 @@
   "id": 303526739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.851601,30.248899,-97.851601,30.248899",
     "geom:latitude":30.248899,
     "geom:longitude":-97.851601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 W Highway 290",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":303526739,
-    "wof:lastmodified":1448998866,
+    "wof:lastmodified":1467083729,
     "wof:name":"Garden Ridge",
     "wof:parent_id":85869975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.851601,30.248899,-97.851601,30.248899],
+  "bbox": [
+    -97.851601,
+    30.248899,
+    -97.851601,
+    30.248899
+],
   "geometry": {"coordinates":[-97.851601,30.248899],"type":"Point"}
 }

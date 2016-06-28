@@ -2,13 +2,14 @@
   "id": 236140163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.731125,32.470011,-99.731125,32.470011",
     "geom:latitude":32.470011,
     "geom:longitude":-99.731125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Pine St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236140163,
-    "wof:lastmodified":1449002034,
+    "wof:lastmodified":1467083880,
     "wof:name":"Robert L Dickey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-99.731125,32.470011,-99.731125,32.470011],
-  "geometry": {"coordinates":[-99.731125,32.470011],"type":"Point"}
+  "bbox": [
+    -99.731125,
+    32.470011,
+    -99.731125,
+    32.470011
+],
+  "geometry": {"coordinates":[-99.73112500000001,32.470011],"type":"Point"}
 }

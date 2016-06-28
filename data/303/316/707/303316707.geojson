@@ -2,13 +2,14 @@
   "id": 303316707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.781338,30.244255,-97.781338,30.244255",
     "geom:latitude":30.244255,
     "geom:longitude":-97.781338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":303316707,
-    "wof:lastmodified":1448999774,
+    "wof:lastmodified":1467083774,
     "wof:name":"Far Out Home FIttings",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "store"
     ]
 },
-  "bbox": [-97.781338,30.244255,-97.781338,30.244255],
-  "geometry": {"coordinates":[-97.781338,30.244255],"type":"Point"}
+  "bbox": [
+    -97.781338,
+    30.244255,
+    -97.781338,
+    30.244255
+],
+  "geometry": {"coordinates":[-97.78133800000001,30.244255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202622273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.300993,31.75916,-106.300993,31.75916",
     "geom:latitude":31.75916,
     "geom:longitude":-106.300993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11441 James Grant Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202622273,
-    "wof:lastmodified":1449062206,
+    "wof:lastmodified":1467084932,
     "wof:name":"New West Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-106.300993,31.75916,-106.300993,31.75916],
-  "geometry": {"coordinates":[-106.300993,31.75916],"type":"Point"}
+  "bbox": [
+    -106.300993,
+    31.75916,
+    -106.300993,
+    31.75916
+],
+  "geometry": {"coordinates":[-106.30099300000001,31.75916],"type":"Point"}
 }

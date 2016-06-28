@@ -2,13 +2,14 @@
   "id": 303810571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745931,30.404379,-97.745931,30.404379",
     "geom:latitude":30.404379,
     "geom:longitude":-97.745931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11044 Research Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303810571,
-    "wof:lastmodified":1448998826,
+    "wof:lastmodified":1467083727,
     "wof:name":"Austin Heart",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"
     ]
 },
-  "bbox": [-97.745931,30.404379,-97.745931,30.404379],
+  "bbox": [
+    -97.745931,
+    30.404379,
+    -97.745931,
+    30.404379
+],
   "geometry": {"coordinates":[-97.745931,30.404379],"type":"Point"}
 }

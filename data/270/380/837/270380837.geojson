@@ -2,13 +2,14 @@
   "id": 270380837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.458059,29.754486,-95.458059,29.754486",
     "geom:latitude":29.754486,
     "geom:longitude":-95.458059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Uptown Park Blvd Ste 10",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270380837,
-    "wof:lastmodified":1449009772,
+    "wof:lastmodified":1467084187,
     "wof:name":"David Brown Flowers",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.458059,29.754486,-95.458059,29.754486],
-  "geometry": {"coordinates":[-95.458059,29.754486],"type":"Point"}
+  "bbox": [
+    -95.458059,
+    29.754486,
+    -95.458059,
+    29.754486
+],
+  "geometry": {"coordinates":[-95.45805900000001,29.754486],"type":"Point"}
 }

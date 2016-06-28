@@ -2,13 +2,14 @@
   "id": 270444149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.11724,29.558093,-95.11724,29.558093",
     "geom:latitude":29.558093,
     "geom:longitude":-95.11724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Bay Area Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270444149,
-    "wof:lastmodified":1449010751,
+    "wof:lastmodified":1467084220,
     "wof:name":"Bay Area Tattoo",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.11724,29.558093,-95.11724,29.558093],
+  "bbox": [
+    -95.11724,
+    29.558093,
+    -95.11724,
+    29.558093
+],
   "geometry": {"coordinates":[-95.11724,29.558093],"type":"Point"}
 }

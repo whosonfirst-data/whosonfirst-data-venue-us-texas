@@ -2,13 +2,14 @@
   "id": 354067325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.745005,32.868398,-96.745005,32.868398",
     "geom:latitude":32.868398,
     "geom:longitude":-96.745005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 Park Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354067325,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1467085054,
     "wof:name":"Texas Bay Ivanhoe",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.745005,32.868398,-96.745005,32.868398],
-  "geometry": {"coordinates":[-96.745005,32.868398],"type":"Point"}
+  "bbox": [
+    -96.745005,
+    32.868398,
+    -96.745005,
+    32.868398
+],
+  "geometry": {"coordinates":[-96.74500500000001,32.868398],"type":"Point"}
 }

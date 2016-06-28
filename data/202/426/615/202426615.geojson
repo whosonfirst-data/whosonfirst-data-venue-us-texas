@@ -2,13 +2,14 @@
   "id": 202426615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.365501,31.776371,-106.365501,31.776371",
     "geom:latitude":31.776371,
     "geom:longitude":-106.365501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9216 Turrentine Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202426615,
-    "wof:lastmodified":1449060660,
+    "wof:lastmodified":1467084899,
     "wof:name":"Warren Allen",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.365501,31.776371,-106.365501,31.776371],
-  "geometry": {"coordinates":[-106.365501,31.776371],"type":"Point"}
+  "bbox": [
+    -106.365501,
+    31.776371,
+    -106.365501,
+    31.776371
+],
+  "geometry": {"coordinates":[-106.36550099999999,31.776371],"type":"Point"}
 }

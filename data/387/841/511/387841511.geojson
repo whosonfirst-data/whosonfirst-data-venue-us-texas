@@ -2,13 +2,14 @@
   "id": 387841511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76715,32.926304,-96.76715,32.926304",
     "geom:latitude":32.926304,
     "geom:longitude":-96.76715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13266 Emily Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387841511,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1467084805,
     "wof:name":"Winding Way Apartments",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.76715,32.926304,-96.76715,32.926304],
+  "bbox": [
+    -96.76715,
+    32.926304,
+    -96.76715,
+    32.926304
+],
   "geometry": {"coordinates":[-96.76715,32.926304],"type":"Point"}
 }

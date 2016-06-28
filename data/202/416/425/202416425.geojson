@@ -2,13 +2,14 @@
   "id": 202416425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.32443,31.784485,-106.32443,31.784485",
     "geom:latitude":31.784485,
     "geom:longitude":-106.32443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Forney Ln",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202416425,
-    "wof:lastmodified":1449061266,
+    "wof:lastmodified":1467084912,
     "wof:name":"Fire Fighters Hall",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-106.32443,31.784485,-106.32443,31.784485],
-  "geometry": {"coordinates":[-106.32443,31.784485],"type":"Point"}
+  "bbox": [
+    -106.32443,
+    31.784485,
+    -106.32443,
+    31.784485
+],
+  "geometry": {"coordinates":[-106.32443000000001,31.784485],"type":"Point"}
 }

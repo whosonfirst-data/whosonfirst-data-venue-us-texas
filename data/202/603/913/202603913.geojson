@@ -2,13 +2,14 @@
   "id": 202603913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.424618,32.931197,-98.424618,32.931197",
     "geom:latitude":32.931197,
     "geom:longitude":-98.424618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Ebner St",
     "sg:city":"Graford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202603913,
-    "wof:lastmodified":1449062265,
+    "wof:lastmodified":1467084933,
     "wof:name":"Chris Altum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.424618,32.931197,-98.424618,32.931197],
+  "bbox": [
+    -98.424618,
+    32.931197,
+    -98.424618,
+    32.931197
+],
   "geometry": {"coordinates":[-98.424618,32.931197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219616271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.106417,29.686189,-95.106417,29.686189",
     "geom:latitude":29.686189,
     "geom:longitude":-95.106417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 E Denali",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219616271,
-    "wof:lastmodified":1449072993,
+    "wof:lastmodified":1467085154,
     "wof:name":"John Brock Painting and RPS",
     "wof:parent_id":85830765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repair"
     ]
 },
-  "bbox": [-95.106417,29.686189,-95.106417,29.686189],
-  "geometry": {"coordinates":[-95.106417,29.686189],"type":"Point"}
+  "bbox": [
+    -95.106417,
+    29.686189,
+    -95.106417,
+    29.686189
+],
+  "geometry": {"coordinates":[-95.10641699999999,29.686189],"type":"Point"}
 }

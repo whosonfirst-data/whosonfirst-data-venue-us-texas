@@ -2,13 +2,14 @@
   "id": 370175381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801368,32.79739,-96.801368,32.79739",
     "geom:latitude":32.79739,
     "geom:longitude":-96.801368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 McKinney Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370175381,
-    "wof:lastmodified":1449031425,
+    "wof:lastmodified":1467084528,
     "wof:name":"Osborn Enterprises",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-96.801368,32.79739,-96.801368,32.79739],
+  "bbox": [
+    -96.801368,
+    32.79739,
+    -96.801368,
+    32.79739
+],
   "geometry": {"coordinates":[-96.801368,32.79739],"type":"Point"}
 }

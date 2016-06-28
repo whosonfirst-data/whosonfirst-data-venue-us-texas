@@ -2,13 +2,14 @@
   "id": 304009431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.870323,33.528301,-101.870323,33.528301",
     "geom:latitude":33.528301,
     "geom:longitude":-101.870323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 University Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":304009431,
-    "wof:lastmodified":1449044152,
+    "wof:lastmodified":1467084670,
     "wof:name":"Battery Joe",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-101.870323,33.528301,-101.870323,33.528301],
+  "bbox": [
+    -101.870323,
+    33.528301,
+    -101.870323,
+    33.528301
+],
   "geometry": {"coordinates":[-101.870323,33.528301],"type":"Point"}
 }

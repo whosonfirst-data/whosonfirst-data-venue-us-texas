@@ -2,13 +2,14 @@
   "id": 236674677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492549,33.926019,-98.492549,33.926019",
     "geom:latitude":33.926019,
     "geom:longitude":-98.492549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Webster St",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236674677,
-    "wof:lastmodified":1449004241,
+    "wof:lastmodified":1467083991,
     "wof:name":"Wichita Falls Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-98.492549,33.926019,-98.492549,33.926019],
+  "bbox": [
+    -98.492549,
+    33.926019,
+    -98.492549,
+    33.926019
+],
   "geometry": {"coordinates":[-98.492549,33.926019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236476795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.697616,32.931515,-96.697616,32.931515",
     "geom:latitude":32.931515,
     "geom:longitude":-96.697616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Buckingham Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":236476795,
-    "wof:lastmodified":1449002899,
+    "wof:lastmodified":1467083928,
     "wof:name":"Walmart Neighborhood Market",
     "wof:parent_id":85880215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.697616,32.931515,-96.697616,32.931515],
+  "bbox": [
+    -96.697616,
+    32.931515,
+    -96.697616,
+    32.931515
+],
   "geometry": {"coordinates":[-96.697616,32.931515],"type":"Point"}
 }

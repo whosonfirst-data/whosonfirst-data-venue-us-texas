@@ -2,13 +2,14 @@
   "id": 252892939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788499,30.355255,-97.788499,30.355255",
     "geom:latitude":30.355255,
     "geom:longitude":-97.788499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Harrington Cove",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252892939,
-    "wof:lastmodified":1449005566,
+    "wof:lastmodified":1467084056,
     "wof:name":"East 54",
     "wof:parent_id":85893503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.788499,30.355255,-97.788499,30.355255],
+  "bbox": [
+    -97.788499,
+    30.355255,
+    -97.788499,
+    30.355255
+],
   "geometry": {"coordinates":[-97.788499,30.355255],"type":"Point"}
 }

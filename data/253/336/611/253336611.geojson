@@ -2,13 +2,14 @@
   "id": 253336611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.10971,33.108962,-96.10971,33.108962",
     "geom:latitude":33.108962,
     "geom:longitude":-96.10971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Mitchell St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253336611,
-    "wof:lastmodified":1449062769,
+    "wof:lastmodified":1467084943,
     "wof:name":"Rolling Hills Chiro",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-96.10971,33.108962,-96.10971,33.108962],
-  "geometry": {"coordinates":[-96.10971,33.108962],"type":"Point"}
+  "bbox": [
+    -96.10971,
+    33.108962,
+    -96.10971,
+    33.108962
+],
+  "geometry": {"coordinates":[-96.10971000000001,33.108962],"type":"Point"}
 }

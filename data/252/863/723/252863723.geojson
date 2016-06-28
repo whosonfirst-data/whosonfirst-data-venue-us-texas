@@ -2,13 +2,14 @@
   "id": 252863723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.830244,32.689462,-96.830244,32.689462",
     "geom:latitude":32.689462,
     "geom:longitude":-96.830244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 W Ledbetter Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":252863723,
-    "wof:lastmodified":1449006143,
+    "wof:lastmodified":1467084088,
     "wof:name":"Pryor, Geo W",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-96.830244,32.689462,-96.830244,32.689462],
-  "geometry": {"coordinates":[-96.830244,32.689462],"type":"Point"}
+  "bbox": [
+    -96.830244,
+    32.689462,
+    -96.830244,
+    32.689462
+],
+  "geometry": {"coordinates":[-96.83024399999999,32.689462],"type":"Point"}
 }

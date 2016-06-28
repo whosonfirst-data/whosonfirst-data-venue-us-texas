@@ -2,13 +2,14 @@
   "id": 303942345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.91852,35.176509,-101.91852,35.176509",
     "geom:latitude":35.176509,
     "geom:longitude":-101.91852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7208 SW 34th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303942345,
-    "wof:lastmodified":1448999235,
+    "wof:lastmodified":1467083747,
     "wof:name":"Coulter Landing Apartments",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-101.91852,35.176509,-101.91852,35.176509],
+  "bbox": [
+    -101.91852,
+    35.176509,
+    -101.91852,
+    35.176509
+],
   "geometry": {"coordinates":[-101.91852,35.176509],"type":"Point"}
 }

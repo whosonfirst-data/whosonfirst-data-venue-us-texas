@@ -2,13 +2,14 @@
   "id": 303262575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745959,30.267633,-97.745959,30.267633",
     "geom:latitude":30.267633,
     "geom:longitude":-97.745959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W 5th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303262575,
-    "wof:lastmodified":1448999633,
+    "wof:lastmodified":1467083767,
     "wof:name":"Back Alley Social",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-97.745959,30.267633,-97.745959,30.267633],
+  "bbox": [
+    -97.745959,
+    30.267633,
+    -97.745959,
+    30.267633
+],
   "geometry": {"coordinates":[-97.745959,30.267633],"type":"Point"}
 }

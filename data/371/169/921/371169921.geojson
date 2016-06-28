@@ -2,13 +2,14 @@
   "id": 371169921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.847091,32.563263,-96.847091,32.563263",
     "geom:latitude":32.563263,
     "geom:longitude":-96.847091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 Oso Trl",
     "sg:city":"Red Oak",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371169921,
-    "wof:lastmodified":1449049676,
+    "wof:lastmodified":1467084682,
     "wof:name":"North Texas Billiards",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billiard"
     ]
 },
-  "bbox": [-96.847091,32.563263,-96.847091,32.563263],
-  "geometry": {"coordinates":[-96.847091,32.563263],"type":"Point"}
+  "bbox": [
+    -96.847091,
+    32.563263,
+    -96.847091,
+    32.563263
+],
+  "geometry": {"coordinates":[-96.84709100000001,32.563263],"type":"Point"}
 }

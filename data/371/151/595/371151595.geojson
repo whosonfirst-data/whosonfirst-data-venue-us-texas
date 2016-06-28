@@ -2,13 +2,14 @@
   "id": 371151595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.838996,29.290555,-94.838996,29.290555",
     "geom:latitude":29.290555,
     "geom:longitude":-94.838996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 61st St",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371151595,
-    "wof:lastmodified":1449049082,
+    "wof:lastmodified":1467084671,
     "wof:name":"D & P Wrecker Svc",
     "wof:parent_id":85893725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-94.838996,29.290555,-94.838996,29.290555],
-  "geometry": {"coordinates":[-94.838996,29.290555],"type":"Point"}
+  "bbox": [
+    -94.838996,
+    29.290555,
+    -94.838996,
+    29.290555
+],
+  "geometry": {"coordinates":[-94.83899599999999,29.290555],"type":"Point"}
 }

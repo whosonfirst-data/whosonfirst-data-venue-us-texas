@@ -2,13 +2,14 @@
   "id": 303262521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746608,30.265006,-97.746608,30.265006",
     "geom:latitude":30.265006,
     "geom:longitude":-97.746608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Lavaca Street Apt 517",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303262521,
-    "wof:lastmodified":1448999635,
+    "wof:lastmodified":1467083767,
     "wof:name":"Amli Downtown",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.746608,30.265006,-97.746608,30.265006],
-  "geometry": {"coordinates":[-97.746608,30.265006],"type":"Point"}
+  "bbox": [
+    -97.746608,
+    30.265006,
+    -97.746608,
+    30.265006
+],
+  "geometry": {"coordinates":[-97.74660799999999,30.265006],"type":"Point"}
 }

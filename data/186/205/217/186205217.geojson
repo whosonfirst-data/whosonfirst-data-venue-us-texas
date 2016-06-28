@@ -2,13 +2,14 @@
   "id": 186205217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.574683,29.408665,-98.574683,29.408665",
     "geom:latitude":29.408665,
     "geom:longitude":-98.574683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 SW 36th St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186205217,
-    "wof:lastmodified":1449051982,
+    "wof:lastmodified":1467084725,
     "wof:name":"Nurse Link",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-98.574683,29.408665,-98.574683,29.408665],
-  "geometry": {"coordinates":[-98.574683,29.408665],"type":"Point"}
+  "bbox": [
+    -98.574683,
+    29.408665,
+    -98.574683,
+    29.408665
+],
+  "geometry": {"coordinates":[-98.57468299999999,29.408665],"type":"Point"}
 }

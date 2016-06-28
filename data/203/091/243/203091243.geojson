@@ -2,13 +2,14 @@
   "id": 203091243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.495218,29.736094,-95.495218,29.736094",
     "geom:latitude":29.736094,
     "geom:longitude":-95.495218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2767 Briargrove Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203091243,
-    "wof:lastmodified":1449025126,
+    "wof:lastmodified":1467084388,
     "wof:name":"Jessie Enterprises",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.495218,29.736094,-95.495218,29.736094],
-  "geometry": {"coordinates":[-95.495218,29.736094],"type":"Point"}
+  "bbox": [
+    -95.495218,
+    29.736094,
+    -95.495218,
+    29.736094
+],
+  "geometry": {"coordinates":[-95.49521799999999,29.736094],"type":"Point"}
 }

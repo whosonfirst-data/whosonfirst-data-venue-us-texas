@@ -2,13 +2,14 @@
   "id": 387325951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.981328,29.805227,-97.981328,29.805227",
     "geom:latitude":29.805227,
     "geom:longitude":-97.981328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3406 S Old Bastrop Hwy",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387325951,
-    "wof:lastmodified":1449057598,
+    "wof:lastmodified":1467084822,
     "wof:name":"Guadalupe Blanco River Auth",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.981328,29.805227,-97.981328,29.805227],
+  "bbox": [
+    -97.981328,
+    29.805227,
+    -97.981328,
+    29.805227
+],
   "geometry": {"coordinates":[-97.981328,29.805227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236546279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790028,33.026552,-96.790028,33.026552",
     "geom:latitude":33.026552,
     "geom:longitude":-96.790028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Preston Rd Suite 337",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":236546279,
-    "wof:lastmodified":1449001672,
+    "wof:lastmodified":1467083854,
     "wof:name":"Yumilicious",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "do-it-yourself"
     ]
 },
-  "bbox": [-96.790028,33.026552,-96.790028,33.026552],
-  "geometry": {"coordinates":[-96.790028,33.026552],"type":"Point"}
+  "bbox": [
+    -96.790028,
+    33.026552,
+    -96.790028,
+    33.026552
+],
+  "geometry": {"coordinates":[-96.79002800000001,33.026552],"type":"Point"}
 }

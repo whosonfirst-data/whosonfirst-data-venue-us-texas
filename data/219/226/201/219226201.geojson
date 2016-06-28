@@ -2,13 +2,14 @@
   "id": 219226201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.792788,32.779244,-96.792788,32.779244",
     "geom:latitude":32.779244,
     "geom:longitude":-96.792788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Harwood St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219226201,
-    "wof:lastmodified":1449072961,
+    "wof:lastmodified":1467085154,
     "wof:name":"Strout Co",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-96.792788,32.779244,-96.792788,32.779244],
+  "bbox": [
+    -96.792788,
+    32.779244,
+    -96.792788,
+    32.779244
+],
   "geometry": {"coordinates":[-96.792788,32.779244],"type":"Point"}
 }

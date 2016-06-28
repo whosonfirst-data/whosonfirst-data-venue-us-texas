@@ -2,13 +2,14 @@
   "id": 303424845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.683098,30.441,-97.683098,30.441",
     "geom:latitude":30.441,
     "geom:longitude":-97.683098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Wells Branch Pkwy Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303424845,
-    "wof:lastmodified":1449000412,
+    "wof:lastmodified":1467083805,
     "wof:name":"Chardonnay Apartments At Wells Branch",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.683098,30.441,-97.683098,30.441],
+  "bbox": [
+    -97.683098,
+    30.441,
+    -97.683098,
+    30.441
+],
   "geometry": {"coordinates":[-97.683098,30.441],"type":"Point"}
 }

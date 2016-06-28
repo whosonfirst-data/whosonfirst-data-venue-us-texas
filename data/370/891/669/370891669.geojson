@@ -2,13 +2,14 @@
   "id": 370891669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.810338,30.283409,-97.810338,30.283409",
     "geom:latitude":30.283409,
     "geom:longitude":-97.810338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Westhaven Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370891669,
-    "wof:lastmodified":1449031120,
+    "wof:lastmodified":1467084520,
     "wof:name":"Veriditas",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.810338,30.283409,-97.810338,30.283409],
+  "bbox": [
+    -97.810338,
+    30.283409,
+    -97.810338,
+    30.283409
+],
   "geometry": {"coordinates":[-97.810338,30.283409],"type":"Point"}
 }

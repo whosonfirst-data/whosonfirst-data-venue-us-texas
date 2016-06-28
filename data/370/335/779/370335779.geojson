@@ -2,13 +2,14 @@
   "id": 370335779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145666,32.716024,-97.145666,32.716024",
     "geom:latitude":32.716024,
     "geom:longitude":-97.145666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Lakeside Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370335779,
-    "wof:lastmodified":1449031309,
+    "wof:lastmodified":1467084525,
     "wof:name":"SGC Pool Svc",
     "wof:parent_id":85840401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.145666,32.716024,-97.145666,32.716024],
-  "geometry": {"coordinates":[-97.145666,32.716024],"type":"Point"}
+  "bbox": [
+    -97.145666,
+    32.716024,
+    -97.145666,
+    32.716024
+],
+  "geometry": {"coordinates":[-97.14566600000001,32.716024],"type":"Point"}
 }

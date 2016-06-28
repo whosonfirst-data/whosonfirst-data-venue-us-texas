@@ -2,13 +2,14 @@
   "id": 236379867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.002633,32.918373,-97.002633,32.918373",
     "geom:latitude":32.918373,
     "geom:longitude":-97.002633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8181 Jetstar Dr Ste 150",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236379867,
-    "wof:lastmodified":1449003586,
+    "wof:lastmodified":1467083960,
     "wof:name":"Buffalo Wild Wings",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-97.002633,32.918373,-97.002633,32.918373],
+  "bbox": [
+    -97.002633,
+    32.918373,
+    -97.002633,
+    32.918373
+],
   "geometry": {"coordinates":[-97.002633,32.918373],"type":"Point"}
 }

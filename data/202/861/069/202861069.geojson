@@ -2,13 +2,14 @@
   "id": 202861069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.143543,33.624368,-97.143543,33.624368",
     "geom:latitude":33.624368,
     "geom:longitude":-97.143543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E California St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202861069,
-    "wof:lastmodified":1449062625,
+    "wof:lastmodified":1467084940,
     "wof:name":"Texas State Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-97.143543,33.624368,-97.143543,33.624368],
-  "geometry": {"coordinates":[-97.143543,33.624368],"type":"Point"}
+  "bbox": [
+    -97.143543,
+    33.624368,
+    -97.143543,
+    33.624368
+],
+  "geometry": {"coordinates":[-97.14354299999999,33.624368],"type":"Point"}
 }

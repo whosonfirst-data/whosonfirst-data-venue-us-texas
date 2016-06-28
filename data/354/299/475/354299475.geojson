@@ -2,13 +2,14 @@
   "id": 354299475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.016759,29.400995,-95.016759,29.400995",
     "geom:latitude":29.400995,
     "geom:longitude":-95.016759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 Emmett F Lowry Expy",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354299475,
-    "wof:lastmodified":1449066347,
+    "wof:lastmodified":1467085061,
     "wof:name":"A-Med Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.016759,29.400995,-95.016759,29.400995],
-  "geometry": {"coordinates":[-95.016759,29.400995],"type":"Point"}
+  "bbox": [
+    -95.016759,
+    29.400995,
+    -95.016759,
+    29.400995
+],
+  "geometry": {"coordinates":[-95.01675899999999,29.400995],"type":"Point"}
 }

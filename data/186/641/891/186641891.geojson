@@ -2,13 +2,14 @@
   "id": 186641891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.118991,26.181277,-98.118991,26.181277",
     "geom:latitude":26.181277,
     "geom:longitude":-98.118991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Austin Ave",
     "sg:city":"Alamo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186641891,
-    "wof:lastmodified":1449052367,
+    "wof:lastmodified":1467084733,
     "wof:name":"Police Department",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-98.118991,26.181277,-98.118991,26.181277],
-  "geometry": {"coordinates":[-98.118991,26.181277],"type":"Point"}
+  "bbox": [
+    -98.118991,
+    26.181277,
+    -98.118991,
+    26.181277
+],
+  "geometry": {"coordinates":[-98.11899099999999,26.181277],"type":"Point"}
 }

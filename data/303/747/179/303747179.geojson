@@ -2,13 +2,14 @@
   "id": 303747179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.676887,30.340886,-97.676887,30.340886",
     "geom:latitude":30.340886,
     "geom:longitude":-97.676887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 Cross Park Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303747179,
-    "wof:lastmodified":1448998564,
+    "wof:lastmodified":1467083713,
     "wof:name":"Airborne Life Support System",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "appliances-manufacturing"
     ]
 },
-  "bbox": [-97.676887,30.340886,-97.676887,30.340886],
-  "geometry": {"coordinates":[-97.676887,30.340886],"type":"Point"}
+  "bbox": [
+    -97.676887,
+    30.340886,
+    -97.676887,
+    30.340886
+],
+  "geometry": {"coordinates":[-97.67688699999999,30.340886],"type":"Point"}
 }

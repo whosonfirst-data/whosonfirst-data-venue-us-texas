@@ -2,13 +2,14 @@
   "id": 253224715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.14794,29.713896,-98.14794,29.713896",
     "geom:latitude":29.713896,
     "geom:longitude":-98.14794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Grandview Ave",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253224715,
-    "wof:lastmodified":1449064991,
+    "wof:lastmodified":1467085019,
     "wof:name":"Premier Riding Lawn Cutting",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-98.14794,29.713896,-98.14794,29.713896],
-  "geometry": {"coordinates":[-98.14794,29.713896],"type":"Point"}
+  "bbox": [
+    -98.14794,
+    29.713896,
+    -98.14794,
+    29.713896
+],
+  "geometry": {"coordinates":[-98.14794000000001,29.713896],"type":"Point"}
 }

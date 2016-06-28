@@ -2,13 +2,14 @@
   "id": 270282917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.515594,29.839234,-95.515594,29.839234",
     "geom:latitude":29.839234,
     "geom:longitude":-95.515594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 S Pinemont Dr Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270282917,
-    "wof:lastmodified":1449010180,
+    "wof:lastmodified":1467084201,
     "wof:name":"Altech",
     "wof:parent_id":85831221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-95.515594,29.839234,-95.515594,29.839234],
-  "geometry": {"coordinates":[-95.515594,29.839234],"type":"Point"}
+  "bbox": [
+    -95.515594,
+    29.839234,
+    -95.515594,
+    29.839234
+],
+  "geometry": {"coordinates":[-95.51559399999999,29.839234],"type":"Point"}
 }

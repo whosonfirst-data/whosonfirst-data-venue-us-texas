@@ -2,13 +2,14 @@
   "id": 203276837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.532057,29.746915,-95.532057,29.746915",
     "geom:latitude":29.746915,
     "geom:longitude":-95.532057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9312 Briar Forest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203276837,
-    "wof:lastmodified":1449025021,
+    "wof:lastmodified":1467084386,
     "wof:name":"Inter II",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.532057,29.746915,-95.532057,29.746915],
-  "geometry": {"coordinates":[-95.532057,29.746915],"type":"Point"}
+  "bbox": [
+    -95.532057,
+    29.746915,
+    -95.532057,
+    29.746915
+],
+  "geometry": {"coordinates":[-95.53205699999999,29.746915],"type":"Point"}
 }

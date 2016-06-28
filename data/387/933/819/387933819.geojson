@@ -2,13 +2,14 @@
   "id": 387933819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.113987,32.749988,-97.113987,32.749988",
     "geom:latitude":32.749988,
     "geom:longitude":-97.113987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Randol Mill Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387933819,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1467084804,
     "wof:name":"Health Services Mammography",
     "wof:parent_id":85873087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.113987,32.749988,-97.113987,32.749988],
-  "geometry": {"coordinates":[-97.113987,32.749988],"type":"Point"}
+  "bbox": [
+    -97.113987,
+    32.749988,
+    -97.113987,
+    32.749988
+],
+  "geometry": {"coordinates":[-97.11398699999999,32.749988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236242255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.247669,29.77223,-95.247669,29.77223",
     "geom:latitude":29.77223,
     "geom:longitude":-95.247669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Mercury Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236242255,
-    "wof:lastmodified":1449004775,
+    "wof:lastmodified":1467084016,
     "wof:name":"American Soccer",
     "wof:parent_id":85869737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-95.247669,29.77223,-95.247669,29.77223],
+  "bbox": [
+    -95.247669,
+    29.77223,
+    -95.247669,
+    29.77223
+],
   "geometry": {"coordinates":[-95.247669,29.77223],"type":"Point"}
 }

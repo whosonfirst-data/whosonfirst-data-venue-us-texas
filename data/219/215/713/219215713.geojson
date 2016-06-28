@@ -2,13 +2,14 @@
   "id": 219215713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.551128,33.349335,-96.551128,33.349335",
     "geom:latitude":33.349335,
     "geom:longitude":-96.551128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 State Hwy 5",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219215713,
-    "wof:lastmodified":1449073312,
+    "wof:lastmodified":1467085161,
     "wof:name":"Daily Needs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.551128,33.349335,-96.551128,33.349335],
-  "geometry": {"coordinates":[-96.551128,33.349335],"type":"Point"}
+  "bbox": [
+    -96.551128,
+    33.349335,
+    -96.551128,
+    33.349335
+],
+  "geometry": {"coordinates":[-96.55112800000001,33.349335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303680055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.79548,30.460643,-97.79548,30.460643",
     "geom:latitude":30.460643,
     "geom:longitude":-97.79548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10323 Lake Creek Pkwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303680055,
-    "wof:lastmodified":1448999830,
+    "wof:lastmodified":1467083777,
     "wof:name":"Multi-World LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.79548,30.460643,-97.79548,30.460643],
+  "bbox": [
+    -97.79548,
+    30.460643,
+    -97.79548,
+    30.460643
+],
   "geometry": {"coordinates":[-97.79548,30.460643],"type":"Point"}
 }

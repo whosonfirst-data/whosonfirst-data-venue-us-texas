@@ -2,13 +2,14 @@
   "id": 303322587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751404,30.24147,-97.751404,30.24147",
     "geom:latitude":30.24147,
     "geom:longitude":-97.751404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Post Rd Ste 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303322587,
-    "wof:lastmodified":1448998090,
+    "wof:lastmodified":1467083689,
     "wof:name":"Post Rd. Community Ctr",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "government-county"
     ]
 },
-  "bbox": [-97.751404,30.24147,-97.751404,30.24147],
-  "geometry": {"coordinates":[-97.751404,30.24147],"type":"Point"}
+  "bbox": [
+    -97.751404,
+    30.24147,
+    -97.751404,
+    30.24147
+],
+  "geometry": {"coordinates":[-97.75140399999999,30.24147],"type":"Point"}
 }

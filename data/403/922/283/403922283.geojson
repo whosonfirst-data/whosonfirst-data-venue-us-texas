@@ -2,13 +2,14 @@
   "id": 403922283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.754646,34.188895,-101.754646,34.188895",
     "geom:latitude":34.188895,
     "geom:longitude":-101.754646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Olton Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403922283,
-    "wof:lastmodified":1449054758,
+    "wof:lastmodified":1467084752,
     "wof:name":"Plainview Janitor Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-101.754646,34.188895,-101.754646,34.188895],
-  "geometry": {"coordinates":[-101.754646,34.188895],"type":"Point"}
+  "bbox": [
+    -101.754646,
+    34.188895,
+    -101.754646,
+    34.188895
+],
+  "geometry": {"coordinates":[-101.75464599999999,34.188895],"type":"Point"}
 }

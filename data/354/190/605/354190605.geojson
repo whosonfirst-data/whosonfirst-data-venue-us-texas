@@ -2,13 +2,14 @@
   "id": 354190605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431124,29.450845,-98.431124,29.450845",
     "geom:latitude":29.450845,
     "geom:longitude":-98.431124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Shipman Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354190605,
-    "wof:lastmodified":1449067569,
+    "wof:lastmodified":1467085092,
     "wof:name":"Shelter Distribution",
     "wof:parent_id":85846747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.431124,29.450845,-98.431124,29.450845],
+  "bbox": [
+    -98.431124,
+    29.450845,
+    -98.431124,
+    29.450845
+],
   "geometry": {"coordinates":[-98.431124,29.450845],"type":"Point"}
 }

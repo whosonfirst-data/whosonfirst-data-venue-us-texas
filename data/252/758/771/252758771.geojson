@@ -2,13 +2,14 @@
   "id": 252758771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.44459,30.021063,-95.44459,30.021063",
     "geom:latitude":30.021063,
     "geom:longitude":-95.44459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Peakwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252758771,
-    "wof:lastmodified":1449005743,
+    "wof:lastmodified":1467084066,
     "wof:name":"Schmidt Jimmy D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.44459,30.021063,-95.44459,30.021063],
-  "geometry": {"coordinates":[-95.44459,30.021063],"type":"Point"}
+  "bbox": [
+    -95.44459,
+    30.021063,
+    -95.44459,
+    30.021063
+],
+  "geometry": {"coordinates":[-95.44459000000001,30.021063],"type":"Point"}
 }

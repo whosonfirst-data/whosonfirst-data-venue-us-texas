@@ -2,13 +2,14 @@
   "id": 186111723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.332017,32.74783,-97.332017,32.74783",
     "geom:latitude":32.74783,
     "geom:longitude":-97.332017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 13th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186111723,
-    "wof:lastmodified":1449053108,
+    "wof:lastmodified":1467084749,
     "wof:name":"Downtown Workforce Ctr",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government"
     ]
 },
-  "bbox": [-97.332017,32.74783,-97.332017,32.74783],
-  "geometry": {"coordinates":[-97.332017,32.74783],"type":"Point"}
+  "bbox": [
+    -97.332017,
+    32.74783,
+    -97.332017,
+    32.74783
+],
+  "geometry": {"coordinates":[-97.33201699999999,32.74783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270040015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.360102,29.707187,-95.360102,29.707187",
     "geom:latitude":29.707187,
     "geom:longitude":-95.360102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3732 Parkwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270040015,
-    "wof:lastmodified":1449011062,
+    "wof:lastmodified":1467084230,
     "wof:name":"University Faculty Voice",
     "wof:parent_id":85869449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-95.360102,29.707187,-95.360102,29.707187],
+  "bbox": [
+    -95.360102,
+    29.707187,
+    -95.360102,
+    29.707187
+],
   "geometry": {"coordinates":[-95.360102,29.707187],"type":"Point"}
 }

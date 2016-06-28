@@ -2,13 +2,14 @@
   "id": 354207169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.07299,31.992313,-102.07299,31.992313",
     "geom:latitude":31.992313,
     "geom:longitude":-102.07299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Baird St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354207169,
-    "wof:lastmodified":1449067156,
+    "wof:lastmodified":1467085081,
     "wof:name":"Business Hygiene",
     "wof:parent_id":85893837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitation"
     ]
 },
-  "bbox": [-102.07299,31.992313,-102.07299,31.992313],
+  "bbox": [
+    -102.07299,
+    31.992313,
+    -102.07299,
+    31.992313
+],
   "geometry": {"coordinates":[-102.07299,31.992313],"type":"Point"}
 }

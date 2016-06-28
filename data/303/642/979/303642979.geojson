@@ -2,13 +2,14 @@
   "id": 303642979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.855038,30.160973,-97.855038,30.160973",
     "geom:latitude":30.160973,
     "geom:longitude":-97.855038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11503 Eventide Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303642979,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1467083699,
     "wof:name":"Shady Hollow Farms",
     "wof:parent_id":85865413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-97.855038,30.160973,-97.855038,30.160973],
-  "geometry": {"coordinates":[-97.855038,30.160973],"type":"Point"}
+  "bbox": [
+    -97.855038,
+    30.160973,
+    -97.855038,
+    30.160973
+],
+  "geometry": {"coordinates":[-97.85503799999999,30.160973],"type":"Point"}
 }

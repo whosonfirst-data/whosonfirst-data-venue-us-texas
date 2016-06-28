@@ -2,13 +2,14 @@
   "id": 202805017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.002302,33.014151,-97.002302,33.014151",
     "geom:latitude":33.014151,
     "geom:longitude":-97.002302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Timber Way Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202805017,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1467084906,
     "wof:name":"Cassco",
     "wof:parent_id":85893707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.002302,33.014151,-97.002302,33.014151],
+  "bbox": [
+    -97.002302,
+    33.014151,
+    -97.002302,
+    33.014151
+],
   "geometry": {"coordinates":[-97.002302,33.014151],"type":"Point"}
 }

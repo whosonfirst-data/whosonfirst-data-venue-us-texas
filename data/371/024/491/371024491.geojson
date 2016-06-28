@@ -2,13 +2,14 @@
   "id": 371024491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.022151,30.308985,-104.022151,30.308985",
     "geom:latitude":30.308985,
     "geom:longitude":-104.022151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W San Antonio St",
     "sg:city":"Marfa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371024491,
-    "wof:lastmodified":1449049505,
+    "wof:lastmodified":1467084679,
     "wof:name":"St Mary's Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.022151,30.308985,-104.022151,30.308985],
-  "geometry": {"coordinates":[-104.022151,30.308985],"type":"Point"}
+  "bbox": [
+    -104.022151,
+    30.308985,
+    -104.022151,
+    30.308985
+],
+  "geometry": {"coordinates":[-104.02215099999999,30.308985],"type":"Point"}
 }

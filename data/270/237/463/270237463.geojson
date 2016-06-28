@@ -2,13 +2,14 @@
   "id": 270237463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.526788,29.714595,-95.526788,29.714595",
     "geom:latitude":29.714595,
     "geom:longitude":-95.526788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Sands Point Dr.",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":270237463,
-    "wof:lastmodified":1449008729,
+    "wof:lastmodified":1467084152,
     "wof:name":"house painting",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "painting-production"
     ]
 },
-  "bbox": [-95.526788,29.714595,-95.526788,29.714595],
+  "bbox": [
+    -95.526788,
+    29.714595,
+    -95.526788,
+    29.714595
+],
   "geometry": {"coordinates":[-95.526788,29.714595],"type":"Point"}
 }

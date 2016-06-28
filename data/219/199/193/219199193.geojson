@@ -2,13 +2,14 @@
   "id": 219199193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.246929,29.694827,-95.246929,29.694827",
     "geom:latitude":29.694827,
     "geom:longitude":-95.246929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Loper St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219199193,
-    "wof:lastmodified":1449070752,
+    "wof:lastmodified":1467085107,
     "wof:name":"Tacos El Primo",
     "wof:parent_id":85802795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.246929,29.694827,-95.246929,29.694827],
-  "geometry": {"coordinates":[-95.246929,29.694827],"type":"Point"}
+  "bbox": [
+    -95.246929,
+    29.694827,
+    -95.246929,
+    29.694827
+],
+  "geometry": {"coordinates":[-95.24692899999999,29.694827],"type":"Point"}
 }

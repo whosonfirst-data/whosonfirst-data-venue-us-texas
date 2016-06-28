@@ -2,13 +2,14 @@
   "id": 253644261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.076105,32.641171,-97.076105,32.641171",
     "geom:latitude":32.641171,
     "geom:longitude":-97.076105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 Southeast Pkwy",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":253644261,
-    "wof:lastmodified":1449064516,
+    "wof:lastmodified":1467085003,
     "wof:name":"Station Point Shell",
     "wof:parent_id":85873081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-97.076105,32.641171,-97.076105,32.641171],
+  "bbox": [
+    -97.076105,
+    32.641171,
+    -97.076105,
+    32.641171
+],
   "geometry": {"coordinates":[-97.076105,32.641171],"type":"Point"}
 }

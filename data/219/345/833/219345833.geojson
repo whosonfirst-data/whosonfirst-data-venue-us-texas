@@ -2,13 +2,14 @@
   "id": 219345833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538952,29.737053,-95.538952,29.737053",
     "geom:latitude":29.737053,
     "geom:longitude":-95.538952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 S Gessner Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219345833,
-    "wof:lastmodified":1449073634,
+    "wof:lastmodified":1467085168,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.538952,29.737053,-95.538952,29.737053],
-  "geometry": {"coordinates":[-95.538952,29.737053],"type":"Point"}
+  "bbox": [
+    -95.538952,
+    29.737053,
+    -95.538952,
+    29.737053
+],
+  "geometry": {"coordinates":[-95.53895199999999,29.737053],"type":"Point"}
 }

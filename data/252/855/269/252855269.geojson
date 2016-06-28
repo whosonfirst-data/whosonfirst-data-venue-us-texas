@@ -2,13 +2,14 @@
   "id": 252855269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760586,32.792512,-96.760586,32.792512",
     "geom:latitude":32.792512,
     "geom:longitude":-96.760586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Fitzhugh Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252855269,
-    "wof:lastmodified":1449006201,
+    "wof:lastmodified":1467084092,
     "wof:name":"Maynard's Plumbing",
     "wof:parent_id":85870351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-96.760586,32.792512,-96.760586,32.792512],
+  "bbox": [
+    -96.760586,
+    32.792512,
+    -96.760586,
+    32.792512
+],
   "geometry": {"coordinates":[-96.760586,32.792512],"type":"Point"}
 }

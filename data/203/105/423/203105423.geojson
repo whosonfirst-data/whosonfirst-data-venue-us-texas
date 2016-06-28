@@ -2,13 +2,14 @@
   "id": 203105423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.423313,31.814633,-99.423313,31.814633",
     "geom:latitude":31.814633,
     "geom:longitude":-99.423313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Commercial Ave",
     "sg:city":"Coleman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203105423,
-    "wof:lastmodified":1449025640,
+    "wof:lastmodified":1467084398,
     "wof:name":"Donald Williams Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.423313,31.814633,-99.423313,31.814633],
-  "geometry": {"coordinates":[-99.423313,31.814633],"type":"Point"}
+  "bbox": [
+    -99.423313,
+    31.814633,
+    -99.423313,
+    31.814633
+],
+  "geometry": {"coordinates":[-99.42331299999999,31.814633],"type":"Point"}
 }

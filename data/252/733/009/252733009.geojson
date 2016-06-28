@@ -2,13 +2,14 @@
   "id": 252733009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79551,32.838942,-96.79551,32.838942",
     "geom:latitude":32.838942,
     "geom:longitude":-96.79551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Normandy Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":252733009,
-    "wof:lastmodified":1449005551,
+    "wof:lastmodified":1467084056,
     "wof:name":"Robert B Bruner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.79551,32.838942,-96.79551,32.838942],
-  "geometry": {"coordinates":[-96.79551,32.838942],"type":"Point"}
+  "bbox": [
+    -96.79551,
+    32.838942,
+    -96.79551,
+    32.838942
+],
+  "geometry": {"coordinates":[-96.79550999999999,32.838942],"type":"Point"}
 }

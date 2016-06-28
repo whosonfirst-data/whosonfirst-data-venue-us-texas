@@ -2,13 +2,14 @@
   "id": 270082717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.547722,29.78388,-95.547722,29.78388",
     "geom:latitude":29.78388,
     "geom:longitude":-95.547722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 Katy Fwy Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270082717,
-    "wof:lastmodified":1449008729,
+    "wof:lastmodified":1467084153,
     "wof:name":"Ritz Camera",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.547722,29.78388,-95.547722,29.78388],
-  "geometry": {"coordinates":[-95.547722,29.78388],"type":"Point"}
+  "bbox": [
+    -95.547722,
+    29.78388,
+    -95.547722,
+    29.78388
+],
+  "geometry": {"coordinates":[-95.54772199999999,29.78388],"type":"Point"}
 }

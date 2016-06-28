@@ -2,13 +2,14 @@
   "id": 354218173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.344412,32.756712,-94.344412,32.756712",
     "geom:latitude":32.756712,
     "geom:longitude":-94.344412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Austin St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354218173,
-    "wof:lastmodified":1449067046,
+    "wof:lastmodified":1467085079,
     "wof:name":"Marion County Historical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-94.344412,32.756712,-94.344412,32.756712],
-  "geometry": {"coordinates":[-94.344412,32.756712],"type":"Point"}
+  "bbox": [
+    -94.344412,
+    32.756712,
+    -94.344412,
+    32.756712
+],
+  "geometry": {"coordinates":[-94.34441200000001,32.756712],"type":"Point"}
 }

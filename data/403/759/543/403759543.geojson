@@ -2,13 +2,14 @@
   "id": 403759543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.989345,32.865439,-96.989345,32.865439",
     "geom:latitude":32.865439,
     "geom:longitude":-96.989345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 W Walnut Hill Ln",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403759543,
-    "wof:lastmodified":1449055986,
+    "wof:lastmodified":1467084781,
     "wof:name":"Coin Mach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "power"
     ]
 },
-  "bbox": [-96.989345,32.865439,-96.989345,32.865439],
+  "bbox": [
+    -96.989345,
+    32.865439,
+    -96.989345,
+    32.865439
+],
   "geometry": {"coordinates":[-96.989345,32.865439],"type":"Point"}
 }

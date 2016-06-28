@@ -2,13 +2,14 @@
   "id": 370335415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.178091,26.3057,-98.178091,26.3057",
     "geom:latitude":26.3057,
     "geom:longitude":-98.178091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 W Kuhn St",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370335415,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1467084525,
     "wof:name":"Mitchell Apts",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.178091,26.3057,-98.178091,26.3057],
-  "geometry": {"coordinates":[-98.178091,26.3057],"type":"Point"}
+  "bbox": [
+    -98.178091,
+    26.3057,
+    -98.178091,
+    26.3057
+],
+  "geometry": {"coordinates":[-98.17809099999999,26.3057],"type":"Point"}
 }

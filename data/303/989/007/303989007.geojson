@@ -2,13 +2,14 @@
   "id": 303989007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.791707,33.592579,-101.791707,33.592579",
     "geom:latitude":33.592579,
     "geom:longitude":-101.791707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 E 4th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303989007,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1467083781,
     "wof:name":"Polanco's Welding",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-101.791707,33.592579,-101.791707,33.592579],
+  "bbox": [
+    -101.791707,
+    33.592579,
+    -101.791707,
+    33.592579
+],
   "geometry": {"coordinates":[-101.791707,33.592579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253187515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.459505,29.405828,-98.459505,29.405828",
     "geom:latitude":29.405828,
     "geom:longitude":-98.459505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Porter St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253187515,
-    "wof:lastmodified":1449063255,
+    "wof:lastmodified":1467084960,
     "wof:name":"Mmm Taco",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-98.459505,29.405828,-98.459505,29.405828],
-  "geometry": {"coordinates":[-98.459505,29.405828],"type":"Point"}
+  "bbox": [
+    -98.459505,
+    29.405828,
+    -98.459505,
+    29.405828
+],
+  "geometry": {"coordinates":[-98.45950499999999,29.405828],"type":"Point"}
 }

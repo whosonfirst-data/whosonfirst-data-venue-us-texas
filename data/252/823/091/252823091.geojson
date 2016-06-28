@@ -2,13 +2,14 @@
   "id": 252823091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80939,32.815243,-96.80939,32.815243",
     "geom:latitude":32.815243,
     "geom:longitude":-96.80939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 Lemmon Ave Suite 290",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":252823091,
-    "wof:lastmodified":1449006494,
+    "wof:lastmodified":1467084107,
     "wof:name":"Monarch Dental",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-96.80939,32.815243,-96.80939,32.815243],
-  "geometry": {"coordinates":[-96.80939,32.815243],"type":"Point"}
+  "bbox": [
+    -96.80939,
+    32.815243,
+    -96.80939,
+    32.815243
+],
+  "geometry": {"coordinates":[-96.80938999999999,32.815243],"type":"Point"}
 }

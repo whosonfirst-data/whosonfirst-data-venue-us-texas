@@ -2,13 +2,14 @@
   "id": 303480775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771432,30.341272,-97.771432,30.341272",
     "geom:latitude":30.341272,
     "geom:longitude":-97.771432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Ranch Rd 2222 & Creek Mountain Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303480775,
-    "wof:lastmodified":1448998913,
+    "wof:lastmodified":1467083731,
     "wof:name":"Bright Leaf Preserve",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.771432,30.341272,-97.771432,30.341272],
+  "bbox": [
+    -97.771432,
+    30.341272,
+    -97.771432,
+    30.341272
+],
   "geometry": {"coordinates":[-97.771432,30.341272],"type":"Point"}
 }

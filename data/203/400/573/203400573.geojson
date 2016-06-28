@@ -2,13 +2,14 @@
   "id": 203400573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.99076,26.168107,-97.99076,26.168107",
     "geom:latitude":26.168107,
     "geom:longitude":-97.99076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Texas Blvd",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203400573,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1467084388,
     "wof:name":"E Z Clean Car Wash",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-97.99076,26.168107,-97.99076,26.168107],
-  "geometry": {"coordinates":[-97.99076,26.168107],"type":"Point"}
+  "bbox": [
+    -97.99076,
+    26.168107,
+    -97.99076,
+    26.168107
+],
+  "geometry": {"coordinates":[-97.99075999999999,26.168107],"type":"Point"}
 }

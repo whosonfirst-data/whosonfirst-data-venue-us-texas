@@ -2,13 +2,14 @@
   "id": 303739099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.683102,30.36419,-97.683102,30.36419",
     "geom:latitude":30.36419,
     "geom:longitude":-97.683102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 S IH 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303739099,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1467083743,
     "wof:name":"Rosie's Pho Asian Noodle House",
     "wof:parent_id":85869897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.683102,30.36419,-97.683102,30.36419],
-  "geometry": {"coordinates":[-97.683102,30.36419],"type":"Point"}
+  "bbox": [
+    -97.683102,
+    30.36419,
+    -97.683102,
+    30.36419
+],
+  "geometry": {"coordinates":[-97.68310200000001,30.36419],"type":"Point"}
 }

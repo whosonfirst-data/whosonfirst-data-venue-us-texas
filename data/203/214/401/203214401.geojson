@@ -2,13 +2,14 @@
   "id": 203214401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.600761,29.509732,-98.600761,29.509732",
     "geom:latitude":29.509732,
     "geom:longitude":-98.600761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6235 John Chapman",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203214401,
-    "wof:lastmodified":1449026819,
+    "wof:lastmodified":1467084420,
     "wof:name":"Mystic Painting",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.600761,29.509732,-98.600761,29.509732],
-  "geometry": {"coordinates":[-98.600761,29.509732],"type":"Point"}
+  "bbox": [
+    -98.600761,
+    29.509732,
+    -98.600761,
+    29.509732
+],
+  "geometry": {"coordinates":[-98.60076100000001,29.509732],"type":"Point"}
 }

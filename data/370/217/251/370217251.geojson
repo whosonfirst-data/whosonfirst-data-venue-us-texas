@@ -2,13 +2,14 @@
   "id": 370217251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.16209,26.195184,-98.16209,26.195184",
     "geom:latitude":26.195184,
     "geom:longitude":-98.16209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W 1st St",
     "sg:city":"San Juan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370217251,
-    "wof:lastmodified":1449032264,
+    "wof:lastmodified":1467084549,
     "wof:name":"San Juan Parks & Recreation",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-98.16209,26.195184,-98.16209,26.195184],
-  "geometry": {"coordinates":[-98.16209,26.195184],"type":"Point"}
+  "bbox": [
+    -98.16209,
+    26.195184,
+    -98.16209,
+    26.195184
+],
+  "geometry": {"coordinates":[-98.16209000000001,26.195184],"type":"Point"}
 }

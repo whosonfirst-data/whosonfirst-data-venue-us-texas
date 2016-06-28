@@ -2,13 +2,14 @@
   "id": 370941115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.44656,31.774506,-106.44656,31.774506",
     "geom:latitude":31.774506,
     "geom:longitude":-106.44656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3803 Frutas Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370941115,
-    "wof:lastmodified":1449031098,
+    "wof:lastmodified":1467084519,
     "wof:name":"C L Hill Co",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.44656,31.774506,-106.44656,31.774506],
-  "geometry": {"coordinates":[-106.44656,31.774506],"type":"Point"}
+  "bbox": [
+    -106.44656,
+    31.774506,
+    -106.44656,
+    31.774506
+],
+  "geometry": {"coordinates":[-106.44656000000001,31.774506],"type":"Point"}
 }

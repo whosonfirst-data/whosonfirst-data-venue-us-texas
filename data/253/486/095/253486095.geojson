@@ -2,13 +2,14 @@
   "id": 253486095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.360039,32.54845,-94.360039,32.54845",
     "geom:latitude":32.54845,
     "geom:longitude":-94.360039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Grand Ave",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253486095,
-    "wof:lastmodified":1449064477,
+    "wof:lastmodified":1467085002,
     "wof:name":"Mr Donut",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.360039,32.54845,-94.360039,32.54845],
+  "bbox": [
+    -94.360039,
+    32.54845,
+    -94.360039,
+    32.54845
+],
   "geometry": {"coordinates":[-94.360039,32.54845],"type":"Point"}
 }

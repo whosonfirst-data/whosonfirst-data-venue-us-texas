@@ -2,13 +2,14 @@
   "id": 387717671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.09793,32.005145,-102.09793,32.005145",
     "geom:latitude":32.005145,
     "geom:longitude":-102.09793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Bedford Dr",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387717671,
-    "wof:lastmodified":1449056219,
+    "wof:lastmodified":1467084787,
     "wof:name":"Wtwt Inc",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "testing"
     ]
 },
-  "bbox": [-102.09793,32.005145,-102.09793,32.005145],
-  "geometry": {"coordinates":[-102.09793,32.005145],"type":"Point"}
+  "bbox": [
+    -102.09793,
+    32.005145,
+    -102.09793,
+    32.005145
+],
+  "geometry": {"coordinates":[-102.09793000000001,32.005145],"type":"Point"}
 }

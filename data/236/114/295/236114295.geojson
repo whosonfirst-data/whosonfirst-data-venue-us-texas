@@ -2,13 +2,14 @@
   "id": 236114295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.478349,27.597064,-99.478349,27.597064",
     "geom:latitude":27.597064,
     "geom:longitude":-99.478349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 McPherson Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236114295,
-    "wof:lastmodified":1449002947,
+    "wof:lastmodified":1467083930,
     "wof:name":"Speedy Stop 37",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-99.478349,27.597064,-99.478349,27.597064],
-  "geometry": {"coordinates":[-99.478349,27.597064],"type":"Point"}
+  "bbox": [
+    -99.478349,
+    27.597064,
+    -99.478349,
+    27.597064
+],
+  "geometry": {"coordinates":[-99.47834899999999,27.597064],"type":"Point"}
 }

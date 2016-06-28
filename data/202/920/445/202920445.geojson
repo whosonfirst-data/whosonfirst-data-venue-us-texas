@@ -2,13 +2,14 @@
   "id": 202920445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.231162,31.903753,-102.231162,31.903753",
     "geom:latitude":31.903753,
     "geom:longitude":-102.231162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11400 W I- 20 E",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202920445,
-    "wof:lastmodified":1449062082,
+    "wof:lastmodified":1467084929,
     "wof:name":"Texas Gas & Crude",
     "wof:parent_id":85806799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-102.231162,31.903753,-102.231162,31.903753],
+  "bbox": [
+    -102.231162,
+    31.903753,
+    -102.231162,
+    31.903753
+],
   "geometry": {"coordinates":[-102.231162,31.903753],"type":"Point"}
 }

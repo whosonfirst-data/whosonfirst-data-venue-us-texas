@@ -2,13 +2,14 @@
   "id": 253201199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.312624,29.700486,-95.312624,29.700486",
     "geom:latitude":29.700486,
     "geom:longitude":-95.312624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Askew St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253201199,
-    "wof:lastmodified":1449065375,
+    "wof:lastmodified":1467085033,
     "wof:name":"S&G Roofing",
     "wof:parent_id":85869309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.312624,29.700486,-95.312624,29.700486],
+  "bbox": [
+    -95.312624,
+    29.700486,
+    -95.312624,
+    29.700486
+],
   "geometry": {"coordinates":[-95.312624,29.700486],"type":"Point"}
 }

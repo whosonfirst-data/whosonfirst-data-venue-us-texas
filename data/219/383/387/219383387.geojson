@@ -2,13 +2,14 @@
   "id": 219383387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.780441,32.811357,-96.780441,32.811357",
     "geom:latitude":32.811357,
     "geom:longitude":-96.780441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Bennett Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219383387,
-    "wof:lastmodified":1449071880,
+    "wof:lastmodified":1467085131,
     "wof:name":"Bennett Place Apartments",
     "wof:parent_id":85867225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.780441,32.811357,-96.780441,32.811357],
+  "bbox": [
+    -96.780441,
+    32.811357,
+    -96.780441,
+    32.811357
+],
   "geometry": {"coordinates":[-96.780441,32.811357],"type":"Point"}
 }

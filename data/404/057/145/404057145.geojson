@@ -2,13 +2,14 @@
   "id": 404057145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.771104,32.443762,-99.771104,32.443762",
     "geom:latitude":32.443762,
     "geom:longitude":-99.771104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 S 7th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404057145,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1467084649,
     "wof:name":"Parker & Parker",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.771104,32.443762,-99.771104,32.443762],
-  "geometry": {"coordinates":[-99.771104,32.443762],"type":"Point"}
+  "bbox": [
+    -99.771104,
+    32.443762,
+    -99.771104,
+    32.443762
+],
+  "geometry": {"coordinates":[-99.77110399999999,32.443762],"type":"Point"}
 }

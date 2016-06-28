@@ -2,13 +2,14 @@
   "id": 354207523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.422812,28.969192,-95.422812,28.969192",
     "geom:latitude":28.969192,
     "geom:longitude":-95.422812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4731 Hwy 36",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354207523,
-    "wof:lastmodified":1449067156,
+    "wof:lastmodified":1467085081,
     "wof:name":"Schneider's Grocery",
     "wof:parent_id":85841357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.422812,28.969192,-95.422812,28.969192],
-  "geometry": {"coordinates":[-95.422812,28.969192],"type":"Point"}
+  "bbox": [
+    -95.422812,
+    28.969192,
+    -95.422812,
+    28.969192
+],
+  "geometry": {"coordinates":[-95.42281199999999,28.969192],"type":"Point"}
 }

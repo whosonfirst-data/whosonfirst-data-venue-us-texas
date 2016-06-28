@@ -2,13 +2,14 @@
   "id": 286951755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.733809,30.104958,-93.733809,30.104958",
     "geom:latitude":30.104958,
     "geom:longitude":-93.733809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Burton Ave",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286951755,
-    "wof:lastmodified":1449015296,
+    "wof:lastmodified":1467084239,
     "wof:name":"Orange Housing Development Corporation",
     "wof:parent_id":85808197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.733809,30.104958,-93.733809,30.104958],
-  "geometry": {"coordinates":[-93.733809,30.104958],"type":"Point"}
+  "bbox": [
+    -93.733809,
+    30.104958,
+    -93.733809,
+    30.104958
+],
+  "geometry": {"coordinates":[-93.73380899999999,30.104958],"type":"Point"}
 }

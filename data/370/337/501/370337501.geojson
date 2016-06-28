@@ -2,13 +2,14 @@
   "id": 370337501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773395,32.895432,-96.773395,32.895432",
     "geom:latitude":32.895432,
     "geom:longitude":-96.773395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10824 Stone Canyon Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370337501,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1467084509,
     "wof:name":"Pandora's",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.773395,32.895432,-96.773395,32.895432],
-  "geometry": {"coordinates":[-96.773395,32.895432],"type":"Point"}
+  "bbox": [
+    -96.773395,
+    32.895432,
+    -96.773395,
+    32.895432
+],
+  "geometry": {"coordinates":[-96.77339499999999,32.895432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236595271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.47847,32.09111,-96.47847,32.09111",
     "geom:latitude":32.09111,
     "geom:longitude":-96.47847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 W 2nd Ave Ste 100",
     "sg:city":"Corsicana",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":236595271,
-    "wof:lastmodified":1449004863,
+    "wof:lastmodified":1467084021,
     "wof:name":"Corsicana Foot Clinic",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "care"
     ]
 },
-  "bbox": [-96.47847,32.09111,-96.47847,32.09111],
+  "bbox": [
+    -96.47847,
+    32.09111,
+    -96.47847,
+    32.09111
+],
   "geometry": {"coordinates":[-96.47847,32.09111],"type":"Point"}
 }

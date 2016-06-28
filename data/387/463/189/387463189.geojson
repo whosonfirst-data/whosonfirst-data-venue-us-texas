@@ -2,13 +2,14 @@
   "id": 387463189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507197,29.52207,-98.507197,29.52207",
     "geom:latitude":29.52207,
     "geom:longitude":-98.507197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Biltmore St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387463189,
-    "wof:lastmodified":1449058755,
+    "wof:lastmodified":1467084852,
     "wof:name":"Singer Merton Associates",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-98.507197,29.52207,-98.507197,29.52207],
-  "geometry": {"coordinates":[-98.507197,29.52207],"type":"Point"}
+  "bbox": [
+    -98.507197,
+    29.52207,
+    -98.507197,
+    29.52207
+],
+  "geometry": {"coordinates":[-98.50719700000001,29.52207],"type":"Point"}
 }

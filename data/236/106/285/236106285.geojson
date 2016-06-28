@@ -2,13 +2,14 @@
   "id": 236106285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.89839,33.243568,-95.89839,33.243568",
     "geom:latitude":33.243568,
     "geom:longitude":-95.89839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Park St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236106285,
-    "wof:lastmodified":1449001640,
+    "wof:lastmodified":1467083851,
     "wof:name":"19th Hole Auto Brokers",
     "wof:parent_id":85803433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.89839,33.243568,-95.89839,33.243568],
-  "geometry": {"coordinates":[-95.89839,33.243568],"type":"Point"}
+  "bbox": [
+    -95.89839,
+    33.243568,
+    -95.89839,
+    33.243568
+],
+  "geometry": {"coordinates":[-95.89839000000001,33.243568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270016397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.44437,29.820402,-95.44437,29.820402",
     "geom:latitude":29.820402,
     "geom:longitude":-95.44437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2499 Judiway St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270016397,
-    "wof:lastmodified":1449009061,
+    "wof:lastmodified":1467084163,
     "wof:name":"United States Postal Service-USPS",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.44437,29.820402,-95.44437,29.820402],
-  "geometry": {"coordinates":[-95.44437,29.820402],"type":"Point"}
+  "bbox": [
+    -95.44437,
+    29.820402,
+    -95.44437,
+    29.820402
+],
+  "geometry": {"coordinates":[-95.44437000000001,29.820402],"type":"Point"}
 }

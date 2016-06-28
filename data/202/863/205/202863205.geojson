@@ -2,13 +2,14 @@
   "id": 202863205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.953854,32.922244,-96.953854,32.922244",
     "geom:latitude":32.922244,
     "geom:longitude":-96.953854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Southridge Way",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202863205,
-    "wof:lastmodified":1449061839,
+    "wof:lastmodified":1467084924,
     "wof:name":"Skanh Software",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-96.953854,32.922244,-96.953854,32.922244],
-  "geometry": {"coordinates":[-96.953854,32.922244],"type":"Point"}
+  "bbox": [
+    -96.953854,
+    32.922244,
+    -96.953854,
+    32.922244
+],
+  "geometry": {"coordinates":[-96.95385400000001,32.922244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186073885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760353,30.398227,-97.760353,30.398227",
     "geom:latitude":30.398227,
     "geom:longitude":-97.760353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Musket Ridge",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186073885,
-    "wof:lastmodified":1449050723,
+    "wof:lastmodified":1467084700,
     "wof:name":"Johnny Butler",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.760353,30.398227,-97.760353,30.398227],
-  "geometry": {"coordinates":[-97.760353,30.398227],"type":"Point"}
+  "bbox": [
+    -97.760353,
+    30.398227,
+    -97.760353,
+    30.398227
+],
+  "geometry": {"coordinates":[-97.76035299999999,30.398227],"type":"Point"}
 }

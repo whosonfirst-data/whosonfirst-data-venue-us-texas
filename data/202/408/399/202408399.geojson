@@ -2,13 +2,14 @@
   "id": 202408399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493483,33.880486,-98.493483,33.880486",
     "geom:latitude":33.880486,
     "geom:longitude":-98.493483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 33rd St",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202408399,
-    "wof:lastmodified":1449060413,
+    "wof:lastmodified":1467084894,
     "wof:name":"J & J Motor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.493483,33.880486,-98.493483,33.880486],
+  "bbox": [
+    -98.493483,
+    33.880486,
+    -98.493483,
+    33.880486
+],
   "geometry": {"coordinates":[-98.493483,33.880486],"type":"Point"}
 }

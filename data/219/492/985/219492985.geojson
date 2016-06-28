@@ -2,13 +2,14 @@
   "id": 219492985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.46412,30.289986,-95.46412,30.289986",
     "geom:latitude":30.289986,
     "geom:longitude":-95.46412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Rivershire Dr",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219492985,
-    "wof:lastmodified":1449070376,
+    "wof:lastmodified":1467085099,
     "wof:name":"Northwest Oral and Maxillofc",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oral"
     ]
 },
-  "bbox": [-95.46412,30.289986,-95.46412,30.289986],
-  "geometry": {"coordinates":[-95.46412,30.289986],"type":"Point"}
+  "bbox": [
+    -95.46412,
+    30.289986,
+    -95.46412,
+    30.289986
+],
+  "geometry": {"coordinates":[-95.46411999999999,30.289986],"type":"Point"}
 }

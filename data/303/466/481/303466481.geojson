@@ -2,13 +2,14 @@
   "id": 303466481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754303,30.3417,-97.754303,30.3417",
     "geom:latitude":30.3417,
     "geom:longitude":-97.754303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Balcones Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303466481,
-    "wof:lastmodified":1448998847,
+    "wof:lastmodified":1467083728,
     "wof:name":"Guebert Walter C PC",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.754303,30.3417,-97.754303,30.3417],
-  "geometry": {"coordinates":[-97.754303,30.3417],"type":"Point"}
+  "bbox": [
+    -97.754303,
+    30.3417,
+    -97.754303,
+    30.3417
+],
+  "geometry": {"coordinates":[-97.75430299999999,30.3417],"type":"Point"}
 }

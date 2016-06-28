@@ -2,13 +2,14 @@
   "id": 269539341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10881,33.18399,-97.10881,33.18399",
     "geom:latitude":33.18399,
     "geom:longitude":-97.10881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2446 Lillian Miller Pkwy Ste A",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":269539341,
-    "wof:lastmodified":1449039035,
+    "wof:lastmodified":1467084640,
     "wof:name":"Lipscomb M Scott DDS",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-97.10881,33.18399,-97.10881,33.18399],
-  "geometry": {"coordinates":[-97.10881,33.18399],"type":"Point"}
+  "bbox": [
+    -97.10881,
+    33.18399,
+    -97.10881,
+    33.18399
+],
+  "geometry": {"coordinates":[-97.10881000000001,33.18399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387149937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.87063,33.580427,-101.87063,33.580427",
     "geom:latitude":33.580427,
     "geom:longitude":-101.87063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 University Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387149937,
-    "wof:lastmodified":1449056120,
+    "wof:lastmodified":1467084785,
     "wof:name":"St John's United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.87063,33.580427,-101.87063,33.580427],
-  "geometry": {"coordinates":[-101.87063,33.580427],"type":"Point"}
+  "bbox": [
+    -101.87063,
+    33.580427,
+    -101.87063,
+    33.580427
+],
+  "geometry": {"coordinates":[-101.87063000000001,33.580427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236794375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793291,32.781105,-96.793291,32.781105",
     "geom:latitude":32.781105,
     "geom:longitude":-96.793291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2038 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236794375,
-    "wof:lastmodified":1449003191,
+    "wof:lastmodified":1467083942,
     "wof:name":"Pearl",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-96.793291,32.781105,-96.793291,32.781105],
+  "bbox": [
+    -96.793291,
+    32.781105,
+    -96.793291,
+    32.781105
+],
   "geometry": {"coordinates":[-96.793291,32.781105],"type":"Point"}
 }

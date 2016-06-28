@@ -2,13 +2,14 @@
   "id": 202466761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.424763,29.677008,-95.424763,29.677008",
     "geom:latitude":29.677008,
     "geom:longitude":-95.424763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 S Loop Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202466761,
-    "wof:lastmodified":1449060872,
+    "wof:lastmodified":1467084904,
     "wof:name":"MASH Inc",
     "wof:parent_id":85869809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.424763,29.677008,-95.424763,29.677008],
+  "bbox": [
+    -95.424763,
+    29.677008,
+    -95.424763,
+    29.677008
+],
   "geometry": {"coordinates":[-95.424763,29.677008],"type":"Point"}
 }

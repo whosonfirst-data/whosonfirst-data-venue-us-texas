@@ -2,13 +2,14 @@
   "id": 303656061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.847301,30.200724,-97.847301,30.200724",
     "geom:latitude":30.200724,
     "geom:longitude":-97.847301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8609 Verona Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303656061,
-    "wof:lastmodified":1448999713,
+    "wof:lastmodified":1467083771,
     "wof:name":"House to House",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.847301,30.200724,-97.847301,30.200724],
+  "bbox": [
+    -97.847301,
+    30.200724,
+    -97.847301,
+    30.200724
+],
   "geometry": {"coordinates":[-97.847301,30.200724],"type":"Point"}
 }

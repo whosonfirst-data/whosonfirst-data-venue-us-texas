@@ -2,13 +2,14 @@
   "id": 387172193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.485953,29.730602,-95.485953,29.730602",
     "geom:latitude":29.730602,
     "geom:longitude":-95.485953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6061 Beverlyhill St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387172193,
-    "wof:lastmodified":1449057636,
+    "wof:lastmodified":1467084823,
     "wof:name":"Henry ML Attorney At Law",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.485953,29.730602,-95.485953,29.730602],
-  "geometry": {"coordinates":[-95.485953,29.730602],"type":"Point"}
+  "bbox": [
+    -95.485953,
+    29.730602,
+    -95.485953,
+    29.730602
+],
+  "geometry": {"coordinates":[-95.48595299999999,29.730602],"type":"Point"}
 }

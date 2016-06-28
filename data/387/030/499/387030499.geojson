@@ -2,13 +2,14 @@
   "id": 387030499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.623246,30.298567,-97.623246,30.298567",
     "geom:latitude":30.298567,
     "geom:longitude":-97.623246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Decker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387030499,
-    "wof:lastmodified":1449057496,
+    "wof:lastmodified":1467084819,
     "wof:name":"Phillips General Maintenance C",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-97.623246,30.298567,-97.623246,30.298567],
-  "geometry": {"coordinates":[-97.623246,30.298567],"type":"Point"}
+  "bbox": [
+    -97.623246,
+    30.298567,
+    -97.623246,
+    30.298567
+],
+  "geometry": {"coordinates":[-97.62324599999999,30.298567],"type":"Point"}
 }

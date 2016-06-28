@@ -2,13 +2,14 @@
   "id": 303577409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.837053,30.203233,-97.837053,30.203233",
     "geom:latitude":30.203233,
     "geom:longitude":-97.837053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Brodie Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":303577409,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1467083816,
     "wof:name":"Atlas Realty",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.837053,30.203233,-97.837053,30.203233],
+  "bbox": [
+    -97.837053,
+    30.203233,
+    -97.837053,
+    30.203233
+],
   "geometry": {"coordinates":[-97.837053,30.203233],"type":"Point"}
 }

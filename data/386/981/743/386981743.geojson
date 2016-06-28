@@ -2,13 +2,14 @@
   "id": 386981743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.213288,29.618234,-95.213288,29.618234",
     "geom:latitude":29.618234,
     "geom:longitude":-95.213288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12621 Featherwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386981743,
-    "wof:lastmodified":1449028978,
+    "wof:lastmodified":1467084466,
     "wof:name":"Canac",
     "wof:parent_id":85893781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "railway"
     ]
 },
-  "bbox": [-95.213288,29.618234,-95.213288,29.618234],
-  "geometry": {"coordinates":[-95.213288,29.618234],"type":"Point"}
+  "bbox": [
+    -95.213288,
+    29.618234,
+    -95.213288,
+    29.618234
+],
+  "geometry": {"coordinates":[-95.21328800000001,29.618234],"type":"Point"}
 }

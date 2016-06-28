@@ -2,13 +2,14 @@
   "id": 252933267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651083,32.854225,-96.651083,32.854225",
     "geom:latitude":32.854225,
     "geom:longitude":-96.651083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11611 Ferguson Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252933267,
-    "wof:lastmodified":1449005641,
+    "wof:lastmodified":1467084061,
     "wof:name":"Honeycreek Apartments",
     "wof:parent_id":85882147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.651083,32.854225,-96.651083,32.854225],
+  "bbox": [
+    -96.651083,
+    32.854225,
+    -96.651083,
+    32.854225
+],
   "geometry": {"coordinates":[-96.651083,32.854225],"type":"Point"}
 }

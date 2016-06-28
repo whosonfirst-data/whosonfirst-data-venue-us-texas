@@ -2,13 +2,14 @@
   "id": 370880887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.350789,31.372549,-102.350789,31.372549",
     "geom:latitude":31.372549,
     "geom:longitude":-102.350789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Jessica Loop",
     "sg:city":"Crane",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370880887,
-    "wof:lastmodified":1449032506,
+    "wof:lastmodified":1467084555,
     "wof:name":"Martin Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-102.350789,31.372549,-102.350789,31.372549],
-  "geometry": {"coordinates":[-102.350789,31.372549],"type":"Point"}
+  "bbox": [
+    -102.350789,
+    31.372549,
+    -102.350789,
+    31.372549
+],
+  "geometry": {"coordinates":[-102.35078900000001,31.372549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303594871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.804717,30.208827,-97.804717,30.208827",
     "geom:latitude":30.208827,
     "geom:longitude":-97.804717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Manchaca Rd # H",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303594871,
-    "wof:lastmodified":1448998470,
+    "wof:lastmodified":1467083709,
     "wof:name":"Austin Express Tax",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.804717,30.208827,-97.804717,30.208827],
+  "bbox": [
+    -97.804717,
+    30.208827,
+    -97.804717,
+    30.208827
+],
   "geometry": {"coordinates":[-97.804717,30.208827],"type":"Point"}
 }

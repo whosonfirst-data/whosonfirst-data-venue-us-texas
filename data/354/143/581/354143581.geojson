@@ -2,13 +2,14 @@
   "id": 354143581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.824362,33.582848,-101.824362,33.582848",
     "geom:latitude":33.582848,
     "geom:longitude":-101.824362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Canyon Lake Dr",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354143581,
-    "wof:lastmodified":1449067358,
+    "wof:lastmodified":1467085086,
     "wof:name":"American Wind Power Center",
     "wof:parent_id":85873777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-101.824362,33.582848,-101.824362,33.582848],
-  "geometry": {"coordinates":[-101.824362,33.582848],"type":"Point"}
+  "bbox": [
+    -101.824362,
+    33.582848,
+    -101.824362,
+    33.582848
+],
+  "geometry": {"coordinates":[-101.82436199999999,33.582848],"type":"Point"}
 }

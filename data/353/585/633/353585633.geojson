@@ -2,13 +2,14 @@
   "id": 353585633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790315,32.8237,-96.790315,32.8237",
     "geom:latitude":32.8237,
     "geom:longitude":-96.790315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Knox St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353585633,
-    "wof:lastmodified":1449019945,
+    "wof:lastmodified":1467084358,
     "wof:name":"Rose Tree",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-96.790315,32.8237,-96.790315,32.8237],
-  "geometry": {"coordinates":[-96.790315,32.8237],"type":"Point"}
+  "bbox": [
+    -96.790315,
+    32.8237,
+    -96.790315,
+    32.8237
+],
+  "geometry": {"coordinates":[-96.79031500000001,32.8237],"type":"Point"}
 }

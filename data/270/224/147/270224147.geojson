@@ -2,13 +2,14 @@
   "id": 270224147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545998,29.705099,-95.545998,29.705099",
     "geom:latitude":29.705099,
     "geom:longitude":-95.545998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9252 Bellaire Blvd Ste C",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270224147,
-    "wof:lastmodified":1449010447,
+    "wof:lastmodified":1467084210,
     "wof:name":"Chinese Cafe",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-95.545998,29.705099,-95.545998,29.705099],
+  "bbox": [
+    -95.545998,
+    29.705099,
+    -95.545998,
+    29.705099
+],
   "geometry": {"coordinates":[-95.545998,29.705099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287128267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502533,27.529989,-99.502533,27.529989",
     "geom:latitude":27.529989,
     "geom:longitude":-99.502533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 San Dario Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287128267,
-    "wof:lastmodified":1449001013,
+    "wof:lastmodified":1467083830,
     "wof:name":"Mike's Auto Sales",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-99.502533,27.529989,-99.502533,27.529989],
+  "bbox": [
+    -99.502533,
+    27.529989,
+    -99.502533,
+    27.529989
+],
   "geometry": {"coordinates":[-99.502533,27.529989],"type":"Point"}
 }

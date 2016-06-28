@@ -2,13 +2,14 @@
   "id": 353816373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377642,32.782909,-97.377642,32.782909",
     "geom:latitude":32.782909,
     "geom:longitude":-97.377642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 Jacksboro Hwy",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353816373,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1467084354,
     "wof:name":"Fort Worth Auto Auction",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-97.377642,32.782909,-97.377642,32.782909],
-  "geometry": {"coordinates":[-97.377642,32.782909],"type":"Point"}
+  "bbox": [
+    -97.377642,
+    32.782909,
+    -97.377642,
+    32.782909
+],
+  "geometry": {"coordinates":[-97.37764199999999,32.782909],"type":"Point"}
 }

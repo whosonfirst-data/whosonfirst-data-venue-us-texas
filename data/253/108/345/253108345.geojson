@@ -2,13 +2,14 @@
   "id": 253108345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727004,30.258955,-97.727004,30.258955",
     "geom:latitude":30.258955,
     "geom:longitude":-97.727004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1643 E 2nd St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253108345,
-    "wof:lastmodified":1449062872,
+    "wof:lastmodified":1467084947,
     "wof:name":"Community Supportive Svc",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.727004,30.258955,-97.727004,30.258955],
-  "geometry": {"coordinates":[-97.727004,30.258955],"type":"Point"}
+  "bbox": [
+    -97.727004,
+    30.258955,
+    -97.727004,
+    30.258955
+],
+  "geometry": {"coordinates":[-97.72700399999999,30.258955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286985087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.098039,30.055264,-94.098039,30.055264",
     "geom:latitude":30.055264,
     "geom:longitude":-94.098039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Avenue A",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":286985087,
-    "wof:lastmodified":1449016649,
+    "wof:lastmodified":1467084276,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":85859499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.098039,30.055264,-94.098039,30.055264],
+  "bbox": [
+    -94.098039,
+    30.055264,
+    -94.098039,
+    30.055264
+],
   "geometry": {"coordinates":[-94.098039,30.055264],"type":"Point"}
 }

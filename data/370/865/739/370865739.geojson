@@ -2,13 +2,14 @@
   "id": 370865739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.494064,33.852054,-98.494064,33.852054",
     "geom:latitude":33.852054,
     "geom:longitude":-98.494064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6013 Old Jacksboro Hwy",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370865739,
-    "wof:lastmodified":1449031651,
+    "wof:lastmodified":1467084534,
     "wof:name":"Weatherford ALS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-98.494064,33.852054,-98.494064,33.852054],
-  "geometry": {"coordinates":[-98.494064,33.852054],"type":"Point"}
+  "bbox": [
+    -98.494064,
+    33.852054,
+    -98.494064,
+    33.852054
+],
+  "geometry": {"coordinates":[-98.49406399999999,33.852054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203018189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.079502,32.002562,-102.079502,32.002562",
     "geom:latitude":32.002562,
     "geom:longitude":-102.079502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Marienfeld St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203018189,
-    "wof:lastmodified":1449025877,
+    "wof:lastmodified":1467084402,
     "wof:name":"Vest Exploration Svc",
     "wof:parent_id":85893837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geophysicist"
     ]
 },
-  "bbox": [-102.079502,32.002562,-102.079502,32.002562],
-  "geometry": {"coordinates":[-102.079502,32.002562],"type":"Point"}
+  "bbox": [
+    -102.079502,
+    32.002562,
+    -102.079502,
+    32.002562
+],
+  "geometry": {"coordinates":[-102.07950200000001,32.002562],"type":"Point"}
 }

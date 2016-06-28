@@ -2,13 +2,14 @@
   "id": 387318143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.73435,29.812469,-95.73435,29.812469",
     "geom:latitude":29.812469,
     "geom:longitude":-95.73435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20810 Camphor Tree Dr",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387318143,
-    "wof:lastmodified":1449056947,
+    "wof:lastmodified":1467084805,
     "wof:name":"Just For Pets",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-95.73435,29.812469,-95.73435,29.812469],
-  "geometry": {"coordinates":[-95.73435,29.812469],"type":"Point"}
+  "bbox": [
+    -95.73435,
+    29.812469,
+    -95.73435,
+    29.812469
+],
+  "geometry": {"coordinates":[-95.73435000000001,29.812469],"type":"Point"}
 }

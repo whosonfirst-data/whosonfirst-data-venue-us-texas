@@ -2,13 +2,14 @@
   "id": 303701251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730842,30.318801,-97.730842,30.318801",
     "geom:latitude":30.318801,
     "geom:longitude":-97.730842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5106 N Lamar Blvd Apt 157",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303701251,
-    "wof:lastmodified":1449000053,
+    "wof:lastmodified":1467083788,
     "wof:name":"Wally S World Of Pets",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-97.730842,30.318801,-97.730842,30.318801],
+  "bbox": [
+    -97.730842,
+    30.318801,
+    -97.730842,
+    30.318801
+],
   "geometry": {"coordinates":[-97.730842,30.318801],"type":"Point"}
 }

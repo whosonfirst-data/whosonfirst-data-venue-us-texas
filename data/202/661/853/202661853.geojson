@@ -2,13 +2,14 @@
   "id": 202661853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73586,31.128631,-97.73586,31.128631",
     "geom:latitude":31.128631,
     "geom:longitude":-97.73586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Rancier Ave",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202661853,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1467084935,
     "wof:name":"Sam's Cleaners",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.73586,31.128631,-97.73586,31.128631],
+  "bbox": [
+    -97.73586,
+    31.128631,
+    -97.73586,
+    31.128631
+],
   "geometry": {"coordinates":[-97.73586,31.128631],"type":"Point"}
 }

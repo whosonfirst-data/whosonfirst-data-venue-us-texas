@@ -2,13 +2,14 @@
   "id": 269657651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.305304,30.998901,-97.305304,30.998901",
     "geom:latitude":30.998901,
     "geom:longitude":-97.305304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 Cindy Ln",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269657651,
-    "wof:lastmodified":1449036411,
+    "wof:lastmodified":1467084579,
     "wof:name":"Andrew Tuerck",
     "wof:parent_id":85849059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.305304,30.998901,-97.305304,30.998901],
-  "geometry": {"coordinates":[-97.305304,30.998901],"type":"Point"}
+  "bbox": [
+    -97.305304,
+    30.998901,
+    -97.305304,
+    30.998901
+],
+  "geometry": {"coordinates":[-97.30530400000001,30.998901],"type":"Point"}
 }

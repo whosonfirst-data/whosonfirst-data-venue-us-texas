@@ -2,13 +2,14 @@
   "id": 236391531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.971848,33.006145,-96.971848,33.006145",
     "geom:latitude":33.006145,
     "geom:longitude":-96.971848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 S Stemmons Fwy Ste 2401",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236391531,
-    "wof:lastmodified":1449003822,
+    "wof:lastmodified":1467083971,
     "wof:name":"Coffee Beanery",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-96.971848,33.006145,-96.971848,33.006145],
-  "geometry": {"coordinates":[-96.971848,33.006145],"type":"Point"}
+  "bbox": [
+    -96.971848,
+    33.006145,
+    -96.971848,
+    33.006145
+],
+  "geometry": {"coordinates":[-96.97184799999999,33.006145],"type":"Point"}
 }

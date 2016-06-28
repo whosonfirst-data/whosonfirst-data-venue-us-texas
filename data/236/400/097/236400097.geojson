@@ -2,13 +2,14 @@
   "id": 236400097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.021133,33.039205,-97.021133,33.039205",
     "geom:latitude":33.039205,
     "geom:longitude":-97.021133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Alice Ln",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236400097,
-    "wof:lastmodified":1449001916,
+    "wof:lastmodified":1467083872,
     "wof:name":"Pool Connection",
     "wof:parent_id":85893679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.021133,33.039205,-97.021133,33.039205],
-  "geometry": {"coordinates":[-97.021133,33.039205],"type":"Point"}
+  "bbox": [
+    -97.021133,
+    33.039205,
+    -97.021133,
+    33.039205
+],
+  "geometry": {"coordinates":[-97.02113300000001,33.039205],"type":"Point"}
 }

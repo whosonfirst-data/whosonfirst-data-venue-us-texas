@@ -2,13 +2,14 @@
   "id": 236655987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.881926,35.1439,-101.881926,35.1439",
     "geom:latitude":35.1439,
     "geom:longitude":-101.881926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 Storage Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236655987,
-    "wof:lastmodified":1449003565,
+    "wof:lastmodified":1467083959,
     "wof:name":"Networks",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "networking"
     ]
 },
-  "bbox": [-101.881926,35.1439,-101.881926,35.1439],
-  "geometry": {"coordinates":[-101.881926,35.1439],"type":"Point"}
+  "bbox": [
+    -101.881926,
+    35.1439,
+    -101.881926,
+    35.1439
+],
+  "geometry": {"coordinates":[-101.88192600000001,35.1439],"type":"Point"}
 }

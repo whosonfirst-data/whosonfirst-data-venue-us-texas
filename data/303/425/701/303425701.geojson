@@ -2,13 +2,14 @@
   "id": 303425701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720895,30.454159,-97.720895,30.454159",
     "geom:latitude":30.454159,
     "geom:longitude":-97.720895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14005 Mcneil Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303425701,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1467083735,
     "wof:name":"USPS - United States Post Office - Mcneil Main Office",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.720895,30.454159,-97.720895,30.454159],
+  "bbox": [
+    -97.720895,
+    30.454159,
+    -97.720895,
+    30.454159
+],
   "geometry": {"coordinates":[-97.720895,30.454159],"type":"Point"}
 }

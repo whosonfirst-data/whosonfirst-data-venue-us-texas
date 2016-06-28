@@ -2,13 +2,14 @@
   "id": 253515149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855072,32.21145,-95.855072,32.21145",
     "geom:latitude":32.21145,
     "geom:longitude":-95.855072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 N Prairieville St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253515149,
-    "wof:lastmodified":1449063497,
+    "wof:lastmodified":1467084969,
     "wof:name":"Baggett Tax Service",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-95.855072,32.21145,-95.855072,32.21145],
-  "geometry": {"coordinates":[-95.855072,32.21145],"type":"Point"}
+  "bbox": [
+    -95.855072,
+    32.21145,
+    -95.855072,
+    32.21145
+],
+  "geometry": {"coordinates":[-95.85507200000001,32.21145],"type":"Point"}
 }

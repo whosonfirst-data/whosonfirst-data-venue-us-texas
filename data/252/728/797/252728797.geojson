@@ -2,13 +2,14 @@
   "id": 252728797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331561,32.734384,-97.331561,32.734384",
     "geom:latitude":32.734384,
     "geom:longitude":-97.331561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Hemphill St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252728797,
-    "wof:lastmodified":1449005675,
+    "wof:lastmodified":1467084063,
     "wof:name":"Hentz Medical",
     "wof:parent_id":85867237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.331561,32.734384,-97.331561,32.734384],
-  "geometry": {"coordinates":[-97.331561,32.734384],"type":"Point"}
+  "bbox": [
+    -97.331561,
+    32.734384,
+    -97.331561,
+    32.734384
+],
+  "geometry": {"coordinates":[-97.33156099999999,32.734384],"type":"Point"}
 }

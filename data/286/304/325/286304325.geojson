@@ -2,13 +2,14 @@
   "id": 286304325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476345,29.714474,-95.476345,29.714474",
     "geom:latitude":29.714474,
     "geom:longitude":-95.476345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 Chimney Rock Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286304325,
-    "wof:lastmodified":1449017370,
+    "wof:lastmodified":1467084297,
     "wof:name":"Chimney Rock Auto Broker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-95.476345,29.714474,-95.476345,29.714474],
-  "geometry": {"coordinates":[-95.476345,29.714474],"type":"Point"}
+  "bbox": [
+    -95.476345,
+    29.714474,
+    -95.476345,
+    29.714474
+],
+  "geometry": {"coordinates":[-95.47634499999999,29.714474],"type":"Point"}
 }

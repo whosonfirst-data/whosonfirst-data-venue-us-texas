@@ -2,13 +2,14 @@
   "id": 253078829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.617922,33.179653,-96.617922,33.179653",
     "geom:latitude":33.179653,
     "geom:longitude":-96.617922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Industrial Blvd",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253078829,
-    "wof:lastmodified":1449065309,
+    "wof:lastmodified":1467085031,
     "wof:name":"USA Floortec",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [-96.617922,33.179653,-96.617922,33.179653],
-  "geometry": {"coordinates":[-96.617922,33.179653],"type":"Point"}
+  "bbox": [
+    -96.617922,
+    33.179653,
+    -96.617922,
+    33.179653
+],
+  "geometry": {"coordinates":[-96.61792199999999,33.179653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303608737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.782962,30.329501,-97.782962,30.329501",
     "geom:latitude":30.329501,
     "geom:longitude":-97.782962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Lakeplace Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303608737,
-    "wof:lastmodified":1448999164,
+    "wof:lastmodified":1467083743,
     "wof:name":"Lloyd Homes",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.782962,30.329501,-97.782962,30.329501],
+  "bbox": [
+    -97.782962,
+    30.329501,
+    -97.782962,
+    30.329501
+],
   "geometry": {"coordinates":[-97.782962,30.329501],"type":"Point"}
 }

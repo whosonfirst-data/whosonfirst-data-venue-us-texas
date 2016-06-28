@@ -2,13 +2,14 @@
   "id": 286579365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.452942,30.172661,-95.452942,30.172661",
     "geom:latitude":30.172661,
     "geom:longitude":-95.452942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Medical Plaza Dr Ste. 130",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":286579365,
-    "wof:lastmodified":1449016116,
+    "wof:lastmodified":1467084262,
     "wof:name":"BrightStar - West Houston, Houston, SW Houston",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-95.452942,30.172661,-95.452942,30.172661],
-  "geometry": {"coordinates":[-95.452942,30.172661],"type":"Point"}
+  "bbox": [
+    -95.452942,
+    30.172661,
+    -95.452942,
+    30.172661
+],
+  "geometry": {"coordinates":[-95.45294199999999,30.172661],"type":"Point"}
 }

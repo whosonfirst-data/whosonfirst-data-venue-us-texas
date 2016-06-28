@@ -2,13 +2,14 @@
   "id": 303275419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.722198,30.2665,-97.722198,30.2665",
     "geom:latitude":30.2665,
     "geom:longitude":-97.722198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E 11th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303275419,
-    "wof:lastmodified":1448998903,
+    "wof:lastmodified":1467083731,
     "wof:name":"Austin Independent School District",
     "wof:parent_id":85869939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.722198,30.2665,-97.722198,30.2665],
-  "geometry": {"coordinates":[-97.722198,30.2665],"type":"Point"}
+  "bbox": [
+    -97.722198,
+    30.2665,
+    -97.722198,
+    30.2665
+],
+  "geometry": {"coordinates":[-97.72219800000001,30.2665],"type":"Point"}
 }

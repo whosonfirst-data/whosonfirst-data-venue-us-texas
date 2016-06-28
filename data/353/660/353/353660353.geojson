@@ -2,13 +2,14 @@
   "id": 353660353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.18009,33.193994,-99.18009,33.193994",
     "geom:latitude":33.193994,
     "geom:longitude":-99.18009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Smith St",
     "sg:city":"Throckmorton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353660353,
-    "wof:lastmodified":1449020542,
+    "wof:lastmodified":1467084370,
     "wof:name":"Keeter's Floral Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.18009,33.193994,-99.18009,33.193994],
-  "geometry": {"coordinates":[-99.18009,33.193994],"type":"Point"}
+  "bbox": [
+    -99.18009,
+    33.193994,
+    -99.18009,
+    33.193994
+],
+  "geometry": {"coordinates":[-99.18009000000001,33.193994],"type":"Point"}
 }

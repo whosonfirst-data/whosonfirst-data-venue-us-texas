@@ -2,13 +2,14 @@
   "id": 253250139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769463,32.9149,-96.769463,32.9149",
     "geom:latitude":32.9149,
     "geom:longitude":-96.769463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12121 Coit Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253250139,
-    "wof:lastmodified":1449064509,
+    "wof:lastmodified":1467085003,
     "wof:name":"Extended Stay Hotels Inc",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.769463,32.9149,-96.769463,32.9149],
+  "bbox": [
+    -96.769463,
+    32.9149,
+    -96.769463,
+    32.9149
+],
   "geometry": {"coordinates":[-96.769463,32.9149],"type":"Point"}
 }

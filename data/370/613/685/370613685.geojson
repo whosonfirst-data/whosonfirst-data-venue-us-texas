@@ -2,13 +2,14 @@
   "id": 370613685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795401,32.786183,-96.795401,32.786183",
     "geom:latitude":32.786183,
     "geom:longitude":-96.795401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 N Pearl St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370613685,
-    "wof:lastmodified":1449030669,
+    "wof:lastmodified":1467084509,
     "wof:name":"Westin City Center Hotel",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.795401,32.786183,-96.795401,32.786183],
+  "bbox": [
+    -96.795401,
+    32.786183,
+    -96.795401,
+    32.786183
+],
   "geometry": {"coordinates":[-96.795401,32.786183],"type":"Point"}
 }

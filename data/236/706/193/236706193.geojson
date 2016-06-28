@@ -2,13 +2,14 @@
   "id": 236706193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.612099,32.793201,-96.612099,32.793201",
     "geom:latitude":32.793201,
     "geom:longitude":-96.612099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 N Galloway Ave Ste 108",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236706193,
-    "wof:lastmodified":1449001851,
+    "wof:lastmodified":1467083867,
     "wof:name":"Family Physician",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.612099,32.793201,-96.612099,32.793201],
+  "bbox": [
+    -96.612099,
+    32.793201,
+    -96.612099,
+    32.793201
+],
   "geometry": {"coordinates":[-96.612099,32.793201],"type":"Point"}
 }

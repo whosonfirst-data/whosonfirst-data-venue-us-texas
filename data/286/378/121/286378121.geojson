@@ -2,13 +2,14 @@
   "id": 286378121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.464976,29.812129,-95.464976,29.812129",
     "geom:latitude":29.812129,
     "geom:longitude":-95.464976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Central Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286378121,
-    "wof:lastmodified":1449017174,
+    "wof:lastmodified":1467084292,
     "wof:name":"Goldstar Air Conditioning & Heating",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.464976,29.812129,-95.464976,29.812129],
-  "geometry": {"coordinates":[-95.464976,29.812129],"type":"Point"}
+  "bbox": [
+    -95.464976,
+    29.812129,
+    -95.464976,
+    29.812129
+],
+  "geometry": {"coordinates":[-95.46497599999999,29.812129],"type":"Point"}
 }

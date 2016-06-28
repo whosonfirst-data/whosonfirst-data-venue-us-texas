@@ -2,13 +2,14 @@
   "id": 303580337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.806491,30.204318,-97.806491,30.204318",
     "geom:latitude":30.204318,
     "geom:longitude":-97.806491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Manchaca Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303580337,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1467083774,
     "wof:name":"Briggs Eye Clinic",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.806491,30.204318,-97.806491,30.204318],
-  "geometry": {"coordinates":[-97.806491,30.204318],"type":"Point"}
+  "bbox": [
+    -97.806491,
+    30.204318,
+    -97.806491,
+    30.204318
+],
+  "geometry": {"coordinates":[-97.80649099999999,30.204318],"type":"Point"}
 }

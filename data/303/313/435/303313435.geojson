@@ -2,13 +2,14 @@
   "id": 303313435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.782317,30.228896,-97.782317,30.228896",
     "geom:latitude":30.228896,
     "geom:longitude":-97.782317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 West Ben White Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303313435,
-    "wof:lastmodified":1448998192,
+    "wof:lastmodified":1467083695,
     "wof:name":"South Side Saloon",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-97.782317,30.228896,-97.782317,30.228896],
-  "geometry": {"coordinates":[-97.782317,30.228896],"type":"Point"}
+  "bbox": [
+    -97.782317,
+    30.228896,
+    -97.782317,
+    30.228896
+],
+  "geometry": {"coordinates":[-97.78231700000001,30.228896],"type":"Point"}
 }

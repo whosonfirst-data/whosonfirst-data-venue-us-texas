@@ -2,13 +2,14 @@
   "id": 404060847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.683124,30.633254,-97.683124,30.633254",
     "geom:latitude":30.633254,
     "geom:longitude":-97.683124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W University Ave",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404060847,
-    "wof:lastmodified":1449040221,
+    "wof:lastmodified":1467084658,
     "wof:name":"Clinical Pathology Labs",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.683124,30.633254,-97.683124,30.633254],
-  "geometry": {"coordinates":[-97.683124,30.633254],"type":"Point"}
+  "bbox": [
+    -97.683124,
+    30.633254,
+    -97.683124,
+    30.633254
+],
+  "geometry": {"coordinates":[-97.68312400000001,30.633254],"type":"Point"}
 }

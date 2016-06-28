@@ -2,13 +2,14 @@
   "id": 202721411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702852,31.399604,-97.702852,31.399604",
     "geom:latitude":31.399604,
     "geom:longitude":-97.702852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Gateway Cir",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202721411,
-    "wof:lastmodified":1449062637,
+    "wof:lastmodified":1467084941,
     "wof:name":"Short Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.702852,31.399604,-97.702852,31.399604],
-  "geometry": {"coordinates":[-97.702852,31.399604],"type":"Point"}
+  "bbox": [
+    -97.702852,
+    31.399604,
+    -97.702852,
+    31.399604
+],
+  "geometry": {"coordinates":[-97.70285199999999,31.399604],"type":"Point"}
 }

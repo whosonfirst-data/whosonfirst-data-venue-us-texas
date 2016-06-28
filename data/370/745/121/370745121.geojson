@@ -2,13 +2,14 @@
   "id": 370745121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325471,32.35995,-95.325471,32.35995",
     "geom:latitude":32.35995,
     "geom:longitude":-95.325471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Forest Ave",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370745121,
-    "wof:lastmodified":1449032319,
+    "wof:lastmodified":1467084550,
     "wof:name":"Champion",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.325471,32.35995,-95.325471,32.35995],
-  "geometry": {"coordinates":[-95.325471,32.35995],"type":"Point"}
+  "bbox": [
+    -95.325471,
+    32.35995,
+    -95.325471,
+    32.35995
+],
+  "geometry": {"coordinates":[-95.32547099999999,32.35995],"type":"Point"}
 }

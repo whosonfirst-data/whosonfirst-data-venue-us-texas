@@ -2,13 +2,14 @@
   "id": 386931229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.794564,32.815614,-96.794564,32.815614",
     "geom:latitude":32.815614,
     "geom:longitude":-96.794564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Travis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386931229,
-    "wof:lastmodified":1449028951,
+    "wof:lastmodified":1467084465,
     "wof:name":"P P Semp",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-96.794564,32.815614,-96.794564,32.815614],
-  "geometry": {"coordinates":[-96.794564,32.815614],"type":"Point"}
+  "bbox": [
+    -96.794564,
+    32.815614,
+    -96.794564,
+    32.815614
+],
+  "geometry": {"coordinates":[-96.79456399999999,32.815614],"type":"Point"}
 }

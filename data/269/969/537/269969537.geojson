@@ -2,13 +2,14 @@
   "id": 269969537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361338,29.754232,-95.361338,29.754232",
     "geom:latitude":29.754232,
     "geom:longitude":-95.361338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 McKinney St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269969537,
-    "wof:lastmodified":1449036719,
+    "wof:lastmodified":1467084587,
     "wof:name":"One Park Place",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.361338,29.754232,-95.361338,29.754232],
+  "bbox": [
+    -95.361338,
+    29.754232,
+    -95.361338,
+    29.754232
+],
   "geometry": {"coordinates":[-95.361338,29.754232],"type":"Point"}
 }

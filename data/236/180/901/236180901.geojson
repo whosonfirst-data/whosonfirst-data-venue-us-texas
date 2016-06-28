@@ -2,13 +2,14 @@
   "id": 236180901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807857,33.139031,-96.807857,33.139031",
     "geom:latitude":33.139031,
     "geom:longitude":-96.807857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Stonebrook Pkwy",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236180901,
-    "wof:lastmodified":1449001777,
+    "wof:lastmodified":1467083861,
     "wof:name":"USPS - United States Post Office - Frisco Main Office",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.807857,33.139031,-96.807857,33.139031],
+  "bbox": [
+    -96.807857,
+    33.139031,
+    -96.807857,
+    33.139031
+],
   "geometry": {"coordinates":[-96.807857,33.139031],"type":"Point"}
 }

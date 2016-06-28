@@ -2,13 +2,14 @@
   "id": 370628683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.665645,29.786609,-95.665645,29.786609",
     "geom:latitude":29.786609,
     "geom:longitude":-95.665645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16225 Park Ten Pl",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370628683,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1467084538,
     "wof:name":"Auto USA",
     "wof:parent_id":85804499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.665645,29.786609,-95.665645,29.786609],
+  "bbox": [
+    -95.665645,
+    29.786609,
+    -95.665645,
+    29.786609
+],
   "geometry": {"coordinates":[-95.665645,29.786609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186036791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.277554,32.790298,-97.277554,32.790298",
     "geom:latitude":32.790298,
     "geom:longitude":-97.277554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 E Belknap St",
     "sg:city":"Haltom City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186036791,
-    "wof:lastmodified":1449050994,
+    "wof:lastmodified":1467084704,
     "wof:name":"DFW Auto Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.277554,32.790298,-97.277554,32.790298],
-  "geometry": {"coordinates":[-97.277554,32.790298],"type":"Point"}
+  "bbox": [
+    -97.277554,
+    32.790298,
+    -97.277554,
+    32.790298
+],
+  "geometry": {"coordinates":[-97.27755399999999,32.790298],"type":"Point"}
 }

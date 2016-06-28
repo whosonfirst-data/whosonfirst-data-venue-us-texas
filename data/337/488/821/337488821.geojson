@@ -2,13 +2,14 @@
   "id": 337488821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747672,30.265286,-97.747672,30.265286",
     "geom:latitude":30.265286,
     "geom:longitude":-97.747672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 2nd St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337488821,
-    "wof:lastmodified":1449027721,
+    "wof:lastmodified":1467084457,
     "wof:name":"Austin City Mayor",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.747672,30.265286,-97.747672,30.265286],
-  "geometry": {"coordinates":[-97.747672,30.265286],"type":"Point"}
+  "bbox": [
+    -97.747672,
+    30.265286,
+    -97.747672,
+    30.265286
+],
+  "geometry": {"coordinates":[-97.74767199999999,30.265286],"type":"Point"}
 }

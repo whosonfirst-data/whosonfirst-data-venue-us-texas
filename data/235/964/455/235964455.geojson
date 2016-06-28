@@ -2,13 +2,14 @@
   "id": 235964455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.000566,26.161289,-98.000566,26.161289",
     "geom:latitude":26.161289,
     "geom:longitude":-98.000566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 W US Hwy 83",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235964455,
-    "wof:lastmodified":1449008518,
+    "wof:lastmodified":1467084146,
     "wof:name":"Rio Data & Computer Lrng Ctr",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.000566,26.161289,-98.000566,26.161289],
-  "geometry": {"coordinates":[-98.000566,26.161289],"type":"Point"}
+  "bbox": [
+    -98.000566,
+    26.161289,
+    -98.000566,
+    26.161289
+],
+  "geometry": {"coordinates":[-98.00056600000001,26.161289],"type":"Point"}
 }

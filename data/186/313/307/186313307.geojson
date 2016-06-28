@@ -2,13 +2,14 @@
   "id": 186313307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.315731,31.765129,-106.315731,31.765129",
     "geom:latitude":31.765129,
     "geom:longitude":-106.315731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Trawood Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186313307,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1467084694,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-106.315731,31.765129,-106.315731,31.765129],
+  "bbox": [
+    -106.315731,
+    31.765129,
+    -106.315731,
+    31.765129
+],
   "geometry": {"coordinates":[-106.315731,31.765129],"type":"Point"}
 }

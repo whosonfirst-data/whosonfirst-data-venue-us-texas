@@ -2,13 +2,14 @@
   "id": 236446121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727798,32.965698,-96.727798,32.965698",
     "geom:latitude":32.965698,
     "geom:longitude":-96.727798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Richardson Dr Ste 210",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236446121,
-    "wof:lastmodified":1449004913,
+    "wof:lastmodified":1467084023,
     "wof:name":"Richardson News",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-96.727798,32.965698,-96.727798,32.965698],
-  "geometry": {"coordinates":[-96.727798,32.965698],"type":"Point"}
+  "bbox": [
+    -96.727798,
+    32.965698,
+    -96.727798,
+    32.965698
+],
+  "geometry": {"coordinates":[-96.72779800000001,32.965698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303641329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.800163,30.137819,-97.800163,30.137819",
     "geom:latitude":30.137819,
     "geom:longitude":-97.800163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Onion Creek Parkway #10102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303641329,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1467083784,
     "wof:name":"Rick Mather Computer Services",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "computer"
     ]
 },
-  "bbox": [-97.800163,30.137819,-97.800163,30.137819],
+  "bbox": [
+    -97.800163,
+    30.137819,
+    -97.800163,
+    30.137819
+],
   "geometry": {"coordinates":[-97.800163,30.137819],"type":"Point"}
 }

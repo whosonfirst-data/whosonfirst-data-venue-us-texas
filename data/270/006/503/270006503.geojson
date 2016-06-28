@@ -2,13 +2,14 @@
   "id": 270006503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.266243,29.7085,-95.266243,29.7085",
     "geom:latitude":29.7085,
     "geom:longitude":-95.266243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 la Porte Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270006503,
-    "wof:lastmodified":1449010588,
+    "wof:lastmodified":1467084214,
     "wof:name":"Pepsi Bottling Group",
     "wof:parent_id":85840579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "beverages-distributors"
     ]
 },
-  "bbox": [-95.266243,29.7085,-95.266243,29.7085],
+  "bbox": [
+    -95.266243,
+    29.7085,
+    -95.266243,
+    29.7085
+],
   "geometry": {"coordinates":[-95.266243,29.7085],"type":"Point"}
 }

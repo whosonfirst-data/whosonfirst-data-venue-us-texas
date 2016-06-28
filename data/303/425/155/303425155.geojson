@@ -2,13 +2,14 @@
   "id": 303425155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.683714,30.441816,-97.683714,30.441816",
     "geom:latitude":30.441816,
     "geom:longitude":-97.683714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14535 Robert I Walker Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303425155,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1467083735,
     "wof:name":"Brady Smith",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.683714,30.441816,-97.683714,30.441816],
-  "geometry": {"coordinates":[-97.683714,30.441816],"type":"Point"}
+  "bbox": [
+    -97.683714,
+    30.441816,
+    -97.683714,
+    30.441816
+],
+  "geometry": {"coordinates":[-97.68371399999999,30.441816],"type":"Point"}
 }

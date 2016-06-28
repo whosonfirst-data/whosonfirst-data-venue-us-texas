@@ -2,13 +2,14 @@
   "id": 236620445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.301687,31.770795,-106.301687,31.770795",
     "geom:latitude":31.770795,
     "geom:longitude":-106.301687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Lake Omega St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236620445,
-    "wof:lastmodified":1449004904,
+    "wof:lastmodified":1467084023,
     "wof:name":"Southwest Distribution Center",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.301687,31.770795,-106.301687,31.770795],
+  "bbox": [
+    -106.301687,
+    31.770795,
+    -106.301687,
+    31.770795
+],
   "geometry": {"coordinates":[-106.301687,31.770795],"type":"Point"}
 }

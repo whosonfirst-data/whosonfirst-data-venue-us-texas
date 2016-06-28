@@ -2,13 +2,14 @@
   "id": 236617459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.906321,32.651095,-96.906321,32.651095",
     "geom:latitude":32.651095,
     "geom:longitude":-96.906321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Freeman St Ste 105",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236617459,
-    "wof:lastmodified":1449001763,
+    "wof:lastmodified":1467083860,
     "wof:name":"Realspace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.906321,32.651095,-96.906321,32.651095],
-  "geometry": {"coordinates":[-96.906321,32.651095],"type":"Point"}
+  "bbox": [
+    -96.906321,
+    32.651095,
+    -96.906321,
+    32.651095
+],
+  "geometry": {"coordinates":[-96.90632100000001,32.651095],"type":"Point"}
 }

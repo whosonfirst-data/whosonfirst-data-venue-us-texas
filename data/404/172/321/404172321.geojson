@@ -2,13 +2,14 @@
   "id": 404172321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.682696,30.159427,-97.682696,30.159427",
     "geom:latitude":30.159427,
     "geom:longitude":-97.682696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9316 FM 812",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404172321,
-    "wof:lastmodified":1449039519,
+    "wof:lastmodified":1467084648,
     "wof:name":"Central Texas Refuse",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-97.682696,30.159427,-97.682696,30.159427],
-  "geometry": {"coordinates":[-97.682696,30.159427],"type":"Point"}
+  "bbox": [
+    -97.682696,
+    30.159427,
+    -97.682696,
+    30.159427
+],
+  "geometry": {"coordinates":[-97.68269600000001,30.159427],"type":"Point"}
 }

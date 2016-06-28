@@ -2,13 +2,14 @@
   "id": 286521091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.732729,30.163762,-95.732729,30.163762",
     "geom:latitude":30.163762,
     "geom:longitude":-95.732729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37300 Golf Club Trl",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286521091,
-    "wof:lastmodified":1449017944,
+    "wof:lastmodified":1467084313,
     "wof:name":"High Meadow Golf Course",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.732729,30.163762,-95.732729,30.163762],
-  "geometry": {"coordinates":[-95.732729,30.163762],"type":"Point"}
+  "bbox": [
+    -95.732729,
+    30.163762,
+    -95.732729,
+    30.163762
+],
+  "geometry": {"coordinates":[-95.73272900000001,30.163762],"type":"Point"}
 }

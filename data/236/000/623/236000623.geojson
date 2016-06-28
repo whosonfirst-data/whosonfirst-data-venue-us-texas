@@ -2,13 +2,14 @@
   "id": 236000623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.825244,30.502235,-97.825244,30.502235",
     "geom:latitude":30.502235,
     "geom:longitude":-97.825244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Buttercup Creek Blvd",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236000623,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1467083883,
     "wof:name":"Buttercup Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.825244,30.502235,-97.825244,30.502235],
+  "bbox": [
+    -97.825244,
+    30.502235,
+    -97.825244,
+    30.502235
+],
   "geometry": {"coordinates":[-97.825244,30.502235],"type":"Point"}
 }

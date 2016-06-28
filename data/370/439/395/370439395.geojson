@@ -2,13 +2,14 @@
   "id": 370439395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.860734,35.167612,-101.860734,35.167612",
     "geom:latitude":35.167612,
     "geom:longitude":-101.860734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 S Fannin St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370439395,
-    "wof:lastmodified":1449030039,
+    "wof:lastmodified":1467084493,
     "wof:name":"Holt Paint Company",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-101.860734,35.167612,-101.860734,35.167612],
-  "geometry": {"coordinates":[-101.860734,35.167612],"type":"Point"}
+  "bbox": [
+    -101.860734,
+    35.167612,
+    -101.860734,
+    35.167612
+],
+  "geometry": {"coordinates":[-101.86073399999999,35.167612],"type":"Point"}
 }

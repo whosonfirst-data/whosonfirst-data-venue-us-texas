@@ -2,13 +2,14 @@
   "id": 304007191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.844468,33.514324,-101.844468,33.514324",
     "geom:latitude":33.514324,
     "geom:longitude":-101.844468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8806 Highway 87",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304007191,
-    "wof:lastmodified":1449044062,
+    "wof:lastmodified":1467084668,
     "wof:name":"Encore Motorcars",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-101.844468,33.514324,-101.844468,33.514324],
-  "geometry": {"coordinates":[-101.844468,33.514324],"type":"Point"}
+  "bbox": [
+    -101.844468,
+    33.514324,
+    -101.844468,
+    33.514324
+],
+  "geometry": {"coordinates":[-101.84446800000001,33.514324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370370993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445619,29.729901,-95.445619,29.729901",
     "geom:latitude":29.729901,
     "geom:longitude":-95.445619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4126 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370370993,
-    "wof:lastmodified":1449030914,
+    "wof:lastmodified":1467084515,
     "wof:name":"River Oaks Management",
     "wof:parent_id":85869307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.445619,29.729901,-95.445619,29.729901],
-  "geometry": {"coordinates":[-95.445619,29.729901],"type":"Point"}
+  "bbox": [
+    -95.445619,
+    29.729901,
+    -95.445619,
+    29.729901
+],
+  "geometry": {"coordinates":[-95.44561899999999,29.729901],"type":"Point"}
 }

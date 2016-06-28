@@ -2,13 +2,14 @@
   "id": 269760585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.000527,31.678693,-99.000527,31.678693",
     "geom:latitude":31.678693,
     "geom:longitude":-99.000527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 Highway 377 S",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269760585,
-    "wof:lastmodified":1449038859,
+    "wof:lastmodified":1467084635,
     "wof:name":"Gate One Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-99.000527,31.678693,-99.000527,31.678693],
-  "geometry": {"coordinates":[-99.000527,31.678693],"type":"Point"}
+  "bbox": [
+    -99.000527,
+    31.678693,
+    -99.000527,
+    31.678693
+],
+  "geometry": {"coordinates":[-99.00052700000001,31.678693],"type":"Point"}
 }

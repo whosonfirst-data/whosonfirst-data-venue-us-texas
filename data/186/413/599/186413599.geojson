@@ -2,13 +2,14 @@
   "id": 186413599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944518,29.855939,-97.944518,29.855939",
     "geom:latitude":29.855939,
     "geom:longitude":-97.944518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1999 Medical Pkwy",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186413599,
-    "wof:lastmodified":1449050812,
+    "wof:lastmodified":1467084700,
     "wof:name":"Spine Diagnostic & Treatment",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.944518,29.855939,-97.944518,29.855939],
+  "bbox": [
+    -97.944518,
+    29.855939,
+    -97.944518,
+    29.855939
+],
   "geometry": {"coordinates":[-97.944518,29.855939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236231101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.733213,32.425639,-99.733213,32.425639",
     "geom:latitude":32.425639,
     "geom:longitude":-99.733213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 S Treadaway Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236231101,
-    "wof:lastmodified":1449003319,
+    "wof:lastmodified":1467083948,
     "wof:name":"Dandy Specialties Inc",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-99.733213,32.425639,-99.733213,32.425639],
-  "geometry": {"coordinates":[-99.733213,32.425639],"type":"Point"}
+  "bbox": [
+    -99.733213,
+    32.425639,
+    -99.733213,
+    32.425639
+],
+  "geometry": {"coordinates":[-99.73321300000001,32.425639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202422541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395483,32.346447,-97.395483,32.346447",
     "geom:latitude":32.346447,
     "geom:longitude":-97.395483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Field St",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202422541,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1467084891,
     "wof:name":"Field Street Day Care",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.395483,32.346447,-97.395483,32.346447],
+  "bbox": [
+    -97.395483,
+    32.346447,
+    -97.395483,
+    32.346447
+],
   "geometry": {"coordinates":[-97.395483,32.346447],"type":"Point"}
 }

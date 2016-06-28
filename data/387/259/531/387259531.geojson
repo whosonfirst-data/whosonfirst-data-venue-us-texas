@@ -2,13 +2,14 @@
   "id": 387259531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798578,32.810919,-96.798578,32.810919",
     "geom:latitude":32.810919,
     "geom:longitude":-96.798578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Blackburn St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387259531,
-    "wof:lastmodified":1449056976,
+    "wof:lastmodified":1467084806,
     "wof:name":"Yellow Brick Path",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-96.798578,32.810919,-96.798578,32.810919],
-  "geometry": {"coordinates":[-96.798578,32.810919],"type":"Point"}
+  "bbox": [
+    -96.798578,
+    32.810919,
+    -96.798578,
+    32.810919
+],
+  "geometry": {"coordinates":[-96.79857800000001,32.810919],"type":"Point"}
 }

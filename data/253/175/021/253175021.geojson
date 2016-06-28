@@ -2,13 +2,14 @@
   "id": 253175021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.835412,32.933128,-96.835412,32.933128",
     "geom:latitude":32.933128,
     "geom:longitude":-96.835412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 Alpha Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253175021,
-    "wof:lastmodified":1449064892,
+    "wof:lastmodified":1467085016,
     "wof:name":"Texas Lending",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.835412,32.933128,-96.835412,32.933128],
-  "geometry": {"coordinates":[-96.835412,32.933128],"type":"Point"}
+  "bbox": [
+    -96.835412,
+    32.933128,
+    -96.835412,
+    32.933128
+],
+  "geometry": {"coordinates":[-96.83541200000001,32.933128],"type":"Point"}
 }

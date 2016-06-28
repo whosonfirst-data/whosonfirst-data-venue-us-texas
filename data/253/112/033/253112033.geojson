@@ -2,13 +2,14 @@
   "id": 253112033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.262909,26.10144,-98.262909,26.10144",
     "geom:latitude":26.10144,
     "geom:longitude":-98.262909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Bridge St",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":253112033,
-    "wof:lastmodified":1449064179,
+    "wof:lastmodified":1467084991,
     "wof:name":"Muebles Excusivos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.262909,26.10144,-98.262909,26.10144],
-  "geometry": {"coordinates":[-98.262909,26.10144],"type":"Point"}
+  "bbox": [
+    -98.262909,
+    26.10144,
+    -98.262909,
+    26.10144
+],
+  "geometry": {"coordinates":[-98.26290899999999,26.10144],"type":"Point"}
 }

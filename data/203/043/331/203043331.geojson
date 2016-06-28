@@ -2,13 +2,14 @@
   "id": 203043331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.191673,32.507323,-97.191673,32.507323",
     "geom:latitude":32.507323,
     "geom:longitude":-97.191673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10240 Co Rd 519",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203043331,
-    "wof:lastmodified":1449026380,
+    "wof:lastmodified":1467084411,
     "wof:name":"C Shelby",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-97.191673,32.507323,-97.191673,32.507323],
-  "geometry": {"coordinates":[-97.191673,32.507323],"type":"Point"}
+  "bbox": [
+    -97.191673,
+    32.507323,
+    -97.191673,
+    32.507323
+],
+  "geometry": {"coordinates":[-97.19167299999999,32.507323],"type":"Point"}
 }

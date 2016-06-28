@@ -2,13 +2,14 @@
   "id": 270345965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39575,29.679805,-95.39575,29.679805",
     "geom:latitude":29.679805,
     "geom:longitude":-95.39575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 S Loop W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270345965,
-    "wof:lastmodified":1449010908,
+    "wof:lastmodified":1467084225,
     "wof:name":"Holiday Rx",
     "wof:parent_id":85841553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.39575,29.679805,-95.39575,29.679805],
-  "geometry": {"coordinates":[-95.39575,29.679805],"type":"Point"}
+  "bbox": [
+    -95.39575,
+    29.679805,
+    -95.39575,
+    29.679805
+],
+  "geometry": {"coordinates":[-95.39575000000001,29.679805],"type":"Point"}
 }

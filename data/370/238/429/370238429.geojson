@@ -2,13 +2,14 @@
   "id": 370238429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.205863,31.520591,-97.205863,31.520591",
     "geom:latitude":31.520591,
     "geom:longitude":-97.205863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Cindy Cir",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370238429,
-    "wof:lastmodified":1449030353,
+    "wof:lastmodified":1467084501,
     "wof:name":"Robert Detlefsen",
     "wof:parent_id":85881761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.205863,31.520591,-97.205863,31.520591],
-  "geometry": {"coordinates":[-97.205863,31.520591],"type":"Point"}
+  "bbox": [
+    -97.205863,
+    31.520591,
+    -97.205863,
+    31.520591
+],
+  "geometry": {"coordinates":[-97.20586299999999,31.520591],"type":"Point"}
 }

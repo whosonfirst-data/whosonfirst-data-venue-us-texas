@@ -2,13 +2,14 @@
   "id": 220117075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.139794,32.735786,-97.139794,32.735786",
     "geom:latitude":32.735786,
     "geom:longitude":-97.139794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 W Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220117075,
-    "wof:lastmodified":1449074601,
+    "wof:lastmodified":1467085189,
     "wof:name":"Oak Park Motel",
     "wof:parent_id":85897309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.139794,32.735786,-97.139794,32.735786],
-  "geometry": {"coordinates":[-97.139794,32.735786],"type":"Point"}
+  "bbox": [
+    -97.139794,
+    32.735786,
+    -97.139794,
+    32.735786
+],
+  "geometry": {"coordinates":[-97.13979399999999,32.735786],"type":"Point"}
 }

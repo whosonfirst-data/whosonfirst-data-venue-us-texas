@@ -2,13 +2,14 @@
   "id": 303795761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.714112,30.371405,-97.714112,30.371405",
     "geom:latitude":30.371405,
     "geom:longitude":-97.714112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 W Rundberg Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303795761,
-    "wof:lastmodified":1448999568,
+    "wof:lastmodified":1467083764,
     "wof:name":"The Gateways",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.714112,30.371405,-97.714112,30.371405],
+  "bbox": [
+    -97.714112,
+    30.371405,
+    -97.714112,
+    30.371405
+],
   "geometry": {"coordinates":[-97.714112,30.371405],"type":"Point"}
 }

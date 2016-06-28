@@ -2,13 +2,14 @@
   "id": 203127503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550041,31.867642,-106.550041,31.867642",
     "geom:latitude":31.867642,
     "geom:longitude":-106.550041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1166 Upper Canyon Pl",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203127503,
-    "wof:lastmodified":1449026709,
+    "wof:lastmodified":1467084418,
     "wof:name":"Airwest Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-106.550041,31.867642,-106.550041,31.867642],
-  "geometry": {"coordinates":[-106.550041,31.867642],"type":"Point"}
+  "bbox": [
+    -106.550041,
+    31.867642,
+    -106.550041,
+    31.867642
+],
+  "geometry": {"coordinates":[-106.55004099999999,31.867642],"type":"Point"}
 }

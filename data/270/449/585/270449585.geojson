@@ -2,13 +2,14 @@
   "id": 270449585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399498,29.905001,-95.399498,29.905001",
     "geom:latitude":29.905001,
     "geom:longitude":-95.399498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Busch St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270449585,
-    "wof:lastmodified":1449010926,
+    "wof:lastmodified":1467084226,
     "wof:name":"D & E Electric Co",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.399498,29.905001,-95.399498,29.905001],
-  "geometry": {"coordinates":[-95.399498,29.905001],"type":"Point"}
+  "bbox": [
+    -95.399498,
+    29.905001,
+    -95.399498,
+    29.905001
+],
+  "geometry": {"coordinates":[-95.39949799999999,29.905001],"type":"Point"}
 }

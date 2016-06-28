@@ -2,13 +2,14 @@
   "id": 269723015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.099414,31.417431,-97.099414,31.417431",
     "geom:latitude":31.417431,
     "geom:longitude":-97.099414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 George Brooks Dr",
     "sg:city":"Lorena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269723015,
-    "wof:lastmodified":1449037547,
+    "wof:lastmodified":1467084611,
     "wof:name":"George A Brooks",
     "wof:parent_id":85881751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-97.099414,31.417431,-97.099414,31.417431],
+  "bbox": [
+    -97.099414,
+    31.417431,
+    -97.099414,
+    31.417431
+],
   "geometry": {"coordinates":[-97.099414,31.417431],"type":"Point"}
 }

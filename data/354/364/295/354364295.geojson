@@ -2,13 +2,14 @@
   "id": 354364295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771516,32.605166,-96.771516,32.605166",
     "geom:latitude":32.605166,
     "geom:longitude":-96.771516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 W Pleasant Run Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354364295,
-    "wof:lastmodified":1449066906,
+    "wof:lastmodified":1467085075,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.771516,32.605166,-96.771516,32.605166],
-  "geometry": {"coordinates":[-96.771516,32.605166],"type":"Point"}
+  "bbox": [
+    -96.771516,
+    32.605166,
+    -96.771516,
+    32.605166
+],
+  "geometry": {"coordinates":[-96.77151600000001,32.605166],"type":"Point"}
 }

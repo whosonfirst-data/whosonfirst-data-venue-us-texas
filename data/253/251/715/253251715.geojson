@@ -2,13 +2,14 @@
   "id": 253251715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77221,32.987974,-96.77221,32.987974",
     "geom:latitude":32.987974,
     "geom:longitude":-96.77221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7795 Mccallum Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":253251715,
-    "wof:lastmodified":1449062876,
+    "wof:lastmodified":1467084947,
     "wof:name":"Mccallum Corners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "listing"
     ]
 },
-  "bbox": [-96.77221,32.987974,-96.77221,32.987974],
+  "bbox": [
+    -96.77221,
+    32.987974,
+    -96.77221,
+    32.987974
+],
   "geometry": {"coordinates":[-96.77221,32.987974],"type":"Point"}
 }

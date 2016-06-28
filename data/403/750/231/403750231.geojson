@@ -2,13 +2,14 @@
   "id": 403750231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359275,29.668498,-95.359275,29.668498",
     "geom:latitude":29.668498,
     "geom:longitude":-95.359275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8501 Safeguard St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403750231,
-    "wof:lastmodified":1449055465,
+    "wof:lastmodified":1467084769,
     "wof:name":"Stewart Maretta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.359275,29.668498,-95.359275,29.668498],
+  "bbox": [
+    -95.359275,
+    29.668498,
+    -95.359275,
+    29.668498
+],
   "geometry": {"coordinates":[-95.359275,29.668498],"type":"Point"}
 }

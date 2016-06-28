@@ -2,13 +2,14 @@
   "id": 370327893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.848512,35.194843,-101.848512,35.194843",
     "geom:latitude":35.194843,
     "geom:longitude":-101.848512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 S Washington St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370327893,
-    "wof:lastmodified":1449029342,
+    "wof:lastmodified":1467084475,
     "wof:name":"Canyon Crest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.848512,35.194843,-101.848512,35.194843],
+  "bbox": [
+    -101.848512,
+    35.194843,
+    -101.848512,
+    35.194843
+],
   "geometry": {"coordinates":[-101.848512,35.194843],"type":"Point"}
 }

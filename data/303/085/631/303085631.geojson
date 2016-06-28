@@ -2,13 +2,14 @@
   "id": 303085631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.826619,30.522966,-97.826619,30.522966",
     "geom:latitude":30.522966,
     "geom:longitude":-97.826619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Whitestone",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303085631,
-    "wof:lastmodified":1448998725,
+    "wof:lastmodified":1467083721,
     "wof:name":"Dickey's Barbque Pit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-97.826619,30.522966,-97.826619,30.522966],
-  "geometry": {"coordinates":[-97.826619,30.522966],"type":"Point"}
+  "bbox": [
+    -97.826619,
+    30.522966,
+    -97.826619,
+    30.522966
+],
+  "geometry": {"coordinates":[-97.82661899999999,30.522966],"type":"Point"}
 }

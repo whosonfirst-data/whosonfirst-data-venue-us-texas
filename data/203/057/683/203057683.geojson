@@ -2,13 +2,14 @@
   "id": 203057683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051432,32.753502,-97.051432,32.753502",
     "geom:latitude":32.753502,
     "geom:longitude":-97.051432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 110th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203057683,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1467084402,
     "wof:name":"Carry Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051432,32.753502,-97.051432,32.753502],
-  "geometry": {"coordinates":[-97.051432,32.753502],"type":"Point"}
+  "bbox": [
+    -97.051432,
+    32.753502,
+    -97.051432,
+    32.753502
+],
+  "geometry": {"coordinates":[-97.05143200000001,32.753502],"type":"Point"}
 }

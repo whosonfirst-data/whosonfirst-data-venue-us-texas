@@ -2,13 +2,14 @@
   "id": 387698163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.347847,30.638894,-96.347847,30.638894",
     "geom:latitude":30.638894,
     "geom:longitude":-96.347847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Texas Ave S",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387698163,
-    "wof:lastmodified":1449059686,
+    "wof:lastmodified":1467084876,
     "wof:name":"Libations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-96.347847,30.638894,-96.347847,30.638894],
+  "bbox": [
+    -96.347847,
+    30.638894,
+    -96.347847,
+    30.638894
+],
   "geometry": {"coordinates":[-96.347847,30.638894],"type":"Point"}
 }

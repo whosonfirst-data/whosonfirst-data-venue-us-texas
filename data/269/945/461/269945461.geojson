@@ -2,13 +2,14 @@
   "id": 269945461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399061,29.808849,-95.399061,29.808849",
     "geom:latitude":29.808849,
     "geom:longitude":-95.399061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2428 Yale St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":269945461,
-    "wof:lastmodified":1449036353,
+    "wof:lastmodified":1467084577,
     "wof:name":"Heights Salon",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-95.399061,29.808849,-95.399061,29.808849],
+  "bbox": [
+    -95.399061,
+    29.808849,
+    -95.399061,
+    29.808849
+],
   "geometry": {"coordinates":[-95.399061,29.808849],"type":"Point"}
 }

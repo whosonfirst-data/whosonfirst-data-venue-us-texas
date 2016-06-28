@@ -2,13 +2,14 @@
   "id": 404028051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.080684,29.707551,-98.080684,29.707551",
     "geom:latitude":29.707551,
     "geom:longitude":-98.080684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1481 FM 1101",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404028051,
-    "wof:lastmodified":1449039787,
+    "wof:lastmodified":1467084651,
     "wof:name":"Lower Colorado River Authority",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.080684,29.707551,-98.080684,29.707551],
-  "geometry": {"coordinates":[-98.080684,29.707551],"type":"Point"}
+  "bbox": [
+    -98.080684,
+    29.707551,
+    -98.080684,
+    29.707551
+],
+  "geometry": {"coordinates":[-98.08068400000001,29.707551],"type":"Point"}
 }

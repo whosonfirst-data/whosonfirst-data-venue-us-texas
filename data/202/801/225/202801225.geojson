@@ -2,13 +2,14 @@
   "id": 202801225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49329,29.628357,-98.49329,29.628357",
     "geom:latitude":29.628357,
     "geom:longitude":-98.49329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19234 Stonehue",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202801225,
-    "wof:lastmodified":1449062223,
+    "wof:lastmodified":1467084932,
     "wof:name":"Mario Diana MD",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.49329,29.628357,-98.49329,29.628357],
+  "bbox": [
+    -98.49329,
+    29.628357,
+    -98.49329,
+    29.628357
+],
   "geometry": {"coordinates":[-98.49329,29.628357],"type":"Point"}
 }

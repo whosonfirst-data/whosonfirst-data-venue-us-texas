@@ -2,13 +2,14 @@
   "id": 270468179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.502867,29.750645,-95.502867,29.750645",
     "geom:latitude":29.750645,
     "geom:longitude":-95.502867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 San Felipe St Ste 440",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270468179,
-    "wof:lastmodified":1449010406,
+    "wof:lastmodified":1467084208,
     "wof:name":"Tumey LLP",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.502867,29.750645,-95.502867,29.750645],
-  "geometry": {"coordinates":[-95.502867,29.750645],"type":"Point"}
+  "bbox": [
+    -95.502867,
+    29.750645,
+    -95.502867,
+    29.750645
+],
+  "geometry": {"coordinates":[-95.50286699999999,29.750645],"type":"Point"}
 }

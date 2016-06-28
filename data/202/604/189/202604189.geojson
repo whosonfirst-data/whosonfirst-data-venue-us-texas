@@ -2,13 +2,14 @@
   "id": 202604189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.099127,31.611497,-97.099127,31.611497",
     "geom:latitude":31.611497,
     "geom:longitude":-97.099127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3989 Pecan Ln",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202604189,
-    "wof:lastmodified":1449062352,
+    "wof:lastmodified":1467084935,
     "wof:name":"Community Baptist Church",
     "wof:parent_id":85881739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.099127,31.611497,-97.099127,31.611497],
+  "bbox": [
+    -97.099127,
+    31.611497,
+    -97.099127,
+    31.611497
+],
   "geometry": {"coordinates":[-97.099127,31.611497],"type":"Point"}
 }

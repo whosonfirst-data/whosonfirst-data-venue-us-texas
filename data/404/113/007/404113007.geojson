@@ -2,13 +2,14 @@
   "id": 404113007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.896183,29.35965,-100.896183,29.35965",
     "geom:latitude":29.35965,
     "geom:longitude":-100.896183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Losoya St",
     "sg:city":"Del Rio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404113007,
-    "wof:lastmodified":1449040228,
+    "wof:lastmodified":1467084658,
     "wof:name":"Sacred Heart Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.896183,29.35965,-100.896183,29.35965],
-  "geometry": {"coordinates":[-100.896183,29.35965],"type":"Point"}
+  "bbox": [
+    -100.896183,
+    29.35965,
+    -100.896183,
+    29.35965
+],
+  "geometry": {"coordinates":[-100.89618299999999,29.35965],"type":"Point"}
 }

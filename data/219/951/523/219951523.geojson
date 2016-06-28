@@ -2,13 +2,14 @@
   "id": 219951523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.818526,32.921416,-96.818526,32.921416",
     "geom:latitude":32.921416,
     "geom:longitude":-96.818526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 Harvest Hill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219951523,
-    "wof:lastmodified":1449070532,
+    "wof:lastmodified":1467085103,
     "wof:name":"Bell-Murphy & Assoc Inc",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geophysicist"
     ]
 },
-  "bbox": [-96.818526,32.921416,-96.818526,32.921416],
-  "geometry": {"coordinates":[-96.818526,32.921416],"type":"Point"}
+  "bbox": [
+    -96.818526,
+    32.921416,
+    -96.818526,
+    32.921416
+],
+  "geometry": {"coordinates":[-96.81852600000001,32.921416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252838857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.878938,32.863612,-96.878938,32.863612",
     "geom:latitude":32.863612,
     "geom:longitude":-96.878938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10325 Denton Dr Ste C",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252838857,
-    "wof:lastmodified":1449005531,
+    "wof:lastmodified":1467084055,
     "wof:name":"Only Import Auto Sales",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-96.878938,32.863612,-96.878938,32.863612],
-  "geometry": {"coordinates":[-96.878938,32.863612],"type":"Point"}
+  "bbox": [
+    -96.878938,
+    32.863612,
+    -96.878938,
+    32.863612
+],
+  "geometry": {"coordinates":[-96.87893800000001,32.863612],"type":"Point"}
 }

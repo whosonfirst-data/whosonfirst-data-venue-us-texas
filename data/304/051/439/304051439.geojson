@@ -2,13 +2,14 @@
   "id": 304051439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.760309,32.43225,-99.760309,32.43225",
     "geom:latitude":32.43225,
     "geom:longitude":-99.760309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3134 S 14th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":304051439,
-    "wof:lastmodified":1449043946,
+    "wof:lastmodified":1467084666,
     "wof:name":"Abilene Bookkeeping Tax Service",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "public"
     ]
 },
-  "bbox": [-99.760309,32.43225,-99.760309,32.43225],
-  "geometry": {"coordinates":[-99.760309,32.43225],"type":"Point"}
+  "bbox": [
+    -99.760309,
+    32.43225,
+    -99.760309,
+    32.43225
+],
+  "geometry": {"coordinates":[-99.76030900000001,32.43225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252855833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.547019,29.451596,-98.547019,29.451596",
     "geom:latitude":29.451596,
     "geom:longitude":-98.547019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 Cincinnati Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252855833,
-    "wof:lastmodified":1449006199,
+    "wof:lastmodified":1467084091,
     "wof:name":"Bandera Auto Sales",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.547019,29.451596,-98.547019,29.451596],
-  "geometry": {"coordinates":[-98.547019,29.451596],"type":"Point"}
+  "bbox": [
+    -98.547019,
+    29.451596,
+    -98.547019,
+    29.451596
+],
+  "geometry": {"coordinates":[-98.54701900000001,29.451596],"type":"Point"}
 }

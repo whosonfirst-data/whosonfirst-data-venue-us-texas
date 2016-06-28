@@ -2,13 +2,14 @@
   "id": 404009785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119865,32.831904,-97.119865,32.831904",
     "geom:latitude":32.831904,
     "geom:longitude":-97.119865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Westpark Way",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404009785,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1467084660,
     "wof:name":"Athletes In Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-97.119865,32.831904,-97.119865,32.831904],
+  "bbox": [
+    -97.119865,
+    32.831904,
+    -97.119865,
+    32.831904
+],
   "geometry": {"coordinates":[-97.119865,32.831904],"type":"Point"}
 }

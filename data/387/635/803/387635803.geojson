@@ -2,13 +2,14 @@
   "id": 387635803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892724,33.096614,-96.892724,33.096614",
     "geom:latitude":33.096614,
     "geom:longitude":-96.892724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 Main St",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387635803,
-    "wof:lastmodified":1449057758,
+    "wof:lastmodified":1467084826,
     "wof:name":"Main Dish",
     "wof:parent_id":85868909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.892724,33.096614,-96.892724,33.096614],
+  "bbox": [
+    -96.892724,
+    33.096614,
+    -96.892724,
+    33.096614
+],
   "geometry": {"coordinates":[-96.892724,33.096614],"type":"Point"}
 }

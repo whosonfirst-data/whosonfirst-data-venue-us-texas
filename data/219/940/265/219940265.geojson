@@ -2,13 +2,14 @@
   "id": 219940265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.151123,29.566861,-95.151123,29.566861",
     "geom:latitude":29.566861,
     "geom:longitude":-95.151123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15000 McConn St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219940265,
-    "wof:lastmodified":1449071256,
+    "wof:lastmodified":1467085118,
     "wof:name":"Williams Indoor Pool",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.151123,29.566861,-95.151123,29.566861],
+  "bbox": [
+    -95.151123,
+    29.566861,
+    -95.151123,
+    29.566861
+],
   "geometry": {"coordinates":[-95.151123,29.566861],"type":"Point"}
 }

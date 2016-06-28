@@ -2,13 +2,14 @@
   "id": 403889605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121149,31.536667,-94.121149,31.536667",
     "geom:latitude":31.536667,
     "geom:longitude":-94.121149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Holman St",
     "sg:city":"San Augustine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403889605,
-    "wof:lastmodified":1449054607,
+    "wof:lastmodified":1467084749,
     "wof:name":"Jeff Mosby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.121149,31.536667,-94.121149,31.536667],
+  "bbox": [
+    -94.121149,
+    31.536667,
+    -94.121149,
+    31.536667
+],
   "geometry": {"coordinates":[-94.121149,31.536667],"type":"Point"}
 }

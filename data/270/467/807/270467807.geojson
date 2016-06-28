@@ -2,13 +2,14 @@
   "id": 270467807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521397,29.73945,-95.521397,29.73945",
     "geom:latitude":29.73945,
     "geom:longitude":-95.521397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2538 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270467807,
-    "wof:lastmodified":1449010535,
+    "wof:lastmodified":1467084212,
     "wof:name":"Atlas",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.521397,29.73945,-95.521397,29.73945],
-  "geometry": {"coordinates":[-95.521397,29.73945],"type":"Point"}
+  "bbox": [
+    -95.521397,
+    29.73945,
+    -95.521397,
+    29.73945
+],
+  "geometry": {"coordinates":[-95.52139699999999,29.73945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253298577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803626,32.949291,-96.803626,32.949291",
     "geom:latitude":32.949291,
     "geom:longitude":-96.803626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14755 Preston Rd Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":253298577,
-    "wof:lastmodified":1449063614,
+    "wof:lastmodified":1467084972,
     "wof:name":"Emc2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.803626,32.949291,-96.803626,32.949291],
-  "geometry": {"coordinates":[-96.803626,32.949291],"type":"Point"}
+  "bbox": [
+    -96.803626,
+    32.949291,
+    -96.803626,
+    32.949291
+],
+  "geometry": {"coordinates":[-96.80362599999999,32.949291],"type":"Point"}
 }

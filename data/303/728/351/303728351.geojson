@@ -2,13 +2,14 @@
   "id": 303728351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711261,30.348529,-97.711261,30.348529",
     "geom:latitude":30.348529,
     "geom:longitude":-97.711261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8079 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303728351,
-    "wof:lastmodified":1448998680,
+    "wof:lastmodified":1467083719,
     "wof:name":"Green Austin Technology",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.711261,30.348529,-97.711261,30.348529],
-  "geometry": {"coordinates":[-97.711261,30.348529],"type":"Point"}
+  "bbox": [
+    -97.711261,
+    30.348529,
+    -97.711261,
+    30.348529
+],
+  "geometry": {"coordinates":[-97.71126099999999,30.348529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354403425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479514,29.42249,-98.479514,29.42249",
     "geom:latitude":29.42249,
     "geom:longitude":-98.479514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Center St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354403425,
-    "wof:lastmodified":1449067424,
+    "wof:lastmodified":1467085088,
     "wof:name":"Willow Springs Golf Course",
     "wof:parent_id":85871033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-98.479514,29.42249,-98.479514,29.42249],
-  "geometry": {"coordinates":[-98.479514,29.42249],"type":"Point"}
+  "bbox": [
+    -98.479514,
+    29.42249,
+    -98.479514,
+    29.42249
+],
+  "geometry": {"coordinates":[-98.47951399999999,29.42249],"type":"Point"}
 }

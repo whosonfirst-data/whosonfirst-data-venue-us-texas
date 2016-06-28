@@ -2,13 +2,14 @@
   "id": 387930947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.482293,29.653842,-95.482293,29.653842",
     "geom:latitude":29.653842,
     "geom:longitude":-95.482293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 Belrose Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387930947,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1467084815,
     "wof:name":"US Post Office",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.482293,29.653842,-95.482293,29.653842],
+  "bbox": [
+    -95.482293,
+    29.653842,
+    -95.482293,
+    29.653842
+],
   "geometry": {"coordinates":[-95.482293,29.653842],"type":"Point"}
 }

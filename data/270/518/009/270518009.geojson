@@ -2,13 +2,14 @@
   "id": 270518009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500284,29.715519,-95.500284,29.715519",
     "geom:latitude":29.715519,
     "geom:longitude":-95.500284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6680 SW Freeway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270518009,
-    "wof:lastmodified":1449010039,
+    "wof:lastmodified":1467084196,
     "wof:name":"Crystal Night Club",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.500284,29.715519,-95.500284,29.715519],
-  "geometry": {"coordinates":[-95.500284,29.715519],"type":"Point"}
+  "bbox": [
+    -95.500284,
+    29.715519,
+    -95.500284,
+    29.715519
+],
+  "geometry": {"coordinates":[-95.50028399999999,29.715519],"type":"Point"}
 }

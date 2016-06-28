@@ -2,13 +2,14 @@
   "id": 287242325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.235245,26.199394,-98.235245,26.199394",
     "geom:latitude":26.199394,
     "geom:longitude":-98.235245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Main St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287242325,
-    "wof:lastmodified":1449001470,
+    "wof:lastmodified":1467083845,
     "wof:name":"Uniform Center",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "uniform"
     ]
 },
-  "bbox": [-98.235245,26.199394,-98.235245,26.199394],
-  "geometry": {"coordinates":[-98.235245,26.199394],"type":"Point"}
+  "bbox": [
+    -98.235245,
+    26.199394,
+    -98.235245,
+    26.199394
+],
+  "geometry": {"coordinates":[-98.23524500000001,26.199394],"type":"Point"}
 }

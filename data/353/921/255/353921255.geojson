@@ -2,13 +2,14 @@
   "id": 353921255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.933733,33.520061,-101.933733,33.520061",
     "geom:latitude":33.520061,
     "geom:longitude":-101.933733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 Dover Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353921255,
-    "wof:lastmodified":1449019887,
+    "wof:lastmodified":1467084357,
     "wof:name":"DEM Consulting Svc",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-101.933733,33.520061,-101.933733,33.520061],
+  "bbox": [
+    -101.933733,
+    33.520061,
+    -101.933733,
+    33.520061
+],
   "geometry": {"coordinates":[-101.933733,33.520061],"type":"Point"}
 }

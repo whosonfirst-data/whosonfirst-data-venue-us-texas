@@ -2,13 +2,14 @@
   "id": 186608627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48153,32.444866,-97.48153,32.444866",
     "geom:latitude":32.444866,
     "geom:longitude":-97.48153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8617 Co Rd 1009",
     "sg:city":"Godley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186608627,
-    "wof:lastmodified":1449051524,
+    "wof:lastmodified":1467084715,
     "wof:name":"Timberwolf Studios",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.48153,32.444866,-97.48153,32.444866],
-  "geometry": {"coordinates":[-97.48153,32.444866],"type":"Point"}
+  "bbox": [
+    -97.48153,
+    32.444866,
+    -97.48153,
+    32.444866
+],
+  "geometry": {"coordinates":[-97.48153000000001,32.444866],"type":"Point"}
 }

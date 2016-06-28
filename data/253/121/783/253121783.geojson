@@ -2,13 +2,14 @@
   "id": 253121783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803711,32.9328,-96.803711,32.9328",
     "geom:latitude":32.9328,
     "geom:longitude":-96.803711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13601 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253121783,
-    "wof:lastmodified":1449065105,
+    "wof:lastmodified":1467085023,
     "wof:name":"Event Travel International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-96.803711,32.9328,-96.803711,32.9328],
-  "geometry": {"coordinates":[-96.803711,32.9328],"type":"Point"}
+  "bbox": [
+    -96.803711,
+    32.9328,
+    -96.803711,
+    32.9328
+],
+  "geometry": {"coordinates":[-96.80371100000001,32.9328],"type":"Point"}
 }

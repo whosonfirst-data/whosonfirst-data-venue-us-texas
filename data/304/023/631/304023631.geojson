@@ -2,13 +2,14 @@
   "id": 304023631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.623688,32.801304,-99.623688,32.801304",
     "geom:latitude":32.801304,
     "geom:longitude":-99.623688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Main St",
     "sg:city":"Lueders",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":304023631,
-    "wof:lastmodified":1449044105,
+    "wof:lastmodified":1467084669,
     "wof:name":"City Of Lueders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-99.623688,32.801304,-99.623688,32.801304],
+  "bbox": [
+    -99.623688,
+    32.801304,
+    -99.623688,
+    32.801304
+],
   "geometry": {"coordinates":[-99.623688,32.801304],"type":"Point"}
 }

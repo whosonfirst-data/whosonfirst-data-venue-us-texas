@@ -2,13 +2,14 @@
   "id": 370796237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.453983,31.805835,-106.453983,31.805835",
     "geom:latitude":31.805835,
     "geom:longitude":-106.453983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3314 Fort Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370796237,
-    "wof:lastmodified":1449030688,
+    "wof:lastmodified":1467084509,
     "wof:name":"Delicious Mexican Eatery",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.453983,31.805835,-106.453983,31.805835],
-  "geometry": {"coordinates":[-106.453983,31.805835],"type":"Point"}
+  "bbox": [
+    -106.453983,
+    31.805835,
+    -106.453983,
+    31.805835
+],
+  "geometry": {"coordinates":[-106.45398299999999,31.805835],"type":"Point"}
 }

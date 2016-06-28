@@ -2,13 +2,14 @@
   "id": 286324185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.647346,29.835951,-95.647346,29.835951",
     "geom:latitude":29.835951,
     "geom:longitude":-95.647346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16211 Clay Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":286324185,
-    "wof:lastmodified":1449016909,
+    "wof:lastmodified":1467084284,
     "wof:name":"Parcel Stop",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.647346,29.835951,-95.647346,29.835951],
+  "bbox": [
+    -95.647346,
+    29.835951,
+    -95.647346,
+    29.835951
+],
   "geometry": {"coordinates":[-95.647346,29.835951],"type":"Point"}
 }

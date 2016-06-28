@@ -2,13 +2,14 @@
   "id": 303722219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.715556,30.324163,-97.715556,30.324163",
     "geom:latitude":30.324163,
     "geom:longitude":-97.715556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Airport Blvd Ste 2390",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303722219,
-    "wof:lastmodified":1448998977,
+    "wof:lastmodified":1467083735,
     "wof:name":"IBC Bank",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.715556,30.324163,-97.715556,30.324163],
-  "geometry": {"coordinates":[-97.715556,30.324163],"type":"Point"}
+  "bbox": [
+    -97.715556,
+    30.324163,
+    -97.715556,
+    30.324163
+],
+  "geometry": {"coordinates":[-97.71555600000001,30.324163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354325099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.298502,27.654581,-97.298502,27.654581",
     "geom:latitude":27.654581,
     "geom:longitude":-97.298502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Brighton Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354325099,
-    "wof:lastmodified":1449066580,
+    "wof:lastmodified":1467085067,
     "wof:name":"Bintliff Appraisal Svc",
     "wof:parent_id":85819661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.298502,27.654581,-97.298502,27.654581],
+  "bbox": [
+    -97.298502,
+    27.654581,
+    -97.298502,
+    27.654581
+],
   "geometry": {"coordinates":[-97.298502,27.654581],"type":"Point"}
 }

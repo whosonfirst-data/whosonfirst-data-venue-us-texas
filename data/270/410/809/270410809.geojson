@@ -2,13 +2,14 @@
   "id": 270410809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500897,29.742438,-95.500897,29.742438",
     "geom:latitude":29.742438,
     "geom:longitude":-95.500897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 S Voss Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270410809,
-    "wof:lastmodified":1449008700,
+    "wof:lastmodified":1467084152,
     "wof:name":"Olympia Marble and Granite",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.500897,29.742438,-95.500897,29.742438],
-  "geometry": {"coordinates":[-95.500897,29.742438],"type":"Point"}
+  "bbox": [
+    -95.500897,
+    29.742438,
+    -95.500897,
+    29.742438
+],
+  "geometry": {"coordinates":[-95.50089699999999,29.742438],"type":"Point"}
 }

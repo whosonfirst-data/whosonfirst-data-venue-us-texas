@@ -2,13 +2,14 @@
   "id": 219510629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.295341,32.197682,-95.295341,32.197682",
     "geom:latitude":32.197682,
     "geom:longitude":-95.295341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19311 Copperoaks Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219510629,
-    "wof:lastmodified":1449072515,
+    "wof:lastmodified":1467085144,
     "wof:name":"Enchanted Forest Imagery",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.295341,32.197682,-95.295341,32.197682],
-  "geometry": {"coordinates":[-95.295341,32.197682],"type":"Point"}
+  "bbox": [
+    -95.295341,
+    32.197682,
+    -95.295341,
+    32.197682
+],
+  "geometry": {"coordinates":[-95.29534099999999,32.197682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236128377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.012109,32.730585,-97.012109,32.730585",
     "geom:latitude":32.730585,
     "geom:longitude":-97.012109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Highland Dr",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236128377,
-    "wof:lastmodified":1449002846,
+    "wof:lastmodified":1467083925,
     "wof:name":"Bms Construction",
     "wof:parent_id":85877851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.012109,32.730585,-97.012109,32.730585],
+  "bbox": [
+    -97.012109,
+    32.730585,
+    -97.012109,
+    32.730585
+],
   "geometry": {"coordinates":[-97.012109,32.730585],"type":"Point"}
 }

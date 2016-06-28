@@ -2,13 +2,14 @@
   "id": 253233735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832011,32.778652,-96.832011,32.778652",
     "geom:latitude":32.778652,
     "geom:longitude":-96.832011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Singleton Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253233735,
-    "wof:lastmodified":1449065853,
+    "wof:lastmodified":1467085049,
     "wof:name":"Guadalupe Galvan",
     "wof:parent_id":85870337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.832011,32.778652,-96.832011,32.778652],
-  "geometry": {"coordinates":[-96.832011,32.778652],"type":"Point"}
+  "bbox": [
+    -96.832011,
+    32.778652,
+    -96.832011,
+    32.778652
+],
+  "geometry": {"coordinates":[-96.83201099999999,32.778652],"type":"Point"}
 }

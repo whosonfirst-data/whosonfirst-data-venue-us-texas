@@ -2,13 +2,14 @@
   "id": 354388235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.821992,30.115588,-93.821992,30.115588",
     "geom:latitude":30.115588,
     "geom:longitude":-93.821992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6521 I- 10",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354388235,
-    "wof:lastmodified":1449066010,
+    "wof:lastmodified":1467085053,
     "wof:name":"Texas Industrial Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-93.821992,30.115588,-93.821992,30.115588],
-  "geometry": {"coordinates":[-93.821992,30.115588],"type":"Point"}
+  "bbox": [
+    -93.821992,
+    30.115588,
+    -93.821992,
+    30.115588
+],
+  "geometry": {"coordinates":[-93.82199199999999,30.115588],"type":"Point"}
 }

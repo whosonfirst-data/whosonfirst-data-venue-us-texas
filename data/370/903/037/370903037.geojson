@@ -2,13 +2,14 @@
   "id": 370903037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.922466,33.520866,-101.922466,33.520866",
     "geom:latitude":33.520866,
     "geom:longitude":-101.922466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8008 Slide Rd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370903037,
-    "wof:lastmodified":1449029285,
+    "wof:lastmodified":1467084473,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-101.922466,33.520866,-101.922466,33.520866],
+  "bbox": [
+    -101.922466,
+    33.520866,
+    -101.922466,
+    33.520866
+],
   "geometry": {"coordinates":[-101.922466,33.520866],"type":"Point"}
 }

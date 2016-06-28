@@ -2,13 +2,14 @@
   "id": 303495983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.857521,30.352992,-97.857521,30.352992",
     "geom:latitude":30.352992,
     "geom:longitude":-97.857521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 Edgewater",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303495983,
-    "wof:lastmodified":1448999197,
+    "wof:lastmodified":1467083745,
     "wof:name":"Ben Blank Audio",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "studio"
     ]
 },
-  "bbox": [-97.857521,30.352992,-97.857521,30.352992],
-  "geometry": {"coordinates":[-97.857521,30.352992],"type":"Point"}
+  "bbox": [
+    -97.857521,
+    30.352992,
+    -97.857521,
+    30.352992
+],
+  "geometry": {"coordinates":[-97.85752100000001,30.352992],"type":"Point"}
 }

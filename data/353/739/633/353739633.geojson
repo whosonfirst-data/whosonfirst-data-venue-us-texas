@@ -2,13 +2,14 @@
   "id": 353739633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.340635,30.595266,-96.340635,30.595266",
     "geom:latitude":30.595266,
     "geom:longitude":-96.340635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Luther St W",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353739633,
-    "wof:lastmodified":1449019325,
+    "wof:lastmodified":1467084344,
     "wof:name":"Melrose Apartments",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.340635,30.595266,-96.340635,30.595266],
-  "geometry": {"coordinates":[-96.340635,30.595266],"type":"Point"}
+  "bbox": [
+    -96.340635,
+    30.595266,
+    -96.340635,
+    30.595266
+],
+  "geometry": {"coordinates":[-96.34063500000001,30.595266],"type":"Point"}
 }

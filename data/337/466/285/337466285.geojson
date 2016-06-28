@@ -2,13 +2,14 @@
   "id": 337466285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.879128,30.280001,-98.879128,30.280001",
     "geom:latitude":30.280001,
     "geom:longitude":-98.879128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Edison St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337466285,
-    "wof:lastmodified":1449027186,
+    "wof:lastmodified":1467084434,
     "wof:name":"Fredericksburg Ind School Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.879128,30.280001,-98.879128,30.280001],
-  "geometry": {"coordinates":[-98.879128,30.280001],"type":"Point"}
+  "bbox": [
+    -98.879128,
+    30.280001,
+    -98.879128,
+    30.280001
+],
+  "geometry": {"coordinates":[-98.87912799999999,30.280001],"type":"Point"}
 }

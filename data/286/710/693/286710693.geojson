@@ -2,13 +2,14 @@
   "id": 286710693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.809117,29.531641,-95.809117,29.531641",
     "geom:latitude":29.531641,
     "geom:longitude":-95.809117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28115 Southwest Fwy",
     "sg:city":"Rosenberg",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286710693,
-    "wof:lastmodified":1449015357,
+    "wof:lastmodified":1467084241,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "dog"
     ]
 },
-  "bbox": [-95.809117,29.531641,-95.809117,29.531641],
+  "bbox": [
+    -95.809117,
+    29.531641,
+    -95.809117,
+    29.531641
+],
   "geometry": {"coordinates":[-95.809117,29.531641],"type":"Point"}
 }

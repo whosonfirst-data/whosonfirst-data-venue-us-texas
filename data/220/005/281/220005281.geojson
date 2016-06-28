@@ -2,13 +2,14 @@
   "id": 220005281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.605443,29.498193,-98.605443,29.498193",
     "geom:latitude":29.498193,
     "geom:longitude":-98.605443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6238 Forest Bend",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220005281,
-    "wof:lastmodified":1449074817,
+    "wof:lastmodified":1467085195,
     "wof:name":"Huffman Hydrocarbon Engrg LLC",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [-98.605443,29.498193,-98.605443,29.498193],
-  "geometry": {"coordinates":[-98.605443,29.498193],"type":"Point"}
+  "bbox": [
+    -98.605443,
+    29.498193,
+    -98.605443,
+    29.498193
+],
+  "geometry": {"coordinates":[-98.60544299999999,29.498193],"type":"Point"}
 }

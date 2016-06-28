@@ -2,13 +2,14 @@
   "id": 236476421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716518,32.96861,-96.716518,32.96861",
     "geom:latitude":32.96861,
     "geom:longitude":-96.716518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Alma Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236476421,
-    "wof:lastmodified":1449002899,
+    "wof:lastmodified":1467083928,
     "wof:name":"Cafe Max Richardson",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-96.716518,32.96861,-96.716518,32.96861],
-  "geometry": {"coordinates":[-96.716518,32.96861],"type":"Point"}
+  "bbox": [
+    -96.716518,
+    32.96861,
+    -96.716518,
+    32.96861
+],
+  "geometry": {"coordinates":[-96.71651799999999,32.96861],"type":"Point"}
 }

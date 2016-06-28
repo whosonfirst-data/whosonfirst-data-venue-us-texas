@@ -2,13 +2,14 @@
   "id": 186580013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645998,32.823124,-96.645998,32.823124",
     "geom:latitude":32.823124,
     "geom:longitude":-96.645998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 Gus Thomasson Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186580013,
-    "wof:lastmodified":1449052178,
+    "wof:lastmodified":1467084729,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85878897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-96.645998,32.823124,-96.645998,32.823124],
-  "geometry": {"coordinates":[-96.645998,32.823124],"type":"Point"}
+  "bbox": [
+    -96.645998,
+    32.823124,
+    -96.645998,
+    32.823124
+],
+  "geometry": {"coordinates":[-96.64599800000001,32.823124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219655347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.110199,32.773375,-97.110199,32.773375",
     "geom:latitude":32.773375,
     "geom:longitude":-97.110199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Rolling Hills Trl",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219655347,
-    "wof:lastmodified":1449072406,
+    "wof:lastmodified":1467085142,
     "wof:name":"Artham Inc",
     "wof:parent_id":85897299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transfer"
     ]
 },
-  "bbox": [-97.110199,32.773375,-97.110199,32.773375],
-  "geometry": {"coordinates":[-97.110199,32.773375],"type":"Point"}
+  "bbox": [
+    -97.110199,
+    32.773375,
+    -97.110199,
+    32.773375
+],
+  "geometry": {"coordinates":[-97.11019899999999,32.773375],"type":"Point"}
 }

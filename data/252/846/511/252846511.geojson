@@ -2,13 +2,14 @@
   "id": 252846511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.883851,32.859094,-96.883851,32.859094",
     "geom:latitude":32.859094,
     "geom:longitude":-96.883851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 W Northwest Hwy Ste 105",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252846511,
-    "wof:lastmodified":1449006270,
+    "wof:lastmodified":1467084095,
     "wof:name":"American Oil & Fuel Distrs",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline-wholesale"
     ]
 },
-  "bbox": [-96.883851,32.859094,-96.883851,32.859094],
-  "geometry": {"coordinates":[-96.883851,32.859094],"type":"Point"}
+  "bbox": [
+    -96.883851,
+    32.859094,
+    -96.883851,
+    32.859094
+],
+  "geometry": {"coordinates":[-96.88385100000001,32.859094],"type":"Point"}
 }

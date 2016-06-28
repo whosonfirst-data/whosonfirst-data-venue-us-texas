@@ -2,13 +2,14 @@
   "id": 236401501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.618141,33.19722,-96.618141,33.19722",
     "geom:latitude":33.19722,
     "geom:longitude":-96.618141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Louisiana St",
     "sg:city":"Mckinney",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236401501,
-    "wof:lastmodified":1449004661,
+    "wof:lastmodified":1467084011,
     "wof:name":"Aisle Seats",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.618141,33.19722,-96.618141,33.19722],
-  "geometry": {"coordinates":[-96.618141,33.19722],"type":"Point"}
+  "bbox": [
+    -96.618141,
+    33.19722,
+    -96.618141,
+    33.19722
+],
+  "geometry": {"coordinates":[-96.61814099999999,33.19722],"type":"Point"}
 }

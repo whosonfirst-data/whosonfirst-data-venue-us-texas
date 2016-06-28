@@ -2,13 +2,14 @@
   "id": 219309781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.470121,27.560811,-99.470121,27.560811",
     "geom:latitude":27.560811,
     "geom:longitude":-99.470121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Jacaman Rd",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219309781,
-    "wof:lastmodified":1449071183,
+    "wof:lastmodified":1467085116,
     "wof:name":"Laredo Alarm",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "monitoring"
     ]
 },
-  "bbox": [-99.470121,27.560811,-99.470121,27.560811],
-  "geometry": {"coordinates":[-99.470121,27.560811],"type":"Point"}
+  "bbox": [
+    -99.470121,
+    27.560811,
+    -99.470121,
+    27.560811
+],
+  "geometry": {"coordinates":[-99.47012100000001,27.560811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253215469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526055,29.490771,-98.526055,29.490771",
     "geom:latitude":29.490771,
     "geom:longitude":-98.526055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253215469,
-    "wof:lastmodified":1449065253,
+    "wof:lastmodified":1467085028,
     "wof:name":"Miller's Maintenance Spec",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-98.526055,29.490771,-98.526055,29.490771],
+  "bbox": [
+    -98.526055,
+    29.490771,
+    -98.526055,
+    29.490771
+],
   "geometry": {"coordinates":[-98.526055,29.490771],"type":"Point"}
 }

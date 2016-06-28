@@ -2,13 +2,14 @@
   "id": 303423251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.681773,30.459476,-97.681773,30.459476",
     "geom:latitude":30.459476,
     "geom:longitude":-97.681773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3313 Texas Topaz Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303423251,
-    "wof:lastmodified":1448998520,
+    "wof:lastmodified":1467083711,
     "wof:name":"Leblanc Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-97.681773,30.459476,-97.681773,30.459476],
-  "geometry": {"coordinates":[-97.681773,30.459476],"type":"Point"}
+  "bbox": [
+    -97.681773,
+    30.459476,
+    -97.681773,
+    30.459476
+],
+  "geometry": {"coordinates":[-97.68177300000001,30.459476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286581351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.50625,30.200475,-95.50625,30.200475",
     "geom:latitude":30.200475,
     "geom:longitude":-95.50625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Shiny Pebble Pl",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286581351,
-    "wof:lastmodified":1449015791,
+    "wof:lastmodified":1467084253,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-95.50625,30.200475,-95.50625,30.200475],
-  "geometry": {"coordinates":[-95.50625,30.200475],"type":"Point"}
+  "bbox": [
+    -95.50625,
+    30.200475,
+    -95.50625,
+    30.200475
+],
+  "geometry": {"coordinates":[-95.50624999999999,30.200475],"type":"Point"}
 }

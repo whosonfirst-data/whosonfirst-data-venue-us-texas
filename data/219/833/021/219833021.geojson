@@ -2,13 +2,14 @@
   "id": 219833021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412244,29.675103,-95.412244,29.675103",
     "geom:latitude":29.675103,
     "geom:longitude":-95.412244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 Kirby Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219833021,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1467085109,
     "wof:name":"Nelson Photography",
     "wof:parent_id":85869673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.412244,29.675103,-95.412244,29.675103],
+  "bbox": [
+    -95.412244,
+    29.675103,
+    -95.412244,
+    29.675103
+],
   "geometry": {"coordinates":[-95.412244,29.675103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303593055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772219,30.222161,-97.772219,30.222161",
     "geom:latitude":30.222161,
     "geom:longitude":-97.772219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 S 1st St Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303593055,
-    "wof:lastmodified":1448999738,
+    "wof:lastmodified":1467083773,
     "wof:name":"Jaimes Discoteca",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-97.772219,30.222161,-97.772219,30.222161],
-  "geometry": {"coordinates":[-97.772219,30.222161],"type":"Point"}
+  "bbox": [
+    -97.772219,
+    30.222161,
+    -97.772219,
+    30.222161
+],
+  "geometry": {"coordinates":[-97.77221900000001,30.222161],"type":"Point"}
 }

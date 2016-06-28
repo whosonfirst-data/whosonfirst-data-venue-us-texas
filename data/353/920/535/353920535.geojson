@@ -2,13 +2,14 @@
   "id": 353920535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.449796,31.796641,-106.449796,31.796641",
     "geom:latitude":31.796641,
     "geom:longitude":-106.449796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3626 Altura Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353920535,
-    "wof:lastmodified":1449020241,
+    "wof:lastmodified":1467084364,
     "wof:name":"F J Flores Tile Svc",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.449796,31.796641,-106.449796,31.796641],
-  "geometry": {"coordinates":[-106.449796,31.796641],"type":"Point"}
+  "bbox": [
+    -106.449796,
+    31.796641,
+    -106.449796,
+    31.796641
+],
+  "geometry": {"coordinates":[-106.44979600000001,31.796641],"type":"Point"}
 }

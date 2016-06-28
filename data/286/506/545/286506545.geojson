@@ -2,13 +2,14 @@
   "id": 286506545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.166046,30.005355,-95.166046,30.005355",
     "geom:latitude":30.005355,
     "geom:longitude":-95.166046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19826 Wood Walk Ln",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286506545,
-    "wof:lastmodified":1449015218,
+    "wof:lastmodified":1467084237,
     "wof:name":"Income Tax Preparation",
     "wof:parent_id":85869399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-95.166046,30.005355,-95.166046,30.005355],
-  "geometry": {"coordinates":[-95.166046,30.005355],"type":"Point"}
+  "bbox": [
+    -95.166046,
+    30.005355,
+    -95.166046,
+    30.005355
+],
+  "geometry": {"coordinates":[-95.16604599999999,30.005355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386997535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80585,32.962059,-96.80585,32.962059",
     "geom:latitude":32.962059,
     "geom:longitude":-96.80585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5981 Arapaho Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386997535,
-    "wof:lastmodified":1449028898,
+    "wof:lastmodified":1467084464,
     "wof:name":"Addison Vending Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-96.80585,32.962059,-96.80585,32.962059],
-  "geometry": {"coordinates":[-96.80585,32.962059],"type":"Point"}
+  "bbox": [
+    -96.80585,
+    32.962059,
+    -96.80585,
+    32.962059
+],
+  "geometry": {"coordinates":[-96.80585000000001,32.962059],"type":"Point"}
 }

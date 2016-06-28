@@ -2,13 +2,14 @@
   "id": 253329895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793495,32.766261,-96.793495,32.766261",
     "geom:latitude":32.766261,
     "geom:longitude":-96.793495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S Lamar St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253329895,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1467084973,
     "wof:name":"Brooklyn Jazz Cafe",
     "wof:parent_id":85870445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.793495,32.766261,-96.793495,32.766261],
-  "geometry": {"coordinates":[-96.793495,32.766261],"type":"Point"}
+  "bbox": [
+    -96.793495,
+    32.766261,
+    -96.793495,
+    32.766261
+],
+  "geometry": {"coordinates":[-96.79349499999999,32.766261],"type":"Point"}
 }

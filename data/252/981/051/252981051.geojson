@@ -2,13 +2,14 @@
   "id": 252981051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768651,32.867026,-96.768651,32.867026",
     "geom:latitude":32.867026,
     "geom:longitude":-96.768651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8750 N Central Expy Ste 777",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252981051,
-    "wof:lastmodified":1449006536,
+    "wof:lastmodified":1467084109,
     "wof:name":"Kleiman & Lawrence Llp",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768651,32.867026,-96.768651,32.867026],
-  "geometry": {"coordinates":[-96.768651,32.867026],"type":"Point"}
+  "bbox": [
+    -96.768651,
+    32.867026,
+    -96.768651,
+    32.867026
+],
+  "geometry": {"coordinates":[-96.76865100000001,32.867026],"type":"Point"}
 }

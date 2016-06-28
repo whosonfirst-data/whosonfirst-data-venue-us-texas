@@ -2,13 +2,14 @@
   "id": 202735657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.495291,29.831039,-95.495291,29.831039",
     "geom:latitude":29.831039,
     "geom:longitude":-95.495291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4114 Southerland Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202735657,
-    "wof:lastmodified":1449062570,
+    "wof:lastmodified":1467084939,
     "wof:name":"Max Marble and Granite",
     "wof:parent_id":85869401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marble"
     ]
 },
-  "bbox": [-95.495291,29.831039,-95.495291,29.831039],
-  "geometry": {"coordinates":[-95.495291,29.831039],"type":"Point"}
+  "bbox": [
+    -95.495291,
+    29.831039,
+    -95.495291,
+    29.831039
+],
+  "geometry": {"coordinates":[-95.49529099999999,29.831039],"type":"Point"}
 }

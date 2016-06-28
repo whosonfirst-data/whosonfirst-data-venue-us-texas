@@ -2,13 +2,14 @@
   "id": 303723525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.701404,30.325687,-97.701404,30.325687",
     "geom:latitude":30.325687,
     "geom:longitude":-97.701404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Griffin Parkway",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303723525,
-    "wof:lastmodified":1448999553,
+    "wof:lastmodified":1467083763,
     "wof:name":"Mission Village",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.701404,30.325687,-97.701404,30.325687],
+  "bbox": [
+    -97.701404,
+    30.325687,
+    -97.701404,
+    30.325687
+],
   "geometry": {"coordinates":[-97.701404,30.325687],"type":"Point"}
 }

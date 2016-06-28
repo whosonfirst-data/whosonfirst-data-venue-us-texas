@@ -2,13 +2,14 @@
   "id": 337312245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.213693,33.47055,-95.213693,33.47055",
     "geom:latitude":33.47055,
     "geom:longitude":-95.213693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Clarksville St",
     "sg:city":"Bogata",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337312245,
-    "wof:lastmodified":1449027364,
+    "wof:lastmodified":1467084441,
     "wof:name":"Bogata Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.213693,33.47055,-95.213693,33.47055],
-  "geometry": {"coordinates":[-95.213693,33.47055],"type":"Point"}
+  "bbox": [
+    -95.213693,
+    33.47055,
+    -95.213693,
+    33.47055
+],
+  "geometry": {"coordinates":[-95.21369300000001,33.47055],"type":"Point"}
 }

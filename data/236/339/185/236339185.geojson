@@ -2,13 +2,14 @@
   "id": 236339185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.564319,29.736707,-95.564319,29.736707",
     "geom:latitude":29.736707,
     "geom:longitude":-95.564319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10611 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236339185,
-    "wof:lastmodified":1449003062,
+    "wof:lastmodified":1467083936,
     "wof:name":"C & H Inspection",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-95.564319,29.736707,-95.564319,29.736707],
+  "bbox": [
+    -95.564319,
+    29.736707,
+    -95.564319,
+    29.736707
+],
   "geometry": {"coordinates":[-95.564319,29.736707],"type":"Point"}
 }

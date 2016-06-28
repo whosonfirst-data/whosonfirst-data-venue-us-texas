@@ -2,13 +2,14 @@
   "id": 304050909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.76162,32.415112,-99.76162,32.415112",
     "geom:latitude":32.415112,
     "geom:longitude":-99.76162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Edgemont Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304050909,
-    "wof:lastmodified":1449043925,
+    "wof:lastmodified":1467084666,
     "wof:name":"Paul Patton Dvm",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-99.76162,32.415112,-99.76162,32.415112],
-  "geometry": {"coordinates":[-99.76162,32.415112],"type":"Point"}
+  "bbox": [
+    -99.76162,
+    32.415112,
+    -99.76162,
+    32.415112
+],
+  "geometry": {"coordinates":[-99.76161999999999,32.415112],"type":"Point"}
 }

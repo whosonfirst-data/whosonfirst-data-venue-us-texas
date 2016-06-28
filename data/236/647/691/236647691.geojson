@@ -2,13 +2,14 @@
   "id": 236647691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.908401,32.638457,-96.908401,32.638457",
     "geom:latitude":32.638457,
     "geom:longitude":-96.908401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 S Main St",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236647691,
-    "wof:lastmodified":1449003163,
+    "wof:lastmodified":1467083941,
     "wof:name":"Park Main Apartments",
     "wof:parent_id":85858735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.908401,32.638457,-96.908401,32.638457],
+  "bbox": [
+    -96.908401,
+    32.638457,
+    -96.908401,
+    32.638457
+],
   "geometry": {"coordinates":[-96.908401,32.638457],"type":"Point"}
 }

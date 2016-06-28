@@ -2,13 +2,14 @@
   "id": 253505103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.335933,32.247163,-95.335933,32.247163",
     "geom:latitude":32.247163,
     "geom:longitude":-95.335933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16071 Stockman Cir",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253505103,
-    "wof:lastmodified":1449065283,
+    "wof:lastmodified":1467085030,
     "wof:name":"East Texas Barn & Fence, Inc.",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-95.335933,32.247163,-95.335933,32.247163],
+  "bbox": [
+    -95.335933,
+    32.247163,
+    -95.335933,
+    32.247163
+],
   "geometry": {"coordinates":[-95.335933,32.247163],"type":"Point"}
 }

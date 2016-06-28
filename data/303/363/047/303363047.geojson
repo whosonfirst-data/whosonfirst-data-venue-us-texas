@@ -2,13 +2,14 @@
   "id": 303363047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741659,30.286604,-97.741659,30.286604",
     "geom:latitude":30.286604,
     "geom:longitude":-97.741659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -90,10 +91,11 @@
         }
     ],
     "wof:id":303363047,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1467083798,
     "wof:name":"Potbelly Sandwich Shop - Guadalupe",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -113,6 +115,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-97.741659,30.286604,-97.741659,30.286604],
+  "bbox": [
+    -97.741659,
+    30.286604,
+    -97.741659,
+    30.286604
+],
   "geometry": {"coordinates":[-97.741659,30.286604],"type":"Point"}
 }

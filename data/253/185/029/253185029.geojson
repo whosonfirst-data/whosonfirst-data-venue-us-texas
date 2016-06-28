@@ -2,13 +2,14 @@
   "id": 253185029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.991897,30.660574,-96.991897,30.660574",
     "geom:latitude":30.660574,
     "geom:longitude":-96.991897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Houston St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253185029,
-    "wof:lastmodified":1449063299,
+    "wof:lastmodified":1467084962,
     "wof:name":"El Buen Pastor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.991897,30.660574,-96.991897,30.660574],
-  "geometry": {"coordinates":[-96.991897,30.660574],"type":"Point"}
+  "bbox": [
+    -96.991897,
+    30.660574,
+    -96.991897,
+    30.660574
+],
+  "geometry": {"coordinates":[-96.99189699999999,30.660574],"type":"Point"}
 }

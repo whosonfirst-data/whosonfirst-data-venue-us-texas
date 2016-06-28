@@ -2,13 +2,14 @@
   "id": 203232037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.626449,33.141613,-95.626449,33.141613",
     "geom:latitude":33.141613,
     "geom:longitude":-95.626449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Houston St",
     "sg:city":"Sulphur Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203232037,
-    "wof:lastmodified":1449025532,
+    "wof:lastmodified":1467084396,
     "wof:name":"Joe Bob's Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.626449,33.141613,-95.626449,33.141613],
-  "geometry": {"coordinates":[-95.626449,33.141613],"type":"Point"}
+  "bbox": [
+    -95.626449,
+    33.141613,
+    -95.626449,
+    33.141613
+],
+  "geometry": {"coordinates":[-95.62644899999999,33.141613],"type":"Point"}
 }

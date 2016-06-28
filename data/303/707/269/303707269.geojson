@@ -2,13 +2,14 @@
   "id": 303707269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.709043,30.322016,-97.709043,30.322016",
     "geom:latitude":30.322016,
     "geom:longitude":-97.709043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 E Koenig Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303707269,
-    "wof:lastmodified":1449000176,
+    "wof:lastmodified":1467083793,
     "wof:name":"Kerrville Bus Co.",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-97.709043,30.322016,-97.709043,30.322016],
-  "geometry": {"coordinates":[-97.709043,30.322016],"type":"Point"}
+  "bbox": [
+    -97.709043,
+    30.322016,
+    -97.709043,
+    30.322016
+],
+  "geometry": {"coordinates":[-97.70904299999999,30.322016],"type":"Point"}
 }

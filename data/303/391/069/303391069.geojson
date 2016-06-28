@@ -2,13 +2,14 @@
   "id": 303391069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725765,30.281091,-97.725765,30.281091",
     "geom:latitude":30.281091,
     "geom:longitude":-97.725765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Comal St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303391069,
-    "wof:lastmodified":1448999682,
+    "wof:lastmodified":1467083770,
     "wof:name":"University of Texas At Austin",
     "wof:parent_id":85893499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-97.725765,30.281091,-97.725765,30.281091],
+  "bbox": [
+    -97.725765,
+    30.281091,
+    -97.725765,
+    30.281091
+],
   "geometry": {"coordinates":[-97.725765,30.281091],"type":"Point"}
 }

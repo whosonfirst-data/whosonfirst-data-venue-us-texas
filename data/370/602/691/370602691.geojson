@@ -2,13 +2,14 @@
   "id": 370602691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.787049,32.833416,-96.787049,32.833416",
     "geom:latitude":32.833416,
     "geom:longitude":-96.787049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Cornell Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370602691,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1467084509,
     "wof:name":"Rosehill",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.787049,32.833416,-96.787049,32.833416],
+  "bbox": [
+    -96.787049,
+    32.833416,
+    -96.787049,
+    32.833416
+],
   "geometry": {"coordinates":[-96.787049,32.833416],"type":"Point"}
 }

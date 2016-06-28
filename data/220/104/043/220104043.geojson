@@ -2,13 +2,14 @@
   "id": 220104043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.001526,32.723351,-97.001526,32.723351",
     "geom:latitude":32.723351,
     "geom:longitude":-97.001526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 SE 4th St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220104043,
-    "wof:lastmodified":1449074366,
+    "wof:lastmodified":1467085184,
     "wof:name":"Always On Go Errand Service",
     "wof:parent_id":85877851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-97.001526,32.723351,-97.001526,32.723351],
+  "bbox": [
+    -97.001526,
+    32.723351,
+    -97.001526,
+    32.723351
+],
   "geometry": {"coordinates":[-97.001526,32.723351],"type":"Point"}
 }

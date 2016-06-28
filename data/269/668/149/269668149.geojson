@@ -2,13 +2,14 @@
   "id": 269668149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456787,30.973009,-97.456787,30.973009",
     "geom:latitude":30.973009,
     "geom:longitude":-97.456787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3298 Elmer King Rd",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269668149,
-    "wof:lastmodified":1449037791,
+    "wof:lastmodified":1467084618,
     "wof:name":"Wooley S Painting",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.456787,30.973009,-97.456787,30.973009],
-  "geometry": {"coordinates":[-97.456787,30.973009],"type":"Point"}
+  "bbox": [
+    -97.456787,
+    30.973009,
+    -97.456787,
+    30.973009
+],
+  "geometry": {"coordinates":[-97.45678700000001,30.973009],"type":"Point"}
 }

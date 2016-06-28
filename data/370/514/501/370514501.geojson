@@ -2,13 +2,14 @@
   "id": 370514501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.744509,32.497827,-94.744509,32.497827",
     "geom:latitude":32.497827,
     "geom:longitude":-94.744509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W Methvin St",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370514501,
-    "wof:lastmodified":1449030783,
+    "wof:lastmodified":1467084512,
     "wof:name":"CBS 19",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-94.744509,32.497827,-94.744509,32.497827],
-  "geometry": {"coordinates":[-94.744509,32.497827],"type":"Point"}
+  "bbox": [
+    -94.744509,
+    32.497827,
+    -94.744509,
+    32.497827
+],
+  "geometry": {"coordinates":[-94.74450899999999,32.497827],"type":"Point"}
 }

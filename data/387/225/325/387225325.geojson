@@ -2,13 +2,14 @@
   "id": 387225325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768786,32.507114,-94.768786,32.507114",
     "geom:latitude":32.507114,
     "geom:longitude":-94.768786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Gilmer Rd",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387225325,
-    "wof:lastmodified":1449057283,
+    "wof:lastmodified":1467084814,
     "wof:name":"Perry Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-94.768786,32.507114,-94.768786,32.507114],
-  "geometry": {"coordinates":[-94.768786,32.507114],"type":"Point"}
+  "bbox": [
+    -94.768786,
+    32.507114,
+    -94.768786,
+    32.507114
+],
+  "geometry": {"coordinates":[-94.76878600000001,32.507114],"type":"Point"}
 }

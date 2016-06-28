@@ -2,13 +2,14 @@
   "id": 186376081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.926291,33.522407,-101.926291,33.522407",
     "geom:latitude":33.522407,
     "geom:longitude":-101.926291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 79th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186376081,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1467084711,
     "wof:name":"Southwest Lubbock Fire Sta 12",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.926291,33.522407,-101.926291,33.522407],
-  "geometry": {"coordinates":[-101.926291,33.522407],"type":"Point"}
+  "bbox": [
+    -101.926291,
+    33.522407,
+    -101.926291,
+    33.522407
+],
+  "geometry": {"coordinates":[-101.92629100000001,33.522407],"type":"Point"}
 }

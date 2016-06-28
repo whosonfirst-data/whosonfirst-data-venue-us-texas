@@ -2,13 +2,14 @@
   "id": 219861551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408222,29.539024,-98.408222,29.539024",
     "geom:latitude":29.539024,
     "geom:longitude":-98.408222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4351 Eagle Nest Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219861551,
-    "wof:lastmodified":1449073887,
+    "wof:lastmodified":1467085173,
     "wof:name":"Grape Menagerie",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.408222,29.539024,-98.408222,29.539024],
-  "geometry": {"coordinates":[-98.408222,29.539024],"type":"Point"}
+  "bbox": [
+    -98.408222,
+    29.539024,
+    -98.408222,
+    29.539024
+],
+  "geometry": {"coordinates":[-98.40822199999999,29.539024],"type":"Point"}
 }

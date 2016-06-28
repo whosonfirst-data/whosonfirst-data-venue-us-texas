@@ -2,13 +2,14 @@
   "id": 303140131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.555227,30.601911,-97.555227,30.601911",
     "geom:latitude":30.601911,
     "geom:longitude":-97.555227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 County Road 128",
     "sg:city":"Hutto",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303140131,
-    "wof:lastmodified":1448998472,
+    "wof:lastmodified":1467083709,
     "wof:name":"Waste Management Williamson County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dump"
     ]
 },
-  "bbox": [-97.555227,30.601911,-97.555227,30.601911],
+  "bbox": [
+    -97.555227,
+    30.601911,
+    -97.555227,
+    30.601911
+],
   "geometry": {"coordinates":[-97.555227,30.601911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219315901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255077,32.87387,-97.255077,32.87387",
     "geom:latitude":32.87387,
     "geom:longitude":-97.255077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Whitley Rd",
     "sg:city":"Watauga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219315901,
-    "wof:lastmodified":1449073725,
+    "wof:lastmodified":1467085170,
     "wof:name":"Watauga City Water Dept",
     "wof:parent_id":85871627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-97.255077,32.87387,-97.255077,32.87387],
+  "bbox": [
+    -97.255077,
+    32.87387,
+    -97.255077,
+    32.87387
+],
   "geometry": {"coordinates":[-97.255077,32.87387],"type":"Point"}
 }

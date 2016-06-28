@@ -2,13 +2,14 @@
   "id": 370920745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.974807,26.084122,-97.974807,26.084122",
     "geom:latitude":26.084122,
     "geom:longitude":-97.974807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Santiago Galvan Rd",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370920745,
-    "wof:lastmodified":1449031719,
+    "wof:lastmodified":1467084535,
     "wof:name":"Galvan Transmission Svc",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.974807,26.084122,-97.974807,26.084122],
+  "bbox": [
+    -97.974807,
+    26.084122,
+    -97.974807,
+    26.084122
+],
   "geometry": {"coordinates":[-97.974807,26.084122],"type":"Point"}
 }

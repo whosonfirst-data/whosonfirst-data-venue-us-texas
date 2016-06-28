@@ -2,13 +2,14 @@
   "id": 303352201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750677,30.290014,-97.750677,30.290014",
     "geom:latitude":30.290014,
     "geom:longitude":-97.750677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Longview St Ste 412",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303352201,
-    "wof:lastmodified":1448999623,
+    "wof:lastmodified":1467083767,
     "wof:name":"Rolling Hills Yoga",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.750677,30.290014,-97.750677,30.290014],
+  "bbox": [
+    -97.750677,
+    30.290014,
+    -97.750677,
+    30.290014
+],
   "geometry": {"coordinates":[-97.750677,30.290014],"type":"Point"}
 }

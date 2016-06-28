@@ -2,13 +2,14 @@
   "id": 387054975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.688392,30.474506,-97.688392,30.474506",
     "geom:latitude":30.474506,
     "geom:longitude":-97.688392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16297 FM 1325",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387054975,
-    "wof:lastmodified":1449057897,
+    "wof:lastmodified":1467084830,
     "wof:name":"Instinet",
     "wof:parent_id":85893911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.688392,30.474506,-97.688392,30.474506],
-  "geometry": {"coordinates":[-97.688392,30.474506],"type":"Point"}
+  "bbox": [
+    -97.688392,
+    30.474506,
+    -97.688392,
+    30.474506
+],
+  "geometry": {"coordinates":[-97.68839199999999,30.474506],"type":"Point"}
 }

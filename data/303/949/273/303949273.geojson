@@ -2,13 +2,14 @@
   "id": 303949273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.910957,35.208939,-101.910957,35.208939",
     "geom:latitude":35.208939,
     "geom:longitude":-101.910957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6819 PLUM CREEK DR",
     "sg:city":"AMARILLO",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303949273,
-    "wof:lastmodified":1448999635,
+    "wof:lastmodified":1467083768,
     "wof:name":"Physicians Surgical Hospitals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgery"
     ]
 },
-  "bbox": [-101.910957,35.208939,-101.910957,35.208939],
+  "bbox": [
+    -101.910957,
+    35.208939,
+    -101.910957,
+    35.208939
+],
   "geometry": {"coordinates":[-101.910957,35.208939],"type":"Point"}
 }

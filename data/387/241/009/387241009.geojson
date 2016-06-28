@@ -2,13 +2,14 @@
   "id": 387241009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76615,30.318867,-97.76615,30.318867",
     "geom:latitude":30.318867,
     "geom:longitude":-97.76615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 Balcones Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387241009,
-    "wof:lastmodified":1449059821,
+    "wof:lastmodified":1467084880,
     "wof:name":"SWH Engineering",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.76615,30.318867,-97.76615,30.318867],
+  "bbox": [
+    -97.76615,
+    30.318867,
+    -97.76615,
+    30.318867
+],
   "geometry": {"coordinates":[-97.76615,30.318867],"type":"Point"}
 }

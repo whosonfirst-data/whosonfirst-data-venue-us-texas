@@ -2,13 +2,14 @@
   "id": 252727323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.888551,32.737666,-96.888551,32.737666",
     "geom:latitude":32.737666,
     "geom:longitude":-96.888551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 W Jefferson Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":252727323,
-    "wof:lastmodified":1449005569,
+    "wof:lastmodified":1467084057,
     "wof:name":"Tacos Sarandeados Juanito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.888551,32.737666,-96.888551,32.737666],
-  "geometry": {"coordinates":[-96.888551,32.737666],"type":"Point"}
+  "bbox": [
+    -96.888551,
+    32.737666,
+    -96.888551,
+    32.737666
+],
+  "geometry": {"coordinates":[-96.88855100000001,32.737666],"type":"Point"}
 }

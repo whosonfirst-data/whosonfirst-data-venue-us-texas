@@ -2,13 +2,14 @@
   "id": 370940233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.859319,32.679076,-96.859319,32.679076",
     "geom:latitude":32.679076,
     "geom:longitude":-96.859319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5689 Apollo Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370940233,
-    "wof:lastmodified":1449029922,
+    "wof:lastmodified":1467084490,
     "wof:name":"Airport Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ground"
     ]
 },
-  "bbox": [-96.859319,32.679076,-96.859319,32.679076],
+  "bbox": [
+    -96.859319,
+    32.679076,
+    -96.859319,
+    32.679076
+],
   "geometry": {"coordinates":[-96.859319,32.679076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236907161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774668,32.844704,-96.774668,32.844704",
     "geom:latitude":32.844704,
     "geom:longitude":-96.774668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Fondren Ste 117",
     "sg:city":"University Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236907161,
-    "wof:lastmodified":1449004949,
+    "wof:lastmodified":1467084025,
     "wof:name":"Exposure Originals",
     "wof:parent_id":85870385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.774668,32.844704,-96.774668,32.844704],
-  "geometry": {"coordinates":[-96.774668,32.844704],"type":"Point"}
+  "bbox": [
+    -96.774668,
+    32.844704,
+    -96.774668,
+    32.844704
+],
+  "geometry": {"coordinates":[-96.77466800000001,32.844704],"type":"Point"}
 }

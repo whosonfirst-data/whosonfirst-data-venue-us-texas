@@ -2,13 +2,14 @@
   "id": 387054489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145013,30.117596,-94.145013,30.117596",
     "geom:latitude":30.117596,
     "geom:longitude":-94.145013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4048 Eastex Fwy",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387054489,
-    "wof:lastmodified":1449057894,
+    "wof:lastmodified":1467084830,
     "wof:name":"USA Mobility Inc",
     "wof:parent_id":85841735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-94.145013,30.117596,-94.145013,30.117596],
-  "geometry": {"coordinates":[-94.145013,30.117596],"type":"Point"}
+  "bbox": [
+    -94.145013,
+    30.117596,
+    -94.145013,
+    30.117596
+],
+  "geometry": {"coordinates":[-94.14501300000001,30.117596],"type":"Point"}
 }

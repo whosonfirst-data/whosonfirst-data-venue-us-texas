@@ -2,13 +2,14 @@
   "id": 370454601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528028,31.825357,-106.528028,31.825357",
     "geom:latitude":31.825357,
     "geom:longitude":-106.528028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Crestmont Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370454601,
-    "wof:lastmodified":1449032154,
+    "wof:lastmodified":1467084546,
     "wof:name":"West Texas Discovery Serv",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-106.528028,31.825357,-106.528028,31.825357],
-  "geometry": {"coordinates":[-106.528028,31.825357],"type":"Point"}
+  "bbox": [
+    -106.528028,
+    31.825357,
+    -106.528028,
+    31.825357
+],
+  "geometry": {"coordinates":[-106.52802800000001,31.825357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253537845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.199306,32.242834,-95.199306,32.242834",
     "geom:latitude":32.242834,
     "geom:longitude":-95.199306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16265 Carole Dr",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253537845,
-    "wof:lastmodified":1449063535,
+    "wof:lastmodified":1467084970,
     "wof:name":"Kenneth Clark",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.199306,32.242834,-95.199306,32.242834],
-  "geometry": {"coordinates":[-95.199306,32.242834],"type":"Point"}
+  "bbox": [
+    -95.199306,
+    32.242834,
+    -95.199306,
+    32.242834
+],
+  "geometry": {"coordinates":[-95.19930600000001,32.242834],"type":"Point"}
 }

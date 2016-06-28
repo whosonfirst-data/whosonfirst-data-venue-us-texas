@@ -2,13 +2,14 @@
   "id": 304056133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.783707,32.407748,-99.783707,32.407748",
     "geom:latitude":32.407748,
     "geom:longitude":-99.783707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4590 Southwest Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":304056133,
-    "wof:lastmodified":1449043721,
+    "wof:lastmodified":1467084663,
     "wof:name":"The Home Depot",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "improvement"
     ]
 },
-  "bbox": [-99.783707,32.407748,-99.783707,32.407748],
-  "geometry": {"coordinates":[-99.783707,32.407748],"type":"Point"}
+  "bbox": [
+    -99.783707,
+    32.407748,
+    -99.783707,
+    32.407748
+],
+  "geometry": {"coordinates":[-99.78370700000001,32.407748],"type":"Point"}
 }

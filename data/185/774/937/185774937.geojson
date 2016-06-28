@@ -2,13 +2,14 @@
   "id": 185774937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.277555,29.771407,-95.277555,29.771407",
     "geom:latitude":29.771407,
     "geom:longitude":-95.277555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8451 Market Street Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185774937,
-    "wof:lastmodified":1449007241,
+    "wof:lastmodified":1467084122,
     "wof:name":"C B E",
     "wof:parent_id":85869591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-95.277555,29.771407,-95.277555,29.771407],
-  "geometry": {"coordinates":[-95.277555,29.771407],"type":"Point"}
+  "bbox": [
+    -95.277555,
+    29.771407,
+    -95.277555,
+    29.771407
+],
+  "geometry": {"coordinates":[-95.27755500000001,29.771407],"type":"Point"}
 }

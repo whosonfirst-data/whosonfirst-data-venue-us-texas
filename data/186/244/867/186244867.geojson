@@ -2,13 +2,14 @@
   "id": 186244867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.461841,31.055055,-97.461841,31.055055",
     "geom:latitude":31.055055,
     "geom:longitude":-97.461841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Water St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186244867,
-    "wof:lastmodified":1449051435,
+    "wof:lastmodified":1467084714,
     "wof:name":"Development Svcs",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.461841,31.055055,-97.461841,31.055055],
-  "geometry": {"coordinates":[-97.461841,31.055055],"type":"Point"}
+  "bbox": [
+    -97.461841,
+    31.055055,
+    -97.461841,
+    31.055055
+],
+  "geometry": {"coordinates":[-97.46184100000001,31.055055],"type":"Point"}
 }

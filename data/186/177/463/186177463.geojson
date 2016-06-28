@@ -2,13 +2,14 @@
   "id": 186177463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.638368,32.345804,-99.638368,32.345804",
     "geom:latitude":32.345804,
     "geom:longitude":-99.638368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E State Hwy 36",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186177463,
-    "wof:lastmodified":1449053026,
+    "wof:lastmodified":1467084747,
     "wof:name":"Van Meter Concession Co",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concessionaire"
     ]
 },
-  "bbox": [-99.638368,32.345804,-99.638368,32.345804],
+  "bbox": [
+    -99.638368,
+    32.345804,
+    -99.638368,
+    32.345804
+],
   "geometry": {"coordinates":[-99.638368,32.345804],"type":"Point"}
 }

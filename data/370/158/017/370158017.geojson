@@ -2,13 +2,14 @@
   "id": 370158017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.240079,32.794696,-97.240079,32.794696",
     "geom:latitude":32.794696,
     "geom:longitude":-97.240079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6559 Midway Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370158017,
-    "wof:lastmodified":1449031334,
+    "wof:lastmodified":1467084525,
     "wof:name":"ATS Drilling Inc",
     "wof:parent_id":85871659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-97.240079,32.794696,-97.240079,32.794696],
-  "geometry": {"coordinates":[-97.240079,32.794696],"type":"Point"}
+  "bbox": [
+    -97.240079,
+    32.794696,
+    -97.240079,
+    32.794696
+],
+  "geometry": {"coordinates":[-97.24007899999999,32.794696],"type":"Point"}
 }

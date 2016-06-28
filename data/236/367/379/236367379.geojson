@@ -2,13 +2,14 @@
   "id": 236367379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759968,30.217732,-97.759968,30.217732",
     "geom:latitude":30.217732,
     "geom:longitude":-97.759968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Industrial Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236367379,
-    "wof:lastmodified":1449003628,
+    "wof:lastmodified":1467083962,
     "wof:name":"Applied Tool",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.759968,30.217732,-97.759968,30.217732],
+  "bbox": [
+    -97.759968,
+    30.217732,
+    -97.759968,
+    30.217732
+],
   "geometry": {"coordinates":[-97.759968,30.217732],"type":"Point"}
 }

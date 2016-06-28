@@ -2,13 +2,14 @@
   "id": 203312383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.522664,32.267853,-95.522664,32.267853",
     "geom:latitude":32.267853,
     "geom:longitude":-95.522664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19651 Co Rd 3403",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203312383,
-    "wof:lastmodified":1449025884,
+    "wof:lastmodified":1467084402,
     "wof:name":"Master Blaster",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.522664,32.267853,-95.522664,32.267853],
-  "geometry": {"coordinates":[-95.522664,32.267853],"type":"Point"}
+  "bbox": [
+    -95.522664,
+    32.267853,
+    -95.522664,
+    32.267853
+],
+  "geometry": {"coordinates":[-95.52266400000001,32.267853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387858727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.42324,31.775002,-106.42324,31.775002",
     "geom:latitude":31.775002,
     "geom:longitude":-106.42324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 E Paisano Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387858727,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467084794,
     "wof:name":"El Paso Collision Ctr",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.42324,31.775002,-106.42324,31.775002],
-  "geometry": {"coordinates":[-106.42324,31.775002],"type":"Point"}
+  "bbox": [
+    -106.42324,
+    31.775002,
+    -106.42324,
+    31.775002
+],
+  "geometry": {"coordinates":[-106.42324000000001,31.775002],"type":"Point"}
 }

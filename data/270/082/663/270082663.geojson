@@ -2,13 +2,14 @@
   "id": 270082663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.495151,29.777784,-95.495151,29.777784",
     "geom:latitude":29.777784,
     "geom:longitude":-95.495151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Town & Country Ln #10-127 City Centre",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270082663,
-    "wof:lastmodified":1449008731,
+    "wof:lastmodified":1467084153,
     "wof:name":"Anthropologie",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-95.495151,29.777784,-95.495151,29.777784],
-  "geometry": {"coordinates":[-95.495151,29.777784],"type":"Point"}
+  "bbox": [
+    -95.495151,
+    29.777784,
+    -95.495151,
+    29.777784
+],
+  "geometry": {"coordinates":[-95.49515100000001,29.777784],"type":"Point"}
 }

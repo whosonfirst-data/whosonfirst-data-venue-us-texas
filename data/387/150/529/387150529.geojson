@@ -2,13 +2,14 @@
   "id": 387150529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650781,29.139829,-95.650781,29.139829",
     "geom:latitude":29.139829,
     "geom:longitude":-95.650781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 S 17th St",
     "sg:city":"West Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387150529,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1467084786,
     "wof:name":"Nova",
     "wof:parent_id":85829137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.650781,29.139829,-95.650781,29.139829],
-  "geometry": {"coordinates":[-95.650781,29.139829],"type":"Point"}
+  "bbox": [
+    -95.650781,
+    29.139829,
+    -95.650781,
+    29.139829
+],
+  "geometry": {"coordinates":[-95.65078099999999,29.139829],"type":"Point"}
 }

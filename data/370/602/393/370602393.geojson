@@ -2,13 +2,14 @@
   "id": 370602393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.404118,29.770367,-95.404118,29.770367",
     "geom:latitude":29.770367,
     "geom:longitude":-95.404118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 Washington Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370602393,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1467084509,
     "wof:name":"Musical Bar",
     "wof:parent_id":85869763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.404118,29.770367,-95.404118,29.770367],
+  "bbox": [
+    -95.404118,
+    29.770367,
+    -95.404118,
+    29.770367
+],
   "geometry": {"coordinates":[-95.404118,29.770367],"type":"Point"}
 }

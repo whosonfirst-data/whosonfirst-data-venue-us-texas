@@ -2,13 +2,14 @@
   "id": 236505425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.529455,29.544797,-98.529455,29.544797",
     "geom:latitude":29.544797,
     "geom:longitude":-98.529455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2318 NW Military Hwy",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236505425,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1467084008,
     "wof:name":"LTC Inc Answering Svc",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "answering"
     ]
 },
-  "bbox": [-98.529455,29.544797,-98.529455,29.544797],
+  "bbox": [
+    -98.529455,
+    29.544797,
+    -98.529455,
+    29.544797
+],
   "geometry": {"coordinates":[-98.529455,29.544797],"type":"Point"}
 }

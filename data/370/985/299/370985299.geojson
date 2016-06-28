@@ -2,13 +2,14 @@
   "id": 370985299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504305,27.531666,-99.504305,27.531666",
     "geom:latitude":27.531666,
     "geom:longitude":-99.504305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3519 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370985299,
-    "wof:lastmodified":1449030761,
+    "wof:lastmodified":1467084511,
     "wof:name":"Mexican Trade Ctr",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-99.504305,27.531666,-99.504305,27.531666],
+  "bbox": [
+    -99.504305,
+    27.531666,
+    -99.504305,
+    27.531666
+],
   "geometry": {"coordinates":[-99.504305,27.531666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371032157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.56449,29.566101,-95.56449,29.566101",
     "geom:latitude":29.566101,
     "geom:longitude":-95.56449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3807 FM 1092",
     "sg:city":"Missouri City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371032157,
-    "wof:lastmodified":1449049526,
+    "wof:lastmodified":1467084679,
     "wof:name":"Dunegan Clinic",
     "wof:parent_id":85893859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.56449,29.566101,-95.56449,29.566101],
-  "geometry": {"coordinates":[-95.56449,29.566101],"type":"Point"}
+  "bbox": [
+    -95.56449,
+    29.566101,
+    -95.56449,
+    29.566101
+],
+  "geometry": {"coordinates":[-95.56449000000001,29.566101],"type":"Point"}
 }

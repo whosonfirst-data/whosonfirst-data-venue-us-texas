@@ -2,13 +2,14 @@
   "id": 353736925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.65253,32.746631,-96.65253,32.746631",
     "geom:latitude":32.746631,
     "geom:longitude":-96.65253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Red Cloud Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353736925,
-    "wof:lastmodified":1449020746,
+    "wof:lastmodified":1467084375,
     "wof:name":"Delcon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.65253,32.746631,-96.65253,32.746631],
+  "bbox": [
+    -96.65253,
+    32.746631,
+    -96.65253,
+    32.746631
+],
   "geometry": {"coordinates":[-96.65253,32.746631],"type":"Point"}
 }

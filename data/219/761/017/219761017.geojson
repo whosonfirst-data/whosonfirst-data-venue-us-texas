@@ -2,13 +2,14 @@
   "id": 219761017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.716546,31.195791,-98.716546,31.195791",
     "geom:latitude":31.195791,
     "geom:longitude":-98.716546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Wallace St",
     "sg:city":"San Saba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219761017,
-    "wof:lastmodified":1449073090,
+    "wof:lastmodified":1467085157,
     "wof:name":"San Saba County EMS Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.716546,31.195791,-98.716546,31.195791],
-  "geometry": {"coordinates":[-98.716546,31.195791],"type":"Point"}
+  "bbox": [
+    -98.716546,
+    31.195791,
+    -98.716546,
+    31.195791
+],
+  "geometry": {"coordinates":[-98.71654599999999,31.195791],"type":"Point"}
 }

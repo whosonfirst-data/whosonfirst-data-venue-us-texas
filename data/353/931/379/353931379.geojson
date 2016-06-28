@@ -2,13 +2,14 @@
   "id": 353931379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.531472,33.662709,-95.531472,33.662709",
     "geom:latitude":33.662709,
     "geom:longitude":-95.531472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 E Price St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353931379,
-    "wof:lastmodified":1449020578,
+    "wof:lastmodified":1467084371,
     "wof:name":"Target Media",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "card"
     ]
 },
-  "bbox": [-95.531472,33.662709,-95.531472,33.662709],
-  "geometry": {"coordinates":[-95.531472,33.662709],"type":"Point"}
+  "bbox": [
+    -95.531472,
+    33.662709,
+    -95.531472,
+    33.662709
+],
+  "geometry": {"coordinates":[-95.53147199999999,33.662709],"type":"Point"}
 }

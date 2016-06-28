@@ -2,13 +2,14 @@
   "id": 353581133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.658848,32.702255,-96.658848,32.702255",
     "geom:latitude":32.702255,
     "geom:longitude":-96.658848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9531 C F Hawn Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353581133,
-    "wof:lastmodified":1449018800,
+    "wof:lastmodified":1467084333,
     "wof:name":"St Augustine & Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inspection"
     ]
 },
-  "bbox": [-96.658848,32.702255,-96.658848,32.702255],
-  "geometry": {"coordinates":[-96.658848,32.702255],"type":"Point"}
+  "bbox": [
+    -96.658848,
+    32.702255,
+    -96.658848,
+    32.702255
+],
+  "geometry": {"coordinates":[-96.65884800000001,32.702255],"type":"Point"}
 }

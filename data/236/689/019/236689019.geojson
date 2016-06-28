@@ -2,13 +2,14 @@
   "id": 236689019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.480551,29.712335,-95.480551,29.712335",
     "geom:latitude":29.712335,
     "geom:longitude":-95.480551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Alder Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236689019,
-    "wof:lastmodified":1449004580,
+    "wof:lastmodified":1467084007,
     "wof:name":"E & C Dewalt",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.480551,29.712335,-95.480551,29.712335],
-  "geometry": {"coordinates":[-95.480551,29.712335],"type":"Point"}
+  "bbox": [
+    -95.480551,
+    29.712335,
+    -95.480551,
+    29.712335
+],
+  "geometry": {"coordinates":[-95.48055100000001,29.712335],"type":"Point"}
 }

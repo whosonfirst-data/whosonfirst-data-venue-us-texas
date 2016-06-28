@@ -2,13 +2,14 @@
   "id": 202807081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.096835,32.738892,-97.096835,32.738892",
     "geom:latitude":32.738892,
     "geom:longitude":-97.096835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Division St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202807081,
-    "wof:lastmodified":1449060763,
+    "wof:lastmodified":1467084902,
     "wof:name":"Fiesta Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motor"
     ]
 },
-  "bbox": [-97.096835,32.738892,-97.096835,32.738892],
+  "bbox": [
+    -97.096835,
+    32.738892,
+    -97.096835,
+    32.738892
+],
   "geometry": {"coordinates":[-97.096835,32.738892],"type":"Point"}
 }

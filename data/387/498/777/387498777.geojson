@@ -2,13 +2,14 @@
   "id": 387498777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746086,30.307674,-97.746086,30.307674",
     "geom:latitude":30.307674,
     "geom:longitude":-97.746086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Tonkawa Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387498777,
-    "wof:lastmodified":1449058988,
+    "wof:lastmodified":1467084858,
     "wof:name":"Hills Flintrock Falls",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.746086,30.307674,-97.746086,30.307674],
-  "geometry": {"coordinates":[-97.746086,30.307674],"type":"Point"}
+  "bbox": [
+    -97.746086,
+    30.307674,
+    -97.746086,
+    30.307674
+],
+  "geometry": {"coordinates":[-97.74608600000001,30.307674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303935925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.826079,35.245127,-101.826079,35.245127",
     "geom:latitude":35.245127,
     "geom:longitude":-101.826079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Oak Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303935925,
-    "wof:lastmodified":1449000123,
+    "wof:lastmodified":1467083791,
     "wof:name":"Ford's Limousine Svc",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "event"
     ]
 },
-  "bbox": [-101.826079,35.245127,-101.826079,35.245127],
-  "geometry": {"coordinates":[-101.826079,35.245127],"type":"Point"}
+  "bbox": [
+    -101.826079,
+    35.245127,
+    -101.826079,
+    35.245127
+],
+  "geometry": {"coordinates":[-101.82607899999999,35.245127],"type":"Point"}
 }

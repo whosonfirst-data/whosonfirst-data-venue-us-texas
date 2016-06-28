@@ -2,13 +2,14 @@
   "id": 253265579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509605,29.512387,-98.509605,29.512387",
     "geom:latitude":29.512387,
     "geom:longitude":-98.509605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cas Hills Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253265579,
-    "wof:lastmodified":1449063827,
+    "wof:lastmodified":1467084979,
     "wof:name":"Carver Communications",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publication"
     ]
 },
-  "bbox": [-98.509605,29.512387,-98.509605,29.512387],
-  "geometry": {"coordinates":[-98.509605,29.512387],"type":"Point"}
+  "bbox": [
+    -98.509605,
+    29.512387,
+    -98.509605,
+    29.512387
+],
+  "geometry": {"coordinates":[-98.50960499999999,29.512387],"type":"Point"}
 }

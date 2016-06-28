@@ -2,13 +2,14 @@
   "id": 203040785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.543077,29.543621,-98.543077,29.543621",
     "geom:latitude":29.543621,
     "geom:longitude":-98.543077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11226 Whisper Springs St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203040785,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1467084420,
     "wof:name":"St Luke Order Of",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.543077,29.543621,-98.543077,29.543621],
+  "bbox": [
+    -98.543077,
+    29.543621,
+    -98.543077,
+    29.543621
+],
   "geometry": {"coordinates":[-98.543077,29.543621],"type":"Point"}
 }

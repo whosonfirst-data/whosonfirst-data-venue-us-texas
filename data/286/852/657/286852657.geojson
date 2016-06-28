@@ -2,13 +2,14 @@
   "id": 286852657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.00387,30.018174,-95.00387,30.018174",
     "geom:latitude":30.018174,
     "geom:longitude":-95.00387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Private Road 6114",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286852657,
-    "wof:lastmodified":1449017613,
+    "wof:lastmodified":1467084304,
     "wof:name":"Harlan Colvin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "timber"
     ]
 },
-  "bbox": [-95.00387,30.018174,-95.00387,30.018174],
-  "geometry": {"coordinates":[-95.00387,30.018174],"type":"Point"}
+  "bbox": [
+    -95.00387,
+    30.018174,
+    -95.00387,
+    30.018174
+],
+  "geometry": {"coordinates":[-95.00387000000001,30.018174],"type":"Point"}
 }

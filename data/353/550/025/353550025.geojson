@@ -2,13 +2,14 @@
   "id": 353550025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371355,29.719938,-95.371355,29.719938",
     "geom:latitude":29.719938,
     "geom:longitude":-95.371355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5107 Delano St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353550025,
-    "wof:lastmodified":1449019643,
+    "wof:lastmodified":1467084351,
     "wof:name":"Jean's Building Svc",
     "wof:parent_id":85869257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.371355,29.719938,-95.371355,29.719938],
-  "geometry": {"coordinates":[-95.371355,29.719938],"type":"Point"}
+  "bbox": [
+    -95.371355,
+    29.719938,
+    -95.371355,
+    29.719938
+],
+  "geometry": {"coordinates":[-95.37135499999999,29.719938],"type":"Point"}
 }

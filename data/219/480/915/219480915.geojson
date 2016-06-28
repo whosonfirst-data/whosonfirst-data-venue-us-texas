@@ -2,13 +2,14 @@
   "id": 219480915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.271723,29.68984,-95.271723,29.68984",
     "geom:latitude":29.68984,
     "geom:longitude":-95.271723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8272 Park Place Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219480915,
-    "wof:lastmodified":1449071547,
+    "wof:lastmodified":1467085124,
     "wof:name":"Hair Beauty",
     "wof:parent_id":85840579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.271723,29.68984,-95.271723,29.68984],
-  "geometry": {"coordinates":[-95.271723,29.68984],"type":"Point"}
+  "bbox": [
+    -95.271723,
+    29.68984,
+    -95.271723,
+    29.68984
+],
+  "geometry": {"coordinates":[-95.27172299999999,29.68984],"type":"Point"}
 }

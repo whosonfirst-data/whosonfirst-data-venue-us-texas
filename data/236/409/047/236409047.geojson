@@ -2,13 +2,14 @@
   "id": 236409047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722557,33.15509,-96.722557,33.15509",
     "geom:latitude":33.15509,
     "geom:longitude":-96.722557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Rancho del Norte Trl",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236409047,
-    "wof:lastmodified":1449002923,
+    "wof:lastmodified":1467083929,
     "wof:name":"Thacker Sales Assoc",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.722557,33.15509,-96.722557,33.15509],
-  "geometry": {"coordinates":[-96.722557,33.15509],"type":"Point"}
+  "bbox": [
+    -96.722557,
+    33.15509,
+    -96.722557,
+    33.15509
+],
+  "geometry": {"coordinates":[-96.72255699999999,33.15509],"type":"Point"}
 }

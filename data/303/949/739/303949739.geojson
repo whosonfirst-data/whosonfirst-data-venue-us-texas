@@ -2,13 +2,14 @@
   "id": 303949739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.911324,35.212158,-101.911324,35.212158",
     "geom:latitude":35.212158,
     "geom:longitude":-101.911324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Quail Creek Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303949739,
-    "wof:lastmodified":1448999636,
+    "wof:lastmodified":1467083768,
     "wof:name":"Amarillo Dental Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-101.911324,35.212158,-101.911324,35.212158],
-  "geometry": {"coordinates":[-101.911324,35.212158],"type":"Point"}
+  "bbox": [
+    -101.911324,
+    35.212158,
+    -101.911324,
+    35.212158
+],
+  "geometry": {"coordinates":[-101.91132399999999,35.212158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387941981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412483,29.528376,-98.412483,29.528376",
     "geom:latitude":29.528376,
     "geom:longitude":-98.412483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 First View Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387941981,
-    "wof:lastmodified":1449058384,
+    "wof:lastmodified":1467084842,
     "wof:name":"Lord & Baker Assoc",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-98.412483,29.528376,-98.412483,29.528376],
-  "geometry": {"coordinates":[-98.412483,29.528376],"type":"Point"}
+  "bbox": [
+    -98.412483,
+    29.528376,
+    -98.412483,
+    29.528376
+],
+  "geometry": {"coordinates":[-98.41248299999999,29.528376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236818315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79153,32.782817,-96.79153,32.782817",
     "geom:latitude":32.782817,
     "geom:longitude":-96.79153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Elm Street Second Floor",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236818315,
-    "wof:lastmodified":1449003216,
+    "wof:lastmodified":1467083943,
     "wof:name":"Harvard Companies, Inc.",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.79153,32.782817,-96.79153,32.782817],
-  "geometry": {"coordinates":[-96.79153,32.782817],"type":"Point"}
+  "bbox": [
+    -96.79153,
+    32.782817,
+    -96.79153,
+    32.782817
+],
+  "geometry": {"coordinates":[-96.79152999999999,32.782817],"type":"Point"}
 }

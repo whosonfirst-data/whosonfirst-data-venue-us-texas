@@ -2,13 +2,14 @@
   "id": 253048085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.853561,32.815975,-96.853561,32.815975",
     "geom:latitude":32.815975,
     "geom:longitude":-96.853561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5702 Mesa Cir",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253048085,
-    "wof:lastmodified":1449063857,
+    "wof:lastmodified":1467084980,
     "wof:name":"Grays Retail & Resale",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-96.853561,32.815975,-96.853561,32.815975],
+  "bbox": [
+    -96.853561,
+    32.815975,
+    -96.853561,
+    32.815975
+],
   "geometry": {"coordinates":[-96.853561,32.815975],"type":"Point"}
 }

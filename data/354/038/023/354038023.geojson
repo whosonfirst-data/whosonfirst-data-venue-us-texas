@@ -2,13 +2,14 @@
   "id": 354038023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.411929,32.730091,-97.411929,32.730091",
     "geom:latitude":32.730091,
     "geom:longitude":-97.411929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5925 Camp Bowie Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354038023,
-    "wof:lastmodified":1449067065,
+    "wof:lastmodified":1467085079,
     "wof:name":"RLB Sales",
     "wof:parent_id":85857105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.411929,32.730091,-97.411929,32.730091],
+  "bbox": [
+    -97.411929,
+    32.730091,
+    -97.411929,
+    32.730091
+],
   "geometry": {"coordinates":[-97.411929,32.730091],"type":"Point"}
 }

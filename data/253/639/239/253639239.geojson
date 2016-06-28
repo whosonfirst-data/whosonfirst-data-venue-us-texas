@@ -2,13 +2,14 @@
   "id": 253639239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.201092,32.695213,-97.201092,32.695213",
     "geom:latitude":32.695213,
     "geom:longitude":-97.201092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 Amicable Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":253639239,
-    "wof:lastmodified":1449065789,
+    "wof:lastmodified":1467085047,
     "wof:name":"Bob Jordan",
     "wof:parent_id":85830685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "bond"
     ]
 },
-  "bbox": [-97.201092,32.695213,-97.201092,32.695213],
+  "bbox": [
+    -97.201092,
+    32.695213,
+    -97.201092,
+    32.695213
+],
   "geometry": {"coordinates":[-97.201092,32.695213],"type":"Point"}
 }

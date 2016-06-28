@@ -2,13 +2,14 @@
   "id": 353632843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.254585,26.253822,-98.254585,26.253822",
     "geom:latitude":26.253822,
     "geom:longitude":-98.254585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 N 38th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353632843,
-    "wof:lastmodified":1449019875,
+    "wof:lastmodified":1467084356,
     "wof:name":"A Mackey Starr Production",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-98.254585,26.253822,-98.254585,26.253822],
-  "geometry": {"coordinates":[-98.254585,26.253822],"type":"Point"}
+  "bbox": [
+    -98.254585,
+    26.253822,
+    -98.254585,
+    26.253822
+],
+  "geometry": {"coordinates":[-98.25458500000001,26.253822],"type":"Point"}
 }

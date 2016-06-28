@@ -2,13 +2,14 @@
   "id": 286883251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.801263,29.297745,-94.801263,29.297745",
     "geom:latitude":29.297745,
     "geom:longitude":-94.801263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 Broadway St",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":286883251,
-    "wof:lastmodified":1449017431,
+    "wof:lastmodified":1467084299,
     "wof:name":"Waterman Air Conditioning & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.801263,29.297745,-94.801263,29.297745],
-  "geometry": {"coordinates":[-94.801263,29.297745],"type":"Point"}
+  "bbox": [
+    -94.801263,
+    29.297745,
+    -94.801263,
+    29.297745
+],
+  "geometry": {"coordinates":[-94.80126300000001,29.297745],"type":"Point"}
 }

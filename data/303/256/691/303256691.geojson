@@ -2,13 +2,14 @@
   "id": 303256691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74563,30.267822,-97.74563,30.267822",
     "geom:latitude":30.267822,
     "geom:longitude":-97.74563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 B W 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303256691,
-    "wof:lastmodified":1448999979,
+    "wof:lastmodified":1467083784,
     "wof:name":"Beso Cantina",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "venue"
     ]
 },
-  "bbox": [-97.74563,30.267822,-97.74563,30.267822],
-  "geometry": {"coordinates":[-97.74563,30.267822],"type":"Point"}
+  "bbox": [
+    -97.74563,
+    30.267822,
+    -97.74563,
+    30.267822
+],
+  "geometry": {"coordinates":[-97.74563000000001,30.267822],"type":"Point"}
 }

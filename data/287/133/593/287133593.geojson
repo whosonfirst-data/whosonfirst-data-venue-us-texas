@@ -2,13 +2,14 @@
   "id": 287133593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504294,27.54236,-99.504294,27.54236",
     "geom:latitude":27.54236,
     "geom:longitude":-99.504294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4819 San Bernardo Ave Ste 5",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":287133593,
-    "wof:lastmodified":1449001407,
+    "wof:lastmodified":1467083843,
     "wof:name":"ARCOM Audio Video",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-99.504294,27.54236,-99.504294,27.54236],
+  "bbox": [
+    -99.504294,
+    27.54236,
+    -99.504294,
+    27.54236
+],
   "geometry": {"coordinates":[-99.504294,27.54236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303399059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707497,30.3155,-97.707497,30.3155",
     "geom:latitude":30.3155,
     "geom:longitude":-97.707497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 N I H 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303399059,
-    "wof:lastmodified":1448998548,
+    "wof:lastmodified":1467083712,
     "wof:name":"Target Stores",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.707497,30.3155,-97.707497,30.3155],
+  "bbox": [
+    -97.707497,
+    30.3155,
+    -97.707497,
+    30.3155
+],
   "geometry": {"coordinates":[-97.707497,30.3155],"type":"Point"}
 }

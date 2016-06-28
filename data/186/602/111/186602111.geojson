@@ -2,13 +2,14 @@
   "id": 186602111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.477303,31.772049,-106.477303,31.772049",
     "geom:latitude":31.772049,
     "geom:longitude":-106.477303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1529 E Yandell Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186602111,
-    "wof:lastmodified":1449051646,
+    "wof:lastmodified":1467084718,
     "wof:name":"Leo Gallegos",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.477303,31.772049,-106.477303,31.772049],
-  "geometry": {"coordinates":[-106.477303,31.772049],"type":"Point"}
+  "bbox": [
+    -106.477303,
+    31.772049,
+    -106.477303,
+    31.772049
+],
+  "geometry": {"coordinates":[-106.47730300000001,31.772049],"type":"Point"}
 }

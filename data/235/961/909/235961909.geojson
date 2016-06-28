@@ -2,13 +2,14 @@
   "id": 235961909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.65555,32.871252,-96.65555,32.871252",
     "geom:latitude":32.871252,
     "geom:longitude":-96.65555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Bardfield Ave",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235961909,
-    "wof:lastmodified":1449008599,
+    "wof:lastmodified":1467084148,
     "wof:name":"Perry Refrigeration Co",
     "wof:parent_id":85859461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.65555,32.871252,-96.65555,32.871252],
-  "geometry": {"coordinates":[-96.65555,32.871252],"type":"Point"}
+  "bbox": [
+    -96.65555,
+    32.871252,
+    -96.65555,
+    32.871252
+],
+  "geometry": {"coordinates":[-96.65555000000001,32.871252],"type":"Point"}
 }

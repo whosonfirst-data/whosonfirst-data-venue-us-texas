@@ -2,13 +2,14 @@
   "id": 235983641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.85577,32.938173,-96.85577,32.938173",
     "geom:latitude":32.938173,
     "geom:longitude":-96.85577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14232 Marsh Ln - 233",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":235983641,
-    "wof:lastmodified":1449008591,
+    "wof:lastmodified":1467084148,
     "wof:name":"Eagle Storage Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "handling"
     ]
 },
-  "bbox": [-96.85577,32.938173,-96.85577,32.938173],
-  "geometry": {"coordinates":[-96.85577,32.938173],"type":"Point"}
+  "bbox": [
+    -96.85577,
+    32.938173,
+    -96.85577,
+    32.938173
+],
+  "geometry": {"coordinates":[-96.85577000000001,32.938173],"type":"Point"}
 }

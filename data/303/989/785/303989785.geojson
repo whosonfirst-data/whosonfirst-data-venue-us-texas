@@ -2,13 +2,14 @@
   "id": 303989785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.836364,33.603981,-101.836364,33.603981",
     "geom:latitude":33.603981,
     "geom:longitude":-101.836364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Municipal Dr",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303989785,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1467083781,
     "wof:name":"Electric Distrubition",
     "wof:parent_id":85878785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-101.836364,33.603981,-101.836364,33.603981],
+  "bbox": [
+    -101.836364,
+    33.603981,
+    -101.836364,
+    33.603981
+],
   "geometry": {"coordinates":[-101.836364,33.603981],"type":"Point"}
 }

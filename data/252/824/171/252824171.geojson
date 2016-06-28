@@ -2,13 +2,14 @@
   "id": 252824171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.815041,32.811102,-96.815041,32.811102",
     "geom:latitude":32.811102,
     "geom:longitude":-96.815041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Hartford St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252824171,
-    "wof:lastmodified":1449005792,
+    "wof:lastmodified":1467084069,
     "wof:name":"Hartford Apartments",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.815041,32.811102,-96.815041,32.811102],
-  "geometry": {"coordinates":[-96.815041,32.811102],"type":"Point"}
+  "bbox": [
+    -96.815041,
+    32.811102,
+    -96.815041,
+    32.811102
+],
+  "geometry": {"coordinates":[-96.81504099999999,32.811102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270144579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.234935,29.767693,-95.234935,29.767693",
     "geom:latitude":29.767693,
     "geom:longitude":-95.234935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11005 Market Street Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270144579,
-    "wof:lastmodified":1449010450,
+    "wof:lastmodified":1467084210,
     "wof:name":"Wireless Citi",
     "wof:parent_id":85893771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communications-common"
     ]
 },
-  "bbox": [-95.234935,29.767693,-95.234935,29.767693],
-  "geometry": {"coordinates":[-95.234935,29.767693],"type":"Point"}
+  "bbox": [
+    -95.234935,
+    29.767693,
+    -95.234935,
+    29.767693
+],
+  "geometry": {"coordinates":[-95.23493499999999,29.767693],"type":"Point"}
 }

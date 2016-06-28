@@ -2,13 +2,14 @@
   "id": 353769553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.439896,29.738158,-95.439896,29.738158",
     "geom:latitude":29.738158,
     "geom:longitude":-95.439896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 W Alabama St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353769553,
-    "wof:lastmodified":1449019103,
+    "wof:lastmodified":1467084339,
     "wof:name":"Source One",
     "wof:parent_id":85869307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-95.439896,29.738158,-95.439896,29.738158],
+  "bbox": [
+    -95.439896,
+    29.738158,
+    -95.439896,
+    29.738158
+],
   "geometry": {"coordinates":[-95.439896,29.738158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253059691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.89879,32.69798,-96.89879,32.69798",
     "geom:latitude":32.69798,
     "geom:longitude":-96.89879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633A Country Creek Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253059691,
-    "wof:lastmodified":1449063624,
+    "wof:lastmodified":1467084972,
     "wof:name":"Country Creek Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.89879,32.69798,-96.89879,32.69798],
-  "geometry": {"coordinates":[-96.89879,32.69798],"type":"Point"}
+  "bbox": [
+    -96.89879,
+    32.69798,
+    -96.89879,
+    32.69798
+],
+  "geometry": {"coordinates":[-96.89879000000001,32.69798],"type":"Point"}
 }

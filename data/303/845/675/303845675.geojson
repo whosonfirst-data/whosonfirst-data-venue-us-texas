@@ -2,13 +2,14 @@
   "id": 303845675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747704,30.2684,-97.747704,30.2684",
     "geom:latitude":30.2684,
     "geom:longitude":-97.747704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5th & San Antonio",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303845675,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1467083711,
     "wof:name":"Intel Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "local"
     ]
 },
-  "bbox": [-97.747704,30.2684,-97.747704,30.2684],
+  "bbox": [
+    -97.747704,
+    30.2684,
+    -97.747704,
+    30.2684
+],
   "geometry": {"coordinates":[-97.747704,30.2684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353902511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.820043,35.221859,-101.820043,35.221859",
     "geom:latitude":35.221859,
     "geom:longitude":-101.820043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 E Amarillo Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353902511,
-    "wof:lastmodified":1449020140,
+    "wof:lastmodified":1467084362,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85875853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-101.820043,35.221859,-101.820043,35.221859],
+  "bbox": [
+    -101.820043,
+    35.221859,
+    -101.820043,
+    35.221859
+],
   "geometry": {"coordinates":[-101.820043,35.221859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185810945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.287934,29.543295,-95.287934,29.543295",
     "geom:latitude":29.543295,
     "geom:longitude":-95.287934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Curley Maple Dr",
     "sg:city":"Pearland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185810945,
-    "wof:lastmodified":1449007080,
+    "wof:lastmodified":1467084119,
     "wof:name":"Kebell Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-95.287934,29.543295,-95.287934,29.543295],
-  "geometry": {"coordinates":[-95.287934,29.543295],"type":"Point"}
+  "bbox": [
+    -95.287934,
+    29.543295,
+    -95.287934,
+    29.543295
+],
+  "geometry": {"coordinates":[-95.28793400000001,29.543295],"type":"Point"}
 }

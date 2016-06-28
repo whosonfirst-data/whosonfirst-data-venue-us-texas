@@ -2,13 +2,14 @@
   "id": 203290675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.675377,30.259318,-97.675377,30.259318",
     "geom:latitude":30.259318,
     "geom:longitude":-97.675377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Ed Bluestein Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203290675,
-    "wof:lastmodified":1449025739,
+    "wof:lastmodified":1467084400,
     "wof:name":"JOURNEYMAN CONSTRUCTION",
     "wof:parent_id":85869941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.675377,30.259318,-97.675377,30.259318],
+  "bbox": [
+    -97.675377,
+    30.259318,
+    -97.675377,
+    30.259318
+],
   "geometry": {"coordinates":[-97.675377,30.259318],"type":"Point"}
 }

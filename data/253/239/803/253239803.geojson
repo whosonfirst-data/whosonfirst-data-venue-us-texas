@@ -2,13 +2,14 @@
   "id": 253239803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.593094,29.703577,-95.593094,29.703577",
     "geom:latitude":29.703577,
     "geom:longitude":-95.593094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12119 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253239803,
-    "wof:lastmodified":1449063092,
+    "wof:lastmodified":1467084954,
     "wof:name":"Memorial Locksmith",
     "wof:parent_id":85868507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-95.593094,29.703577,-95.593094,29.703577],
-  "geometry": {"coordinates":[-95.593094,29.703577],"type":"Point"}
+  "bbox": [
+    -95.593094,
+    29.703577,
+    -95.593094,
+    29.703577
+],
+  "geometry": {"coordinates":[-95.59309399999999,29.703577],"type":"Point"}
 }

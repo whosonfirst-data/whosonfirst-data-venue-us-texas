@@ -2,13 +2,14 @@
   "id": 236338459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.94656,32.820601,-96.94656,32.820601",
     "geom:latitude":32.820601,
     "geom:longitude":-96.94656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 N Main St",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236338459,
-    "wof:lastmodified":1449002651,
+    "wof:lastmodified":1467083916,
     "wof:name":"John Miliara Contractors",
     "wof:parent_id":85878303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.94656,32.820601,-96.94656,32.820601],
-  "geometry": {"coordinates":[-96.94656,32.820601],"type":"Point"}
+  "bbox": [
+    -96.94656,
+    32.820601,
+    -96.94656,
+    32.820601
+],
+  "geometry": {"coordinates":[-96.94656000000001,32.820601],"type":"Point"}
 }

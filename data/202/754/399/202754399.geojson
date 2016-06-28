@@ -2,13 +2,14 @@
   "id": 202754399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.928087,33.504129,-101.928087,33.504129",
     "geom:latitude":33.504129,
     "geom:longitude":-101.928087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9806 Bangor Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202754399,
-    "wof:lastmodified":1449061744,
+    "wof:lastmodified":1467084922,
     "wof:name":"Phantom Networks",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-101.928087,33.504129,-101.928087,33.504129],
+  "bbox": [
+    -101.928087,
+    33.504129,
+    -101.928087,
+    33.504129
+],
   "geometry": {"coordinates":[-101.928087,33.504129],"type":"Point"}
 }

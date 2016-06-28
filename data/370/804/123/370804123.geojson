@@ -2,13 +2,14 @@
   "id": 370804123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.385992,32.344575,-97.385992,32.344575",
     "geom:latitude":32.344575,
     "geom:longitude":-97.385992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Main St",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370804123,
-    "wof:lastmodified":1449031437,
+    "wof:lastmodified":1467084528,
     "wof:name":"Cleburne Radiator Shop",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.385992,32.344575,-97.385992,32.344575],
+  "bbox": [
+    -97.385992,
+    32.344575,
+    -97.385992,
+    32.344575
+],
   "geometry": {"coordinates":[-97.385992,32.344575],"type":"Point"}
 }

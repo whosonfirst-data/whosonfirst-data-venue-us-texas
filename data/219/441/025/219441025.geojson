@@ -2,13 +2,14 @@
   "id": 219441025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788867,30.2018,-97.788867,30.2018",
     "geom:latitude":30.2018,
     "geom:longitude":-97.788867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Eberhart Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219441025,
-    "wof:lastmodified":1449070661,
+    "wof:lastmodified":1467085105,
     "wof:name":"Eberhart Place",
     "wof:parent_id":85869971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.788867,30.2018,-97.788867,30.2018],
+  "bbox": [
+    -97.788867,
+    30.2018,
+    -97.788867,
+    30.2018
+],
   "geometry": {"coordinates":[-97.788867,30.2018],"type":"Point"}
 }

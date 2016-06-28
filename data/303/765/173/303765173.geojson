@@ -2,13 +2,14 @@
   "id": 303765173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733623,30.342255,-97.733623,30.342255",
     "geom:latitude":30.342255,
     "geom:longitude":-97.733623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Vallejo St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303765173,
-    "wof:lastmodified":1448999534,
+    "wof:lastmodified":1467083762,
     "wof:name":"Taivan",
     "wof:parent_id":85802321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.733623,30.342255,-97.733623,30.342255],
-  "geometry": {"coordinates":[-97.733623,30.342255],"type":"Point"}
+  "bbox": [
+    -97.733623,
+    30.342255,
+    -97.733623,
+    30.342255
+],
+  "geometry": {"coordinates":[-97.73362299999999,30.342255],"type":"Point"}
 }

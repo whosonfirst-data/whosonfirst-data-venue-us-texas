@@ -2,13 +2,14 @@
   "id": 203055555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.267173,26.159585,-98.267173,26.159585",
     "geom:latitude":26.159585,
     "geom:longitude":-98.267173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Sarah Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203055555,
-    "wof:lastmodified":1449025352,
+    "wof:lastmodified":1467084392,
     "wof:name":"Los Encinos Pool",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-98.267173,26.159585,-98.267173,26.159585],
+  "bbox": [
+    -98.267173,
+    26.159585,
+    -98.267173,
+    26.159585
+],
   "geometry": {"coordinates":[-98.267173,26.159585],"type":"Point"}
 }

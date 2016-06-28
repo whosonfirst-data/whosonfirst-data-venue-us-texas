@@ -2,13 +2,14 @@
   "id": 186391063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.40668,30.208622,-95.40668,30.208622",
     "geom:latitude":30.208622,
     "geom:longitude":-95.40668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10918 State Hwy 242",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186391063,
-    "wof:lastmodified":1449052093,
+    "wof:lastmodified":1467084727,
     "wof:name":"Conroe Sand & Clay",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-95.40668,30.208622,-95.40668,30.208622],
-  "geometry": {"coordinates":[-95.40668,30.208622],"type":"Point"}
+  "bbox": [
+    -95.40668,
+    30.208622,
+    -95.40668,
+    30.208622
+],
+  "geometry": {"coordinates":[-95.40667999999999,30.208622],"type":"Point"}
 }

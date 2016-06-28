@@ -2,13 +2,14 @@
   "id": 387322717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3243,32.86115,-97.3243,32.86115",
     "geom:latitude":32.86115,
     "geom:longitude":-97.3243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Western Center Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387322717,
-    "wof:lastmodified":1449056071,
+    "wof:lastmodified":1467084783,
     "wof:name":"Cowtown Commercial Real Estate",
     "wof:parent_id":85871595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.3243,32.86115,-97.3243,32.86115],
-  "geometry": {"coordinates":[-97.3243,32.86115],"type":"Point"}
+  "bbox": [
+    -97.3243,
+    32.86115,
+    -97.3243,
+    32.86115
+],
+  "geometry": {"coordinates":[-97.32429999999999,32.86115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219934525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.520441,29.458902,-98.520441,29.458902",
     "geom:latitude":29.458902,
     "geom:longitude":-98.520441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219934525,
-    "wof:lastmodified":1449070555,
+    "wof:lastmodified":1467085103,
     "wof:name":"Silver Direct",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gold"
     ]
 },
-  "bbox": [-98.520441,29.458902,-98.520441,29.458902],
-  "geometry": {"coordinates":[-98.520441,29.458902],"type":"Point"}
+  "bbox": [
+    -98.520441,
+    29.458902,
+    -98.520441,
+    29.458902
+],
+  "geometry": {"coordinates":[-98.52044100000001,29.458902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303466731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751365,30.352753,-97.751365,30.352753",
     "geom:latitude":30.352753,
     "geom:longitude":-97.751365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3508 Far West Blvd Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303466731,
-    "wof:lastmodified":1448998846,
+    "wof:lastmodified":1467083728,
     "wof:name":"Stone Loughlin & Swanson LLP",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.751365,30.352753,-97.751365,30.352753],
-  "geometry": {"coordinates":[-97.751365,30.352753],"type":"Point"}
+  "bbox": [
+    -97.751365,
+    30.352753,
+    -97.751365,
+    30.352753
+],
+  "geometry": {"coordinates":[-97.75136500000001,30.352753],"type":"Point"}
 }

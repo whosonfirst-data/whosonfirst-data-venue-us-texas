@@ -2,13 +2,14 @@
   "id": 354218289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.540749,27.625479,-99.540749,27.625479",
     "geom:latitude":27.625479,
     "geom:longitude":-99.540749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14414 Export Rd",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354218289,
-    "wof:lastmodified":1449067048,
+    "wof:lastmodified":1467085079,
     "wof:name":"P & P Transportation LLC",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.540749,27.625479,-99.540749,27.625479],
-  "geometry": {"coordinates":[-99.540749,27.625479],"type":"Point"}
+  "bbox": [
+    -99.540749,
+    27.625479,
+    -99.540749,
+    27.625479
+],
+  "geometry": {"coordinates":[-99.54074900000001,27.625479],"type":"Point"}
 }

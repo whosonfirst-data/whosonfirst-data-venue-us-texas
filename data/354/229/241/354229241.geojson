@@ -2,13 +2,14 @@
   "id": 354229241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.554281,33.689271,-95.554281,33.689271",
     "geom:latitude":33.689271,
     "geom:longitude":-95.554281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354229241,
-    "wof:lastmodified":1449067291,
+    "wof:lastmodified":1467085085,
     "wof:name":"ABC Distributing",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-95.554281,33.689271,-95.554281,33.689271],
+  "bbox": [
+    -95.554281,
+    33.689271,
+    -95.554281,
+    33.689271
+],
   "geometry": {"coordinates":[-95.554281,33.689271],"type":"Point"}
 }

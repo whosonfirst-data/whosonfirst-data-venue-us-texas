@@ -2,13 +2,14 @@
   "id": 185888825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165005,30.121684,-94.165005,30.121684",
     "geom:latitude":30.121684,
     "geom:longitude":-94.165005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4095 Dowlen Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185888825,
-    "wof:lastmodified":1449007612,
+    "wof:lastmodified":1467084129,
     "wof:name":"Exxpress Mart",
     "wof:parent_id":85845963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.165005,30.121684,-94.165005,30.121684],
-  "geometry": {"coordinates":[-94.165005,30.121684],"type":"Point"}
+  "bbox": [
+    -94.165005,
+    30.121684,
+    -94.165005,
+    30.121684
+],
+  "geometry": {"coordinates":[-94.16500499999999,30.121684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219313509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.706151,35.23477,-101.706151,35.23477",
     "geom:latitude":35.23477,
     "geom:longitude":-101.706151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 English Rd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219313509,
-    "wof:lastmodified":1449070472,
+    "wof:lastmodified":1467085101,
     "wof:name":"Us Airway Facilities",
     "wof:parent_id":85819731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-101.706151,35.23477,-101.706151,35.23477],
-  "geometry": {"coordinates":[-101.706151,35.23477],"type":"Point"}
+  "bbox": [
+    -101.706151,
+    35.23477,
+    -101.706151,
+    35.23477
+],
+  "geometry": {"coordinates":[-101.70615100000001,35.23477],"type":"Point"}
 }

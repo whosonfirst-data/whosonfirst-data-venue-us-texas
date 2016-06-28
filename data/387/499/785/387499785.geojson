@@ -2,13 +2,14 @@
   "id": 387499785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.447099,28.965705,-95.447099,28.965705",
     "geom:latitude":28.965705,
     "geom:longitude":-95.447099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 Spencer Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387499785,
-    "wof:lastmodified":1449056826,
+    "wof:lastmodified":1467084803,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85841357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-95.447099,28.965705,-95.447099,28.965705],
-  "geometry": {"coordinates":[-95.447099,28.965705],"type":"Point"}
+  "bbox": [
+    -95.447099,
+    28.965705,
+    -95.447099,
+    28.965705
+],
+  "geometry": {"coordinates":[-95.44709899999999,28.965705],"type":"Point"}
 }

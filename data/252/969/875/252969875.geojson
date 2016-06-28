@@ -2,13 +2,14 @@
   "id": 252969875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507808,25.908383,-97.507808,25.908383",
     "geom:latitude":25.908383,
     "geom:longitude":-97.507808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Palm Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252969875,
-    "wof:lastmodified":1449005685,
+    "wof:lastmodified":1467084063,
     "wof:name":"International Investigations",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-97.507808,25.908383,-97.507808,25.908383],
+  "bbox": [
+    -97.507808,
+    25.908383,
+    -97.507808,
+    25.908383
+],
   "geometry": {"coordinates":[-97.507808,25.908383],"type":"Point"}
 }

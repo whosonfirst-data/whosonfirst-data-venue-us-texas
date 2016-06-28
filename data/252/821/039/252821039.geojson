@@ -2,13 +2,14 @@
   "id": 252821039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807814,32.810325,-96.807814,32.810325",
     "geom:latitude":32.810325,
     "geom:longitude":-96.807814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Oak Lawn Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252821039,
-    "wof:lastmodified":1449006008,
+    "wof:lastmodified":1467084080,
     "wof:name":"McAdams Hall",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-96.807814,32.810325,-96.807814,32.810325],
-  "geometry": {"coordinates":[-96.807814,32.810325],"type":"Point"}
+  "bbox": [
+    -96.807814,
+    32.810325,
+    -96.807814,
+    32.810325
+],
+  "geometry": {"coordinates":[-96.80781399999999,32.810325],"type":"Point"}
 }

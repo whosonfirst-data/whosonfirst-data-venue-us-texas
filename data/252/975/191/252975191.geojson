@@ -2,13 +2,14 @@
   "id": 252975191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.661616,30.507556,-97.661616,30.507556",
     "geom:latitude":30.507556,
     "geom:longitude":-97.661616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Greenlawn Blvd",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252975191,
-    "wof:lastmodified":1449006362,
+    "wof:lastmodified":1467084100,
     "wof:name":"Installs America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-97.661616,30.507556,-97.661616,30.507556],
+  "bbox": [
+    -97.661616,
+    30.507556,
+    -97.661616,
+    30.507556
+],
   "geometry": {"coordinates":[-97.661616,30.507556],"type":"Point"}
 }

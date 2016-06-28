@@ -2,13 +2,14 @@
   "id": 303322611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754818,30.23731,-97.754818,30.23731",
     "geom:latitude":30.23731,
     "geom:longitude":-97.754818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":303322611,
-    "wof:lastmodified":1448998091,
+    "wof:lastmodified":1467083689,
     "wof:name":"Bank of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "internet"
     ]
 },
-  "bbox": [-97.754818,30.23731,-97.754818,30.23731],
+  "bbox": [
+    -97.754818,
+    30.23731,
+    -97.754818,
+    30.23731
+],
   "geometry": {"coordinates":[-97.754818,30.23731],"type":"Point"}
 }

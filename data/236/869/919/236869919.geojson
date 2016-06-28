@@ -2,13 +2,14 @@
   "id": 236869919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801037,32.797415,-96.801037,32.797415",
     "geom:latitude":32.797415,
     "geom:longitude":-96.801037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 McKinney Ave Ste 102",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236869919,
-    "wof:lastmodified":1449004931,
+    "wof:lastmodified":1467084024,
     "wof:name":"Scott LaDuke - State Farm",
     "wof:parent_id":85870435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.801037,32.797415,-96.801037,32.797415],
-  "geometry": {"coordinates":[-96.801037,32.797415],"type":"Point"}
+  "bbox": [
+    -96.801037,
+    32.797415,
+    -96.801037,
+    32.797415
+],
+  "geometry": {"coordinates":[-96.80103699999999,32.797415],"type":"Point"}
 }

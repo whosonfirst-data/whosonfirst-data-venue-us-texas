@@ -2,13 +2,14 @@
   "id": 202412267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.740575,32.432161,-99.740575,32.432161",
     "geom:latitude":32.432161,
     "geom:longitude":-99.740575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 S 14th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202412267,
-    "wof:lastmodified":1449060630,
+    "wof:lastmodified":1467084899,
     "wof:name":"Tooth Factory",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-99.740575,32.432161,-99.740575,32.432161],
-  "geometry": {"coordinates":[-99.740575,32.432161],"type":"Point"}
+  "bbox": [
+    -99.740575,
+    32.432161,
+    -99.740575,
+    32.432161
+],
+  "geometry": {"coordinates":[-99.74057500000001,32.432161],"type":"Point"}
 }

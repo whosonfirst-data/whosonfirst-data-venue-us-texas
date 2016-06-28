@@ -2,13 +2,14 @@
   "id": 236851009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808212,32.783366,-96.808212,32.783366",
     "geom:latitude":32.783366,
     "geom:longitude":-96.808212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Mckinney Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236851009,
-    "wof:lastmodified":1449003901,
+    "wof:lastmodified":1467083975,
     "wof:name":"First Cut Inc",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-96.808212,32.783366,-96.808212,32.783366],
+  "bbox": [
+    -96.808212,
+    32.783366,
+    -96.808212,
+    32.783366
+],
   "geometry": {"coordinates":[-96.808212,32.783366],"type":"Point"}
 }

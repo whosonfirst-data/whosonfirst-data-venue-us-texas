@@ -2,13 +2,14 @@
   "id": 303829223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746173,30.401803,-97.746173,30.401803",
     "geom:latitude":30.401803,
     "geom:longitude":-97.746173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Research Blvd., Ste 160C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303829223,
-    "wof:lastmodified":1449000404,
+    "wof:lastmodified":1467083804,
     "wof:name":"Foxfire Scientific, Inc.",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "consultant"
     ]
 },
-  "bbox": [-97.746173,30.401803,-97.746173,30.401803],
+  "bbox": [
+    -97.746173,
+    30.401803,
+    -97.746173,
+    30.401803
+],
   "geometry": {"coordinates":[-97.746173,30.401803],"type":"Point"}
 }

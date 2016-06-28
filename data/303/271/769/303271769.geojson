@@ -2,13 +2,14 @@
   "id": 303271769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750616,30.274585,-97.750616,30.274585",
     "geom:latitude":30.274585,
     "geom:longitude":-97.750616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W 10th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303271769,
-    "wof:lastmodified":1448999402,
+    "wof:lastmodified":1467083756,
     "wof:name":"Capital Leasing Management & Sales Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.750616,30.274585,-97.750616,30.274585],
-  "geometry": {"coordinates":[-97.750616,30.274585],"type":"Point"}
+  "bbox": [
+    -97.750616,
+    30.274585,
+    -97.750616,
+    30.274585
+],
+  "geometry": {"coordinates":[-97.75061599999999,30.274585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253014339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.835777,32.653573,-96.835777,32.653573",
     "geom:latitude":32.653573,
     "geom:longitude":-96.835777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7808 Racine Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253014339,
-    "wof:lastmodified":1449064273,
+    "wof:lastmodified":1467084994,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.835777,32.653573,-96.835777,32.653573],
-  "geometry": {"coordinates":[-96.835777,32.653573],"type":"Point"}
+  "bbox": [
+    -96.835777,
+    32.653573,
+    -96.835777,
+    32.653573
+],
+  "geometry": {"coordinates":[-96.83577699999999,32.653573],"type":"Point"}
 }

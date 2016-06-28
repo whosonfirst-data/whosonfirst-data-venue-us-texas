@@ -2,13 +2,14 @@
   "id": 303243105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757154,30.337503,-97.757154,30.337503",
     "geom:latitude":30.337503,
     "geom:longitude":-97.757154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 N Mopac Blvd Bldg III",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303243105,
-    "wof:lastmodified":1448998909,
+    "wof:lastmodified":1467083731,
     "wof:name":"St David's Healthcare",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.757154,30.337503,-97.757154,30.337503],
+  "bbox": [
+    -97.757154,
+    30.337503,
+    -97.757154,
+    30.337503
+],
   "geometry": {"coordinates":[-97.757154,30.337503],"type":"Point"}
 }

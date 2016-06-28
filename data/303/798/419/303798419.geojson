@@ -2,13 +2,14 @@
   "id": 303798419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719216,30.399231,-97.719216,30.399231",
     "geom:latitude":30.399231,
     "geom:longitude":-97.719216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11400 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303798419,
-    "wof:lastmodified":1448998572,
+    "wof:lastmodified":1467083714,
     "wof:name":"SPI Litigation",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.719216,30.399231,-97.719216,30.399231],
+  "bbox": [
+    -97.719216,
+    30.399231,
+    -97.719216,
+    30.399231
+],
   "geometry": {"coordinates":[-97.719216,30.399231],"type":"Point"}
 }

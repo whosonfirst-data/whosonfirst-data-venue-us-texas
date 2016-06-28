@@ -2,13 +2,14 @@
   "id": 403970727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86242,32.893866,-96.86242,32.893866",
     "geom:latitude":32.893866,
     "geom:longitude":-96.86242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10723 Cromwell Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403970727,
-    "wof:lastmodified":1449055927,
+    "wof:lastmodified":1467084780,
     "wof:name":"Great Light Press",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-96.86242,32.893866,-96.86242,32.893866],
+  "bbox": [
+    -96.86242,
+    32.893866,
+    -96.86242,
+    32.893866
+],
   "geometry": {"coordinates":[-96.86242,32.893866],"type":"Point"}
 }

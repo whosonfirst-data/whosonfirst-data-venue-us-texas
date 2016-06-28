@@ -2,13 +2,14 @@
   "id": 253224391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.513482,29.704503,-95.513482,29.704503",
     "geom:latitude":29.704503,
     "geom:longitude":-95.513482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7324 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253224391,
-    "wof:lastmodified":1449064991,
+    "wof:lastmodified":1467085019,
     "wof:name":"Insurance Exchange",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.513482,29.704503,-95.513482,29.704503],
+  "bbox": [
+    -95.513482,
+    29.704503,
+    -95.513482,
+    29.704503
+],
   "geometry": {"coordinates":[-95.513482,29.704503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387499433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750239,33.040965,-96.750239,33.040965",
     "geom:latitude":33.040965,
     "geom:longitude":-96.750239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 W Parker Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387499433,
-    "wof:lastmodified":1449056826,
+    "wof:lastmodified":1467084803,
     "wof:name":"BGI Valuation",
     "wof:parent_id":85879933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-96.750239,33.040965,-96.750239,33.040965],
-  "geometry": {"coordinates":[-96.750239,33.040965],"type":"Point"}
+  "bbox": [
+    -96.750239,
+    33.040965,
+    -96.750239,
+    33.040965
+],
+  "geometry": {"coordinates":[-96.75023899999999,33.040965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252840125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739741,30.27236,-97.739741,30.27236",
     "geom:latitude":30.27236,
     "geom:longitude":-97.739741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Brazos St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252840125,
-    "wof:lastmodified":1449006266,
+    "wof:lastmodified":1467084095,
     "wof:name":"Critical Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.739741,30.27236,-97.739741,30.27236],
+  "bbox": [
+    -97.739741,
+    30.27236,
+    -97.739741,
+    30.27236
+],
   "geometry": {"coordinates":[-97.739741,30.27236],"type":"Point"}
 }

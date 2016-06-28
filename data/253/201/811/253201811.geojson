@@ -2,13 +2,14 @@
   "id": 253201811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.857231,32.808404,-96.857231,32.808404",
     "geom:latitude":32.808404,
     "geom:longitude":-96.857231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Irving Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253201811,
-    "wof:lastmodified":1449065378,
+    "wof:lastmodified":1467085033,
     "wof:name":"National Wholesale Supply",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-96.857231,32.808404,-96.857231,32.808404],
+  "bbox": [
+    -96.857231,
+    32.808404,
+    -96.857231,
+    32.808404
+],
   "geometry": {"coordinates":[-96.857231,32.808404],"type":"Point"}
 }

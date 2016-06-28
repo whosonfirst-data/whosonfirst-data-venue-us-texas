@@ -2,13 +2,14 @@
   "id": 354318719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.015593,33.500561,-102.015593,33.500561",
     "geom:latitude":33.500561,
     "geom:longitude":-102.015593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 US Hwy 62",
     "sg:city":"Wolfforth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354318719,
-    "wof:lastmodified":1449066290,
+    "wof:lastmodified":1467085060,
     "wof:name":"Skyview Installation Svc",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-102.015593,33.500561,-102.015593,33.500561],
+  "bbox": [
+    -102.015593,
+    33.500561,
+    -102.015593,
+    33.500561
+],
   "geometry": {"coordinates":[-102.015593,33.500561],"type":"Point"}
 }

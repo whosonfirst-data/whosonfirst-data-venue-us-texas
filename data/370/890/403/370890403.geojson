@@ -2,13 +2,14 @@
   "id": 370890403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.808292,35.20645,-101.808292,35.20645",
     "geom:latitude":35.20645,
     "geom:longitude":-101.808292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Bivins St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370890403,
-    "wof:lastmodified":1449029839,
+    "wof:lastmodified":1467084487,
     "wof:name":"Hart Moving & Storage Inc",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-101.808292,35.20645,-101.808292,35.20645],
-  "geometry": {"coordinates":[-101.808292,35.20645],"type":"Point"}
+  "bbox": [
+    -101.808292,
+    35.20645,
+    -101.808292,
+    35.20645
+],
+  "geometry": {"coordinates":[-101.80829199999999,35.20645],"type":"Point"}
 }

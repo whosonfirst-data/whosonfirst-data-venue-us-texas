@@ -2,13 +2,14 @@
   "id": 387458003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.002883,29.38748,-95.002883,29.38748",
     "geom:latitude":29.38748,
     "geom:longitude":-95.002883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Lane Rd",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387458003,
-    "wof:lastmodified":1449058818,
+    "wof:lastmodified":1467084854,
     "wof:name":"Cruise One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-95.002883,29.38748,-95.002883,29.38748],
+  "bbox": [
+    -95.002883,
+    29.38748,
+    -95.002883,
+    29.38748
+],
   "geometry": {"coordinates":[-95.002883,29.38748],"type":"Point"}
 }

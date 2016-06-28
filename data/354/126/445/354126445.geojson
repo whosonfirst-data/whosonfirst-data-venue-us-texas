@@ -2,13 +2,14 @@
   "id": 354126445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.843319,32.859058,-96.843319,32.859058",
     "geom:latitude":32.859058,
     "geom:longitude":-96.843319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8826 Lakemont Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354126445,
-    "wof:lastmodified":1449066542,
+    "wof:lastmodified":1467085066,
     "wof:name":"J Phillips Property",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-96.843319,32.859058,-96.843319,32.859058],
-  "geometry": {"coordinates":[-96.843319,32.859058],"type":"Point"}
+  "bbox": [
+    -96.843319,
+    32.859058,
+    -96.843319,
+    32.859058
+],
+  "geometry": {"coordinates":[-96.84331899999999,32.859058],"type":"Point"}
 }

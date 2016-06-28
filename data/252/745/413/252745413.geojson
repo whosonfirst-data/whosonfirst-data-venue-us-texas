@@ -2,13 +2,14 @@
   "id": 252745413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753556,32.815093,-96.753556,32.815093",
     "geom:latitude":32.815093,
     "geom:longitude":-96.753556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Kidwell St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252745413,
-    "wof:lastmodified":1449006451,
+    "wof:lastmodified":1467084105,
     "wof:name":"Studio B",
     "wof:parent_id":85870367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-96.753556,32.815093,-96.753556,32.815093],
+  "bbox": [
+    -96.753556,
+    32.815093,
+    -96.753556,
+    32.815093
+],
   "geometry": {"coordinates":[-96.753556,32.815093],"type":"Point"}
 }

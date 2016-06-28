@@ -2,13 +2,14 @@
   "id": 236005435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.675249,30.76049,-98.675249,30.76049",
     "geom:latitude":30.76049,
     "geom:longitude":-98.675249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Bessemer Ave",
     "sg:city":"Llano",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236005435,
-    "wof:lastmodified":1449004929,
+    "wof:lastmodified":1467084024,
     "wof:name":"Ricketson Refrigeration Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "air"
     ]
 },
-  "bbox": [-98.675249,30.76049,-98.675249,30.76049],
-  "geometry": {"coordinates":[-98.675249,30.76049],"type":"Point"}
+  "bbox": [
+    -98.675249,
+    30.76049,
+    -98.675249,
+    30.76049
+],
+  "geometry": {"coordinates":[-98.67524899999999,30.76049],"type":"Point"}
 }

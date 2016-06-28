@@ -2,13 +2,14 @@
   "id": 270013371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.445481,29.812413,-95.445481,29.812413",
     "geom:latitude":29.812413,
     "geom:longitude":-95.445481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2813 W T C Jester Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270013371,
-    "wof:lastmodified":1449010322,
+    "wof:lastmodified":1467084205,
     "wof:name":"Texas Alcohol Licensing",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "academic"
     ]
 },
-  "bbox": [-95.445481,29.812413,-95.445481,29.812413],
+  "bbox": [
+    -95.445481,
+    29.812413,
+    -95.445481,
+    29.812413
+],
   "geometry": {"coordinates":[-95.445481,29.812413],"type":"Point"}
 }

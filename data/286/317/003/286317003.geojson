@@ -2,13 +2,14 @@
   "id": 286317003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.662303,29.699333,-95.662303,29.699333",
     "geom:latitude":29.699333,
     "geom:longitude":-95.662303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15707 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286317003,
-    "wof:lastmodified":1449016537,
+    "wof:lastmodified":1467084273,
     "wof:name":"X Ray Decker Company",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "x-ray"
     ]
 },
-  "bbox": [-95.662303,29.699333,-95.662303,29.699333],
-  "geometry": {"coordinates":[-95.662303,29.699333],"type":"Point"}
+  "bbox": [
+    -95.662303,
+    29.699333,
+    -95.662303,
+    29.699333
+],
+  "geometry": {"coordinates":[-95.66230299999999,29.699333],"type":"Point"}
 }

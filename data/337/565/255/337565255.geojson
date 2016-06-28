@@ -2,13 +2,14 @@
   "id": 337565255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.38027,29.757893,-95.38027,29.757893",
     "geom:latitude":29.757893,
     "geom:longitude":-95.38027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 W Dallas St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337565255,
-    "wof:lastmodified":1449027663,
+    "wof:lastmodified":1467084454,
     "wof:name":"Wesley Anchor House",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-95.38027,29.757893,-95.38027,29.757893],
+  "bbox": [
+    -95.38027,
+    29.757893,
+    -95.38027,
+    29.757893
+],
   "geometry": {"coordinates":[-95.38027,29.757893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252836249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.509056,29.689596,-95.509056,29.689596",
     "geom:latitude":29.689596,
     "geom:longitude":-95.509056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8203 Fondren Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252836249,
-    "wof:lastmodified":1449006118,
+    "wof:lastmodified":1467084087,
     "wof:name":"Fondren Phillips",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-95.509056,29.689596,-95.509056,29.689596],
+  "bbox": [
+    -95.509056,
+    29.689596,
+    -95.509056,
+    29.689596
+],
   "geometry": {"coordinates":[-95.509056,29.689596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253401863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.067551,33.469128,-94.067551,33.469128",
     "geom:latitude":33.469128,
     "geom:longitude":-94.067551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Galleria Oaks Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253401863,
-    "wof:lastmodified":1449065335,
+    "wof:lastmodified":1467085031,
     "wof:name":"Family Medical Group Of Texarkana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.067551,33.469128,-94.067551,33.469128],
-  "geometry": {"coordinates":[-94.067551,33.469128],"type":"Point"}
+  "bbox": [
+    -94.067551,
+    33.469128,
+    -94.067551,
+    33.469128
+],
+  "geometry": {"coordinates":[-94.06755099999999,33.469128],"type":"Point"}
 }

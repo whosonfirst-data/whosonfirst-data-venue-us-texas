@@ -2,13 +2,14 @@
   "id": 303530721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.897776,30.222626,-97.897776,30.222626",
     "geom:latitude":30.222626,
     "geom:longitude":-97.897776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8805 Granada Hills Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303530721,
-    "wof:lastmodified":1448999424,
+    "wof:lastmodified":1467083757,
     "wof:name":"Mr. Inspector",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-97.897776,30.222626,-97.897776,30.222626],
-  "geometry": {"coordinates":[-97.897776,30.222626],"type":"Point"}
+  "bbox": [
+    -97.897776,
+    30.222626,
+    -97.897776,
+    30.222626
+],
+  "geometry": {"coordinates":[-97.89777599999999,30.222626],"type":"Point"}
 }

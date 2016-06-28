@@ -2,13 +2,14 @@
   "id": 303491953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.874539,30.405485,-97.874539,30.405485",
     "geom:latitude":30.405485,
     "geom:longitude":-97.874539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Comanche Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303491953,
-    "wof:lastmodified":1448998076,
+    "wof:lastmodified":1467083689,
     "wof:name":"Soleil",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.874539,30.405485,-97.874539,30.405485],
+  "bbox": [
+    -97.874539,
+    30.405485,
+    -97.874539,
+    30.405485
+],
   "geometry": {"coordinates":[-97.874539,30.405485],"type":"Point"}
 }

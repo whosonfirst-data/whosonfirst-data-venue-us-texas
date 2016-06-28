@@ -2,13 +2,14 @@
   "id": 303721045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.693002,30.326003,-97.693002,30.326003",
     "geom:latitude":30.326003,
     "geom:longitude":-97.693002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 Cameron Rd Ste E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303721045,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1467083813,
     "wof:name":"Cameron Medical and Health Clinic",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.693002,30.326003,-97.693002,30.326003],
-  "geometry": {"coordinates":[-97.693002,30.326003],"type":"Point"}
+  "bbox": [
+    -97.693002,
+    30.326003,
+    -97.693002,
+    30.326003
+],
+  "geometry": {"coordinates":[-97.69300200000001,30.326003],"type":"Point"}
 }

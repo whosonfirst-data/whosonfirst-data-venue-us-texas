@@ -2,13 +2,14 @@
   "id": 386961391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.144128,32.723478,-97.144128,32.723478",
     "geom:latitude":32.723478,
     "geom:longitude":-97.144128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Hunter Ridge Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386961391,
-    "wof:lastmodified":1449028968,
+    "wof:lastmodified":1467084466,
     "wof:name":"SRR",
     "wof:parent_id":85840401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.144128,32.723478,-97.144128,32.723478],
-  "geometry": {"coordinates":[-97.144128,32.723478],"type":"Point"}
+  "bbox": [
+    -97.144128,
+    32.723478,
+    -97.144128,
+    32.723478
+],
+  "geometry": {"coordinates":[-97.14412799999999,32.723478],"type":"Point"}
 }

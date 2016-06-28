@@ -2,13 +2,14 @@
   "id": 303323467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760002,30.2302,-97.760002,30.2302",
     "geom:latitude":30.2302,
     "geom:longitude":-97.760002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303323467,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1467083702,
     "wof:name":"South Congress Veterinary Clinic",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.760002,30.2302,-97.760002,30.2302],
+  "bbox": [
+    -97.760002,
+    30.2302,
+    -97.760002,
+    30.2302
+],
   "geometry": {"coordinates":[-97.760002,30.2302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236906265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788101,32.849701,-96.788101,32.849701",
     "geom:latitude":32.849701,
     "geom:longitude":-96.788101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6925 Snider Plz",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -68,16 +69,22 @@
         }
     ],
     "wof:id":236906265,
-    "wof:lastmodified":1449002799,
+    "wof:lastmodified":1467083923,
     "wof:name":"The Ivy House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-96.788101,32.849701,-96.788101,32.849701],
+  "bbox": [
+    -96.788101,
+    32.849701,
+    -96.788101,
+    32.849701
+],
   "geometry": {"coordinates":[-96.788101,32.849701],"type":"Point"}
 }

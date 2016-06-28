@@ -2,13 +2,14 @@
   "id": 303746685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67543,30.338689,-97.67543,30.338689",
     "geom:latitude":30.338689,
     "geom:longitude":-97.67543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8403 Cross Park Ste 3G",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303746685,
-    "wof:lastmodified":1448998095,
+    "wof:lastmodified":1467083690,
     "wof:name":"Office Mate",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-97.67543,30.338689,-97.67543,30.338689],
-  "geometry": {"coordinates":[-97.67543,30.338689],"type":"Point"}
+  "bbox": [
+    -97.67543,
+    30.338689,
+    -97.67543,
+    30.338689
+],
+  "geometry": {"coordinates":[-97.67543000000001,30.338689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253663493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.651329,33.053124,-97.651329,33.053124",
     "geom:latitude":33.053124,
     "geom:longitude":-97.651329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 County Road 4699",
     "sg:city":"Boyd",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253663493,
-    "wof:lastmodified":1449065006,
+    "wof:lastmodified":1467085020,
     "wof:name":"Texas Hydroseeding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hydroseeding"
     ]
 },
-  "bbox": [-97.651329,33.053124,-97.651329,33.053124],
+  "bbox": [
+    -97.651329,
+    33.053124,
+    -97.651329,
+    33.053124
+],
   "geometry": {"coordinates":[-97.651329,33.053124],"type":"Point"}
 }

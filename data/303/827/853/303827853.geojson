@@ -2,13 +2,14 @@
   "id": 303827853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.824427,30.234205,-97.824427,30.234205",
     "geom:latitude":30.234205,
     "geom:longitude":-97.824427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10515 N Mopac Expy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303827853,
-    "wof:lastmodified":1448998995,
+    "wof:lastmodified":1467083736,
     "wof:name":"Potbelly Sandwich Shop",
     "wof:parent_id":85857877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-97.824427,30.234205,-97.824427,30.234205],
+  "bbox": [
+    -97.824427,
+    30.234205,
+    -97.824427,
+    30.234205
+],
   "geometry": {"coordinates":[-97.824427,30.234205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270254791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.354897,29.9027,-95.354897,29.9027",
     "geom:latitude":29.9027,
     "geom:longitude":-95.354897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13006 Aldine Westfield Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270254791,
-    "wof:lastmodified":1449010350,
+    "wof:lastmodified":1467084206,
     "wof:name":"Circle M Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.354897,29.9027,-95.354897,29.9027],
-  "geometry": {"coordinates":[-95.354897,29.9027],"type":"Point"}
+  "bbox": [
+    -95.354897,
+    29.9027,
+    -95.354897,
+    29.9027
+],
+  "geometry": {"coordinates":[-95.35489699999999,29.9027],"type":"Point"}
 }

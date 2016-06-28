@@ -2,13 +2,14 @@
   "id": 253178877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.836769,32.945862,-96.836769,32.945862",
     "geom:latitude":32.945862,
     "geom:longitude":-96.836769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14240 Proton Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253178877,
-    "wof:lastmodified":1449064957,
+    "wof:lastmodified":1467085018,
     "wof:name":"Universal Health Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-96.836769,32.945862,-96.836769,32.945862],
+  "bbox": [
+    -96.836769,
+    32.945862,
+    -96.836769,
+    32.945862
+],
   "geometry": {"coordinates":[-96.836769,32.945862],"type":"Point"}
 }

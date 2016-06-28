@@ -2,13 +2,14 @@
   "id": 303335387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.778813,30.230543,-97.778813,30.230543",
     "geom:latitude":30.230543,
     "geom:longitude":-97.778813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Summer Oak Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303335387,
-    "wof:lastmodified":1448999732,
+    "wof:lastmodified":1467083772,
     "wof:name":"Oak Run Apartments",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.778813,30.230543,-97.778813,30.230543],
+  "bbox": [
+    -97.778813,
+    30.230543,
+    -97.778813,
+    30.230543
+],
   "geometry": {"coordinates":[-97.778813,30.230543],"type":"Point"}
 }

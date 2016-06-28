@@ -2,13 +2,14 @@
   "id": 220105199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811119,33.147896,-96.811119,33.147896",
     "geom:latitude":33.147896,
     "geom:longitude":-96.811119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8549 Holly St",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220105199,
-    "wof:lastmodified":1449074335,
+    "wof:lastmodified":1467085183,
     "wof:name":"Bradley Pictures",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.811119,33.147896,-96.811119,33.147896],
-  "geometry": {"coordinates":[-96.811119,33.147896],"type":"Point"}
+  "bbox": [
+    -96.811119,
+    33.147896,
+    -96.811119,
+    33.147896
+],
+  "geometry": {"coordinates":[-96.81111900000001,33.147896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186384137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.634537,30.22105,-97.634537,30.22105",
     "geom:latitude":30.22105,
     "geom:longitude":-97.634537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 S FM 973",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186384137,
-    "wof:lastmodified":1449050626,
+    "wof:lastmodified":1467084699,
     "wof:name":"Sac N Pac Drive In Grocery",
     "wof:parent_id":85814153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.634537,30.22105,-97.634537,30.22105],
-  "geometry": {"coordinates":[-97.634537,30.22105],"type":"Point"}
+  "bbox": [
+    -97.634537,
+    30.22105,
+    -97.634537,
+    30.22105
+],
+  "geometry": {"coordinates":[-97.63453699999999,30.22105],"type":"Point"}
 }

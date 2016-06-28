@@ -2,13 +2,14 @@
   "id": 235970581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804361,32.838208,-96.804361,32.838208",
     "geom:latitude":32.838208,
     "geom:longitude":-96.804361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":235970581,
-    "wof:lastmodified":1449008600,
+    "wof:lastmodified":1467084148,
     "wof:name":"Graham & Smith LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.804361,32.838208,-96.804361,32.838208],
+  "bbox": [
+    -96.804361,
+    32.838208,
+    -96.804361,
+    32.838208
+],
   "geometry": {"coordinates":[-96.804361,32.838208],"type":"Point"}
 }

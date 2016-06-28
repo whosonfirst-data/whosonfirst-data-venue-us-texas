@@ -2,13 +2,14 @@
   "id": 203315083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.151335,32.580548,-97.151335,32.580548",
     "geom:latitude":32.580548,
     "geom:longitude":-97.151335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 N Main St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203315083,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1467084419,
     "wof:name":"Gmd Computrack DFW",
     "wof:parent_id":85854779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.151335,32.580548,-97.151335,32.580548],
+  "bbox": [
+    -97.151335,
+    32.580548,
+    -97.151335,
+    32.580548
+],
   "geometry": {"coordinates":[-97.151335,32.580548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370278293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.034432,29.810537,-95.034432,29.810537",
     "geom:latitude":29.810537,
     "geom:longitude":-95.034432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7901 Spivey Rd",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370278293,
-    "wof:lastmodified":1449030938,
+    "wof:lastmodified":1467084515,
     "wof:name":"American Cold Storage",
     "wof:parent_id":85859107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-95.034432,29.810537,-95.034432,29.810537],
+  "bbox": [
+    -95.034432,
+    29.810537,
+    -95.034432,
+    29.810537
+],
   "geometry": {"coordinates":[-95.034432,29.810537],"type":"Point"}
 }

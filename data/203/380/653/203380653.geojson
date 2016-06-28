@@ -2,13 +2,14 @@
   "id": 203380653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.734509,32.446441,-99.734509,32.446441",
     "geom:latitude":32.446441,
     "geom:longitude":-99.734509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 S 3rd St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380653,
-    "wof:lastmodified":1449025794,
+    "wof:lastmodified":1467084401,
     "wof:name":"Fisher Firm",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.734509,32.446441,-99.734509,32.446441],
+  "bbox": [
+    -99.734509,
+    32.446441,
+    -99.734509,
+    32.446441
+],
   "geometry": {"coordinates":[-99.734509,32.446441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219450017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507004,29.445033,-98.507004,29.445033",
     "geom:latitude":29.445033,
     "geom:longitude":-98.507004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219450017,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1467085162,
     "wof:name":"Roy's Bbq",
     "wof:parent_id":85871063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-98.507004,29.445033,-98.507004,29.445033],
-  "geometry": {"coordinates":[-98.507004,29.445033],"type":"Point"}
+  "bbox": [
+    -98.507004,
+    29.445033,
+    -98.507004,
+    29.445033
+],
+  "geometry": {"coordinates":[-98.50700399999999,29.445033],"type":"Point"}
 }

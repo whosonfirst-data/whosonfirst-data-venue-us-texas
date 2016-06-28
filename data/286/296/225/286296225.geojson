@@ -2,13 +2,14 @@
   "id": 286296225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.524053,29.832136,-95.524053,29.832136",
     "geom:latitude":29.832136,
     "geom:longitude":-95.524053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Clay Road Sutie A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286296225,
-    "wof:lastmodified":1449017574,
+    "wof:lastmodified":1467084303,
     "wof:name":"Howdy Burger",
     "wof:parent_id":85869695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-95.524053,29.832136,-95.524053,29.832136],
-  "geometry": {"coordinates":[-95.524053,29.832136],"type":"Point"}
+  "bbox": [
+    -95.524053,
+    29.832136,
+    -95.524053,
+    29.832136
+],
+  "geometry": {"coordinates":[-95.52405299999999,29.832136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270073815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.529429,29.783683,-95.529429,29.783683",
     "geom:latitude":29.783683,
     "geom:longitude":-95.529429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9545 Katy Fwy Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270073815,
-    "wof:lastmodified":1449008983,
+    "wof:lastmodified":1467084161,
     "wof:name":"Patriot Bank",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.529429,29.783683,-95.529429,29.783683],
-  "geometry": {"coordinates":[-95.529429,29.783683],"type":"Point"}
+  "bbox": [
+    -95.529429,
+    29.783683,
+    -95.529429,
+    29.783683
+],
+  "geometry": {"coordinates":[-95.52942899999999,29.783683],"type":"Point"}
 }

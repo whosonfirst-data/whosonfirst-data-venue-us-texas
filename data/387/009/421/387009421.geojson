@@ -2,13 +2,14 @@
   "id": 387009421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.580579,29.733279,-95.580579,29.733279",
     "geom:latitude":29.733279,
     "geom:longitude":-95.580579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Woodland Park Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387009421,
-    "wof:lastmodified":1449059843,
+    "wof:lastmodified":1467084881,
     "wof:name":"Equity Corp Housing",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-95.580579,29.733279,-95.580579,29.733279],
+  "bbox": [
+    -95.580579,
+    29.733279,
+    -95.580579,
+    29.733279
+],
   "geometry": {"coordinates":[-95.580579,29.733279],"type":"Point"}
 }

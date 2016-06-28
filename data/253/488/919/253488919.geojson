@@ -2,13 +2,14 @@
   "id": 253488919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.337776,32.544338,-94.337776,32.544338",
     "geom:latitude":32.544338,
     "geom:longitude":-94.337776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Stonecreek Dr",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253488919,
-    "wof:lastmodified":1449065732,
+    "wof:lastmodified":1467085045,
     "wof:name":"Stone Creek Apartments",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.337776,32.544338,-94.337776,32.544338],
-  "geometry": {"coordinates":[-94.337776,32.544338],"type":"Point"}
+  "bbox": [
+    -94.337776,
+    32.544338,
+    -94.337776,
+    32.544338
+],
+  "geometry": {"coordinates":[-94.33777600000001,32.544338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287307345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.197983,26.20792,-98.197983,26.20792",
     "geom:latitude":26.20792,
     "geom:longitude":-98.197983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Albrad Ave Ste B",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287307345,
-    "wof:lastmodified":1449000887,
+    "wof:lastmodified":1467083825,
     "wof:name":"Valley Icon Media",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.197983,26.20792,-98.197983,26.20792],
-  "geometry": {"coordinates":[-98.197983,26.20792],"type":"Point"}
+  "bbox": [
+    -98.197983,
+    26.20792,
+    -98.197983,
+    26.20792
+],
+  "geometry": {"coordinates":[-98.19798299999999,26.20792],"type":"Point"}
 }

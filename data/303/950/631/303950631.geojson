@@ -2,13 +2,14 @@
   "id": 303950631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.905037,35.229198,-101.905037,35.229198",
     "geom:latitude":35.229198,
     "geom:longitude":-101.905037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Purple Sage Cir",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303950631,
-    "wof:lastmodified":1448999071,
+    "wof:lastmodified":1467083739,
     "wof:name":"Hawks Tire Service",
     "wof:parent_id":85875861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-101.905037,35.229198,-101.905037,35.229198],
-  "geometry": {"coordinates":[-101.905037,35.229198],"type":"Point"}
+  "bbox": [
+    -101.905037,
+    35.229198,
+    -101.905037,
+    35.229198
+],
+  "geometry": {"coordinates":[-101.90503699999999,35.229198],"type":"Point"}
 }

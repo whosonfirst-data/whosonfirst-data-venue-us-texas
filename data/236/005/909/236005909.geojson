@@ -2,13 +2,14 @@
   "id": 236005909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370269,31.070271,-97.370269,31.070271",
     "geom:latitude":31.070271,
     "geom:longitude":-97.370269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Market Loop",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236005909,
-    "wof:lastmodified":1449004928,
+    "wof:lastmodified":1467084024,
     "wof:name":"Pet Pointe",
     "wof:parent_id":85849059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.370269,31.070271,-97.370269,31.070271],
-  "geometry": {"coordinates":[-97.370269,31.070271],"type":"Point"}
+  "bbox": [
+    -97.370269,
+    31.070271,
+    -97.370269,
+    31.070271
+],
+  "geometry": {"coordinates":[-97.37026899999999,31.070271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220098631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.74926,29.763261,-95.74926,29.763261",
     "geom:latitude":29.763261,
     "geom:longitude":-95.74926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 Park Ln",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220098631,
-    "wof:lastmodified":1449074786,
+    "wof:lastmodified":1467085194,
     "wof:name":"Cerdafied Enterprises",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.74926,29.763261,-95.74926,29.763261],
-  "geometry": {"coordinates":[-95.74926,29.763261],"type":"Point"}
+  "bbox": [
+    -95.74926,
+    29.763261,
+    -95.74926,
+    29.763261
+],
+  "geometry": {"coordinates":[-95.74926000000001,29.763261],"type":"Point"}
 }

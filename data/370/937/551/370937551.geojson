@@ -2,13 +2,14 @@
   "id": 370937551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.824323,32.81012,-96.824323,32.81012",
     "geom:latitude":32.81012,
     "geom:longitude":-96.824323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Lucas Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370937551,
-    "wof:lastmodified":1449029731,
+    "wof:lastmodified":1467084484,
     "wof:name":"Printcomm",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-96.824323,32.81012,-96.824323,32.81012],
-  "geometry": {"coordinates":[-96.824323,32.81012],"type":"Point"}
+  "bbox": [
+    -96.824323,
+    32.81012,
+    -96.824323,
+    32.81012
+],
+  "geometry": {"coordinates":[-96.82432300000001,32.81012],"type":"Point"}
 }

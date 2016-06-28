@@ -2,13 +2,14 @@
   "id": 287136065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.470093,27.506559,-99.470093,27.506559",
     "geom:latitude":27.506559,
     "geom:longitude":-99.470093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Guadalupe St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -85,10 +86,11 @@
         }
     ],
     "wof:id":287136065,
-    "wof:lastmodified":1449001585,
+    "wof:lastmodified":1467083848,
     "wof:name":"Cabello's Wrecker Service Inc",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -103,6 +105,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-99.470093,27.506559,-99.470093,27.506559],
-  "geometry": {"coordinates":[-99.470093,27.506559],"type":"Point"}
+  "bbox": [
+    -99.470093,
+    27.506559,
+    -99.470093,
+    27.506559
+],
+  "geometry": {"coordinates":[-99.47009300000001,27.506559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186020435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112312,33.202703,-97.112312,33.202703",
     "geom:latitude":33.202703,
     "geom:longitude":-97.112312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S Woodrow Ln",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186020435,
-    "wof:lastmodified":1449051633,
+    "wof:lastmodified":1467084718,
     "wof:name":"Atlas Machine",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.112312,33.202703,-97.112312,33.202703],
+  "bbox": [
+    -97.112312,
+    33.202703,
+    -97.112312,
+    33.202703
+],
   "geometry": {"coordinates":[-97.112312,33.202703],"type":"Point"}
 }

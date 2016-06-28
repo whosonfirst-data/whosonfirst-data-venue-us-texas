@@ -2,13 +2,14 @@
   "id": 269985005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.205641,29.782017,-95.205641,29.782017",
     "geom:latitude":29.782017,
     "geom:longitude":-95.205641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"788 Normandy St Ste B",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269985005,
-    "wof:lastmodified":1449037332,
+    "wof:lastmodified":1467084604,
     "wof:name":"Donald's Donuts",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.205641,29.782017,-95.205641,29.782017],
+  "bbox": [
+    -95.205641,
+    29.782017,
+    -95.205641,
+    29.782017
+],
   "geometry": {"coordinates":[-95.205641,29.782017],"type":"Point"}
 }

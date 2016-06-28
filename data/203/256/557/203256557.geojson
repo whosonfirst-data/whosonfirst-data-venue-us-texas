@@ -2,13 +2,14 @@
   "id": 203256557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.15461,30.015236,-99.15461,30.015236",
     "geom:latitude":30.015236,
     "geom:longitude":-99.15461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Fawn Valley Ln",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203256557,
-    "wof:lastmodified":1449026390,
+    "wof:lastmodified":1467084412,
     "wof:name":"Hill Country Custom Woodwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.15461,30.015236,-99.15461,30.015236],
-  "geometry": {"coordinates":[-99.15461,30.015236],"type":"Point"}
+  "bbox": [
+    -99.15461,
+    30.015236,
+    -99.15461,
+    30.015236
+],
+  "geometry": {"coordinates":[-99.15461000000001,30.015236],"type":"Point"}
 }

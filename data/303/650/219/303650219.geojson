@@ -2,13 +2,14 @@
   "id": 303650219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.834592,30.229459,-97.834592,30.229459",
     "geom:latitude":30.229459,
     "geom:longitude":-97.834592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Monterey Oaks Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303650219,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1467083766,
     "wof:name":"ToroBlanco Environmental LLP",
     "wof:parent_id":85857877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sprinklers-garden"
     ]
 },
-  "bbox": [-97.834592,30.229459,-97.834592,30.229459],
+  "bbox": [
+    -97.834592,
+    30.229459,
+    -97.834592,
+    30.229459
+],
   "geometry": {"coordinates":[-97.834592,30.229459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303838183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764938,30.39229,-97.764938,30.39229",
     "geom:latitude":30.39229,
     "geom:longitude":-97.764938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 Bluffstone Cv Ste A-104",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303838183,
-    "wof:lastmodified":1448998416,
+    "wof:lastmodified":1467083706,
     "wof:name":"Buckman, Brett M, Dds - Buckman Orthodontics",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-97.764938,30.39229,-97.764938,30.39229],
+  "bbox": [
+    -97.764938,
+    30.39229,
+    -97.764938,
+    30.39229
+],
   "geometry": {"coordinates":[-97.764938,30.39229],"type":"Point"}
 }

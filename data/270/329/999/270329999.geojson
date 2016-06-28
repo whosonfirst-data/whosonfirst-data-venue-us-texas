@@ -2,13 +2,14 @@
   "id": 270329999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.339798,29.6315,-95.339798,29.6315",
     "geom:latitude":29.6315,
     "geom:longitude":-95.339798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Selinsky Rd Apt 111",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270329999,
-    "wof:lastmodified":1449009294,
+    "wof:lastmodified":1467084171,
     "wof:name":"Villa Americana Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.339798,29.6315,-95.339798,29.6315],
+  "bbox": [
+    -95.339798,
+    29.6315,
+    -95.339798,
+    29.6315
+],
   "geometry": {"coordinates":[-95.339798,29.6315],"type":"Point"}
 }

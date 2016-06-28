@@ -2,13 +2,14 @@
   "id": 387654893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.830755,30.493721,-97.830755,30.493721",
     "geom:latitude":30.493721,
     "geom:longitude":-97.830755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Dover Pass",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387654893,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1467084816,
     "wof:name":"US Oilnet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.830755,30.493721,-97.830755,30.493721],
+  "bbox": [
+    -97.830755,
+    30.493721,
+    -97.830755,
+    30.493721
+],
   "geometry": {"coordinates":[-97.830755,30.493721],"type":"Point"}
 }

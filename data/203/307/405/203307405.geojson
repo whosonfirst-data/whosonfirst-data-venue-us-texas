@@ -2,13 +2,14 @@
   "id": 203307405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.309424,34.009404,-100.309424,34.009404",
     "geom:latitude":34.009404,
     "geom:longitude":-100.309424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 N 16th St",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203307405,
-    "wof:lastmodified":1449025411,
+    "wof:lastmodified":1467084393,
     "wof:name":"Powell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-100.309424,34.009404,-100.309424,34.009404],
-  "geometry": {"coordinates":[-100.309424,34.009404],"type":"Point"}
+  "bbox": [
+    -100.309424,
+    34.009404,
+    -100.309424,
+    34.009404
+],
+  "geometry": {"coordinates":[-100.30942400000001,34.009404],"type":"Point"}
 }

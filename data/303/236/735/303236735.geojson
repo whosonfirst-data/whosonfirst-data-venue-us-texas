@@ -2,13 +2,14 @@
   "id": 303236735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750587,30.27565,-97.750587,30.27565",
     "geom:latitude":30.27565,
     "geom:longitude":-97.750587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Shoal Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":303236735,
-    "wof:lastmodified":1448998382,
+    "wof:lastmodified":1467083704,
     "wof:name":"Efology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "distributor"
     ]
 },
-  "bbox": [-97.750587,30.27565,-97.750587,30.27565],
+  "bbox": [
+    -97.750587,
+    30.27565,
+    -97.750587,
+    30.27565
+],
   "geometry": {"coordinates":[-97.750587,30.27565],"type":"Point"}
 }

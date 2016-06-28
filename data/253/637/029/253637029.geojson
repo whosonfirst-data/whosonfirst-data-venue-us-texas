@@ -2,13 +2,14 @@
   "id": 253637029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115067,32.682449,-97.115067,32.682449",
     "geom:latitude":32.682449,
     "geom:longitude":-97.115067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Highlander Blvd - Ste 200",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":253637029,
-    "wof:lastmodified":1449062825,
+    "wof:lastmodified":1467084945,
     "wof:name":"Liberty Mutual Insurance Company",
     "wof:parent_id":85850295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-97.115067,32.682449,-97.115067,32.682449],
+  "bbox": [
+    -97.115067,
+    32.682449,
+    -97.115067,
+    32.682449
+],
   "geometry": {"coordinates":[-97.115067,32.682449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387465645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143833,30.084536,-94.143833,30.084536",
     "geom:latitude":30.084536,
     "geom:longitude":-94.143833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 Phelan Blvd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387465645,
-    "wof:lastmodified":1449058665,
+    "wof:lastmodified":1467084850,
     "wof:name":"Mail It Here",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-94.143833,30.084536,-94.143833,30.084536],
+  "bbox": [
+    -94.143833,
+    30.084536,
+    -94.143833,
+    30.084536
+],
   "geometry": {"coordinates":[-94.143833,30.084536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236931137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.287051,32.632848,-97.287051,32.632848",
     "geom:latitude":32.632848,
     "geom:longitude":-97.287051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Race St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236931137,
-    "wof:lastmodified":1449004895,
+    "wof:lastmodified":1467084022,
     "wof:name":"City of Everman",
     "wof:parent_id":85871545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "body"
     ]
 },
-  "bbox": [-97.287051,32.632848,-97.287051,32.632848],
-  "geometry": {"coordinates":[-97.287051,32.632848],"type":"Point"}
+  "bbox": [
+    -97.287051,
+    32.632848,
+    -97.287051,
+    32.632848
+],
+  "geometry": {"coordinates":[-97.28705100000001,32.632848],"type":"Point"}
 }

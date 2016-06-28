@@ -2,13 +2,14 @@
   "id": 253048855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.845348,32.823743,-96.845348,32.823743",
     "geom:latitude":32.823743,
     "geom:longitude":-96.845348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6333 Forest Park Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253048855,
-    "wof:lastmodified":1449063857,
+    "wof:lastmodified":1467084980,
     "wof:name":"Dallas Physical Performance Center",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.845348,32.823743,-96.845348,32.823743],
+  "bbox": [
+    -96.845348,
+    32.823743,
+    -96.845348,
+    32.823743
+],
   "geometry": {"coordinates":[-96.845348,32.823743],"type":"Point"}
 }

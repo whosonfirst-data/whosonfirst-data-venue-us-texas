@@ -2,13 +2,14 @@
   "id": 387510251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.191994,32.850667,-97.191994,32.850667",
     "geom:latitude":32.850667,
     "geom:longitude":-97.191994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9982 Grapevine Hwy",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387510251,
-    "wof:lastmodified":1449058393,
+    "wof:lastmodified":1467084843,
     "wof:name":"Teacher's Tools",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.191994,32.850667,-97.191994,32.850667],
-  "geometry": {"coordinates":[-97.191994,32.850667],"type":"Point"}
+  "bbox": [
+    -97.191994,
+    32.850667,
+    -97.191994,
+    32.850667
+],
+  "geometry": {"coordinates":[-97.19199399999999,32.850667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253653961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146118,32.837769,-97.146118,32.837769",
     "geom:latitude":32.837769,
     "geom:longitude":-97.146118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Airport Fwy",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253653961,
-    "wof:lastmodified":1449063038,
+    "wof:lastmodified":1467084952,
     "wof:name":"North Texas Cardiology and Electrophysiology",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cardiovascular"
     ]
 },
-  "bbox": [-97.146118,32.837769,-97.146118,32.837769],
+  "bbox": [
+    -97.146118,
+    32.837769,
+    -97.146118,
+    32.837769
+],
   "geometry": {"coordinates":[-97.146118,32.837769],"type":"Point"}
 }

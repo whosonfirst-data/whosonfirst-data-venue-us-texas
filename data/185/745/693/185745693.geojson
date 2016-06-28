@@ -2,13 +2,14 @@
   "id": 185745693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39512,30.042868,-95.39512,30.042868",
     "geom:latitude":30.042868,
     "geom:longitude":-95.39512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23126 Briarcreek Blvd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185745693,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1467084138,
     "wof:name":"David G Doores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.39512,30.042868,-95.39512,30.042868],
-  "geometry": {"coordinates":[-95.39512,30.042868],"type":"Point"}
+  "bbox": [
+    -95.39512,
+    30.042868,
+    -95.39512,
+    30.042868
+],
+  "geometry": {"coordinates":[-95.39512000000001,30.042868],"type":"Point"}
 }

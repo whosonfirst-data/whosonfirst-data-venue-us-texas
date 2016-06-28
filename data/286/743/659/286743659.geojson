@@ -2,13 +2,14 @@
   "id": 286743659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.104763,29.356881,-96.104763,29.356881",
     "geom:latitude":29.356881,
     "geom:longitude":-96.104763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4166 N Highway 59",
     "sg:city":"Wharton",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286743659,
-    "wof:lastmodified":1449018065,
+    "wof:lastmodified":1467084317,
     "wof:name":"Wharton Collision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "repairing"
     ]
 },
-  "bbox": [-96.104763,29.356881,-96.104763,29.356881],
-  "geometry": {"coordinates":[-96.104763,29.356881],"type":"Point"}
+  "bbox": [
+    -96.104763,
+    29.356881,
+    -96.104763,
+    29.356881
+],
+  "geometry": {"coordinates":[-96.10476300000001,29.356881],"type":"Point"}
 }

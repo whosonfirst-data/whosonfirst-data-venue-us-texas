@@ -2,13 +2,14 @@
   "id": 186141239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799301,32.745972,-96.799301,32.745972",
     "geom:latitude":32.745972,
     "geom:longitude":-96.799301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 S Corinth St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186141239,
-    "wof:lastmodified":1449051331,
+    "wof:lastmodified":1467084711,
     "wof:name":"Hilltop View Apts",
     "wof:parent_id":85893627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.799301,32.745972,-96.799301,32.745972],
+  "bbox": [
+    -96.799301,
+    32.745972,
+    -96.799301,
+    32.745972
+],
   "geometry": {"coordinates":[-96.799301,32.745972],"type":"Point"}
 }

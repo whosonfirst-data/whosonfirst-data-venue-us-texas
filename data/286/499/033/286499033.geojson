@@ -2,13 +2,14 @@
   "id": 286499033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538396,30.709988,-95.538396,30.709988",
     "geom:latitude":30.709988,
     "geom:longitude":-95.538396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Sycamore Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286499033,
-    "wof:lastmodified":1449015724,
+    "wof:lastmodified":1467084251,
     "wof:name":"Apartments-Furnished",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.538396,30.709988,-95.538396,30.709988],
-  "geometry": {"coordinates":[-95.538396,30.709988],"type":"Point"}
+  "bbox": [
+    -95.538396,
+    30.709988,
+    -95.538396,
+    30.709988
+],
+  "geometry": {"coordinates":[-95.53839600000001,30.709988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386994703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.427713,29.520453,-98.427713,29.520453",
     "geom:latitude":29.520453,
     "geom:longitude":-98.427713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Village Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386994703,
-    "wof:lastmodified":1449028636,
+    "wof:lastmodified":1467084458,
     "wof:name":"David L Fox Dr",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.427713,29.520453,-98.427713,29.520453],
+  "bbox": [
+    -98.427713,
+    29.520453,
+    -98.427713,
+    29.520453
+],
   "geometry": {"coordinates":[-98.427713,29.520453],"type":"Point"}
 }

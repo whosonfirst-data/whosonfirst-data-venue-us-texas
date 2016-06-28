@@ -2,13 +2,14 @@
   "id": 252757913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768562,32.768958,-96.768562,32.768958",
     "geom:latitude":32.768958,
     "geom:longitude":-96.768562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2734 Martin Luther King Jr Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252757913,
-    "wof:lastmodified":1449006027,
+    "wof:lastmodified":1467084081,
     "wof:name":"Kingstown",
     "wof:parent_id":85893637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768562,32.768958,-96.768562,32.768958],
+  "bbox": [
+    -96.768562,
+    32.768958,
+    -96.768562,
+    32.768958
+],
   "geometry": {"coordinates":[-96.768562,32.768958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403801253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.568993,29.450095,-98.568993,29.450095",
     "geom:latitude":29.450095,
     "geom:longitude":-98.568993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 NW 36th St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403801253,
-    "wof:lastmodified":1449055744,
+    "wof:lastmodified":1467084775,
     "wof:name":"Tool Rescue",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-98.568993,29.450095,-98.568993,29.450095],
-  "geometry": {"coordinates":[-98.568993,29.450095],"type":"Point"}
+  "bbox": [
+    -98.568993,
+    29.450095,
+    -98.568993,
+    29.450095
+],
+  "geometry": {"coordinates":[-98.56899300000001,29.450095],"type":"Point"}
 }

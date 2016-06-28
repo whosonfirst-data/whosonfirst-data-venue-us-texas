@@ -2,13 +2,14 @@
   "id": 270140887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.270199,29.781934,-95.270199,29.781934",
     "geom:latitude":29.781934,
     "geom:longitude":-95.270199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Gellhorn Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270140887,
-    "wof:lastmodified":1449008991,
+    "wof:lastmodified":1467084161,
     "wof:name":"Porta Kamp",
     "wof:parent_id":85869591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "modulars"
     ]
 },
-  "bbox": [-95.270199,29.781934,-95.270199,29.781934],
-  "geometry": {"coordinates":[-95.270199,29.781934],"type":"Point"}
+  "bbox": [
+    -95.270199,
+    29.781934,
+    -95.270199,
+    29.781934
+],
+  "geometry": {"coordinates":[-95.27019900000001,29.781934],"type":"Point"}
 }

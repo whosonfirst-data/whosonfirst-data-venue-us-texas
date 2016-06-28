@@ -2,13 +2,14 @@
   "id": 303182929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.645767,30.461016,-97.645767,30.461016",
     "geom:latitude":30.461016,
     "geom:longitude":-97.645767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Blackthorn Dr",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303182929,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1467083769,
     "wof:name":"Simplified Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-97.645767,30.461016,-97.645767,30.461016],
-  "geometry": {"coordinates":[-97.645767,30.461016],"type":"Point"}
+  "bbox": [
+    -97.645767,
+    30.461016,
+    -97.645767,
+    30.461016
+],
+  "geometry": {"coordinates":[-97.64576700000001,30.461016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303150983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.865301,30.615903,-97.865301,30.615903",
     "geom:latitude":30.615903,
     "geom:longitude":-97.865301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Green Valley Dr",
     "sg:city":"Leander",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303150983,
-    "wof:lastmodified":1448998151,
+    "wof:lastmodified":1467083692,
     "wof:name":"Matt Allman",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.865301,30.615903,-97.865301,30.615903],
+  "bbox": [
+    -97.865301,
+    30.615903,
+    -97.865301,
+    30.615903
+],
   "geometry": {"coordinates":[-97.865301,30.615903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370623601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359377,29.724912,-95.359377,29.724912",
     "geom:latitude":29.724912,
     "geom:longitude":-95.359377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 Burkett St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370623601,
-    "wof:lastmodified":1449031462,
+    "wof:lastmodified":1467084529,
     "wof:name":"CIS-Tsuhisd Lab",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.359377,29.724912,-95.359377,29.724912],
-  "geometry": {"coordinates":[-95.359377,29.724912],"type":"Point"}
+  "bbox": [
+    -95.359377,
+    29.724912,
+    -95.359377,
+    29.724912
+],
+  "geometry": {"coordinates":[-95.35937699999999,29.724912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286772601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.192101,29.682199,-95.192101,29.682199",
     "geom:latitude":29.682199,
     "geom:longitude":-95.192101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Pasadena Blvd",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286772601,
-    "wof:lastmodified":1449016508,
+    "wof:lastmodified":1467084272,
     "wof:name":"Pasadena House of Weddings & Flowers",
     "wof:parent_id":85879753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.192101,29.682199,-95.192101,29.682199],
-  "geometry": {"coordinates":[-95.192101,29.682199],"type":"Point"}
+  "bbox": [
+    -95.192101,
+    29.682199,
+    -95.192101,
+    29.682199
+],
+  "geometry": {"coordinates":[-95.19210099999999,29.682199],"type":"Point"}
 }

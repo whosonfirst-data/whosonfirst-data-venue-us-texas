@@ -2,13 +2,14 @@
   "id": 286491545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.212936,30.05595,-95.212936,30.05595",
     "geom:latitude":30.05595,
     "geom:longitude":-95.212936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Woodland Hills Dr",
     "sg:city":"Kingwood",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":286491545,
-    "wof:lastmodified":1449015114,
+    "wof:lastmodified":1467084234,
     "wof:name":"Stop N Go",
     "wof:parent_id":85828487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.212936,30.05595,-95.212936,30.05595],
+  "bbox": [
+    -95.212936,
+    30.05595,
+    -95.212936,
+    30.05595
+],
   "geometry": {"coordinates":[-95.212936,30.05595],"type":"Point"}
 }

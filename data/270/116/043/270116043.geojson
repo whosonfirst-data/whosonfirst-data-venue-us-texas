@@ -2,13 +2,14 @@
   "id": 270116043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455012,29.729695,-95.455012,29.729695",
     "geom:latitude":29.729695,
     "geom:longitude":-95.455012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4669 Southwest Freeway Ste 540",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270116043,
-    "wof:lastmodified":1449008993,
+    "wof:lastmodified":1467084161,
     "wof:name":"Caring Senior Service of Central Houston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.455012,29.729695,-95.455012,29.729695],
+  "bbox": [
+    -95.455012,
+    29.729695,
+    -95.455012,
+    29.729695
+],
   "geometry": {"coordinates":[-95.455012,29.729695],"type":"Point"}
 }

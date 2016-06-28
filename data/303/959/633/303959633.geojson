@@ -2,13 +2,14 @@
   "id": 303959633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.303993,34.477534,-101.303993,34.477534",
     "geom:latitude":34.477534,
     "geom:longitude":-101.303993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Main St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303959633,
-    "wof:lastmodified":1449000324,
+    "wof:lastmodified":1467083801,
     "wof:name":"Our Lady of Loreto Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-101.303993,34.477534,-101.303993,34.477534],
-  "geometry": {"coordinates":[-101.303993,34.477534],"type":"Point"}
+  "bbox": [
+    -101.303993,
+    34.477534,
+    -101.303993,
+    34.477534
+],
+  "geometry": {"coordinates":[-101.30399300000001,34.477534],"type":"Point"}
 }

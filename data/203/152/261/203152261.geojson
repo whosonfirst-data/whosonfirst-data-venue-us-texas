@@ -2,13 +2,14 @@
   "id": 203152261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.277769,32.317007,-95.277769,32.317007",
     "geom:latitude":32.317007,
     "geom:longitude":-95.277769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 Troup Hwy",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203152261,
-    "wof:lastmodified":1449026390,
+    "wof:lastmodified":1467084412,
     "wof:name":"Super Sak",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.277769,32.317007,-95.277769,32.317007],
-  "geometry": {"coordinates":[-95.277769,32.317007],"type":"Point"}
+  "bbox": [
+    -95.277769,
+    32.317007,
+    -95.277769,
+    32.317007
+],
+  "geometry": {"coordinates":[-95.27776900000001,32.317007],"type":"Point"}
 }

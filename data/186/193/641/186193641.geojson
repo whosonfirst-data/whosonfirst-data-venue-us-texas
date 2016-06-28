@@ -2,13 +2,14 @@
   "id": 186193641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769636,32.877544,-96.769636,32.877544",
     "geom:latitude":32.877544,
     "geom:longitude":-96.769636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186193641,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1467084701,
     "wof:name":"Boater's World Marine Ctr",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.769636,32.877544,-96.769636,32.877544],
-  "geometry": {"coordinates":[-96.769636,32.877544],"type":"Point"}
+  "bbox": [
+    -96.769636,
+    32.877544,
+    -96.769636,
+    32.877544
+],
+  "geometry": {"coordinates":[-96.76963600000001,32.877544],"type":"Point"}
 }

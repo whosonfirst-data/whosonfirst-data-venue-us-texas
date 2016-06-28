@@ -2,13 +2,14 @@
   "id": 236879059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802091,32.799381,-96.802091,32.799381",
     "geom:latitude":32.799381,
     "geom:longitude":-96.802091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Howell St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236879059,
-    "wof:lastmodified":1449001698,
+    "wof:lastmodified":1467083855,
     "wof:name":"AMLI Quadrangle",
     "wof:parent_id":85870437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.802091,32.799381,-96.802091,32.799381],
+  "bbox": [
+    -96.802091,
+    32.799381,
+    -96.802091,
+    32.799381
+],
   "geometry": {"coordinates":[-96.802091,32.799381],"type":"Point"}
 }

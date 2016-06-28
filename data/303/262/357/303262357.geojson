@@ -2,13 +2,14 @@
   "id": 303262357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749437,30.272543,-97.749437,30.272543",
     "geom:latitude":30.272543,
     "geom:longitude":-97.749437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 West Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303262357,
-    "wof:lastmodified":1448999634,
+    "wof:lastmodified":1467083767,
     "wof:name":"West End Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-97.749437,30.272543,-97.749437,30.272543],
+  "bbox": [
+    -97.749437,
+    30.272543,
+    -97.749437,
+    30.272543
+],
   "geometry": {"coordinates":[-97.749437,30.272543],"type":"Point"}
 }

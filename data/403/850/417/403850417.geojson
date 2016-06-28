@@ -2,13 +2,14 @@
   "id": 403850417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.786605,33.151574,-96.786605,33.151574",
     "geom:latitude":33.151574,
     "geom:longitude":-96.786605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10715 Copperwood Dr",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403850417,
-    "wof:lastmodified":1449055404,
+    "wof:lastmodified":1467084768,
     "wof:name":"Matrix Group",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.786605,33.151574,-96.786605,33.151574],
-  "geometry": {"coordinates":[-96.786605,33.151574],"type":"Point"}
+  "bbox": [
+    -96.786605,
+    33.151574,
+    -96.786605,
+    33.151574
+],
+  "geometry": {"coordinates":[-96.78660499999999,33.151574],"type":"Point"}
 }

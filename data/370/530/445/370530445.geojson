@@ -2,13 +2,14 @@
   "id": 370530445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744037,30.27826,-97.744037,30.27826",
     "geom:latitude":30.27826,
     "geom:longitude":-97.744037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W 15th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370530445,
-    "wof:lastmodified":1449030877,
+    "wof:lastmodified":1467084514,
     "wof:name":"Kelly Coyle & Associates",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744037,30.27826,-97.744037,30.27826],
-  "geometry": {"coordinates":[-97.744037,30.27826],"type":"Point"}
+  "bbox": [
+    -97.744037,
+    30.27826,
+    -97.744037,
+    30.27826
+],
+  "geometry": {"coordinates":[-97.74403700000001,30.27826],"type":"Point"}
 }

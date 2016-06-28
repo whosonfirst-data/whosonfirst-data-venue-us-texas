@@ -2,13 +2,14 @@
   "id": 236368723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.941178,32.868094,-96.941178,32.868094",
     "geom:latitude":32.868094,
     "geom:longitude":-96.941178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E John Carpenter Fwy Ste 1050",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236368723,
-    "wof:lastmodified":1449002248,
+    "wof:lastmodified":1467083896,
     "wof:name":"Miller Brewing Co",
     "wof:parent_id":85878305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.941178,32.868094,-96.941178,32.868094],
-  "geometry": {"coordinates":[-96.941178,32.868094],"type":"Point"}
+  "bbox": [
+    -96.941178,
+    32.868094,
+    -96.941178,
+    32.868094
+],
+  "geometry": {"coordinates":[-96.94117799999999,32.868094],"type":"Point"}
 }

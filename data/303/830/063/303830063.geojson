@@ -2,13 +2,14 @@
   "id": 303830063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747147,30.399782,-97.747147,30.399782",
     "geom:latitude":30.399782,
     "geom:longitude":-97.747147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10740 Research Blvd Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303830063,
-    "wof:lastmodified":1448998632,
+    "wof:lastmodified":1467083717,
     "wof:name":"My Fit Foods",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-97.747147,30.399782,-97.747147,30.399782],
+  "bbox": [
+    -97.747147,
+    30.399782,
+    -97.747147,
+    30.399782
+],
   "geometry": {"coordinates":[-97.747147,30.399782],"type":"Point"}
 }

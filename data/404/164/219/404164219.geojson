@@ -2,13 +2,14 @@
   "id": 404164219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.589683,29.776683,-95.589683,29.776683",
     "geom:latitude":29.776683,
     "geom:longitude":-95.589683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13822 Kimberley Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404164219,
-    "wof:lastmodified":1449039162,
+    "wof:lastmodified":1467084642,
     "wof:name":"Keyword Deposition Summaries",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-95.589683,29.776683,-95.589683,29.776683],
-  "geometry": {"coordinates":[-95.589683,29.776683],"type":"Point"}
+  "bbox": [
+    -95.589683,
+    29.776683,
+    -95.589683,
+    29.776683
+],
+  "geometry": {"coordinates":[-95.58968299999999,29.776683],"type":"Point"}
 }

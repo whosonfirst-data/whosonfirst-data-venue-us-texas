@@ -2,13 +2,14 @@
   "id": 252884253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804153,32.861266,-96.804153,32.861266",
     "geom:latitude":32.861266,
     "geom:longitude":-96.804153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8111 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":252884253,
-    "wof:lastmodified":1449006298,
+    "wof:lastmodified":1467084097,
     "wof:name":"Lee Drain",
     "wof:parent_id":85870419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-96.804153,32.861266,-96.804153,32.861266],
+  "bbox": [
+    -96.804153,
+    32.861266,
+    -96.804153,
+    32.861266
+],
   "geometry": {"coordinates":[-96.804153,32.861266],"type":"Point"}
 }

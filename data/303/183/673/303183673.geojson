@@ -2,13 +2,14 @@
   "id": 303183673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627923,30.404894,-97.627923,30.404894",
     "geom:latitude":30.404894,
     "geom:longitude":-97.627923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 Patterson Industrial Dr Suite 509",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":303183673,
-    "wof:lastmodified":1448999434,
+    "wof:lastmodified":1467083757,
     "wof:name":"Austin Archives",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "destruction"
     ]
 },
-  "bbox": [-97.627923,30.404894,-97.627923,30.404894],
+  "bbox": [
+    -97.627923,
+    30.404894,
+    -97.627923,
+    30.404894
+],
   "geometry": {"coordinates":[-97.627923,30.404894],"type":"Point"}
 }

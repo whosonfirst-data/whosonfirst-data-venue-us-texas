@@ -2,13 +2,14 @@
   "id": 303595865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.801793,30.224574,-97.801793,30.224574",
     "geom:latitude":30.224574,
     "geom:longitude":-97.801793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Jones Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303595865,
-    "wof:lastmodified":1449000329,
+    "wof:lastmodified":1467083801,
     "wof:name":"Kids World",
     "wof:parent_id":85869967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.801793,30.224574,-97.801793,30.224574],
+  "bbox": [
+    -97.801793,
+    30.224574,
+    -97.801793,
+    30.224574
+],
   "geometry": {"coordinates":[-97.801793,30.224574],"type":"Point"}
 }

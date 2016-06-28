@@ -2,13 +2,14 @@
   "id": 203218023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.103873,31.998501,-102.103873,31.998501",
     "geom:latitude":31.998501,
     "geom:longitude":-102.103873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 W Louisiana Ave",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203218023,
-    "wof:lastmodified":1449026173,
+    "wof:lastmodified":1467084408,
     "wof:name":"West Texas Air",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "allergy"
     ]
 },
-  "bbox": [-102.103873,31.998501,-102.103873,31.998501],
-  "geometry": {"coordinates":[-102.103873,31.998501],"type":"Point"}
+  "bbox": [
+    -102.103873,
+    31.998501,
+    -102.103873,
+    31.998501
+],
+  "geometry": {"coordinates":[-102.10387299999999,31.998501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304001449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.922508,33.562372,-101.922508,33.562372",
     "geom:latitude":33.562372,
     "geom:longitude":-101.922508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 Slide Rd Ste 25",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304001449,
-    "wof:lastmodified":1449043701,
+    "wof:lastmodified":1467084662,
     "wof:name":"Kid Central",
     "wof:parent_id":85878823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-101.922508,33.562372,-101.922508,33.562372],
-  "geometry": {"coordinates":[-101.922508,33.562372],"type":"Point"}
+  "bbox": [
+    -101.922508,
+    33.562372,
+    -101.922508,
+    33.562372
+],
+  "geometry": {"coordinates":[-101.92250799999999,33.562372],"type":"Point"}
 }

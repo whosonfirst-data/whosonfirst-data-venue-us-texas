@@ -2,13 +2,14 @@
   "id": 303642107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.822589,30.173594,-97.822589,30.173594",
     "geom:latitude":30.173594,
     "geom:longitude":-97.822589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Slaughter Lane W",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303642107,
-    "wof:lastmodified":1448998260,
+    "wof:lastmodified":1467083698,
     "wof:name":"Burger King Restaurants",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.822589,30.173594,-97.822589,30.173594],
-  "geometry": {"coordinates":[-97.822589,30.173594],"type":"Point"}
+  "bbox": [
+    -97.822589,
+    30.173594,
+    -97.822589,
+    30.173594
+],
+  "geometry": {"coordinates":[-97.82258899999999,30.173594],"type":"Point"}
 }

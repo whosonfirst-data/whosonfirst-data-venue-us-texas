@@ -2,13 +2,14 @@
   "id": 387077693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.82031,33.511208,-101.82031,33.511208",
     "geom:latitude":33.511208,
     "geom:longitude":-101.82031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Co Rd 7150",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387077693,
-    "wof:lastmodified":1449056706,
+    "wof:lastmodified":1467084800,
     "wof:name":"Rondo Motors",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-101.82031,33.511208,-101.82031,33.511208],
-  "geometry": {"coordinates":[-101.82031,33.511208],"type":"Point"}
+  "bbox": [
+    -101.82031,
+    33.511208,
+    -101.82031,
+    33.511208
+],
+  "geometry": {"coordinates":[-101.82031000000001,33.511208],"type":"Point"}
 }

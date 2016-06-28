@@ -2,13 +2,14 @@
   "id": 185674987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.451027,31.47665,-100.451027,31.47665",
     "geom:latitude":31.47665,
     "geom:longitude":-100.451027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Martin Luther King Dr",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185674987,
-    "wof:lastmodified":1449007805,
+    "wof:lastmodified":1467084132,
     "wof:name":"Lee's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-100.451027,31.47665,-100.451027,31.47665],
+  "bbox": [
+    -100.451027,
+    31.47665,
+    -100.451027,
+    31.47665
+],
   "geometry": {"coordinates":[-100.451027,31.47665],"type":"Point"}
 }

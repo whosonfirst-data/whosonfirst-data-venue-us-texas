@@ -2,13 +2,14 @@
   "id": 387878915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.374159,32.729003,-97.374159,32.729003",
     "geom:latitude":32.729003,
     "geom:longitude":-97.374159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 W Vickery Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387878915,
-    "wof:lastmodified":1449058098,
+    "wof:lastmodified":1467084835,
     "wof:name":"Cascade Linen & Uniform Co",
     "wof:parent_id":85871597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.374159,32.729003,-97.374159,32.729003],
-  "geometry": {"coordinates":[-97.374159,32.729003],"type":"Point"}
+  "bbox": [
+    -97.374159,
+    32.729003,
+    -97.374159,
+    32.729003
+],
+  "geometry": {"coordinates":[-97.37415900000001,32.729003],"type":"Point"}
 }

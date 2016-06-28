@@ -2,13 +2,14 @@
   "id": 185676899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.17816,32.99192,-97.17816,32.99192",
     "geom:latitude":32.99192,
     "geom:longitude":-97.17816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Inverness Dr",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185676899,
-    "wof:lastmodified":1449007628,
+    "wof:lastmodified":1467084129,
     "wof:name":"Del Jo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.17816,32.99192,-97.17816,32.99192],
-  "geometry": {"coordinates":[-97.17816,32.99192],"type":"Point"}
+  "bbox": [
+    -97.17816,
+    32.99192,
+    -97.17816,
+    32.99192
+],
+  "geometry": {"coordinates":[-97.17816000000001,32.99192],"type":"Point"}
 }

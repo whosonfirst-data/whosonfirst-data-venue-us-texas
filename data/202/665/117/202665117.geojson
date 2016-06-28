@@ -2,13 +2,14 @@
   "id": 202665117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839757,32.569844,-96.839757,32.569844",
     "geom:latitude":32.569844,
     "geom:longitude":-96.839757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 S Uhl Rd",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202665117,
-    "wof:lastmodified":1449060887,
+    "wof:lastmodified":1467084904,
     "wof:name":"Country Seasons",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-96.839757,32.569844,-96.839757,32.569844],
-  "geometry": {"coordinates":[-96.839757,32.569844],"type":"Point"}
+  "bbox": [
+    -96.839757,
+    32.569844,
+    -96.839757,
+    32.569844
+],
+  "geometry": {"coordinates":[-96.83975700000001,32.569844],"type":"Point"}
 }

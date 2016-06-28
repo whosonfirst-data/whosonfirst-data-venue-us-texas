@@ -2,13 +2,14 @@
   "id": 270500567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.561001,29.971193,-95.561001,29.971193",
     "geom:latitude":29.971193,
     "geom:longitude":-95.561001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18922 State Highway 249",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270500567,
-    "wof:lastmodified":1449009233,
+    "wof:lastmodified":1467084169,
     "wof:name":"Champion Imported Auto Parts",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.561001,29.971193,-95.561001,29.971193],
+  "bbox": [
+    -95.561001,
+    29.971193,
+    -95.561001,
+    29.971193
+],
   "geometry": {"coordinates":[-95.561001,29.971193],"type":"Point"}
 }

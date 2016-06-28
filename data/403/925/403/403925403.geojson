@@ -2,13 +2,14 @@
   "id": 403925403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.393324,31.787963,-106.393324,31.787963",
     "geom:latitude":31.787963,
     "geom:longitude":-106.393324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 Cielo Vista Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403925403,
-    "wof:lastmodified":1449054641,
+    "wof:lastmodified":1467084750,
     "wof:name":"Advantage Rent-A-Car",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-106.393324,31.787963,-106.393324,31.787963],
-  "geometry": {"coordinates":[-106.393324,31.787963],"type":"Point"}
+  "bbox": [
+    -106.393324,
+    31.787963,
+    -106.393324,
+    31.787963
+],
+  "geometry": {"coordinates":[-106.39332400000001,31.787963],"type":"Point"}
 }

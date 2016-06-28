@@ -2,13 +2,14 @@
   "id": 252739001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750598,32.806934,-96.750598,32.806934",
     "geom:latitude":32.806934,
     "geom:longitude":-96.750598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6116 Reiger Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":252739001,
-    "wof:lastmodified":1449005865,
+    "wof:lastmodified":1467084073,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.750598,32.806934,-96.750598,32.806934],
+  "bbox": [
+    -96.750598,
+    32.806934,
+    -96.750598,
+    32.806934
+],
   "geometry": {"coordinates":[-96.750598,32.806934],"type":"Point"}
 }

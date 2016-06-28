@@ -2,13 +2,14 @@
   "id": 236627263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.43386,30.019737,-95.43386,30.019737",
     "geom:latitude":30.019737,
     "geom:longitude":-95.43386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 FM 1960 W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236627263,
-    "wof:lastmodified":1449005334,
+    "wof:lastmodified":1467084044,
     "wof:name":"E-Z Apartment Locators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-95.43386,30.019737,-95.43386,30.019737],
+  "bbox": [
+    -95.43386,
+    30.019737,
+    -95.43386,
+    30.019737
+],
   "geometry": {"coordinates":[-95.43386,30.019737],"type":"Point"}
 }

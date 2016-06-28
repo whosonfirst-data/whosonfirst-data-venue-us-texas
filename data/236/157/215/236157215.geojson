@@ -2,13 +2,14 @@
   "id": 236157215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75248,33.041139,-96.75248,33.041139",
     "geom:latitude":33.041139,
     "geom:longitude":-96.75248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 W Parker Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236157215,
-    "wof:lastmodified":1449004684,
+    "wof:lastmodified":1467084012,
     "wof:name":"CHASE Bank",
     "wof:parent_id":85879933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.75248,33.041139,-96.75248,33.041139],
-  "geometry": {"coordinates":[-96.75248,33.041139],"type":"Point"}
+  "bbox": [
+    -96.75248,
+    33.041139,
+    -96.75248,
+    33.041139
+],
+  "geometry": {"coordinates":[-96.75248000000001,33.041139],"type":"Point"}
 }

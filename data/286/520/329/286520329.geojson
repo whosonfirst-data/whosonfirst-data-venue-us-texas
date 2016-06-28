@@ -2,13 +2,14 @@
   "id": 286520329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.594541,30.24019,-95.594541,30.24019",
     "geom:latitude":30.24019,
     "geom:longitude":-95.594541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40807 Roundup Rd",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286520329,
-    "wof:lastmodified":1449016148,
+    "wof:lastmodified":1467084263,
     "wof:name":"Waypoint",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.594541,30.24019,-95.594541,30.24019],
-  "geometry": {"coordinates":[-95.594541,30.24019],"type":"Point"}
+  "bbox": [
+    -95.594541,
+    30.24019,
+    -95.594541,
+    30.24019
+],
+  "geometry": {"coordinates":[-95.59454100000001,30.24019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185965205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740839,30.495235,-97.740839,30.495235",
     "geom:latitude":30.495235,
     "geom:longitude":-97.740839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8405 Cornerwood Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185965205,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1467084131,
     "wof:name":"Datacubix Inc",
     "wof:parent_id":85893521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.740839,30.495235,-97.740839,30.495235],
-  "geometry": {"coordinates":[-97.740839,30.495235],"type":"Point"}
+  "bbox": [
+    -97.740839,
+    30.495235,
+    -97.740839,
+    30.495235
+],
+  "geometry": {"coordinates":[-97.74083899999999,30.495235],"type":"Point"}
 }

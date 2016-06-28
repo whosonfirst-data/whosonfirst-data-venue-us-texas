@@ -2,13 +2,14 @@
   "id": 202404035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.451009,27.781897,-97.451009,27.781897",
     "geom:latitude":27.781897,
     "geom:longitude":-97.451009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 Gemini St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202404035,
-    "wof:lastmodified":1449061773,
+    "wof:lastmodified":1467084923,
     "wof:name":"MDE Intl Inc",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.451009,27.781897,-97.451009,27.781897],
+  "bbox": [
+    -97.451009,
+    27.781897,
+    -97.451009,
+    27.781897
+],
   "geometry": {"coordinates":[-97.451009,27.781897],"type":"Point"}
 }

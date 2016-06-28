@@ -2,13 +2,14 @@
   "id": 403871977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.747285,32.375997,-99.747285,32.375997",
     "geom:latitude":32.375997,
     "geom:longitude":-99.747285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6050 Hospital Dr",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403871977,
-    "wof:lastmodified":1449055065,
+    "wof:lastmodified":1467084760,
     "wof:name":"Windcrest Alzheimers Care Ctr",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alzheimer"
     ]
 },
-  "bbox": [-99.747285,32.375997,-99.747285,32.375997],
-  "geometry": {"coordinates":[-99.747285,32.375997],"type":"Point"}
+  "bbox": [
+    -99.747285,
+    32.375997,
+    -99.747285,
+    32.375997
+],
+  "geometry": {"coordinates":[-99.74728500000001,32.375997],"type":"Point"}
 }

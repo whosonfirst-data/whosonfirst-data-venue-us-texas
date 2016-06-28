@@ -2,13 +2,14 @@
   "id": 270393701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.462503,29.76067,-95.462503,29.76067",
     "geom:latitude":29.76067,
     "geom:longitude":-95.462503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"One Riverway Ste 1150",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270393701,
-    "wof:lastmodified":1449009396,
+    "wof:lastmodified":1467084174,
     "wof:name":"Ross Law Group",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "litigation"
     ]
 },
-  "bbox": [-95.462503,29.76067,-95.462503,29.76067],
+  "bbox": [
+    -95.462503,
+    29.76067,
+    -95.462503,
+    29.76067
+],
   "geometry": {"coordinates":[-95.462503,29.76067],"type":"Point"}
 }

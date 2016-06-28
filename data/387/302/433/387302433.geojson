@@ -2,13 +2,14 @@
   "id": 387302433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.311564,26.203791,-98.311564,26.203791",
     "geom:latitude":26.203791,
     "geom:longitude":-98.311564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Bryan Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387302433,
-    "wof:lastmodified":1449057379,
+    "wof:lastmodified":1467084816,
     "wof:name":"Food Stamp Information",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-98.311564,26.203791,-98.311564,26.203791],
+  "bbox": [
+    -98.311564,
+    26.203791,
+    -98.311564,
+    26.203791
+],
   "geometry": {"coordinates":[-98.311564,26.203791],"type":"Point"}
 }

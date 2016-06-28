@@ -2,13 +2,14 @@
   "id": 286381525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.467424,29.813725,-95.467424,29.813725",
     "geom:latitude":29.813725,
     "geom:longitude":-95.467424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Mitchelldale St B6",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286381525,
-    "wof:lastmodified":1449015423,
+    "wof:lastmodified":1467084243,
     "wof:name":"Aviation Partsbase",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "avionics"
     ]
 },
-  "bbox": [-95.467424,29.813725,-95.467424,29.813725],
-  "geometry": {"coordinates":[-95.467424,29.813725],"type":"Point"}
+  "bbox": [
+    -95.467424,
+    29.813725,
+    -95.467424,
+    29.813725
+],
+  "geometry": {"coordinates":[-95.46742399999999,29.813725],"type":"Point"}
 }

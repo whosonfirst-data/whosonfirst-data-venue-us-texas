@@ -2,13 +2,14 @@
   "id": 253381273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.079086,33.449346,-94.079086,33.449346",
     "geom:latitude":33.449346,
     "geom:longitude":-94.079086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Robinhood Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253381273,
-    "wof:lastmodified":1449063059,
+    "wof:lastmodified":1467084953,
     "wof:name":"The Gathering Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.079086,33.449346,-94.079086,33.449346],
+  "bbox": [
+    -94.079086,
+    33.449346,
+    -94.079086,
+    33.449346
+],
   "geometry": {"coordinates":[-94.079086,33.449346],"type":"Point"}
 }

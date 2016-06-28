@@ -2,13 +2,14 @@
   "id": 303169703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.635032,30.402124,-97.635032,30.402124",
     "geom:latitude":30.402124,
     "geom:longitude":-97.635032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Gregg Ln",
     "sg:city":"Manor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303169703,
-    "wof:lastmodified":1448999627,
+    "wof:lastmodified":1467083767,
     "wof:name":"Austin Alive",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.635032,30.402124,-97.635032,30.402124],
+  "bbox": [
+    -97.635032,
+    30.402124,
+    -97.635032,
+    30.402124
+],
   "geometry": {"coordinates":[-97.635032,30.402124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303305443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.773209,30.277306,-97.773209,30.277306",
     "geom:latitude":30.277306,
     "geom:longitude":-97.773209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Deep Eddy Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303305443,
-    "wof:lastmodified":1448998493,
+    "wof:lastmodified":1467083710,
     "wof:name":"Deep Eddy Pool",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beach"
     ]
 },
-  "bbox": [-97.773209,30.277306,-97.773209,30.277306],
-  "geometry": {"coordinates":[-97.773209,30.277306],"type":"Point"}
+  "bbox": [
+    -97.773209,
+    30.277306,
+    -97.773209,
+    30.277306
+],
+  "geometry": {"coordinates":[-97.77320899999999,30.277306],"type":"Point"}
 }

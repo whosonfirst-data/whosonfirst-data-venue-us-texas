@@ -2,13 +2,14 @@
   "id": 270500711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.588176,30.009945,-95.588176,30.009945",
     "geom:latitude":30.009945,
     "geom:longitude":-95.588176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22442 State Highway 249",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270500711,
-    "wof:lastmodified":1449009232,
+    "wof:lastmodified":1467084169,
     "wof:name":"My Le Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.588176,30.009945,-95.588176,30.009945],
+  "bbox": [
+    -95.588176,
+    30.009945,
+    -95.588176,
+    30.009945
+],
   "geometry": {"coordinates":[-95.588176,30.009945],"type":"Point"}
 }

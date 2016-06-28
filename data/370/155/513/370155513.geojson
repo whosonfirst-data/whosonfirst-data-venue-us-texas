@@ -2,13 +2,14 @@
   "id": 370155513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.872217,33.563351,-101.872217,33.563351",
     "geom:latitude":33.563351,
     "geom:longitude":-101.872217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 34th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370155513,
-    "wof:lastmodified":1449031883,
+    "wof:lastmodified":1467084539,
     "wof:name":"Smart Way Lease Purchase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-101.872217,33.563351,-101.872217,33.563351],
-  "geometry": {"coordinates":[-101.872217,33.563351],"type":"Point"}
+  "bbox": [
+    -101.872217,
+    33.563351,
+    -101.872217,
+    33.563351
+],
+  "geometry": {"coordinates":[-101.87221700000001,33.563351],"type":"Point"}
 }

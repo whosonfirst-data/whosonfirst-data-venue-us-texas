@@ -2,13 +2,14 @@
   "id": 303798115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.705464,30.380098,-97.705464,30.380098",
     "geom:latitude":30.380098,
     "geom:longitude":-97.705464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10422 Quail Ridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303798115,
-    "wof:lastmodified":1448998570,
+    "wof:lastmodified":1467083714,
     "wof:name":"On Time Mailing Service",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-97.705464,30.380098,-97.705464,30.380098],
-  "geometry": {"coordinates":[-97.705464,30.380098],"type":"Point"}
+  "bbox": [
+    -97.705464,
+    30.380098,
+    -97.705464,
+    30.380098
+],
+  "geometry": {"coordinates":[-97.70546400000001,30.380098],"type":"Point"}
 }

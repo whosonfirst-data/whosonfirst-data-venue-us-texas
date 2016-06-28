@@ -2,13 +2,14 @@
   "id": 303547579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.968925,30.334509,-97.968925,30.334509",
     "geom:latitude":30.334509,
     "geom:longitude":-97.968925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Ranch Road 620 S",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303547579,
-    "wof:lastmodified":1448998369,
+    "wof:lastmodified":1467083704,
     "wof:name":"Discovery Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "development"
     ]
 },
-  "bbox": [-97.968925,30.334509,-97.968925,30.334509],
+  "bbox": [
+    -97.968925,
+    30.334509,
+    -97.968925,
+    30.334509
+],
   "geometry": {"coordinates":[-97.968925,30.334509],"type":"Point"}
 }

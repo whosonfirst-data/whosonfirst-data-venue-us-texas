@@ -2,13 +2,14 @@
   "id": 236944925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.825769,32.795849,-96.825769,32.795849",
     "geom:latitude":32.795849,
     "geom:longitude":-96.825769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Market Center Blvd Ste 129",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236944925,
-    "wof:lastmodified":1449003275,
+    "wof:lastmodified":1467083946,
     "wof:name":"La Cave Warehouse Fine Wine Store",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.825769,32.795849,-96.825769,32.795849],
-  "geometry": {"coordinates":[-96.825769,32.795849],"type":"Point"}
+  "bbox": [
+    -96.825769,
+    32.795849,
+    -96.825769,
+    32.795849
+],
+  "geometry": {"coordinates":[-96.82576899999999,32.795849],"type":"Point"}
 }

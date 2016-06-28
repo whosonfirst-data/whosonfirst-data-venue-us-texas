@@ -2,13 +2,14 @@
   "id": 235959707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.577019,29.469877,-98.577019,29.469877",
     "geom:latitude":29.469877,
     "geom:longitude":-98.577019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Broadview Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235959707,
-    "wof:lastmodified":1449008579,
+    "wof:lastmodified":1467084148,
     "wof:name":"Chapa Lita",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-98.577019,29.469877,-98.577019,29.469877],
-  "geometry": {"coordinates":[-98.577019,29.469877],"type":"Point"}
+  "bbox": [
+    -98.577019,
+    29.469877,
+    -98.577019,
+    29.469877
+],
+  "geometry": {"coordinates":[-98.57701900000001,29.469877],"type":"Point"}
 }

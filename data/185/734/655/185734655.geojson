@@ -2,13 +2,14 @@
   "id": 185734655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16379,30.080005,-94.16379,30.080005",
     "geom:latitude":30.080005,
     "geom:longitude":-94.16379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5925 Phelan Blvd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185734655,
-    "wof:lastmodified":1449008018,
+    "wof:lastmodified":1467084136,
     "wof:name":"Horizon Institute Of Massage",
     "wof:parent_id":85808829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-94.16379,30.080005,-94.16379,30.080005],
-  "geometry": {"coordinates":[-94.16379,30.080005],"type":"Point"}
+  "bbox": [
+    -94.16379,
+    30.080005,
+    -94.16379,
+    30.080005
+],
+  "geometry": {"coordinates":[-94.16379000000001,30.080005],"type":"Point"}
 }

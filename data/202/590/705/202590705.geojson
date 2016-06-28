@@ -2,13 +2,14 @@
   "id": 202590705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.498784,29.705484,-95.498784,29.705484",
     "geom:latitude":29.705484,
     "geom:longitude":-95.498784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202590705,
-    "wof:lastmodified":1449061627,
+    "wof:lastmodified":1467084920,
     "wof:name":"Turf Club Apartments",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.498784,29.705484,-95.498784,29.705484],
+  "bbox": [
+    -95.498784,
+    29.705484,
+    -95.498784,
+    29.705484
+],
   "geometry": {"coordinates":[-95.498784,29.705484],"type":"Point"}
 }

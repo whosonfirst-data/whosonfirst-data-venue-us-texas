@@ -2,13 +2,14 @@
   "id": 236290091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.124383,29.773326,-95.124383,29.773326",
     "geom:latitude":29.773326,
     "geom:longitude":-95.124383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15820 Lorenzo St",
     "sg:city":"Channelview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236290091,
-    "wof:lastmodified":1449003004,
+    "wof:lastmodified":1467083933,
     "wof:name":"Greer Hot Shot Svc",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.124383,29.773326,-95.124383,29.773326],
-  "geometry": {"coordinates":[-95.124383,29.773326],"type":"Point"}
+  "bbox": [
+    -95.124383,
+    29.773326,
+    -95.124383,
+    29.773326
+],
+  "geometry": {"coordinates":[-95.12438299999999,29.773326],"type":"Point"}
 }

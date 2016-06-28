@@ -2,13 +2,14 @@
   "id": 353777073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.495787,33.179987,-96.495787,33.179987",
     "geom:latitude":33.179987,
     "geom:longitude":-96.495787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 N 5th St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353777073,
-    "wof:lastmodified":1449019599,
+    "wof:lastmodified":1467084350,
     "wof:name":"Public Works-Maintenance",
     "wof:parent_id":85834389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-96.495787,33.179987,-96.495787,33.179987],
-  "geometry": {"coordinates":[-96.495787,33.179987],"type":"Point"}
+  "bbox": [
+    -96.495787,
+    33.179987,
+    -96.495787,
+    33.179987
+],
+  "geometry": {"coordinates":[-96.49578700000001,33.179987],"type":"Point"}
 }

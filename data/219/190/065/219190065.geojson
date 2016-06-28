@@ -2,13 +2,14 @@
   "id": 219190065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.854622,32.723211,-96.854622,32.723211",
     "geom:latitude":32.723211,
     "geom:longitude":-96.854622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Melbourne Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219190065,
-    "wof:lastmodified":1449073685,
+    "wof:lastmodified":1467085169,
     "wof:name":"Roden Management Inc",
     "wof:parent_id":85870401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-96.854622,32.723211,-96.854622,32.723211],
-  "geometry": {"coordinates":[-96.854622,32.723211],"type":"Point"}
+  "bbox": [
+    -96.854622,
+    32.723211,
+    -96.854622,
+    32.723211
+],
+  "geometry": {"coordinates":[-96.85462200000001,32.723211],"type":"Point"}
 }

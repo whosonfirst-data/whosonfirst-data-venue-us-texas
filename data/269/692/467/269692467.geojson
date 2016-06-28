@@ -2,13 +2,14 @@
   "id": 269692467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702465,31.102817,-97.702465,31.102817",
     "geom:latitude":31.102817,
     "geom:longitude":-97.702465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 E Veterans Memorial Blvd",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":269692467,
-    "wof:lastmodified":1449036798,
+    "wof:lastmodified":1467084590,
     "wof:name":"First Appliance",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "appliances-major-used"
     ]
 },
-  "bbox": [-97.702465,31.102817,-97.702465,31.102817],
+  "bbox": [
+    -97.702465,
+    31.102817,
+    -97.702465,
+    31.102817
+],
   "geometry": {"coordinates":[-97.702465,31.102817],"type":"Point"}
 }

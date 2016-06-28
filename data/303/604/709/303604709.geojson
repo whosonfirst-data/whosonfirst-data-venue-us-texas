@@ -2,13 +2,14 @@
   "id": 303604709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.779852,30.264845,-97.779852,30.264845",
     "geom:latitude":30.264845,
     "geom:longitude":-97.779852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S Mo PAC Expy Bldg 2, Ste 395",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303604709,
-    "wof:lastmodified":1449000283,
+    "wof:lastmodified":1467083799,
     "wof:name":"Jim G. Tyree, DDS, MAGD & Hailey M. Patton, DDS",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.779852,30.264845,-97.779852,30.264845],
-  "geometry": {"coordinates":[-97.779852,30.264845],"type":"Point"}
+  "bbox": [
+    -97.779852,
+    30.264845,
+    -97.779852,
+    30.264845
+],
+  "geometry": {"coordinates":[-97.77985200000001,30.264845],"type":"Point"}
 }

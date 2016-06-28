@@ -2,13 +2,14 @@
   "id": 203110385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.873252,33.603234,-101.873252,33.603234",
     "geom:latitude":33.603234,
     "geom:longitude":-101.873252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Cornell St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203110385,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1467084396,
     "wof:name":"Fires Station 4",
     "wof:parent_id":85878767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-101.873252,33.603234,-101.873252,33.603234],
-  "geometry": {"coordinates":[-101.873252,33.603234],"type":"Point"}
+  "bbox": [
+    -101.873252,
+    33.603234,
+    -101.873252,
+    33.603234
+],
+  "geometry": {"coordinates":[-101.87325199999999,33.603234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303710199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707002,30.325678,-97.707002,30.325678",
     "geom:latitude":30.325678,
     "geom:longitude":-97.707002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6406 N I H 35 Ste 1250",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303710199,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1467083699,
     "wof:name":"Vision Source Lincoln Center",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.707002,30.325678,-97.707002,30.325678],
+  "bbox": [
+    -97.707002,
+    30.325678,
+    -97.707002,
+    30.325678
+],
   "geometry": {"coordinates":[-97.707002,30.325678],"type":"Point"}
 }

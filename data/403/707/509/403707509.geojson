@@ -2,13 +2,14 @@
   "id": 403707509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.401829,29.766925,-95.401829,29.766925",
     "geom:latitude":29.766925,
     "geom:longitude":-95.401829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Jackson Hill St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403707509,
-    "wof:lastmodified":1449055766,
+    "wof:lastmodified":1467084776,
     "wof:name":"Laroche Architectural Signage",
     "wof:parent_id":85869763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.401829,29.766925,-95.401829,29.766925],
-  "geometry": {"coordinates":[-95.401829,29.766925],"type":"Point"}
+  "bbox": [
+    -95.401829,
+    29.766925,
+    -95.401829,
+    29.766925
+],
+  "geometry": {"coordinates":[-95.40182900000001,29.766925],"type":"Point"}
 }

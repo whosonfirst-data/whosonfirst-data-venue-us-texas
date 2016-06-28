@@ -2,13 +2,14 @@
   "id": 220107253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.469019,29.535714,-95.469019,29.535714",
     "geom:latitude":29.535714,
     "geom:longitude":-95.469019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Trammel-Fresno Rd",
     "sg:city":"Fresno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220107253,
-    "wof:lastmodified":1449074067,
+    "wof:lastmodified":1467085177,
     "wof:name":"Henderson Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-95.469019,29.535714,-95.469019,29.535714],
+  "bbox": [
+    -95.469019,
+    29.535714,
+    -95.469019,
+    29.535714
+],
   "geometry": {"coordinates":[-95.469019,29.535714],"type":"Point"}
 }

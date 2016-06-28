@@ -2,13 +2,14 @@
   "id": 303244451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7495,30.273161,-97.7495,30.273161",
     "geom:latitude":30.273161,
     "geom:longitude":-97.7495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 West Ave.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303244451,
-    "wof:lastmodified":1448999093,
+    "wof:lastmodified":1467083740,
     "wof:name":"WheresMyTutor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-97.7495,30.273161,-97.7495,30.273161],
+  "bbox": [
+    -97.7495,
+    30.273161,
+    -97.7495,
+    30.273161
+],
   "geometry": {"coordinates":[-97.7495,30.273161],"type":"Point"}
 }

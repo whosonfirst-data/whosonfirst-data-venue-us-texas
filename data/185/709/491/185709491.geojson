@@ -2,13 +2,14 @@
   "id": 185709491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.650382,30.530582,-97.650382,30.530582",
     "geom:latitude":30.530582,
     "geom:longitude":-97.650382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Aster Way",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185709491,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1467084117,
     "wof:name":"Sun River Publishing",
     "wof:parent_id":85893915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-97.650382,30.530582,-97.650382,30.530582],
-  "geometry": {"coordinates":[-97.650382,30.530582],"type":"Point"}
+  "bbox": [
+    -97.650382,
+    30.530582,
+    -97.650382,
+    30.530582
+],
+  "geometry": {"coordinates":[-97.65038199999999,30.530582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319861871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563251,31.840032,-106.563251,31.840032",
     "geom:latitude":31.840032,
     "geom:longitude":-106.563251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 Remcon Cir Ste 102",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319861871,
-    "wof:lastmodified":1449024877,
+    "wof:lastmodified":1467084384,
     "wof:name":"A-Team Carpet",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-106.563251,31.840032,-106.563251,31.840032],
-  "geometry": {"coordinates":[-106.563251,31.840032],"type":"Point"}
+  "bbox": [
+    -106.563251,
+    31.840032,
+    -106.563251,
+    31.840032
+],
+  "geometry": {"coordinates":[-106.56325099999999,31.840032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270150711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.397561,29.710326,-95.397561,29.710326",
     "geom:latitude":29.710326,
     "geom:longitude":-95.397561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Bertner St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270150711,
-    "wof:lastmodified":1449008696,
+    "wof:lastmodified":1467084151,
     "wof:name":"Sterling Bank",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.397561,29.710326,-95.397561,29.710326],
+  "bbox": [
+    -95.397561,
+    29.710326,
+    -95.397561,
+    29.710326
+],
   "geometry": {"coordinates":[-95.397561,29.710326],"type":"Point"}
 }

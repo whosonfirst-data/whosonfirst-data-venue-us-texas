@@ -2,13 +2,14 @@
   "id": 186238669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.363492,32.703048,-97.363492,32.703048",
     "geom:latitude":32.703048,
     "geom:longitude":-97.363492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3257 Odessa Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186238669,
-    "wof:lastmodified":1449051382,
+    "wof:lastmodified":1467084713,
     "wof:name":"Paper Garden",
     "wof:parent_id":85871615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mill"
     ]
 },
-  "bbox": [-97.363492,32.703048,-97.363492,32.703048],
-  "geometry": {"coordinates":[-97.363492,32.703048],"type":"Point"}
+  "bbox": [
+    -97.363492,
+    32.703048,
+    -97.363492,
+    32.703048
+],
+  "geometry": {"coordinates":[-97.36349199999999,32.703048],"type":"Point"}
 }

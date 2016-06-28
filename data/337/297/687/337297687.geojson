@@ -2,13 +2,14 @@
   "id": 337297687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.851425,35.085455,-101.851425,35.085455",
     "geom:latitude":35.085455,
     "geom:longitude":-101.851425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Wheatstraw Rd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337297687,
-    "wof:lastmodified":1449027472,
+    "wof:lastmodified":1467084446,
     "wof:name":"Johnson's Backhoe Svc",
     "wof:parent_id":85859495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.851425,35.085455,-101.851425,35.085455],
-  "geometry": {"coordinates":[-101.851425,35.085455],"type":"Point"}
+  "bbox": [
+    -101.851425,
+    35.085455,
+    -101.851425,
+    35.085455
+],
+  "geometry": {"coordinates":[-101.85142500000001,35.085455],"type":"Point"}
 }

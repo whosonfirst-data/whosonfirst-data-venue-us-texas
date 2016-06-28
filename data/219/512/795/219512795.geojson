@@ -2,13 +2,14 @@
   "id": 219512795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.395362,29.748964,-95.395362,29.748964",
     "geom:latitude":29.748964,
     "geom:longitude":-95.395362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Jackson Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219512795,
-    "wof:lastmodified":1449072970,
+    "wof:lastmodified":1467085154,
     "wof:name":"Lenape Apartments Inc",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.395362,29.748964,-95.395362,29.748964],
-  "geometry": {"coordinates":[-95.395362,29.748964],"type":"Point"}
+  "bbox": [
+    -95.395362,
+    29.748964,
+    -95.395362,
+    29.748964
+],
+  "geometry": {"coordinates":[-95.39536200000001,29.748964],"type":"Point"}
 }

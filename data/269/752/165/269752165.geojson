@@ -2,13 +2,14 @@
   "id": 269752165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.192291,31.507358,-97.192291,31.507358",
     "geom:latitude":31.507358,
     "geom:longitude":-97.192291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Otis Dr",
     "sg:city":"Woodway",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":269752165,
-    "wof:lastmodified":1449036533,
+    "wof:lastmodified":1467084582,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":85881763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dog"
     ]
 },
-  "bbox": [-97.192291,31.507358,-97.192291,31.507358],
+  "bbox": [
+    -97.192291,
+    31.507358,
+    -97.192291,
+    31.507358
+],
   "geometry": {"coordinates":[-97.192291,31.507358],"type":"Point"}
 }

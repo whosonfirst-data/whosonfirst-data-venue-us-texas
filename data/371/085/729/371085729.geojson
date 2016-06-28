@@ -2,13 +2,14 @@
   "id": 371085729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.304707,31.751092,-106.304707,31.751092",
     "geom:latitude":31.751092,
     "geom:longitude":-106.304707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11401 Rives McBee Ln",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":371085729,
-    "wof:lastmodified":1449049286,
+    "wof:lastmodified":1467084675,
     "wof:name":"Peri Tech Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.304707,31.751092,-106.304707,31.751092],
-  "geometry": {"coordinates":[-106.304707,31.751092],"type":"Point"}
+  "bbox": [
+    -106.304707,
+    31.751092,
+    -106.304707,
+    31.751092
+],
+  "geometry": {"coordinates":[-106.30470699999999,31.751092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252928513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.543917,29.573635,-98.543917,29.573635",
     "geom:latitude":29.573635,
     "geom:longitude":-98.543917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14353 NW Military Hwy",
     "sg:city":"Shavano Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252928513,
-    "wof:lastmodified":1449006361,
+    "wof:lastmodified":1467084100,
     "wof:name":"Goodyear Tire & Rubber Co",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-98.543917,29.573635,-98.543917,29.573635],
-  "geometry": {"coordinates":[-98.543917,29.573635],"type":"Point"}
+  "bbox": [
+    -98.543917,
+    29.573635,
+    -98.543917,
+    29.573635
+],
+  "geometry": {"coordinates":[-98.54391699999999,29.573635],"type":"Point"}
 }

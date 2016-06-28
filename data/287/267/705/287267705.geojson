@@ -2,13 +2,14 @@
   "id": 287267705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463883,25.919798,-97.463883,25.919798",
     "geom:latitude":25.919798,
     "geom:longitude":-97.463883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Boca Chica Blvd Ste 410",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":287267705,
-    "wof:lastmodified":1449001505,
+    "wof:lastmodified":1467083846,
     "wof:name":"Unique Home Health",
     "wof:parent_id":85876601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-97.463883,25.919798,-97.463883,25.919798],
+  "bbox": [
+    -97.463883,
+    25.919798,
+    -97.463883,
+    25.919798
+],
   "geometry": {"coordinates":[-97.463883,25.919798],"type":"Point"}
 }

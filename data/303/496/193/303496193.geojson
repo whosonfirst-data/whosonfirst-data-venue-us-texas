@@ -2,13 +2,14 @@
   "id": 303496193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.865204,30.324657,-97.865204,30.324657",
     "geom:latitude":30.324657,
     "geom:longitude":-97.865204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22101 W Highway 71",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303496193,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1467083794,
     "wof:name":"What Its Worth",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flooring"
     ]
 },
-  "bbox": [-97.865204,30.324657,-97.865204,30.324657],
-  "geometry": {"coordinates":[-97.865204,30.324657],"type":"Point"}
+  "bbox": [
+    -97.865204,
+    30.324657,
+    -97.865204,
+    30.324657
+],
+  "geometry": {"coordinates":[-97.86520400000001,30.324657],"type":"Point"}
 }

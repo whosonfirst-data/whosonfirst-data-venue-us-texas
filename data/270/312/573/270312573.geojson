@@ -2,13 +2,14 @@
   "id": 270312573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456995,29.62104,-95.456995,29.62104",
     "geom:latitude":29.62104,
     "geom:longitude":-95.456995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14203 Candleshade Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270312573,
-    "wof:lastmodified":1449009873,
+    "wof:lastmodified":1467084190,
     "wof:name":"Saddler Electrical Maintenance",
     "wof:parent_id":85869167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.456995,29.62104,-95.456995,29.62104],
-  "geometry": {"coordinates":[-95.456995,29.62104],"type":"Point"}
+  "bbox": [
+    -95.456995,
+    29.62104,
+    -95.456995,
+    29.62104
+],
+  "geometry": {"coordinates":[-95.45699500000001,29.62104],"type":"Point"}
 }

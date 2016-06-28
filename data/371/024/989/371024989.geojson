@@ -2,13 +2,14 @@
   "id": 371024989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.494763,27.528703,-99.494763,27.528703",
     "geom:latitude":27.528703,
     "geom:longitude":-99.494763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E San Jose St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371024989,
-    "wof:lastmodified":1449049510,
+    "wof:lastmodified":1467084679,
     "wof:name":"Society Of St Vincent De Paul",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-99.494763,27.528703,-99.494763,27.528703],
-  "geometry": {"coordinates":[-99.494763,27.528703],"type":"Point"}
+  "bbox": [
+    -99.494763,
+    27.528703,
+    -99.494763,
+    27.528703
+],
+  "geometry": {"coordinates":[-99.49476300000001,27.528703],"type":"Point"}
 }

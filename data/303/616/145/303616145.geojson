@@ -2,13 +2,14 @@
   "id": 303616145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.826716,30.286745,-97.826716,30.286745",
     "geom:latitude":30.286745,
     "geom:longitude":-97.826716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 S Capital of Texas Hwy Ste 330",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303616145,
-    "wof:lastmodified":1448999916,
+    "wof:lastmodified":1467083781,
     "wof:name":"Small World Labs",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "public"
     ]
 },
-  "bbox": [-97.826716,30.286745,-97.826716,30.286745],
+  "bbox": [
+    -97.826716,
+    30.286745,
+    -97.826716,
+    30.286745
+],
   "geometry": {"coordinates":[-97.826716,30.286745],"type":"Point"}
 }

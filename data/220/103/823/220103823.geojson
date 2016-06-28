@@ -2,13 +2,14 @@
   "id": 220103823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.604545,30.521311,-97.604545,30.521311",
     "geom:latitude":30.521311,
     "geom:longitude":-97.604545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Wooded Way",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220103823,
-    "wof:lastmodified":1449074544,
+    "wof:lastmodified":1467085188,
     "wof:name":"Web Mechanic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.604545,30.521311,-97.604545,30.521311],
+  "bbox": [
+    -97.604545,
+    30.521311,
+    -97.604545,
+    30.521311
+],
   "geometry": {"coordinates":[-97.604545,30.521311],"type":"Point"}
 }

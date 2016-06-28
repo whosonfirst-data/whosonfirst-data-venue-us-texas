@@ -2,13 +2,14 @@
   "id": 387072903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.652855,29.898176,-95.652855,29.898176",
     "geom:latitude":29.898176,
     "geom:longitude":-95.652855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7811 Maple Brook Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387072903,
-    "wof:lastmodified":1449058110,
+    "wof:lastmodified":1467084835,
     "wof:name":"Commercial Tenant Buildout",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.652855,29.898176,-95.652855,29.898176],
+  "bbox": [
+    -95.652855,
+    29.898176,
+    -95.652855,
+    29.898176
+],
   "geometry": {"coordinates":[-95.652855,29.898176],"type":"Point"}
 }

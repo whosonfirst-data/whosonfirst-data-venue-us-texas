@@ -2,13 +2,14 @@
   "id": 270125777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.453403,29.729659,-95.453403,29.729659",
     "geom:latitude":29.729659,
     "geom:longitude":-95.453403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270125777,
-    "wof:lastmodified":1449011044,
+    "wof:lastmodified":1467084229,
     "wof:name":"Henderson Tom M PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "law"
     ]
 },
-  "bbox": [-95.453403,29.729659,-95.453403,29.729659],
-  "geometry": {"coordinates":[-95.453403,29.729659],"type":"Point"}
+  "bbox": [
+    -95.453403,
+    29.729659,
+    -95.453403,
+    29.729659
+],
+  "geometry": {"coordinates":[-95.45340299999999,29.729659],"type":"Point"}
 }

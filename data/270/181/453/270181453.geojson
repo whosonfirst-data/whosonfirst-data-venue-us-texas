@@ -2,13 +2,14 @@
   "id": 270181453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325401,29.928429,-95.325401,29.928429",
     "geom:latitude":29.928429,
     "geom:longitude":-95.325401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14535 Heathrow Forrest Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":270181453,
-    "wof:lastmodified":1449010133,
+    "wof:lastmodified":1467084199,
     "wof:name":"FedEx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-95.325401,29.928429,-95.325401,29.928429],
+  "bbox": [
+    -95.325401,
+    29.928429,
+    -95.325401,
+    29.928429
+],
   "geometry": {"coordinates":[-95.325401,29.928429],"type":"Point"}
 }

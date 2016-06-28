@@ -2,13 +2,14 @@
   "id": 303130083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.69913,30.617433,-97.69913,30.617433",
     "geom:latitude":30.617433,
     "geom:longitude":-97.69913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Leander Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303130083,
-    "wof:lastmodified":1448998957,
+    "wof:lastmodified":1467083734,
     "wof:name":"San Gabriel Pediatrics",
     "wof:parent_id":85893919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-97.69913,30.617433,-97.69913,30.617433],
+  "bbox": [
+    -97.69913,
+    30.617433,
+    -97.69913,
+    30.617433
+],
   "geometry": {"coordinates":[-97.69913,30.617433],"type":"Point"}
 }

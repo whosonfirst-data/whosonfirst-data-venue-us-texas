@@ -2,13 +2,14 @@
   "id": 202542509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.798773,35.22922,-101.798773,35.22922",
     "geom:latitude":35.22922,
     "geom:longitude":-101.798773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Woodland St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202542509,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1467084929,
     "wof:name":"Christian Midwifery",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-101.798773,35.22922,-101.798773,35.22922],
+  "bbox": [
+    -101.798773,
+    35.22922,
+    -101.798773,
+    35.22922
+],
   "geometry": {"coordinates":[-101.798773,35.22922],"type":"Point"}
 }

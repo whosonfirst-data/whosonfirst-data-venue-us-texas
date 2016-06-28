@@ -2,13 +2,14 @@
   "id": 253639821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.196289,32.680859,-97.196289,32.680859",
     "geom:latitude":32.680859,
     "geom:longitude":-97.196289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 W Green Oaks Blvd Ste 416",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":253639821,
-    "wof:lastmodified":1449065792,
+    "wof:lastmodified":1467085047,
     "wof:name":"Hot Nails",
     "wof:parent_id":85851851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.196289,32.680859,-97.196289,32.680859],
-  "geometry": {"coordinates":[-97.196289,32.680859],"type":"Point"}
+  "bbox": [
+    -97.196289,
+    32.680859,
+    -97.196289,
+    32.680859
+],
+  "geometry": {"coordinates":[-97.19628899999999,32.680859],"type":"Point"}
 }

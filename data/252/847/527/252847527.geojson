@@ -2,13 +2,14 @@
   "id": 252847527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.901087,32.865188,-96.901087,32.865188",
     "geom:latitude":32.865188,
     "geom:longitude":-96.901087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2197 W Northwest Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252847527,
-    "wof:lastmodified":1449005800,
+    "wof:lastmodified":1467084070,
     "wof:name":"Mcdonalds",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [-96.901087,32.865188,-96.901087,32.865188],
+  "bbox": [
+    -96.901087,
+    32.865188,
+    -96.901087,
+    32.865188
+],
   "geometry": {"coordinates":[-96.901087,32.865188],"type":"Point"}
 }

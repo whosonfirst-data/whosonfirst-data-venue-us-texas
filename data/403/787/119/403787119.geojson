@@ -2,13 +2,14 @@
   "id": 403787119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.532603,29.315492,-98.532603,29.315492",
     "geom:latitude":29.315492,
     "geom:longitude":-98.532603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10076 S Zarzamora",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403787119,
-    "wof:lastmodified":1449055240,
+    "wof:lastmodified":1467084764,
     "wof:name":"Green's Nursery",
     "wof:parent_id":85840355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-98.532603,29.315492,-98.532603,29.315492],
-  "geometry": {"coordinates":[-98.532603,29.315492],"type":"Point"}
+  "bbox": [
+    -98.532603,
+    29.315492,
+    -98.532603,
+    29.315492
+],
+  "geometry": {"coordinates":[-98.53260299999999,29.315492],"type":"Point"}
 }

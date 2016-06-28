@@ -2,13 +2,14 @@
   "id": 303320723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.781772,30.243486,-97.781772,30.243486",
     "geom:latitude":30.243486,
     "geom:longitude":-97.781772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 S Lamar Blvd Building A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303320723,
-    "wof:lastmodified":1448998732,
+    "wof:lastmodified":1467083722,
     "wof:name":"Juicebox / Soup Peddler",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "soup"
     ]
 },
-  "bbox": [-97.781772,30.243486,-97.781772,30.243486],
+  "bbox": [
+    -97.781772,
+    30.243486,
+    -97.781772,
+    30.243486
+],
   "geometry": {"coordinates":[-97.781772,30.243486],"type":"Point"}
 }

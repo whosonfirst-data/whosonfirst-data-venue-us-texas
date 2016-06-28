@@ -2,13 +2,14 @@
   "id": 219175711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.499188,29.493905,-98.499188,29.493905",
     "geom:latitude":29.493905,
     "geom:longitude":-98.499188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6234 San Pedro Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219175711,
-    "wof:lastmodified":1449072839,
+    "wof:lastmodified":1467085151,
     "wof:name":"KVDA",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.499188,29.493905,-98.499188,29.493905],
+  "bbox": [
+    -98.499188,
+    29.493905,
+    -98.499188,
+    29.493905
+],
   "geometry": {"coordinates":[-98.499188,29.493905],"type":"Point"}
 }

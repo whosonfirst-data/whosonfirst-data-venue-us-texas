@@ -2,13 +2,14 @@
   "id": 203191761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748263,30.415925,-97.748263,30.415925",
     "geom:latitude":30.415925,
     "geom:longitude":-97.748263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5338 Thunder Creek Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203191761,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1467084406,
     "wof:name":"A-1 Collision Masters",
     "wof:parent_id":85893531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-97.748263,30.415925,-97.748263,30.415925],
-  "geometry": {"coordinates":[-97.748263,30.415925],"type":"Point"}
+  "bbox": [
+    -97.748263,
+    30.415925,
+    -97.748263,
+    30.415925
+],
+  "geometry": {"coordinates":[-97.74826299999999,30.415925],"type":"Point"}
 }

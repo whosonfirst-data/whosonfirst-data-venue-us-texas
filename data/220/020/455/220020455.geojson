@@ -2,13 +2,14 @@
   "id": 220020455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.664024,29.496521,-98.664024,29.496521",
     "geom:latitude":29.496521,
     "geom:longitude":-98.664024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9146 Timber Ranch",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220020455,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1467085185,
     "wof:name":"Fisher Education Inc",
     "wof:parent_id":85893955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-98.664024,29.496521,-98.664024,29.496521],
+  "bbox": [
+    -98.664024,
+    29.496521,
+    -98.664024,
+    29.496521
+],
   "geometry": {"coordinates":[-98.664024,29.496521],"type":"Point"}
 }

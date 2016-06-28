@@ -2,13 +2,14 @@
   "id": 371105365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.786279,32.878123,-96.786279,32.878123",
     "geom:latitude":32.878123,
     "geom:longitude":-96.786279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6915 Stefani Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371105365,
-    "wof:lastmodified":1449049414,
+    "wof:lastmodified":1467084677,
     "wof:name":"Uncommon Interior",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.786279,32.878123,-96.786279,32.878123],
-  "geometry": {"coordinates":[-96.786279,32.878123],"type":"Point"}
+  "bbox": [
+    -96.786279,
+    32.878123,
+    -96.786279,
+    32.878123
+],
+  "geometry": {"coordinates":[-96.78627899999999,32.878123],"type":"Point"}
 }

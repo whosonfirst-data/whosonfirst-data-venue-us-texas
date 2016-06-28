@@ -2,13 +2,14 @@
   "id": 253638665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.127967,32.695325,-97.127967,32.695325",
     "geom:latitude":32.695325,
     "geom:longitude":-97.127967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Medlin Dr Ste 200",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253638665,
-    "wof:lastmodified":1449062983,
+    "wof:lastmodified":1467084950,
     "wof:name":"Direct Medical Supply",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.127967,32.695325,-97.127967,32.695325],
+  "bbox": [
+    -97.127967,
+    32.695325,
+    -97.127967,
+    32.695325
+],
   "geometry": {"coordinates":[-97.127967,32.695325],"type":"Point"}
 }

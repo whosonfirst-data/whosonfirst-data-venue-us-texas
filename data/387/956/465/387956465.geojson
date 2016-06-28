@@ -2,13 +2,14 @@
   "id": 387956465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.625024,30.289194,-97.625024,30.289194",
     "geom:latitude":30.289194,
     "geom:longitude":-97.625024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 Decker Lake Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387956465,
-    "wof:lastmodified":1449056750,
+    "wof:lastmodified":1467084801,
     "wof:name":"Rodeo Austin",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-97.625024,30.289194,-97.625024,30.289194],
+  "bbox": [
+    -97.625024,
+    30.289194,
+    -97.625024,
+    30.289194
+],
   "geometry": {"coordinates":[-97.625024,30.289194],"type":"Point"}
 }

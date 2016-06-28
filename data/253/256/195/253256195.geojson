@@ -2,13 +2,14 @@
   "id": 253256195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300592,32.841407,-97.300592,32.841407",
     "geom:latitude":32.841407,
     "geom:longitude":-97.300592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 N Riverside Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253256195,
-    "wof:lastmodified":1449065061,
+    "wof:lastmodified":1467085022,
     "wof:name":"Spherion Staffing Group",
     "wof:parent_id":85897371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.300592,32.841407,-97.300592,32.841407],
-  "geometry": {"coordinates":[-97.300592,32.841407],"type":"Point"}
+  "bbox": [
+    -97.300592,
+    32.841407,
+    -97.300592,
+    32.841407
+],
+  "geometry": {"coordinates":[-97.30059199999999,32.841407],"type":"Point"}
 }

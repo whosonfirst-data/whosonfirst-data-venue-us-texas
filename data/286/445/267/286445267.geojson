@@ -2,13 +2,14 @@
   "id": 286445267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.406945,29.770272,-95.406945,29.770272",
     "geom:latitude":29.770272,
     "geom:longitude":-95.406945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Washington Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286445267,
-    "wof:lastmodified":1449015568,
+    "wof:lastmodified":1467084247,
     "wof:name":"Blue Label Lounge",
     "wof:parent_id":85869475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.406945,29.770272,-95.406945,29.770272],
-  "geometry": {"coordinates":[-95.406945,29.770272],"type":"Point"}
+  "bbox": [
+    -95.406945,
+    29.770272,
+    -95.406945,
+    29.770272
+],
+  "geometry": {"coordinates":[-95.40694499999999,29.770272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387058101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504248,27.540356,-99.504248,27.540356",
     "geom:latitude":27.540356,
     "geom:longitude":-99.504248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 San Bernardo Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387058101,
-    "wof:lastmodified":1449056661,
+    "wof:lastmodified":1467084798,
     "wof:name":"Taco Palenque",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.504248,27.540356,-99.504248,27.540356],
+  "bbox": [
+    -99.504248,
+    27.540356,
+    -99.504248,
+    27.540356
+],
   "geometry": {"coordinates":[-99.504248,27.540356],"type":"Point"}
 }

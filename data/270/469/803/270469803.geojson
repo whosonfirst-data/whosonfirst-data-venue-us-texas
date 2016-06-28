@@ -2,13 +2,14 @@
   "id": 270469803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.501491,29.75009,-95.501491,29.75009",
     "geom:latitude":29.75009,
     "geom:longitude":-95.501491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1632 S Voss",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270469803,
-    "wof:lastmodified":1449011159,
+    "wof:lastmodified":1467084233,
     "wof:name":"Shell Service Station",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.501491,29.75009,-95.501491,29.75009],
+  "bbox": [
+    -95.501491,
+    29.75009,
+    -95.501491,
+    29.75009
+],
   "geometry": {"coordinates":[-95.501491,29.75009],"type":"Point"}
 }

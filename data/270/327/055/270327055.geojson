@@ -2,13 +2,14 @@
   "id": 270327055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.364803,29.627623,-95.364803,29.627623",
     "geom:latitude":29.627623,
     "geom:longitude":-95.364803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12401 S Coast Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270327055,
-    "wof:lastmodified":1449008829,
+    "wof:lastmodified":1467084156,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.364803,29.627623,-95.364803,29.627623],
-  "geometry": {"coordinates":[-95.364803,29.627623],"type":"Point"}
+  "bbox": [
+    -95.364803,
+    29.627623,
+    -95.364803,
+    29.627623
+],
+  "geometry": {"coordinates":[-95.36480299999999,29.627623],"type":"Point"}
 }

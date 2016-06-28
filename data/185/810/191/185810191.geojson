@@ -2,13 +2,14 @@
   "id": 185810191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.366633,32.751297,-97.366633,32.751297",
     "geom:latitude":32.751297,
     "geom:longitude":-97.366633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 W 7th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185810191,
-    "wof:lastmodified":1449007084,
+    "wof:lastmodified":1467084119,
     "wof:name":"Fort Worth Camera Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.366633,32.751297,-97.366633,32.751297],
-  "geometry": {"coordinates":[-97.366633,32.751297],"type":"Point"}
+  "bbox": [
+    -97.366633,
+    32.751297,
+    -97.366633,
+    32.751297
+],
+  "geometry": {"coordinates":[-97.36663299999999,32.751297],"type":"Point"}
 }

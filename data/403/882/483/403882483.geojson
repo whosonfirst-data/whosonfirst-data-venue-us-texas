@@ -2,13 +2,14 @@
   "id": 403882483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.245381,32.796692,-97.245381,32.796692",
     "geom:latitude":32.796692,
     "geom:longitude":-97.245381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2529 Minnis Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403882483,
-    "wof:lastmodified":1449054864,
+    "wof:lastmodified":1467084755,
     "wof:name":"Big A Movers",
     "wof:parent_id":85871659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.245381,32.796692,-97.245381,32.796692],
-  "geometry": {"coordinates":[-97.245381,32.796692],"type":"Point"}
+  "bbox": [
+    -97.245381,
+    32.796692,
+    -97.245381,
+    32.796692
+],
+  "geometry": {"coordinates":[-97.24538099999999,32.796692],"type":"Point"}
 }

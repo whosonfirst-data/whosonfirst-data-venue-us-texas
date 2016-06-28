@@ -2,13 +2,14 @@
   "id": 370511293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077613,32.829991,-97.077613,32.829991",
     "geom:latitude":32.829991,
     "geom:longitude":-97.077613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Dunaway Dr",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370511293,
-    "wof:lastmodified":1449030657,
+    "wof:lastmodified":1467084508,
     "wof:name":"Frontline Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.077613,32.829991,-97.077613,32.829991],
+  "bbox": [
+    -97.077613,
+    32.829991,
+    -97.077613,
+    32.829991
+],
   "geometry": {"coordinates":[-97.077613,32.829991],"type":"Point"}
 }

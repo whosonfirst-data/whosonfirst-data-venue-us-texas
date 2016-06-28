@@ -2,13 +2,14 @@
   "id": 303358565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724037,30.289566,-97.724037,30.289566",
     "geom:latitude":30.289566,
     "geom:longitude":-97.724037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 E 32nd Street Suite 215",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303358565,
-    "wof:lastmodified":1448999149,
+    "wof:lastmodified":1467083743,
     "wof:name":"Shapiro Ronald B MD PA",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"
     ]
 },
-  "bbox": [-97.724037,30.289566,-97.724037,30.289566],
+  "bbox": [
+    -97.724037,
+    30.289566,
+    -97.724037,
+    30.289566
+],
   "geometry": {"coordinates":[-97.724037,30.289566],"type":"Point"}
 }

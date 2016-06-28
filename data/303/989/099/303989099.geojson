@@ -2,13 +2,14 @@
   "id": 303989099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.789932,33.599716,-101.789932,33.599716",
     "geom:latitude":33.599716,
     "geom:longitude":-101.789932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 NE Loop 289",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303989099,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1467083781,
     "wof:name":"Hesselbein Tire Co., Inc.",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-101.789932,33.599716,-101.789932,33.599716],
-  "geometry": {"coordinates":[-101.789932,33.599716],"type":"Point"}
+  "bbox": [
+    -101.789932,
+    33.599716,
+    -101.789932,
+    33.599716
+],
+  "geometry": {"coordinates":[-101.78993199999999,33.599716],"type":"Point"}
 }

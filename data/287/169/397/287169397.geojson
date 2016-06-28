@@ -2,13 +2,14 @@
   "id": 287169397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.31579,29.522845,-98.31579,29.522845",
     "geom:latitude":29.522845,
     "geom:longitude":-98.31579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Meadow Way",
     "sg:city":"Converse",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287169397,
-    "wof:lastmodified":1449001205,
+    "wof:lastmodified":1467083836,
     "wof:name":"David Lee Nichols",
     "wof:parent_id":85802531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.31579,29.522845,-98.31579,29.522845],
-  "geometry": {"coordinates":[-98.31579,29.522845],"type":"Point"}
+  "bbox": [
+    -98.31579,
+    29.522845,
+    -98.31579,
+    29.522845
+],
+  "geometry": {"coordinates":[-98.31579000000001,29.522845],"type":"Point"}
 }

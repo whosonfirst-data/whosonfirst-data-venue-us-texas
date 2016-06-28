@@ -2,13 +2,14 @@
   "id": 370448305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.61396,29.732142,-95.61396,29.732142",
     "geom:latitude":29.732142,
     "geom:longitude":-95.61396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12915 Ashford Chase Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370448305,
-    "wof:lastmodified":1449032305,
+    "wof:lastmodified":1467084550,
     "wof:name":"Little Gems",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.61396,29.732142,-95.61396,29.732142],
-  "geometry": {"coordinates":[-95.61396,29.732142],"type":"Point"}
+  "bbox": [
+    -95.61396,
+    29.732142,
+    -95.61396,
+    29.732142
+],
+  "geometry": {"coordinates":[-95.61396000000001,29.732142],"type":"Point"}
 }

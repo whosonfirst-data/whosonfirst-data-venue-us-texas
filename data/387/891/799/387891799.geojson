@@ -2,13 +2,14 @@
   "id": 387891799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.817999,32.932946,-96.817999,32.932946",
     "geom:latitude":32.932946,
     "geom:longitude":-96.817999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13760 Noel Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387891799,
-    "wof:lastmodified":1449058399,
+    "wof:lastmodified":1467084843,
     "wof:name":"Starbase Corporation",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.817999,32.932946,-96.817999,32.932946],
+  "bbox": [
+    -96.817999,
+    32.932946,
+    -96.817999,
+    32.932946
+],
   "geometry": {"coordinates":[-96.817999,32.932946],"type":"Point"}
 }

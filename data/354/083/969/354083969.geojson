@@ -2,13 +2,14 @@
   "id": 354083969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.854118,35.303195,-101.854118,35.303195",
     "geom:latitude":35.303195,
     "geom:longitude":-101.854118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Tonja Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354083969,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1467085071,
     "wof:name":"Reeder",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.854118,35.303195,-101.854118,35.303195],
+  "bbox": [
+    -101.854118,
+    35.303195,
+    -101.854118,
+    35.303195
+],
   "geometry": {"coordinates":[-101.854118,35.303195],"type":"Point"}
 }

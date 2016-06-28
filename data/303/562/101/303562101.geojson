@@ -2,13 +2,14 @@
   "id": 303562101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739471,30.20652,-97.739471,30.20652",
     "geom:latitude":30.20652,
     "geom:longitude":-97.739471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 E Saint Elmo Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303562101,
-    "wof:lastmodified":1448999417,
+    "wof:lastmodified":1467083757,
     "wof:name":"Austin Express Towing",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-97.739471,30.20652,-97.739471,30.20652],
-  "geometry": {"coordinates":[-97.739471,30.20652],"type":"Point"}
+  "bbox": [
+    -97.739471,
+    30.20652,
+    -97.739471,
+    30.20652
+],
+  "geometry": {"coordinates":[-97.73947099999999,30.20652],"type":"Point"}
 }

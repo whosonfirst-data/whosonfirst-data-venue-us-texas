@@ -2,13 +2,14 @@
   "id": 253253505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799499,32.994065,-96.799499,32.994065",
     "geom:latitude":32.994065,
     "geom:longitude":-96.799499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17776 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253253505,
-    "wof:lastmodified":1449065409,
+    "wof:lastmodified":1467085034,
     "wof:name":"PrimeLending",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.799499,32.994065,-96.799499,32.994065],
+  "bbox": [
+    -96.799499,
+    32.994065,
+    -96.799499,
+    32.994065
+],
   "geometry": {"coordinates":[-96.799499,32.994065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253031295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.429573,29.369763,-98.429573,29.369763",
     "geom:latitude":29.369763,
     "geom:longitude":-98.429573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Dublin Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253031295,
-    "wof:lastmodified":1449063929,
+    "wof:lastmodified":1467084983,
     "wof:name":"Al Salazar Trucking",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.429573,29.369763,-98.429573,29.369763],
+  "bbox": [
+    -98.429573,
+    29.369763,
+    -98.429573,
+    29.369763
+],
   "geometry": {"coordinates":[-98.429573,29.369763],"type":"Point"}
 }

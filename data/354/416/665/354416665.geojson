@@ -2,13 +2,14 @@
   "id": 354416665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492816,29.534,-98.492816,29.534",
     "geom:latitude":29.534,
     "geom:longitude":-98.492816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10221 Desert Sands St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354416665,
-    "wof:lastmodified":1449066676,
+    "wof:lastmodified":1467085069,
     "wof:name":"Technical Advisors",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-98.492816,29.534,-98.492816,29.534],
+  "bbox": [
+    -98.492816,
+    29.534,
+    -98.492816,
+    29.534
+],
   "geometry": {"coordinates":[-98.492816,29.534],"type":"Point"}
 }

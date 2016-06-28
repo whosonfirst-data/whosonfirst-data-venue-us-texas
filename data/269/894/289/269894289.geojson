@@ -2,13 +2,14 @@
   "id": 269894289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.434097,29.709101,-95.434097,29.709101",
     "geom:latitude":29.709101,
     "geom:longitude":-95.434097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 Elmora St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269894289,
-    "wof:lastmodified":1449037120,
+    "wof:lastmodified":1467084599,
     "wof:name":"Ferguson Rice",
     "wof:parent_id":85856543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.434097,29.709101,-95.434097,29.709101],
-  "geometry": {"coordinates":[-95.434097,29.709101],"type":"Point"}
+  "bbox": [
+    -95.434097,
+    29.709101,
+    -95.434097,
+    29.709101
+],
+  "geometry": {"coordinates":[-95.43409699999999,29.709101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370340669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.569745,31.853322,-106.569745,31.853322",
     "geom:latitude":31.853322,
     "geom:longitude":-106.569745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7660 Waterhouse Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370340669,
-    "wof:lastmodified":1449031712,
+    "wof:lastmodified":1467084535,
     "wof:name":"OHara Vending Service",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-106.569745,31.853322,-106.569745,31.853322],
+  "bbox": [
+    -106.569745,
+    31.853322,
+    -106.569745,
+    31.853322
+],
   "geometry": {"coordinates":[-106.569745,31.853322],"type":"Point"}
 }

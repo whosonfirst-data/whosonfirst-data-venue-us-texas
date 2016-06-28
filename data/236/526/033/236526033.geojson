@@ -2,13 +2,14 @@
   "id": 236526033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.663081,26.21003,-97.663081,26.21003",
     "geom:latitude":26.21003,
     "geom:longitude":-97.663081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 N Ed Carey Dr",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236526033,
-    "wof:lastmodified":1449002498,
+    "wof:lastmodified":1467083909,
     "wof:name":"Rio Grande Medicine",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.663081,26.21003,-97.663081,26.21003],
-  "geometry": {"coordinates":[-97.663081,26.21003],"type":"Point"}
+  "bbox": [
+    -97.663081,
+    26.21003,
+    -97.663081,
+    26.21003
+],
+  "geometry": {"coordinates":[-97.66308100000001,26.21003],"type":"Point"}
 }

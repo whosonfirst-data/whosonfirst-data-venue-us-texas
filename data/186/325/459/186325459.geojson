@@ -2,13 +2,14 @@
   "id": 186325459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.368321,32.545035,-94.368321,32.545035",
     "geom:latitude":32.545035,
     "geom:longitude":-94.368321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Houston St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186325459,
-    "wof:lastmodified":1449051414,
+    "wof:lastmodified":1467084713,
     "wof:name":"Texas Veterans Commission",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "admin"
     ]
 },
-  "bbox": [-94.368321,32.545035,-94.368321,32.545035],
-  "geometry": {"coordinates":[-94.368321,32.545035],"type":"Point"}
+  "bbox": [
+    -94.368321,
+    32.545035,
+    -94.368321,
+    32.545035
+],
+  "geometry": {"coordinates":[-94.36832099999999,32.545035],"type":"Point"}
 }

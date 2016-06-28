@@ -2,13 +2,14 @@
   "id": 403762925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159304,32.659368,-97.159304,32.659368",
     "geom:latitude":32.659368,
     "geom:longitude":-97.159304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Hunter Park Ct",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403762925,
-    "wof:lastmodified":1449055554,
+    "wof:lastmodified":1467084771,
     "wof:name":"Skyview Cable",
     "wof:parent_id":85873083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "direct"
     ]
 },
-  "bbox": [-97.159304,32.659368,-97.159304,32.659368],
-  "geometry": {"coordinates":[-97.159304,32.659368],"type":"Point"}
+  "bbox": [
+    -97.159304,
+    32.659368,
+    -97.159304,
+    32.659368
+],
+  "geometry": {"coordinates":[-97.15930400000001,32.659368],"type":"Point"}
 }

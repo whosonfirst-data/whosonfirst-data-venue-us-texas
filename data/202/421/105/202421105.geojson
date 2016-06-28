@@ -2,13 +2,14 @@
   "id": 202421105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.441609,30.245326,-95.441609,30.245326",
     "geom:latitude":30.245326,
     "geom:longitude":-95.441609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Carters Grove",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202421105,
-    "wof:lastmodified":1449061699,
+    "wof:lastmodified":1467084921,
     "wof:name":"ADS",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-95.441609,30.245326,-95.441609,30.245326],
+  "bbox": [
+    -95.441609,
+    30.245326,
+    -95.441609,
+    30.245326
+],
   "geometry": {"coordinates":[-95.441609,30.245326],"type":"Point"}
 }

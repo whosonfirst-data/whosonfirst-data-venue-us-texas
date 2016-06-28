@@ -2,13 +2,14 @@
   "id": 354011011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.90507,32.753524,-98.90507,32.753524",
     "geom:latitude":32.753524,
     "geom:longitude":-98.90507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Rose Ave",
     "sg:city":"Breckenridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354011011,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1467085086,
     "wof:name":"First Baptist Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.90507,32.753524,-98.90507,32.753524],
-  "geometry": {"coordinates":[-98.90507,32.753524],"type":"Point"}
+  "bbox": [
+    -98.90507,
+    32.753524,
+    -98.90507,
+    32.753524
+],
+  "geometry": {"coordinates":[-98.90506999999999,32.753524],"type":"Point"}
 }

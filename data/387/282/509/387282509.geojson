@@ -2,13 +2,14 @@
   "id": 387282509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441763,32.809936,-97.441763,32.809936",
     "geom:latitude":32.809936,
     "geom:longitude":-97.441763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Charbonneau Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387282509,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1467084845,
     "wof:name":"First Baptist Church Lk Worth",
     "wof:parent_id":85829259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.441763,32.809936,-97.441763,32.809936],
-  "geometry": {"coordinates":[-97.441763,32.809936],"type":"Point"}
+  "bbox": [
+    -97.441763,
+    32.809936,
+    -97.441763,
+    32.809936
+],
+  "geometry": {"coordinates":[-97.44176299999999,32.809936],"type":"Point"}
 }

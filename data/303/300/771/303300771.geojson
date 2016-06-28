@@ -2,13 +2,14 @@
   "id": 303300771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.783096,30.291559,-97.783096,30.291559",
     "geom:latitude":30.291559,
     "geom:longitude":-97.783096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Lake Austin Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303300771,
-    "wof:lastmodified":1448999499,
+    "wof:lastmodified":1467083760,
     "wof:name":"Colorado River Foundation",
     "wof:parent_id":85869997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-97.783096,30.291559,-97.783096,30.291559],
+  "bbox": [
+    -97.783096,
+    30.291559,
+    -97.783096,
+    30.291559
+],
   "geometry": {"coordinates":[-97.783096,30.291559],"type":"Point"}
 }

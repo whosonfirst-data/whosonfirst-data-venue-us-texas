@@ -2,13 +2,14 @@
   "id": 220055403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.173723,31.579586,-97.173723,31.579586",
     "geom:latitude":31.579586,
     "geom:longitude":-97.173723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 N 20th St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220055403,
-    "wof:lastmodified":1449074218,
+    "wof:lastmodified":1467085181,
     "wof:name":"Textures",
     "wof:parent_id":85881759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.173723,31.579586,-97.173723,31.579586],
+  "bbox": [
+    -97.173723,
+    31.579586,
+    -97.173723,
+    31.579586
+],
   "geometry": {"coordinates":[-97.173723,31.579586],"type":"Point"}
 }

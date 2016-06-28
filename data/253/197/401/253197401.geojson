@@ -2,13 +2,14 @@
   "id": 253197401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.539021,33.660888,-95.539021,33.660888",
     "geom:latitude":33.660888,
     "geom:longitude":-95.539021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 17th St SE",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253197401,
-    "wof:lastmodified":1449065400,
+    "wof:lastmodified":1467085034,
     "wof:name":"Pro Video",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-95.539021,33.660888,-95.539021,33.660888],
-  "geometry": {"coordinates":[-95.539021,33.660888],"type":"Point"}
+  "bbox": [
+    -95.539021,
+    33.660888,
+    -95.539021,
+    33.660888
+],
+  "geometry": {"coordinates":[-95.53902100000001,33.660888],"type":"Point"}
 }

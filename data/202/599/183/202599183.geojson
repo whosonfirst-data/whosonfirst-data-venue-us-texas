@@ -2,13 +2,14 @@
   "id": 202599183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629871,30.428566,-97.629871,30.428566",
     "geom:latitude":30.428566,
     "geom:longitude":-97.629871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Brown Dr",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202599183,
-    "wof:lastmodified":1449061303,
+    "wof:lastmodified":1467084913,
     "wof:name":"David J Baker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.629871,30.428566,-97.629871,30.428566],
-  "geometry": {"coordinates":[-97.629871,30.428566],"type":"Point"}
+  "bbox": [
+    -97.629871,
+    30.428566,
+    -97.629871,
+    30.428566
+],
+  "geometry": {"coordinates":[-97.62987099999999,30.428566],"type":"Point"}
 }

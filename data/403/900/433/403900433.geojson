@@ -2,13 +2,14 @@
   "id": 403900433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.398935,29.546179,-98.398935,29.546179",
     "geom:latitude":29.546179,
     "geom:longitude":-98.398935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 Casa Bello St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900433,
-    "wof:lastmodified":1449055208,
+    "wof:lastmodified":1467084763,
     "wof:name":"Cmg Landscaping",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-98.398935,29.546179,-98.398935,29.546179],
-  "geometry": {"coordinates":[-98.398935,29.546179],"type":"Point"}
+  "bbox": [
+    -98.398935,
+    29.546179,
+    -98.398935,
+    29.546179
+],
+  "geometry": {"coordinates":[-98.39893499999999,29.546179],"type":"Point"}
 }

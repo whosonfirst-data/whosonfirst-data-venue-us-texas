@@ -2,13 +2,14 @@
   "id": 269871529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.363503,29.726299,-95.363503,29.726299",
     "geom:latitude":29.726299,
     "geom:longitude":-95.363503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Isabella St # A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269871529,
-    "wof:lastmodified":1449036929,
+    "wof:lastmodified":1467084593,
     "wof:name":"Davis Walter CPA",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-95.363503,29.726299,-95.363503,29.726299],
-  "geometry": {"coordinates":[-95.363503,29.726299],"type":"Point"}
+  "bbox": [
+    -95.363503,
+    29.726299,
+    -95.363503,
+    29.726299
+],
+  "geometry": {"coordinates":[-95.36350299999999,29.726299],"type":"Point"}
 }

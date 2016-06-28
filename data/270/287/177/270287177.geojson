@@ -2,13 +2,14 @@
   "id": 270287177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.542099,29.7369,-95.542099,29.7369",
     "geom:latitude":29.7369,
     "geom:longitude":-95.542099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9801 Westheimer Rd Ste 409",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270287177,
-    "wof:lastmodified":1449008807,
+    "wof:lastmodified":1467084155,
     "wof:name":"World Cinema Inc",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.542099,29.7369,-95.542099,29.7369],
-  "geometry": {"coordinates":[-95.542099,29.7369],"type":"Point"}
+  "bbox": [
+    -95.542099,
+    29.7369,
+    -95.542099,
+    29.7369
+],
+  "geometry": {"coordinates":[-95.54209899999999,29.7369],"type":"Point"}
 }

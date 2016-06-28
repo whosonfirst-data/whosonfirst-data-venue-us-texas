@@ -2,13 +2,14 @@
   "id": 186545251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.020313,29.349526,-95.020313,29.349526",
     "geom:latitude":29.349526,
     "geom:longitude":-95.020313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8115 State Hwy 6",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186545251,
-    "wof:lastmodified":1449051039,
+    "wof:lastmodified":1467084705,
     "wof:name":"Hurricane Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.020313,29.349526,-95.020313,29.349526],
+  "bbox": [
+    -95.020313,
+    29.349526,
+    -95.020313,
+    29.349526
+],
   "geometry": {"coordinates":[-95.020313,29.349526],"type":"Point"}
 }

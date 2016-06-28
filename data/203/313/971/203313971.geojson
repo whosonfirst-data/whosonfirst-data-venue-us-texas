@@ -2,13 +2,14 @@
   "id": 203313971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.245239,26.115093,-98.245239,26.115093",
     "geom:latitude":26.115093,
     "geom:longitude":-98.245239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 State Hwy 336",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203313971,
-    "wof:lastmodified":1449025008,
+    "wof:lastmodified":1467084386,
     "wof:name":"Logicorp Enterprises",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.245239,26.115093,-98.245239,26.115093],
+  "bbox": [
+    -98.245239,
+    26.115093,
+    -98.245239,
+    26.115093
+],
   "geometry": {"coordinates":[-98.245239,26.115093],"type":"Point"}
 }

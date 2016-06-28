@@ -2,13 +2,14 @@
   "id": 370816721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.404576,32.678992,-97.404576,32.678992",
     "geom:latitude":32.678992,
     "geom:longitude":-97.404576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5225 Huntersridge Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370816721,
-    "wof:lastmodified":1449031048,
+    "wof:lastmodified":1467084518,
     "wof:name":"Funky Town Car Audio",
     "wof:parent_id":85897373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.404576,32.678992,-97.404576,32.678992],
-  "geometry": {"coordinates":[-97.404576,32.678992],"type":"Point"}
+  "bbox": [
+    -97.404576,
+    32.678992,
+    -97.404576,
+    32.678992
+],
+  "geometry": {"coordinates":[-97.40457600000001,32.678992],"type":"Point"}
 }

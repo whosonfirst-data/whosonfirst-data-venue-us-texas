@@ -2,13 +2,14 @@
   "id": 303334051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760792,30.255578,-97.760792,30.255578",
     "geom:latitude":30.255578,
     "geom:longitude":-97.760792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 South 8th",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303334051,
-    "wof:lastmodified":1448998830,
+    "wof:lastmodified":1467083727,
     "wof:name":"Body Choir",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-97.760792,30.255578,-97.760792,30.255578],
+  "bbox": [
+    -97.760792,
+    30.255578,
+    -97.760792,
+    30.255578
+],
   "geometry": {"coordinates":[-97.760792,30.255578],"type":"Point"}
 }

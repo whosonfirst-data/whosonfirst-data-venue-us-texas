@@ -2,13 +2,14 @@
   "id": 387176973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74711,30.224661,-97.74711,30.224661",
     "geom:latitude":30.224661,
     "geom:longitude":-97.74711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 S I- 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":387176973,
-    "wof:lastmodified":1449058597,
+    "wof:lastmodified":1467084848,
     "wof:name":"Texas Parks & Wildlife Mag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "conservation"
     ]
 },
-  "bbox": [-97.74711,30.224661,-97.74711,30.224661],
-  "geometry": {"coordinates":[-97.74711,30.224661],"type":"Point"}
+  "bbox": [
+    -97.74711,
+    30.224661,
+    -97.74711,
+    30.224661
+],
+  "geometry": {"coordinates":[-97.74711000000001,30.224661],"type":"Point"}
 }

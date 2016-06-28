@@ -2,13 +2,14 @@
   "id": 270482847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.590534,29.929511,-95.590534,29.929511",
     "geom:latitude":29.929511,
     "geom:longitude":-95.590534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11330 Fm 1960 Rd W",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":270482847,
-    "wof:lastmodified":1449009517,
+    "wof:lastmodified":1467084179,
     "wof:name":"Tire & Wheel Conn",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.590534,29.929511,-95.590534,29.929511],
-  "geometry": {"coordinates":[-95.590534,29.929511],"type":"Point"}
+  "bbox": [
+    -95.590534,
+    29.929511,
+    -95.590534,
+    29.929511
+],
+  "geometry": {"coordinates":[-95.59053400000001,29.929511],"type":"Point"}
 }

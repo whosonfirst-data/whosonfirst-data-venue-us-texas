@@ -2,13 +2,14 @@
   "id": 219638027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.300575,32.33172,-95.300575,32.33172",
     "geom:latitude":32.33172,
     "geom:longitude":-95.300575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 S Broadway Ave",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219638027,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1467085104,
     "wof:name":"United Heritage Credit Union",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-95.300575,32.33172,-95.300575,32.33172],
-  "geometry": {"coordinates":[-95.300575,32.33172],"type":"Point"}
+  "bbox": [
+    -95.300575,
+    32.33172,
+    -95.300575,
+    32.33172
+],
+  "geometry": {"coordinates":[-95.30057499999999,32.33172],"type":"Point"}
 }

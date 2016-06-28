@@ -2,13 +2,14 @@
   "id": 387329729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.964287,29.755686,-94.964287,29.755686",
     "geom:latitude":29.755686,
     "geom:longitude":-94.964287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Wye Dr",
     "sg:city":"Baytown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387329729,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1467084811,
     "wof:name":"Baytown Lock Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-94.964287,29.755686,-94.964287,29.755686],
+  "bbox": [
+    -94.964287,
+    29.755686,
+    -94.964287,
+    29.755686
+],
   "geometry": {"coordinates":[-94.964287,29.755686],"type":"Point"}
 }

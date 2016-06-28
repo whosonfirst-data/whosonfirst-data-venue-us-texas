@@ -2,13 +2,14 @@
   "id": 303570031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717841,30.206037,-97.717841,30.206037",
     "geom:latitude":30.206037,
     "geom:longitude":-97.717841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Burleson Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303570031,
-    "wof:lastmodified":1448999569,
+    "wof:lastmodified":1467083764,
     "wof:name":"McCoy's Building Supply",
     "wof:parent_id":85869955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.717841,30.206037,-97.717841,30.206037],
-  "geometry": {"coordinates":[-97.717841,30.206037],"type":"Point"}
+  "bbox": [
+    -97.717841,
+    30.206037,
+    -97.717841,
+    30.206037
+],
+  "geometry": {"coordinates":[-97.71784100000001,30.206037],"type":"Point"}
 }

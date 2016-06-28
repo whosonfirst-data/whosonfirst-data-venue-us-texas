@@ -2,13 +2,14 @@
   "id": 303641751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.823396,30.176172,-97.823396,30.176172",
     "geom:latitude":30.176172,
     "geom:longitude":-97.823396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Monarch Dr Ste E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303641751,
-    "wof:lastmodified":1448999976,
+    "wof:lastmodified":1467083784,
     "wof:name":"Texas CHL",
     "wof:parent_id":85869991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-97.823396,30.176172,-97.823396,30.176172],
+  "bbox": [
+    -97.823396,
+    30.176172,
+    -97.823396,
+    30.176172
+],
   "geometry": {"coordinates":[-97.823396,30.176172],"type":"Point"}
 }

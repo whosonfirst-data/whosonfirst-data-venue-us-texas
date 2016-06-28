@@ -2,13 +2,14 @@
   "id": 219385867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400808,29.695646,-95.400808,29.695646",
     "geom:latitude":29.695646,
     "geom:longitude":-95.400808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219385867,
-    "wof:lastmodified":1449072482,
+    "wof:lastmodified":1467085144,
     "wof:name":"Dr Robert B Williams",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.400808,29.695646,-95.400808,29.695646],
+  "bbox": [
+    -95.400808,
+    29.695646,
+    -95.400808,
+    29.695646
+],
   "geometry": {"coordinates":[-95.400808,29.695646],"type":"Point"}
 }

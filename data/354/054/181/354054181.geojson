@@ -2,13 +2,14 @@
   "id": 354054181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.481488,29.435101,-98.481488,29.435101",
     "geom:latitude":29.435101,
     "geom:longitude":-98.481488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 10th St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354054181,
-    "wof:lastmodified":1449066725,
+    "wof:lastmodified":1467085071,
     "wof:name":"Gary Bennet",
     "wof:parent_id":85871045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-98.481488,29.435101,-98.481488,29.435101],
+  "bbox": [
+    -98.481488,
+    29.435101,
+    -98.481488,
+    29.435101
+],
   "geometry": {"coordinates":[-98.481488,29.435101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202857999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.691155,30.37351,-97.691155,30.37351",
     "geom:latitude":30.37351,
     "geom:longitude":-97.691155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202857999,
-    "wof:lastmodified":1449061736,
+    "wof:lastmodified":1467084922,
     "wof:name":"Tran Auto",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.691155,30.37351,-97.691155,30.37351],
-  "geometry": {"coordinates":[-97.691155,30.37351],"type":"Point"}
+  "bbox": [
+    -97.691155,
+    30.37351,
+    -97.691155,
+    30.37351
+],
+  "geometry": {"coordinates":[-97.69115499999999,30.37351],"type":"Point"}
 }

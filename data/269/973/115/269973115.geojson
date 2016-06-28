@@ -2,13 +2,14 @@
   "id": 269973115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.307404,29.7374,-95.307404,29.7374",
     "geom:latitude":29.7374,
     "geom:longitude":-95.307404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6715 Harrisburg Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269973115,
-    "wof:lastmodified":1449037587,
+    "wof:lastmodified":1467084612,
     "wof:name":"Rodriguez Mercantile",
     "wof:parent_id":85893757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.307404,29.7374,-95.307404,29.7374],
-  "geometry": {"coordinates":[-95.307404,29.7374],"type":"Point"}
+  "bbox": [
+    -95.307404,
+    29.7374,
+    -95.307404,
+    29.7374
+],
+  "geometry": {"coordinates":[-95.30740400000001,29.7374],"type":"Point"}
 }

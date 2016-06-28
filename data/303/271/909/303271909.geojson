@@ -2,13 +2,14 @@
   "id": 303271909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74523,30.270284,-97.74523,30.270284",
     "geom:latitude":30.270284,
     "geom:longitude":-97.74523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Lavaca Ste 14-2194",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303271909,
-    "wof:lastmodified":1448999403,
+    "wof:lastmodified":1467083756,
     "wof:name":"Truly Clear Window Cleaning",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-97.74523,30.270284,-97.74523,30.270284],
-  "geometry": {"coordinates":[-97.74523,30.270284],"type":"Point"}
+  "bbox": [
+    -97.74523,
+    30.270284,
+    -97.74523,
+    30.270284
+],
+  "geometry": {"coordinates":[-97.74523000000001,30.270284],"type":"Point"}
 }

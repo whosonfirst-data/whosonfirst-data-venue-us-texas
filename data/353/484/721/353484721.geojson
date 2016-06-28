@@ -2,13 +2,14 @@
   "id": 353484721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545297,29.818397,-95.545297,29.818397",
     "geom:latitude":29.818397,
     "geom:longitude":-95.545297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2537 Gessner Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353484721,
-    "wof:lastmodified":1449020649,
+    "wof:lastmodified":1467084373,
     "wof:name":"Argo Environmental",
     "wof:parent_id":85869695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-95.545297,29.818397,-95.545297,29.818397],
-  "geometry": {"coordinates":[-95.545297,29.818397],"type":"Point"}
+  "bbox": [
+    -95.545297,
+    29.818397,
+    -95.545297,
+    29.818397
+],
+  "geometry": {"coordinates":[-95.54529700000001,29.818397],"type":"Point"}
 }

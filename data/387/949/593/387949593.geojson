@@ -2,13 +2,14 @@
   "id": 387949593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.076403,32.838648,-97.076403,32.838648",
     "geom:latitude":32.838648,
     "geom:longitude":-97.076403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Airport Fwy",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387949593,
-    "wof:lastmodified":1449058464,
+    "wof:lastmodified":1467084845,
     "wof:name":"National Transmissions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.076403,32.838648,-97.076403,32.838648],
+  "bbox": [
+    -97.076403,
+    32.838648,
+    -97.076403,
+    32.838648
+],
   "geometry": {"coordinates":[-97.076403,32.838648],"type":"Point"}
 }

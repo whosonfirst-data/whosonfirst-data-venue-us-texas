@@ -2,13 +2,14 @@
   "id": 203192791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.099357,29.506472,-95.099357,29.506472",
     "geom:latitude":29.506472,
     "geom:longitude":-95.099357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"597 W Main St",
     "sg:city":"League City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203192791,
-    "wof:lastmodified":1449026308,
+    "wof:lastmodified":1467084410,
     "wof:name":"Snider Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.099357,29.506472,-95.099357,29.506472],
+  "bbox": [
+    -95.099357,
+    29.506472,
+    -95.099357,
+    29.506472
+],
   "geometry": {"coordinates":[-95.099357,29.506472],"type":"Point"}
 }

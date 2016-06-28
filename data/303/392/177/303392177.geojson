@@ -2,13 +2,14 @@
   "id": 303392177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.690868,30.310488,-97.690868,30.310488",
     "geom:latitude":30.310488,
     "geom:longitude":-97.690868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Northridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303392177,
-    "wof:lastmodified":1449000080,
+    "wof:lastmodified":1467083789,
     "wof:name":"Jt Glass",
     "wof:parent_id":85893565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.690868,30.310488,-97.690868,30.310488],
-  "geometry": {"coordinates":[-97.690868,30.310488],"type":"Point"}
+  "bbox": [
+    -97.690868,
+    30.310488,
+    -97.690868,
+    30.310488
+],
+  "geometry": {"coordinates":[-97.69086799999999,30.310488],"type":"Point"}
 }

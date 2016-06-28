@@ -2,13 +2,14 @@
   "id": 303236477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726307,30.209513,-97.726307,30.209513",
     "geom:latitude":30.209513,
     "geom:longitude":-97.726307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 Promontory Point Dr 206B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303236477,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1467083704,
     "wof:name":"Austin Black Car Service",
     "wof:parent_id":85869955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "limo"
     ]
 },
-  "bbox": [-97.726307,30.209513,-97.726307,30.209513],
-  "geometry": {"coordinates":[-97.726307,30.209513],"type":"Point"}
+  "bbox": [
+    -97.726307,
+    30.209513,
+    -97.726307,
+    30.209513
+],
+  "geometry": {"coordinates":[-97.72630700000001,30.209513],"type":"Point"}
 }

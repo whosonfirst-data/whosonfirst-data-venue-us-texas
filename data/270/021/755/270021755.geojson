@@ -2,13 +2,14 @@
   "id": 270021755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.41021,29.7471,-95.41021,29.7471",
     "geom:latitude":29.7471,
     "geom:longitude":-95.41021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 S Shepherd Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270021755,
-    "wof:lastmodified":1449010196,
+    "wof:lastmodified":1467084201,
     "wof:name":"Signature Home Theater",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.41021,29.7471,-95.41021,29.7471],
-  "geometry": {"coordinates":[-95.41021,29.7471],"type":"Point"}
+  "bbox": [
+    -95.41021,
+    29.7471,
+    -95.41021,
+    29.7471
+],
+  "geometry": {"coordinates":[-95.41021000000001,29.7471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303363581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737305,30.283452,-97.737305,30.283452",
     "geom:latitude":30.283452,
     "geom:longitude":-97.737305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 21st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303363581,
-    "wof:lastmodified":1449000270,
+    "wof:lastmodified":1467083798,
     "wof:name":"Jester Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-97.737305,30.283452,-97.737305,30.283452],
-  "geometry": {"coordinates":[-97.737305,30.283452],"type":"Point"}
+  "bbox": [
+    -97.737305,
+    30.283452,
+    -97.737305,
+    30.283452
+],
+  "geometry": {"coordinates":[-97.73730500000001,30.283452],"type":"Point"}
 }

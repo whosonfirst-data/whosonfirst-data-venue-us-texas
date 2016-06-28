@@ -2,13 +2,14 @@
   "id": 370762213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.112496,30.107094,-94.112496,30.107094",
     "geom:latitude":30.107094,
     "geom:longitude":-94.112496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Gulf St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370762213,
-    "wof:lastmodified":1449031476,
+    "wof:lastmodified":1467084529,
     "wof:name":"Sabine Ship Svc Inc",
     "wof:parent_id":85859499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barge"
     ]
 },
-  "bbox": [-94.112496,30.107094,-94.112496,30.107094],
-  "geometry": {"coordinates":[-94.112496,30.107094],"type":"Point"}
+  "bbox": [
+    -94.112496,
+    30.107094,
+    -94.112496,
+    30.107094
+],
+  "geometry": {"coordinates":[-94.11249599999999,30.107094],"type":"Point"}
 }

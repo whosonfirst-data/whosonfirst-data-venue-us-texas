@@ -2,13 +2,14 @@
   "id": 403830391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.606203,29.761194,-95.606203,29.761194",
     "geom:latitude":29.761194,
     "geom:longitude":-95.606203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Dairy Ashford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403830391,
-    "wof:lastmodified":1449054922,
+    "wof:lastmodified":1467084756,
     "wof:name":"Creative Juice",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-95.606203,29.761194,-95.606203,29.761194],
-  "geometry": {"coordinates":[-95.606203,29.761194],"type":"Point"}
+  "bbox": [
+    -95.606203,
+    29.761194,
+    -95.606203,
+    29.761194
+],
+  "geometry": {"coordinates":[-95.60620299999999,29.761194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252773791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503262,29.440753,-98.503262,29.440753",
     "geom:latitude":29.440753,
     "geom:longitude":-98.503262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 N Flores St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252773791,
-    "wof:lastmodified":1449005536,
+    "wof:lastmodified":1467084055,
     "wof:name":"Alamo Service Co",
     "wof:parent_id":85871063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-98.503262,29.440753,-98.503262,29.440753],
-  "geometry": {"coordinates":[-98.503262,29.440753],"type":"Point"}
+  "bbox": [
+    -98.503262,
+    29.440753,
+    -98.503262,
+    29.440753
+],
+  "geometry": {"coordinates":[-98.50326200000001,29.440753],"type":"Point"}
 }

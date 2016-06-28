@@ -2,13 +2,14 @@
   "id": 286297769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.493389,29.711797,-95.493389,29.711797",
     "geom:latitude":29.711797,
     "geom:longitude":-95.493389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6475 Hillcroft St Ste A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286297769,
-    "wof:lastmodified":1449017058,
+    "wof:lastmodified":1467084288,
     "wof:name":"Conoco",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.493389,29.711797,-95.493389,29.711797],
-  "geometry": {"coordinates":[-95.493389,29.711797],"type":"Point"}
+  "bbox": [
+    -95.493389,
+    29.711797,
+    -95.493389,
+    29.711797
+],
+  "geometry": {"coordinates":[-95.49338899999999,29.711797],"type":"Point"}
 }

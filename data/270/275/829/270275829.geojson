@@ -2,13 +2,14 @@
   "id": 270275829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521809,29.850967,-95.521809,29.850967",
     "geom:latitude":29.850967,
     "geom:longitude":-95.521809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8490 W Tidwell",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270275829,
-    "wof:lastmodified":1449009408,
+    "wof:lastmodified":1467084175,
     "wof:name":"Comcast",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-95.521809,29.850967,-95.521809,29.850967],
+  "bbox": [
+    -95.521809,
+    29.850967,
+    -95.521809,
+    29.850967
+],
   "geometry": {"coordinates":[-95.521809,29.850967],"type":"Point"}
 }

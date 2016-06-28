@@ -2,13 +2,14 @@
   "id": 252819725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811722,32.801899,-96.811722,32.801899",
     "geom:latitude":32.801899,
     "geom:longitude":-96.811722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Maple Ave Ste 210",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252819725,
-    "wof:lastmodified":1449005676,
+    "wof:lastmodified":1467084063,
     "wof:name":"The New York Times Company",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.811722,32.801899,-96.811722,32.801899],
+  "bbox": [
+    -96.811722,
+    32.801899,
+    -96.811722,
+    32.801899
+],
   "geometry": {"coordinates":[-96.811722,32.801899],"type":"Point"}
 }

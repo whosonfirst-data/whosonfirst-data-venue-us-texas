@@ -2,13 +2,14 @@
   "id": 370522279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300244,32.509259,-97.300244,32.509259",
     "geom:latitude":32.509259,
     "geom:longitude":-97.300244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S Burleson Blvd",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370522279,
-    "wof:lastmodified":1449030703,
+    "wof:lastmodified":1467084509,
     "wof:name":"Slip Away Travel",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-97.300244,32.509259,-97.300244,32.509259],
-  "geometry": {"coordinates":[-97.300244,32.509259],"type":"Point"}
+  "bbox": [
+    -97.300244,
+    32.509259,
+    -97.300244,
+    32.509259
+],
+  "geometry": {"coordinates":[-97.30024400000001,32.509259],"type":"Point"}
 }

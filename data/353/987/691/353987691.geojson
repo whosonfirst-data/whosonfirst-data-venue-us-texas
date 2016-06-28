@@ -2,13 +2,14 @@
   "id": 353987691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.92615,29.944505,-93.92615,29.944505",
     "geom:latitude":29.944505,
     "geom:longitude":-93.92615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5899 W Jefferson Blvd",
     "sg:city":"Groves",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353987691,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1467084352,
     "wof:name":"Meadow Grove Apartments",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-93.92615,29.944505,-93.92615,29.944505],
-  "geometry": {"coordinates":[-93.92615,29.944505],"type":"Point"}
+  "bbox": [
+    -93.92615,
+    29.944505,
+    -93.92615,
+    29.944505
+],
+  "geometry": {"coordinates":[-93.92615000000001,29.944505],"type":"Point"}
 }

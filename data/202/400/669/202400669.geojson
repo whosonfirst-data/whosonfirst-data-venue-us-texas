@@ -2,13 +2,14 @@
   "id": 202400669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.698572,30.251389,-97.698572,30.251389",
     "geom:latitude":30.251389,
     "geom:longitude":-97.698572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5215 E Cesar Chavez St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202400669,
-    "wof:lastmodified":1449060359,
+    "wof:lastmodified":1467084893,
     "wof:name":"Residential Overhead Door",
     "wof:parent_id":85869935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-97.698572,30.251389,-97.698572,30.251389],
+  "bbox": [
+    -97.698572,
+    30.251389,
+    -97.698572,
+    30.251389
+],
   "geometry": {"coordinates":[-97.698572,30.251389],"type":"Point"}
 }

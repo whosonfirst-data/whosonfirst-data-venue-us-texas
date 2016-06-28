@@ -2,13 +2,14 @@
   "id": 252711101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.365597,31.089635,-97.365597,31.089635",
     "geom:latitude":31.089635,
     "geom:longitude":-97.365597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 S 37th St",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252711101,
-    "wof:lastmodified":1449006311,
+    "wof:lastmodified":1467084097,
     "wof:name":"Aguilar Construction",
     "wof:parent_id":85849059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.365597,31.089635,-97.365597,31.089635],
-  "geometry": {"coordinates":[-97.365597,31.089635],"type":"Point"}
+  "bbox": [
+    -97.365597,
+    31.089635,
+    -97.365597,
+    31.089635
+],
+  "geometry": {"coordinates":[-97.36559699999999,31.089635],"type":"Point"}
 }

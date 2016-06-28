@@ -2,13 +2,14 @@
   "id": 252968071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.786301,32.921501,-96.786301,32.921501",
     "geom:latitude":32.921501,
     "geom:longitude":-96.786301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12720 Hillcrest Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252968071,
-    "wof:lastmodified":1449005479,
+    "wof:lastmodified":1467084052,
     "wof:name":"Apt Staffing",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.786301,32.921501,-96.786301,32.921501],
-  "geometry": {"coordinates":[-96.786301,32.921501],"type":"Point"}
+  "bbox": [
+    -96.786301,
+    32.921501,
+    -96.786301,
+    32.921501
+],
+  "geometry": {"coordinates":[-96.78630099999999,32.921501],"type":"Point"}
 }

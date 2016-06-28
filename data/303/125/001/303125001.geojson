@@ -2,13 +2,14 @@
   "id": 303125001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.59977,30.679028,-97.59977,30.679028",
     "geom:latitude":30.679028,
     "geom:longitude":-97.59977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Wilkie Ln",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303125001,
-    "wof:lastmodified":1449000480,
+    "wof:lastmodified":1467083809,
     "wof:name":"Advantage Waste Water Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.59977,30.679028,-97.59977,30.679028],
-  "geometry": {"coordinates":[-97.59977,30.679028],"type":"Point"}
+  "bbox": [
+    -97.59977,
+    30.679028,
+    -97.59977,
+    30.679028
+],
+  "geometry": {"coordinates":[-97.59977000000001,30.679028],"type":"Point"}
 }

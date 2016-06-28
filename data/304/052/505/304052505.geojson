@@ -2,13 +2,14 @@
   "id": 304052505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.806061,32.423931,-99.806061,32.423931",
     "geom:latitude":32.423931,
     "geom:longitude":-99.806061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Texas Ave",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":304052505,
-    "wof:lastmodified":1449043806,
+    "wof:lastmodified":1467084664,
     "wof:name":"Texas Place Mobile Home Park",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "park"
     ]
 },
-  "bbox": [-99.806061,32.423931,-99.806061,32.423931],
+  "bbox": [
+    -99.806061,
+    32.423931,
+    -99.806061,
+    32.423931
+],
   "geometry": {"coordinates":[-99.806061,32.423931],"type":"Point"}
 }

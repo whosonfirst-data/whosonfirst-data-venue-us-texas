@@ -2,13 +2,14 @@
   "id": 354229253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73839,32.967058,-96.73839,32.967058",
     "geom:latitude":32.967058,
     "geom:longitude":-96.73839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Hampshire Ln",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354229253,
-    "wof:lastmodified":1449067291,
+    "wof:lastmodified":1467085085,
     "wof:name":"MISPE",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.73839,32.967058,-96.73839,32.967058],
+  "bbox": [
+    -96.73839,
+    32.967058,
+    -96.73839,
+    32.967058
+],
   "geometry": {"coordinates":[-96.73839,32.967058],"type":"Point"}
 }

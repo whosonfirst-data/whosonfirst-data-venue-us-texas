@@ -2,13 +2,14 @@
   "id": 236722551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787641,30.37551,-97.787641,30.37551",
     "geom:latitude":30.37551,
     "geom:longitude":-97.787641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Maury Hollow",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236722551,
-    "wof:lastmodified":1449002673,
+    "wof:lastmodified":1467083917,
     "wof:name":"Comp-Utility",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "rooms"
     ]
 },
-  "bbox": [-97.787641,30.37551,-97.787641,30.37551],
-  "geometry": {"coordinates":[-97.787641,30.37551],"type":"Point"}
+  "bbox": [
+    -97.787641,
+    30.37551,
+    -97.787641,
+    30.37551
+],
+  "geometry": {"coordinates":[-97.78764099999999,30.37551],"type":"Point"}
 }

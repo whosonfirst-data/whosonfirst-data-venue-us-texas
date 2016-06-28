@@ -2,13 +2,14 @@
   "id": 371110745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.156906,31.509594,-97.156906,31.509594",
     "geom:latitude":31.509594,
     "geom:longitude":-97.156906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 S New Rd",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371110745,
-    "wof:lastmodified":1449049349,
+    "wof:lastmodified":1467084676,
     "wof:name":"WACO Baptist Assn",
     "wof:parent_id":85881751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.156906,31.509594,-97.156906,31.509594],
-  "geometry": {"coordinates":[-97.156906,31.509594],"type":"Point"}
+  "bbox": [
+    -97.156906,
+    31.509594,
+    -97.156906,
+    31.509594
+],
+  "geometry": {"coordinates":[-97.15690600000001,31.509594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169848375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.919105,29.892793,-97.919105,29.892793",
     "geom:latitude":29.892793,
     "geom:longitude":-97.919105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Aquarena Springs Dr",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169848375,
-    "wof:lastmodified":1449033149,
+    "wof:lastmodified":1467084559,
     "wof:name":"Locations Apartment Locators",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.919105,29.892793,-97.919105,29.892793],
+  "bbox": [
+    -97.919105,
+    29.892793,
+    -97.919105,
+    29.892793
+],
   "geometry": {"coordinates":[-97.919105,29.892793],"type":"Point"}
 }

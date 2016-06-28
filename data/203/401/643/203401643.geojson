@@ -2,13 +2,14 @@
   "id": 203401643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.96063,32.992922,-94.96063,32.992922",
     "geom:latitude":32.992922,
     "geom:longitude":-94.96063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Hill Ave",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203401643,
-    "wof:lastmodified":1449026567,
+    "wof:lastmodified":1467084415,
     "wof:name":"Smith Properties Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.96063,32.992922,-94.96063,32.992922],
-  "geometry": {"coordinates":[-94.96063,32.992922],"type":"Point"}
+  "bbox": [
+    -94.96063,
+    32.992922,
+    -94.96063,
+    32.992922
+],
+  "geometry": {"coordinates":[-94.96062999999999,32.992922],"type":"Point"}
 }

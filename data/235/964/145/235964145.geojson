@@ -2,13 +2,14 @@
   "id": 235964145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433388,29.526311,-98.433388,29.526311",
     "geom:latitude":29.526311,
     "geom:longitude":-98.433388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Salado Creek Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235964145,
-    "wof:lastmodified":1449008515,
+    "wof:lastmodified":1467084146,
     "wof:name":"Mission Park Ne",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.433388,29.526311,-98.433388,29.526311],
-  "geometry": {"coordinates":[-98.433388,29.526311],"type":"Point"}
+  "bbox": [
+    -98.433388,
+    29.526311,
+    -98.433388,
+    29.526311
+],
+  "geometry": {"coordinates":[-98.43338799999999,29.526311],"type":"Point"}
 }

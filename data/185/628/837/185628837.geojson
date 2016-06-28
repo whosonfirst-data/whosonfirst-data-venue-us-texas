@@ -2,13 +2,14 @@
   "id": 185628837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.899606,32.903807,-96.899606,32.903807",
     "geom:latitude":32.903807,
     "geom:longitude":-96.899606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11639 Emerald St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":185628837,
-    "wof:lastmodified":1449007917,
+    "wof:lastmodified":1467084134,
     "wof:name":"Import Stone",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-96.899606,32.903807,-96.899606,32.903807],
-  "geometry": {"coordinates":[-96.899606,32.903807],"type":"Point"}
+  "bbox": [
+    -96.899606,
+    32.903807,
+    -96.899606,
+    32.903807
+],
+  "geometry": {"coordinates":[-96.89960600000001,32.903807],"type":"Point"}
 }

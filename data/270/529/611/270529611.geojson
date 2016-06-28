@@ -2,13 +2,14 @@
   "id": 270529611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.533166,29.685601,-95.533166,29.685601",
     "geom:latitude":29.685601,
     "geom:longitude":-95.533166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Southwest Fwy Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270529611,
-    "wof:lastmodified":1449009708,
+    "wof:lastmodified":1467084185,
     "wof:name":"Jemco Jewelers Supply Inc",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.533166,29.685601,-95.533166,29.685601],
-  "geometry": {"coordinates":[-95.533166,29.685601],"type":"Point"}
+  "bbox": [
+    -95.533166,
+    29.685601,
+    -95.533166,
+    29.685601
+],
+  "geometry": {"coordinates":[-95.53316599999999,29.685601],"type":"Point"}
 }

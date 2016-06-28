@@ -2,13 +2,14 @@
   "id": 186041805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.510191,27.517177,-99.510191,27.517177",
     "geom:latitude":27.517177,
     "geom:longitude":-99.510191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Park St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186041805,
-    "wof:lastmodified":1449051354,
+    "wof:lastmodified":1467084712,
     "wof:name":"Cubs & Tigers",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.510191,27.517177,-99.510191,27.517177],
-  "geometry": {"coordinates":[-99.510191,27.517177],"type":"Point"}
+  "bbox": [
+    -99.510191,
+    27.517177,
+    -99.510191,
+    27.517177
+],
+  "geometry": {"coordinates":[-99.51019100000001,27.517177],"type":"Point"}
 }

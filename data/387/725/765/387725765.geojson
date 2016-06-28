@@ -2,13 +2,14 @@
   "id": 387725765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329901,32.742135,-97.329901,32.742135",
     "geom:latitude":32.742135,
     "geom:longitude":-97.329901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Jennings Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387725765,
-    "wof:lastmodified":1449057029,
+    "wof:lastmodified":1467084808,
     "wof:name":"Pointwise Inc",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "software"
     ]
 },
-  "bbox": [-97.329901,32.742135,-97.329901,32.742135],
-  "geometry": {"coordinates":[-97.329901,32.742135],"type":"Point"}
+  "bbox": [
+    -97.329901,
+    32.742135,
+    -97.329901,
+    32.742135
+],
+  "geometry": {"coordinates":[-97.32990100000001,32.742135],"type":"Point"}
 }

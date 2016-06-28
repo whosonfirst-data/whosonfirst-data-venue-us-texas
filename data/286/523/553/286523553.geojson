@@ -2,13 +2,14 @@
   "id": 286523553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.61293,30.3901,-95.61293,30.3901",
     "geom:latitude":30.3901,
     "geom:longitude":-95.61293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12435 Browning Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286523553,
-    "wof:lastmodified":1449016879,
+    "wof:lastmodified":1467084283,
     "wof:name":"Waterfront Fellowship",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.61293,30.3901,-95.61293,30.3901],
-  "geometry": {"coordinates":[-95.61293,30.3901],"type":"Point"}
+  "bbox": [
+    -95.61293,
+    30.3901,
+    -95.61293,
+    30.3901
+],
+  "geometry": {"coordinates":[-95.61293000000001,30.3901],"type":"Point"}
 }

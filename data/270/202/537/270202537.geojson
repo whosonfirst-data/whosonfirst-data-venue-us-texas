@@ -2,13 +2,14 @@
   "id": 270202537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.227798,29.629801,-95.227798,29.629801",
     "geom:latitude":29.629801,
     "geom:longitude":-95.227798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9090 Frey Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270202537,
-    "wof:lastmodified":1449010766,
+    "wof:lastmodified":1467084220,
     "wof:name":"Embassy Suites Hotel Houston Southwest Freeway",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.227798,29.629801,-95.227798,29.629801],
-  "geometry": {"coordinates":[-95.227798,29.629801],"type":"Point"}
+  "bbox": [
+    -95.227798,
+    29.629801,
+    -95.227798,
+    29.629801
+],
+  "geometry": {"coordinates":[-95.22779800000001,29.629801],"type":"Point"}
 }

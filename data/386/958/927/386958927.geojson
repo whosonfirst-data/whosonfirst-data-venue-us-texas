@@ -2,13 +2,14 @@
   "id": 386958927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.130023,30.026529,-99.130023,30.026529",
     "geom:latitude":30.026529,
     "geom:longitude":-99.130023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Memorial Blvd",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386958927,
-    "wof:lastmodified":1449028881,
+    "wof:lastmodified":1467084464,
     "wof:name":"Texas Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-99.130023,30.026529,-99.130023,30.026529],
-  "geometry": {"coordinates":[-99.130023,30.026529],"type":"Point"}
+  "bbox": [
+    -99.130023,
+    30.026529,
+    -99.130023,
+    30.026529
+],
+  "geometry": {"coordinates":[-99.13002299999999,30.026529],"type":"Point"}
 }

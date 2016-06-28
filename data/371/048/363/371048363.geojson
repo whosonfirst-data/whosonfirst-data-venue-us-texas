@@ -2,13 +2,14 @@
   "id": 371048363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.512577,29.379476,-98.512577,29.379476",
     "geom:latitude":29.379476,
     "geom:longitude":-98.512577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Division Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371048363,
-    "wof:lastmodified":1449049371,
+    "wof:lastmodified":1467084676,
     "wof:name":"That's The Ticket Defensive",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-98.512577,29.379476,-98.512577,29.379476],
-  "geometry": {"coordinates":[-98.512577,29.379476],"type":"Point"}
+  "bbox": [
+    -98.512577,
+    29.379476,
+    -98.512577,
+    29.379476
+],
+  "geometry": {"coordinates":[-98.51257699999999,29.379476],"type":"Point"}
 }

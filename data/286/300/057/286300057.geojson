@@ -2,13 +2,14 @@
   "id": 286300057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.488503,29.716599,-95.488503,29.716599",
     "geom:latitude":29.716599,
     "geom:longitude":-95.488503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6060 Gulfton St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286300057,
-    "wof:lastmodified":1449016838,
+    "wof:lastmodified":1467084282,
     "wof:name":"Alexander House Apartments",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.488503,29.716599,-95.488503,29.716599],
-  "geometry": {"coordinates":[-95.488503,29.716599],"type":"Point"}
+  "bbox": [
+    -95.488503,
+    29.716599,
+    -95.488503,
+    29.716599
+],
+  "geometry": {"coordinates":[-95.48850299999999,29.716599],"type":"Point"}
 }

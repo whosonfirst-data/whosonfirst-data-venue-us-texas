@@ -2,13 +2,14 @@
   "id": 202790343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72235,32.959831,-96.72235,32.959831",
     "geom:latitude":32.959831,
     "geom:longitude":-96.72235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 N Dorothy Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202790343,
-    "wof:lastmodified":1449062069,
+    "wof:lastmodified":1467084929,
     "wof:name":"Mobilex Texas Inc",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.72235,32.959831,-96.72235,32.959831],
-  "geometry": {"coordinates":[-96.72235,32.959831],"type":"Point"}
+  "bbox": [
+    -96.72235,
+    32.959831,
+    -96.72235,
+    32.959831
+],
+  "geometry": {"coordinates":[-96.72235000000001,32.959831],"type":"Point"}
 }

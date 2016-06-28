@@ -2,13 +2,14 @@
   "id": 370807791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.477157,31.77216,-106.477157,31.77216",
     "geom:latitude":31.77216,
     "geom:longitude":-106.477157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 E Yandell Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370807791,
-    "wof:lastmodified":1449029966,
+    "wof:lastmodified":1467084491,
     "wof:name":"Brides By Odriozola",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.477157,31.77216,-106.477157,31.77216],
-  "geometry": {"coordinates":[-106.477157,31.77216],"type":"Point"}
+  "bbox": [
+    -106.477157,
+    31.77216,
+    -106.477157,
+    31.77216
+],
+  "geometry": {"coordinates":[-106.47715700000001,31.77216],"type":"Point"}
 }

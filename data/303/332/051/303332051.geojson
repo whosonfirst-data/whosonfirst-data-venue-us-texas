@@ -2,13 +2,14 @@
   "id": 303332051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.781311,30.244341,-97.781311,30.244341",
     "geom:latitude":30.244341,
     "geom:longitude":-97.781311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801B S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303332051,
-    "wof:lastmodified":1448999480,
+    "wof:lastmodified":1467083759,
     "wof:name":"ThunderCloud Subs",
     "wof:parent_id":85869925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-97.781311,30.244341,-97.781311,30.244341],
+  "bbox": [
+    -97.781311,
+    30.244341,
+    -97.781311,
+    30.244341
+],
   "geometry": {"coordinates":[-97.781311,30.244341],"type":"Point"}
 }

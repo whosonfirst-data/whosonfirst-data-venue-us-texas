@@ -2,13 +2,14 @@
   "id": 404130427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485178,25.913107,-97.485178,25.913107",
     "geom:latitude":25.913107,
     "geom:longitude":-97.485178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Arthur St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404130427,
-    "wof:lastmodified":1449039422,
+    "wof:lastmodified":1467084646,
     "wof:name":"Revlis Medical Inc",
     "wof:parent_id":85876601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.485178,25.913107,-97.485178,25.913107],
+  "bbox": [
+    -97.485178,
+    25.913107,
+    -97.485178,
+    25.913107
+],
   "geometry": {"coordinates":[-97.485178,25.913107],"type":"Point"}
 }

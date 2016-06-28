@@ -2,13 +2,14 @@
   "id": 269541539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.194161,33.20624,-97.194161,33.20624",
     "geom:latitude":33.20624,
     "geom:longitude":-97.194161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4933 Sabre Ln",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269541539,
-    "wof:lastmodified":1449036409,
+    "wof:lastmodified":1467084579,
     "wof:name":"Texstar Airfreight",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "package"
     ]
 },
-  "bbox": [-97.194161,33.20624,-97.194161,33.20624],
-  "geometry": {"coordinates":[-97.194161,33.20624],"type":"Point"}
+  "bbox": [
+    -97.194161,
+    33.20624,
+    -97.194161,
+    33.20624
+],
+  "geometry": {"coordinates":[-97.19416099999999,33.20624],"type":"Point"}
 }

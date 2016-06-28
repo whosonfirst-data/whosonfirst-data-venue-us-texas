@@ -2,13 +2,14 @@
   "id": 303805049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.704075,30.400365,-97.704075,30.400365",
     "geom:latitude":30.400365,
     "geom:longitude":-97.704075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Metric Blvd Ste J131",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303805049,
-    "wof:lastmodified":1448998933,
+    "wof:lastmodified":1467083732,
     "wof:name":"PIICX Photography",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.704075,30.400365,-97.704075,30.400365],
+  "bbox": [
+    -97.704075,
+    30.400365,
+    -97.704075,
+    30.400365
+],
   "geometry": {"coordinates":[-97.704075,30.400365],"type":"Point"}
 }

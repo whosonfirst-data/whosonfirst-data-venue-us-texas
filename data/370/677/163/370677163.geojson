@@ -2,13 +2,14 @@
   "id": 370677163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120655,32.851915,-97.120655,32.851915",
     "geom:latitude":32.851915,
     "geom:longitude":-97.120655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Harwood Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370677163,
-    "wof:lastmodified":1449030307,
+    "wof:lastmodified":1467084499,
     "wof:name":"Emmanuel Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.120655,32.851915,-97.120655,32.851915],
+  "bbox": [
+    -97.120655,
+    32.851915,
+    -97.120655,
+    32.851915
+],
   "geometry": {"coordinates":[-97.120655,32.851915],"type":"Point"}
 }

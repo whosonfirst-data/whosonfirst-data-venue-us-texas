@@ -2,13 +2,14 @@
   "id": 387839639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.788382,30.909533,-99.788382,30.909533",
     "geom:latitude":30.909533,
     "geom:longitude":-99.788382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Ellis St",
     "sg:city":"Menard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387839639,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1467084843,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-99.788382,30.909533,-99.788382,30.909533],
+  "bbox": [
+    -99.788382,
+    30.909533,
+    -99.788382,
+    30.909533
+],
   "geometry": {"coordinates":[-99.788382,30.909533],"type":"Point"}
 }

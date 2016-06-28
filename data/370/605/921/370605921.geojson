@@ -2,13 +2,14 @@
   "id": 370605921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.315186,30.632375,-96.315186,30.632375",
     "geom:latitude":30.632375,
     "geom:longitude":-96.315186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Westover St",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370605921,
-    "wof:lastmodified":1449030743,
+    "wof:lastmodified":1467084510,
     "wof:name":"Work Bench",
     "wof:parent_id":85893599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.315186,30.632375,-96.315186,30.632375],
+  "bbox": [
+    -96.315186,
+    30.632375,
+    -96.315186,
+    30.632375
+],
   "geometry": {"coordinates":[-96.315186,30.632375],"type":"Point"}
 }

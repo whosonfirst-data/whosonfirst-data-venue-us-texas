@@ -2,13 +2,14 @@
   "id": 387671793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.982183,32.386857,-98.982183,32.386857",
     "geom:latitude":32.386857,
     "geom:longitude":-98.982183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W 8th St",
     "sg:city":"Cisco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387671793,
-    "wof:lastmodified":1449056986,
+    "wof:lastmodified":1467084806,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-98.982183,32.386857,-98.982183,32.386857],
-  "geometry": {"coordinates":[-98.982183,32.386857],"type":"Point"}
+  "bbox": [
+    -98.982183,
+    32.386857,
+    -98.982183,
+    32.386857
+],
+  "geometry": {"coordinates":[-98.98218300000001,32.386857],"type":"Point"}
 }

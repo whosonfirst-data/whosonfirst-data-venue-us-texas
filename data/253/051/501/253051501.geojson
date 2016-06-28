@@ -2,13 +2,14 @@
   "id": 253051501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.845591,32.839305,-96.845591,32.839305",
     "geom:latitude":32.839305,
     "geom:longitude":-96.845591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7367 Cedar Springs Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253051501,
-    "wof:lastmodified":1449064645,
+    "wof:lastmodified":1467085007,
     "wof:name":"Gold Jets",
     "wof:parent_id":85870475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.845591,32.839305,-96.845591,32.839305],
+  "bbox": [
+    -96.845591,
+    32.839305,
+    -96.845591,
+    32.839305
+],
   "geometry": {"coordinates":[-96.845591,32.839305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219228355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.960355,31.689767,-98.960355,31.689767",
     "geom:latitude":31.689767,
     "geom:longitude":-98.960355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Avenue W",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219228355,
-    "wof:lastmodified":1449071496,
+    "wof:lastmodified":1467085123,
     "wof:name":"Avenue W Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.960355,31.689767,-98.960355,31.689767],
-  "geometry": {"coordinates":[-98.960355,31.689767],"type":"Point"}
+  "bbox": [
+    -98.960355,
+    31.689767,
+    -98.960355,
+    31.689767
+],
+  "geometry": {"coordinates":[-98.96035500000001,31.689767],"type":"Point"}
 }

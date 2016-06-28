@@ -2,13 +2,14 @@
   "id": 403932755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.547604,31.850121,-106.547604,31.850121",
     "geom:latitude":31.850121,
     "geom:longitude":-106.547604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6870 Amposta Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403932755,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1467084761,
     "wof:name":"Achilles Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-106.547604,31.850121,-106.547604,31.850121],
-  "geometry": {"coordinates":[-106.547604,31.850121],"type":"Point"}
+  "bbox": [
+    -106.547604,
+    31.850121,
+    -106.547604,
+    31.850121
+],
+  "geometry": {"coordinates":[-106.54760400000001,31.850121],"type":"Point"}
 }

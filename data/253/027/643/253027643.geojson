@@ -2,13 +2,14 @@
   "id": 253027643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891236,32.913094,-96.891236,32.913094",
     "geom:latitude":32.913094,
     "geom:longitude":-96.891236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 Ford Rd Ste 220",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253027643,
-    "wof:lastmodified":1449063366,
+    "wof:lastmodified":1467084964,
     "wof:name":"Southwest Funding DFW",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.891236,32.913094,-96.891236,32.913094],
-  "geometry": {"coordinates":[-96.891236,32.913094],"type":"Point"}
+  "bbox": [
+    -96.891236,
+    32.913094,
+    -96.891236,
+    32.913094
+],
+  "geometry": {"coordinates":[-96.89123600000001,32.913094],"type":"Point"}
 }

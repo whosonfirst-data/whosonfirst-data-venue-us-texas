@@ -2,13 +2,14 @@
   "id": 252947067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.893402,32.895802,-96.893402,32.895802",
     "geom:latitude":32.895802,
     "geom:longitude":-96.893402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2552 Royal Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252947067,
-    "wof:lastmodified":1449006184,
+    "wof:lastmodified":1467084090,
     "wof:name":"Pharmacare Drug",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-96.893402,32.895802,-96.893402,32.895802],
-  "geometry": {"coordinates":[-96.893402,32.895802],"type":"Point"}
+  "bbox": [
+    -96.893402,
+    32.895802,
+    -96.893402,
+    32.895802
+],
+  "geometry": {"coordinates":[-96.89340199999999,32.895802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219668313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.405409,31.470747,-100.405409,31.470747",
     "geom:latitude":31.470747,
     "geom:longitude":-100.405409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Pulliam St",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219668313,
-    "wof:lastmodified":1449072853,
+    "wof:lastmodified":1467085151,
     "wof:name":"Premier Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-100.405409,31.470747,-100.405409,31.470747],
-  "geometry": {"coordinates":[-100.405409,31.470747],"type":"Point"}
+  "bbox": [
+    -100.405409,
+    31.470747,
+    -100.405409,
+    31.470747
+],
+  "geometry": {"coordinates":[-100.40540900000001,31.470747],"type":"Point"}
 }

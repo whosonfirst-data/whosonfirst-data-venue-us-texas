@@ -2,13 +2,14 @@
   "id": 303284805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727355,30.263421,-97.727355,30.263421",
     "geom:latitude":30.263421,
     "geom:longitude":-97.727355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E 6th St Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303284805,
-    "wof:lastmodified":1448999640,
+    "wof:lastmodified":1467083768,
     "wof:name":"El Rival",
     "wof:parent_id":85893523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-97.727355,30.263421,-97.727355,30.263421],
+  "bbox": [
+    -97.727355,
+    30.263421,
+    -97.727355,
+    30.263421
+],
   "geometry": {"coordinates":[-97.727355,30.263421],"type":"Point"}
 }

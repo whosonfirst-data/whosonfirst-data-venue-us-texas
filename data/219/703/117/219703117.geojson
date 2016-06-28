@@ -2,13 +2,14 @@
   "id": 219703117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.085625,29.719129,-98.085625,29.719129",
     "geom:latitude":29.719129,
     "geom:longitude":-98.085625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Granite Run Dr",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219703117,
-    "wof:lastmodified":1449071471,
+    "wof:lastmodified":1467085122,
     "wof:name":"Fleetwood Homes/Corral Farms",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.085625,29.719129,-98.085625,29.719129],
-  "geometry": {"coordinates":[-98.085625,29.719129],"type":"Point"}
+  "bbox": [
+    -98.085625,
+    29.719129,
+    -98.085625,
+    29.719129
+],
+  "geometry": {"coordinates":[-98.08562499999999,29.719129],"type":"Point"}
 }

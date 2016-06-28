@@ -2,13 +2,14 @@
   "id": 252868313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772162,32.861519,-96.772162,32.861519",
     "geom:latitude":32.861519,
     "geom:longitude":-96.772162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5445 Caruth Haven Ln Apt 1827",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252868313,
-    "wof:lastmodified":1449005445,
+    "wof:lastmodified":1467084049,
     "wof:name":"DKS Associates",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.772162,32.861519,-96.772162,32.861519],
-  "geometry": {"coordinates":[-96.772162,32.861519],"type":"Point"}
+  "bbox": [
+    -96.772162,
+    32.861519,
+    -96.772162,
+    32.861519
+],
+  "geometry": {"coordinates":[-96.77216199999999,32.861519],"type":"Point"}
 }

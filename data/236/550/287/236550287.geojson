@@ -2,13 +2,14 @@
   "id": 236550287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.386472,31.769227,-106.386472,31.769227",
     "geom:latitude":31.769227,
     "geom:longitude":-106.386472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6930 Market Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236550287,
-    "wof:lastmodified":1449003436,
+    "wof:lastmodified":1467083953,
     "wof:name":"Desert Run",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.386472,31.769227,-106.386472,31.769227],
+  "bbox": [
+    -106.386472,
+    31.769227,
+    -106.386472,
+    31.769227
+],
   "geometry": {"coordinates":[-106.386472,31.769227],"type":"Point"}
 }

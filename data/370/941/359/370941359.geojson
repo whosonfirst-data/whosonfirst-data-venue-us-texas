@@ -2,13 +2,14 @@
   "id": 370941359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.383423,29.569483,-98.383423,29.569483",
     "geom:latitude":29.569483,
     "geom:longitude":-98.383423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 Nacogdoches Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370941359,
-    "wof:lastmodified":1449031098,
+    "wof:lastmodified":1467084519,
     "wof:name":"Security Service Federal Cr Un",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-98.383423,29.569483,-98.383423,29.569483],
-  "geometry": {"coordinates":[-98.383423,29.569483],"type":"Point"}
+  "bbox": [
+    -98.383423,
+    29.569483,
+    -98.383423,
+    29.569483
+],
+  "geometry": {"coordinates":[-98.38342299999999,29.569483],"type":"Point"}
 }

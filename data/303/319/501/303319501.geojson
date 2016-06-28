@@ -2,13 +2,14 @@
   "id": 303319501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760654,30.240297,-97.760654,30.240297",
     "geom:latitude":30.240297,
     "geom:longitude":-97.760654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2529 S 1st Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303319501,
-    "wof:lastmodified":1448999118,
+    "wof:lastmodified":1467083741,
     "wof:name":"Community Health Centers of Austin & Travis County",
     "wof:parent_id":85869929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.760654,30.240297,-97.760654,30.240297],
+  "bbox": [
+    -97.760654,
+    30.240297,
+    -97.760654,
+    30.240297
+],
   "geometry": {"coordinates":[-97.760654,30.240297],"type":"Point"}
 }

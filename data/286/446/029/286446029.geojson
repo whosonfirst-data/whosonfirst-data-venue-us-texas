@@ -2,13 +2,14 @@
   "id": 286446029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.463546,29.731906,-95.463546,29.731906",
     "geom:latitude":29.731906,
     "geom:longitude":-95.463546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5078 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":286446029,
-    "wof:lastmodified":1449017848,
+    "wof:lastmodified":1467084310,
     "wof:name":"Golf Galaxy",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.463546,29.731906,-95.463546,29.731906],
-  "geometry": {"coordinates":[-95.463546,29.731906],"type":"Point"}
+  "bbox": [
+    -95.463546,
+    29.731906,
+    -95.463546,
+    29.731906
+],
+  "geometry": {"coordinates":[-95.46354599999999,29.731906],"type":"Point"}
 }

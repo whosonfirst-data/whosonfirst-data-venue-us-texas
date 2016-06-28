@@ -2,13 +2,14 @@
   "id": 185883485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703038,33.017975,-96.703038,33.017975",
     "geom:latitude":33.017975,
     "geom:longitude":-96.703038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 14th St",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185883485,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1467084133,
     "wof:name":"Plano Police Department",
     "wof:parent_id":85879929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-96.703038,33.017975,-96.703038,33.017975],
-  "geometry": {"coordinates":[-96.703038,33.017975],"type":"Point"}
+  "bbox": [
+    -96.703038,
+    33.017975,
+    -96.703038,
+    33.017975
+],
+  "geometry": {"coordinates":[-96.70303800000001,33.017975],"type":"Point"}
 }

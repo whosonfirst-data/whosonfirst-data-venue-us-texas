@@ -2,13 +2,14 @@
   "id": 370288373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.265273,30.593141,-96.265273,30.593141",
     "geom:latitude":30.593141,
     "geom:longitude":-96.265273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 Frost Dr",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370288373,
-    "wof:lastmodified":1449029445,
+    "wof:lastmodified":1467084477,
     "wof:name":"OBrien Trim & Cabinets",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.265273,30.593141,-96.265273,30.593141],
-  "geometry": {"coordinates":[-96.265273,30.593141],"type":"Point"}
+  "bbox": [
+    -96.265273,
+    30.593141,
+    -96.265273,
+    30.593141
+],
+  "geometry": {"coordinates":[-96.26527299999999,30.593141],"type":"Point"}
 }

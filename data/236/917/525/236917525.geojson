@@ -2,13 +2,14 @@
   "id": 236917525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766797,32.806919,-96.766797,32.806919",
     "geom:latitude":32.806919,
     "geom:longitude":-96.766797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5407 Bryan St. #A202",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":236917525,
-    "wof:lastmodified":1449004723,
+    "wof:lastmodified":1467084014,
     "wof:name":"getPAIDtoMOVE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "finder"
     ]
 },
-  "bbox": [-96.766797,32.806919,-96.766797,32.806919],
+  "bbox": [
+    -96.766797,
+    32.806919,
+    -96.766797,
+    32.806919
+],
   "geometry": {"coordinates":[-96.766797,32.806919],"type":"Point"}
 }

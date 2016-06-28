@@ -2,13 +2,14 @@
   "id": 252955181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.385933,29.746281,-95.385933,29.746281",
     "geom:latitude":29.746281,
     "geom:longitude":-95.385933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Stratford St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252955181,
-    "wof:lastmodified":1449006147,
+    "wof:lastmodified":1467084088,
     "wof:name":"Dermatech",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.385933,29.746281,-95.385933,29.746281],
-  "geometry": {"coordinates":[-95.385933,29.746281],"type":"Point"}
+  "bbox": [
+    -95.385933,
+    29.746281,
+    -95.385933,
+    29.746281
+],
+  "geometry": {"coordinates":[-95.38593299999999,29.746281],"type":"Point"}
 }

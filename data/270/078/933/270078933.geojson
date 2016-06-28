@@ -2,13 +2,14 @@
   "id": 270078933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.480499,29.778629,-95.480499,29.778629",
     "geom:latitude":29.778629,
     "geom:longitude":-95.480499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Memorial Dr Ste 920",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270078933,
-    "wof:lastmodified":1449010691,
+    "wof:lastmodified":1467084217,
     "wof:name":"Bhc Global",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.480499,29.778629,-95.480499,29.778629],
-  "geometry": {"coordinates":[-95.480499,29.778629],"type":"Point"}
+  "bbox": [
+    -95.480499,
+    29.778629,
+    -95.480499,
+    29.778629
+],
+  "geometry": {"coordinates":[-95.48049899999999,29.778629],"type":"Point"}
 }

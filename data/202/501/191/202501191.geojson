@@ -2,13 +2,14 @@
   "id": 202501191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.446474,30.520239,-95.446474,30.520239",
     "geom:latitude":30.520239,
     "geom:longitude":-95.446474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Mount Zion Rd",
     "sg:city":"New Waverly",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202501191,
-    "wof:lastmodified":1449062672,
+    "wof:lastmodified":1467084941,
     "wof:name":"Triple E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.446474,30.520239,-95.446474,30.520239],
-  "geometry": {"coordinates":[-95.446474,30.520239],"type":"Point"}
+  "bbox": [
+    -95.446474,
+    30.520239,
+    -95.446474,
+    30.520239
+],
+  "geometry": {"coordinates":[-95.44647399999999,30.520239],"type":"Point"}
 }

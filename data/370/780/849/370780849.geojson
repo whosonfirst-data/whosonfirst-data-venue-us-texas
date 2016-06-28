@@ -2,13 +2,14 @@
   "id": 370780849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.259886,32.516186,-97.259886,32.516186",
     "geom:latitude":32.516186,
     "geom:longitude":-97.259886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Co Rd 529",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370780849,
-    "wof:lastmodified":1449031626,
+    "wof:lastmodified":1467084533,
     "wof:name":"Quill Miller Development Inc",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.259886,32.516186,-97.259886,32.516186],
-  "geometry": {"coordinates":[-97.259886,32.516186],"type":"Point"}
+  "bbox": [
+    -97.259886,
+    32.516186,
+    -97.259886,
+    32.516186
+],
+  "geometry": {"coordinates":[-97.25988599999999,32.516186],"type":"Point"}
 }

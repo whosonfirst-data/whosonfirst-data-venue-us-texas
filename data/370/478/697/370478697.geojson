@@ -2,13 +2,14 @@
   "id": 370478697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.427759,29.695899,-95.427759,29.695899",
     "geom:latitude":29.695899,
     "geom:longitude":-95.427759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 N Braeswood Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370478697,
-    "wof:lastmodified":1449029179,
+    "wof:lastmodified":1467084471,
     "wof:name":"Excelsys",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.427759,29.695899,-95.427759,29.695899],
-  "geometry": {"coordinates":[-95.427759,29.695899],"type":"Point"}
+  "bbox": [
+    -95.427759,
+    29.695899,
+    -95.427759,
+    29.695899
+],
+  "geometry": {"coordinates":[-95.42775899999999,29.695899],"type":"Point"}
 }

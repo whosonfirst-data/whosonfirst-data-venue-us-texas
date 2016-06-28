@@ -2,13 +2,14 @@
   "id": 303309201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767818,30.282249,-97.767818,30.282249",
     "geom:latitude":30.282249,
     "geom:longitude":-97.767818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 W 10th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303309201,
-    "wof:lastmodified":1448998659,
+    "wof:lastmodified":1467083718,
     "wof:name":"Dean Jett Custom Clothier",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wedding"
     ]
 },
-  "bbox": [-97.767818,30.282249,-97.767818,30.282249],
-  "geometry": {"coordinates":[-97.767818,30.282249],"type":"Point"}
+  "bbox": [
+    -97.767818,
+    30.282249,
+    -97.767818,
+    30.282249
+],
+  "geometry": {"coordinates":[-97.76781800000001,30.282249],"type":"Point"}
 }

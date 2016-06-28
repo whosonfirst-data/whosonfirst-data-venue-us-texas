@@ -2,13 +2,14 @@
   "id": 387630781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.502692,25.979225,-97.502692,25.979225",
     "geom:latitude":25.979225,
     "geom:longitude":-97.502692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Alton Gloor Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387630781,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1467084818,
     "wof:name":"Brazos Santigo Pilots",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pilot"
     ]
 },
-  "bbox": [-97.502692,25.979225,-97.502692,25.979225],
+  "bbox": [
+    -97.502692,
+    25.979225,
+    -97.502692,
+    25.979225
+],
   "geometry": {"coordinates":[-97.502692,25.979225],"type":"Point"}
 }

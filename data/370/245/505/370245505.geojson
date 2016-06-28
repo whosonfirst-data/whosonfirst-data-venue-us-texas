@@ -2,13 +2,14 @@
   "id": 370245505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.206333,32.970934,-97.206333,32.970934",
     "geom:latitude":32.970934,
     "geom:longitude":-97.206333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Spring Dr",
     "sg:city":"Justin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370245505,
-    "wof:lastmodified":1449032359,
+    "wof:lastmodified":1467084551,
     "wof:name":"Fox & Jacobs",
     "wof:parent_id":85897409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.206333,32.970934,-97.206333,32.970934],
+  "bbox": [
+    -97.206333,
+    32.970934,
+    -97.206333,
+    32.970934
+],
   "geometry": {"coordinates":[-97.206333,32.970934],"type":"Point"}
 }

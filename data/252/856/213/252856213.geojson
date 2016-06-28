@@ -2,13 +2,14 @@
   "id": 252856213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.828598,32.689899,-96.828598,32.689899",
     "geom:latitude":32.689899,
     "geom:longitude":-96.828598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4607 Village Fair Dr Ste 101",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252856213,
-    "wof:lastmodified":1449005722,
+    "wof:lastmodified":1467084065,
     "wof:name":"Little Bob's Bar B-Q",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-96.828598,32.689899,-96.828598,32.689899],
+  "bbox": [
+    -96.828598,
+    32.689899,
+    -96.828598,
+    32.689899
+],
   "geometry": {"coordinates":[-96.828598,32.689899],"type":"Point"}
 }

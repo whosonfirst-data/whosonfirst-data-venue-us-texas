@@ -2,13 +2,14 @@
   "id": 387689443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.287529,33.085504,-97.287529,33.085504",
     "geom:latitude":33.085504,
     "geom:longitude":-97.287529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Meadowview Dr",
     "sg:city":"Justin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387689443,
-    "wof:lastmodified":1449059284,
+    "wof:lastmodified":1467084866,
     "wof:name":"Steel Tek Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-97.287529,33.085504,-97.287529,33.085504],
-  "geometry": {"coordinates":[-97.287529,33.085504],"type":"Point"}
+  "bbox": [
+    -97.287529,
+    33.085504,
+    -97.287529,
+    33.085504
+],
+  "geometry": {"coordinates":[-97.28752900000001,33.085504],"type":"Point"}
 }

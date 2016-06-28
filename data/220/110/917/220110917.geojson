@@ -2,13 +2,14 @@
   "id": 220110917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.200522,32.868806,-97.200522,32.868806",
     "geom:latitude":32.868806,
     "geom:longitude":-97.200522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8417 Randy Dr",
     "sg:city":"N Richland Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220110917,
-    "wof:lastmodified":1449074285,
+    "wof:lastmodified":1467085182,
     "wof:name":"Lone Star Coffee Svc",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.200522,32.868806,-97.200522,32.868806],
-  "geometry": {"coordinates":[-97.200522,32.868806],"type":"Point"}
+  "bbox": [
+    -97.200522,
+    32.868806,
+    -97.200522,
+    32.868806
+],
+  "geometry": {"coordinates":[-97.20052200000001,32.868806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202430705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.539059,29.718227,-95.539059,29.718227",
     "geom:latitude":29.718227,
     "geom:longitude":-95.539059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5858 S Gessner Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202430705,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1467084921,
     "wof:name":"99 Cents Stop",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "general"
     ]
 },
-  "bbox": [-95.539059,29.718227,-95.539059,29.718227],
-  "geometry": {"coordinates":[-95.539059,29.718227],"type":"Point"}
+  "bbox": [
+    -95.539059,
+    29.718227,
+    -95.539059,
+    29.718227
+],
+  "geometry": {"coordinates":[-95.53905899999999,29.718227],"type":"Point"}
 }

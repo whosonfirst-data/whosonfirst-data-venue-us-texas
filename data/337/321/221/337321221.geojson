@@ -2,13 +2,14 @@
   "id": 337321221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526135,29.539577,-98.526135,29.539577",
     "geom:latitude":29.539577,
     "geom:longitude":-98.526135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2035 Lockhill Selma Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337321221,
-    "wof:lastmodified":1449026951,
+    "wof:lastmodified":1467084424,
     "wof:name":"Alamo Garage",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-98.526135,29.539577,-98.526135,29.539577],
+  "bbox": [
+    -98.526135,
+    29.539577,
+    -98.526135,
+    29.539577
+],
   "geometry": {"coordinates":[-98.526135,29.539577],"type":"Point"}
 }

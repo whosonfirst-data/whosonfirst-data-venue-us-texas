@@ -2,13 +2,14 @@
   "id": 202424201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.152972,29.134162,-98.152972,29.134162",
     "geom:latitude":29.134162,
     "geom:longitude":-98.152972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 E St",
     "sg:city":"Floresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202424201,
-    "wof:lastmodified":1449062488,
+    "wof:lastmodified":1467084938,
     "wof:name":"Talley Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.152972,29.134162,-98.152972,29.134162],
-  "geometry": {"coordinates":[-98.152972,29.134162],"type":"Point"}
+  "bbox": [
+    -98.152972,
+    29.134162,
+    -98.152972,
+    29.134162
+],
+  "geometry": {"coordinates":[-98.15297200000001,29.134162],"type":"Point"}
 }

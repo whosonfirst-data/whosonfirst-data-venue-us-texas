@@ -2,13 +2,14 @@
   "id": 202745685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.008542,32.750762,-98.008542,32.750762",
     "geom:latitude":32.750762,
     "geom:longitude":-98.008542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Locust Rd",
     "sg:city":"Millsap",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202745685,
-    "wof:lastmodified":1449062537,
+    "wof:lastmodified":1467084938,
     "wof:name":"Millsap Baptist Church",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.008542,32.750762,-98.008542,32.750762],
-  "geometry": {"coordinates":[-98.008542,32.750762],"type":"Point"}
+  "bbox": [
+    -98.008542,
+    32.750762,
+    -98.008542,
+    32.750762
+],
+  "geometry": {"coordinates":[-98.00854200000001,32.750762],"type":"Point"}
 }

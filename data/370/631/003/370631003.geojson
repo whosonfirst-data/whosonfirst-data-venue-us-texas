@@ -2,13 +2,14 @@
   "id": 370631003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.975104,29.946441,-93.975104,29.946441",
     "geom:latitude":29.946441,
     "geom:longitude":-93.975104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 9th Ave",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370631003,
-    "wof:lastmodified":1449030146,
+    "wof:lastmodified":1467084495,
     "wof:name":"Food Stop",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.975104,29.946441,-93.975104,29.946441],
+  "bbox": [
+    -93.975104,
+    29.946441,
+    -93.975104,
+    29.946441
+],
   "geometry": {"coordinates":[-93.975104,29.946441],"type":"Point"}
 }

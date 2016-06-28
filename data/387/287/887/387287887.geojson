@@ -2,13 +2,14 @@
   "id": 387287887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.621073,33.838001,-97.621073,33.838001",
     "geom:latitude":33.838001,
     "geom:longitude":-97.621073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Nocona Dr",
     "sg:city":"Nocona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387287887,
-    "wof:lastmodified":1449056345,
+    "wof:lastmodified":1467084790,
     "wof:name":"Nocona Hills Water Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.621073,33.838001,-97.621073,33.838001],
+  "bbox": [
+    -97.621073,
+    33.838001,
+    -97.621073,
+    33.838001
+],
   "geometry": {"coordinates":[-97.621073,33.838001],"type":"Point"}
 }

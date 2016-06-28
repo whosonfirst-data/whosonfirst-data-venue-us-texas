@@ -2,13 +2,14 @@
   "id": 185901415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.710591,32.41013,-100.710591,32.41013",
     "geom:latitude":32.41013,
     "geom:longitude":-100.710591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Kindred St",
     "sg:city":"Loraine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185901415,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1467084123,
     "wof:name":"Mitchell County Precinct 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.710591,32.41013,-100.710591,32.41013],
-  "geometry": {"coordinates":[-100.710591,32.41013],"type":"Point"}
+  "bbox": [
+    -100.710591,
+    32.41013,
+    -100.710591,
+    32.41013
+],
+  "geometry": {"coordinates":[-100.71059099999999,32.41013],"type":"Point"}
 }

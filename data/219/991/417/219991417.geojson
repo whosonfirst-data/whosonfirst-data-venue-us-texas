@@ -2,13 +2,14 @@
   "id": 219991417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190036,30.090302,-94.190036,30.090302",
     "geom:latitude":30.090302,
     "geom:longitude":-94.190036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 N Major Dr",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219991417,
-    "wof:lastmodified":1449071505,
+    "wof:lastmodified":1467085123,
     "wof:name":"A-1 Massage Therapy",
     "wof:parent_id":85817771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.190036,30.090302,-94.190036,30.090302],
-  "geometry": {"coordinates":[-94.190036,30.090302],"type":"Point"}
+  "bbox": [
+    -94.190036,
+    30.090302,
+    -94.190036,
+    30.090302
+],
+  "geometry": {"coordinates":[-94.19003600000001,30.090302],"type":"Point"}
 }

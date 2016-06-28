@@ -2,13 +2,14 @@
   "id": 353556355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80581,33.106999,-96.80581,33.106999",
     "geom:latitude":33.106999,
     "geom:longitude":-96.80581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Preston Rd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353556355,
-    "wof:lastmodified":1449018892,
+    "wof:lastmodified":1467084335,
     "wof:name":"TLC Pediatrics-Frisco",
     "wof:parent_id":85830099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.80581,33.106999,-96.80581,33.106999],
-  "geometry": {"coordinates":[-96.80581,33.106999],"type":"Point"}
+  "bbox": [
+    -96.80581,
+    33.106999,
+    -96.80581,
+    33.106999
+],
+  "geometry": {"coordinates":[-96.80580999999999,33.106999],"type":"Point"}
 }

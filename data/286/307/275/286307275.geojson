@@ -2,13 +2,14 @@
   "id": 286307275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48471,29.704499,-95.48471,29.704499",
     "geom:latitude":29.704499,
     "geom:longitude":-95.48471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 Renwick Dr Ste B",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286307275,
-    "wof:lastmodified":1449015934,
+    "wof:lastmodified":1467084257,
     "wof:name":"London Upholstery",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-95.48471,29.704499,-95.48471,29.704499],
-  "geometry": {"coordinates":[-95.48471,29.704499],"type":"Point"}
+  "bbox": [
+    -95.48471,
+    29.704499,
+    -95.48471,
+    29.704499
+],
+  "geometry": {"coordinates":[-95.48471000000001,29.704499],"type":"Point"}
 }

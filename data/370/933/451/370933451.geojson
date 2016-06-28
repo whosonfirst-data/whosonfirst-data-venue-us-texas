@@ -2,13 +2,14 @@
   "id": 370933451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.801473,32.520311,-94.801473,32.520311",
     "geom:latitude":32.520311,
     "geom:longitude":-94.801473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Pine Tree Rd",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370933451,
-    "wof:lastmodified":1449029788,
+    "wof:lastmodified":1467084486,
     "wof:name":"Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-94.801473,32.520311,-94.801473,32.520311],
+  "bbox": [
+    -94.801473,
+    32.520311,
+    -94.801473,
+    32.520311
+],
   "geometry": {"coordinates":[-94.801473,32.520311],"type":"Point"}
 }

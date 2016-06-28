@@ -2,13 +2,14 @@
   "id": 202892027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.549625,29.700675,-95.549625,29.700675",
     "geom:latitude":29.700675,
     "geom:longitude":-95.549625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9310 Stroud Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202892027,
-    "wof:lastmodified":1449060478,
+    "wof:lastmodified":1467084895,
     "wof:name":"Barker Texas Surgical Ser",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.549625,29.700675,-95.549625,29.700675],
-  "geometry": {"coordinates":[-95.549625,29.700675],"type":"Point"}
+  "bbox": [
+    -95.549625,
+    29.700675,
+    -95.549625,
+    29.700675
+],
+  "geometry": {"coordinates":[-95.54962500000001,29.700675],"type":"Point"}
 }

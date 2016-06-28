@@ -2,13 +2,14 @@
   "id": 370509161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085182,32.735395,-97.085182,32.735395",
     "geom:latitude":32.735395,
     "geom:longitude":-97.085182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 E Abram St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370509161,
-    "wof:lastmodified":1449029209,
+    "wof:lastmodified":1467084472,
     "wof:name":"Transportation Unlimited",
     "wof:parent_id":85893487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driver"
     ]
 },
-  "bbox": [-97.085182,32.735395,-97.085182,32.735395],
+  "bbox": [
+    -97.085182,
+    32.735395,
+    -97.085182,
+    32.735395
+],
   "geometry": {"coordinates":[-97.085182,32.735395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303548239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940072,30.308852,-97.940072,30.308852",
     "geom:latitude":30.308852,
     "geom:longitude":-97.940072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12801 Hill Country Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303548239,
-    "wof:lastmodified":1448999808,
+    "wof:lastmodified":1467083776,
     "wof:name":"Yogurt Planet",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-97.940072,30.308852,-97.940072,30.308852],
+  "bbox": [
+    -97.940072,
+    30.308852,
+    -97.940072,
+    30.308852
+],
   "geometry": {"coordinates":[-97.940072,30.308852],"type":"Point"}
 }

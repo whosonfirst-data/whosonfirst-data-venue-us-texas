@@ -2,13 +2,14 @@
   "id": 253479859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235689,32.712288,-94.235689,32.712288",
     "geom:latitude":32.712288,
     "geom:longitude":-94.235689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Pump Station Rd",
     "sg:city":"Karnack",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253479859,
-    "wof:lastmodified":1449064867,
+    "wof:lastmodified":1467085015,
     "wof:name":"City Of Marshall",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-94.235689,32.712288,-94.235689,32.712288],
-  "geometry": {"coordinates":[-94.235689,32.712288],"type":"Point"}
+  "bbox": [
+    -94.235689,
+    32.712288,
+    -94.235689,
+    32.712288
+],
+  "geometry": {"coordinates":[-94.23568899999999,32.712288],"type":"Point"}
 }

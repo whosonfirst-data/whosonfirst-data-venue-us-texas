@@ -2,13 +2,14 @@
   "id": 303845115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74976,30.308851,-97.74976,30.308851",
     "geom:latitude":30.308851,
     "geom:longitude":-97.74976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W 38th Street Ste 212",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303845115,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1467083711,
     "wof:name":"Texas Child Study Center",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mental"
     ]
 },
-  "bbox": [-97.74976,30.308851,-97.74976,30.308851],
-  "geometry": {"coordinates":[-97.74976,30.308851],"type":"Point"}
+  "bbox": [
+    -97.74976,
+    30.308851,
+    -97.74976,
+    30.308851
+],
+  "geometry": {"coordinates":[-97.74975999999999,30.308851],"type":"Point"}
 }

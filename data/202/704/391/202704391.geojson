@@ -2,13 +2,14 @@
   "id": 202704391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.432473,29.510857,-97.432473,29.510857",
     "geom:latitude":29.510857,
     "geom:longitude":-97.432473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Zint St",
     "sg:city":"Gonzales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704391,
-    "wof:lastmodified":1449060776,
+    "wof:lastmodified":1467084902,
     "wof:name":"Parks & Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-97.432473,29.510857,-97.432473,29.510857],
+  "bbox": [
+    -97.432473,
+    29.510857,
+    -97.432473,
+    29.510857
+],
   "geometry": {"coordinates":[-97.432473,29.510857],"type":"Point"}
 }

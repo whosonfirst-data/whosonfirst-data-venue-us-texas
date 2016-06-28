@@ -2,13 +2,14 @@
   "id": 303234623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748046,30.267586,-97.748046,30.267586",
     "geom:latitude":30.267586,
     "geom:longitude":-97.748046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 San Antonio St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303234623,
-    "wof:lastmodified":1449000432,
+    "wof:lastmodified":1467083806,
     "wof:name":"Automotive Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.748046,30.267586,-97.748046,30.267586],
+  "bbox": [
+    -97.748046,
+    30.267586,
+    -97.748046,
+    30.267586
+],
   "geometry": {"coordinates":[-97.748046,30.267586],"type":"Point"}
 }

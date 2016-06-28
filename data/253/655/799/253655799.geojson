@@ -2,13 +2,14 @@
   "id": 253655799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.138996,32.837296,-97.138996,32.837296",
     "geom:latitude":32.837296,
     "geom:longitude":-97.138996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Airport Fwy",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253655799,
-    "wof:lastmodified":1449064533,
+    "wof:lastmodified":1467085004,
     "wof:name":"Toadies",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-97.138996,32.837296,-97.138996,32.837296],
-  "geometry": {"coordinates":[-97.138996,32.837296],"type":"Point"}
+  "bbox": [
+    -97.138996,
+    32.837296,
+    -97.138996,
+    32.837296
+],
+  "geometry": {"coordinates":[-97.13899600000001,32.837296],"type":"Point"}
 }

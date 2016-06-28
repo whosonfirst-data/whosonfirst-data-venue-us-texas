@@ -2,13 +2,14 @@
   "id": 387088399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498871,31.770615,-106.498871,31.770615",
     "geom:latitude":31.770615,
     "geom:longitude":-106.498871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Oregon St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387088399,
-    "wof:lastmodified":1449059068,
+    "wof:lastmodified":1467084860,
     "wof:name":"Heart Institute At Las Palmas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.498871,31.770615,-106.498871,31.770615],
-  "geometry": {"coordinates":[-106.498871,31.770615],"type":"Point"}
+  "bbox": [
+    -106.498871,
+    31.770615,
+    -106.498871,
+    31.770615
+],
+  "geometry": {"coordinates":[-106.49887099999999,31.770615],"type":"Point"}
 }

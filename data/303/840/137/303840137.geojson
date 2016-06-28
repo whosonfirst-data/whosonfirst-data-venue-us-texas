@@ -2,13 +2,14 @@
   "id": 303840137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752295,30.390463,-97.752295,30.390463",
     "geom:latitude":30.390463,
     "geom:longitude":-97.752295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Arboretum Blvd Ste 130",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303840137,
-    "wof:lastmodified":1449000012,
+    "wof:lastmodified":1467083786,
     "wof:name":"Royal Travels",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cruise"
     ]
 },
-  "bbox": [-97.752295,30.390463,-97.752295,30.390463],
+  "bbox": [
+    -97.752295,
+    30.390463,
+    -97.752295,
+    30.390463
+],
   "geometry": {"coordinates":[-97.752295,30.390463],"type":"Point"}
 }

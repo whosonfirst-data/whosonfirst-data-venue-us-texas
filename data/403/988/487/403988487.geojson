@@ -2,13 +2,14 @@
   "id": 403988487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.600124,29.465944,-98.600124,29.465944",
     "geom:latitude":29.465944,
     "geom:longitude":-98.600124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5947 Ingram Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403988487,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1467084760,
     "wof:name":"Water World",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.600124,29.465944,-98.600124,29.465944],
-  "geometry": {"coordinates":[-98.600124,29.465944],"type":"Point"}
+  "bbox": [
+    -98.600124,
+    29.465944,
+    -98.600124,
+    29.465944
+],
+  "geometry": {"coordinates":[-98.60012399999999,29.465944],"type":"Point"}
 }

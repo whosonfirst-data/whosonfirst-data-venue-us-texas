@@ -2,13 +2,14 @@
   "id": 236328477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963541,32.786509,-96.963541,32.786509",
     "geom:latitude":32.786509,
     "geom:longitude":-96.963541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Lakeshore Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236328477,
-    "wof:lastmodified":1449003618,
+    "wof:lastmodified":1467083962,
     "wof:name":"Evans Rental",
     "wof:parent_id":85878319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-96.963541,32.786509,-96.963541,32.786509],
-  "geometry": {"coordinates":[-96.963541,32.786509],"type":"Point"}
+  "bbox": [
+    -96.963541,
+    32.786509,
+    -96.963541,
+    32.786509
+],
+  "geometry": {"coordinates":[-96.96354100000001,32.786509],"type":"Point"}
 }

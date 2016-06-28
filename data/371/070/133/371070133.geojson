@@ -2,13 +2,14 @@
   "id": 371070133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.362846,29.709665,-95.362846,29.709665",
     "geom:latitude":29.709665,
     "geom:longitude":-95.362846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 S Mac Gregor Way",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371070133,
-    "wof:lastmodified":1449049516,
+    "wof:lastmodified":1467084679,
     "wof:name":"Hopkins Prescription Pharmacy",
     "wof:parent_id":85869449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drug"
     ]
 },
-  "bbox": [-95.362846,29.709665,-95.362846,29.709665],
+  "bbox": [
+    -95.362846,
+    29.709665,
+    -95.362846,
+    29.709665
+],
   "geometry": {"coordinates":[-95.362846,29.709665],"type":"Point"}
 }

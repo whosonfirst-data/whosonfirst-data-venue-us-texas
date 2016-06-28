@@ -2,13 +2,14 @@
   "id": 303187333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.608389,30.431645,-97.608389,30.431645",
     "geom:latitude":30.431645,
     "geom:longitude":-97.608389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Sage Boot Dr",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303187333,
-    "wof:lastmodified":1448998484,
+    "wof:lastmodified":1467083709,
     "wof:name":"Pc Surgeon",
     "wof:parent_id":85893865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-97.608389,30.431645,-97.608389,30.431645],
+  "bbox": [
+    -97.608389,
+    30.431645,
+    -97.608389,
+    30.431645
+],
   "geometry": {"coordinates":[-97.608389,30.431645],"type":"Point"}
 }

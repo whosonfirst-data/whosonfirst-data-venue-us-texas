@@ -2,13 +2,14 @@
   "id": 403751235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.501159,29.846059,-95.501159,29.846059",
     "geom:latitude":29.846059,
     "geom:longitude":-95.501159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13101 Northwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403751235,
-    "wof:lastmodified":1449054699,
+    "wof:lastmodified":1467084751,
     "wof:name":"Northwest Crossing I",
     "wof:parent_id":85869555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.501159,29.846059,-95.501159,29.846059],
+  "bbox": [
+    -95.501159,
+    29.846059,
+    -95.501159,
+    29.846059
+],
   "geometry": {"coordinates":[-95.501159,29.846059],"type":"Point"}
 }

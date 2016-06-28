@@ -2,13 +2,14 @@
   "id": 303780167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731541,30.354915,-97.731541,30.354915",
     "geom:latitude":30.354915,
     "geom:longitude":-97.731541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7795 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303780167,
-    "wof:lastmodified":1448999950,
+    "wof:lastmodified":1467083783,
     "wof:name":"Build A Sofa",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.731541,30.354915,-97.731541,30.354915],
-  "geometry": {"coordinates":[-97.731541,30.354915],"type":"Point"}
+  "bbox": [
+    -97.731541,
+    30.354915,
+    -97.731541,
+    30.354915
+],
+  "geometry": {"coordinates":[-97.73154100000001,30.354915],"type":"Point"}
 }

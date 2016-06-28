@@ -2,13 +2,14 @@
   "id": 370436079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.367112,29.762658,-95.367112,29.762658",
     "geom:latitude":29.762658,
     "geom:longitude":-95.367112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Texas St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370436079,
-    "wof:lastmodified":1449032151,
+    "wof:lastmodified":1467084546,
     "wof:name":"Bar Houston",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.367112,29.762658,-95.367112,29.762658],
-  "geometry": {"coordinates":[-95.367112,29.762658],"type":"Point"}
+  "bbox": [
+    -95.367112,
+    29.762658,
+    -95.367112,
+    29.762658
+],
+  "geometry": {"coordinates":[-95.36711200000001,29.762658],"type":"Point"}
 }

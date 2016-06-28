@@ -2,13 +2,14 @@
   "id": 354178559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.116228,29.548041,-95.116228,29.548041",
     "geom:latitude":29.548041,
     "geom:longitude":-95.116228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 E Medical Center Blvd",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354178559,
-    "wof:lastmodified":1449067181,
+    "wof:lastmodified":1467085082,
     "wof:name":"Clayton L Moliver MD",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.116228,29.548041,-95.116228,29.548041],
-  "geometry": {"coordinates":[-95.116228,29.548041],"type":"Point"}
+  "bbox": [
+    -95.116228,
+    29.548041,
+    -95.116228,
+    29.548041
+],
+  "geometry": {"coordinates":[-95.11622800000001,29.548041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220032671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.68638,32.967583,-96.68638,32.967583",
     "geom:latitude":32.967583,
     "geom:longitude":-96.68638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Elk Grove Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220032671,
-    "wof:lastmodified":1449074420,
+    "wof:lastmodified":1467085185,
     "wof:name":"Aeras Networks",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-96.68638,32.967583,-96.68638,32.967583],
+  "bbox": [
+    -96.68638,
+    32.967583,
+    -96.68638,
+    32.967583
+],
   "geometry": {"coordinates":[-96.68638,32.967583],"type":"Point"}
 }

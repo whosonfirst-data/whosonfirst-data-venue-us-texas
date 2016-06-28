@@ -2,13 +2,14 @@
   "id": 353601449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738745,32.917533,-96.738745,32.917533",
     "geom:latitude":32.917533,
     "geom:longitude":-96.738745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9145 Emberglow Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353601449,
-    "wof:lastmodified":1449019401,
+    "wof:lastmodified":1467084346,
     "wof:name":"Douglas R Thurman MD",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.738745,32.917533,-96.738745,32.917533],
-  "geometry": {"coordinates":[-96.738745,32.917533],"type":"Point"}
+  "bbox": [
+    -96.738745,
+    32.917533,
+    -96.738745,
+    32.917533
+],
+  "geometry": {"coordinates":[-96.73874499999999,32.917533],"type":"Point"}
 }

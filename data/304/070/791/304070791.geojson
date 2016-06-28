@@ -2,13 +2,14 @@
   "id": 304070791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.544179,32.319264,-102.544179,32.319264",
     "geom:latitude":32.319264,
     "geom:longitude":-102.544179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W Broadway St",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304070791,
-    "wof:lastmodified":1449043838,
+    "wof:lastmodified":1467084665,
     "wof:name":"Texas Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.544179,32.319264,-102.544179,32.319264],
+  "bbox": [
+    -102.544179,
+    32.319264,
+    -102.544179,
+    32.319264
+],
   "geometry": {"coordinates":[-102.544179,32.319264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303745287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.641427,30.399211,-97.641427,30.399211",
     "geom:latitude":30.399211,
     "geom:longitude":-97.641427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12900 Dessau Rd Ste A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303745287,
-    "wof:lastmodified":1449000455,
+    "wof:lastmodified":1467083807,
     "wof:name":"Pflugerville Independent School District",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.641427,30.399211,-97.641427,30.399211],
-  "geometry": {"coordinates":[-97.641427,30.399211],"type":"Point"}
+  "bbox": [
+    -97.641427,
+    30.399211,
+    -97.641427,
+    30.399211
+],
+  "geometry": {"coordinates":[-97.64142699999999,30.399211],"type":"Point"}
 }

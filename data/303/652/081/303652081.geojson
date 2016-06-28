@@ -2,13 +2,14 @@
   "id": 303652081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.868473,30.229064,-97.868473,30.229064",
     "geom:latitude":30.229064,
     "geom:longitude":-97.868473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7112 Wandering Oak Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303652081,
-    "wof:lastmodified":1448999693,
+    "wof:lastmodified":1467083770,
     "wof:name":"Airbrush Illusions",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.868473,30.229064,-97.868473,30.229064],
-  "geometry": {"coordinates":[-97.868473,30.229064],"type":"Point"}
+  "bbox": [
+    -97.868473,
+    30.229064,
+    -97.868473,
+    30.229064
+],
+  "geometry": {"coordinates":[-97.86847299999999,30.229064],"type":"Point"}
 }

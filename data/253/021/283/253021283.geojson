@@ -2,13 +2,14 @@
   "id": 253021283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.921483,32.908548,-96.921483,32.908548",
     "geom:latitude":32.908548,
     "geom:longitude":-96.921483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Lyndon B Johnson Fwy Ste 700",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253021283,
-    "wof:lastmodified":1449064682,
+    "wof:lastmodified":1467085009,
     "wof:name":"Newmark Homes",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.921483,32.908548,-96.921483,32.908548],
-  "geometry": {"coordinates":[-96.921483,32.908548],"type":"Point"}
+  "bbox": [
+    -96.921483,
+    32.908548,
+    -96.921483,
+    32.908548
+],
+  "geometry": {"coordinates":[-96.92148299999999,32.908548],"type":"Point"}
 }

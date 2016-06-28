@@ -2,13 +2,14 @@
   "id": 236811377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793887,32.781767,-96.793887,32.781767",
     "geom:latitude":32.781767,
     "geom:longitude":-96.793887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Main St Room 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236811377,
-    "wof:lastmodified":1449003197,
+    "wof:lastmodified":1467083942,
     "wof:name":"Dallas Municipal Court",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.793887,32.781767,-96.793887,32.781767],
+  "bbox": [
+    -96.793887,
+    32.781767,
+    -96.793887,
+    32.781767
+],
   "geometry": {"coordinates":[-96.793887,32.781767],"type":"Point"}
 }

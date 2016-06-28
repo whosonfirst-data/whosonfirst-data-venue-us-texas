@@ -2,13 +2,14 @@
   "id": 303285649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713406,30.25424,-97.713406,30.25424",
     "geom:latitude":30.25424,
     "geom:longitude":-97.713406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 E 2nd St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303285649,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1467083694,
     "wof:name":"Mis Amigos Bar & Grill",
     "wof:parent_id":85869933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-97.713406,30.25424,-97.713406,30.25424],
-  "geometry": {"coordinates":[-97.713406,30.25424],"type":"Point"}
+  "bbox": [
+    -97.713406,
+    30.25424,
+    -97.713406,
+    30.25424
+],
+  "geometry": {"coordinates":[-97.71340600000001,30.25424],"type":"Point"}
 }

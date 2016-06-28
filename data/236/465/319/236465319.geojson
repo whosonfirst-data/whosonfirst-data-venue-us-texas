@@ -2,13 +2,14 @@
   "id": 236465319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681678,32.732851,-96.681678,32.732851",
     "geom:latitude":32.732851,
     "geom:longitude":-96.681678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8107 Maddox St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236465319,
-    "wof:lastmodified":1449003950,
+    "wof:lastmodified":1467083977,
     "wof:name":"Mike's Radiator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "radiator"
     ]
 },
-  "bbox": [-96.681678,32.732851,-96.681678,32.732851],
-  "geometry": {"coordinates":[-96.681678,32.732851],"type":"Point"}
+  "bbox": [
+    -96.681678,
+    32.732851,
+    -96.681678,
+    32.732851
+],
+  "geometry": {"coordinates":[-96.68167800000001,32.732851],"type":"Point"}
 }

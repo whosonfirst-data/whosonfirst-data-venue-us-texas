@@ -2,13 +2,14 @@
   "id": 354002545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.464751,30.792118,-95.464751,30.792118",
     "geom:latitude":30.792118,
     "geom:longitude":-95.464751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Lowery Ln",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354002545,
-    "wof:lastmodified":1449067335,
+    "wof:lastmodified":1467085086,
     "wof:name":"Clear Water Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-95.464751,30.792118,-95.464751,30.792118],
-  "geometry": {"coordinates":[-95.464751,30.792118],"type":"Point"}
+  "bbox": [
+    -95.464751,
+    30.792118,
+    -95.464751,
+    30.792118
+],
+  "geometry": {"coordinates":[-95.46475100000001,30.792118],"type":"Point"}
 }

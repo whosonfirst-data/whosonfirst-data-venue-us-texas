@@ -2,13 +2,14 @@
   "id": 337413119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.495657,29.905504,-95.495657,29.905504",
     "geom:latitude":29.905504,
     "geom:longitude":-95.495657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7113 Chippewa Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337413119,
-    "wof:lastmodified":1449027053,
+    "wof:lastmodified":1467084428,
     "wof:name":"Bamsch Enterprises Inc",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.495657,29.905504,-95.495657,29.905504],
-  "geometry": {"coordinates":[-95.495657,29.905504],"type":"Point"}
+  "bbox": [
+    -95.495657,
+    29.905504,
+    -95.495657,
+    29.905504
+],
+  "geometry": {"coordinates":[-95.49565699999999,29.905504],"type":"Point"}
 }

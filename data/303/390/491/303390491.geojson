@@ -2,13 +2,14 @@
   "id": 303390491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707226,30.289224,-97.707226,30.289224",
     "geom:latitude":30.289224,
     "geom:longitude":-97.707226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 Airport Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303390491,
-    "wof:lastmodified":1449000591,
+    "wof:lastmodified":1467083814,
     "wof:name":"Main Stop #2",
     "wof:parent_id":85893509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.707226,30.289224,-97.707226,30.289224],
-  "geometry": {"coordinates":[-97.707226,30.289224],"type":"Point"}
+  "bbox": [
+    -97.707226,
+    30.289224,
+    -97.707226,
+    30.289224
+],
+  "geometry": {"coordinates":[-97.70722600000001,30.289224],"type":"Point"}
 }

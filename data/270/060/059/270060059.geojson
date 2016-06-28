@@ -2,13 +2,14 @@
   "id": 270060059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.535912,29.779763,-95.535912,29.779763",
     "geom:latitude":29.779763,
     "geom:longitude":-95.535912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Memorial City Way",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":270060059,
-    "wof:lastmodified":1449010871,
+    "wof:lastmodified":1467084224,
     "wof:name":"Primary Eye Care",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"
     ]
 },
-  "bbox": [-95.535912,29.779763,-95.535912,29.779763],
+  "bbox": [
+    -95.535912,
+    29.779763,
+    -95.535912,
+    29.779763
+],
   "geometry": {"coordinates":[-95.535912,29.779763],"type":"Point"}
 }

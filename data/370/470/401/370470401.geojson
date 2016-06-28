@@ -2,13 +2,14 @@
   "id": 370470401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765453,30.435703,-97.765453,30.435703",
     "geom:latitude":30.435703,
     "geom:longitude":-97.765453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12116 Jekel Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370470401,
-    "wof:lastmodified":1449029914,
+    "wof:lastmodified":1467084489,
     "wof:name":"Travis Boats & Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.765453,30.435703,-97.765453,30.435703],
-  "geometry": {"coordinates":[-97.765453,30.435703],"type":"Point"}
+  "bbox": [
+    -97.765453,
+    30.435703,
+    -97.765453,
+    30.435703
+],
+  "geometry": {"coordinates":[-97.76545299999999,30.435703],"type":"Point"}
 }

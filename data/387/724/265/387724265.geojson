@@ -2,13 +2,14 @@
   "id": 387724265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.491576,29.722893,-95.491576,29.722893",
     "geom:latitude":29.722893,
     "geom:longitude":-95.491576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387724265,
-    "wof:lastmodified":1449059840,
+    "wof:lastmodified":1467084880,
     "wof:name":"All Quality Autos",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.491576,29.722893,-95.491576,29.722893],
-  "geometry": {"coordinates":[-95.491576,29.722893],"type":"Point"}
+  "bbox": [
+    -95.491576,
+    29.722893,
+    -95.491576,
+    29.722893
+],
+  "geometry": {"coordinates":[-95.49157599999999,29.722893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186608911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.625244,29.75843,-95.625244,29.75843",
     "geom:latitude":29.75843,
     "geom:longitude":-95.625244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Eldridge Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186608911,
-    "wof:lastmodified":1449051520,
+    "wof:lastmodified":1467084715,
     "wof:name":"AMLI On Eldridge Parkway",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.625244,29.75843,-95.625244,29.75843],
+  "bbox": [
+    -95.625244,
+    29.75843,
+    -95.625244,
+    29.75843
+],
   "geometry": {"coordinates":[-95.625244,29.75843],"type":"Point"}
 }

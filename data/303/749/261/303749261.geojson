@@ -2,13 +2,14 @@
   "id": 303749261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.674309,30.35339,-97.674309,30.35339",
     "geom:latitude":30.35339,
     "geom:longitude":-97.674309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9601 Dessau Rd Ste 105",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303749261,
-    "wof:lastmodified":1448998807,
+    "wof:lastmodified":1467083726,
     "wof:name":"Ajax Custom Plastics",
     "wof:parent_id":85869897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "pressure"
     ]
 },
-  "bbox": [-97.674309,30.35339,-97.674309,30.35339],
-  "geometry": {"coordinates":[-97.674309,30.35339],"type":"Point"}
+  "bbox": [
+    -97.674309,
+    30.35339,
+    -97.674309,
+    30.35339
+],
+  "geometry": {"coordinates":[-97.67430899999999,30.35339],"type":"Point"}
 }

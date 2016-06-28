@@ -2,13 +2,14 @@
   "id": 203355079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.633175,32.343435,-96.633175,32.343435",
     "geom:latitude":32.343435,
     "geom:longitude":-96.633175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N Kaufman St",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355079,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1467084394,
     "wof:name":"Kaufman Apartments",
     "wof:parent_id":85897363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.633175,32.343435,-96.633175,32.343435],
-  "geometry": {"coordinates":[-96.633175,32.343435],"type":"Point"}
+  "bbox": [
+    -96.633175,
+    32.343435,
+    -96.633175,
+    32.343435
+],
+  "geometry": {"coordinates":[-96.63317499999999,32.343435],"type":"Point"}
 }

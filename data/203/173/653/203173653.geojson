@@ -2,13 +2,14 @@
   "id": 203173653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.530336,33.880792,-98.530336,33.880792",
     "geom:latitude":33.880792,
     "geom:longitude":-98.530336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Buchanan St",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203173653,
-    "wof:lastmodified":1449025298,
+    "wof:lastmodified":1467084391,
     "wof:name":"Adams Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.530336,33.880792,-98.530336,33.880792],
-  "geometry": {"coordinates":[-98.530336,33.880792],"type":"Point"}
+  "bbox": [
+    -98.530336,
+    33.880792,
+    -98.530336,
+    33.880792
+],
+  "geometry": {"coordinates":[-98.53033600000001,33.880792],"type":"Point"}
 }

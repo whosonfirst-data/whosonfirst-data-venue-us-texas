@@ -2,13 +2,14 @@
   "id": 303351563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727127,30.29104,-97.727127,30.29104",
     "geom:latitude":30.29104,
     "geom:longitude":-97.727127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Red River St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303351563,
-    "wof:lastmodified":1449000193,
+    "wof:lastmodified":1467083794,
     "wof:name":"Select Medical Corp.",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-97.727127,30.29104,-97.727127,30.29104],
+  "bbox": [
+    -97.727127,
+    30.29104,
+    -97.727127,
+    30.29104
+],
   "geometry": {"coordinates":[-97.727127,30.29104],"type":"Point"}
 }

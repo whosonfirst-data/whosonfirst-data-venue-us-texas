@@ -2,13 +2,14 @@
   "id": 253053187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.836331,32.821517,-96.836331,32.821517",
     "geom:latitude":32.821517,
     "geom:longitude":-96.836331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Inwood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253053187,
-    "wof:lastmodified":1449063366,
+    "wof:lastmodified":1467084964,
     "wof:name":"Nico's Tacos",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.836331,32.821517,-96.836331,32.821517],
+  "bbox": [
+    -96.836331,
+    32.821517,
+    -96.836331,
+    32.821517
+],
   "geometry": {"coordinates":[-96.836331,32.821517],"type":"Point"}
 }

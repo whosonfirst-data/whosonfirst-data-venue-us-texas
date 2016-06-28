@@ -2,13 +2,14 @@
   "id": 303965131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.683163,33.807791,-101.683163,33.807791",
     "geom:latitude":33.807791,
     "geom:longitude":-101.683163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9710 N County Road 3300",
     "sg:city":"Idalou",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303965131,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1467083777,
     "wof:name":"Lee J Everitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.683163,33.807791,-101.683163,33.807791],
-  "geometry": {"coordinates":[-101.683163,33.807791],"type":"Point"}
+  "bbox": [
+    -101.683163,
+    33.807791,
+    -101.683163,
+    33.807791
+],
+  "geometry": {"coordinates":[-101.68316299999999,33.807791],"type":"Point"}
 }

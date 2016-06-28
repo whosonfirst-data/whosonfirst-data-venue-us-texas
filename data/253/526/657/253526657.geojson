@@ -2,13 +2,14 @@
   "id": 253526657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.230606,31.969962,-95.230606,31.969962",
     "geom:latitude":31.969962,
     "geom:longitude":-95.230606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 E Rusk St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253526657,
-    "wof:lastmodified":1449063725,
+    "wof:lastmodified":1467084976,
     "wof:name":"Awesome Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.230606,31.969962,-95.230606,31.969962],
-  "geometry": {"coordinates":[-95.230606,31.969962],"type":"Point"}
+  "bbox": [
+    -95.230606,
+    31.969962,
+    -95.230606,
+    31.969962
+],
+  "geometry": {"coordinates":[-95.23060599999999,31.969962],"type":"Point"}
 }

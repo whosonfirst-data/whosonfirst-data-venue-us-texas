@@ -2,13 +2,14 @@
   "id": 370744123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509363,29.440497,-98.509363,29.440497",
     "geom:latitude":29.440497,
     "geom:longitude":-98.509363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 N Colorado St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370744123,
-    "wof:lastmodified":1449030310,
+    "wof:lastmodified":1467084499,
     "wof:name":"San Antonio Fence Co",
     "wof:parent_id":85871063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-98.509363,29.440497,-98.509363,29.440497],
-  "geometry": {"coordinates":[-98.509363,29.440497],"type":"Point"}
+  "bbox": [
+    -98.509363,
+    29.440497,
+    -98.509363,
+    29.440497
+],
+  "geometry": {"coordinates":[-98.50936299999999,29.440497],"type":"Point"}
 }

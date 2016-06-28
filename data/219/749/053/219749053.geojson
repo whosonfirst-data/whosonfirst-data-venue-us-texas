@@ -2,13 +2,14 @@
   "id": 219749053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506859,27.609857,-99.506859,27.609857",
     "geom:latitude":27.609857,
     "geom:longitude":-99.506859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11902 Sara Rd",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219749053,
-    "wof:lastmodified":1449071413,
+    "wof:lastmodified":1467085121,
     "wof:name":"Air Road Express Inc",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.506859,27.609857,-99.506859,27.609857],
-  "geometry": {"coordinates":[-99.506859,27.609857],"type":"Point"}
+  "bbox": [
+    -99.506859,
+    27.609857,
+    -99.506859,
+    27.609857
+],
+  "geometry": {"coordinates":[-99.50685900000001,27.609857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219320503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.299146,29.743827,-95.299146,29.743827",
     "geom:latitude":29.743827,
     "geom:longitude":-95.299146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6902 Navigation Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219320503,
-    "wof:lastmodified":1449071292,
+    "wof:lastmodified":1467085118,
     "wof:name":"Fire Dept-Station 20",
     "wof:parent_id":85893757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-95.299146,29.743827,-95.299146,29.743827],
-  "geometry": {"coordinates":[-95.299146,29.743827],"type":"Point"}
+  "bbox": [
+    -95.299146,
+    29.743827,
+    -95.299146,
+    29.743827
+],
+  "geometry": {"coordinates":[-95.29914599999999,29.743827],"type":"Point"}
 }

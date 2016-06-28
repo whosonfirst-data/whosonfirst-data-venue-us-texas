@@ -2,13 +2,14 @@
   "id": 270371177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.535627,29.789637,-95.535627,29.789637",
     "geom:latitude":29.789637,
     "geom:longitude":-95.535627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9810 Larston St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270371177,
-    "wof:lastmodified":1449010511,
+    "wof:lastmodified":1467084212,
     "wof:name":"Building Families",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adoption"
     ]
 },
-  "bbox": [-95.535627,29.789637,-95.535627,29.789637],
-  "geometry": {"coordinates":[-95.535627,29.789637],"type":"Point"}
+  "bbox": [
+    -95.535627,
+    29.789637,
+    -95.535627,
+    29.789637
+],
+  "geometry": {"coordinates":[-95.53562700000001,29.789637],"type":"Point"}
 }

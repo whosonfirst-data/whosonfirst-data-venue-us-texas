@@ -2,13 +2,14 @@
   "id": 185681245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44607,32.761388,-97.44607,32.761388",
     "geom:latitude":32.761388,
     "geom:longitude":-97.44607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Grants Ln",
     "sg:city":"White Settlement",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185681245,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1467084129,
     "wof:name":"Hamrick's Hydraulic Repair Svc",
     "wof:parent_id":85844751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-97.44607,32.761388,-97.44607,32.761388],
-  "geometry": {"coordinates":[-97.44607,32.761388],"type":"Point"}
+  "bbox": [
+    -97.44607,
+    32.761388,
+    -97.44607,
+    32.761388
+],
+  "geometry": {"coordinates":[-97.44607000000001,32.761388],"type":"Point"}
 }

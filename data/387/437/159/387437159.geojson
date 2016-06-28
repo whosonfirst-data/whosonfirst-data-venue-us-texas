@@ -2,13 +2,14 @@
   "id": 387437159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.680979,32.719615,-96.680979,32.719615",
     "geom:latitude":32.719615,
     "geom:longitude":-96.680979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 Elam Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387437159,
-    "wof:lastmodified":1449058860,
+    "wof:lastmodified":1467084855,
     "wof:name":"East West Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-96.680979,32.719615,-96.680979,32.719615],
-  "geometry": {"coordinates":[-96.680979,32.719615],"type":"Point"}
+  "bbox": [
+    -96.680979,
+    32.719615,
+    -96.680979,
+    32.719615
+],
+  "geometry": {"coordinates":[-96.68097899999999,32.719615],"type":"Point"}
 }

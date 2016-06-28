@@ -2,13 +2,14 @@
   "id": 303777147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.73015,30.358593,-97.73015,30.358593",
     "geom:latitude":30.358593,
     "geom:longitude":-97.73015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8003 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303777147,
-    "wof:lastmodified":1448999413,
+    "wof:lastmodified":1467083756,
     "wof:name":"Austin's Alignment & Brakes",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.73015,30.358593,-97.73015,30.358593],
-  "geometry": {"coordinates":[-97.73015,30.358593],"type":"Point"}
+  "bbox": [
+    -97.73015,
+    30.358593,
+    -97.73015,
+    30.358593
+],
+  "geometry": {"coordinates":[-97.73014999999999,30.358593],"type":"Point"}
 }

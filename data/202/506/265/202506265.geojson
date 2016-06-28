@@ -2,13 +2,14 @@
   "id": 202506265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.098328,32.647332,-97.098328,32.647332",
     "geom:latitude":32.647332,
     "geom:longitude":-97.098328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 York River Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202506265,
-    "wof:lastmodified":1449060159,
+    "wof:lastmodified":1467084888,
     "wof:name":"Tobi Delivery",
     "wof:parent_id":85873081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.098328,32.647332,-97.098328,32.647332],
+  "bbox": [
+    -97.098328,
+    32.647332,
+    -97.098328,
+    32.647332
+],
   "geometry": {"coordinates":[-97.098328,32.647332],"type":"Point"}
 }

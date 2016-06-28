@@ -2,13 +2,14 @@
   "id": 252910445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145071,33.639507,-97.145071,33.639507",
     "geom:latitude":33.639507,
     "geom:longitude":-97.145071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 N Dixon St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252910445,
-    "wof:lastmodified":1449005857,
+    "wof:lastmodified":1467084073,
     "wof:name":"Cappuccino Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-97.145071,33.639507,-97.145071,33.639507],
+  "bbox": [
+    -97.145071,
+    33.639507,
+    -97.145071,
+    33.639507
+],
   "geometry": {"coordinates":[-97.145071,33.639507],"type":"Point"}
 }

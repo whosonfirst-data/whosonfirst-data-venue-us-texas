@@ -2,13 +2,14 @@
   "id": 236823709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.961329,33.39468,-96.961329,33.39468",
     "geom:latitude":33.39468,
     "geom:longitude":-96.961329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Washington St",
     "sg:city":"Pilot Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236823709,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1467084038,
     "wof:name":"Pilot Point Chamber-Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-96.961329,33.39468,-96.961329,33.39468],
-  "geometry": {"coordinates":[-96.961329,33.39468],"type":"Point"}
+  "bbox": [
+    -96.961329,
+    33.39468,
+    -96.961329,
+    33.39468
+],
+  "geometry": {"coordinates":[-96.96132900000001,33.39468],"type":"Point"}
 }

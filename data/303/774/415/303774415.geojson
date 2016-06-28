@@ -2,13 +2,14 @@
   "id": 303774415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.72995,30.358885,-97.72995,30.358885",
     "geom:latitude":30.358885,
     "geom:longitude":-97.72995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8023 Burnet Rd Suite C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303774415,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1467083739,
     "wof:name":"PC Doctors",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.72995,30.358885,-97.72995,30.358885],
+  "bbox": [
+    -97.72995,
+    30.358885,
+    -97.72995,
+    30.358885
+],
   "geometry": {"coordinates":[-97.72995,30.358885],"type":"Point"}
 }

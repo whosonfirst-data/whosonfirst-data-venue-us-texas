@@ -2,13 +2,14 @@
   "id": 219502857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.372434,31.796736,-106.372434,31.796736",
     "geom:latitude":31.796736,
     "geom:longitude":-106.372434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Hawkins Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219502857,
-    "wof:lastmodified":1449072014,
+    "wof:lastmodified":1467085134,
     "wof:name":"US Airport Traffic Control",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-106.372434,31.796736,-106.372434,31.796736],
+  "bbox": [
+    -106.372434,
+    31.796736,
+    -106.372434,
+    31.796736
+],
   "geometry": {"coordinates":[-106.372434,31.796736],"type":"Point"}
 }

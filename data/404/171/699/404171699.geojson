@@ -2,13 +2,14 @@
   "id": 404171699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.827855,29.786428,-95.827855,29.786428",
     "geom:latitude":29.786428,
     "geom:longitude":-95.827855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Victoria Lakes Dr",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404171699,
-    "wof:lastmodified":1449040331,
+    "wof:lastmodified":1467084660,
     "wof:name":"Virtual Host One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-95.827855,29.786428,-95.827855,29.786428],
+  "bbox": [
+    -95.827855,
+    29.786428,
+    -95.827855,
+    29.786428
+],
   "geometry": {"coordinates":[-95.827855,29.786428],"type":"Point"}
 }

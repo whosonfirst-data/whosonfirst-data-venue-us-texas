@@ -2,13 +2,14 @@
   "id": 353836297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.170662,30.06201,-99.170662,30.06201",
     "geom:latitude":30.06201,
     "geom:longitude":-99.170662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Junction Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353836297,
-    "wof:lastmodified":1449019930,
+    "wof:lastmodified":1467084357,
     "wof:name":"Marble Slab Creamery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-99.170662,30.06201,-99.170662,30.06201],
-  "geometry": {"coordinates":[-99.170662,30.06201],"type":"Point"}
+  "bbox": [
+    -99.170662,
+    30.06201,
+    -99.170662,
+    30.06201
+],
+  "geometry": {"coordinates":[-99.17066199999999,30.06201],"type":"Point"}
 }

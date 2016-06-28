@@ -2,13 +2,14 @@
   "id": 303728883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.691385,30.370681,-97.691385,30.370681",
     "geom:latitude":30.370681,
     "geom:longitude":-97.691385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10009 N. Lamar Blvd Suite C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303728883,
-    "wof:lastmodified":1448998681,
+    "wof:lastmodified":1467083719,
     "wof:name":"Northpark Family Dental",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "endodontist"
     ]
 },
-  "bbox": [-97.691385,30.370681,-97.691385,30.370681],
+  "bbox": [
+    -97.691385,
+    30.370681,
+    -97.691385,
+    30.370681
+],
   "geometry": {"coordinates":[-97.691385,30.370681],"type":"Point"}
 }

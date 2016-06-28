@@ -2,13 +2,14 @@
   "id": 270510301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.421312,30.023447,-95.421312,30.023447",
     "geom:latitude":30.023447,
     "geom:longitude":-95.421312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Fm 1960 Rd E",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270510301,
-    "wof:lastmodified":1449010102,
+    "wof:lastmodified":1467084198,
     "wof:name":"Acme Brick Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.421312,30.023447,-95.421312,30.023447],
+  "bbox": [
+    -95.421312,
+    30.023447,
+    -95.421312,
+    30.023447
+],
   "geometry": {"coordinates":[-95.421312,30.023447],"type":"Point"}
 }

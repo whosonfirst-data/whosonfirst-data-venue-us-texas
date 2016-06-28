@@ -2,13 +2,14 @@
   "id": 354034371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.485447,32.672264,-95.485447,32.672264",
     "geom:latitude":32.672264,
     "geom:longitude":-95.485447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 N Pacific St",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354034371,
-    "wof:lastmodified":1449066126,
+    "wof:lastmodified":1467085056,
     "wof:name":"National Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.485447,32.672264,-95.485447,32.672264],
-  "geometry": {"coordinates":[-95.485447,32.672264],"type":"Point"}
+  "bbox": [
+    -95.485447,
+    32.672264,
+    -95.485447,
+    32.672264
+],
+  "geometry": {"coordinates":[-95.48544699999999,32.672264],"type":"Point"}
 }

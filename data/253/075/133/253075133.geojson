@@ -2,13 +2,14 @@
   "id": 253075133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.238441,26.200121,-98.238441,26.200121",
     "geom:latitude":26.200121,
     "geom:longitude":-98.238441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 S 17th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253075133,
-    "wof:lastmodified":1449064441,
+    "wof:lastmodified":1467085000,
     "wof:name":"Herberia LA Santisima",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.238441,26.200121,-98.238441,26.200121],
-  "geometry": {"coordinates":[-98.238441,26.200121],"type":"Point"}
+  "bbox": [
+    -98.238441,
+    26.200121,
+    -98.238441,
+    26.200121
+],
+  "geometry": {"coordinates":[-98.23844099999999,26.200121],"type":"Point"}
 }

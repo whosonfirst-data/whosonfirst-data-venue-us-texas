@@ -2,13 +2,14 @@
   "id": 186577253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.504151,30.000377,-95.504151,30.000377",
     "geom:latitude":30.000377,
     "geom:longitude":-95.504151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Brightwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186577253,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1467084749,
     "wof:name":"Omega Logistics Inc",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.504151,30.000377,-95.504151,30.000377],
-  "geometry": {"coordinates":[-95.504151,30.000377],"type":"Point"}
+  "bbox": [
+    -95.504151,
+    30.000377,
+    -95.504151,
+    30.000377
+],
+  "geometry": {"coordinates":[-95.50415099999999,30.000377],"type":"Point"}
 }

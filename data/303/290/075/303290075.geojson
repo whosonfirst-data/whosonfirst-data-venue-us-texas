@@ -2,13 +2,14 @@
   "id": 303290075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.698884,30.264711,-97.698884,30.264711",
     "geom:latitude":30.264711,
     "geom:longitude":-97.698884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Govalle Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303290075,
-    "wof:lastmodified":1448999169,
+    "wof:lastmodified":1467083744,
     "wof:name":"Schools",
     "wof:parent_id":85867201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.698884,30.264711,-97.698884,30.264711],
-  "geometry": {"coordinates":[-97.698884,30.264711],"type":"Point"}
+  "bbox": [
+    -97.698884,
+    30.264711,
+    -97.698884,
+    30.264711
+],
+  "geometry": {"coordinates":[-97.69888400000001,30.264711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220052479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475141,30.011011,-95.475141,30.011011",
     "geom:latitude":30.011011,
     "geom:longitude":-95.475141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16407 Creeksouth Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220052479,
-    "wof:lastmodified":1449074383,
+    "wof:lastmodified":1467085184,
     "wof:name":"Mobile Access",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.475141,30.011011,-95.475141,30.011011],
-  "geometry": {"coordinates":[-95.475141,30.011011],"type":"Point"}
+  "bbox": [
+    -95.475141,
+    30.011011,
+    -95.475141,
+    30.011011
+],
+  "geometry": {"coordinates":[-95.47514099999999,30.011011],"type":"Point"}
 }

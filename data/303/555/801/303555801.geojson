@@ -2,13 +2,14 @@
   "id": 303555801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729748,30.243928,-97.729748,30.243928",
     "geom:latitude":30.243928,
     "geom:longitude":-97.729748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 E Riverside Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303555801,
-    "wof:lastmodified":1449000213,
+    "wof:lastmodified":1467083795,
     "wof:name":"Fountain Of Health Vegetarian Restaurant",
     "wof:parent_id":85869951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vegetarian"
     ]
 },
-  "bbox": [-97.729748,30.243928,-97.729748,30.243928],
+  "bbox": [
+    -97.729748,
+    30.243928,
+    -97.729748,
+    30.243928
+],
   "geometry": {"coordinates":[-97.729748,30.243928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303410399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.837825,30.43784,-97.837825,30.43784",
     "geom:latitude":30.43784,
     "geom:longitude":-97.837825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9807 N Fm 620 Ste 15106",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":303410399,
-    "wof:lastmodified":1448998150,
+    "wof:lastmodified":1467083692,
     "wof:name":"Ab Moving",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.837825,30.43784,-97.837825,30.43784],
+  "bbox": [
+    -97.837825,
+    30.43784,
+    -97.837825,
+    30.43784
+],
   "geometry": {"coordinates":[-97.837825,30.43784],"type":"Point"}
 }

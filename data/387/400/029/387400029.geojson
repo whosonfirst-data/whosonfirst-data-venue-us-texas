@@ -2,13 +2,14 @@
   "id": 387400029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.960558,32.837386,-96.960558,32.837386",
     "geom:latitude":32.837386,
     "geom:longitude":-96.960558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 W Airport Fwy",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387400029,
-    "wof:lastmodified":1449056479,
+    "wof:lastmodified":1467084794,
     "wof:name":"A Formal Affair",
     "wof:parent_id":85878301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accessory"
     ]
 },
-  "bbox": [-96.960558,32.837386,-96.960558,32.837386],
-  "geometry": {"coordinates":[-96.960558,32.837386],"type":"Point"}
+  "bbox": [
+    -96.960558,
+    32.837386,
+    -96.960558,
+    32.837386
+],
+  "geometry": {"coordinates":[-96.96055800000001,32.837386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303844187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726273,30.401735,-97.726273,30.401735",
     "geom:latitude":30.401735,
     "geom:longitude":-97.726273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11501 Century Oaks Ter Ste 121",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303844187,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1467083743,
     "wof:name":"Madewell",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-97.726273,30.401735,-97.726273,30.401735],
-  "geometry": {"coordinates":[-97.726273,30.401735],"type":"Point"}
+  "bbox": [
+    -97.726273,
+    30.401735,
+    -97.726273,
+    30.401735
+],
+  "geometry": {"coordinates":[-97.72627300000001,30.401735],"type":"Point"}
 }

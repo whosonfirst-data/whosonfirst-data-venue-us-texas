@@ -2,13 +2,14 @@
   "id": 387256363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.363813,29.565284,-98.363813,29.565284",
     "geom:latitude":29.565284,
     "geom:longitude":-98.363813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13750 Judson Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387256363,
-    "wof:lastmodified":1449059003,
+    "wof:lastmodified":1467084859,
     "wof:name":"Unlimited Enterprises Booth",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.363813,29.565284,-98.363813,29.565284],
-  "geometry": {"coordinates":[-98.363813,29.565284],"type":"Point"}
+  "bbox": [
+    -98.363813,
+    29.565284,
+    -98.363813,
+    29.565284
+],
+  "geometry": {"coordinates":[-98.36381299999999,29.565284],"type":"Point"}
 }

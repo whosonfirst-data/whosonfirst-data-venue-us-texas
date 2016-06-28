@@ -2,13 +2,14 @@
   "id": 303991215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.818353,33.538759,-101.818353,33.538759",
     "geom:latitude":33.538759,
     "geom:longitude":-101.818353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Martin L King Blvd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303991215,
-    "wof:lastmodified":1448998886,
+    "wof:lastmodified":1467083730,
     "wof:name":"Airport Traffic Control Center",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-101.818353,33.538759,-101.818353,33.538759],
+  "bbox": [
+    -101.818353,
+    33.538759,
+    -101.818353,
+    33.538759
+],
   "geometry": {"coordinates":[-101.818353,33.538759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253668961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.350446,32.518031,-97.350446,32.518031",
     "geom:latitude":32.518031,
     "geom:longitude":-97.350446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 SW Wilshire Blvd",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253668961,
-    "wof:lastmodified":1449064904,
+    "wof:lastmodified":1467085017,
     "wof:name":"Peter Piper Pizza",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.350446,32.518031,-97.350446,32.518031],
-  "geometry": {"coordinates":[-97.350446,32.518031],"type":"Point"}
+  "bbox": [
+    -97.350446,
+    32.518031,
+    -97.350446,
+    32.518031
+],
+  "geometry": {"coordinates":[-97.35044600000001,32.518031],"type":"Point"}
 }

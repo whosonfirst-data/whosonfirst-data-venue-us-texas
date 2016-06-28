@@ -2,13 +2,14 @@
   "id": 253643117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.134653,32.656717,-97.134653,32.656717",
     "geom:latitude":32.656717,
     "geom:longitude":-97.134653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 S Cooper St Ste 110",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253643117,
-    "wof:lastmodified":1449065384,
+    "wof:lastmodified":1467085033,
     "wof:name":"Vision City",
     "wof:parent_id":85851301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.134653,32.656717,-97.134653,32.656717],
+  "bbox": [
+    -97.134653,
+    32.656717,
+    -97.134653,
+    32.656717
+],
   "geometry": {"coordinates":[-97.134653,32.656717],"type":"Point"}
 }

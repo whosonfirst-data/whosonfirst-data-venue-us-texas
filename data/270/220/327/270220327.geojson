@@ -2,13 +2,14 @@
   "id": 270220327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.535187,29.686852,-95.535187,29.686852",
     "geom:latitude":29.686852,
     "geom:longitude":-95.535187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8585 Commerce Park Dr 580A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":270220327,
-    "wof:lastmodified":1449011038,
+    "wof:lastmodified":1467084229,
     "wof:name":"Cap Mor Ltd 1",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.535187,29.686852,-95.535187,29.686852],
-  "geometry": {"coordinates":[-95.535187,29.686852],"type":"Point"}
+  "bbox": [
+    -95.535187,
+    29.686852,
+    -95.535187,
+    29.686852
+],
+  "geometry": {"coordinates":[-95.53518699999999,29.686852],"type":"Point"}
 }

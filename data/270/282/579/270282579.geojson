@@ -2,13 +2,14 @@
   "id": 270282579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.519241,29.84244,-95.519241,29.84244",
     "geom:latitude":29.84244,
     "geom:longitude":-95.519241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 Baythorne Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270282579,
-    "wof:lastmodified":1449010178,
+    "wof:lastmodified":1467084200,
     "wof:name":"Jumbo Bag",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag"
     ]
 },
-  "bbox": [-95.519241,29.84244,-95.519241,29.84244],
-  "geometry": {"coordinates":[-95.519241,29.84244],"type":"Point"}
+  "bbox": [
+    -95.519241,
+    29.84244,
+    -95.519241,
+    29.84244
+],
+  "geometry": {"coordinates":[-95.51924099999999,29.84244],"type":"Point"}
 }

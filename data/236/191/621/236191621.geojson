@@ -2,13 +2,14 @@
   "id": 236191621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743325,33.175701,-96.743325,33.175701",
     "geom:latitude":33.175701,
     "geom:longitude":-96.743325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15139 Regal Oak Ln",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236191621,
-    "wof:lastmodified":1449003692,
+    "wof:lastmodified":1467083965,
     "wof:name":"Frisco Taxi & Limousine Service",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shuttle"
     ]
 },
-  "bbox": [-96.743325,33.175701,-96.743325,33.175701],
+  "bbox": [
+    -96.743325,
+    33.175701,
+    -96.743325,
+    33.175701
+],
   "geometry": {"coordinates":[-96.743325,33.175701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202653127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760393,32.904203,-96.760393,32.904203",
     "geom:latitude":32.904203,
     "geom:longitude":-96.760393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9433 Pinewood Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202653127,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1467084891,
     "wof:name":"AEC Cad Services",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.760393,32.904203,-96.760393,32.904203],
-  "geometry": {"coordinates":[-96.760393,32.904203],"type":"Point"}
+  "bbox": [
+    -96.760393,
+    32.904203,
+    -96.760393,
+    32.904203
+],
+  "geometry": {"coordinates":[-96.76039299999999,32.904203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370495763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.427405,30.111033,-97.427405,30.111033",
     "geom:latitude":30.111033,
     "geom:longitude":-97.427405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Union Chapel Rd",
     "sg:city":"Cedar Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370495763,
-    "wof:lastmodified":1449030589,
+    "wof:lastmodified":1467084506,
     "wof:name":"P C Advisor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.427405,30.111033,-97.427405,30.111033],
-  "geometry": {"coordinates":[-97.427405,30.111033],"type":"Point"}
+  "bbox": [
+    -97.427405,
+    30.111033,
+    -97.427405,
+    30.111033
+],
+  "geometry": {"coordinates":[-97.42740499999999,30.111033],"type":"Point"}
 }

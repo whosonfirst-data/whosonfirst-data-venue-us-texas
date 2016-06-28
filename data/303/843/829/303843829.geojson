@@ -2,13 +2,14 @@
   "id": 303843829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720946,30.41326,-97.720946,30.41326",
     "geom:latitude":30.41326,
     "geom:longitude":-97.720946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12017 Amherst Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303843829,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1467083702,
     "wof:name":"Balcones Neighborhood Pool",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beach"
     ]
 },
-  "bbox": [-97.720946,30.41326,-97.720946,30.41326],
+  "bbox": [
+    -97.720946,
+    30.41326,
+    -97.720946,
+    30.41326
+],
   "geometry": {"coordinates":[-97.720946,30.41326],"type":"Point"}
 }

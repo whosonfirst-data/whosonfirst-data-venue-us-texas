@@ -2,13 +2,14 @@
   "id": 303720671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726311,30.326,-97.726311,30.326",
     "geom:latitude":30.326,
     "geom:longitude":-97.726311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303720671,
-    "wof:lastmodified":1448998694,
+    "wof:lastmodified":1467083720,
     "wof:name":"H & H Cellular, Inc.",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.726311,30.326,-97.726311,30.326],
+  "bbox": [
+    -97.726311,
+    30.326,
+    -97.726311,
+    30.326
+],
   "geometry": {"coordinates":[-97.726311,30.326],"type":"Point"}
 }

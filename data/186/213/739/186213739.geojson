@@ -2,13 +2,14 @@
   "id": 186213739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39848,29.028367,-95.39848,29.028367",
     "geom:latitude":29.028367,
     "geom:longitude":-95.39848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wesley Dr",
     "sg:city":"Clute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186213739,
-    "wof:lastmodified":1449050288,
+    "wof:lastmodified":1467084693,
     "wof:name":"Food Basket",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.39848,29.028367,-95.39848,29.028367],
-  "geometry": {"coordinates":[-95.39848,29.028367],"type":"Point"}
+  "bbox": [
+    -95.39848,
+    29.028367,
+    -95.39848,
+    29.028367
+],
+  "geometry": {"coordinates":[-95.39848000000001,29.028367],"type":"Point"}
 }

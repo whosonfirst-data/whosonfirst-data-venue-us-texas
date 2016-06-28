@@ -2,13 +2,14 @@
   "id": 203029493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503222,25.936125,-97.503222,25.936125",
     "geom:latitude":25.936125,
     "geom:longitude":-97.503222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Barnard Rd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203029493,
-    "wof:lastmodified":1449025723,
+    "wof:lastmodified":1467084399,
     "wof:name":"M D",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.503222,25.936125,-97.503222,25.936125],
-  "geometry": {"coordinates":[-97.503222,25.936125],"type":"Point"}
+  "bbox": [
+    -97.503222,
+    25.936125,
+    -97.503222,
+    25.936125
+],
+  "geometry": {"coordinates":[-97.50322199999999,25.936125],"type":"Point"}
 }

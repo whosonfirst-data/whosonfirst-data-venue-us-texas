@@ -2,13 +2,14 @@
   "id": 270351569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412331,29.684845,-95.412331,29.684845",
     "geom:latitude":29.684845,
     "geom:longitude":-95.412331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"One Reliant Park",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270351569,
-    "wof:lastmodified":1449010712,
+    "wof:lastmodified":1467084218,
     "wof:name":"Reliant Astrodome",
     "wof:parent_id":85869673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.412331,29.684845,-95.412331,29.684845],
-  "geometry": {"coordinates":[-95.412331,29.684845],"type":"Point"}
+  "bbox": [
+    -95.412331,
+    29.684845,
+    -95.412331,
+    29.684845
+],
+  "geometry": {"coordinates":[-95.41233099999999,29.684845],"type":"Point"}
 }

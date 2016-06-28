@@ -2,13 +2,14 @@
   "id": 236100439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.91032,33.010792,-96.91032,33.010792",
     "geom:latitude":33.010792,
     "geom:longitude":-96.91032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3648 Old Denton Rd Ste 102",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236100439,
-    "wof:lastmodified":1449004216,
+    "wof:lastmodified":1467083990,
     "wof:name":"Villa",
     "wof:parent_id":85870481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mediterranean"
     ]
 },
-  "bbox": [-96.91032,33.010792,-96.91032,33.010792],
+  "bbox": [
+    -96.91032,
+    33.010792,
+    -96.91032,
+    33.010792
+],
   "geometry": {"coordinates":[-96.91032,33.010792],"type":"Point"}
 }

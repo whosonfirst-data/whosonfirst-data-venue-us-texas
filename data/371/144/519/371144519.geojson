@@ -2,13 +2,14 @@
   "id": 371144519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.20749,26.232311,-98.20749,26.232311",
     "geom:latitude":26.232311,
     "geom:longitude":-98.20749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N McColl Rd",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371144519,
-    "wof:lastmodified":1449049820,
+    "wof:lastmodified":1467084685,
     "wof:name":"Child Support Field Office",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-98.20749,26.232311,-98.20749,26.232311],
-  "geometry": {"coordinates":[-98.20749,26.232311],"type":"Point"}
+  "bbox": [
+    -98.20749,
+    26.232311,
+    -98.20749,
+    26.232311
+],
+  "geometry": {"coordinates":[-98.20749000000001,26.232311],"type":"Point"}
 }

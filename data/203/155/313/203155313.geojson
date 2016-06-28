@@ -2,13 +2,14 @@
   "id": 203155313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.380505,29.824509,-95.380505,29.824509",
     "geom:latitude":29.824509,
     "geom:longitude":-95.380505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203155313,
-    "wof:lastmodified":1449026503,
+    "wof:lastmodified":1467084414,
     "wof:name":"Consolidated Doctors Group",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-95.380505,29.824509,-95.380505,29.824509],
+  "bbox": [
+    -95.380505,
+    29.824509,
+    -95.380505,
+    29.824509
+],
   "geometry": {"coordinates":[-95.380505,29.824509],"type":"Point"}
 }

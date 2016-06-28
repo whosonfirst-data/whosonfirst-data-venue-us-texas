@@ -2,13 +2,14 @@
   "id": 219487781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492618,29.544682,-98.492618,29.544682",
     "geom:latitude":29.544682,
     "geom:longitude":-98.492618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11411 Rendezvous Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487781,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1467085124,
     "wof:name":"Errands For U",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-98.492618,29.544682,-98.492618,29.544682],
-  "geometry": {"coordinates":[-98.492618,29.544682],"type":"Point"}
+  "bbox": [
+    -98.492618,
+    29.544682,
+    -98.492618,
+    29.544682
+],
+  "geometry": {"coordinates":[-98.49261799999999,29.544682],"type":"Point"}
 }

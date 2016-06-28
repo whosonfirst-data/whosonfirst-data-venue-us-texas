@@ -2,13 +2,14 @@
   "id": 252877425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811681,32.851295,-96.811681,32.851295",
     "geom:latitude":32.851295,
     "geom:longitude":-96.811681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4446 Lovers Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252877425,
-    "wof:lastmodified":1449006161,
+    "wof:lastmodified":1467084089,
     "wof:name":"Today's Gourmet",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-96.811681,32.851295,-96.811681,32.851295],
-  "geometry": {"coordinates":[-96.811681,32.851295],"type":"Point"}
+  "bbox": [
+    -96.811681,
+    32.851295,
+    -96.811681,
+    32.851295
+],
+  "geometry": {"coordinates":[-96.81168099999999,32.851295],"type":"Point"}
 }

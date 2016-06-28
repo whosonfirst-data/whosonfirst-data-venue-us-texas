@@ -2,13 +2,14 @@
   "id": 202815377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905123,28.839028,-96.905123,28.839028",
     "geom:latitude":28.839028,
     "geom:longitude":-96.905123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Holt Rd",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202815377,
-    "wof:lastmodified":1449061359,
+    "wof:lastmodified":1467084914,
     "wof:name":"MD Totco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.905123,28.839028,-96.905123,28.839028],
+  "bbox": [
+    -96.905123,
+    28.839028,
+    -96.905123,
+    28.839028
+],
   "geometry": {"coordinates":[-96.905123,28.839028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387350481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154401,30.031167,-94.154401,30.031167",
     "geom:latitude":30.031167,
     "geom:longitude":-94.154401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5675 Fannett Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387350481,
-    "wof:lastmodified":1449058049,
+    "wof:lastmodified":1467084834,
     "wof:name":"Rocks",
     "wof:parent_id":85854189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-94.154401,30.031167,-94.154401,30.031167],
-  "geometry": {"coordinates":[-94.154401,30.031167],"type":"Point"}
+  "bbox": [
+    -94.154401,
+    30.031167,
+    -94.154401,
+    30.031167
+],
+  "geometry": {"coordinates":[-94.15440099999999,30.031167],"type":"Point"}
 }

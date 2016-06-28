@@ -2,13 +2,14 @@
   "id": 303626437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.829549,30.295911,-97.829549,30.295911",
     "geom:latitude":30.295911,
     "geom:longitude":-97.829549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Castle Ridge Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303626437,
-    "wof:lastmodified":1449000568,
+    "wof:lastmodified":1467083813,
     "wof:name":"Homestar Mortgage Services",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.829549,30.295911,-97.829549,30.295911],
+  "bbox": [
+    -97.829549,
+    30.295911,
+    -97.829549,
+    30.295911
+],
   "geometry": {"coordinates":[-97.829549,30.295911],"type":"Point"}
 }

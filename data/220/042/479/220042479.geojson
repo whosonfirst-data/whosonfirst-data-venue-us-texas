@@ -2,13 +2,14 @@
   "id": 220042479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.513316,29.460673,-98.513316,29.460673",
     "geom:latitude":29.460673,
     "geom:longitude":-98.513316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 W Gramercy Pl",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220042479,
-    "wof:lastmodified":1449074649,
+    "wof:lastmodified":1467085191,
     "wof:name":"Samms Tile",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.513316,29.460673,-98.513316,29.460673],
+  "bbox": [
+    -98.513316,
+    29.460673,
+    -98.513316,
+    29.460673
+],
   "geometry": {"coordinates":[-98.513316,29.460673],"type":"Point"}
 }

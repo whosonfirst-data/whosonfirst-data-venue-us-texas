@@ -2,13 +2,14 @@
   "id": 303753139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739342,30.321989,-97.739342,30.321989",
     "geom:latitude":30.321989,
     "geom:longitude":-97.739342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303753139,
-    "wof:lastmodified":1448998406,
+    "wof:lastmodified":1467083706,
     "wof:name":"Rock, Robert L, Md - Eye Physicians Of Austin",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.739342,30.321989,-97.739342,30.321989],
-  "geometry": {"coordinates":[-97.739342,30.321989],"type":"Point"}
+  "bbox": [
+    -97.739342,
+    30.321989,
+    -97.739342,
+    30.321989
+],
+  "geometry": {"coordinates":[-97.73934199999999,30.321989],"type":"Point"}
 }

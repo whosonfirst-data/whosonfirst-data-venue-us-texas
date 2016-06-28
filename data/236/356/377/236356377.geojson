@@ -2,13 +2,14 @@
   "id": 236356377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890431,32.871981,-96.890431,32.871981",
     "geom:latitude":32.871981,
     "geom:longitude":-96.890431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10606 Shady Trl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236356377,
-    "wof:lastmodified":1449004545,
+    "wof:lastmodified":1467084005,
     "wof:name":"Hot Sauce Harrys Inc",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sauce"
     ]
 },
-  "bbox": [-96.890431,32.871981,-96.890431,32.871981],
-  "geometry": {"coordinates":[-96.890431,32.871981],"type":"Point"}
+  "bbox": [
+    -96.890431,
+    32.871981,
+    -96.890431,
+    32.871981
+],
+  "geometry": {"coordinates":[-96.89043100000001,32.871981],"type":"Point"}
 }

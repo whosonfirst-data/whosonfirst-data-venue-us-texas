@@ -2,13 +2,14 @@
   "id": 387961553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506098,25.932132,-97.506098,25.932132",
     "geom:latitude":25.932132,
     "geom:longitude":-97.506098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 E Los Ebanos Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387961553,
-    "wof:lastmodified":1449059844,
+    "wof:lastmodified":1467084881,
     "wof:name":"Howard H Roberts MD",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.506098,25.932132,-97.506098,25.932132],
-  "geometry": {"coordinates":[-97.506098,25.932132],"type":"Point"}
+  "bbox": [
+    -97.506098,
+    25.932132,
+    -97.506098,
+    25.932132
+],
+  "geometry": {"coordinates":[-97.50609799999999,25.932132],"type":"Point"}
 }

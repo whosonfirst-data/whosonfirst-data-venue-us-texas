@@ -2,13 +2,14 @@
   "id": 404133101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.709593,31.348546,-94.709593,31.348546",
     "geom:latitude":31.348546,
     "geom:longitude":-94.709593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Atkinson Dr",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404133101,
-    "wof:lastmodified":1449040095,
+    "wof:lastmodified":1467084656,
     "wof:name":"Parks & Wildlife Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-94.709593,31.348546,-94.709593,31.348546],
+  "bbox": [
+    -94.709593,
+    31.348546,
+    -94.709593,
+    31.348546
+],
   "geometry": {"coordinates":[-94.709593,31.348546],"type":"Point"}
 }

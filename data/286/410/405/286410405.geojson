@@ -2,13 +2,14 @@
   "id": 286410405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.507922,29.670119,-95.507922,29.670119",
     "geom:latitude":29.670119,
     "geom:longitude":-95.507922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 Fondren Rd Ste 444",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286410405,
-    "wof:lastmodified":1449015203,
+    "wof:lastmodified":1467084237,
     "wof:name":"Executive General Real Estate",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.507922,29.670119,-95.507922,29.670119],
-  "geometry": {"coordinates":[-95.507922,29.670119],"type":"Point"}
+  "bbox": [
+    -95.507922,
+    29.670119,
+    -95.507922,
+    29.670119
+],
+  "geometry": {"coordinates":[-95.50792199999999,29.670119],"type":"Point"}
 }

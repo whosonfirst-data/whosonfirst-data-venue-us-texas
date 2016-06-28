@@ -2,13 +2,14 @@
   "id": 370699251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.210328,32.850585,-97.210328,32.850585",
     "geom:latitude":32.850585,
     "geom:longitude":-97.210328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7808 Irish Dr",
     "sg:city":"N Richland Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370699251,
-    "wof:lastmodified":1449029559,
+    "wof:lastmodified":1467084480,
     "wof:name":"Davis Plaza",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.210328,32.850585,-97.210328,32.850585],
+  "bbox": [
+    -97.210328,
+    32.850585,
+    -97.210328,
+    32.850585
+],
   "geometry": {"coordinates":[-97.210328,32.850585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236522335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.444998,31.462702,-100.444998,31.462702",
     "geom:latitude":31.462702,
     "geom:longitude":-100.444998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Abe St",
     "sg:city":"Mertzon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236522335,
-    "wof:lastmodified":1449003179,
+    "wof:lastmodified":1467083941,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.444998,31.462702,-100.444998,31.462702],
+  "bbox": [
+    -100.444998,
+    31.462702,
+    -100.444998,
+    31.462702
+],
   "geometry": {"coordinates":[-100.444998,31.462702],"type":"Point"}
 }

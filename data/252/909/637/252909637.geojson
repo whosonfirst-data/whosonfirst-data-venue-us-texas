@@ -2,13 +2,14 @@
   "id": 252909637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495461,29.453736,-98.495461,29.453736",
     "geom:latitude":29.453736,
     "geom:longitude":-98.495461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Howard St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252909637,
-    "wof:lastmodified":1449006227,
+    "wof:lastmodified":1467084093,
     "wof:name":"Penn International Insurance",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "foreign"
     ]
 },
-  "bbox": [-98.495461,29.453736,-98.495461,29.453736],
-  "geometry": {"coordinates":[-98.495461,29.453736],"type":"Point"}
+  "bbox": [
+    -98.495461,
+    29.453736,
+    -98.495461,
+    29.453736
+],
+  "geometry": {"coordinates":[-98.49546100000001,29.453736],"type":"Point"}
 }

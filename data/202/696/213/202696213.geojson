@@ -2,13 +2,14 @@
   "id": 202696213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.323427,26.200994,-98.323427,26.200994",
     "geom:latitude":26.200994,
     "geom:longitude":-98.323427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Expy 83",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202696213,
-    "wof:lastmodified":1449060301,
+    "wof:lastmodified":1467084891,
     "wof:name":"Electronic Medical Svc",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-98.323427,26.200994,-98.323427,26.200994],
+  "bbox": [
+    -98.323427,
+    26.200994,
+    -98.323427,
+    26.200994
+],
   "geometry": {"coordinates":[-98.323427,26.200994],"type":"Point"}
 }

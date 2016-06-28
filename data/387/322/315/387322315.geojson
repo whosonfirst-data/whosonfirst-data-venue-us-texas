@@ -2,13 +2,14 @@
   "id": 387322315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.193261,32.894116,-97.193261,32.894116",
     "geom:latitude":32.894116,
     "geom:longitude":-97.193261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8209 Kentwood Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387322315,
-    "wof:lastmodified":1449056073,
+    "wof:lastmodified":1467084783,
     "wof:name":"Insurance Services",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.193261,32.894116,-97.193261,32.894116],
-  "geometry": {"coordinates":[-97.193261,32.894116],"type":"Point"}
+  "bbox": [
+    -97.193261,
+    32.894116,
+    -97.193261,
+    32.894116
+],
+  "geometry": {"coordinates":[-97.19326100000001,32.894116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253488245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.354064,32.560164,-94.354064,32.560164",
     "geom:latitude":32.560164,
     "geom:longitude":-94.354064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Jefferson Ave",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253488245,
-    "wof:lastmodified":1449065731,
+    "wof:lastmodified":1467085045,
     "wof:name":"Humane Society of Harrison County",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "humane"
     ]
 },
-  "bbox": [-94.354064,32.560164,-94.354064,32.560164],
-  "geometry": {"coordinates":[-94.354064,32.560164],"type":"Point"}
+  "bbox": [
+    -94.354064,
+    32.560164,
+    -94.354064,
+    32.560164
+],
+  "geometry": {"coordinates":[-94.35406399999999,32.560164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270144465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.283679,29.780295,-95.283679,29.780295",
     "geom:latitude":29.780295,
     "geom:longitude":-95.283679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8123 Hillsboro St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270144465,
-    "wof:lastmodified":1449010452,
+    "wof:lastmodified":1467084210,
     "wof:name":"Depco Power Systems",
     "wof:parent_id":85869591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-95.283679,29.780295,-95.283679,29.780295],
-  "geometry": {"coordinates":[-95.283679,29.780295],"type":"Point"}
+  "bbox": [
+    -95.283679,
+    29.780295,
+    -95.283679,
+    29.780295
+],
+  "geometry": {"coordinates":[-95.28367900000001,29.780295],"type":"Point"}
 }

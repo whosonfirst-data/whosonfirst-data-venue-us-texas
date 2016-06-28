@@ -2,13 +2,14 @@
   "id": 354069363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.063048,32.770711,-97.063048,32.770711",
     "geom:latitude":32.770711,
     "geom:longitude":-97.063048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Watson Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354069363,
-    "wof:lastmodified":1449067040,
+    "wof:lastmodified":1467085078,
     "wof:name":"Arlington Branch Office",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contract"
     ]
 },
-  "bbox": [-97.063048,32.770711,-97.063048,32.770711],
-  "geometry": {"coordinates":[-97.063048,32.770711],"type":"Point"}
+  "bbox": [
+    -97.063048,
+    32.770711,
+    -97.063048,
+    32.770711
+],
+  "geometry": {"coordinates":[-97.06304799999999,32.770711],"type":"Point"}
 }

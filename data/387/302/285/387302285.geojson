@@ -2,13 +2,14 @@
   "id": 387302285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.125268,33.200221,-97.125268,33.200221",
     "geom:latitude":33.200221,
     "geom:longitude":-97.125268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Dallas Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387302285,
-    "wof:lastmodified":1449057380,
+    "wof:lastmodified":1467084816,
     "wof:name":"On The Cuff",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.125268,33.200221,-97.125268,33.200221],
-  "geometry": {"coordinates":[-97.125268,33.200221],"type":"Point"}
+  "bbox": [
+    -97.125268,
+    33.200221,
+    -97.125268,
+    33.200221
+],
+  "geometry": {"coordinates":[-97.12526800000001,33.200221],"type":"Point"}
 }

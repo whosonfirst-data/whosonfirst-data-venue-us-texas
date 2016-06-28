@@ -2,13 +2,14 @@
   "id": 185602823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.459421,29.75281,-95.459421,29.75281",
     "geom:latitude":29.75281,
     "geom:longitude":-95.459421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Post Oak Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185602823,
-    "wof:lastmodified":1449007368,
+    "wof:lastmodified":1467084124,
     "wof:name":"Frey Financial Group",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financing"
     ]
 },
-  "bbox": [-95.459421,29.75281,-95.459421,29.75281],
-  "geometry": {"coordinates":[-95.459421,29.75281],"type":"Point"}
+  "bbox": [
+    -95.459421,
+    29.75281,
+    -95.459421,
+    29.75281
+],
+  "geometry": {"coordinates":[-95.45942100000001,29.75281],"type":"Point"}
 }

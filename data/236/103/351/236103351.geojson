@@ -2,13 +2,14 @@
   "id": 236103351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.548454,29.47049,-98.548454,29.47049",
     "geom:latitude":29.47049,
     "geom:longitude":-98.548454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Sutton Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236103351,
-    "wof:lastmodified":1449003765,
+    "wof:lastmodified":1467083969,
     "wof:name":"St Paul's Catholic Church",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-98.548454,29.47049,-98.548454,29.47049],
-  "geometry": {"coordinates":[-98.548454,29.47049],"type":"Point"}
+  "bbox": [
+    -98.548454,
+    29.47049,
+    -98.548454,
+    29.47049
+],
+  "geometry": {"coordinates":[-98.54845400000001,29.47049],"type":"Point"}
 }

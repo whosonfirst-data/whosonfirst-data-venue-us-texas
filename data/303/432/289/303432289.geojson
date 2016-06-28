@@ -2,13 +2,14 @@
   "id": 303432289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787481,30.449574,-97.787481,30.449574",
     "geom:latitude":30.449574,
     "geom:longitude":-97.787481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Anderson Mill Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303432289,
-    "wof:lastmodified":1448998073,
+    "wof:lastmodified":1467083689,
     "wof:name":"Fontaine Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.787481,30.449574,-97.787481,30.449574],
+  "bbox": [
+    -97.787481,
+    30.449574,
+    -97.787481,
+    30.449574
+],
   "geometry": {"coordinates":[-97.787481,30.449574],"type":"Point"}
 }

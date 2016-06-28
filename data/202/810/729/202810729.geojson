@@ -2,13 +2,14 @@
   "id": 202810729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.188517,32.655547,-97.188517,32.655547",
     "geom:latitude":32.655547,
     "geom:longitude":-97.188517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Andalusia Trl",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202810729,
-    "wof:lastmodified":1449060858,
+    "wof:lastmodified":1467084904,
     "wof:name":"Compu Source Inc",
     "wof:parent_id":85897313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "utility"
     ]
 },
-  "bbox": [-97.188517,32.655547,-97.188517,32.655547],
+  "bbox": [
+    -97.188517,
+    32.655547,
+    -97.188517,
+    32.655547
+],
   "geometry": {"coordinates":[-97.188517,32.655547],"type":"Point"}
 }

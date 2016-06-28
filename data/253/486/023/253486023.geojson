@@ -2,13 +2,14 @@
   "id": 253486023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.355247,32.53167,-94.355247,32.53167",
     "geom:latitude":32.53167,
     "geom:longitude":-94.355247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Maverick Dr",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253486023,
-    "wof:lastmodified":1449064479,
+    "wof:lastmodified":1467085002,
     "wof:name":"Marshall Independent School District (Inc)",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.355247,32.53167,-94.355247,32.53167],
-  "geometry": {"coordinates":[-94.355247,32.53167],"type":"Point"}
+  "bbox": [
+    -94.355247,
+    32.53167,
+    -94.355247,
+    32.53167
+],
+  "geometry": {"coordinates":[-94.35524700000001,32.53167],"type":"Point"}
 }

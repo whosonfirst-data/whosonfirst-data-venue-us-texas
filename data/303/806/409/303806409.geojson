@@ -2,13 +2,14 @@
   "id": 303806409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759711,30.430003,-97.759711,30.430003",
     "geom:latitude":30.430003,
     "geom:longitude":-97.759711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12515 Research Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303806409,
-    "wof:lastmodified":1448998107,
+    "wof:lastmodified":1467083690,
     "wof:name":"Core NAP",
     "wof:parent_id":85893495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "internet"
     ]
 },
-  "bbox": [-97.759711,30.430003,-97.759711,30.430003],
+  "bbox": [
+    -97.759711,
+    30.430003,
+    -97.759711,
+    30.430003
+],
   "geometry": {"coordinates":[-97.759711,30.430003],"type":"Point"}
 }

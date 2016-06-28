@@ -2,13 +2,14 @@
   "id": 353974213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76077,32.926279,-97.76077,32.926279",
     "geom:latitude":32.926279,
     "geom:longitude":-97.76077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3791 Sarra Ln",
     "sg:city":"Springtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353974213,
-    "wof:lastmodified":1449020472,
+    "wof:lastmodified":1467084369,
     "wof:name":"Mt Shasta Trucking",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.76077,32.926279,-97.76077,32.926279],
-  "geometry": {"coordinates":[-97.76077,32.926279],"type":"Point"}
+  "bbox": [
+    -97.76077,
+    32.926279,
+    -97.76077,
+    32.926279
+],
+  "geometry": {"coordinates":[-97.76076999999999,32.926279],"type":"Point"}
 }

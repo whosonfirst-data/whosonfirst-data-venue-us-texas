@@ -2,13 +2,14 @@
   "id": 303077991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.784329,30.532619,-97.784329,30.532619",
     "geom:latitude":30.532619,
     "geom:longitude":-97.784329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E. Whitestone Blvd Ste 127",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303077991,
-    "wof:lastmodified":1448998508,
+    "wof:lastmodified":1467083711,
     "wof:name":"Berry Cool Whitestone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-97.784329,30.532619,-97.784329,30.532619],
+  "bbox": [
+    -97.784329,
+    30.532619,
+    -97.784329,
+    30.532619
+],
   "geometry": {"coordinates":[-97.784329,30.532619],"type":"Point"}
 }

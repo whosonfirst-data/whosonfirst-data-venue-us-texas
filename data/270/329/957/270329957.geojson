@@ -2,13 +2,14 @@
   "id": 270329957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.339697,29.63638,-95.339697,29.63638",
     "geom:latitude":29.63638,
     "geom:longitude":-95.339697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11402 Martin Luther King Jr Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270329957,
-    "wof:lastmodified":1449009294,
+    "wof:lastmodified":1467084171,
     "wof:name":"Stop-N-Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.339697,29.63638,-95.339697,29.63638],
+  "bbox": [
+    -95.339697,
+    29.63638,
+    -95.339697,
+    29.63638
+],
   "geometry": {"coordinates":[-95.339697,29.63638],"type":"Point"}
 }

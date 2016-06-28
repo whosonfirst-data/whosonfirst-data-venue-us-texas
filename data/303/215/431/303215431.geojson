@@ -2,13 +2,14 @@
   "id": 303215431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744066,30.275065,-97.744066,30.275065",
     "geom:latitude":30.275065,
     "geom:longitude":-97.744066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Guadalupe Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":303215431,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1467083792,
     "wof:name":"League of Women Voters of Texas",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-97.744066,30.275065,-97.744066,30.275065],
+  "bbox": [
+    -97.744066,
+    30.275065,
+    -97.744066,
+    30.275065
+],
   "geometry": {"coordinates":[-97.744066,30.275065],"type":"Point"}
 }

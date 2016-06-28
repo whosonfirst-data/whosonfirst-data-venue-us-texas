@@ -2,13 +2,14 @@
   "id": 337324975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.240442,27.759439,-98.240442,27.759439",
     "geom:latitude":27.759439,
     "geom:longitude":-98.240442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Dr E E Dunlap Hwy",
     "sg:city":"San Diego",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337324975,
-    "wof:lastmodified":1449027423,
+    "wof:lastmodified":1467084444,
     "wof:name":"San Diego Chief Of Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.240442,27.759439,-98.240442,27.759439],
+  "bbox": [
+    -98.240442,
+    27.759439,
+    -98.240442,
+    27.759439
+],
   "geometry": {"coordinates":[-98.240442,27.759439],"type":"Point"}
 }

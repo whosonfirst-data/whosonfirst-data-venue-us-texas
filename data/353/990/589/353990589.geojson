@@ -2,13 +2,14 @@
   "id": 353990589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.00199,29.510585,-95.00199,29.510585",
     "geom:latitude":29.510585,
     "geom:longitude":-95.00199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 State Hwy 146",
     "sg:city":"Bacliff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353990589,
-    "wof:lastmodified":1449019953,
+    "wof:lastmodified":1467084358,
     "wof:name":"Texas United Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.00199,29.510585,-95.00199,29.510585],
-  "geometry": {"coordinates":[-95.00199,29.510585],"type":"Point"}
+  "bbox": [
+    -95.00199,
+    29.510585,
+    -95.00199,
+    29.510585
+],
+  "geometry": {"coordinates":[-95.00199000000001,29.510585],"type":"Point"}
 }

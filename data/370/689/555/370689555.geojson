@@ -2,13 +2,14 @@
   "id": 370689555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161527,32.886096,-97.161527,32.886096",
     "geom:latitude":32.886096,
     "geom:longitude":-97.161527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5316 Bransford Rd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370689555,
-    "wof:lastmodified":1449031901,
+    "wof:lastmodified":1467084540,
     "wof:name":"Dallas Digital Svc",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.161527,32.886096,-97.161527,32.886096],
-  "geometry": {"coordinates":[-97.161527,32.886096],"type":"Point"}
+  "bbox": [
+    -97.161527,
+    32.886096,
+    -97.161527,
+    32.886096
+],
+  "geometry": {"coordinates":[-97.16152700000001,32.886096],"type":"Point"}
 }

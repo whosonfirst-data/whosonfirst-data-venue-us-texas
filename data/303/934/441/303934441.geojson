@@ -2,13 +2,14 @@
   "id": 303934441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.889873,35.204925,-101.889873,35.204925",
     "geom:latitude":35.204925,
     "geom:longitude":-101.889873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 SW 10th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303934441,
-    "wof:lastmodified":1448998238,
+    "wof:lastmodified":1467083697,
     "wof:name":"Active Media",
     "wof:parent_id":85875861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-101.889873,35.204925,-101.889873,35.204925],
-  "geometry": {"coordinates":[-101.889873,35.204925],"type":"Point"}
+  "bbox": [
+    -101.889873,
+    35.204925,
+    -101.889873,
+    35.204925
+],
+  "geometry": {"coordinates":[-101.88987299999999,35.204925],"type":"Point"}
 }

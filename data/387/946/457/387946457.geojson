@@ -2,13 +2,14 @@
   "id": 387946457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.899328,30.909784,-101.899328,30.909784",
     "geom:latitude":30.909784,
     "geom:longitude":-101.899328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W 2nd St",
     "sg:city":"Iraan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387946457,
-    "wof:lastmodified":1449059461,
+    "wof:lastmodified":1467084870,
     "wof:name":"City Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-101.899328,30.909784,-101.899328,30.909784],
+  "bbox": [
+    -101.899328,
+    30.909784,
+    -101.899328,
+    30.909784
+],
   "geometry": {"coordinates":[-101.899328,30.909784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270209291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.492022,29.641661,-95.492022,29.641661",
     "geom:latitude":29.641661,
     "geom:longitude":-95.492022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12422 Ashcroft Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270209291,
-    "wof:lastmodified":1449010830,
+    "wof:lastmodified":1467084222,
     "wof:name":"The Better Body Source",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.492022,29.641661,-95.492022,29.641661],
-  "geometry": {"coordinates":[-95.492022,29.641661],"type":"Point"}
+  "bbox": [
+    -95.492022,
+    29.641661,
+    -95.492022,
+    29.641661
+],
+  "geometry": {"coordinates":[-95.49202200000001,29.641661],"type":"Point"}
 }

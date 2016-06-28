@@ -2,13 +2,14 @@
   "id": 303649531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.798645,30.174956,-97.798645,30.174956",
     "geom:latitude":30.174956,
     "geom:longitude":-97.798645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303649531,
-    "wof:lastmodified":1448999783,
+    "wof:lastmodified":1467083775,
     "wof:name":"Marshall Plaster",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.798645,30.174956,-97.798645,30.174956],
-  "geometry": {"coordinates":[-97.798645,30.174956],"type":"Point"}
+  "bbox": [
+    -97.798645,
+    30.174956,
+    -97.798645,
+    30.174956
+],
+  "geometry": {"coordinates":[-97.79864499999999,30.174956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403923101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.414369,31.774585,-106.414369,31.774585",
     "geom:latitude":31.774585,
     "geom:longitude":-106.414369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 N Clark Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403923101,
-    "wof:lastmodified":1449055905,
+    "wof:lastmodified":1467084779,
     "wof:name":"Fed Ex Freight",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.414369,31.774585,-106.414369,31.774585],
-  "geometry": {"coordinates":[-106.414369,31.774585],"type":"Point"}
+  "bbox": [
+    -106.414369,
+    31.774585,
+    -106.414369,
+    31.774585
+],
+  "geometry": {"coordinates":[-106.41436899999999,31.774585],"type":"Point"}
 }

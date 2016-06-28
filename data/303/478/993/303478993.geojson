@@ -2,13 +2,14 @@
   "id": 303478993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747475,30.357087,-97.747475,30.357087",
     "geom:latitude":30.357087,
     "geom:longitude":-97.747475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3424 Greystone Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303478993,
-    "wof:lastmodified":1448998198,
+    "wof:lastmodified":1467083695,
     "wof:name":"Greystone Market",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.747475,30.357087,-97.747475,30.357087],
-  "geometry": {"coordinates":[-97.747475,30.357087],"type":"Point"}
+  "bbox": [
+    -97.747475,
+    30.357087,
+    -97.747475,
+    30.357087
+],
+  "geometry": {"coordinates":[-97.74747499999999,30.357087],"type":"Point"}
 }

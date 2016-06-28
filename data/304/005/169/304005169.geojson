@@ -2,13 +2,14 @@
   "id": 304005169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.906556,33.588792,-101.906556,33.588792",
     "geom:latitude":33.588792,
     "geom:longitude":-101.906556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 8th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":304005169,
-    "wof:lastmodified":1449044122,
+    "wof:lastmodified":1467084670,
     "wof:name":"Greenbrier Realty",
     "wof:parent_id":85893809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-101.906556,33.588792,-101.906556,33.588792],
-  "geometry": {"coordinates":[-101.906556,33.588792],"type":"Point"}
+  "bbox": [
+    -101.906556,
+    33.588792,
+    -101.906556,
+    33.588792
+],
+  "geometry": {"coordinates":[-101.90655599999999,33.588792],"type":"Point"}
 }

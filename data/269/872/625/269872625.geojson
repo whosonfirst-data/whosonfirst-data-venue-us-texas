@@ -2,13 +2,14 @@
   "id": 269872625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.351494,29.722593,-95.351494,29.722593",
     "geom:latitude":29.722593,
     "geom:longitude":-95.351494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Scott St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269872625,
-    "wof:lastmodified":1449036365,
+    "wof:lastmodified":1467084577,
     "wof:name":"Steve's Cafe",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vietnamese"
     ]
 },
-  "bbox": [-95.351494,29.722593,-95.351494,29.722593],
+  "bbox": [
+    -95.351494,
+    29.722593,
+    -95.351494,
+    29.722593
+],
   "geometry": {"coordinates":[-95.351494,29.722593],"type":"Point"}
 }

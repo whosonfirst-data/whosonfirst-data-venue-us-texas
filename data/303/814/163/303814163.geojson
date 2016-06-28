@@ -2,13 +2,14 @@
   "id": 303814163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75928,30.374204,-97.75928,30.374204",
     "geom:latitude":30.374204,
     "geom:longitude":-97.75928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 Spicewood Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303814163,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1467083713,
     "wof:name":"David Porter",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.75928,30.374204,-97.75928,30.374204],
+  "bbox": [
+    -97.75928,
+    30.374204,
+    -97.75928,
+    30.374204
+],
   "geometry": {"coordinates":[-97.75928,30.374204],"type":"Point"}
 }

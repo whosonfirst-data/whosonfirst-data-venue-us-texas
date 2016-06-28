@@ -2,13 +2,14 @@
   "id": 186047745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.794143,32.696761,-96.794143,32.696761",
     "geom:latitude":32.696761,
     "geom:longitude":-96.794143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 S Lancaster Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186047745,
-    "wof:lastmodified":1449052105,
+    "wof:lastmodified":1467084728,
     "wof:name":"Texas Tech Health Sciences Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.794143,32.696761,-96.794143,32.696761],
-  "geometry": {"coordinates":[-96.794143,32.696761],"type":"Point"}
+  "bbox": [
+    -96.794143,
+    32.696761,
+    -96.794143,
+    32.696761
+],
+  "geometry": {"coordinates":[-96.79414300000001,32.696761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186027263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.854237,32.732159,-96.854237,32.732159",
     "geom:latitude":32.732159,
     "geom:longitude":-96.854237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 S Montreal Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186027263,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1467084702,
     "wof:name":"Bizee Press",
     "wof:parent_id":85870401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-96.854237,32.732159,-96.854237,32.732159],
+  "bbox": [
+    -96.854237,
+    32.732159,
+    -96.854237,
+    32.732159
+],
   "geometry": {"coordinates":[-96.854237,32.732159],"type":"Point"}
 }

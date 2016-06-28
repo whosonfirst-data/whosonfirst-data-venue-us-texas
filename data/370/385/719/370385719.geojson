@@ -2,13 +2,14 @@
   "id": 370385719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.077045,29.527391,-95.077045,29.527391",
     "geom:latitude":29.527391,
     "geom:longitude":-95.077045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Bayou Dr",
     "sg:city":"League City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370385719,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1467084519,
     "wof:name":"City of League City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-95.077045,29.527391,-95.077045,29.527391],
+  "bbox": [
+    -95.077045,
+    29.527391,
+    -95.077045,
+    29.527391
+],
   "geometry": {"coordinates":[-95.077045,29.527391],"type":"Point"}
 }

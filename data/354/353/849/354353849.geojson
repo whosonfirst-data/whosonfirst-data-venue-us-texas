@@ -2,13 +2,14 @@
   "id": 354353849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.351419,31.878416,-102.351419,31.878416",
     "geom:latitude":31.878416,
     "geom:longitude":-102.351419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Redbud Ave",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354353849,
-    "wof:lastmodified":1449066387,
+    "wof:lastmodified":1467085062,
     "wof:name":"WGA Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-102.351419,31.878416,-102.351419,31.878416],
-  "geometry": {"coordinates":[-102.351419,31.878416],"type":"Point"}
+  "bbox": [
+    -102.351419,
+    31.878416,
+    -102.351419,
+    31.878416
+],
+  "geometry": {"coordinates":[-102.35141900000001,31.878416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387006821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.520283,29.570735,-98.520283,29.570735",
     "geom:latitude":29.570735,
     "geom:longitude":-98.520283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1738 Donerail St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387006821,
-    "wof:lastmodified":1449059178,
+    "wof:lastmodified":1467084863,
     "wof:name":"Val Heart Associates",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.520283,29.570735,-98.520283,29.570735],
-  "geometry": {"coordinates":[-98.520283,29.570735],"type":"Point"}
+  "bbox": [
+    -98.520283,
+    29.570735,
+    -98.520283,
+    29.570735
+],
+  "geometry": {"coordinates":[-98.52028300000001,29.570735],"type":"Point"}
 }

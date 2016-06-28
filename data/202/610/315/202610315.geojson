@@ -2,13 +2,14 @@
   "id": 202610315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.481007,29.612052,-98.481007,29.612052",
     "geom:latitude":29.612052,
     "geom:longitude":-98.481007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Proton Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202610315,
-    "wof:lastmodified":1449062597,
+    "wof:lastmodified":1467084940,
     "wof:name":"Progressive Life-San Antonio",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-98.481007,29.612052,-98.481007,29.612052],
-  "geometry": {"coordinates":[-98.481007,29.612052],"type":"Point"}
+  "bbox": [
+    -98.481007,
+    29.612052,
+    -98.481007,
+    29.612052
+],
+  "geometry": {"coordinates":[-98.48100700000001,29.612052],"type":"Point"}
 }

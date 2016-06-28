@@ -2,13 +2,14 @@
   "id": 269548359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.099258,33.173359,-97.099258,33.173359",
     "geom:latitude":33.173359,
     "geom:longitude":-97.099258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 Shoreline Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269548359,
-    "wof:lastmodified":1449037770,
+    "wof:lastmodified":1467084617,
     "wof:name":"Homewood Suites by Hilton Denton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.099258,33.173359,-97.099258,33.173359],
-  "geometry": {"coordinates":[-97.099258,33.173359],"type":"Point"}
+  "bbox": [
+    -97.099258,
+    33.173359,
+    -97.099258,
+    33.173359
+],
+  "geometry": {"coordinates":[-97.09925800000001,33.173359],"type":"Point"}
 }

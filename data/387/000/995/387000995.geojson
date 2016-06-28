@@ -2,13 +2,14 @@
   "id": 387000995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.186951,29.500867,-95.186951,29.500867",
     "geom:latitude":29.500867,
     "geom:longitude":-95.186951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Eagle Lakes Dr",
     "sg:city":"Friendswood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387000995,
-    "wof:lastmodified":1449056716,
+    "wof:lastmodified":1467084800,
     "wof:name":"Network Communication Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-95.186951,29.500867,-95.186951,29.500867],
-  "geometry": {"coordinates":[-95.186951,29.500867],"type":"Point"}
+  "bbox": [
+    -95.186951,
+    29.500867,
+    -95.186951,
+    29.500867
+],
+  "geometry": {"coordinates":[-95.18695099999999,29.500867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186510421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.15657,33.198833,-97.15657,33.198833",
     "geom:latitude":33.198833,
     "geom:longitude":-97.15657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Tremont Cir",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186510421,
-    "wof:lastmodified":1449051976,
+    "wof:lastmodified":1467084725,
     "wof:name":"Tremont Circle Homeowners",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lodging"
     ]
 },
-  "bbox": [-97.15657,33.198833,-97.15657,33.198833],
+  "bbox": [
+    -97.15657,
+    33.198833,
+    -97.15657,
+    33.198833
+],
   "geometry": {"coordinates":[-97.15657,33.198833],"type":"Point"}
 }

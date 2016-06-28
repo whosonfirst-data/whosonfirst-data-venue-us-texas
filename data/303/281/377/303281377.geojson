@@ -2,13 +2,14 @@
   "id": 303281377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.698187,30.255683,-97.698187,30.255683",
     "geom:latitude":30.255683,
     "geom:longitude":-97.698187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Gonzales Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303281377,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1467083794,
     "wof:name":"Austin Independent School District",
     "wof:parent_id":85869935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.698187,30.255683,-97.698187,30.255683],
+  "bbox": [
+    -97.698187,
+    30.255683,
+    -97.698187,
+    30.255683
+],
   "geometry": {"coordinates":[-97.698187,30.255683],"type":"Point"}
 }

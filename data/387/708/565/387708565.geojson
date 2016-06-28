@@ -2,13 +2,14 @@
   "id": 387708565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.519509,29.457921,-98.519509,29.457921",
     "geom:latitude":29.457921,
     "geom:longitude":-98.519509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387708565,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1467084799,
     "wof:name":"Community Link",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.519509,29.457921,-98.519509,29.457921],
+  "bbox": [
+    -98.519509,
+    29.457921,
+    -98.519509,
+    29.457921
+],
   "geometry": {"coordinates":[-98.519509,29.457921],"type":"Point"}
 }

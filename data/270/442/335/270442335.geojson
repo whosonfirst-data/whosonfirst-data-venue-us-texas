@@ -2,13 +2,14 @@
   "id": 270442335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.114571,29.558201,-95.114571,29.558201",
     "geom:latitude":29.558201,
     "geom:longitude":-95.114571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Regents Park Dr Ste 207",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270442335,
-    "wof:lastmodified":1449009710,
+    "wof:lastmodified":1467084185,
     "wof:name":"Veritrans Merchant Solutions",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "card-merchant"
     ]
 },
-  "bbox": [-95.114571,29.558201,-95.114571,29.558201],
+  "bbox": [
+    -95.114571,
+    29.558201,
+    -95.114571,
+    29.558201
+],
   "geometry": {"coordinates":[-95.114571,29.558201],"type":"Point"}
 }

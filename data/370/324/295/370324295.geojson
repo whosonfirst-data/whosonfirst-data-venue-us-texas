@@ -2,13 +2,14 @@
   "id": 370324295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.469124,32.255654,-101.469124,32.255654",
     "geom:latitude":32.255654,
     "geom:longitude":-101.469124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E 3rd St",
     "sg:city":"Big Spring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370324295,
-    "wof:lastmodified":1449031051,
+    "wof:lastmodified":1467084518,
     "wof:name":"Federman Robt W Edd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.469124,32.255654,-101.469124,32.255654],
-  "geometry": {"coordinates":[-101.469124,32.255654],"type":"Point"}
+  "bbox": [
+    -101.469124,
+    32.255654,
+    -101.469124,
+    32.255654
+],
+  "geometry": {"coordinates":[-101.46912399999999,32.255654],"type":"Point"}
 }

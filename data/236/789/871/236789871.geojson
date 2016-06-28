@@ -2,13 +2,14 @@
   "id": 236789871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705226,32.965949,-96.705226,32.965949",
     "geom:latitude":32.965949,
     "geom:longitude":-96.705226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 Commerce Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236789871,
-    "wof:lastmodified":1449003079,
+    "wof:lastmodified":1467083936,
     "wof:name":"TXP",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-96.705226,32.965949,-96.705226,32.965949],
+  "bbox": [
+    -96.705226,
+    32.965949,
+    -96.705226,
+    32.965949
+],
   "geometry": {"coordinates":[-96.705226,32.965949],"type":"Point"}
 }

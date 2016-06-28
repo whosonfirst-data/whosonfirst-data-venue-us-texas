@@ -2,13 +2,14 @@
   "id": 386938083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.203446,32.885502,-97.203446,32.885502",
     "geom:latitude":32.885502,
     "geom:longitude":-97.203446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Davis Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386938083,
-    "wof:lastmodified":1449028872,
+    "wof:lastmodified":1467084463,
     "wof:name":"Wells Fargo",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.203446,32.885502,-97.203446,32.885502],
+  "bbox": [
+    -97.203446,
+    32.885502,
+    -97.203446,
+    32.885502
+],
   "geometry": {"coordinates":[-97.203446,32.885502],"type":"Point"}
 }

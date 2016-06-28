@@ -2,13 +2,14 @@
   "id": 236017363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463766,32.097063,-96.463766,32.097063",
     "geom:latitude":32.097063,
     "geom:longitude":-96.463766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 3rd Ave",
     "sg:city":"Corsicana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236017363,
-    "wof:lastmodified":1449003403,
+    "wof:lastmodified":1467083952,
     "wof:name":"Studio",
     "wof:parent_id":85897319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-96.463766,32.097063,-96.463766,32.097063],
-  "geometry": {"coordinates":[-96.463766,32.097063],"type":"Point"}
+  "bbox": [
+    -96.463766,
+    32.097063,
+    -96.463766,
+    32.097063
+],
+  "geometry": {"coordinates":[-96.46376600000001,32.097063],"type":"Point"}
 }

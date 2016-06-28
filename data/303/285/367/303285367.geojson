@@ -2,13 +2,14 @@
   "id": 303285367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733224,30.258303,-97.733224,30.258303",
     "geom:latitude":30.258303,
     "geom:longitude":-97.733224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Canterbury St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303285367,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1467083694,
     "wof:name":"Atx Fire Protection",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-97.733224,30.258303,-97.733224,30.258303],
-  "geometry": {"coordinates":[-97.733224,30.258303],"type":"Point"}
+  "bbox": [
+    -97.733224,
+    30.258303,
+    -97.733224,
+    30.258303
+],
+  "geometry": {"coordinates":[-97.73322400000001,30.258303],"type":"Point"}
 }

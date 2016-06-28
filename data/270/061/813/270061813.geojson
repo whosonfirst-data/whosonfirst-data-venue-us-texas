@@ -2,13 +2,14 @@
   "id": 270061813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538807,29.782269,-95.538807,29.782269",
     "geom:latitude":29.782269,
     "geom:longitude":-95.538807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Gessner Rd Ste 800",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270061813,
-    "wof:lastmodified":1449010417,
+    "wof:lastmodified":1467084209,
     "wof:name":"Security National Mortgage",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.538807,29.782269,-95.538807,29.782269],
-  "geometry": {"coordinates":[-95.538807,29.782269],"type":"Point"}
+  "bbox": [
+    -95.538807,
+    29.782269,
+    -95.538807,
+    29.782269
+],
+  "geometry": {"coordinates":[-95.53880700000001,29.782269],"type":"Point"}
 }

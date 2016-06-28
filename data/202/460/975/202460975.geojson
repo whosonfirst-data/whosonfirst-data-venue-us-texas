@@ -2,13 +2,14 @@
   "id": 202460975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.18119,31.608579,-97.18119,31.608579",
     "geom:latitude":31.608579,
     "geom:longitude":-97.18119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Steinbeck Bend Dr",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202460975,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1467084938,
     "wof:name":"Heart Of Texas Fence",
     "wof:parent_id":85804399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.18119,31.608579,-97.18119,31.608579],
+  "bbox": [
+    -97.18119,
+    31.608579,
+    -97.18119,
+    31.608579
+],
   "geometry": {"coordinates":[-97.18119,31.608579],"type":"Point"}
 }

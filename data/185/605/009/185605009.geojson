@@ -2,13 +2,14 @@
   "id": 185605009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463483,31.05733,-97.463483,31.05733",
     "geom:latitude":31.05733,
     "geom:longitude":-97.463483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Main St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185605009,
-    "wof:lastmodified":1449007416,
+    "wof:lastmodified":1467084125,
     "wof:name":"A & Floyd Stark Bail Bond Svc",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.463483,31.05733,-97.463483,31.05733],
+  "bbox": [
+    -97.463483,
+    31.05733,
+    -97.463483,
+    31.05733
+],
   "geometry": {"coordinates":[-97.463483,31.05733],"type":"Point"}
 }

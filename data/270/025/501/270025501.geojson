@@ -2,13 +2,14 @@
   "id": 270025501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.38666,29.754135,-95.38666,29.754135",
     "geom:latitude":29.754135,
     "geom:longitude":-95.38666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Pierce St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270025501,
-    "wof:lastmodified":1449010670,
+    "wof:lastmodified":1467084217,
     "wof:name":"Charlie Edwards Sharping",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "saws-sharpen"
     ]
 },
-  "bbox": [-95.38666,29.754135,-95.38666,29.754135],
-  "geometry": {"coordinates":[-95.38666,29.754135],"type":"Point"}
+  "bbox": [
+    -95.38666,
+    29.754135,
+    -95.38666,
+    29.754135
+],
+  "geometry": {"coordinates":[-95.38666000000001,29.754135],"type":"Point"}
 }

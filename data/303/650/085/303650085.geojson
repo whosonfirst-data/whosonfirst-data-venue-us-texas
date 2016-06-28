@@ -2,13 +2,14 @@
   "id": 303650085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.868116,30.201366,-97.868116,30.201366",
     "geom:latitude":30.201366,
     "geom:longitude":-97.868116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 W Slaughter Ln Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303650085,
-    "wof:lastmodified":1448999612,
+    "wof:lastmodified":1467083766,
     "wof:name":"Southwest Smiles",
     "wof:parent_id":85869989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.868116,30.201366,-97.868116,30.201366],
+  "bbox": [
+    -97.868116,
+    30.201366,
+    -97.868116,
+    30.201366
+],
   "geometry": {"coordinates":[-97.868116,30.201366],"type":"Point"}
 }

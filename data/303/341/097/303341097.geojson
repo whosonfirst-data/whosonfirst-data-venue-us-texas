@@ -2,13 +2,14 @@
   "id": 303341097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.785872,30.230138,-97.785872,30.230138",
     "geom:latitude":30.230138,
     "geom:longitude":-97.785872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Fortview Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303341097,
-    "wof:lastmodified":1449000460,
+    "wof:lastmodified":1467083807,
     "wof:name":"Pacific Atlantic Shipping",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "package"
     ]
 },
-  "bbox": [-97.785872,30.230138,-97.785872,30.230138],
+  "bbox": [
+    -97.785872,
+    30.230138,
+    -97.785872,
+    30.230138
+],
   "geometry": {"coordinates":[-97.785872,30.230138],"type":"Point"}
 }

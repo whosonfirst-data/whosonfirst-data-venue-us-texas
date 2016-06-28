@@ -2,13 +2,14 @@
   "id": 270510581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.391213,29.977172,-95.391213,29.977172",
     "geom:latitude":29.977172,
     "geom:longitude":-95.391213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17904 E Hardy Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270510581,
-    "wof:lastmodified":1449010102,
+    "wof:lastmodified":1467084198,
     "wof:name":"Triple A Taxi And Transportation",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.391213,29.977172,-95.391213,29.977172],
-  "geometry": {"coordinates":[-95.391213,29.977172],"type":"Point"}
+  "bbox": [
+    -95.391213,
+    29.977172,
+    -95.391213,
+    29.977172
+],
+  "geometry": {"coordinates":[-95.39121299999999,29.977172],"type":"Point"}
 }

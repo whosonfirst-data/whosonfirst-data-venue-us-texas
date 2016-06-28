@@ -2,13 +2,14 @@
   "id": 270030517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.40852,29.752318,-95.40852,29.752318",
     "geom:latitude":29.752318,
     "geom:longitude":-95.40852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Peden St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270030517,
-    "wof:lastmodified":1449009537,
+    "wof:lastmodified":1467084179,
     "wof:name":"Marfreless",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.40852,29.752318,-95.40852,29.752318],
+  "bbox": [
+    -95.40852,
+    29.752318,
+    -95.40852,
+    29.752318
+],
   "geometry": {"coordinates":[-95.40852,29.752318],"type":"Point"}
 }

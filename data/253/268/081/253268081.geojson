@@ -2,13 +2,14 @@
   "id": 253268081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.725971,32.474608,-99.725971,32.474608",
     "geom:latitude":32.474608,
     "geom:longitude":-99.725971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Ambler Ave",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253268081,
-    "wof:lastmodified":1449064506,
+    "wof:lastmodified":1467085003,
     "wof:name":"Far Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-99.725971,32.474608,-99.725971,32.474608],
+  "bbox": [
+    -99.725971,
+    32.474608,
+    -99.725971,
+    32.474608
+],
   "geometry": {"coordinates":[-99.725971,32.474608],"type":"Point"}
 }

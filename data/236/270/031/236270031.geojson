@@ -2,13 +2,14 @@
   "id": 236270031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.664091,32.919751,-96.664091,32.919751",
     "geom:latitude":32.919751,
     "geom:longitude":-96.664091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Walter Reed Blvd",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236270031,
-    "wof:lastmodified":1449002114,
+    "wof:lastmodified":1467083886,
     "wof:name":"Mock Presley M MD",
     "wof:parent_id":85877699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nose"
     ]
 },
-  "bbox": [-96.664091,32.919751,-96.664091,32.919751],
+  "bbox": [
+    -96.664091,
+    32.919751,
+    -96.664091,
+    32.919751
+],
   "geometry": {"coordinates":[-96.664091,32.919751],"type":"Point"}
 }

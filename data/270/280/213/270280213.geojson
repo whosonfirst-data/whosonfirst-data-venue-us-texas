@@ -2,13 +2,14 @@
   "id": 270280213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.516098,29.835899,-95.516098,29.835899",
     "geom:latitude":29.835899,
     "geom:longitude":-95.516098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 S Pinemont Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270280213,
-    "wof:lastmodified":1449009836,
+    "wof:lastmodified":1467084189,
     "wof:name":"Summit Electric of Texas",
     "wof:parent_id":85831221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.516098,29.835899,-95.516098,29.835899],
+  "bbox": [
+    -95.516098,
+    29.835899,
+    -95.516098,
+    29.835899
+],
   "geometry": {"coordinates":[-95.516098,29.835899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.476672,29.318549,-98.476672,29.318549",
     "geom:latitude":29.318549,
     "geom:longitude":-98.476672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9806 Roosevelt Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387868001,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1467084789,
     "wof:name":"Alamo Molino",
     "wof:parent_id":85805825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.476672,29.318549,-98.476672,29.318549],
-  "geometry": {"coordinates":[-98.476672,29.318549],"type":"Point"}
+  "bbox": [
+    -98.476672,
+    29.318549,
+    -98.476672,
+    29.318549
+],
+  "geometry": {"coordinates":[-98.47667199999999,29.318549],"type":"Point"}
 }

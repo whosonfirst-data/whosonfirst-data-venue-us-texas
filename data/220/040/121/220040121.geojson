@@ -2,13 +2,14 @@
   "id": 220040121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791141,32.924412,-96.791141,32.924412",
     "geom:latitude":32.924412,
     "geom:longitude":-96.791141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220040121,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1467085195,
     "wof:name":"Cambridge Group",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-96.791141,32.924412,-96.791141,32.924412],
+  "bbox": [
+    -96.791141,
+    32.924412,
+    -96.791141,
+    32.924412
+],
   "geometry": {"coordinates":[-96.791141,32.924412],"type":"Point"}
 }

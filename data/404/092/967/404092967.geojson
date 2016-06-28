@@ -2,13 +2,14 @@
   "id": 404092967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.151356,30.006016,-97.151356,30.006016",
     "geom:latitude":30.006016,
     "geom:longitude":-97.151356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Bishop St",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404092967,
-    "wof:lastmodified":1449040071,
+    "wof:lastmodified":1467084656,
     "wof:name":"Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.151356,30.006016,-97.151356,30.006016],
-  "geometry": {"coordinates":[-97.151356,30.006016],"type":"Point"}
+  "bbox": [
+    -97.151356,
+    30.006016,
+    -97.151356,
+    30.006016
+],
+  "geometry": {"coordinates":[-97.15135600000001,30.006016],"type":"Point"}
 }

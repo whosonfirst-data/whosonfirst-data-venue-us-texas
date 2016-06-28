@@ -2,13 +2,14 @@
   "id": 253048111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.199328,26.194518,-98.199328,26.194518",
     "geom:latitude":26.194518,
     "geom:longitude":-98.199328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 W Cherokee St",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253048111,
-    "wof:lastmodified":1449063859,
+    "wof:lastmodified":1467084980,
     "wof:name":"Marie's Beauty Shop",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.199328,26.194518,-98.199328,26.194518],
-  "geometry": {"coordinates":[-98.199328,26.194518],"type":"Point"}
+  "bbox": [
+    -98.199328,
+    26.194518,
+    -98.199328,
+    26.194518
+],
+  "geometry": {"coordinates":[-98.19932799999999,26.194518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303422465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.674591,30.47434,-97.674591,30.47434",
     "geom:latitude":30.47434,
     "geom:longitude":-97.674591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200B Parker Dr Ste B500",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303422465,
-    "wof:lastmodified":1448998293,
+    "wof:lastmodified":1467083700,
     "wof:name":"Lamme's Candies",
     "wof:parent_id":85893905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.674591,30.47434,-97.674591,30.47434],
-  "geometry": {"coordinates":[-97.674591,30.47434],"type":"Point"}
+  "bbox": [
+    -97.674591,
+    30.47434,
+    -97.674591,
+    30.47434
+],
+  "geometry": {"coordinates":[-97.67459100000001,30.47434],"type":"Point"}
 }

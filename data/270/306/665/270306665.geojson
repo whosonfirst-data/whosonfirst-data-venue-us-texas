@@ -2,13 +2,14 @@
   "id": 270306665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.180016,29.930196,-95.180016,29.930196",
     "geom:latitude":29.930196,
     "geom:longitude":-95.180016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12902 Hartshill Ct",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270306665,
-    "wof:lastmodified":1449011017,
+    "wof:lastmodified":1467084229,
     "wof:name":"Imperial Mexican Rest",
     "wof:parent_id":85869399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.180016,29.930196,-95.180016,29.930196],
-  "geometry": {"coordinates":[-95.180016,29.930196],"type":"Point"}
+  "bbox": [
+    -95.180016,
+    29.930196,
+    -95.180016,
+    29.930196
+],
+  "geometry": {"coordinates":[-95.18001599999999,29.930196],"type":"Point"}
 }

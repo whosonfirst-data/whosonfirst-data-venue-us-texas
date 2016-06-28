@@ -2,13 +2,14 @@
   "id": 303360007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729676,30.298667,-97.729676,30.298667",
     "geom:latitude":30.298667,
     "geom:longitude":-97.729676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E 38th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303360007,
-    "wof:lastmodified":1449000004,
+    "wof:lastmodified":1467083785,
     "wof:name":"Austin Investigative Reporting Project",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-97.729676,30.298667,-97.729676,30.298667],
+  "bbox": [
+    -97.729676,
+    30.298667,
+    -97.729676,
+    30.298667
+],
   "geometry": {"coordinates":[-97.729676,30.298667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270335957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.258477,29.888734,-95.258477,29.888734",
     "geom:latitude":29.888734,
     "geom:longitude":-95.258477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Mount Houston Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270335957,
-    "wof:lastmodified":1449010280,
+    "wof:lastmodified":1467084204,
     "wof:name":"Lake Houston Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.258477,29.888734,-95.258477,29.888734],
+  "bbox": [
+    -95.258477,
+    29.888734,
+    -95.258477,
+    29.888734
+],
   "geometry": {"coordinates":[-95.258477,29.888734],"type":"Point"}
 }

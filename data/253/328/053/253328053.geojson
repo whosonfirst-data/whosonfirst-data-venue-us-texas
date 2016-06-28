@@ -2,13 +2,14 @@
   "id": 253328053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781218,32.785135,-96.781218,32.785135",
     "geom:latitude":32.785135,
     "geom:longitude":-96.781218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 Elm St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253328053,
-    "wof:lastmodified":1449064551,
+    "wof:lastmodified":1467085005,
     "wof:name":"Local",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-96.781218,32.785135,-96.781218,32.785135],
+  "bbox": [
+    -96.781218,
+    32.785135,
+    -96.781218,
+    32.785135
+],
   "geometry": {"coordinates":[-96.781218,32.785135],"type":"Point"}
 }

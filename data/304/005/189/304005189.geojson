@@ -2,13 +2,14 @@
   "id": 304005189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.899822,33.579949,-101.899822,33.579949",
     "geom:latitude":33.579949,
     "geom:longitude":-101.899822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Norfolk Ave #2209",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304005189,
-    "wof:lastmodified":1449044120,
+    "wof:lastmodified":1467084670,
     "wof:name":"McGlaun",
     "wof:parent_id":85893809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-101.899822,33.579949,-101.899822,33.579949],
+  "bbox": [
+    -101.899822,
+    33.579949,
+    -101.899822,
+    33.579949
+],
   "geometry": {"coordinates":[-101.899822,33.579949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404027841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049214,32.834616,-97.049214,32.834616",
     "geom:latitude":32.834616,
     "geom:longitude":-97.049214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Amon Carter Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404027841,
-    "wof:lastmodified":1449039262,
+    "wof:lastmodified":1467084644,
     "wof:name":"American Airlines Inc",
     "wof:parent_id":85851835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-97.049214,32.834616,-97.049214,32.834616],
-  "geometry": {"coordinates":[-97.049214,32.834616],"type":"Point"}
+  "bbox": [
+    -97.049214,
+    32.834616,
+    -97.049214,
+    32.834616
+],
+  "geometry": {"coordinates":[-97.04921400000001,32.834616],"type":"Point"}
 }

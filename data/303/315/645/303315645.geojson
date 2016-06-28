@@ -2,13 +2,14 @@
   "id": 303315645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.759355,30.258311,-97.759355,30.258311",
     "geom:latitude":30.258311,
     "geom:longitude":-97.759355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Lamar Blvd Ste C",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303315645,
-    "wof:lastmodified":1449000436,
+    "wof:lastmodified":1467083806,
     "wof:name":"Watershed 5",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-97.759355,30.258311,-97.759355,30.258311],
+  "bbox": [
+    -97.759355,
+    30.258311,
+    -97.759355,
+    30.258311
+],
   "geometry": {"coordinates":[-97.759355,30.258311],"type":"Point"}
 }

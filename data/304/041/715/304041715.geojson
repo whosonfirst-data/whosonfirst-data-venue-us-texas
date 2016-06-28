@@ -2,13 +2,14 @@
   "id": 304041715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.734125,32.45132,-99.734125,32.45132",
     "geom:latitude":32.45132,
     "geom:longitude":-99.734125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Cypress St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304041715,
-    "wof:lastmodified":1449043768,
+    "wof:lastmodified":1467084664,
     "wof:name":"McKay's Bakery",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.734125,32.45132,-99.734125,32.45132],
-  "geometry": {"coordinates":[-99.734125,32.45132],"type":"Point"}
+  "bbox": [
+    -99.734125,
+    32.45132,
+    -99.734125,
+    32.45132
+],
+  "geometry": {"coordinates":[-99.73412500000001,32.45132],"type":"Point"}
 }

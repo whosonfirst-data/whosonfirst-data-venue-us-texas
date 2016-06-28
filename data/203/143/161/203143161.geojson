@@ -2,13 +2,14 @@
   "id": 203143161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.419744,29.727573,-95.419744,29.727573",
     "geom:latitude":29.727573,
     "geom:longitude":-95.419744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 North Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203143161,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1467084414,
     "wof:name":"North Boulevard Apartments",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.419744,29.727573,-95.419744,29.727573],
-  "geometry": {"coordinates":[-95.419744,29.727573],"type":"Point"}
+  "bbox": [
+    -95.419744,
+    29.727573,
+    -95.419744,
+    29.727573
+],
+  "geometry": {"coordinates":[-95.41974399999999,29.727573],"type":"Point"}
 }

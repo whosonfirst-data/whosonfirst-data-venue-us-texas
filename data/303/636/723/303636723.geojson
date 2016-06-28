@@ -2,13 +2,14 @@
   "id": 303636723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741999,30.150122,-97.741999,30.150122",
     "geom:latitude":30.150122,
     "geom:longitude":-97.741999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6728 Cornish Hen Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303636723,
-    "wof:lastmodified":1448999091,
+    "wof:lastmodified":1467083740,
     "wof:name":"Central Texas Varmint Removal",
     "wof:parent_id":85893569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.741999,30.150122,-97.741999,30.150122],
-  "geometry": {"coordinates":[-97.741999,30.150122],"type":"Point"}
+  "bbox": [
+    -97.741999,
+    30.150122,
+    -97.741999,
+    30.150122
+],
+  "geometry": {"coordinates":[-97.74199900000001,30.150122],"type":"Point"}
 }

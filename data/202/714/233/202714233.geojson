@@ -2,13 +2,14 @@
   "id": 202714233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.770028,30.092687,-93.770028,30.092687",
     "geom:latitude":30.092687,
     "geom:longitude":-93.770028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Circle D St",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202714233,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1467084914,
     "wof:name":"James Jewelry",
     "wof:parent_id":85841777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-93.770028,30.092687,-93.770028,30.092687],
+  "bbox": [
+    -93.770028,
+    30.092687,
+    -93.770028,
+    30.092687
+],
   "geometry": {"coordinates":[-93.770028,30.092687],"type":"Point"}
 }

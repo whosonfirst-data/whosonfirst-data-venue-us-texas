@@ -2,13 +2,14 @@
   "id": 220004537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730307,30.357857,-97.730307,30.357857",
     "geom:latitude":30.357857,
     "geom:longitude":-97.730307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7915 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220004537,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1467085183,
     "wof:name":"Batteries Plus",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.730307,30.357857,-97.730307,30.357857],
+  "bbox": [
+    -97.730307,
+    30.357857,
+    -97.730307,
+    30.357857
+],
   "geometry": {"coordinates":[-97.730307,30.357857],"type":"Point"}
 }

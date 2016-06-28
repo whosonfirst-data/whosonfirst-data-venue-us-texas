@@ -2,13 +2,14 @@
   "id": 403782567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.620331,29.943538,-95.620331,29.943538",
     "geom:latitude":29.943538,
     "geom:longitude":-95.620331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11611 Marrs Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403782567,
-    "wof:lastmodified":1449054622,
+    "wof:lastmodified":1467084749,
     "wof:name":"Home Connections",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-95.620331,29.943538,-95.620331,29.943538],
-  "geometry": {"coordinates":[-95.620331,29.943538],"type":"Point"}
+  "bbox": [
+    -95.620331,
+    29.943538,
+    -95.620331,
+    29.943538
+],
+  "geometry": {"coordinates":[-95.62033099999999,29.943538],"type":"Point"}
 }

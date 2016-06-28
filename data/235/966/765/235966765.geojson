@@ -2,13 +2,14 @@
   "id": 235966765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.340719,32.086585,-98.340719,32.086585",
     "geom:latitude":32.086585,
     "geom:longitude":-98.340719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Church St",
     "sg:city":"Palo Pinto",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235966765,
-    "wof:lastmodified":1449008278,
+    "wof:lastmodified":1467084141,
     "wof:name":"Palo Pinto County Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.340719,32.086585,-98.340719,32.086585],
-  "geometry": {"coordinates":[-98.340719,32.086585],"type":"Point"}
+  "bbox": [
+    -98.340719,
+    32.086585,
+    -98.340719,
+    32.086585
+],
+  "geometry": {"coordinates":[-98.34071900000001,32.086585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303485191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747144,30.356768,-97.747144,30.356768",
     "geom:latitude":30.356768,
     "geom:longitude":-97.747144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 Greystone Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303485191,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1467083766,
     "wof:name":"Chinatown Restaurants",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bar"
     ]
 },
-  "bbox": [-97.747144,30.356768,-97.747144,30.356768],
-  "geometry": {"coordinates":[-97.747144,30.356768],"type":"Point"}
+  "bbox": [
+    -97.747144,
+    30.356768,
+    -97.747144,
+    30.356768
+],
+  "geometry": {"coordinates":[-97.74714400000001,30.356768],"type":"Point"}
 }

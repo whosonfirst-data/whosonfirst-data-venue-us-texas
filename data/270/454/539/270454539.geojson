@@ -2,13 +2,14 @@
   "id": 270454539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412548,29.932542,-95.412548,29.932542",
     "geom:latitude":29.932542,
     "geom:longitude":-95.412548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11427 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270454539,
-    "wof:lastmodified":1449010866,
+    "wof:lastmodified":1467084224,
     "wof:name":"North Freeway Video",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-95.412548,29.932542,-95.412548,29.932542],
+  "bbox": [
+    -95.412548,
+    29.932542,
+    -95.412548,
+    29.932542
+],
   "geometry": {"coordinates":[-95.412548,29.932542],"type":"Point"}
 }

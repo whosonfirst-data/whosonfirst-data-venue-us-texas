@@ -2,13 +2,14 @@
   "id": 269673959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750527,30.75589,-97.750527,30.75589",
     "geom:latitude":30.75589,
     "geom:longitude":-97.750527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Beaver Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269673959,
-    "wof:lastmodified":1449037084,
+    "wof:lastmodified":1467084597,
     "wof:name":"Central Texas Safety School",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "first"
     ]
 },
-  "bbox": [-97.750527,30.75589,-97.750527,30.75589],
-  "geometry": {"coordinates":[-97.750527,30.75589],"type":"Point"}
+  "bbox": [
+    -97.750527,
+    30.75589,
+    -97.750527,
+    30.75589
+],
+  "geometry": {"coordinates":[-97.75052700000001,30.75589],"type":"Point"}
 }

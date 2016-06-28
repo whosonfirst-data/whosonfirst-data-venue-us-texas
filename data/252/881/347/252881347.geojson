@@ -2,13 +2,14 @@
   "id": 252881347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.179305,26.289057,-98.179305,26.289057",
     "geom:latitude":26.289057,
     "geom:longitude":-98.179305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Freddy Gonzalez Dr",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252881347,
-    "wof:lastmodified":1449006049,
+    "wof:lastmodified":1467084083,
     "wof:name":"Palm Villas Apartments",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.179305,26.289057,-98.179305,26.289057],
+  "bbox": [
+    -98.179305,
+    26.289057,
+    -98.179305,
+    26.289057
+],
   "geometry": {"coordinates":[-98.179305,26.289057],"type":"Point"}
 }

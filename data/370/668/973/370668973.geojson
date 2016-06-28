@@ -2,13 +2,14 @@
   "id": 370668973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.420585,31.914404,-106.420585,31.914404",
     "geom:latitude":31.914404,
     "geom:longitude":-106.420585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5333 Viceroy Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370668973,
-    "wof:lastmodified":1449031444,
+    "wof:lastmodified":1467084528,
     "wof:name":"Master Mold & Die",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.420585,31.914404,-106.420585,31.914404],
+  "bbox": [
+    -106.420585,
+    31.914404,
+    -106.420585,
+    31.914404
+],
   "geometry": {"coordinates":[-106.420585,31.914404],"type":"Point"}
 }

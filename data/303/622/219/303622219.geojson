@@ -2,13 +2,14 @@
   "id": 303622219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.85611,30.308173,-97.85611,30.308173",
     "geom:latitude":30.308173,
     "geom:longitude":-97.85611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8208 Talbot Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303622219,
-    "wof:lastmodified":1449000121,
+    "wof:lastmodified":1467083791,
     "wof:name":"Bearden Resource Group",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "seminar"
     ]
 },
-  "bbox": [-97.85611,30.308173,-97.85611,30.308173],
+  "bbox": [
+    -97.85611,
+    30.308173,
+    -97.85611,
+    30.308173
+],
   "geometry": {"coordinates":[-97.85611,30.308173],"type":"Point"}
 }

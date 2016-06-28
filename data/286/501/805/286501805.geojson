@@ -2,13 +2,14 @@
   "id": 286501805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.55145,30.723605,-95.55145,30.723605",
     "geom:latitude":30.723605,
     "geom:longitude":-95.55145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Sam Houston Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286501805,
-    "wof:lastmodified":1449018106,
+    "wof:lastmodified":1467084317,
     "wof:name":"Cafe Texan",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-95.55145,30.723605,-95.55145,30.723605],
+  "bbox": [
+    -95.55145,
+    30.723605,
+    -95.55145,
+    30.723605
+],
   "geometry": {"coordinates":[-95.55145,30.723605],"type":"Point"}
 }

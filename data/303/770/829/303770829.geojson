@@ -2,13 +2,14 @@
   "id": 303770829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729948,30.372336,-97.729948,30.372336",
     "geom:latitude":30.372336,
     "geom:longitude":-97.729948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8822 Mccann Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303770829,
-    "wof:lastmodified":1449000615,
+    "wof:lastmodified":1467083815,
     "wof:name":"Austin Antique Mall",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.729948,30.372336,-97.729948,30.372336],
-  "geometry": {"coordinates":[-97.729948,30.372336],"type":"Point"}
+  "bbox": [
+    -97.729948,
+    30.372336,
+    -97.729948,
+    30.372336
+],
+  "geometry": {"coordinates":[-97.72994799999999,30.372336],"type":"Point"}
 }

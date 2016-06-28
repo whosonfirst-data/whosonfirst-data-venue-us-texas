@@ -2,13 +2,14 @@
   "id": 370904371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.210507,30.021418,-99.210507,30.021418",
     "geom:latitude":30.021418,
     "geom:longitude":-99.210507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Four Bears Trl",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370904371,
-    "wof:lastmodified":1449032556,
+    "wof:lastmodified":1467084556,
     "wof:name":"West Kerr Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.210507,30.021418,-99.210507,30.021418],
-  "geometry": {"coordinates":[-99.210507,30.021418],"type":"Point"}
+  "bbox": [
+    -99.210507,
+    30.021418,
+    -99.210507,
+    30.021418
+],
+  "geometry": {"coordinates":[-99.21050700000001,30.021418],"type":"Point"}
 }

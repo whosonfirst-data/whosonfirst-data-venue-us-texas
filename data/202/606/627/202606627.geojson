@@ -2,13 +2,14 @@
   "id": 202606627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.565812,29.704062,-95.565812,29.704062",
     "geom:latitude":29.704062,
     "geom:longitude":-95.565812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10518 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202606627,
-    "wof:lastmodified":1449060498,
+    "wof:lastmodified":1467084896,
     "wof:name":"City Of Houston",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.565812,29.704062,-95.565812,29.704062],
-  "geometry": {"coordinates":[-95.565812,29.704062],"type":"Point"}
+  "bbox": [
+    -95.565812,
+    29.704062,
+    -95.565812,
+    29.704062
+],
+  "geometry": {"coordinates":[-95.56581199999999,29.704062],"type":"Point"}
 }

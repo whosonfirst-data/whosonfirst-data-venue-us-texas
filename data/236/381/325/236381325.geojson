@@ -2,13 +2,14 @@
   "id": 236381325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.460029,31.782652,-106.460029,31.782652",
     "geom:latitude":31.782652,
     "geom:longitude":-106.460029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Tularosa Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236381325,
-    "wof:lastmodified":1449001875,
+    "wof:lastmodified":1467083869,
     "wof:name":"AUS Svc",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-106.460029,31.782652,-106.460029,31.782652],
-  "geometry": {"coordinates":[-106.460029,31.782652],"type":"Point"}
+  "bbox": [
+    -106.460029,
+    31.782652,
+    -106.460029,
+    31.782652
+],
+  "geometry": {"coordinates":[-106.46002900000001,31.782652],"type":"Point"}
 }

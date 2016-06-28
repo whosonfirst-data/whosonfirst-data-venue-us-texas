@@ -2,13 +2,14 @@
   "id": 185909127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.8363,32.972108,-102.8363,32.972108",
     "geom:latitude":32.972108,
     "geom:longitude":-102.8363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Mustang Dr",
     "sg:city":"Denver City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185909127,
-    "wof:lastmodified":1449007822,
+    "wof:lastmodified":1467084132,
     "wof:name":"Walsh & Watts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-102.8363,32.972108,-102.8363,32.972108],
-  "geometry": {"coordinates":[-102.8363,32.972108],"type":"Point"}
+  "bbox": [
+    -102.8363,
+    32.972108,
+    -102.8363,
+    32.972108
+],
+  "geometry": {"coordinates":[-102.83629999999999,32.972108],"type":"Point"}
 }

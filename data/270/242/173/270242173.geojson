@@ -2,13 +2,14 @@
   "id": 270242173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400327,29.890283,-95.400327,29.890283",
     "geom:latitude":29.890283,
     "geom:longitude":-95.400327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9110 Rockcliff Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270242173,
-    "wof:lastmodified":1449010804,
+    "wof:lastmodified":1467084221,
     "wof:name":"Affordable Appliance Repair",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-95.400327,29.890283,-95.400327,29.890283],
+  "bbox": [
+    -95.400327,
+    29.890283,
+    -95.400327,
+    29.890283
+],
   "geometry": {"coordinates":[-95.400327,29.890283],"type":"Point"}
 }

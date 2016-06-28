@@ -2,13 +2,14 @@
   "id": 353716265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.90081,32.488355,-96.90081,32.488355",
     "geom:latitude":32.488355,
     "geom:longitude":-96.90081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Black Champ Rd",
     "sg:city":"Waxahachie",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353716265,
-    "wof:lastmodified":1449018614,
+    "wof:lastmodified":1467084329,
     "wof:name":"Freeman Home Repair Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.90081,32.488355,-96.90081,32.488355],
-  "geometry": {"coordinates":[-96.90081,32.488355],"type":"Point"}
+  "bbox": [
+    -96.90081,
+    32.488355,
+    -96.90081,
+    32.488355
+],
+  "geometry": {"coordinates":[-96.90081000000001,32.488355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303285505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725006,30.251167,-97.725006,30.251167",
     "geom:latitude":30.251167,
     "geom:longitude":-97.725006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Riverview St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303285505,
-    "wof:lastmodified":1448998190,
+    "wof:lastmodified":1467083694,
     "wof:name":"MINIMIS",
     "wof:parent_id":85869933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [-97.725006,30.251167,-97.725006,30.251167],
-  "geometry": {"coordinates":[-97.725006,30.251167],"type":"Point"}
+  "bbox": [
+    -97.725006,
+    30.251167,
+    -97.725006,
+    30.251167
+],
+  "geometry": {"coordinates":[-97.72500599999999,30.251167],"type":"Point"}
 }

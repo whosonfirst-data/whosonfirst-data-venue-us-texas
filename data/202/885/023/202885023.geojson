@@ -2,13 +2,14 @@
   "id": 202885023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536582,31.820798,-106.536582,31.820798",
     "geom:latitude":31.820798,
     "geom:longitude":-106.536582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Marthmont Way",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202885023,
-    "wof:lastmodified":1449061460,
+    "wof:lastmodified":1467084916,
     "wof:name":"Miller Assoc",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.536582,31.820798,-106.536582,31.820798],
+  "bbox": [
+    -106.536582,
+    31.820798,
+    -106.536582,
+    31.820798
+],
   "geometry": {"coordinates":[-106.536582,31.820798],"type":"Point"}
 }

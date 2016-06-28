@@ -2,13 +2,14 @@
   "id": 185928601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.512287,29.356601,-98.512287,29.356601",
     "geom:latitude":29.356601,
     "geom:longitude":-98.512287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 SW Military Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185928601,
-    "wof:lastmodified":1449007994,
+    "wof:lastmodified":1467084136,
     "wof:name":"Monarch Dental Associates Inc",
     "wof:parent_id":85851961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.512287,29.356601,-98.512287,29.356601],
+  "bbox": [
+    -98.512287,
+    29.356601,
+    -98.512287,
+    29.356601
+],
   "geometry": {"coordinates":[-98.512287,29.356601],"type":"Point"}
 }

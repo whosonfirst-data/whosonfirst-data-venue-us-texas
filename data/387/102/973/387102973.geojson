@@ -2,13 +2,14 @@
   "id": 387102973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.865045,32.866544,-96.865045,32.866544",
     "geom:latitude":32.866544,
     "geom:longitude":-96.865045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Lombardy Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387102973,
-    "wof:lastmodified":1449059635,
+    "wof:lastmodified":1467084875,
     "wof:name":"Ace Auto Glass",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.865045,32.866544,-96.865045,32.866544],
-  "geometry": {"coordinates":[-96.865045,32.866544],"type":"Point"}
+  "bbox": [
+    -96.865045,
+    32.866544,
+    -96.865045,
+    32.866544
+],
+  "geometry": {"coordinates":[-96.86504499999999,32.866544],"type":"Point"}
 }

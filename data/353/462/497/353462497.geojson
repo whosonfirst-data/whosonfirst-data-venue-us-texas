@@ -2,13 +2,14 @@
   "id": 353462497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.084228,31.995769,-102.084228,31.995769",
     "geom:latitude":31.995769,
     "geom:longitude":-102.084228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Missouri Ave",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353462497,
-    "wof:lastmodified":1449020681,
+    "wof:lastmodified":1467084373,
     "wof:name":"Home Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-102.084228,31.995769,-102.084228,31.995769],
+  "bbox": [
+    -102.084228,
+    31.995769,
+    -102.084228,
+    31.995769
+],
   "geometry": {"coordinates":[-102.084228,31.995769],"type":"Point"}
 }

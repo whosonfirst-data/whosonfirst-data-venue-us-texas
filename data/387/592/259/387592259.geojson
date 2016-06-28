@@ -2,13 +2,14 @@
   "id": 387592259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455566,29.627322,-95.455566,29.627322",
     "geom:latitude":29.627322,
     "geom:longitude":-95.455566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4935 W Orem Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387592259,
-    "wof:lastmodified":1449058291,
+    "wof:lastmodified":1467084840,
     "wof:name":"Chrome Zone",
     "wof:parent_id":85869167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.455566,29.627322,-95.455566,29.627322],
+  "bbox": [
+    -95.455566,
+    29.627322,
+    -95.455566,
+    29.627322
+],
   "geometry": {"coordinates":[-95.455566,29.627322],"type":"Point"}
 }

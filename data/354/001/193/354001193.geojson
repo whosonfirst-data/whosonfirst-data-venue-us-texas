@@ -2,13 +2,14 @@
   "id": 354001193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.535355,29.398394,-98.535355,29.398394",
     "geom:latitude":29.398394,
     "geom:longitude":-98.535355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 Harriman Pl",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354001193,
-    "wof:lastmodified":1449066311,
+    "wof:lastmodified":1467085060,
     "wof:name":"Circle B Trucking",
     "wof:parent_id":85841513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.535355,29.398394,-98.535355,29.398394],
+  "bbox": [
+    -98.535355,
+    29.398394,
+    -98.535355,
+    29.398394
+],
   "geometry": {"coordinates":[-98.535355,29.398394],"type":"Point"}
 }

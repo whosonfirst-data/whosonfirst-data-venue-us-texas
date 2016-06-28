@@ -2,13 +2,14 @@
   "id": 253125415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769923,32.925163,-96.769923,32.925163",
     "geom:latitude":32.925163,
     "geom:longitude":-96.769923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7995 LBJ Fwy Suite114",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":253125415,
-    "wof:lastmodified":1449065697,
+    "wof:lastmodified":1467085043,
     "wof:name":"Diamond & Gold Exchange",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.769923,32.925163,-96.769923,32.925163],
-  "geometry": {"coordinates":[-96.769923,32.925163],"type":"Point"}
+  "bbox": [
+    -96.769923,
+    32.925163,
+    -96.769923,
+    32.925163
+],
+  "geometry": {"coordinates":[-96.76992300000001,32.925163],"type":"Point"}
 }

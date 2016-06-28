@@ -2,13 +2,14 @@
   "id": 236801631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.316071,30.595297,-96.316071,30.595297",
     "geom:latitude":30.595297,
     "geom:longitude":-96.316071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Arboles Cir",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236801631,
-    "wof:lastmodified":1449004548,
+    "wof:lastmodified":1467084005,
     "wof:name":"Dalton Design",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.316071,30.595297,-96.316071,30.595297],
-  "geometry": {"coordinates":[-96.316071,30.595297],"type":"Point"}
+  "bbox": [
+    -96.316071,
+    30.595297,
+    -96.316071,
+    30.595297
+],
+  "geometry": {"coordinates":[-96.31607099999999,30.595297],"type":"Point"}
 }

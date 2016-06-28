@@ -2,13 +2,14 @@
   "id": 303757513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739553,30.318864,-97.739553,30.318864",
     "geom:latitude":30.318864,
     "geom:longitude":-97.739553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Burnet Rd Ste C-300",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303757513,
-    "wof:lastmodified":1448999501,
+    "wof:lastmodified":1467083761,
     "wof:name":"Blue Star Cafeteria",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-97.739553,30.318864,-97.739553,30.318864],
+  "bbox": [
+    -97.739553,
+    30.318864,
+    -97.739553,
+    30.318864
+],
   "geometry": {"coordinates":[-97.739553,30.318864],"type":"Point"}
 }

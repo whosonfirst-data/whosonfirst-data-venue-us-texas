@@ -2,13 +2,14 @@
   "id": 303300043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752415,30.275845,-97.752415,30.275845",
     "geom:latitude":30.275845,
     "geom:longitude":-97.752415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 N Lamar Blvd Ste E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303300043,
-    "wof:lastmodified":1448999498,
+    "wof:lastmodified":1467083760,
     "wof:name":"Wink",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "american"
     ]
 },
-  "bbox": [-97.752415,30.275845,-97.752415,30.275845],
+  "bbox": [
+    -97.752415,
+    30.275845,
+    -97.752415,
+    30.275845
+],
   "geometry": {"coordinates":[-97.752415,30.275845],"type":"Point"}
 }

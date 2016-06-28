@@ -2,13 +2,14 @@
   "id": 403887373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.551328,29.685925,-95.551328,29.685925",
     "geom:latitude":29.685925,
     "geom:longitude":-95.551328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10110 Club Creek Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403887373,
-    "wof:lastmodified":1449055694,
+    "wof:lastmodified":1467084774,
     "wof:name":"Angel Trucking",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.551328,29.685925,-95.551328,29.685925],
+  "bbox": [
+    -95.551328,
+    29.685925,
+    -95.551328,
+    29.685925
+],
   "geometry": {"coordinates":[-95.551328,29.685925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303560177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736516,30.236001,-97.736516,30.236001",
     "geom:latitude":30.236001,
     "geom:longitude":-97.736516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Mariposa Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303560177,
-    "wof:lastmodified":1448999986,
+    "wof:lastmodified":1467083784,
     "wof:name":"Adcock Health Resources",
     "wof:parent_id":85869951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.736516,30.236001,-97.736516,30.236001],
-  "geometry": {"coordinates":[-97.736516,30.236001],"type":"Point"}
+  "bbox": [
+    -97.736516,
+    30.236001,
+    -97.736516,
+    30.236001
+],
+  "geometry": {"coordinates":[-97.73651599999999,30.236001],"type":"Point"}
 }

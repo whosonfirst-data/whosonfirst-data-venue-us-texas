@@ -2,13 +2,14 @@
   "id": 370385987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.550018,30.411771,-95.550018,30.411771",
     "geom:latitude":30.411771,
     "geom:longitude":-95.550018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12269 Maggie Ln",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370385987,
-    "wof:lastmodified":1449031089,
+    "wof:lastmodified":1467084519,
     "wof:name":"Joe Worthy Ranches",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.550018,30.411771,-95.550018,30.411771],
-  "geometry": {"coordinates":[-95.550018,30.411771],"type":"Point"}
+  "bbox": [
+    -95.550018,
+    30.411771,
+    -95.550018,
+    30.411771
+],
+  "geometry": {"coordinates":[-95.55001799999999,30.411771],"type":"Point"}
 }

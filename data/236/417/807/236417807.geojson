@@ -2,13 +2,14 @@
   "id": 236417807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.542387,29.467126,-98.542387,29.467126",
     "geom:latitude":29.467126,
     "geom:longitude":-98.542387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Thomas Jefferson Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236417807,
-    "wof:lastmodified":1449002916,
+    "wof:lastmodified":1467083929,
     "wof:name":"McInnis Studio",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.542387,29.467126,-98.542387,29.467126],
-  "geometry": {"coordinates":[-98.542387,29.467126],"type":"Point"}
+  "bbox": [
+    -98.542387,
+    29.467126,
+    -98.542387,
+    29.467126
+],
+  "geometry": {"coordinates":[-98.54238700000001,29.467126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236237799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.137324,32.76509,-97.137324,32.76509",
     "geom:latitude":32.76509,
     "geom:longitude":-97.137324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Briarcrest Ln",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236237799,
-    "wof:lastmodified":1449001740,
+    "wof:lastmodified":1467083858,
     "wof:name":"Fort Worth Tennis Assn",
     "wof:parent_id":85897309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-97.137324,32.76509,-97.137324,32.76509],
-  "geometry": {"coordinates":[-97.137324,32.76509],"type":"Point"}
+  "bbox": [
+    -97.137324,
+    32.76509,
+    -97.137324,
+    32.76509
+],
+  "geometry": {"coordinates":[-97.13732400000001,32.76509],"type":"Point"}
 }

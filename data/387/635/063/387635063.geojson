@@ -2,13 +2,14 @@
   "id": 387635063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.505587,29.843719,-95.505587,29.843719",
     "geom:latitude":29.843719,
     "geom:longitude":-95.505587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7676 Hillmont St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387635063,
-    "wof:lastmodified":1449057755,
+    "wof:lastmodified":1467084826,
     "wof:name":"Pocket Soft Inc",
     "wof:parent_id":85869555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.505587,29.843719,-95.505587,29.843719],
-  "geometry": {"coordinates":[-95.505587,29.843719],"type":"Point"}
+  "bbox": [
+    -95.505587,
+    29.843719,
+    -95.505587,
+    29.843719
+],
+  "geometry": {"coordinates":[-95.50558700000001,29.843719],"type":"Point"}
 }

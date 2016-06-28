@@ -2,13 +2,14 @@
   "id": 236335123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.435617,29.53196,-98.435617,29.53196",
     "geom:latitude":29.53196,
     "geom:longitude":-98.435617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9706 Titan Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236335123,
-    "wof:lastmodified":1449003903,
+    "wof:lastmodified":1467083975,
     "wof:name":"Active Living Personal Trng",
     "wof:parent_id":85831321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trainer"
     ]
 },
-  "bbox": [-98.435617,29.53196,-98.435617,29.53196],
-  "geometry": {"coordinates":[-98.435617,29.53196],"type":"Point"}
+  "bbox": [
+    -98.435617,
+    29.53196,
+    -98.435617,
+    29.53196
+],
+  "geometry": {"coordinates":[-98.43561699999999,29.53196],"type":"Point"}
 }

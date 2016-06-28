@@ -2,13 +2,14 @@
   "id": 252820441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.133041,32.683267,-97.133041,32.683267",
     "geom:latitude":32.683267,
     "geom:longitude":-97.133041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3851 S Cooper St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252820441,
-    "wof:lastmodified":1449005982,
+    "wof:lastmodified":1467084079,
     "wof:name":"Tri Vuoung OD",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.133041,32.683267,-97.133041,32.683267],
-  "geometry": {"coordinates":[-97.133041,32.683267],"type":"Point"}
+  "bbox": [
+    -97.133041,
+    32.683267,
+    -97.133041,
+    32.683267
+],
+  "geometry": {"coordinates":[-97.13304100000001,32.683267],"type":"Point"}
 }

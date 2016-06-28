@@ -2,13 +2,14 @@
   "id": 354182003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.378811,32.726117,-97.378811,32.726117",
     "geom:latitude":32.726117,
     "geom:longitude":-97.378811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4226 W Vickery Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354182003,
-    "wof:lastmodified":1449067044,
+    "wof:lastmodified":1467085079,
     "wof:name":"Family Dry Cleaners",
     "wof:parent_id":85871597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.378811,32.726117,-97.378811,32.726117],
+  "bbox": [
+    -97.378811,
+    32.726117,
+    -97.378811,
+    32.726117
+],
   "geometry": {"coordinates":[-97.378811,32.726117],"type":"Point"}
 }

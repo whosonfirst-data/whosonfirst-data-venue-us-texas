@@ -2,13 +2,14 @@
   "id": 303754417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738699,30.326983,-97.738699,30.326983",
     "geom:latitude":30.326983,
     "geom:longitude":-97.738699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5403 Jeff Davis Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303754417,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1467083772,
     "wof:name":"Casa Del Sol",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.738699,30.326983,-97.738699,30.326983],
+  "bbox": [
+    -97.738699,
+    30.326983,
+    -97.738699,
+    30.326983
+],
   "geometry": {"coordinates":[-97.738699,30.326983],"type":"Point"}
 }

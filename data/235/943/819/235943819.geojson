@@ -2,13 +2,14 @@
   "id": 235943819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498511,25.900208,-97.498511,25.900208",
     "geom:latitude":25.900208,
     "geom:longitude":-97.498511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Levee St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235943819,
-    "wof:lastmodified":1449008341,
+    "wof:lastmodified":1467084142,
     "wof:name":"Gateway Parking",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.498511,25.900208,-97.498511,25.900208],
-  "geometry": {"coordinates":[-97.498511,25.900208],"type":"Point"}
+  "bbox": [
+    -97.498511,
+    25.900208,
+    -97.498511,
+    25.900208
+],
+  "geometry": {"coordinates":[-97.49851099999999,25.900208],"type":"Point"}
 }

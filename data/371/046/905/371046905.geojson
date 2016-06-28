@@ -2,13 +2,14 @@
   "id": 371046905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509479,29.582517,-98.509479,29.582517",
     "geom:latitude":29.582517,
     "geom:longitude":-98.509479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Sugar Pine St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371046905,
-    "wof:lastmodified":1449049633,
+    "wof:lastmodified":1467084681,
     "wof:name":"PNC Svc Inc",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.509479,29.582517,-98.509479,29.582517],
+  "bbox": [
+    -98.509479,
+    29.582517,
+    -98.509479,
+    29.582517
+],
   "geometry": {"coordinates":[-98.509479,29.582517],"type":"Point"}
 }

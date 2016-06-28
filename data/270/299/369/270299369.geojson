@@ -2,13 +2,14 @@
   "id": 270299369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.557897,29.80094,-95.557897,29.80094",
     "geom:latitude":29.80094,
     "geom:longitude":-95.557897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Townhurst Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270299369,
-    "wof:lastmodified":1449009245,
+    "wof:lastmodified":1467084169,
     "wof:name":"FSI-Houston",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-95.557897,29.80094,-95.557897,29.80094],
+  "bbox": [
+    -95.557897,
+    29.80094,
+    -95.557897,
+    29.80094
+],
   "geometry": {"coordinates":[-95.557897,29.80094],"type":"Point"}
 }

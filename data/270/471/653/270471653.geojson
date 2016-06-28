@@ -2,13 +2,14 @@
   "id": 270471653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52057,29.732987,-95.52057,29.732987",
     "geom:latitude":29.732987,
     "geom:longitude":-95.52057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8944A Clarkcrest St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270471653,
-    "wof:lastmodified":1449009615,
+    "wof:lastmodified":1467084182,
     "wof:name":"Theatre Southwest",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-95.52057,29.732987,-95.52057,29.732987],
-  "geometry": {"coordinates":[-95.52057,29.732987],"type":"Point"}
+  "bbox": [
+    -95.52057,
+    29.732987,
+    -95.52057,
+    29.732987
+],
+  "geometry": {"coordinates":[-95.52057000000001,29.732987],"type":"Point"}
 }

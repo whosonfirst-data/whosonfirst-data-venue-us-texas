@@ -2,13 +2,14 @@
   "id": 287129387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.521262,27.524713,-99.521262,27.524713",
     "geom:latitude":27.524713,
     "geom:longitude":-99.521262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Anna Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":287129387,
-    "wof:lastmodified":1449001383,
+    "wof:lastmodified":1467083842,
     "wof:name":"American Tower Corp.",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "communications-common"
     ]
 },
-  "bbox": [-99.521262,27.524713,-99.521262,27.524713],
-  "geometry": {"coordinates":[-99.521262,27.524713],"type":"Point"}
+  "bbox": [
+    -99.521262,
+    27.524713,
+    -99.521262,
+    27.524713
+],
+  "geometry": {"coordinates":[-99.52126199999999,27.524713],"type":"Point"}
 }

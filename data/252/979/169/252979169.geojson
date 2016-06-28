@@ -2,13 +2,14 @@
   "id": 252979169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7416,32.866199,-96.7416,32.866199",
     "geom:latitude":32.866199,
     "geom:longitude":-96.7416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 Skillman St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252979169,
-    "wof:lastmodified":1449006164,
+    "wof:lastmodified":1467084089,
     "wof:name":"Security Self Storage",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-96.7416,32.866199,-96.7416,32.866199],
-  "geometry": {"coordinates":[-96.7416,32.866199],"type":"Point"}
+  "bbox": [
+    -96.7416,
+    32.866199,
+    -96.7416,
+    32.866199
+],
+  "geometry": {"coordinates":[-96.74160000000001,32.866199],"type":"Point"}
 }

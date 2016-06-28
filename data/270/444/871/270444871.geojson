@@ -2,13 +2,14 @@
   "id": 270444871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.100351,29.546325,-95.100351,29.546325",
     "geom:latitude":29.546325,
     "geom:longitude":-95.100351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Space Park Dr Ste A2",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270444871,
-    "wof:lastmodified":1449010752,
+    "wof:lastmodified":1467084220,
     "wof:name":"Watco Management Inc",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.100351,29.546325,-95.100351,29.546325],
+  "bbox": [
+    -95.100351,
+    29.546325,
+    -95.100351,
+    29.546325
+],
   "geometry": {"coordinates":[-95.100351,29.546325],"type":"Point"}
 }

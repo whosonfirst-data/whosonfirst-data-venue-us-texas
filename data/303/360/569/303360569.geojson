@@ -2,13 +2,14 @@
   "id": 303360569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736674,30.293671,-97.736674,30.293671",
     "geom:latitude":30.293671,
     "geom:longitude":-97.736674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 30th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303360569,
-    "wof:lastmodified":1449000004,
+    "wof:lastmodified":1467083785,
     "wof:name":"Adams-Hemphill Park",
     "wof:parent_id":85869907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camping"
     ]
 },
-  "bbox": [-97.736674,30.293671,-97.736674,30.293671],
-  "geometry": {"coordinates":[-97.736674,30.293671],"type":"Point"}
+  "bbox": [
+    -97.736674,
+    30.293671,
+    -97.736674,
+    30.293671
+],
+  "geometry": {"coordinates":[-97.73667399999999,30.293671],"type":"Point"}
 }

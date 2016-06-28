@@ -2,13 +2,14 @@
   "id": 353844543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.408014,29.694032,-95.408014,29.694032",
     "geom:latitude":29.694032,
     "geom:longitude":-95.408014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 N Stadium Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353844543,
-    "wof:lastmodified":1449019334,
+    "wof:lastmodified":1467084345,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.408014,29.694032,-95.408014,29.694032],
-  "geometry": {"coordinates":[-95.408014,29.694032],"type":"Point"}
+  "bbox": [
+    -95.408014,
+    29.694032,
+    -95.408014,
+    29.694032
+],
+  "geometry": {"coordinates":[-95.40801399999999,29.694032],"type":"Point"}
 }

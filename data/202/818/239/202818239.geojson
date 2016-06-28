@@ -2,13 +2,14 @@
   "id": 202818239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.632635,27.856226,-97.632635,27.856226",
     "geom:latitude":27.856226,
     "geom:longitude":-97.632635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13630 Northwest Blvd",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202818239,
-    "wof:lastmodified":1449061366,
+    "wof:lastmodified":1467084914,
     "wof:name":"Wells Fargo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.632635,27.856226,-97.632635,27.856226],
-  "geometry": {"coordinates":[-97.632635,27.856226],"type":"Point"}
+  "bbox": [
+    -97.632635,
+    27.856226,
+    -97.632635,
+    27.856226
+],
+  "geometry": {"coordinates":[-97.63263499999999,27.856226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370982243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.204547,30.072675,-99.204547,30.072675",
     "geom:latitude":30.072675,
     "geom:longitude":-99.204547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Junction Hwy",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370982243,
-    "wof:lastmodified":1449029665,
+    "wof:lastmodified":1467084483,
     "wof:name":"AAST Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-99.204547,30.072675,-99.204547,30.072675],
-  "geometry": {"coordinates":[-99.204547,30.072675],"type":"Point"}
+  "bbox": [
+    -99.204547,
+    30.072675,
+    -99.204547,
+    30.072675
+],
+  "geometry": {"coordinates":[-99.20454700000001,30.072675],"type":"Point"}
 }

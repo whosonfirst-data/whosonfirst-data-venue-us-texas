@@ -2,13 +2,14 @@
   "id": 303394643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706038,30.307464,-97.706038,30.307464",
     "geom:latitude":30.307464,
     "geom:longitude":-97.706038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 E 51st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303394643,
-    "wof:lastmodified":1448998591,
+    "wof:lastmodified":1467083715,
     "wof:name":"Mater Regina",
     "wof:parent_id":85893565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-97.706038,30.307464,-97.706038,30.307464],
-  "geometry": {"coordinates":[-97.706038,30.307464],"type":"Point"}
+  "bbox": [
+    -97.706038,
+    30.307464,
+    -97.706038,
+    30.307464
+],
+  "geometry": {"coordinates":[-97.70603800000001,30.307464],"type":"Point"}
 }

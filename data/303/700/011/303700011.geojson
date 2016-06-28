@@ -2,13 +2,14 @@
   "id": 303700011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713073,30.31104,-97.713073,30.31104",
     "geom:latitude":30.31104,
     "geom:longitude":-97.713073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 E 51st St Ste 101",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303700011,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1467083802,
     "wof:name":"On-Demand Support Services",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.713073,30.31104,-97.713073,30.31104],
-  "geometry": {"coordinates":[-97.713073,30.31104],"type":"Point"}
+  "bbox": [
+    -97.713073,
+    30.31104,
+    -97.713073,
+    30.31104
+],
+  "geometry": {"coordinates":[-97.71307299999999,30.31104],"type":"Point"}
 }

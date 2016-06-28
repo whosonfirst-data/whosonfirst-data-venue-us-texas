@@ -2,13 +2,14 @@
   "id": 270055913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.330498,29.72359,-95.330498,29.72359",
     "geom:latitude":29.72359,
     "geom:longitude":-95.330498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4840 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":270055913,
-    "wof:lastmodified":1449009171,
+    "wof:lastmodified":1467084167,
     "wof:name":"Ferguson 455",
     "wof:parent_id":85893761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.330498,29.72359,-95.330498,29.72359],
-  "geometry": {"coordinates":[-95.330498,29.72359],"type":"Point"}
+  "bbox": [
+    -95.330498,
+    29.72359,
+    -95.330498,
+    29.72359
+],
+  "geometry": {"coordinates":[-95.33049800000001,29.72359],"type":"Point"}
 }

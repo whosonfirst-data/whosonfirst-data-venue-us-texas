@@ -2,13 +2,14 @@
   "id": 253021683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.788693,30.161225,-97.788693,30.161225",
     "geom:latitude":30.161225,
     "geom:longitude":-97.788693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10019 S I- 35",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":253021683,
-    "wof:lastmodified":1449064684,
+    "wof:lastmodified":1467085009,
     "wof:name":"Hill Country Springs Inc",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "distributor"
     ]
 },
-  "bbox": [-97.788693,30.161225,-97.788693,30.161225],
-  "geometry": {"coordinates":[-97.788693,30.161225],"type":"Point"}
+  "bbox": [
+    -97.788693,
+    30.161225,
+    -97.788693,
+    30.161225
+],
+  "geometry": {"coordinates":[-97.78869299999999,30.161225],"type":"Point"}
 }

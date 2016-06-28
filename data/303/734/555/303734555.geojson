@@ -2,13 +2,14 @@
   "id": 303734555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.684237,30.368711,-97.684237,30.368711",
     "geom:latitude":30.368711,
     "geom:longitude":-97.684237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Rundberg Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303734555,
-    "wof:lastmodified":1449000256,
+    "wof:lastmodified":1467083797,
     "wof:name":"Rundberg Grocery",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.684237,30.368711,-97.684237,30.368711],
+  "bbox": [
+    -97.684237,
+    30.368711,
+    -97.684237,
+    30.368711
+],
   "geometry": {"coordinates":[-97.684237,30.368711],"type":"Point"}
 }

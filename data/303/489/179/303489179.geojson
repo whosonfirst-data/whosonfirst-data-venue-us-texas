@@ -2,13 +2,14 @@
   "id": 303489179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.884819,30.380825,-97.884819,30.380825",
     "geom:latitude":30.380825,
     "geom:longitude":-97.884819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 N Quinlan Park Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303489179,
-    "wof:lastmodified":1448999458,
+    "wof:lastmodified":1467083758,
     "wof:name":"Quail Ridge Mobilehome Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-97.884819,30.380825,-97.884819,30.380825],
-  "geometry": {"coordinates":[-97.884819,30.380825],"type":"Point"}
+  "bbox": [
+    -97.884819,
+    30.380825,
+    -97.884819,
+    30.380825
+],
+  "geometry": {"coordinates":[-97.88481899999999,30.380825],"type":"Point"}
 }

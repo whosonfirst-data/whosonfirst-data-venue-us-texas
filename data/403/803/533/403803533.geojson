@@ -2,13 +2,14 @@
   "id": 403803533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.260061,29.584142,-98.260061,29.584142",
     "geom:latitude":29.584142,
     "geom:longitude":-98.260061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Red Cedar Cove",
     "sg:city":"Schertz",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403803533,
-    "wof:lastmodified":1449055980,
+    "wof:lastmodified":1467084781,
     "wof:name":"Bluebird Environmental Service",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.260061,29.584142,-98.260061,29.584142],
-  "geometry": {"coordinates":[-98.260061,29.584142],"type":"Point"}
+  "bbox": [
+    -98.260061,
+    29.584142,
+    -98.260061,
+    29.584142
+],
+  "geometry": {"coordinates":[-98.26006099999999,29.584142],"type":"Point"}
 }

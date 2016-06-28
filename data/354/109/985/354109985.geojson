@@ -2,13 +2,14 @@
   "id": 354109985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.470002,31.417179,-100.470002,31.417179",
     "geom:latitude":31.417179,
     "geom:longitude":-100.470002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Executive Dr",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354109985,
-    "wof:lastmodified":1449066507,
+    "wof:lastmodified":1467085065,
     "wof:name":"West Texas Renal Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-100.470002,31.417179,-100.470002,31.417179],
-  "geometry": {"coordinates":[-100.470002,31.417179],"type":"Point"}
+  "bbox": [
+    -100.470002,
+    31.417179,
+    -100.470002,
+    31.417179
+],
+  "geometry": {"coordinates":[-100.47000199999999,31.417179],"type":"Point"}
 }

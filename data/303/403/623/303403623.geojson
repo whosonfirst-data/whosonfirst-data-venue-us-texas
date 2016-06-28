@@ -2,13 +2,14 @@
   "id": 303403623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.657497,30.324694,-97.657497,30.324694",
     "geom:latitude":30.324694,
     "geom:longitude":-97.657497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8107 Springdale Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303403623,
-    "wof:lastmodified":1449000219,
+    "wof:lastmodified":1467083796,
     "wof:name":"Tucker White Co",
     "wof:parent_id":85869905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.657497,30.324694,-97.657497,30.324694],
-  "geometry": {"coordinates":[-97.657497,30.324694],"type":"Point"}
+  "bbox": [
+    -97.657497,
+    30.324694,
+    -97.657497,
+    30.324694
+],
+  "geometry": {"coordinates":[-97.65749700000001,30.324694],"type":"Point"}
 }

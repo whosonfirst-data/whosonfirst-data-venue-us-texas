@@ -2,13 +2,14 @@
   "id": 253248439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775618,32.916549,-96.775618,32.916549",
     "geom:latitude":32.916549,
     "geom:longitude":-96.775618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12404 Park Central Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":253248439,
-    "wof:lastmodified":1449064450,
+    "wof:lastmodified":1467085001,
     "wof:name":"Choristers Guild",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-96.775618,32.916549,-96.775618,32.916549],
-  "geometry": {"coordinates":[-96.775618,32.916549],"type":"Point"}
+  "bbox": [
+    -96.775618,
+    32.916549,
+    -96.775618,
+    32.916549
+],
+  "geometry": {"coordinates":[-96.77561799999999,32.916549],"type":"Point"}
 }

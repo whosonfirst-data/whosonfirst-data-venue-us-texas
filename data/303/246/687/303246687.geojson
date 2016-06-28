@@ -2,13 +2,14 @@
   "id": 303246687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745156,30.275633,-97.745156,30.275633",
     "geom:latitude":30.275633,
     "geom:longitude":-97.745156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 San Antonio Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303246687,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1467083700,
     "wof:name":"Thundercloud Subs",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "caterer"
     ]
 },
-  "bbox": [-97.745156,30.275633,-97.745156,30.275633],
-  "geometry": {"coordinates":[-97.745156,30.275633],"type":"Point"}
+  "bbox": [
+    -97.745156,
+    30.275633,
+    -97.745156,
+    30.275633
+],
+  "geometry": {"coordinates":[-97.74515599999999,30.275633],"type":"Point"}
 }

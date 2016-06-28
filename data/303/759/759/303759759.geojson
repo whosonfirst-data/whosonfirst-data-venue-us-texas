@@ -2,13 +2,14 @@
   "id": 303759759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739683,30.319942,-97.739683,30.319942",
     "geom:latitude":30.319942,
     "geom:longitude":-97.739683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 W 49th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303759759,
-    "wof:lastmodified":1449000603,
+    "wof:lastmodified":1467083815,
     "wof:name":"Austin Independent School District",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.739683,30.319942,-97.739683,30.319942],
+  "bbox": [
+    -97.739683,
+    30.319942,
+    -97.739683,
+    30.319942
+],
   "geometry": {"coordinates":[-97.739683,30.319942],"type":"Point"}
 }

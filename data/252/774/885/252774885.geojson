@@ -2,13 +2,14 @@
   "id": 252774885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811968,32.710516,-96.811968,32.710516",
     "geom:latitude":32.710516,
     "geom:longitude":-96.811968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2946 Idaho Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252774885,
-    "wof:lastmodified":1449005833,
+    "wof:lastmodified":1467084071,
     "wof:name":"Texas East Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.811968,32.710516,-96.811968,32.710516],
-  "geometry": {"coordinates":[-96.811968,32.710516],"type":"Point"}
+  "bbox": [
+    -96.811968,
+    32.710516,
+    -96.811968,
+    32.710516
+],
+  "geometry": {"coordinates":[-96.81196799999999,32.710516],"type":"Point"}
 }

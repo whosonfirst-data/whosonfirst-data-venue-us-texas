@@ -2,13 +2,14 @@
   "id": 370710667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.45341,29.589367,-98.45341,29.589367",
     "geom:latitude":29.589367,
     "geom:longitude":-98.45341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Thousand Oaks Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370710667,
-    "wof:lastmodified":1449029292,
+    "wof:lastmodified":1467084474,
     "wof:name":"Atm Outsources Inc",
     "wof:parent_id":85828145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-98.45341,29.589367,-98.45341,29.589367],
-  "geometry": {"coordinates":[-98.45341,29.589367],"type":"Point"}
+  "bbox": [
+    -98.45341,
+    29.589367,
+    -98.45341,
+    29.589367
+],
+  "geometry": {"coordinates":[-98.45341000000001,29.589367],"type":"Point"}
 }

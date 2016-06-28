@@ -2,13 +2,14 @@
   "id": 269502873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.049323,32.718701,-98.049323,32.718701",
     "geom:latitude":32.718701,
     "geom:longitude":-98.049323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 Bennett Rd",
     "sg:city":"Millsap",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":269502873,
-    "wof:lastmodified":1449037242,
+    "wof:lastmodified":1467084602,
     "wof:name":"Acme Brick Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "brick-clay-common"
     ]
 },
-  "bbox": [-98.049323,32.718701,-98.049323,32.718701],
+  "bbox": [
+    -98.049323,
+    32.718701,
+    -98.049323,
+    32.718701
+],
   "geometry": {"coordinates":[-98.049323,32.718701],"type":"Point"}
 }

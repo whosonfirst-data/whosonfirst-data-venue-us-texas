@@ -2,13 +2,14 @@
   "id": 269679625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724313,31.439514,-97.724313,31.439514",
     "geom:latitude":31.439514,
     "geom:longitude":-97.724313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Mears Dr",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269679625,
-    "wof:lastmodified":1449037674,
+    "wof:lastmodified":1467084614,
     "wof:name":"State Of Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-97.724313,31.439514,-97.724313,31.439514],
+  "bbox": [
+    -97.724313,
+    31.439514,
+    -97.724313,
+    31.439514
+],
   "geometry": {"coordinates":[-97.724313,31.439514],"type":"Point"}
 }

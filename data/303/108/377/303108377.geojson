@@ -2,13 +2,14 @@
   "id": 303108377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578499,30.139099,-97.578499,30.139099",
     "geom:latitude":30.139099,
     "geom:longitude":-97.578499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16805 High Noon St",
     "sg:city":"Del Valle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303108377,
-    "wof:lastmodified":1448998160,
+    "wof:lastmodified":1467083693,
     "wof:name":"High Noon Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.578499,30.139099,-97.578499,30.139099],
-  "geometry": {"coordinates":[-97.578499,30.139099],"type":"Point"}
+  "bbox": [
+    -97.578499,
+    30.139099,
+    -97.578499,
+    30.139099
+],
+  "geometry": {"coordinates":[-97.57849899999999,30.139099],"type":"Point"}
 }

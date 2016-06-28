@@ -2,13 +2,14 @@
   "id": 370759099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.745049,32.807995,-96.745049,32.807995",
     "geom:latitude":32.807995,
     "geom:longitude":-96.745049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Brookside Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370759099,
-    "wof:lastmodified":1449032526,
+    "wof:lastmodified":1467084555,
     "wof:name":"Koleen Shepherd",
     "wof:parent_id":85893617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.745049,32.807995,-96.745049,32.807995],
-  "geometry": {"coordinates":[-96.745049,32.807995],"type":"Point"}
+  "bbox": [
+    -96.745049,
+    32.807995,
+    -96.745049,
+    32.807995
+],
+  "geometry": {"coordinates":[-96.74504899999999,32.807995],"type":"Point"}
 }

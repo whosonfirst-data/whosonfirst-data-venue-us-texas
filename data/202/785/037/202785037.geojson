@@ -2,13 +2,14 @@
   "id": 202785037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.312504,29.688111,-95.312504,29.688111",
     "geom:latitude":29.688111,
     "geom:longitude":-95.312504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6410 Mayfair St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202785037,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1467084932,
     "wof:name":"Geophysical Electrical Supply",
     "wof:parent_id":85832957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-95.312504,29.688111,-95.312504,29.688111],
+  "bbox": [
+    -95.312504,
+    29.688111,
+    -95.312504,
+    29.688111
+],
   "geometry": {"coordinates":[-95.312504,29.688111],"type":"Point"}
 }

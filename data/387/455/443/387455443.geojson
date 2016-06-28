@@ -2,13 +2,14 @@
   "id": 387455443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.456949,31.773575,-106.456949,31.773575",
     "geom:latitude":31.773575,
     "geom:longitude":-106.456949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 Alameda Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387455443,
-    "wof:lastmodified":1449059319,
+    "wof:lastmodified":1467084867,
     "wof:name":"Ciros Flautas",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.456949,31.773575,-106.456949,31.773575],
-  "geometry": {"coordinates":[-106.456949,31.773575],"type":"Point"}
+  "bbox": [
+    -106.456949,
+    31.773575,
+    -106.456949,
+    31.773575
+],
+  "geometry": {"coordinates":[-106.45694899999999,31.773575],"type":"Point"}
 }

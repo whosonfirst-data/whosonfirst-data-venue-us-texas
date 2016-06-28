@@ -2,13 +2,14 @@
   "id": 370851169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.726212,31.339359,-94.726212,31.339359",
     "geom:latitude":31.339359,
     "geom:longitude":-94.726212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N 3rd St",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370851169,
-    "wof:lastmodified":1449031304,
+    "wof:lastmodified":1467084525,
     "wof:name":"US District Court Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-94.726212,31.339359,-94.726212,31.339359],
+  "bbox": [
+    -94.726212,
+    31.339359,
+    -94.726212,
+    31.339359
+],
   "geometry": {"coordinates":[-94.726212,31.339359],"type":"Point"}
 }

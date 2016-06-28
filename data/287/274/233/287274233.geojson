@@ -2,13 +2,14 @@
   "id": 287274233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501663,25.980934,-97.501663,25.980934",
     "geom:latitude":25.980934,
     "geom:longitude":-97.501663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Colony Trl",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":287274233,
-    "wof:lastmodified":1449000774,
+    "wof:lastmodified":1467083821,
     "wof:name":"Loya Appliance Service",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-97.501663,25.980934,-97.501663,25.980934],
-  "geometry": {"coordinates":[-97.501663,25.980934],"type":"Point"}
+  "bbox": [
+    -97.501663,
+    25.980934,
+    -97.501663,
+    25.980934
+],
+  "geometry": {"coordinates":[-97.50166299999999,25.980934],"type":"Point"}
 }

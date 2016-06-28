@@ -2,13 +2,14 @@
   "id": 202906093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.988686,32.891952,-96.988686,32.891952",
     "geom:latitude":32.891952,
     "geom:longitude":-96.988686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Campus Circle Dr W",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202906093,
-    "wof:lastmodified":1449061075,
+    "wof:lastmodified":1467084908,
     "wof:name":"Beck Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-96.988686,32.891952,-96.988686,32.891952],
+  "bbox": [
+    -96.988686,
+    32.891952,
+    -96.988686,
+    32.891952
+],
   "geometry": {"coordinates":[-96.988686,32.891952],"type":"Point"}
 }

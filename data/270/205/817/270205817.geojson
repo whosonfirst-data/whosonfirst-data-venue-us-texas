@@ -2,13 +2,14 @@
   "id": 270205817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.464955,29.656554,-95.464955,29.656554",
     "geom:latitude":29.656554,
     "geom:longitude":-95.464955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11144 S Post Oak Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270205817,
-    "wof:lastmodified":1449010113,
+    "wof:lastmodified":1467084198,
     "wof:name":"Acme Party & Tent Rental",
     "wof:parent_id":85869787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "event"
     ]
 },
-  "bbox": [-95.464955,29.656554,-95.464955,29.656554],
+  "bbox": [
+    -95.464955,
+    29.656554,
+    -95.464955,
+    29.656554
+],
   "geometry": {"coordinates":[-95.464955,29.656554],"type":"Point"}
 }

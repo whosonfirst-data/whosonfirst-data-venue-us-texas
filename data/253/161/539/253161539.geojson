@@ -2,13 +2,14 @@
   "id": 253161539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136244,30.103516,-94.136244,30.103516",
     "geom:latitude":30.103516,
     "geom:longitude":-94.136244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Eastex Fwy",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253161539,
-    "wof:lastmodified":1449063996,
+    "wof:lastmodified":1467084985,
     "wof:name":"911 Program",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [-94.136244,30.103516,-94.136244,30.103516],
+  "bbox": [
+    -94.136244,
+    30.103516,
+    -94.136244,
+    30.103516
+],
   "geometry": {"coordinates":[-94.136244,30.103516],"type":"Point"}
 }

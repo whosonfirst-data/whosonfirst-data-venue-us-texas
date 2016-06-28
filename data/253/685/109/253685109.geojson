@@ -2,13 +2,14 @@
   "id": 253685109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.417894,32.337154,-97.417894,32.337154",
     "geom:latitude":32.337154,
     "geom:longitude":-97.417894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S Westmeadow Dr",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":253685109,
-    "wof:lastmodified":1449065734,
+    "wof:lastmodified":1467085045,
     "wof:name":"American Hospice",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-97.417894,32.337154,-97.417894,32.337154],
+  "bbox": [
+    -97.417894,
+    32.337154,
+    -97.417894,
+    32.337154
+],
   "geometry": {"coordinates":[-97.417894,32.337154],"type":"Point"}
 }

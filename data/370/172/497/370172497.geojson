@@ -2,13 +2,14 @@
   "id": 370172497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.34399,33.918183,-102.34399,33.918183",
     "geom:latitude":33.918183,
     "geom:longitude":-102.34399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W 9th St",
     "sg:city":"Littlefield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370172497,
-    "wof:lastmodified":1449030450,
+    "wof:lastmodified":1467084503,
     "wof:name":"Lamb County Locker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "livestock"
     ]
 },
-  "bbox": [-102.34399,33.918183,-102.34399,33.918183],
-  "geometry": {"coordinates":[-102.34399,33.918183],"type":"Point"}
+  "bbox": [
+    -102.34399,
+    33.918183,
+    -102.34399,
+    33.918183
+],
+  "geometry": {"coordinates":[-102.34399000000001,33.918183],"type":"Point"}
 }

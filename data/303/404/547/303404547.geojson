@@ -2,13 +2,14 @@
   "id": 303404547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.628967,30.289863,-97.628967,30.289863",
     "geom:latitude":30.289863,
     "geom:longitude":-97.628967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6575 Decker Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":303404547,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1467083773,
     "wof:name":"Conoco",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.628967,30.289863,-97.628967,30.289863],
+  "bbox": [
+    -97.628967,
+    30.289863,
+    -97.628967,
+    30.289863
+],
   "geometry": {"coordinates":[-97.628967,30.289863],"type":"Point"}
 }

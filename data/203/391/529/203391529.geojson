@@ -2,13 +2,14 @@
   "id": 203391529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.02504,29.56005,-95.02504,29.56005",
     "geom:latitude":29.56005,
     "geom:longitude":-95.02504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Bayport Blvd",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203391529,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1467084408,
     "wof:name":"Texas Food & Fuel",
     "wof:parent_id":85821673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-95.02504,29.56005,-95.02504,29.56005],
+  "bbox": [
+    -95.02504,
+    29.56005,
+    -95.02504,
+    29.56005
+],
   "geometry": {"coordinates":[-95.02504,29.56005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370897833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.945698,32.723763,-94.945698,32.723763",
     "geom:latitude":32.723763,
     "geom:longitude":-94.945698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Warren St",
     "sg:city":"Gilmer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370897833,
-    "wof:lastmodified":1449031913,
+    "wof:lastmodified":1467084540,
     "wof:name":"Warren House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.945698,32.723763,-94.945698,32.723763],
-  "geometry": {"coordinates":[-94.945698,32.723763],"type":"Point"}
+  "bbox": [
+    -94.945698,
+    32.723763,
+    -94.945698,
+    32.723763
+],
+  "geometry": {"coordinates":[-94.94569799999999,32.723763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354359707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.680957,30.434749,-97.680957,30.434749",
     "geom:latitude":30.434749,
     "geom:longitude":-97.680957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Wells Branch Pkwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354359707,
-    "wof:lastmodified":1449065905,
+    "wof:lastmodified":1467085051,
     "wof:name":"Wells Branch Car Wash",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-97.680957,30.434749,-97.680957,30.434749],
-  "geometry": {"coordinates":[-97.680957,30.434749],"type":"Point"}
+  "bbox": [
+    -97.680957,
+    30.434749,
+    -97.680957,
+    30.434749
+],
+  "geometry": {"coordinates":[-97.68095700000001,30.434749],"type":"Point"}
 }

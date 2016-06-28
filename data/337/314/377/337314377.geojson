@@ -2,13 +2,14 @@
   "id": 337314377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.09201,33.160221,-97.09201,33.160221",
     "geom:latitude":33.160221,
     "geom:longitude":-97.09201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3513 Marquette Dr",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337314377,
-    "wof:lastmodified":1449027717,
+    "wof:lastmodified":1467084456,
     "wof:name":"Auction Mills",
     "wof:parent_id":85893639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-97.09201,33.160221,-97.09201,33.160221],
+  "bbox": [
+    -97.09201,
+    33.160221,
+    -97.09201,
+    33.160221
+],
   "geometry": {"coordinates":[-97.09201,33.160221],"type":"Point"}
 }

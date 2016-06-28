@@ -2,13 +2,14 @@
   "id": 202414649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.591147,33.639565,-96.591147,33.639565",
     "geom:latitude":33.639565,
     "geom:longitude":-96.591147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E Lamar St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202414649,
-    "wof:lastmodified":1449061311,
+    "wof:lastmodified":1467084913,
     "wof:name":"Texoma Furn & Mat Disc Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.591147,33.639565,-96.591147,33.639565],
-  "geometry": {"coordinates":[-96.591147,33.639565],"type":"Point"}
+  "bbox": [
+    -96.591147,
+    33.639565,
+    -96.591147,
+    33.639565
+],
+  "geometry": {"coordinates":[-96.59114700000001,33.639565],"type":"Point"}
 }

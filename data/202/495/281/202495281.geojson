@@ -2,13 +2,14 @@
   "id": 202495281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.127089,29.820096,-95.127089,29.820096",
     "geom:latitude":29.820096,
     "geom:longitude":-95.127089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 Sheldon Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202495281,
-    "wof:lastmodified":1449061241,
+    "wof:lastmodified":1467084912,
     "wof:name":"Elsa Restaurant",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.127089,29.820096,-95.127089,29.820096],
+  "bbox": [
+    -95.127089,
+    29.820096,
+    -95.127089,
+    29.820096
+],
   "geometry": {"coordinates":[-95.127089,29.820096],"type":"Point"}
 }

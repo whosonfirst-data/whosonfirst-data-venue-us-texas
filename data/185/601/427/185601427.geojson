@@ -2,13 +2,14 @@
   "id": 185601427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.909301,33.548688,-101.909301,33.548688",
     "geom:latitude":33.548688,
     "geom:longitude":-101.909301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 50th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185601427,
-    "wof:lastmodified":1449007332,
+    "wof:lastmodified":1467084124,
     "wof:name":"Pavilion",
     "wof:parent_id":85878815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-101.909301,33.548688,-101.909301,33.548688],
+  "bbox": [
+    -101.909301,
+    33.548688,
+    -101.909301,
+    33.548688
+],
   "geometry": {"coordinates":[-101.909301,33.548688],"type":"Point"}
 }

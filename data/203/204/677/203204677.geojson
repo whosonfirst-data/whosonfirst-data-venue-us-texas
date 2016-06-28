@@ -2,13 +2,14 @@
   "id": 203204677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.442119,29.419676,-98.442119,29.419676",
     "geom:latitude":29.419676,
     "geom:longitude":-98.442119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3098 E Commerce St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203204677,
-    "wof:lastmodified":1449026899,
+    "wof:lastmodified":1467084421,
     "wof:name":"Stop N Go",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.442119,29.419676,-98.442119,29.419676],
-  "geometry": {"coordinates":[-98.442119,29.419676],"type":"Point"}
+  "bbox": [
+    -98.442119,
+    29.419676,
+    -98.442119,
+    29.419676
+],
+  "geometry": {"coordinates":[-98.44211900000001,29.419676],"type":"Point"}
 }

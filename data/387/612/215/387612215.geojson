@@ -2,13 +2,14 @@
   "id": 387612215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.903337,31.084259,-97.903337,31.084259",
     "geom:latitude":31.084259,
     "geom:longitude":-97.903337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Brinegar Rd",
     "sg:city":"Copperas Cove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387612215,
-    "wof:lastmodified":1449057793,
+    "wof:lastmodified":1467084827,
     "wof:name":"Billboard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.903337,31.084259,-97.903337,31.084259],
-  "geometry": {"coordinates":[-97.903337,31.084259],"type":"Point"}
+  "bbox": [
+    -97.903337,
+    31.084259,
+    -97.903337,
+    31.084259
+],
+  "geometry": {"coordinates":[-97.90333699999999,31.084259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203313545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.747987,34.193182,-101.747987,34.193182",
     "geom:latitude":34.193182,
     "geom:longitude":-101.747987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Jefferson Dr",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203313545,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1467084386,
     "wof:name":"Fontys Rental Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-101.747987,34.193182,-101.747987,34.193182],
-  "geometry": {"coordinates":[-101.747987,34.193182],"type":"Point"}
+  "bbox": [
+    -101.747987,
+    34.193182,
+    -101.747987,
+    34.193182
+],
+  "geometry": {"coordinates":[-101.74798699999999,34.193182],"type":"Point"}
 }

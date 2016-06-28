@@ -2,13 +2,14 @@
   "id": 403960271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.565109,30.002623,-95.565109,30.002623",
     "geom:latitude":30.002623,
     "geom:longitude":-95.565109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9323 Antwerp Cove",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403960271,
-    "wof:lastmodified":1449055565,
+    "wof:lastmodified":1467084771,
     "wof:name":"Eventfull",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.565109,30.002623,-95.565109,30.002623],
-  "geometry": {"coordinates":[-95.565109,30.002623],"type":"Point"}
+  "bbox": [
+    -95.565109,
+    30.002623,
+    -95.565109,
+    30.002623
+],
+  "geometry": {"coordinates":[-95.56510900000001,30.002623],"type":"Point"}
 }

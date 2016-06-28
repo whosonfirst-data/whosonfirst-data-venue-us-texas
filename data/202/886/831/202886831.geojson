@@ -2,13 +2,14 @@
   "id": 202886831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.447121,31.859199,-106.447121,31.859199",
     "geom:latitude":31.859199,
     "geom:longitude":-106.447121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8509 Comet St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202886831,
-    "wof:lastmodified":1449061510,
+    "wof:lastmodified":1467084917,
     "wof:name":"Biddle Vending",
     "wof:parent_id":85814117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-106.447121,31.859199,-106.447121,31.859199],
+  "bbox": [
+    -106.447121,
+    31.859199,
+    -106.447121,
+    31.859199
+],
   "geometry": {"coordinates":[-106.447121,31.859199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319837737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.160823,31.750502,-103.160823,31.750502",
     "geom:latitude":31.750502,
     "geom:longitude":-103.160823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Hendricks Blvd",
     "sg:city":"Wink",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":319837737,
-    "wof:lastmodified":1449024214,
+    "wof:lastmodified":1467084379,
     "wof:name":"City Of Wink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-103.160823,31.750502,-103.160823,31.750502],
-  "geometry": {"coordinates":[-103.160823,31.750502],"type":"Point"}
+  "bbox": [
+    -103.160823,
+    31.750502,
+    -103.160823,
+    31.750502
+],
+  "geometry": {"coordinates":[-103.16082299999999,31.750502],"type":"Point"}
 }

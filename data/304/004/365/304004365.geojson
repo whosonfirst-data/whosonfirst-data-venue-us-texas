@@ -2,13 +2,14 @@
   "id": 304004365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.887966,33.587595,-101.887966,33.587595",
     "geom:latitude":33.587595,
     "geom:longitude":-101.887966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 9th St Ste G10",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304004365,
-    "wof:lastmodified":1449043775,
+    "wof:lastmodified":1467084664,
     "wof:name":"Jeff Paxton MD",
     "wof:parent_id":85893809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-101.887966,33.587595,-101.887966,33.587595],
-  "geometry": {"coordinates":[-101.887966,33.587595],"type":"Point"}
+  "bbox": [
+    -101.887966,
+    33.587595,
+    -101.887966,
+    33.587595
+],
+  "geometry": {"coordinates":[-101.88796600000001,33.587595],"type":"Point"}
 }

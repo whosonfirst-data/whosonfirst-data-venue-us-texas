@@ -2,13 +2,14 @@
   "id": 370606223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.841456,32.40289,-96.841456,32.40289",
     "geom:latitude":32.40289,
     "geom:longitude":-96.841456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Ferris Ave",
     "sg:city":"Waxahachie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370606223,
-    "wof:lastmodified":1449029609,
+    "wof:lastmodified":1467084482,
     "wof:name":"Ferris Avenue Baptist Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.841456,32.40289,-96.841456,32.40289],
-  "geometry": {"coordinates":[-96.841456,32.40289],"type":"Point"}
+  "bbox": [
+    -96.841456,
+    32.40289,
+    -96.841456,
+    32.40289
+],
+  "geometry": {"coordinates":[-96.84145599999999,32.40289],"type":"Point"}
 }

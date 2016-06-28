@@ -2,13 +2,14 @@
   "id": 202680735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747368,30.279139,-97.747368,30.279139",
     "geom:latitude":30.279139,
     "geom:longitude":-97.747368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 West Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202680735,
-    "wof:lastmodified":1449061873,
+    "wof:lastmodified":1467084925,
     "wof:name":"Special Events Line",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.747368,30.279139,-97.747368,30.279139],
-  "geometry": {"coordinates":[-97.747368,30.279139],"type":"Point"}
+  "bbox": [
+    -97.747368,
+    30.279139,
+    -97.747368,
+    30.279139
+],
+  "geometry": {"coordinates":[-97.74736799999999,30.279139],"type":"Point"}
 }

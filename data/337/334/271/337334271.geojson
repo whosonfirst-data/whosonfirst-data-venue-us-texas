@@ -2,13 +2,14 @@
   "id": 337334271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.380361,29.734261,-95.380361,29.734261",
     "geom:latitude":29.734261,
     "geom:longitude":-95.380361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 San Jacinto St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337334271,
-    "wof:lastmodified":1449027180,
+    "wof:lastmodified":1467084434,
     "wof:name":"GTS Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-95.380361,29.734261,-95.380361,29.734261],
-  "geometry": {"coordinates":[-95.380361,29.734261],"type":"Point"}
+  "bbox": [
+    -95.380361,
+    29.734261,
+    -95.380361,
+    29.734261
+],
+  "geometry": {"coordinates":[-95.38036099999999,29.734261],"type":"Point"}
 }

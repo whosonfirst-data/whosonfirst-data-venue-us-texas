@@ -2,13 +2,14 @@
   "id": 286404557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.645317,29.881689,-95.645317,29.881689",
     "geom:latitude":29.881689,
     "geom:longitude":-95.645317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7037 Highway 6 N Ste 303",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286404557,
-    "wof:lastmodified":1449017147,
+    "wof:lastmodified":1467084291,
     "wof:name":"Charlie's Concrete Pumping",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.645317,29.881689,-95.645317,29.881689],
-  "geometry": {"coordinates":[-95.645317,29.881689],"type":"Point"}
+  "bbox": [
+    -95.645317,
+    29.881689,
+    -95.645317,
+    29.881689
+],
+  "geometry": {"coordinates":[-95.64531700000001,29.881689],"type":"Point"}
 }

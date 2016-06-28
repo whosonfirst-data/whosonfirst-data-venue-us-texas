@@ -2,13 +2,14 @@
   "id": 202831221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.079447,32.749524,-97.079447,32.749524",
     "geom:latitude":32.749524,
     "geom:longitude":-97.079447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 E Randol Mill Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202831221,
-    "wof:lastmodified":1449061602,
+    "wof:lastmodified":1467084919,
     "wof:name":"ACS Day Habilitation",
     "wof:parent_id":85897289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-97.079447,32.749524,-97.079447,32.749524],
+  "bbox": [
+    -97.079447,
+    32.749524,
+    -97.079447,
+    32.749524
+],
   "geometry": {"coordinates":[-97.079447,32.749524],"type":"Point"}
 }

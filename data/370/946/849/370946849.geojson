@@ -2,13 +2,14 @@
   "id": 370946849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.535289,27.619235,-99.535289,27.619235",
     "geom:latitude":27.619235,
     "geom:longitude":-99.535289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Enterprise St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370946849,
-    "wof:lastmodified":1449032067,
+    "wof:lastmodified":1467084544,
     "wof:name":"Mexican Transportation Service",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-99.535289,27.619235,-99.535289,27.619235],
-  "geometry": {"coordinates":[-99.535289,27.619235],"type":"Point"}
+  "bbox": [
+    -99.535289,
+    27.619235,
+    -99.535289,
+    27.619235
+],
+  "geometry": {"coordinates":[-99.53528900000001,27.619235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370962907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.157648,32.879019,-97.157648,32.879019",
     "geom:latitude":32.879019,
     "geom:longitude":-97.157648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4841 Colleyville Blvd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370962907,
-    "wof:lastmodified":1449031067,
+    "wof:lastmodified":1467084519,
     "wof:name":"Texas Bank",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.157648,32.879019,-97.157648,32.879019],
-  "geometry": {"coordinates":[-97.157648,32.879019],"type":"Point"}
+  "bbox": [
+    -97.157648,
+    32.879019,
+    -97.157648,
+    32.879019
+],
+  "geometry": {"coordinates":[-97.15764799999999,32.879019],"type":"Point"}
 }

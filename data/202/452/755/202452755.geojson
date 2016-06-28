@@ -2,13 +2,14 @@
   "id": 202452755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774609,32.780293,-96.774609,32.780293",
     "geom:latitude":32.780293,
     "geom:longitude":-96.774609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Baylor St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202452755,
-    "wof:lastmodified":1449060705,
+    "wof:lastmodified":1467084900,
     "wof:name":"Police Dept-Property Unit",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.774609,32.780293,-96.774609,32.780293],
+  "bbox": [
+    -96.774609,
+    32.780293,
+    -96.774609,
+    32.780293
+],
   "geometry": {"coordinates":[-96.774609,32.780293],"type":"Point"}
 }

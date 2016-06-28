@@ -2,13 +2,14 @@
   "id": 387099391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.789538,30.274347,-97.789538,30.274347",
     "geom:latitude":30.274347,
     "geom:longitude":-97.789538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4911 Rollingwood Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387099391,
-    "wof:lastmodified":1449058586,
+    "wof:lastmodified":1467084848,
     "wof:name":"Harris Welker Architects",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "architectural"
     ]
 },
-  "bbox": [-97.789538,30.274347,-97.789538,30.274347],
-  "geometry": {"coordinates":[-97.789538,30.274347],"type":"Point"}
+  "bbox": [
+    -97.789538,
+    30.274347,
+    -97.789538,
+    30.274347
+],
+  "geometry": {"coordinates":[-97.78953799999999,30.274347],"type":"Point"}
 }

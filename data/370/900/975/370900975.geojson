@@ -2,13 +2,14 @@
   "id": 370900975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.424358,32.6998,-97.424358,32.6998",
     "geom:latitude":32.6998,
     "geom:longitude":-97.424358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 River Park Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370900975,
-    "wof:lastmodified":1449030547,
+    "wof:lastmodified":1467084505,
     "wof:name":"River Park Medical Clinic",
     "wof:parent_id":85897383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.424358,32.6998,-97.424358,32.6998],
+  "bbox": [
+    -97.424358,
+    32.6998,
+    -97.424358,
+    32.6998
+],
   "geometry": {"coordinates":[-97.424358,32.6998],"type":"Point"}
 }

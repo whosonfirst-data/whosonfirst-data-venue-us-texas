@@ -2,13 +2,14 @@
   "id": 337363323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.127212,31.695805,-98.127212,31.695805",
     "geom:latitude":31.695805,
     "geom:longitude":-98.127212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Rice St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337363323,
-    "wof:lastmodified":1449027641,
+    "wof:lastmodified":1467084453,
     "wof:name":"Hometown Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-98.127212,31.695805,-98.127212,31.695805],
+  "bbox": [
+    -98.127212,
+    31.695805,
+    -98.127212,
+    31.695805
+],
   "geometry": {"coordinates":[-98.127212,31.695805],"type":"Point"}
 }

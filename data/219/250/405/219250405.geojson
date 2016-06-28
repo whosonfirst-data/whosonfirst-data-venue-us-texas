@@ -2,13 +2,14 @@
   "id": 219250405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774347,32.785183,-96.774347,32.785183",
     "geom:latitude":32.785183,
     "geom:longitude":-96.774347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Exposition Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219250405,
-    "wof:lastmodified":1449072390,
+    "wof:lastmodified":1467085142,
     "wof:name":"Balloon City",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "event"
     ]
 },
-  "bbox": [-96.774347,32.785183,-96.774347,32.785183],
-  "geometry": {"coordinates":[-96.774347,32.785183],"type":"Point"}
+  "bbox": [
+    -96.774347,
+    32.785183,
+    -96.774347,
+    32.785183
+],
+  "geometry": {"coordinates":[-96.77434700000001,32.785183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202992611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.310746,31.745099,-106.310746,31.745099",
     "geom:latitude":31.745099,
     "geom:longitude":-106.310746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Goodyear Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202992611,
-    "wof:lastmodified":1449061317,
+    "wof:lastmodified":1467084913,
     "wof:name":"Texas Custom Body & Paint",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.310746,31.745099,-106.310746,31.745099],
-  "geometry": {"coordinates":[-106.310746,31.745099],"type":"Point"}
+  "bbox": [
+    -106.310746,
+    31.745099,
+    -106.310746,
+    31.745099
+],
+  "geometry": {"coordinates":[-106.31074599999999,31.745099],"type":"Point"}
 }

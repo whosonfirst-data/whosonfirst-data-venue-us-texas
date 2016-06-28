@@ -2,13 +2,14 @@
   "id": 286457159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.466251,30.284486,-95.466251,30.284486",
     "geom:latitude":30.284486,
     "geom:longitude":-95.466251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Medical Center Blvd Ste 100",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286457159,
-    "wof:lastmodified":1449017160,
+    "wof:lastmodified":1467084291,
     "wof:name":"Garcia Elena MD",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.466251,30.284486,-95.466251,30.284486],
+  "bbox": [
+    -95.466251,
+    30.284486,
+    -95.466251,
+    30.284486
+],
   "geometry": {"coordinates":[-95.466251,30.284486],"type":"Point"}
 }

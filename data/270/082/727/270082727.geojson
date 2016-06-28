@@ -2,13 +2,14 @@
   "id": 270082727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51744,29.783768,-95.51744,29.783768",
     "geom:latitude":29.783768,
     "geom:longitude":-95.51744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9183 Katy Fwy Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":270082727,
-    "wof:lastmodified":1449008729,
+    "wof:lastmodified":1467084153,
     "wof:name":"ABC School Of Music",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "instruction-instrumental"
     ]
 },
-  "bbox": [-95.51744,29.783768,-95.51744,29.783768],
-  "geometry": {"coordinates":[-95.51744,29.783768],"type":"Point"}
+  "bbox": [
+    -95.51744,
+    29.783768,
+    -95.51744,
+    29.783768
+],
+  "geometry": {"coordinates":[-95.51743999999999,29.783768],"type":"Point"}
 }

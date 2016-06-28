@@ -2,13 +2,14 @@
   "id": 202519117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.091344,29.319659,-96.091344,29.319659",
     "geom:latitude":29.319659,
     "geom:longitude":-96.091344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Sunny Ln",
     "sg:city":"Wharton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202519117,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1467084937,
     "wof:name":"Shofar Sounding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.091344,29.319659,-96.091344,29.319659],
-  "geometry": {"coordinates":[-96.091344,29.319659],"type":"Point"}
+  "bbox": [
+    -96.091344,
+    29.319659,
+    -96.091344,
+    29.319659
+],
+  "geometry": {"coordinates":[-96.09134400000001,29.319659],"type":"Point"}
 }

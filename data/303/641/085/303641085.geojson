@@ -2,13 +2,14 @@
   "id": 303641085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.853336,30.160413,-97.853336,30.160413",
     "geom:latitude":30.160413,
     "geom:longitude":-97.853336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Shoot Out Ct",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303641085,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1467083784,
     "wof:name":"Dayton Austin HVAC Air Conditioning & Heating",
     "wof:parent_id":85865413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.853336,30.160413,-97.853336,30.160413],
+  "bbox": [
+    -97.853336,
+    30.160413,
+    -97.853336,
+    30.160413
+],
   "geometry": {"coordinates":[-97.853336,30.160413],"type":"Point"}
 }

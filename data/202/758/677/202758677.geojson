@@ -2,13 +2,14 @@
   "id": 202758677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.539508,33.661193,-95.539508,33.661193",
     "geom:latitude":33.661193,
     "geom:longitude":-95.539508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 Lamar Ave",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202758677,
-    "wof:lastmodified":1449060878,
+    "wof:lastmodified":1467084904,
     "wof:name":"D Benton Inc Audio Stereo",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-95.539508,33.661193,-95.539508,33.661193],
+  "bbox": [
+    -95.539508,
+    33.661193,
+    -95.539508,
+    33.661193
+],
   "geometry": {"coordinates":[-95.539508,33.661193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220152601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.055324,27.831874,-97.055324,27.831874",
     "geom:latitude":27.831874,
     "geom:longitude":-97.055324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Beach St",
     "sg:city":"Port Aransas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220152601,
-    "wof:lastmodified":1449074653,
+    "wof:lastmodified":1467085191,
     "wof:name":"Nueces County Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-97.055324,27.831874,-97.055324,27.831874],
+  "bbox": [
+    -97.055324,
+    27.831874,
+    -97.055324,
+    27.831874
+],
   "geometry": {"coordinates":[-97.055324,27.831874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403882143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.487316,31.77874,-106.487316,31.77874",
     "geom:latitude":31.77874,
     "geom:longitude":-106.487316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E Schuster Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403882143,
-    "wof:lastmodified":1449054865,
+    "wof:lastmodified":1467084755,
     "wof:name":"Christmas Street",
     "wof:parent_id":85893665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-106.487316,31.77874,-106.487316,31.77874],
-  "geometry": {"coordinates":[-106.487316,31.77874],"type":"Point"}
+  "bbox": [
+    -106.487316,
+    31.77874,
+    -106.487316,
+    31.77874
+],
+  "geometry": {"coordinates":[-106.48731600000001,31.77874],"type":"Point"}
 }

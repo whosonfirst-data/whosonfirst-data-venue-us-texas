@@ -2,13 +2,14 @@
   "id": 303491199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.893335,30.368527,-97.893335,30.368527",
     "geom:latitude":30.368527,
     "geom:longitude":-97.893335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Quinlan Park Rd Ste B240-223",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303491199,
-    "wof:lastmodified":1448998074,
+    "wof:lastmodified":1467083689,
     "wof:name":"Double Bee Coaching",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-97.893335,30.368527,-97.893335,30.368527],
-  "geometry": {"coordinates":[-97.893335,30.368527],"type":"Point"}
+  "bbox": [
+    -97.893335,
+    30.368527,
+    -97.893335,
+    30.368527
+],
+  "geometry": {"coordinates":[-97.89333499999999,30.368527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203144233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348151,29.778349,-95.348151,29.778349",
     "geom:latitude":29.778349,
     "geom:longitude":-95.348151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Semmes St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203144233,
-    "wof:lastmodified":1449026362,
+    "wof:lastmodified":1467084411,
     "wof:name":"Western Fifth Ward Community",
     "wof:parent_id":85869287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.348151,29.778349,-95.348151,29.778349],
+  "bbox": [
+    -95.348151,
+    29.778349,
+    -95.348151,
+    29.778349
+],
   "geometry": {"coordinates":[-95.348151,29.778349],"type":"Point"}
 }

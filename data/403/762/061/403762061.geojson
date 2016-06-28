@@ -2,13 +2,14 @@
   "id": 403762061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.083982,32.684182,-97.083982,32.684182",
     "geom:latitude":32.684182,
     "geom:longitude":-97.083982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Trace Mills Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403762061,
-    "wof:lastmodified":1449055556,
+    "wof:lastmodified":1467084771,
     "wof:name":"Mike's Parking Lot Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.083982,32.684182,-97.083982,32.684182],
-  "geometry": {"coordinates":[-97.083982,32.684182],"type":"Point"}
+  "bbox": [
+    -97.083982,
+    32.684182,
+    -97.083982,
+    32.684182
+],
+  "geometry": {"coordinates":[-97.08398200000001,32.684182],"type":"Point"}
 }

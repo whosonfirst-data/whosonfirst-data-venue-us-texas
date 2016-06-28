@@ -2,13 +2,14 @@
   "id": 270377219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.473165,29.74908,-95.473165,29.74908",
     "geom:latitude":29.74908,
     "geom:longitude":-95.473165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 Saint James Pl Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270377219,
-    "wof:lastmodified":1449009561,
+    "wof:lastmodified":1467084180,
     "wof:name":"Killeen & Stern PC",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.473165,29.74908,-95.473165,29.74908],
-  "geometry": {"coordinates":[-95.473165,29.74908],"type":"Point"}
+  "bbox": [
+    -95.473165,
+    29.74908,
+    -95.473165,
+    29.74908
+],
+  "geometry": {"coordinates":[-95.47316499999999,29.74908],"type":"Point"}
 }

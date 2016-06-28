@@ -2,13 +2,14 @@
   "id": 303110101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.376076,30.357198,-97.376076,30.357198",
     "geom:latitude":30.357198,
     "geom:longitude":-97.376076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 N Avenue F C",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303110101,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1467083732,
     "wof:name":"James Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.376076,30.357198,-97.376076,30.357198],
+  "bbox": [
+    -97.376076,
+    30.357198,
+    -97.376076,
+    30.357198
+],
   "geometry": {"coordinates":[-97.376076,30.357198],"type":"Point"}
 }

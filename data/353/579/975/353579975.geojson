@@ -2,13 +2,14 @@
   "id": 353579975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.622256,29.4565,-98.622256,29.4565",
     "geom:latitude":29.4565,
     "geom:longitude":-98.622256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1759 Grandstand Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353579975,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1467084339,
     "wof:name":"Summit DME",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.622256,29.4565,-98.622256,29.4565],
-  "geometry": {"coordinates":[-98.622256,29.4565],"type":"Point"}
+  "bbox": [
+    -98.622256,
+    29.4565,
+    -98.622256,
+    29.4565
+],
+  "geometry": {"coordinates":[-98.62225599999999,29.4565],"type":"Point"}
 }

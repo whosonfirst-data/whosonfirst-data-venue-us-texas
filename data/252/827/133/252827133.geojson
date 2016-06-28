@@ -2,13 +2,14 @@
   "id": 252827133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809346,32.788289,-96.809346,32.788289",
     "geom:latitude":32.788289,
     "geom:longitude":-96.809346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Victory Park Ln Inside W Dallas - Victory",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252827133,
-    "wof:lastmodified":1449005793,
+    "wof:lastmodified":1467084069,
     "wof:name":"The Living Room",
     "wof:parent_id":85870441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.809346,32.788289,-96.809346,32.788289],
-  "geometry": {"coordinates":[-96.809346,32.788289],"type":"Point"}
+  "bbox": [
+    -96.809346,
+    32.788289,
+    -96.809346,
+    32.788289
+],
+  "geometry": {"coordinates":[-96.80934600000001,32.788289],"type":"Point"}
 }

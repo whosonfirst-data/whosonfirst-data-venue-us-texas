@@ -2,13 +2,14 @@
   "id": 236869223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798627,32.806595,-96.798627,32.806595",
     "geom:latitude":32.806595,
     "geom:longitude":-96.798627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 McKinney Ave Ste A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236869223,
-    "wof:lastmodified":1449004929,
+    "wof:lastmodified":1467084024,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-96.798627,32.806595,-96.798627,32.806595],
+  "bbox": [
+    -96.798627,
+    32.806595,
+    -96.798627,
+    32.806595
+],
   "geometry": {"coordinates":[-96.798627,32.806595],"type":"Point"}
 }

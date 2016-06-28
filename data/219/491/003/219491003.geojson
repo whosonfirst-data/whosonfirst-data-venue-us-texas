@@ -2,13 +2,14 @@
   "id": 219491003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.45584,30.158517,-95.45584,30.158517",
     "geom:latitude":30.158517,
     "geom:longitude":-95.45584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Timberloch Pl",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219491003,
-    "wof:lastmodified":1449070326,
+    "wof:lastmodified":1467085098,
     "wof:name":"Devon Gas Corporation",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operates"
     ]
 },
-  "bbox": [-95.45584,30.158517,-95.45584,30.158517],
-  "geometry": {"coordinates":[-95.45584,30.158517],"type":"Point"}
+  "bbox": [
+    -95.45584,
+    30.158517,
+    -95.45584,
+    30.158517
+],
+  "geometry": {"coordinates":[-95.45583999999999,30.158517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370622921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.865045,30.120513,-97.865045,30.120513",
     "geom:latitude":30.120513,
     "geom:longitude":-97.865045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Kildeer Dr",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370622921,
-    "wof:lastmodified":1449031857,
+    "wof:lastmodified":1467084539,
     "wof:name":"Texas Heritage Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.865045,30.120513,-97.865045,30.120513],
-  "geometry": {"coordinates":[-97.865045,30.120513],"type":"Point"}
+  "bbox": [
+    -97.865045,
+    30.120513,
+    -97.865045,
+    30.120513
+],
+  "geometry": {"coordinates":[-97.86504499999999,30.120513],"type":"Point"}
 }

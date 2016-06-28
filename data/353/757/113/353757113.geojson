@@ -2,13 +2,14 @@
   "id": 353757113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.356783,31.858545,-102.356783,31.858545",
     "geom:latitude":31.858545,
     "geom:longitude":-102.356783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 8th St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353757113,
-    "wof:lastmodified":1449019694,
+    "wof:lastmodified":1467084352,
     "wof:name":"Linebarger Goggan Blair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "return"
     ]
 },
-  "bbox": [-102.356783,31.858545,-102.356783,31.858545],
-  "geometry": {"coordinates":[-102.356783,31.858545],"type":"Point"}
+  "bbox": [
+    -102.356783,
+    31.858545,
+    -102.356783,
+    31.858545
+],
+  "geometry": {"coordinates":[-102.35678299999999,31.858545],"type":"Point"}
 }

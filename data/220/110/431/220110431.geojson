@@ -2,13 +2,14 @@
   "id": 220110431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.333666,33.909276,-102.333666,33.909276",
     "geom:latitude":33.909276,
     "geom:longitude":-102.333666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Crescent Dr",
     "sg:city":"Littlefield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220110431,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1467085182,
     "wof:name":"Alamo Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-102.333666,33.909276,-102.333666,33.909276],
-  "geometry": {"coordinates":[-102.333666,33.909276],"type":"Point"}
+  "bbox": [
+    -102.333666,
+    33.909276,
+    -102.333666,
+    33.909276
+],
+  "geometry": {"coordinates":[-102.33366599999999,33.909276],"type":"Point"}
 }

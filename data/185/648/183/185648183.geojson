@@ -2,13 +2,14 @@
   "id": 185648183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.541587,29.390528,-98.541587,29.390528",
     "geom:latitude":29.390528,
     "geom:longitude":-98.541587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 Frio City Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185648183,
-    "wof:lastmodified":1449007049,
+    "wof:lastmodified":1467084119,
     "wof:name":"Que Onda Cantina",
     "wof:parent_id":85841513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-98.541587,29.390528,-98.541587,29.390528],
-  "geometry": {"coordinates":[-98.541587,29.390528],"type":"Point"}
+  "bbox": [
+    -98.541587,
+    29.390528,
+    -98.541587,
+    29.390528
+],
+  "geometry": {"coordinates":[-98.54158700000001,29.390528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236354399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.940328,32.865611,-96.940328,32.865611",
     "geom:latitude":32.865611,
     "geom:longitude":-96.940328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E John Carpenter Fwy Ste 900",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236354399,
-    "wof:lastmodified":1449004796,
+    "wof:lastmodified":1467084017,
     "wof:name":"Anheuser Busch Inc",
     "wof:parent_id":85878305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.940328,32.865611,-96.940328,32.865611],
-  "geometry": {"coordinates":[-96.940328,32.865611],"type":"Point"}
+  "bbox": [
+    -96.940328,
+    32.865611,
+    -96.940328,
+    32.865611
+],
+  "geometry": {"coordinates":[-96.94032799999999,32.865611],"type":"Point"}
 }

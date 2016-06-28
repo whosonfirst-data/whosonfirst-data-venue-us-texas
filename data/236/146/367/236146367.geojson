@@ -2,13 +2,14 @@
   "id": 236146367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526057,29.491157,-98.526057,29.491157",
     "geom:latitude":29.491157,
     "geom:longitude":-98.526057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236146367,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1467083930,
     "wof:name":"Wilton Carpet",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-98.526057,29.491157,-98.526057,29.491157],
-  "geometry": {"coordinates":[-98.526057,29.491157],"type":"Point"}
+  "bbox": [
+    -98.526057,
+    29.491157,
+    -98.526057,
+    29.491157
+],
+  "geometry": {"coordinates":[-98.52605699999999,29.491157],"type":"Point"}
 }

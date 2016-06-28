@@ -2,13 +2,14 @@
   "id": 186101221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512541,33.660993,-95.512541,33.660993",
     "geom:latitude":33.660993,
     "geom:longitude":-95.512541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Lamar Ave",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186101221,
-    "wof:lastmodified":1449051785,
+    "wof:lastmodified":1467084721,
     "wof:name":"Washington Mutual Finance",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-95.512541,33.660993,-95.512541,33.660993],
+  "bbox": [
+    -95.512541,
+    33.660993,
+    -95.512541,
+    33.660993
+],
   "geometry": {"coordinates":[-95.512541,33.660993],"type":"Point"}
 }

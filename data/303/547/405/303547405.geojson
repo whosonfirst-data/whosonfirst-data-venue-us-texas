@@ -2,13 +2,14 @@
   "id": 303547405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.950267,30.317792,-97.950267,30.317792",
     "geom:latitude":30.317792,
     "geom:longitude":-97.950267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3698 Ranch Road 620 S",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303547405,
-    "wof:lastmodified":1448998371,
+    "wof:lastmodified":1467083704,
     "wof:name":"Border To Border Exploration",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.950267,30.317792,-97.950267,30.317792],
+  "bbox": [
+    -97.950267,
+    30.317792,
+    -97.950267,
+    30.317792
+],
   "geometry": {"coordinates":[-97.950267,30.317792],"type":"Point"}
 }

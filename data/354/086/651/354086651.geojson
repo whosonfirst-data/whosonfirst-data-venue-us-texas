@@ -2,13 +2,14 @@
   "id": 354086651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.524228,29.488543,-98.524228,29.488543",
     "geom:latitude":29.488543,
     "geom:longitude":-98.524228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Basse Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354086651,
-    "wof:lastmodified":1449067115,
+    "wof:lastmodified":1467085080,
     "wof:name":"Iglesia Butista Monte Calvario",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.524228,29.488543,-98.524228,29.488543],
-  "geometry": {"coordinates":[-98.524228,29.488543],"type":"Point"}
+  "bbox": [
+    -98.524228,
+    29.488543,
+    -98.524228,
+    29.488543
+],
+  "geometry": {"coordinates":[-98.52422799999999,29.488543],"type":"Point"}
 }

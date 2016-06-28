@@ -2,13 +2,14 @@
   "id": 219190173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.536459,32.110723,-98.536459,32.110723",
     "geom:latitude":32.110723,
     "geom:longitude":-98.536459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Texas St",
     "sg:city":"De Leon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219190173,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1467085169,
     "wof:name":"De Leon Auto Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-98.536459,32.110723,-98.536459,32.110723],
-  "geometry": {"coordinates":[-98.536459,32.110723],"type":"Point"}
+  "bbox": [
+    -98.536459,
+    32.110723,
+    -98.536459,
+    32.110723
+],
+  "geometry": {"coordinates":[-98.53645899999999,32.110723],"type":"Point"}
 }

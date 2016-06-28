@@ -2,13 +2,14 @@
   "id": 387701751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.403452,31.79561,-106.403452,31.79561",
     "geom:latitude":31.79561,
     "geom:longitude":-106.403452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Airway Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387701751,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1467084861,
     "wof:name":"Hilton",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.403452,31.79561,-106.403452,31.79561],
+  "bbox": [
+    -106.403452,
+    31.79561,
+    -106.403452,
+    31.79561
+],
   "geometry": {"coordinates":[-106.403452,31.79561],"type":"Point"}
 }

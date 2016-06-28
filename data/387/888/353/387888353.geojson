@@ -2,13 +2,14 @@
   "id": 387888353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.804379,30.285499,-97.804379,30.285499",
     "geom:latitude":30.285499,
     "geom:longitude":-97.804379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Reveille Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387888353,
-    "wof:lastmodified":1449058478,
+    "wof:lastmodified":1467084845,
     "wof:name":"Silicon Laboratories",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.804379,30.285499,-97.804379,30.285499],
+  "bbox": [
+    -97.804379,
+    30.285499,
+    -97.804379,
+    30.285499
+],
   "geometry": {"coordinates":[-97.804379,30.285499],"type":"Point"}
 }

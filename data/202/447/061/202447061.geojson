@@ -2,13 +2,14 @@
   "id": 202447061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.255642,29.999157,-95.255642,29.999157",
     "geom:latitude":29.999157,
     "geom:longitude":-95.255642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 1st St",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202447061,
-    "wof:lastmodified":1449061886,
+    "wof:lastmodified":1467084925,
     "wof:name":"Custom Management",
     "wof:parent_id":85835129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-95.255642,29.999157,-95.255642,29.999157],
-  "geometry": {"coordinates":[-95.255642,29.999157],"type":"Point"}
+  "bbox": [
+    -95.255642,
+    29.999157,
+    -95.255642,
+    29.999157
+],
+  "geometry": {"coordinates":[-95.25564199999999,29.999157],"type":"Point"}
 }

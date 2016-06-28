@@ -2,13 +2,14 @@
   "id": 404107445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.284303,32.812313,-97.284303,32.812313",
     "geom:latitude":32.812313,
     "geom:longitude":-97.284303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4216 Patricia St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404107445,
-    "wof:lastmodified":1449039092,
+    "wof:lastmodified":1467084641,
     "wof:name":"Josie Fisher",
     "wof:parent_id":85897371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.284303,32.812313,-97.284303,32.812313],
-  "geometry": {"coordinates":[-97.284303,32.812313],"type":"Point"}
+  "bbox": [
+    -97.284303,
+    32.812313,
+    -97.284303,
+    32.812313
+],
+  "geometry": {"coordinates":[-97.28430299999999,32.812313],"type":"Point"}
 }

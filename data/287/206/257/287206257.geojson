@@ -2,13 +2,14 @@
   "id": 287206257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.053874,27.758396,-98.053874,27.758396",
     "geom:latitude":27.758396,
     "geom:longitude":-98.053874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 E Main St",
     "sg:city":"Alice",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":287206257,
-    "wof:lastmodified":1449001289,
+    "wof:lastmodified":1467083839,
     "wof:name":"Stewart Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abstracter"
     ]
 },
-  "bbox": [-98.053874,27.758396,-98.053874,27.758396],
-  "geometry": {"coordinates":[-98.053874,27.758396],"type":"Point"}
+  "bbox": [
+    -98.053874,
+    27.758396,
+    -98.053874,
+    27.758396
+],
+  "geometry": {"coordinates":[-98.05387399999999,27.758396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252744673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361618,29.685121,-95.361618,29.685121",
     "geom:latitude":29.685121,
     "geom:longitude":-95.361618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 Corder St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":252744673,
-    "wof:lastmodified":1449005797,
+    "wof:lastmodified":1467084069,
     "wof:name":"Lillie's Notary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-95.361618,29.685121,-95.361618,29.685121],
-  "geometry": {"coordinates":[-95.361618,29.685121],"type":"Point"}
+  "bbox": [
+    -95.361618,
+    29.685121,
+    -95.361618,
+    29.685121
+],
+  "geometry": {"coordinates":[-95.36161800000001,29.685121],"type":"Point"}
 }

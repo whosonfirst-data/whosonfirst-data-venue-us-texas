@@ -2,13 +2,14 @@
   "id": 286840673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400269,29.014801,-95.400269,29.014801",
     "geom:latitude":29.014801,
     "geom:longitude":-95.400269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Shanks St",
     "sg:city":"Clute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286840673,
-    "wof:lastmodified":1449017464,
+    "wof:lastmodified":1467084300,
     "wof:name":"Henry's Transmission",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.400269,29.014801,-95.400269,29.014801],
-  "geometry": {"coordinates":[-95.400269,29.014801],"type":"Point"}
+  "bbox": [
+    -95.400269,
+    29.014801,
+    -95.400269,
+    29.014801
+],
+  "geometry": {"coordinates":[-95.40026899999999,29.014801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219308227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.935098,29.871492,-93.935098,29.871492",
     "geom:latitude":29.871492,
     "geom:longitude":-93.935098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Austin Ave",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219308227,
-    "wof:lastmodified":1449074025,
+    "wof:lastmodified":1467085176,
     "wof:name":"City Health Dept",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-93.935098,29.871492,-93.935098,29.871492],
+  "bbox": [
+    -93.935098,
+    29.871492,
+    -93.935098,
+    29.871492
+],
   "geometry": {"coordinates":[-93.935098,29.871492],"type":"Point"}
 }

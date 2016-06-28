@@ -2,13 +2,14 @@
   "id": 303990271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.833508,33.563381,-101.833508,33.563381",
     "geom:latitude":33.563381,
     "geom:longitude":-101.833508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E 34th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303990271,
-    "wof:lastmodified":1448999754,
+    "wof:lastmodified":1467083774,
     "wof:name":"Arrow Motor Company",
     "wof:parent_id":85878787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-101.833508,33.563381,-101.833508,33.563381],
-  "geometry": {"coordinates":[-101.833508,33.563381],"type":"Point"}
+  "bbox": [
+    -101.833508,
+    33.563381,
+    -101.833508,
+    33.563381
+],
+  "geometry": {"coordinates":[-101.83350799999999,33.563381],"type":"Point"}
 }

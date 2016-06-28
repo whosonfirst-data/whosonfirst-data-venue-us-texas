@@ -2,13 +2,14 @@
   "id": 387393447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.383707,32.805302,-97.383707,32.805302",
     "geom:latitude":32.805302,
     "geom:longitude":-97.383707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3222 NW 28th St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387393447,
-    "wof:lastmodified":1449057299,
+    "wof:lastmodified":1467084814,
     "wof:name":"Texas Home Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.383707,32.805302,-97.383707,32.805302],
+  "bbox": [
+    -97.383707,
+    32.805302,
+    -97.383707,
+    32.805302
+],
   "geometry": {"coordinates":[-97.383707,32.805302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303753757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740153,30.309837,-97.740153,30.309837",
     "geom:latitude":30.309837,
     "geom:longitude":-97.740153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4143 N Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303753757,
-    "wof:lastmodified":1448998408,
+    "wof:lastmodified":1467083706,
     "wof:name":"Texas Department Of Public Safety",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rescue"
     ]
 },
-  "bbox": [-97.740153,30.309837,-97.740153,30.309837],
-  "geometry": {"coordinates":[-97.740153,30.309837],"type":"Point"}
+  "bbox": [
+    -97.740153,
+    30.309837,
+    -97.740153,
+    30.309837
+],
+  "geometry": {"coordinates":[-97.74015300000001,30.309837],"type":"Point"}
 }

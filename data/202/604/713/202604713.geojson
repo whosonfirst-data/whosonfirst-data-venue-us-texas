@@ -2,13 +2,14 @@
   "id": 202604713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.354978,30.65709,-96.354978,30.65709",
     "geom:latitude":30.65709,
     "geom:longitude":-96.354978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Garden Ln",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202604713,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1467084935,
     "wof:name":"Catholic Union of Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-96.354978,30.65709,-96.354978,30.65709],
+  "bbox": [
+    -96.354978,
+    30.65709,
+    -96.354978,
+    30.65709
+],
   "geometry": {"coordinates":[-96.354978,30.65709],"type":"Point"}
 }

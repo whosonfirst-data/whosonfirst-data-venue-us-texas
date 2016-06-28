@@ -2,13 +2,14 @@
   "id": 185609265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395868,32.639704,-97.395868,32.639704",
     "geom:latitude":32.639704,
     "geom:longitude":-97.395868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7305 S Hulen St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185609265,
-    "wof:lastmodified":1449007204,
+    "wof:lastmodified":1467084122,
     "wof:name":"Edward Jones 02612",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.395868,32.639704,-97.395868,32.639704],
-  "geometry": {"coordinates":[-97.395868,32.639704],"type":"Point"}
+  "bbox": [
+    -97.395868,
+    32.639704,
+    -97.395868,
+    32.639704
+],
+  "geometry": {"coordinates":[-97.39586799999999,32.639704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253335085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.107503,33.124952,-96.107503,33.124952",
     "geom:latitude":33.124952,
     "geom:longitude":-96.107503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4529 Stonewall St Ste 173",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253335085,
-    "wof:lastmodified":1449064789,
+    "wof:lastmodified":1467085013,
     "wof:name":"Young Life Inc",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.107503,33.124952,-96.107503,33.124952],
-  "geometry": {"coordinates":[-96.107503,33.124952],"type":"Point"}
+  "bbox": [
+    -96.107503,
+    33.124952,
+    -96.107503,
+    33.124952
+],
+  "geometry": {"coordinates":[-96.10750299999999,33.124952],"type":"Point"}
 }

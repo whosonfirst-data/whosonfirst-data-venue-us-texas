@@ -2,13 +2,14 @@
   "id": 253497677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.289633,32.340221,-95.289633,32.340221",
     "geom:latitude":32.340221,
     "geom:longitude":-95.289633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Idel St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253497677,
-    "wof:lastmodified":1449065766,
+    "wof:lastmodified":1467085046,
     "wof:name":"Etmc",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-95.289633,32.340221,-95.289633,32.340221],
-  "geometry": {"coordinates":[-95.289633,32.340221],"type":"Point"}
+  "bbox": [
+    -95.289633,
+    32.340221,
+    -95.289633,
+    32.340221
+],
+  "geometry": {"coordinates":[-95.28963299999999,32.340221],"type":"Point"}
 }

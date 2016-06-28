@@ -2,13 +2,14 @@
   "id": 370695975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.431588,31.454881,-100.431588,31.454881",
     "geom:latitude":31.454881,
     "geom:longitude":-100.431588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 S Oakes St",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370695975,
-    "wof:lastmodified":1449030370,
+    "wof:lastmodified":1467084501,
     "wof:name":"City Of San Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-100.431588,31.454881,-100.431588,31.454881],
+  "bbox": [
+    -100.431588,
+    31.454881,
+    -100.431588,
+    31.454881
+],
   "geometry": {"coordinates":[-100.431588,31.454881],"type":"Point"}
 }

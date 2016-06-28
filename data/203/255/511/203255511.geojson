@@ -2,13 +2,14 @@
   "id": 203255511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.617927,33.181236,-96.617927,33.181236",
     "geom:latitude":33.181236,
     "geom:longitude":-96.617927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S McDonald St",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203255511,
-    "wof:lastmodified":1449025771,
+    "wof:lastmodified":1467084400,
     "wof:name":"Hometown Cafe",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fast"
     ]
 },
-  "bbox": [-96.617927,33.181236,-96.617927,33.181236],
-  "geometry": {"coordinates":[-96.617927,33.181236],"type":"Point"}
+  "bbox": [
+    -96.617927,
+    33.181236,
+    -96.617927,
+    33.181236
+],
+  "geometry": {"coordinates":[-96.61792699999999,33.181236],"type":"Point"}
 }

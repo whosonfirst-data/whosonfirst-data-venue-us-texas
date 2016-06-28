@@ -2,13 +2,14 @@
   "id": 202401969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541886,31.853347,-106.541886,31.853347",
     "geom:latitude":31.853347,
     "geom:longitude":-106.541886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Westwind Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202401969,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1467084933,
     "wof:name":"Alma Altamirano LPC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-106.541886,31.853347,-106.541886,31.853347],
-  "geometry": {"coordinates":[-106.541886,31.853347],"type":"Point"}
+  "bbox": [
+    -106.541886,
+    31.853347,
+    -106.541886,
+    31.853347
+],
+  "geometry": {"coordinates":[-106.54188600000001,31.853347],"type":"Point"}
 }

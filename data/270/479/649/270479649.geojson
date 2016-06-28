@@ -2,13 +2,14 @@
   "id": 270479649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.567743,29.917114,-95.567743,29.917114",
     "geom:latitude":29.917114,
     "geom:longitude":-95.567743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10111 Wayward Wind Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270479649,
-    "wof:lastmodified":1449010342,
+    "wof:lastmodified":1467084206,
     "wof:name":"Fipsa Corp",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.567743,29.917114,-95.567743,29.917114],
-  "geometry": {"coordinates":[-95.567743,29.917114],"type":"Point"}
+  "bbox": [
+    -95.567743,
+    29.917114,
+    -95.567743,
+    29.917114
+],
+  "geometry": {"coordinates":[-95.56774299999999,29.917114],"type":"Point"}
 }

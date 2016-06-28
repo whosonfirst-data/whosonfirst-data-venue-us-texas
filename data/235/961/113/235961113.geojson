@@ -2,13 +2,14 @@
   "id": 235961113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.779356,32.423869,-99.779356,32.423869",
     "geom:latitude":32.423869,
     "geom:longitude":-99.779356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Old Orchard Rd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235961113,
-    "wof:lastmodified":1449008601,
+    "wof:lastmodified":1467084148,
     "wof:name":"Americard Company",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-99.779356,32.423869,-99.779356,32.423869],
-  "geometry": {"coordinates":[-99.779356,32.423869],"type":"Point"}
+  "bbox": [
+    -99.779356,
+    32.423869,
+    -99.779356,
+    32.423869
+],
+  "geometry": {"coordinates":[-99.77935600000001,32.423869],"type":"Point"}
 }

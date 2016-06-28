@@ -2,13 +2,14 @@
   "id": 303378373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760467,30.492503,-97.760467,30.492503",
     "geom:latitude":30.492503,
     "geom:longitude":-97.760467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15100 Fernhill Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303378373,
-    "wof:lastmodified":1448999769,
+    "wof:lastmodified":1467083774,
     "wof:name":"Org Sync",
     "wof:parent_id":85893537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.760467,30.492503,-97.760467,30.492503],
-  "geometry": {"coordinates":[-97.760467,30.492503],"type":"Point"}
+  "bbox": [
+    -97.760467,
+    30.492503,
+    -97.760467,
+    30.492503
+],
+  "geometry": {"coordinates":[-97.76046700000001,30.492503],"type":"Point"}
 }

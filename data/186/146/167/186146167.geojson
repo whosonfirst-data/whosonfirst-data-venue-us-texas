@@ -2,13 +2,14 @@
   "id": 186146167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.295399,31.782342,-106.295399,31.782342",
     "geom:latitude":31.782342,
     "geom:longitude":-106.295399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11490 Pebble Hills Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186146167,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1467084715,
     "wof:name":"Western Pebble Hills Apt",
     "wof:parent_id":85893671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.295399,31.782342,-106.295399,31.782342],
+  "bbox": [
+    -106.295399,
+    31.782342,
+    -106.295399,
+    31.782342
+],
   "geometry": {"coordinates":[-106.295399,31.782342],"type":"Point"}
 }

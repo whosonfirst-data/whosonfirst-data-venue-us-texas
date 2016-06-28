@@ -2,13 +2,14 @@
   "id": 219792569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.006317,32.66726,-97.006317,32.66726",
     "geom:latitude":32.66726,
     "geom:longitude":-97.006317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4312 Meadow Side",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219792569,
-    "wof:lastmodified":1449071156,
+    "wof:lastmodified":1467085115,
     "wof:name":"First Texas Homes",
     "wof:parent_id":85819647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.006317,32.66726,-97.006317,32.66726],
+  "bbox": [
+    -97.006317,
+    32.66726,
+    -97.006317,
+    32.66726
+],
   "geometry": {"coordinates":[-97.006317,32.66726],"type":"Point"}
 }

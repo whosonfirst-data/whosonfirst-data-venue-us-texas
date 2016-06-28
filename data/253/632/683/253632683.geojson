@@ -2,13 +2,14 @@
   "id": 253632683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141731,32.711689,-97.141731,32.711689",
     "geom:latitude":32.711689,
     "geom:longitude":-97.141731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Quincy Ct",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253632683,
-    "wof:lastmodified":1449064716,
+    "wof:lastmodified":1467085010,
     "wof:name":"Quincy House",
     "wof:parent_id":85873093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.141731,32.711689,-97.141731,32.711689],
-  "geometry": {"coordinates":[-97.141731,32.711689],"type":"Point"}
+  "bbox": [
+    -97.141731,
+    32.711689,
+    -97.141731,
+    32.711689
+],
+  "geometry": {"coordinates":[-97.14173099999999,32.711689],"type":"Point"}
 }

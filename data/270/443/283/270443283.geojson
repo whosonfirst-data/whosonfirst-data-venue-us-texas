@@ -2,13 +2,14 @@
   "id": 270443283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.092182,29.538665,-95.092182,29.538665",
     "geom:latitude":29.538665,
     "geom:longitude":-95.092182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 Kingstree Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270443283,
-    "wof:lastmodified":1449010612,
+    "wof:lastmodified":1467084215,
     "wof:name":"Walker Gang Holdings",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-95.092182,29.538665,-95.092182,29.538665],
-  "geometry": {"coordinates":[-95.092182,29.538665],"type":"Point"}
+  "bbox": [
+    -95.092182,
+    29.538665,
+    -95.092182,
+    29.538665
+],
+  "geometry": {"coordinates":[-95.09218199999999,29.538665],"type":"Point"}
 }

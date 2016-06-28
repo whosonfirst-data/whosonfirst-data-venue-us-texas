@@ -2,13 +2,14 @@
   "id": 403868633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412345,30.136933,-95.412345,30.136933",
     "geom:latitude":30.136933,
     "geom:longitude":-95.412345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Magnolia Estates Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403868633,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1467084751,
     "wof:name":"Great Amer Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.412345,30.136933,-95.412345,30.136933],
+  "bbox": [
+    -95.412345,
+    30.136933,
+    -95.412345,
+    30.136933
+],
   "geometry": {"coordinates":[-95.412345,30.136933],"type":"Point"}
 }

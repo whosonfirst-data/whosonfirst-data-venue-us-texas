@@ -2,13 +2,14 @@
   "id": 202657429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351395,32.808133,-97.351395,32.808133",
     "geom:latitude":32.808133,
     "geom:longitude":-97.351395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3414 N Main St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202657429,
-    "wof:lastmodified":1449060395,
+    "wof:lastmodified":1467084893,
     "wof:name":"North Main Auto Sales",
     "wof:parent_id":85871613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.351395,32.808133,-97.351395,32.808133],
+  "bbox": [
+    -97.351395,
+    32.808133,
+    -97.351395,
+    32.808133
+],
   "geometry": {"coordinates":[-97.351395,32.808133],"type":"Point"}
 }

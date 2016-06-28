@@ -2,13 +2,14 @@
   "id": 253090595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.764278,30.081537,-93.764278,30.081537",
     "geom:latitude":30.081537,
     "geom:longitude":-93.764278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Memphis St",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253090595,
-    "wof:lastmodified":1449065166,
+    "wof:lastmodified":1467085025,
     "wof:name":"Housing Authority Of Orange",
     "wof:parent_id":85841777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.764278,30.081537,-93.764278,30.081537],
+  "bbox": [
+    -93.764278,
+    30.081537,
+    -93.764278,
+    30.081537
+],
   "geometry": {"coordinates":[-93.764278,30.081537],"type":"Point"}
 }

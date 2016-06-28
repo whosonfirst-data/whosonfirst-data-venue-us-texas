@@ -2,13 +2,14 @@
   "id": 220104449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.472652,31.77483,-106.472652,31.77483",
     "geom:latitude":31.77483,
     "geom:longitude":-106.472652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 E Yandell Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220104449,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1467085184,
     "wof:name":"El Paso Floral Distribution",
     "wof:parent_id":85871381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-106.472652,31.77483,-106.472652,31.77483],
+  "bbox": [
+    -106.472652,
+    31.77483,
+    -106.472652,
+    31.77483
+],
   "geometry": {"coordinates":[-106.472652,31.77483],"type":"Point"}
 }

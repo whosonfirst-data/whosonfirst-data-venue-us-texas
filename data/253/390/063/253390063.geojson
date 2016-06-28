@@ -2,13 +2,14 @@
   "id": 253390063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.065256,33.450591,-94.065256,33.450591",
     "geom:latitude":33.450591,
     "geom:longitude":-94.065256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Summerhill Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":253390063,
-    "wof:lastmodified":1449065836,
+    "wof:lastmodified":1467085048,
     "wof:name":"Westgate Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "detailing"
     ]
 },
-  "bbox": [-94.065256,33.450591,-94.065256,33.450591],
-  "geometry": {"coordinates":[-94.065256,33.450591],"type":"Point"}
+  "bbox": [
+    -94.065256,
+    33.450591,
+    -94.065256,
+    33.450591
+],
+  "geometry": {"coordinates":[-94.06525600000001,33.450591],"type":"Point"}
 }

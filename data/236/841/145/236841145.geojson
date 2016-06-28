@@ -2,13 +2,14 @@
   "id": 236841145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.371569,31.790549,-106.371569,31.790549",
     "geom:latitude":31.790549,
     "geom:longitude":-106.371569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Hawkins Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236841145,
-    "wof:lastmodified":1449002197,
+    "wof:lastmodified":1467083892,
     "wof:name":"Aqua Salus",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-106.371569,31.790549,-106.371569,31.790549],
-  "geometry": {"coordinates":[-106.371569,31.790549],"type":"Point"}
+  "bbox": [
+    -106.371569,
+    31.790549,
+    -106.371569,
+    31.790549
+],
+  "geometry": {"coordinates":[-106.37156899999999,31.790549],"type":"Point"}
 }

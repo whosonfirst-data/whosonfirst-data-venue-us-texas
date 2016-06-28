@@ -2,13 +2,14 @@
   "id": 253501711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.268759,32.352363,-95.268759,32.352363",
     "geom:latitude":32.352363,
     "geom:longitude":-95.268759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 E Erwin St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":253501711,
-    "wof:lastmodified":1449065836,
+    "wof:lastmodified":1467085048,
     "wof:name":"FedEx",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-95.268759,32.352363,-95.268759,32.352363],
+  "bbox": [
+    -95.268759,
+    32.352363,
+    -95.268759,
+    32.352363
+],
   "geometry": {"coordinates":[-95.268759,32.352363],"type":"Point"}
 }

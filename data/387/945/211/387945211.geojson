@@ -2,13 +2,14 @@
   "id": 387945211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.718884,29.770612,-95.718884,29.770612",
     "geom:latitude":29.770612,
     "geom:longitude":-95.718884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 S Fry Rd",
     "sg:city":"Katy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387945211,
-    "wof:lastmodified":1449056429,
+    "wof:lastmodified":1467084792,
     "wof:name":"Driving Reports",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audit"
     ]
 },
-  "bbox": [-95.718884,29.770612,-95.718884,29.770612],
+  "bbox": [
+    -95.718884,
+    29.770612,
+    -95.718884,
+    29.770612
+],
   "geometry": {"coordinates":[-95.718884,29.770612],"type":"Point"}
 }

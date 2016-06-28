@@ -2,13 +2,14 @@
   "id": 252981447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.531043,30.210269,-95.531043,30.210269",
     "geom:latitude":30.210269,
     "geom:longitude":-95.531043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Research Forest Dr",
     "sg:city":"The Woodlands",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252981447,
-    "wof:lastmodified":1449006536,
+    "wof:lastmodified":1467084109,
     "wof:name":"Box It",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fiber"
     ]
 },
-  "bbox": [-95.531043,30.210269,-95.531043,30.210269],
+  "bbox": [
+    -95.531043,
+    30.210269,
+    -95.531043,
+    30.210269
+],
   "geometry": {"coordinates":[-95.531043,30.210269],"type":"Point"}
 }

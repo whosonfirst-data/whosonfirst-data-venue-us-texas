@@ -2,13 +2,14 @@
   "id": 337392179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.607621,32.699405,-96.607621,32.699405",
     "geom:latitude":32.699405,
     "geom:longitude":-96.607621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12013 Rylie Crest Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337392179,
-    "wof:lastmodified":1449027587,
+    "wof:lastmodified":1467084451,
     "wof:name":"R S Sand & Gravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.607621,32.699405,-96.607621,32.699405],
-  "geometry": {"coordinates":[-96.607621,32.699405],"type":"Point"}
+  "bbox": [
+    -96.607621,
+    32.699405,
+    -96.607621,
+    32.699405
+],
+  "geometry": {"coordinates":[-96.60762099999999,32.699405],"type":"Point"}
 }

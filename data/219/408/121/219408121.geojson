@@ -2,13 +2,14 @@
   "id": 219408121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.89052,32.883665,-96.89052,32.883665",
     "geom:latitude":32.883665,
     "geom:longitude":-96.89052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11009 Shady Trl",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219408121,
-    "wof:lastmodified":1449070829,
+    "wof:lastmodified":1467085109,
     "wof:name":"Snack Attack",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.89052,32.883665,-96.89052,32.883665],
+  "bbox": [
+    -96.89052,
+    32.883665,
+    -96.89052,
+    32.883665
+],
   "geometry": {"coordinates":[-96.89052,32.883665],"type":"Point"}
 }

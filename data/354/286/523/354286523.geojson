@@ -2,13 +2,14 @@
   "id": 354286523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.976193,32.383316,-98.976193,32.383316",
     "geom:latitude":32.383316,
     "geom:longitude":-98.976193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Conrad Hilton Blvd",
     "sg:city":"Cisco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354286523,
-    "wof:lastmodified":1449066358,
+    "wof:lastmodified":1467085062,
     "wof:name":"Whites Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.976193,32.383316,-98.976193,32.383316],
-  "geometry": {"coordinates":[-98.976193,32.383316],"type":"Point"}
+  "bbox": [
+    -98.976193,
+    32.383316,
+    -98.976193,
+    32.383316
+],
+  "geometry": {"coordinates":[-98.97619299999999,32.383316],"type":"Point"}
 }

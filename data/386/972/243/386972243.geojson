@@ -2,13 +2,14 @@
   "id": 386972243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.482482,29.74416,-95.482482,29.74416",
     "geom:latitude":29.74416,
     "geom:longitude":-95.482482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Augusta Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386972243,
-    "wof:lastmodified":1449028786,
+    "wof:lastmodified":1467084461,
     "wof:name":"Midtown Financial & Mortgage",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-95.482482,29.74416,-95.482482,29.74416],
+  "bbox": [
+    -95.482482,
+    29.74416,
+    -95.482482,
+    29.74416
+],
   "geometry": {"coordinates":[-95.482482,29.74416],"type":"Point"}
 }

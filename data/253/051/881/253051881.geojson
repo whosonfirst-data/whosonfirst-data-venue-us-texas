@@ -2,13 +2,14 @@
   "id": 253051881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855713,32.815171,-96.855713,32.815171",
     "geom:latitude":32.815171,
     "geom:longitude":-96.855713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5651 Riverside Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253051881,
-    "wof:lastmodified":1449064643,
+    "wof:lastmodified":1467085007,
     "wof:name":"Cutting Crete Inc.",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sawing"
     ]
 },
-  "bbox": [-96.855713,32.815171,-96.855713,32.815171],
-  "geometry": {"coordinates":[-96.855713,32.815171],"type":"Point"}
+  "bbox": [
+    -96.855713,
+    32.815171,
+    -96.855713,
+    32.815171
+],
+  "geometry": {"coordinates":[-96.85571299999999,32.815171],"type":"Point"}
 }

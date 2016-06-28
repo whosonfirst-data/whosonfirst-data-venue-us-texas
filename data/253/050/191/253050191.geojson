@@ -2,13 +2,14 @@
   "id": 253050191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838997,32.819302,-96.838997,32.819302",
     "geom:latitude":32.819302,
     "geom:longitude":-96.838997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Inwood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253050191,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1467085001,
     "wof:name":"Discount Liquor",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.838997,32.819302,-96.838997,32.819302],
-  "geometry": {"coordinates":[-96.838997,32.819302],"type":"Point"}
+  "bbox": [
+    -96.838997,
+    32.819302,
+    -96.838997,
+    32.819302
+],
+  "geometry": {"coordinates":[-96.83899700000001,32.819302],"type":"Point"}
 }

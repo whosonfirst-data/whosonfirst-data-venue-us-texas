@@ -2,13 +2,14 @@
   "id": 370774519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500358,29.540173,-98.500358,29.540173",
     "geom:latitude":29.540173,
     "geom:longitude":-98.500358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Patricia Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370774519,
-    "wof:lastmodified":1449030401,
+    "wof:lastmodified":1467084502,
     "wof:name":"Reliance Air & Refrigeration",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-98.500358,29.540173,-98.500358,29.540173],
-  "geometry": {"coordinates":[-98.500358,29.540173],"type":"Point"}
+  "bbox": [
+    -98.500358,
+    29.540173,
+    -98.500358,
+    29.540173
+],
+  "geometry": {"coordinates":[-98.50035800000001,29.540173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371028209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.793389,30.345357,-95.793389,30.345357",
     "geom:latitude":30.345357,
     "geom:longitude":-95.793389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19298 Old Hwy 105 W",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371028209,
-    "wof:lastmodified":1449049621,
+    "wof:lastmodified":1467084681,
     "wof:name":"Lake Shore Svc",
     "wof:parent_id":85893785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-95.793389,30.345357,-95.793389,30.345357],
+  "bbox": [
+    -95.793389,
+    30.345357,
+    -95.793389,
+    30.345357
+],
   "geometry": {"coordinates":[-95.793389,30.345357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236000175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.830453,32.977129,-96.830453,32.977129",
     "geom:latitude":32.977129,
     "geom:longitude":-96.830453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16601 Addison Rd Ste 104",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236000175,
-    "wof:lastmodified":1449002071,
+    "wof:lastmodified":1467083883,
     "wof:name":"Han's Tailor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alteration"
     ]
 },
-  "bbox": [-96.830453,32.977129,-96.830453,32.977129],
-  "geometry": {"coordinates":[-96.830453,32.977129],"type":"Point"}
+  "bbox": [
+    -96.830453,
+    32.977129,
+    -96.830453,
+    32.977129
+],
+  "geometry": {"coordinates":[-96.83045300000001,32.977129],"type":"Point"}
 }

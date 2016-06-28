@@ -2,13 +2,14 @@
   "id": 387799807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.452491,29.661723,-95.452491,29.661723",
     "geom:latitude":29.661723,
     "geom:longitude":-95.452491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 Briarbend Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387799807,
-    "wof:lastmodified":1449059936,
+    "wof:lastmodified":1467084883,
     "wof:name":"Lighting Zone",
     "wof:parent_id":85869809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "picture"
     ]
 },
-  "bbox": [-95.452491,29.661723,-95.452491,29.661723],
-  "geometry": {"coordinates":[-95.452491,29.661723],"type":"Point"}
+  "bbox": [
+    -95.452491,
+    29.661723,
+    -95.452491,
+    29.661723
+],
+  "geometry": {"coordinates":[-95.45249099999999,29.661723],"type":"Point"}
 }

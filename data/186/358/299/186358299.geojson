@@ -2,13 +2,14 @@
   "id": 186358299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.289565,32.339027,-95.289565,32.339027",
     "geom:latitude":32.339027,
     "geom:longitude":-95.289565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Clinic Dr",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186358299,
-    "wof:lastmodified":1449051501,
+    "wof:lastmodified":1467084715,
     "wof:name":"Smith Mackey",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-95.289565,32.339027,-95.289565,32.339027],
+  "bbox": [
+    -95.289565,
+    32.339027,
+    -95.289565,
+    32.339027
+],
   "geometry": {"coordinates":[-95.289565,32.339027],"type":"Point"}
 }

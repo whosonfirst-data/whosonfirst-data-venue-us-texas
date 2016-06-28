@@ -2,13 +2,14 @@
   "id": 253111145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.525754,29.964427,-95.525754,29.964427",
     "geom:latitude":29.964427,
     "geom:longitude":-95.525754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6807 Theall Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253111145,
-    "wof:lastmodified":1449065894,
+    "wof:lastmodified":1467085050,
     "wof:name":"B & C Machine Works",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.525754,29.964427,-95.525754,29.964427],
-  "geometry": {"coordinates":[-95.525754,29.964427],"type":"Point"}
+  "bbox": [
+    -95.525754,
+    29.964427,
+    -95.525754,
+    29.964427
+],
+  "geometry": {"coordinates":[-95.52575400000001,29.964427],"type":"Point"}
 }

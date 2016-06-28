@@ -2,13 +2,14 @@
   "id": 252933577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.503285,33.669285,-95.503285,33.669285",
     "geom:latitude":33.669285,
     "geom:longitude":-95.503285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 Pine Mill Rd",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252933577,
-    "wof:lastmodified":1449005640,
+    "wof:lastmodified":1467084061,
     "wof:name":"Paris Pump Svc",
     "wof:parent_id":85821611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-95.503285,33.669285,-95.503285,33.669285],
-  "geometry": {"coordinates":[-95.503285,33.669285],"type":"Point"}
+  "bbox": [
+    -95.503285,
+    33.669285,
+    -95.503285,
+    33.669285
+],
+  "geometry": {"coordinates":[-95.50328500000001,33.669285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270303015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560028,29.802163,-95.560028,29.802163",
     "geom:latitude":29.802163,
     "geom:longitude":-95.560028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1737 Stebbins Ste 230B",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270303015,
-    "wof:lastmodified":1449008678,
+    "wof:lastmodified":1467084151,
     "wof:name":"Party Explosion Houston",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "event"
     ]
 },
-  "bbox": [-95.560028,29.802163,-95.560028,29.802163],
+  "bbox": [
+    -95.560028,
+    29.802163,
+    -95.560028,
+    29.802163
+],
   "geometry": {"coordinates":[-95.560028,29.802163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186084379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.444372,31.439221,-100.444372,31.439221",
     "geom:latitude":31.439221,
     "geom:longitude":-100.444372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Knickerbocker Rd",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186084379,
-    "wof:lastmodified":1449050535,
+    "wof:lastmodified":1467084698,
     "wof:name":"Knickerbocker Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-100.444372,31.439221,-100.444372,31.439221],
+  "bbox": [
+    -100.444372,
+    31.439221,
+    -100.444372,
+    31.439221
+],
   "geometry": {"coordinates":[-100.444372,31.439221],"type":"Point"}
 }

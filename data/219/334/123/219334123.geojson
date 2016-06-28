@@ -2,13 +2,14 @@
   "id": 219334123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.491842,29.443873,-98.491842,29.443873",
     "geom:latitude":29.443873,
     "geom:longitude":-98.491842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Park Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219334123,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1467085122,
     "wof:name":"Caring Senior Svc",
     "wof:parent_id":85871065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-98.491842,29.443873,-98.491842,29.443873],
-  "geometry": {"coordinates":[-98.491842,29.443873],"type":"Point"}
+  "bbox": [
+    -98.491842,
+    29.443873,
+    -98.491842,
+    29.443873
+],
+  "geometry": {"coordinates":[-98.49184200000001,29.443873],"type":"Point"}
 }

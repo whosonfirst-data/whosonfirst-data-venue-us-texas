@@ -2,13 +2,14 @@
   "id": 287123513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.151407,30.056785,-99.151407,30.056785",
     "geom:latitude":30.056785,
     "geom:longitude":-99.151407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W Main St",
     "sg:city":"Kerrville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287123513,
-    "wof:lastmodified":1449000913,
+    "wof:lastmodified":1467083826,
     "wof:name":"Garcia Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [-99.151407,30.056785,-99.151407,30.056785],
-  "geometry": {"coordinates":[-99.151407,30.056785],"type":"Point"}
+  "bbox": [
+    -99.151407,
+    30.056785,
+    -99.151407,
+    30.056785
+],
+  "geometry": {"coordinates":[-99.15140700000001,30.056785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370761923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833249,32.671307,-96.833249,32.671307",
     "geom:latitude":32.671307,
     "geom:longitude":-96.833249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Mannington Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370761923,
-    "wof:lastmodified":1449031678,
+    "wof:lastmodified":1467084534,
     "wof:name":"La Bar Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.833249,32.671307,-96.833249,32.671307],
+  "bbox": [
+    -96.833249,
+    32.671307,
+    -96.833249,
+    32.671307
+],
   "geometry": {"coordinates":[-96.833249,32.671307],"type":"Point"}
 }

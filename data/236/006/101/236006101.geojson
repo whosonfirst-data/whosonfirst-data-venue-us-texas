@@ -2,13 +2,14 @@
   "id": 236006101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.472276,27.483216,-99.472276,27.483216",
     "geom:latitude":27.483216,
     "geom:longitude":-99.472276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 S Zapata Hwy",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236006101,
-    "wof:lastmodified":1449004478,
+    "wof:lastmodified":1467084002,
     "wof:name":"De Laly's",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.472276,27.483216,-99.472276,27.483216],
-  "geometry": {"coordinates":[-99.472276,27.483216],"type":"Point"}
+  "bbox": [
+    -99.472276,
+    27.483216,
+    -99.472276,
+    27.483216
+],
+  "geometry": {"coordinates":[-99.47227599999999,27.483216],"type":"Point"}
 }

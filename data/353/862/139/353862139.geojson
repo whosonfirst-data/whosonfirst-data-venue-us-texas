@@ -2,13 +2,14 @@
   "id": 353862139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.172909,32.811119,-97.172909,32.811119",
     "geom:latitude":32.811119,
     "geom:longitude":-97.172909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Harmon Rd",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353862139,
-    "wof:lastmodified":1449020879,
+    "wof:lastmodified":1467084378,
     "wof:name":"Tarrant County Mental Health",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-97.172909,32.811119,-97.172909,32.811119],
+  "bbox": [
+    -97.172909,
+    32.811119,
+    -97.172909,
+    32.811119
+],
   "geometry": {"coordinates":[-97.172909,32.811119],"type":"Point"}
 }

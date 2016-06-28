@@ -2,13 +2,14 @@
   "id": 236155849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.196818,29.766655,-95.196818,29.766655",
     "geom:latitude":29.766655,
     "geom:longitude":-95.196818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Miles St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236155849,
-    "wof:lastmodified":1449004550,
+    "wof:lastmodified":1467084006,
     "wof:name":"Bilbo Drivers Room",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.196818,29.766655,-95.196818,29.766655],
-  "geometry": {"coordinates":[-95.196818,29.766655],"type":"Point"}
+  "bbox": [
+    -95.196818,
+    29.766655,
+    -95.196818,
+    29.766655
+],
+  "geometry": {"coordinates":[-95.19681799999999,29.766655],"type":"Point"}
 }

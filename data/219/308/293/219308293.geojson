@@ -2,13 +2,14 @@
   "id": 219308293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.038451,29.580002,-95.038451,29.580002",
     "geom:latitude":29.580002,
     "geom:longitude":-95.038451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Crest Wood Dr",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":219308293,
-    "wof:lastmodified":1449074023,
+    "wof:lastmodified":1467085176,
     "wof:name":"Houston Fast Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.038451,29.580002,-95.038451,29.580002],
-  "geometry": {"coordinates":[-95.038451,29.580002],"type":"Point"}
+  "bbox": [
+    -95.038451,
+    29.580002,
+    -95.038451,
+    29.580002
+],
+  "geometry": {"coordinates":[-95.03845099999999,29.580002],"type":"Point"}
 }

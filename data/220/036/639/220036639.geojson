@@ -2,13 +2,14 @@
   "id": 220036639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.361002,32.75897,-97.361002,32.75897",
     "geom:latitude":32.75897,
     "geom:longitude":-97.361002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 University Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220036639,
-    "wof:lastmodified":1449074215,
+    "wof:lastmodified":1467085180,
     "wof:name":"Fire Dept",
     "wof:parent_id":85871551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-97.361002,32.75897,-97.361002,32.75897],
+  "bbox": [
+    -97.361002,
+    32.75897,
+    -97.361002,
+    32.75897
+],
   "geometry": {"coordinates":[-97.361002,32.75897],"type":"Point"}
 }

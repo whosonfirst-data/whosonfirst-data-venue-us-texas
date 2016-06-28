@@ -2,13 +2,14 @@
   "id": 303899875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.598869,35.22892,-100.598869,35.22892",
     "geom:latitude":35.22892,
     "geom:longitude":-100.598869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Waldron St",
     "sg:city":"Mclean",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303899875,
-    "wof:lastmodified":1449000444,
+    "wof:lastmodified":1467083807,
     "wof:name":"Mclean Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-100.598869,35.22892,-100.598869,35.22892],
-  "geometry": {"coordinates":[-100.598869,35.22892],"type":"Point"}
+  "bbox": [
+    -100.598869,
+    35.22892,
+    -100.598869,
+    35.22892
+],
+  "geometry": {"coordinates":[-100.59886899999999,35.22892],"type":"Point"}
 }

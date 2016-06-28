@@ -2,13 +2,14 @@
   "id": 370828507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359393,29.726582,-95.359393,29.726582",
     "geom:latitude":29.726582,
     "geom:longitude":-95.359393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 Winbern St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370828507,
-    "wof:lastmodified":1449030799,
+    "wof:lastmodified":1467084512,
     "wof:name":"Real Productions",
     "wof:parent_id":85869301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-95.359393,29.726582,-95.359393,29.726582],
+  "bbox": [
+    -95.359393,
+    29.726582,
+    -95.359393,
+    29.726582
+],
   "geometry": {"coordinates":[-95.359393,29.726582],"type":"Point"}
 }

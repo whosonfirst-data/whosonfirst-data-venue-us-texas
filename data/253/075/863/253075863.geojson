@@ -2,13 +2,14 @@
   "id": 253075863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86069,32.640173,-96.86069,32.640173",
     "geom:latitude":32.640173,
     "geom:longitude":-96.86069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Beckleymeade Ave Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253075863,
-    "wof:lastmodified":1449064440,
+    "wof:lastmodified":1467085000,
     "wof:name":"Go Rehab PA",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.86069,32.640173,-96.86069,32.640173],
-  "geometry": {"coordinates":[-96.86069,32.640173],"type":"Point"}
+  "bbox": [
+    -96.86069,
+    32.640173,
+    -96.86069,
+    32.640173
+],
+  "geometry": {"coordinates":[-96.86069000000001,32.640173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337363831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.127191,30.071968,-94.127191,30.071968",
     "geom:latitude":30.071968,
     "geom:longitude":-94.127191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 Fannin St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337363831,
-    "wof:lastmodified":1449027643,
+    "wof:lastmodified":1467084453,
     "wof:name":"Medical Center Profession",
     "wof:parent_id":85851487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.127191,30.071968,-94.127191,30.071968],
+  "bbox": [
+    -94.127191,
+    30.071968,
+    -94.127191,
+    30.071968
+],
   "geometry": {"coordinates":[-94.127191,30.071968],"type":"Point"}
 }

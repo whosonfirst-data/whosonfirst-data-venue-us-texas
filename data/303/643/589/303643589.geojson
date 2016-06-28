@@ -2,13 +2,14 @@
   "id": 303643589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.799911,30.172715,-97.799911,30.172715",
     "geom:latitude":30.172715,
     "geom:longitude":-97.799911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W Slaughter Ln #113",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303643589,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1467083796,
     "wof:name":"Capitol City Barbershop",
     "wof:parent_id":85869993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.799911,30.172715,-97.799911,30.172715],
-  "geometry": {"coordinates":[-97.799911,30.172715],"type":"Point"}
+  "bbox": [
+    -97.799911,
+    30.172715,
+    -97.799911,
+    30.172715
+],
+  "geometry": {"coordinates":[-97.79991099999999,30.172715],"type":"Point"}
 }

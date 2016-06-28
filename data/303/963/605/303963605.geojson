@@ -2,13 +2,14 @@
   "id": 303963605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.235526,33.66491,-101.235526,33.66491",
     "geom:latitude":33.66491,
     "geom:longitude":-101.235526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 N Front St",
     "sg:city":"Crosbyton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303963605,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1467083703,
     "wof:name":"Galilee Baptist Church Prsnage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-101.235526,33.66491,-101.235526,33.66491],
-  "geometry": {"coordinates":[-101.235526,33.66491],"type":"Point"}
+  "bbox": [
+    -101.235526,
+    33.66491,
+    -101.235526,
+    33.66491
+],
+  "geometry": {"coordinates":[-101.23552599999999,33.66491],"type":"Point"}
 }

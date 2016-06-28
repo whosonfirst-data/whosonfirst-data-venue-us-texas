@@ -2,13 +2,14 @@
   "id": 387519283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.137267,32.721367,-97.137267,32.721367",
     "geom:latitude":32.721367,
     "geom:longitude":-97.137267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 W Park Row Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387519283,
-    "wof:lastmodified":1449059666,
+    "wof:lastmodified":1467084876,
     "wof:name":"Frias Engineering",
     "wof:parent_id":85873093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.137267,32.721367,-97.137267,32.721367],
-  "geometry": {"coordinates":[-97.137267,32.721367],"type":"Point"}
+  "bbox": [
+    -97.137267,
+    32.721367,
+    -97.137267,
+    32.721367
+],
+  "geometry": {"coordinates":[-97.13726699999999,32.721367],"type":"Point"}
 }

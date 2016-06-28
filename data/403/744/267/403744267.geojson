@@ -2,13 +2,14 @@
   "id": 403744267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80549,32.808153,-96.80549,32.808153",
     "geom:latitude":32.808153,
     "geom:longitude":-96.80549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 Hood St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403744267,
-    "wof:lastmodified":1449055112,
+    "wof:lastmodified":1467084761,
     "wof:name":"Burch & Assoc",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.80549,32.808153,-96.80549,32.808153],
-  "geometry": {"coordinates":[-96.80549,32.808153],"type":"Point"}
+  "bbox": [
+    -96.80549,
+    32.808153,
+    -96.80549,
+    32.808153
+],
+  "geometry": {"coordinates":[-96.80549000000001,32.808153],"type":"Point"}
 }

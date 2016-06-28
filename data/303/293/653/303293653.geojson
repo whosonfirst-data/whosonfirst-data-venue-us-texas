@@ -2,13 +2,14 @@
   "id": 303293653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.771484,30.277521,-97.771484,30.277521",
     "geom:latitude":30.277521,
     "geom:longitude":-97.771484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Lake Austin Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303293653,
-    "wof:lastmodified":1448998594,
+    "wof:lastmodified":1467083715,
     "wof:name":"Lake Austin Blvd Animal Hospital",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.771484,30.277521,-97.771484,30.277521],
+  "bbox": [
+    -97.771484,
+    30.277521,
+    -97.771484,
+    30.277521
+],
   "geometry": {"coordinates":[-97.771484,30.277521],"type":"Point"}
 }

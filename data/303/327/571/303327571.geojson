@@ -2,13 +2,14 @@
   "id": 303327571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749794,30.259003,-97.749794,30.259003",
     "geom:latitude":30.259003,
     "geom:longitude":-97.749794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S 1st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303327571,
-    "wof:lastmodified":1448998305,
+    "wof:lastmodified":1467083701,
     "wof:name":"Palmer Event Ctr",
     "wof:parent_id":85893493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-97.749794,30.259003,-97.749794,30.259003],
-  "geometry": {"coordinates":[-97.749794,30.259003],"type":"Point"}
+  "bbox": [
+    -97.749794,
+    30.259003,
+    -97.749794,
+    30.259003
+],
+  "geometry": {"coordinates":[-97.74979399999999,30.259003],"type":"Point"}
 }

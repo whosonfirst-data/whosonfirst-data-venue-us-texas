@@ -2,13 +2,14 @@
   "id": 303043259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.974297,26.144752,-97.974297,26.144752",
     "geom:latitude":26.144752,
     "geom:longitude":-97.974297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 S Airport Dr Apt 95",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303043259,
-    "wof:lastmodified":1448999943,
+    "wof:lastmodified":1467083783,
     "wof:name":"Sangria Sunset",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-97.974297,26.144752,-97.974297,26.144752],
-  "geometry": {"coordinates":[-97.974297,26.144752],"type":"Point"}
+  "bbox": [
+    -97.974297,
+    26.144752,
+    -97.974297,
+    26.144752
+],
+  "geometry": {"coordinates":[-97.97429700000001,26.144752],"type":"Point"}
 }

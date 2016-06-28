@@ -2,13 +2,14 @@
   "id": 387484723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793168,32.801449,-96.793168,32.801449",
     "geom:latitude":32.801449,
     "geom:longitude":-96.793168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387484723,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1467084877,
     "wof:name":"H & R Operator Svc",
     "wof:parent_id":85870433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-96.793168,32.801449,-96.793168,32.801449],
-  "geometry": {"coordinates":[-96.793168,32.801449],"type":"Point"}
+  "bbox": [
+    -96.793168,
+    32.801449,
+    -96.793168,
+    32.801449
+],
+  "geometry": {"coordinates":[-96.79316799999999,32.801449],"type":"Point"}
 }

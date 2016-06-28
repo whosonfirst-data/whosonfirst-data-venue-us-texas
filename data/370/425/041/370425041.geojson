@@ -2,13 +2,14 @@
   "id": 370425041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.680577,33.66556,-101.680577,33.66556",
     "geom:latitude":33.66556,
     "geom:longitude":-101.680577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Main St",
     "sg:city":"Idalou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370425041,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1467084499,
     "wof:name":"Idalou Police Station",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.680577,33.66556,-101.680577,33.66556],
+  "bbox": [
+    -101.680577,
+    33.66556,
+    -101.680577,
+    33.66556
+],
   "geometry": {"coordinates":[-101.680577,33.66556],"type":"Point"}
 }

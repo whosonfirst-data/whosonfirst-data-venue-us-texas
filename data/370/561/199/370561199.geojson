@@ -2,13 +2,14 @@
   "id": 370561199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.344014,29.699015,-95.344014,29.699015",
     "geom:latitude":29.699015,
     "geom:longitude":-95.344014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5910 Wayland St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370561199,
-    "wof:lastmodified":1449031489,
+    "wof:lastmodified":1467084529,
     "wof:name":"J & J Container",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.344014,29.699015,-95.344014,29.699015],
+  "bbox": [
+    -95.344014,
+    29.699015,
+    -95.344014,
+    29.699015
+],
   "geometry": {"coordinates":[-95.344014,29.699015],"type":"Point"}
 }

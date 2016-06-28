@@ -2,13 +2,14 @@
   "id": 303805353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.693858,30.382396,-97.693858,30.382396",
     "geom:latitude":30.382396,
     "geom:longitude":-97.693858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Kramer Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303805353,
-    "wof:lastmodified":1448998932,
+    "wof:lastmodified":1467083732,
     "wof:name":"C & J Paint & Carpet Cleaning",
     "wof:parent_id":85869895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.693858,30.382396,-97.693858,30.382396],
-  "geometry": {"coordinates":[-97.693858,30.382396],"type":"Point"}
+  "bbox": [
+    -97.693858,
+    30.382396,
+    -97.693858,
+    30.382396
+],
+  "geometry": {"coordinates":[-97.69385800000001,30.382396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219432451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646189,32.823537,-96.646189,32.823537",
     "geom:latitude":32.823537,
     "geom:longitude":-96.646189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 Gus Thomasson Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219432451,
-    "wof:lastmodified":1449070319,
+    "wof:lastmodified":1467085098,
     "wof:name":"Cash Today",
     "wof:parent_id":85878897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-96.646189,32.823537,-96.646189,32.823537],
-  "geometry": {"coordinates":[-96.646189,32.823537],"type":"Point"}
+  "bbox": [
+    -96.646189,
+    32.823537,
+    -96.646189,
+    32.823537
+],
+  "geometry": {"coordinates":[-96.64618900000001,32.823537],"type":"Point"}
 }

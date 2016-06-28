@@ -2,13 +2,14 @@
   "id": 370545747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.98086,26.172024,-97.98086,26.172024",
     "geom:latitude":26.172024,
     "geom:longitude":-97.98086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Expy 83",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370545747,
-    "wof:lastmodified":1449029910,
+    "wof:lastmodified":1467084489,
     "wof:name":"Weslaco Ford",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.98086,26.172024,-97.98086,26.172024],
-  "geometry": {"coordinates":[-97.98086,26.172024],"type":"Point"}
+  "bbox": [
+    -97.98086,
+    26.172024,
+    -97.98086,
+    26.172024
+],
+  "geometry": {"coordinates":[-97.98086000000001,26.172024],"type":"Point"}
 }

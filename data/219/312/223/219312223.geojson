@@ -2,13 +2,14 @@
   "id": 219312223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.08491,30.382861,-96.08491,30.382861",
     "geom:latitude":30.382861,
     "geom:longitude":-96.08491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 State Hwy 6 Bus",
     "sg:city":"Navasota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219312223,
-    "wof:lastmodified":1449072163,
+    "wof:lastmodified":1467085137,
     "wof:name":"LA Casita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.08491,30.382861,-96.08491,30.382861],
-  "geometry": {"coordinates":[-96.08491,30.382861],"type":"Point"}
+  "bbox": [
+    -96.08491,
+    30.382861,
+    -96.08491,
+    30.382861
+],
+  "geometry": {"coordinates":[-96.08490999999999,30.382861],"type":"Point"}
 }

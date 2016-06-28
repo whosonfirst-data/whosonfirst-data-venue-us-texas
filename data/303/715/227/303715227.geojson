@@ -2,13 +2,14 @@
   "id": 303715227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713307,30.344925,-97.713307,30.344925",
     "geom:latitude":30.344925,
     "geom:longitude":-97.713307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7703 N Lamar Blvd 2nd Fl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303715227,
-    "wof:lastmodified":1449000073,
+    "wof:lastmodified":1467083789,
     "wof:name":"Assisted Bikes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.713307,30.344925,-97.713307,30.344925],
+  "bbox": [
+    -97.713307,
+    30.344925,
+    -97.713307,
+    30.344925
+],
   "geometry": {"coordinates":[-97.713307,30.344925],"type":"Point"}
 }

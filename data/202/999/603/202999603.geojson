@@ -2,13 +2,14 @@
   "id": 202999603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.293517,31.718547,-106.293517,31.718547",
     "geom:latitude":31.718547,
     "geom:longitude":-106.293517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12190 Rojas Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202999603,
-    "wof:lastmodified":1449062343,
+    "wof:lastmodified":1467084934,
     "wof:name":"Southwest Refrigerated Svcs",
     "wof:parent_id":85831241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "public"
     ]
 },
-  "bbox": [-106.293517,31.718547,-106.293517,31.718547],
-  "geometry": {"coordinates":[-106.293517,31.718547],"type":"Point"}
+  "bbox": [
+    -106.293517,
+    31.718547,
+    -106.293517,
+    31.718547
+],
+  "geometry": {"coordinates":[-106.29351699999999,31.718547],"type":"Point"}
 }

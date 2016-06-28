@@ -2,13 +2,14 @@
   "id": 253268087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.578538,33.865045,-98.578538,33.865045",
     "geom:latitude":33.865045,
     "geom:longitude":-98.578538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5517 Briargrove Dr",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253268087,
-    "wof:lastmodified":1449064505,
+    "wof:lastmodified":1467085003,
     "wof:name":"Texas Lawn Officers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.578538,33.865045,-98.578538,33.865045],
-  "geometry": {"coordinates":[-98.578538,33.865045],"type":"Point"}
+  "bbox": [
+    -98.578538,
+    33.865045,
+    -98.578538,
+    33.865045
+],
+  "geometry": {"coordinates":[-98.57853799999999,33.865045],"type":"Point"}
 }

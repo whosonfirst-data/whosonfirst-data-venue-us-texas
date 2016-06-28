@@ -2,13 +2,14 @@
   "id": 270010635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.447197,29.818899,-95.447197,29.818899",
     "geom:latitude":29.818899,
     "geom:longitude":-95.447197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3534 W T C Jester Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":270010635,
-    "wof:lastmodified":1449010166,
+    "wof:lastmodified":1467084200,
     "wof:name":"Rm T Trading",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "women's"
     ]
 },
-  "bbox": [-95.447197,29.818899,-95.447197,29.818899],
+  "bbox": [
+    -95.447197,
+    29.818899,
+    -95.447197,
+    29.818899
+],
   "geometry": {"coordinates":[-95.447197,29.818899],"type":"Point"}
 }

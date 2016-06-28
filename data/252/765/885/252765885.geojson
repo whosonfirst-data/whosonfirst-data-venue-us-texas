@@ -2,13 +2,14 @@
   "id": 252765885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.700578,33.228415,-97.700578,33.228415",
     "geom:latitude":33.228415,
     "geom:longitude":-97.700578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Cuba Rd",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252765885,
-    "wof:lastmodified":1449006042,
+    "wof:lastmodified":1467084082,
     "wof:name":"Lake Bridgeport Cmnty Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.700578,33.228415,-97.700578,33.228415],
-  "geometry": {"coordinates":[-97.700578,33.228415],"type":"Point"}
+  "bbox": [
+    -97.700578,
+    33.228415,
+    -97.700578,
+    33.228415
+],
+  "geometry": {"coordinates":[-97.70057799999999,33.228415],"type":"Point"}
 }

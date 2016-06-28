@@ -2,13 +2,14 @@
   "id": 287280223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.205313,26.307705,-98.205313,26.307705",
     "geom:latitude":26.307705,
     "geom:longitude":-98.205313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3917 W State Highway 107",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":287280223,
-    "wof:lastmodified":1449001094,
+    "wof:lastmodified":1467083832,
     "wof:name":"Cytech Heating & Cooling, L.C.",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -106,6 +108,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-98.205313,26.307705,-98.205313,26.307705],
+  "bbox": [
+    -98.205313,
+    26.307705,
+    -98.205313,
+    26.307705
+],
   "geometry": {"coordinates":[-98.205313,26.307705],"type":"Point"}
 }

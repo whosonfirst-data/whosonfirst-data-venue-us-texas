@@ -2,13 +2,14 @@
   "id": 236835147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802191,32.793182,-96.802191,32.793182",
     "geom:latitude":32.793182,
     "geom:longitude":-96.802191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Mckinney Ave Ste 230",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236835147,
-    "wof:lastmodified":1449002028,
+    "wof:lastmodified":1467083880,
     "wof:name":"The Cupcakery",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dessert"
     ]
 },
-  "bbox": [-96.802191,32.793182,-96.802191,32.793182],
-  "geometry": {"coordinates":[-96.802191,32.793182],"type":"Point"}
+  "bbox": [
+    -96.802191,
+    32.793182,
+    -96.802191,
+    32.793182
+],
+  "geometry": {"coordinates":[-96.80219099999999,32.793182],"type":"Point"}
 }

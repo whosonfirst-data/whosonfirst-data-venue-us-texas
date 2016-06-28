@@ -2,13 +2,14 @@
   "id": 270119667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.457397,29.732201,-95.457397,29.732201",
     "geom:latitude":29.732201,
     "geom:longitude":-95.457397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4733 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270119667,
-    "wof:lastmodified":1449010397,
+    "wof:lastmodified":1467084208,
     "wof:name":"Budget",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-95.457397,29.732201,-95.457397,29.732201],
+  "bbox": [
+    -95.457397,
+    29.732201,
+    -95.457397,
+    29.732201
+],
   "geometry": {"coordinates":[-95.457397,29.732201],"type":"Point"}
 }

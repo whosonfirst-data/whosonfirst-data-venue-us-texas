@@ -2,13 +2,14 @@
   "id": 252840193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.879422,32.873687,-96.879422,32.873687",
     "geom:latitude":32.873687,
     "geom:longitude":-96.879422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Blystone Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252840193,
-    "wof:lastmodified":1449006263,
+    "wof:lastmodified":1467084095,
     "wof:name":"Majestic Liquor Stores",
     "wof:parent_id":85839505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.879422,32.873687,-96.879422,32.873687],
-  "geometry": {"coordinates":[-96.879422,32.873687],"type":"Point"}
+  "bbox": [
+    -96.879422,
+    32.873687,
+    -96.879422,
+    32.873687
+],
+  "geometry": {"coordinates":[-96.87942200000001,32.873687],"type":"Point"}
 }

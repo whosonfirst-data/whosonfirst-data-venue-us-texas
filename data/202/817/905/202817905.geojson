@@ -2,13 +2,14 @@
   "id": 202817905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503798,29.347095,-98.503798,29.347095",
     "geom:latitude":29.347095,
     "geom:longitude":-98.503798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Pleasanton Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202817905,
-    "wof:lastmodified":1449062169,
+    "wof:lastmodified":1467084931,
     "wof:name":"Fiesta Bakery",
     "wof:parent_id":85851961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-98.503798,29.347095,-98.503798,29.347095],
+  "bbox": [
+    -98.503798,
+    29.347095,
+    -98.503798,
+    29.347095
+],
   "geometry": {"coordinates":[-98.503798,29.347095],"type":"Point"}
 }

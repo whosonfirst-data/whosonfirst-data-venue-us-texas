@@ -2,13 +2,14 @@
   "id": 235948705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.852054,30.166309,-97.852054,30.166309",
     "geom:latitude":30.166309,
     "geom:longitude":-97.852054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 Ammunition Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235948705,
-    "wof:lastmodified":1449008528,
+    "wof:lastmodified":1467084146,
     "wof:name":"Housemart Inspections",
     "wof:parent_id":85865413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.852054,30.166309,-97.852054,30.166309],
+  "bbox": [
+    -97.852054,
+    30.166309,
+    -97.852054,
+    30.166309
+],
   "geometry": {"coordinates":[-97.852054,30.166309],"type":"Point"}
 }

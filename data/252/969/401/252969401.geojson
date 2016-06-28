@@ -2,13 +2,14 @@
   "id": 252969401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.372331,29.77524,-95.372331,29.77524",
     "geom:latitude":29.77524,
     "geom:longitude":-95.372331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Houston Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252969401,
-    "wof:lastmodified":1449005686,
+    "wof:lastmodified":1467084063,
     "wof:name":"FRM Grocery Store",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.372331,29.77524,-95.372331,29.77524],
+  "bbox": [
+    -95.372331,
+    29.77524,
+    -95.372331,
+    29.77524
+],
   "geometry": {"coordinates":[-95.372331,29.77524],"type":"Point"}
 }

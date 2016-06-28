@@ -2,13 +2,14 @@
   "id": 236549195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.835602,33.032249,-96.835602,33.032249",
     "geom:latitude":33.032249,
     "geom:longitude":-96.835602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Chapel Hill Blvd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236549195,
-    "wof:lastmodified":1449002372,
+    "wof:lastmodified":1467083904,
     "wof:name":"Sockwell Educator Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.835602,33.032249,-96.835602,33.032249],
-  "geometry": {"coordinates":[-96.835602,33.032249],"type":"Point"}
+  "bbox": [
+    -96.835602,
+    33.032249,
+    -96.835602,
+    33.032249
+],
+  "geometry": {"coordinates":[-96.83560199999999,33.032249],"type":"Point"}
 }

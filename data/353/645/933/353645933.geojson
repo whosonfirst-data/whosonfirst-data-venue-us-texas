@@ -2,13 +2,14 @@
   "id": 353645933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.316415,31.728323,-106.316415,31.728323",
     "geom:latitude":31.728323,
     "geom:longitude":-106.316415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Kessler Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353645933,
-    "wof:lastmodified":1449018513,
+    "wof:lastmodified":1467084327,
     "wof:name":"Gecko Logistics",
     "wof:parent_id":85831241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-106.316415,31.728323,-106.316415,31.728323],
-  "geometry": {"coordinates":[-106.316415,31.728323],"type":"Point"}
+  "bbox": [
+    -106.316415,
+    31.728323,
+    -106.316415,
+    31.728323
+],
+  "geometry": {"coordinates":[-106.31641500000001,31.728323],"type":"Point"}
 }

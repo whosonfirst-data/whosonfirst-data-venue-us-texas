@@ -2,13 +2,14 @@
   "id": 186412191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.710642,30.681552,-97.710642,30.681552",
     "geom:latitude":30.681552,
     "geom:longitude":-97.710642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Miramar Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186412191,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1467084703,
     "wof:name":"Merton Co",
     "wof:parent_id":85893919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.710642,30.681552,-97.710642,30.681552],
-  "geometry": {"coordinates":[-97.710642,30.681552],"type":"Point"}
+  "bbox": [
+    -97.710642,
+    30.681552,
+    -97.710642,
+    30.681552
+],
+  "geometry": {"coordinates":[-97.71064200000001,30.681552],"type":"Point"}
 }

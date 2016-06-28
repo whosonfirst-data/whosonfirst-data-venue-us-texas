@@ -2,13 +2,14 @@
   "id": 269503537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483708,33.002342,-97.483708,33.002342",
     "geom:latitude":33.002342,
     "geom:longitude":-97.483708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Fm 718",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":269503537,
-    "wof:lastmodified":1449038972,
+    "wof:lastmodified":1467084638,
     "wof:name":"USPS - United States Post Office - Newark Po",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.483708,33.002342,-97.483708,33.002342],
-  "geometry": {"coordinates":[-97.483708,33.002342],"type":"Point"}
+  "bbox": [
+    -97.483708,
+    33.002342,
+    -97.483708,
+    33.002342
+],
+  "geometry": {"coordinates":[-97.48370799999999,33.002342],"type":"Point"}
 }

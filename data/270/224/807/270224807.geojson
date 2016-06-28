@@ -2,13 +2,14 @@
   "id": 270224807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.509407,29.718378,-95.509407,29.718378",
     "geom:latitude":29.718378,
     "geom:longitude":-95.509407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Braxton Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270224807,
-    "wof:lastmodified":1449010446,
+    "wof:lastmodified":1467084210,
     "wof:name":"Wang Global Net",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.509407,29.718378,-95.509407,29.718378],
+  "bbox": [
+    -95.509407,
+    29.718378,
+    -95.509407,
+    29.718378
+],
   "geometry": {"coordinates":[-95.509407,29.718378],"type":"Point"}
 }

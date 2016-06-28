@@ -2,13 +2,14 @@
   "id": 270011337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.433098,29.820601,-95.433098,29.820601",
     "geom:latitude":29.820601,
     "geom:longitude":-95.433098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 Judiway St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270011337,
-    "wof:lastmodified":1449010619,
+    "wof:lastmodified":1467084215,
     "wof:name":"Commercial Electrical Contract",
     "wof:parent_id":85869269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.433098,29.820601,-95.433098,29.820601],
+  "bbox": [
+    -95.433098,
+    29.820601,
+    -95.433098,
+    29.820601
+],
   "geometry": {"coordinates":[-95.433098,29.820601],"type":"Point"}
 }

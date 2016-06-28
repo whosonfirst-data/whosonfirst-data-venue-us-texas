@@ -2,13 +2,14 @@
   "id": 236305399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.085491,30.350473,-95.085491,30.350473",
     "geom:latitude":30.350473,
     "geom:longitude":-95.085491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Belcher St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236305399,
-    "wof:lastmodified":1449002052,
+    "wof:lastmodified":1467083882,
     "wof:name":"C&G Tax Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.085491,30.350473,-95.085491,30.350473],
+  "bbox": [
+    -95.085491,
+    30.350473,
+    -95.085491,
+    30.350473
+],
   "geometry": {"coordinates":[-95.085491,30.350473],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220178111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.421431,29.76176,-95.421431,29.76176",
     "geom:latitude":29.76176,
     "geom:longitude":-95.421431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Westcott St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220178111,
-    "wof:lastmodified":1449074631,
+    "wof:lastmodified":1467085190,
     "wof:name":"Houston Area Rapid Transit",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.421431,29.76176,-95.421431,29.76176],
+  "bbox": [
+    -95.421431,
+    29.76176,
+    -95.421431,
+    29.76176
+],
   "geometry": {"coordinates":[-95.421431,29.76176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286318609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.66048,29.831505,-95.66048,29.831505",
     "geom:latitude":29.831505,
     "geom:longitude":-95.66048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17107 Clay Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286318609,
-    "wof:lastmodified":1449015821,
+    "wof:lastmodified":1467084254,
     "wof:name":"Cls 180 Mph Inc",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.66048,29.831505,-95.66048,29.831505],
-  "geometry": {"coordinates":[-95.66048,29.831505],"type":"Point"}
+  "bbox": [
+    -95.66048,
+    29.831505,
+    -95.66048,
+    29.831505
+],
+  "geometry": {"coordinates":[-95.66048000000001,29.831505],"type":"Point"}
 }

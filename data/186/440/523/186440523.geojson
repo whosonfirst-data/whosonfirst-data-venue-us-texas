@@ -2,13 +2,14 @@
   "id": 186440523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.301128,31.744297,-106.301128,31.744297",
     "geom:latitude":31.744297,
     "geom:longitude":-106.301128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11601 Pellicano Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186440523,
-    "wof:lastmodified":1449051344,
+    "wof:lastmodified":1467084712,
     "wof:name":"El Paso Durable Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.301128,31.744297,-106.301128,31.744297],
-  "geometry": {"coordinates":[-106.301128,31.744297],"type":"Point"}
+  "bbox": [
+    -106.301128,
+    31.744297,
+    -106.301128,
+    31.744297
+],
+  "geometry": {"coordinates":[-106.30112800000001,31.744297],"type":"Point"}
 }

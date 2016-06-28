@@ -2,13 +2,14 @@
   "id": 185745819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60288,32.97416,-97.60288,32.97416",
     "geom:latitude":32.97416,
     "geom:longitude":-97.60288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Wonder Dr",
     "sg:city":"Springtown",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185745819,
-    "wof:lastmodified":1449008123,
+    "wof:lastmodified":1467084138,
     "wof:name":"Multi Data Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-97.60288,32.97416,-97.60288,32.97416],
+  "bbox": [
+    -97.60288,
+    32.97416,
+    -97.60288,
+    32.97416
+],
   "geometry": {"coordinates":[-97.60288,32.97416],"type":"Point"}
 }

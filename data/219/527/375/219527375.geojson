@@ -2,13 +2,14 @@
   "id": 219527375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.193214,32.672955,-97.193214,32.672955",
     "geom:latitude":32.672955,
     "geom:longitude":-97.193214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5736 SW Green Oaks Blvd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219527375,
-    "wof:lastmodified":1449073201,
+    "wof:lastmodified":1467085159,
     "wof:name":"Apartment Locator DFW",
     "wof:parent_id":85851851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.193214,32.672955,-97.193214,32.672955],
+  "bbox": [
+    -97.193214,
+    32.672955,
+    -97.193214,
+    32.672955
+],
   "geometry": {"coordinates":[-97.193214,32.672955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387325165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.323208,32.701086,-97.323208,32.701086",
     "geom:latitude":32.701086,
     "geom:longitude":-97.323208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3337 Jones St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387325165,
-    "wof:lastmodified":1449057604,
+    "wof:lastmodified":1467084822,
     "wof:name":"Quality Professional Vehicles",
     "wof:parent_id":85871585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.323208,32.701086,-97.323208,32.701086],
-  "geometry": {"coordinates":[-97.323208,32.701086],"type":"Point"}
+  "bbox": [
+    -97.323208,
+    32.701086,
+    -97.323208,
+    32.701086
+],
+  "geometry": {"coordinates":[-97.32320799999999,32.701086],"type":"Point"}
 }

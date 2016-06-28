@@ -2,13 +2,14 @@
   "id": 303728717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.674379,30.409106,-97.674379,30.409106",
     "geom:latitude":30.409106,
     "geom:longitude":-97.674379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12901 N Interstate 35 Ste 1320",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303728717,
-    "wof:lastmodified":1448998679,
+    "wof:lastmodified":1467083719,
     "wof:name":"PetSmart",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-97.674379,30.409106,-97.674379,30.409106],
+  "bbox": [
+    -97.674379,
+    30.409106,
+    -97.674379,
+    30.409106
+],
   "geometry": {"coordinates":[-97.674379,30.409106],"type":"Point"}
 }

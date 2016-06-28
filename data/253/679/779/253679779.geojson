@@ -2,13 +2,14 @@
   "id": 253679779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.364326,32.54224,-97.364326,32.54224",
     "geom:latitude":32.54224,
     "geom:longitude":-97.364326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 NW John Jones Dr",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253679779,
-    "wof:lastmodified":1449064732,
+    "wof:lastmodified":1467085011,
     "wof:name":"CHASE Bank",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.364326,32.54224,-97.364326,32.54224],
-  "geometry": {"coordinates":[-97.364326,32.54224],"type":"Point"}
+  "bbox": [
+    -97.364326,
+    32.54224,
+    -97.364326,
+    32.54224
+],
+  "geometry": {"coordinates":[-97.36432600000001,32.54224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387758003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.800527,30.255421,-97.800527,30.255421",
     "geom:latitude":30.255421,
     "geom:longitude":-97.800527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Via Fortuna",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387758003,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1467084813,
     "wof:name":"Madison Interests",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.800527,30.255421,-97.800527,30.255421],
+  "bbox": [
+    -97.800527,
+    30.255421,
+    -97.800527,
+    30.255421
+],
   "geometry": {"coordinates":[-97.800527,30.255421],"type":"Point"}
 }

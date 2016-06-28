@@ -2,13 +2,14 @@
   "id": 252893699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777702,32.785099,-96.777702,32.785099",
     "geom:latitude":32.785099,
     "geom:longitude":-96.777702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Main St Ste 13",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252893699,
-    "wof:lastmodified":1449006301,
+    "wof:lastmodified":1467084097,
     "wof:name":"Undermain Theatre",
     "wof:parent_id":85867221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-96.777702,32.785099,-96.777702,32.785099],
-  "geometry": {"coordinates":[-96.777702,32.785099],"type":"Point"}
+  "bbox": [
+    -96.777702,
+    32.785099,
+    -96.777702,
+    32.785099
+],
+  "geometry": {"coordinates":[-96.77770200000001,32.785099],"type":"Point"}
 }

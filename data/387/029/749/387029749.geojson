@@ -2,13 +2,14 @@
   "id": 387029749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.080465,30.052711,-94.080465,30.052711",
     "geom:latitude":30.052711,
     "geom:longitude":-94.080465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3580 S M L King Jr Pkwy",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387029749,
-    "wof:lastmodified":1449057713,
+    "wof:lastmodified":1467084825,
     "wof:name":"Carley House Apartments",
     "wof:parent_id":85859499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-94.080465,30.052711,-94.080465,30.052711],
+  "bbox": [
+    -94.080465,
+    30.052711,
+    -94.080465,
+    30.052711
+],
   "geometry": {"coordinates":[-94.080465,30.052711],"type":"Point"}
 }

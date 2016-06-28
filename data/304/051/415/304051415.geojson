@@ -2,13 +2,14 @@
   "id": 304051415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.752845,32.419153,-99.752845,32.419153",
     "geom:latitude":32.419153,
     "geom:longitude":-99.752845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 S 25th St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304051415,
-    "wof:lastmodified":1449043946,
+    "wof:lastmodified":1467084667,
     "wof:name":"Beyer Painting John",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.752845,32.419153,-99.752845,32.419153],
-  "geometry": {"coordinates":[-99.752845,32.419153],"type":"Point"}
+  "bbox": [
+    -99.752845,
+    32.419153,
+    -99.752845,
+    32.419153
+],
+  "geometry": {"coordinates":[-99.75284499999999,32.419153],"type":"Point"}
 }

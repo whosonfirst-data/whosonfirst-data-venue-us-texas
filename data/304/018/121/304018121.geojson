@@ -2,13 +2,14 @@
   "id": 304018121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.793991,33.584011,-99.793991,33.584011",
     "geom:latitude":33.584011,
     "geom:longitude":-99.793991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Hays St",
     "sg:city":"Benjamin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":304018121,
-    "wof:lastmodified":1449043871,
+    "wof:lastmodified":1467084665,
     "wof:name":"Sun Pipeline Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.793991,33.584011,-99.793991,33.584011],
-  "geometry": {"coordinates":[-99.793991,33.584011],"type":"Point"}
+  "bbox": [
+    -99.793991,
+    33.584011,
+    -99.793991,
+    33.584011
+],
+  "geometry": {"coordinates":[-99.79399100000001,33.584011],"type":"Point"}
 }

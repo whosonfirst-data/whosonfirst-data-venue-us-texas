@@ -2,13 +2,14 @@
   "id": 270100319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.316887,29.799554,-95.316887,29.799554",
     "geom:latitude":29.799554,
     "geom:longitude":-95.316887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 Lockwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270100319,
-    "wof:lastmodified":1449010457,
+    "wof:lastmodified":1467084210,
     "wof:name":"All About Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-95.316887,29.799554,-95.316887,29.799554],
-  "geometry": {"coordinates":[-95.316887,29.799554],"type":"Point"}
+  "bbox": [
+    -95.316887,
+    29.799554,
+    -95.316887,
+    29.799554
+],
+  "geometry": {"coordinates":[-95.31688699999999,29.799554],"type":"Point"}
 }

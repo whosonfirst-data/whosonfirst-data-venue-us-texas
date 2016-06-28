@@ -2,13 +2,14 @@
   "id": 186562783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.831606,30.141848,-97.831606,30.141848",
     "geom:latitude":30.141848,
     "geom:longitude":-97.831606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Meridith Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186562783,
-    "wof:lastmodified":1449051793,
+    "wof:lastmodified":1467084721,
     "wof:name":"Claims Group",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-97.831606,30.141848,-97.831606,30.141848],
-  "geometry": {"coordinates":[-97.831606,30.141848],"type":"Point"}
+  "bbox": [
+    -97.831606,
+    30.141848,
+    -97.831606,
+    30.141848
+],
+  "geometry": {"coordinates":[-97.83160599999999,30.141848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252810181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709099,32.840099,-96.709099,32.840099",
     "geom:latitude":32.840099,
     "geom:longitude":-96.709099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9243 E Lake Highlands Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252810181,
-    "wof:lastmodified":1449005738,
+    "wof:lastmodified":1467084066,
     "wof:name":"Personal Headlines",
     "wof:parent_id":85870391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.709099,32.840099,-96.709099,32.840099],
-  "geometry": {"coordinates":[-96.709099,32.840099],"type":"Point"}
+  "bbox": [
+    -96.709099,
+    32.840099,
+    -96.709099,
+    32.840099
+],
+  "geometry": {"coordinates":[-96.70909899999999,32.840099],"type":"Point"}
 }

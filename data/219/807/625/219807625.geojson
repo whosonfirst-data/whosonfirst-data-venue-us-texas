@@ -2,13 +2,14 @@
   "id": 219807625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.089517,27.75399,-98.089517,27.75399",
     "geom:latitude":27.75399,
     "geom:longitude":-98.089517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Bruce St",
     "sg:city":"Alice",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219807625,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1467085119,
     "wof:name":"A & C Super Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.089517,27.75399,-98.089517,27.75399],
+  "bbox": [
+    -98.089517,
+    27.75399,
+    -98.089517,
+    27.75399
+],
   "geometry": {"coordinates":[-98.089517,27.75399],"type":"Point"}
 }

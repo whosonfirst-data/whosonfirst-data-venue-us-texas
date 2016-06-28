@@ -2,13 +2,14 @@
   "id": 387601783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.496138,29.826785,-95.496138,29.826785",
     "geom:latitude":29.826785,
     "geom:longitude":-95.496138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12233 Sowden Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387601783,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1467084827,
     "wof:name":"Thermal Air Systems",
     "wof:parent_id":85869401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.496138,29.826785,-95.496138,29.826785],
+  "bbox": [
+    -95.496138,
+    29.826785,
+    -95.496138,
+    29.826785
+],
   "geometry": {"coordinates":[-95.496138,29.826785],"type":"Point"}
 }

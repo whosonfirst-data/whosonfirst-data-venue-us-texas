@@ -2,13 +2,14 @@
   "id": 303361939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737198,30.2917,-97.737198,30.2917",
     "geom:latitude":30.2917,
     "geom:longitude":-97.737198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W 34th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303361939,
-    "wof:lastmodified":1448999900,
+    "wof:lastmodified":1467083780,
     "wof:name":"Dr. Craig Lubin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.737198,30.2917,-97.737198,30.2917],
-  "geometry": {"coordinates":[-97.737198,30.2917],"type":"Point"}
+  "bbox": [
+    -97.737198,
+    30.2917,
+    -97.737198,
+    30.2917
+],
+  "geometry": {"coordinates":[-97.73719800000001,30.2917],"type":"Point"}
 }

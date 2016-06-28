@@ -2,13 +2,14 @@
   "id": 303647821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.845537,30.177066,-97.845537,30.177066",
     "geom:latitude":30.177066,
     "geom:longitude":-97.845537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10215 Rocking Horse Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303647821,
-    "wof:lastmodified":1448999278,
+    "wof:lastmodified":1467083750,
     "wof:name":"Diehr Masonry",
     "wof:parent_id":85869991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.845537,30.177066,-97.845537,30.177066],
-  "geometry": {"coordinates":[-97.845537,30.177066],"type":"Point"}
+  "bbox": [
+    -97.845537,
+    30.177066,
+    -97.845537,
+    30.177066
+],
+  "geometry": {"coordinates":[-97.84553699999999,30.177066],"type":"Point"}
 }

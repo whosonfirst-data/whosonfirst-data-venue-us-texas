@@ -2,13 +2,14 @@
   "id": 404003703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.722944,31.126413,-97.722944,31.126413",
     "geom:latitude":31.126413,
     "geom:longitude":-97.722944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N 10th St",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404003703,
-    "wof:lastmodified":1449040241,
+    "wof:lastmodified":1467084659,
     "wof:name":"School Safety",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-97.722944,31.126413,-97.722944,31.126413],
+  "bbox": [
+    -97.722944,
+    31.126413,
+    -97.722944,
+    31.126413
+],
   "geometry": {"coordinates":[-97.722944,31.126413],"type":"Point"}
 }

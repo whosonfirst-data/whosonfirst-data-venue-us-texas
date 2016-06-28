@@ -2,13 +2,14 @@
   "id": 270388587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.46035,29.763849,-95.46035,29.763849",
     "geom:latitude":29.763849,
     "geom:longitude":-95.46035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Woodway Dr Suite 885",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270388587,
-    "wof:lastmodified":1449008764,
+    "wof:lastmodified":1467084154,
     "wof:name":"Blummer, William E CPA",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "public"
     ]
 },
-  "bbox": [-95.46035,29.763849,-95.46035,29.763849],
-  "geometry": {"coordinates":[-95.46035,29.763849],"type":"Point"}
+  "bbox": [
+    -95.46035,
+    29.763849,
+    -95.46035,
+    29.763849
+],
+  "geometry": {"coordinates":[-95.46035000000001,29.763849],"type":"Point"}
 }

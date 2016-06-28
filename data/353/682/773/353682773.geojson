@@ -2,13 +2,14 @@
   "id": 353682773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.146747,26.297237,-98.146747,26.297237",
     "geom:latitude":26.297237,
     "geom:longitude":-98.146747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S 25th Ave",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353682773,
-    "wof:lastmodified":1449018686,
+    "wof:lastmodified":1467084330,
     "wof:name":"Housing Authority City",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-98.146747,26.297237,-98.146747,26.297237],
+  "bbox": [
+    -98.146747,
+    26.297237,
+    -98.146747,
+    26.297237
+],
   "geometry": {"coordinates":[-98.146747,26.297237],"type":"Point"}
 }

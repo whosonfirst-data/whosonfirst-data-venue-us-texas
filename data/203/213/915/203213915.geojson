@@ -2,13 +2,14 @@
   "id": 203213915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.65891,33.165093,-96.65891,33.165093",
     "geom:latitude":33.165093,
     "geom:longitude":-96.65891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 Bordeaux Dr",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203213915,
-    "wof:lastmodified":1449024964,
+    "wof:lastmodified":1467084385,
     "wof:name":"Home Provider Investments",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-96.65891,33.165093,-96.65891,33.165093],
-  "geometry": {"coordinates":[-96.65891,33.165093],"type":"Point"}
+  "bbox": [
+    -96.65891,
+    33.165093,
+    -96.65891,
+    33.165093
+],
+  "geometry": {"coordinates":[-96.65891000000001,33.165093],"type":"Point"}
 }

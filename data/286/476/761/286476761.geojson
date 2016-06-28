@@ -2,13 +2,14 @@
   "id": 286476761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.063511,30.038696,-95.063511,30.038696",
     "geom:latitude":30.038696,
     "geom:longitude":-95.063511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Huffman Eastgate Rd",
     "sg:city":"Huffman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286476761,
-    "wof:lastmodified":1449016365,
+    "wof:lastmodified":1467084268,
     "wof:name":"Tele-Made",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.063511,30.038696,-95.063511,30.038696],
-  "geometry": {"coordinates":[-95.063511,30.038696],"type":"Point"}
+  "bbox": [
+    -95.063511,
+    30.038696,
+    -95.063511,
+    30.038696
+],
+  "geometry": {"coordinates":[-95.06351100000001,30.038696],"type":"Point"}
 }

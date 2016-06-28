@@ -2,13 +2,14 @@
   "id": 303314239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.764739,30.234403,-97.764739,30.234403",
     "geom:latitude":30.234403,
     "geom:longitude":-97.764739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Peacock Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303314239,
-    "wof:lastmodified":1449000461,
+    "wof:lastmodified":1467083808,
     "wof:name":"Peacock Four",
     "wof:parent_id":85869931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.764739,30.234403,-97.764739,30.234403],
-  "geometry": {"coordinates":[-97.764739,30.234403],"type":"Point"}
+  "bbox": [
+    -97.764739,
+    30.234403,
+    -97.764739,
+    30.234403
+],
+  "geometry": {"coordinates":[-97.76473900000001,30.234403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303283007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721684,30.255829,-97.721684,30.255829",
     "geom:latitude":30.255829,
     "geom:longitude":-97.721684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 E Cesar Chavez St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303283007,
-    "wof:lastmodified":1448998839,
+    "wof:lastmodified":1467083727,
     "wof:name":"Coco Coquette",
     "wof:parent_id":85869933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.721684,30.255829,-97.721684,30.255829],
+  "bbox": [
+    -97.721684,
+    30.255829,
+    -97.721684,
+    30.255829
+],
   "geometry": {"coordinates":[-97.721684,30.255829],"type":"Point"}
 }

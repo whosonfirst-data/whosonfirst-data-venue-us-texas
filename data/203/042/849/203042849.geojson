@@ -2,13 +2,14 @@
   "id": 203042849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736545,30.34659,-97.736545,30.34659",
     "geom:latitude":30.34659,
     "geom:longitude":-97.736545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 Burnet Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203042849,
-    "wof:lastmodified":1449026382,
+    "wof:lastmodified":1467084411,
     "wof:name":"Retirement & Nursing Ctr",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.736545,30.34659,-97.736545,30.34659],
-  "geometry": {"coordinates":[-97.736545,30.34659],"type":"Point"}
+  "bbox": [
+    -97.736545,
+    30.34659,
+    -97.736545,
+    30.34659
+],
+  "geometry": {"coordinates":[-97.73654500000001,30.34659],"type":"Point"}
 }

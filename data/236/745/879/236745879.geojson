@@ -2,13 +2,14 @@
   "id": 236745879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.408089,30.134305,-95.408089,30.134305",
     "geom:latitude":30.134305,
     "geom:longitude":-95.408089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30518 Glenboro Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236745879,
-    "wof:lastmodified":1449005069,
+    "wof:lastmodified":1467084031,
     "wof:name":"Rocketdev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-95.408089,30.134305,-95.408089,30.134305],
+  "bbox": [
+    -95.408089,
+    30.134305,
+    -95.408089,
+    30.134305
+],
   "geometry": {"coordinates":[-95.408089,30.134305],"type":"Point"}
 }

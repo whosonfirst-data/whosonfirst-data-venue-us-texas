@@ -2,13 +2,14 @@
   "id": 354112231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.871304,30.252536,-97.871304,30.252536",
     "geom:latitude":30.252536,
     "geom:longitude":-97.871304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 Rialto Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354112231,
-    "wof:lastmodified":1449066699,
+    "wof:lastmodified":1467085070,
     "wof:name":"C & R Consulting",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.871304,30.252536,-97.871304,30.252536],
-  "geometry": {"coordinates":[-97.871304,30.252536],"type":"Point"}
+  "bbox": [
+    -97.871304,
+    30.252536,
+    -97.871304,
+    30.252536
+],
+  "geometry": {"coordinates":[-97.87130399999999,30.252536],"type":"Point"}
 }

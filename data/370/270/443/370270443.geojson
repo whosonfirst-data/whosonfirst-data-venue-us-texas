@@ -2,13 +2,14 @@
   "id": 370270443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740372,31.106696,-97.740372,31.106696",
     "geom:latitude":31.106696,
     "geom:longitude":-97.740372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Mary Jane Dr",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370270443,
-    "wof:lastmodified":1449029692,
+    "wof:lastmodified":1467084484,
     "wof:name":"Affordable Fences",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-97.740372,31.106696,-97.740372,31.106696],
-  "geometry": {"coordinates":[-97.740372,31.106696],"type":"Point"}
+  "bbox": [
+    -97.740372,
+    31.106696,
+    -97.740372,
+    31.106696
+],
+  "geometry": {"coordinates":[-97.74037199999999,31.106696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303367117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740453,30.299744,-97.740453,30.299744",
     "geom:latitude":30.299744,
     "geom:longitude":-97.740453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Guadalupe St # A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303367117,
-    "wof:lastmodified":1448999565,
+    "wof:lastmodified":1467083764,
     "wof:name":"L Obo Austin",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "video"
     ]
 },
-  "bbox": [-97.740453,30.299744,-97.740453,30.299744],
+  "bbox": [
+    -97.740453,
+    30.299744,
+    -97.740453,
+    30.299744
+],
   "geometry": {"coordinates":[-97.740453,30.299744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286340303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.298599,29.709101,-95.298599,29.709101",
     "geom:latitude":29.709101,
     "geom:longitude":-95.298599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6718 Kernel St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286340303,
-    "wof:lastmodified":1449017456,
+    "wof:lastmodified":1467084299,
     "wof:name":"Homer's Wrecker Service",
     "wof:parent_id":85869409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-95.298599,29.709101,-95.298599,29.709101],
+  "bbox": [
+    -95.298599,
+    29.709101,
+    -95.298599,
+    29.709101
+],
   "geometry": {"coordinates":[-95.298599,29.709101],"type":"Point"}
 }

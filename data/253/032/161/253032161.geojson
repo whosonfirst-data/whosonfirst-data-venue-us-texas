@@ -2,13 +2,14 @@
   "id": 253032161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.920255,32.908557,-96.920255,32.908557",
     "geom:latitude":32.908557,
     "geom:longitude":-96.920255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Lyndon B Johnson Fwy Ste 500",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253032161,
-    "wof:lastmodified":1449064267,
+    "wof:lastmodified":1467084994,
     "wof:name":"CTX Mortgage",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.920255,32.908557,-96.920255,32.908557],
+  "bbox": [
+    -96.920255,
+    32.908557,
+    -96.920255,
+    32.908557
+],
   "geometry": {"coordinates":[-96.920255,32.908557],"type":"Point"}
 }

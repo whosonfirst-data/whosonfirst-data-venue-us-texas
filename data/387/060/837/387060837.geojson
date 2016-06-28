@@ -2,13 +2,14 @@
   "id": 387060837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.449388,31.796341,-106.449388,31.796341",
     "geom:latitude":31.796341,
     "geom:longitude":-106.449388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 N Stevens St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387060837,
-    "wof:lastmodified":1449059565,
+    "wof:lastmodified":1467084873,
     "wof:name":"Runaway Center Of El Paso",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.449388,31.796341,-106.449388,31.796341],
+  "bbox": [
+    -106.449388,
+    31.796341,
+    -106.449388,
+    31.796341
+],
   "geometry": {"coordinates":[-106.449388,31.796341],"type":"Point"}
 }

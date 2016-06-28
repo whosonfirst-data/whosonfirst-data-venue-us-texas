@@ -2,13 +2,14 @@
   "id": 269670449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459961,31.05533,-97.459961,31.05533",
     "geom:latitude":31.05533,
     "geom:longitude":-97.459961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E Central Ave Belton Toll C",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":269670449,
-    "wof:lastmodified":1449036499,
+    "wof:lastmodified":1467084581,
     "wof:name":"Tax Appraisal Dist Be",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-97.459961,31.05533,-97.459961,31.05533],
-  "geometry": {"coordinates":[-97.459961,31.05533],"type":"Point"}
+  "bbox": [
+    -97.459961,
+    31.05533,
+    -97.459961,
+    31.05533
+],
+  "geometry": {"coordinates":[-97.45996100000001,31.05533],"type":"Point"}
 }

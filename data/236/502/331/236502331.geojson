@@ -2,13 +2,14 @@
   "id": 236502331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.410522,32.923852,-96.410522,32.923852",
     "geom:latitude":32.923852,
     "geom:longitude":-96.410522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Ivey Ln",
     "sg:city":"Rockwall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236502331,
-    "wof:lastmodified":1449003107,
+    "wof:lastmodified":1467083938,
     "wof:name":"City Of Rockwall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.410522,32.923852,-96.410522,32.923852],
+  "bbox": [
+    -96.410522,
+    32.923852,
+    -96.410522,
+    32.923852
+],
   "geometry": {"coordinates":[-96.410522,32.923852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371079683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.531567,29.445896,-98.531567,29.445896",
     "geom:latitude":29.445896,
     "geom:longitude":-98.531567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 Culebra Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371079683,
-    "wof:lastmodified":1449049944,
+    "wof:lastmodified":1467084687,
     "wof:name":"Rocket Carwash",
     "wof:parent_id":85871063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-98.531567,29.445896,-98.531567,29.445896],
+  "bbox": [
+    -98.531567,
+    29.445896,
+    -98.531567,
+    29.445896
+],
   "geometry": {"coordinates":[-98.531567,29.445896],"type":"Point"}
 }

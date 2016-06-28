@@ -2,13 +2,14 @@
   "id": 253285925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.918585,32.75517,-100.918585,32.75517",
     "geom:latitude":32.75517,
     "geom:longitude":-100.918585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 N College Ave",
     "sg:city":"Snyder",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253285925,
-    "wof:lastmodified":1449062905,
+    "wof:lastmodified":1467084948,
     "wof:name":"Bethel Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gas"
     ]
 },
-  "bbox": [-100.918585,32.75517,-100.918585,32.75517],
-  "geometry": {"coordinates":[-100.918585,32.75517],"type":"Point"}
+  "bbox": [
+    -100.918585,
+    32.75517,
+    -100.918585,
+    32.75517
+],
+  "geometry": {"coordinates":[-100.91858499999999,32.75517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270243755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.396301,29.892099,-95.396301,29.892099",
     "geom:latitude":29.892099,
     "geom:longitude":-95.396301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9204 Airline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270243755,
-    "wof:lastmodified":1449009423,
+    "wof:lastmodified":1467084175,
     "wof:name":"Big Ed Auto Sales",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-95.396301,29.892099,-95.396301,29.892099],
-  "geometry": {"coordinates":[-95.396301,29.892099],"type":"Point"}
+  "bbox": [
+    -95.396301,
+    29.892099,
+    -95.396301,
+    29.892099
+],
+  "geometry": {"coordinates":[-95.39630099999999,29.892099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370625817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.342981,30.532973,-95.342981,30.532973",
     "geom:latitude":30.532973,
     "geom:longitude":-95.342981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Hardy Browder Rd",
     "sg:city":"New Waverly",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370625817,
-    "wof:lastmodified":1449032534,
+    "wof:lastmodified":1467084555,
     "wof:name":"Browder Hardy Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-95.342981,30.532973,-95.342981,30.532973],
-  "geometry": {"coordinates":[-95.342981,30.532973],"type":"Point"}
+  "bbox": [
+    -95.342981,
+    30.532973,
+    -95.342981,
+    30.532973
+],
+  "geometry": {"coordinates":[-95.34298099999999,30.532973],"type":"Point"}
 }

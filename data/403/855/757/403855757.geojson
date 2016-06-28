@@ -2,13 +2,14 @@
   "id": 403855757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.506064,29.414324,-98.506064,29.414324",
     "geom:latitude":29.414324,
     "geom:longitude":-98.506064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Chihuahua St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403855757,
-    "wof:lastmodified":1449055594,
+    "wof:lastmodified":1467084772,
     "wof:name":"H & M Co",
     "wof:parent_id":85867257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-98.506064,29.414324,-98.506064,29.414324],
-  "geometry": {"coordinates":[-98.506064,29.414324],"type":"Point"}
+  "bbox": [
+    -98.506064,
+    29.414324,
+    -98.506064,
+    29.414324
+],
+  "geometry": {"coordinates":[-98.50606399999999,29.414324],"type":"Point"}
 }

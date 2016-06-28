@@ -2,13 +2,14 @@
   "id": 370198967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.777634,35.218176,-101.777634,35.218176",
     "geom:latitude":35.218176,
     "geom:longitude":-101.777634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Eastern St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370198967,
-    "wof:lastmodified":1449030317,
+    "wof:lastmodified":1467084500,
     "wof:name":"T & V Import Cars",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-101.777634,35.218176,-101.777634,35.218176],
-  "geometry": {"coordinates":[-101.777634,35.218176],"type":"Point"}
+  "bbox": [
+    -101.777634,
+    35.218176,
+    -101.777634,
+    35.218176
+],
+  "geometry": {"coordinates":[-101.77763400000001,35.218176],"type":"Point"}
 }

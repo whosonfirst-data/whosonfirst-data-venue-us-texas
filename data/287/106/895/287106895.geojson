@@ -2,13 +2,14 @@
   "id": 287106895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.239146,30.07355,-99.239146,30.07355",
     "geom:latitude":30.07355,
     "geom:longitude":-99.239146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Highway 39",
     "sg:city":"Ingram",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287106895,
-    "wof:lastmodified":1449000650,
+    "wof:lastmodified":1467083817,
     "wof:name":"City Of Ingram",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-99.239146,30.07355,-99.239146,30.07355],
-  "geometry": {"coordinates":[-99.239146,30.07355],"type":"Point"}
+  "bbox": [
+    -99.239146,
+    30.07355,
+    -99.239146,
+    30.07355
+],
+  "geometry": {"coordinates":[-99.23914600000001,30.07355],"type":"Point"}
 }

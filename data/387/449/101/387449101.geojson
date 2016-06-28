@@ -2,13 +2,14 @@
   "id": 387449101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.367328,30.595323,-96.367328,30.595323",
     "geom:latitude":30.595323,
     "geom:longitude":-96.367328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 McKenzie Terminal Blvd",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387449101,
-    "wof:lastmodified":1449059642,
+    "wof:lastmodified":1467084875,
     "wof:name":"Colgan Air Inc",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-96.367328,30.595323,-96.367328,30.595323],
+  "bbox": [
+    -96.367328,
+    30.595323,
+    -96.367328,
+    30.595323
+],
   "geometry": {"coordinates":[-96.367328,30.595323],"type":"Point"}
 }

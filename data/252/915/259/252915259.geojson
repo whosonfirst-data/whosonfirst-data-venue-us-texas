@@ -2,13 +2,14 @@
   "id": 252915259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802742,32.779109,-96.802742,32.779109",
     "geom:latitude":32.779109,
     "geom:longitude":-96.802742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252915259,
-    "wof:lastmodified":1449006492,
+    "wof:lastmodified":1467084107,
     "wof:name":"US Energy Dept",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "govt"
     ]
 },
-  "bbox": [-96.802742,32.779109,-96.802742,32.779109],
-  "geometry": {"coordinates":[-96.802742,32.779109],"type":"Point"}
+  "bbox": [
+    -96.802742,
+    32.779109,
+    -96.802742,
+    32.779109
+],
+  "geometry": {"coordinates":[-96.80274199999999,32.779109],"type":"Point"}
 }

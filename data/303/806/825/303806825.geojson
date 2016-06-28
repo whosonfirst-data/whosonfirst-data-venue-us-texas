@@ -2,13 +2,14 @@
   "id": 303806825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744943,30.405565,-97.744943,30.405565",
     "geom:latitude":30.405565,
     "geom:longitude":-97.744943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11111 Research Blvd Ste 250",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303806825,
-    "wof:lastmodified":1448998108,
+    "wof:lastmodified":1467083690,
     "wof:name":"Shapiro, Ira, MD - Northwest Women's Clinic",
     "wof:parent_id":85893531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744943,30.405565,-97.744943,30.405565],
-  "geometry": {"coordinates":[-97.744943,30.405565],"type":"Point"}
+  "bbox": [
+    -97.744943,
+    30.405565,
+    -97.744943,
+    30.405565
+],
+  "geometry": {"coordinates":[-97.74494300000001,30.405565],"type":"Point"}
 }

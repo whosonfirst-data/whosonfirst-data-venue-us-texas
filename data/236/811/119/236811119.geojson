@@ -2,13 +2,14 @@
   "id": 236811119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799304,32.787055,-96.799304,32.787055",
     "geom:latitude":32.787055,
     "geom:longitude":-96.799304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Ross Ave Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236811119,
-    "wof:lastmodified":1449003198,
+    "wof:lastmodified":1467083942,
     "wof:name":"Bank of America",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.799304,32.787055,-96.799304,32.787055],
-  "geometry": {"coordinates":[-96.799304,32.787055],"type":"Point"}
+  "bbox": [
+    -96.799304,
+    32.787055,
+    -96.799304,
+    32.787055
+],
+  "geometry": {"coordinates":[-96.79930400000001,32.787055],"type":"Point"}
 }

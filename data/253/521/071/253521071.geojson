@@ -2,13 +2,14 @@
   "id": 253521071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.373421,32.222485,-95.373421,32.222485",
     "geom:latitude":32.222485,
     "geom:longitude":-95.373421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19124 County Road 178",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253521071,
-    "wof:lastmodified":1449065653,
+    "wof:lastmodified":1467085042,
     "wof:name":"Daigle Electric, Inc.",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-95.373421,32.222485,-95.373421,32.222485],
-  "geometry": {"coordinates":[-95.373421,32.222485],"type":"Point"}
+  "bbox": [
+    -95.373421,
+    32.222485,
+    -95.373421,
+    32.222485
+],
+  "geometry": {"coordinates":[-95.37342099999999,32.222485],"type":"Point"}
 }

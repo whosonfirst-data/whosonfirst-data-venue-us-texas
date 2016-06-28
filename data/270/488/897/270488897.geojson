@@ -2,13 +2,14 @@
   "id": 270488897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.435011,29.942919,-95.435011,29.942919",
     "geom:latitude":29.942919,
     "geom:longitude":-95.435011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 W Greens Rd Suite 105",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270488897,
-    "wof:lastmodified":1449011082,
+    "wof:lastmodified":1467084230,
     "wof:name":"Holmes Chiropractic",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-95.435011,29.942919,-95.435011,29.942919],
+  "bbox": [
+    -95.435011,
+    29.942919,
+    -95.435011,
+    29.942919
+],
   "geometry": {"coordinates":[-95.435011,29.942919],"type":"Point"}
 }

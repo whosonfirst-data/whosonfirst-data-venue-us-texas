@@ -2,13 +2,14 @@
   "id": 253316091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.846716,33.010497,-96.846716,33.010497",
     "geom:latitude":33.010497,
     "geom:longitude":-96.846716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 Rosemeade Pkwy Ste 150",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253316091,
-    "wof:lastmodified":1449064845,
+    "wof:lastmodified":1467085015,
     "wof:name":"Blue Phoenix",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tobacco-wholesale"
     ]
 },
-  "bbox": [-96.846716,33.010497,-96.846716,33.010497],
+  "bbox": [
+    -96.846716,
+    33.010497,
+    -96.846716,
+    33.010497
+],
   "geometry": {"coordinates":[-96.846716,33.010497],"type":"Point"}
 }

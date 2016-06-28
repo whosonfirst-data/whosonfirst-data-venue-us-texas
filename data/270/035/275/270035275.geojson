@@ -2,13 +2,14 @@
   "id": 270035275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.291716,29.774797,-95.291716,29.774797",
     "geom:latitude":29.774797,
     "geom:longitude":-95.291716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Wayside Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270035275,
-    "wof:lastmodified":1449010593,
+    "wof:lastmodified":1467084214,
     "wof:name":"Las Rosas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.291716,29.774797,-95.291716,29.774797],
-  "geometry": {"coordinates":[-95.291716,29.774797],"type":"Point"}
+  "bbox": [
+    -95.291716,
+    29.774797,
+    -95.291716,
+    29.774797
+],
+  "geometry": {"coordinates":[-95.29171599999999,29.774797],"type":"Point"}
 }

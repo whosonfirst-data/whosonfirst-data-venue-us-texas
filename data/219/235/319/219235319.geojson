@@ -2,13 +2,14 @@
   "id": 219235319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.260252,32.214983,-95.260252,32.214983",
     "geom:latitude":32.214983,
     "geom:longitude":-95.260252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18078 Adele Ln",
     "sg:city":"Whitehouse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219235319,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1467085112,
     "wof:name":"Mahoney Consulting",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-95.260252,32.214983,-95.260252,32.214983],
-  "geometry": {"coordinates":[-95.260252,32.214983],"type":"Point"}
+  "bbox": [
+    -95.260252,
+    32.214983,
+    -95.260252,
+    32.214983
+],
+  "geometry": {"coordinates":[-95.26025199999999,32.214983],"type":"Point"}
 }

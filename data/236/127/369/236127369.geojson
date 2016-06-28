@@ -2,13 +2,14 @@
   "id": 236127369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73003,33.100723,-96.73003,33.100723",
     "geom:latitude":33.100723,
     "geom:longitude":-96.73003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2023 W Mcdermott Dr",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236127369,
-    "wof:lastmodified":1449004926,
+    "wof:lastmodified":1467084024,
     "wof:name":"Allen Vacuum",
     "wof:parent_id":85879901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-96.73003,33.100723,-96.73003,33.100723],
+  "bbox": [
+    -96.73003,
+    33.100723,
+    -96.73003,
+    33.100723
+],
   "geometry": {"coordinates":[-96.73003,33.100723],"type":"Point"}
 }

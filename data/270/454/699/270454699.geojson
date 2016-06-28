@@ -2,13 +2,14 @@
   "id": 270454699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.277265,29.637929,-95.277265,29.637929",
     "geom:latitude":29.637929,
     "geom:longitude":-95.277265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8902 Paul B Koonce St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270454699,
-    "wof:lastmodified":1449010862,
+    "wof:lastmodified":1467084223,
     "wof:name":"Air Traffic Control Tower",
     "wof:parent_id":85869295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-95.277265,29.637929,-95.277265,29.637929],
+  "bbox": [
+    -95.277265,
+    29.637929,
+    -95.277265,
+    29.637929
+],
   "geometry": {"coordinates":[-95.277265,29.637929],"type":"Point"}
 }

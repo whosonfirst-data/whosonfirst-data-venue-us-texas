@@ -2,13 +2,14 @@
   "id": 253123901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.993901,30.341291,-97.993901,30.341291",
     "geom:latitude":30.341291,
     "geom:longitude":-97.993901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Autumn Oaks Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253123901,
-    "wof:lastmodified":1449063700,
+    "wof:lastmodified":1467084975,
     "wof:name":"Pollock Marine Surveyor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-97.993901,30.341291,-97.993901,30.341291],
-  "geometry": {"coordinates":[-97.993901,30.341291],"type":"Point"}
+  "bbox": [
+    -97.993901,
+    30.341291,
+    -97.993901,
+    30.341291
+],
+  "geometry": {"coordinates":[-97.99390099999999,30.341291],"type":"Point"}
 }

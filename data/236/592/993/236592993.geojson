@@ -2,13 +2,14 @@
   "id": 236592993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.938132,32.619145,-96.938132,32.619145",
     "geom:latitude":32.619145,
     "geom:longitude":-96.938132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Cedar Rd",
     "sg:city":"Cedar Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236592993,
-    "wof:lastmodified":1449003563,
+    "wof:lastmodified":1467083959,
     "wof:name":"Salt Grass Steak House",
     "wof:parent_id":85870473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-96.938132,32.619145,-96.938132,32.619145],
+  "bbox": [
+    -96.938132,
+    32.619145,
+    -96.938132,
+    32.619145
+],
   "geometry": {"coordinates":[-96.938132,32.619145],"type":"Point"}
 }

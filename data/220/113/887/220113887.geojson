@@ -2,13 +2,14 @@
   "id": 220113887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.005356,32.664218,-97.005356,32.664218",
     "geom:latitude":32.664218,
     "geom:longitude":-97.005356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Newberry St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220113887,
-    "wof:lastmodified":1449074808,
+    "wof:lastmodified":1467085194,
     "wof:name":"Houston Port Cranes",
     "wof:parent_id":85819647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-97.005356,32.664218,-97.005356,32.664218],
-  "geometry": {"coordinates":[-97.005356,32.664218],"type":"Point"}
+  "bbox": [
+    -97.005356,
+    32.664218,
+    -97.005356,
+    32.664218
+],
+  "geometry": {"coordinates":[-97.00535600000001,32.664218],"type":"Point"}
 }

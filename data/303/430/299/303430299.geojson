@@ -2,13 +2,14 @@
   "id": 303430299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.670106,30.440108,-97.670106,30.440108",
     "geom:latitude":30.440108,
     "geom:longitude":-97.670106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Wells Branch Pkwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303430299,
-    "wof:lastmodified":1448999675,
+    "wof:lastmodified":1467083770,
     "wof:name":"Verde Oak Park Apartments",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.670106,30.440108,-97.670106,30.440108],
+  "bbox": [
+    -97.670106,
+    30.440108,
+    -97.670106,
+    30.440108
+],
   "geometry": {"coordinates":[-97.670106,30.440108],"type":"Point"}
 }

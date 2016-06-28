@@ -2,13 +2,14 @@
   "id": 303493021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.889552,30.383162,-97.889552,30.383162",
     "geom:latitude":30.383162,
     "geom:longitude":-97.889552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Canyon Glen Cir",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303493021,
-    "wof:lastmodified":1448998891,
+    "wof:lastmodified":1467083730,
     "wof:name":"Shape Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-97.889552,30.383162,-97.889552,30.383162],
-  "geometry": {"coordinates":[-97.889552,30.383162],"type":"Point"}
+  "bbox": [
+    -97.889552,
+    30.383162,
+    -97.889552,
+    30.383162
+],
+  "geometry": {"coordinates":[-97.88955199999999,30.383162],"type":"Point"}
 }

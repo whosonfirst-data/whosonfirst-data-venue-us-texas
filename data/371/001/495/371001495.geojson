@@ -2,13 +2,14 @@
   "id": 371001495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.506954,29.356757,-98.506954,29.356757",
     "geom:latitude":29.356757,
     "geom:longitude":-98.506954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 SW Military Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371001495,
-    "wof:lastmodified":1449049274,
+    "wof:lastmodified":1467084675,
     "wof:name":"Posner Telecommunications",
     "wof:parent_id":85851961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-98.506954,29.356757,-98.506954,29.356757],
-  "geometry": {"coordinates":[-98.506954,29.356757],"type":"Point"}
+  "bbox": [
+    -98.506954,
+    29.356757,
+    -98.506954,
+    29.356757
+],
+  "geometry": {"coordinates":[-98.50695399999999,29.356757],"type":"Point"}
 }

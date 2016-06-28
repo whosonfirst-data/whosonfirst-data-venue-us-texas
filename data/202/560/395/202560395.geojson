@@ -2,13 +2,14 @@
   "id": 202560395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.108167,29.687933,-98.108167,29.687933",
     "geom:latitude":29.687933,
     "geom:longitude":-98.108167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 S Seguin Ave",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202560395,
-    "wof:lastmodified":1449062059,
+    "wof:lastmodified":1467084928,
     "wof:name":"Owens Corning",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [-98.108167,29.687933,-98.108167,29.687933],
-  "geometry": {"coordinates":[-98.108167,29.687933],"type":"Point"}
+  "bbox": [
+    -98.108167,
+    29.687933,
+    -98.108167,
+    29.687933
+],
+  "geometry": {"coordinates":[-98.10816699999999,29.687933],"type":"Point"}
 }

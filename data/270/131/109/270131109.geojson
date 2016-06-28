@@ -2,13 +2,14 @@
   "id": 270131109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.457153,29.746849,-95.457153,29.746849",
     "geom:latitude":29.746849,
     "geom:longitude":-95.457153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 West Loop S",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270131109,
-    "wof:lastmodified":1449009355,
+    "wof:lastmodified":1467084173,
     "wof:name":"LCY Elastomers",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.457153,29.746849,-95.457153,29.746849],
-  "geometry": {"coordinates":[-95.457153,29.746849],"type":"Point"}
+  "bbox": [
+    -95.457153,
+    29.746849,
+    -95.457153,
+    29.746849
+],
+  "geometry": {"coordinates":[-95.45715300000001,29.746849],"type":"Point"}
 }

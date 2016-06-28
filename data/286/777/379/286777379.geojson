@@ -2,13 +2,14 @@
   "id": 286777379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.15556,29.669639,-95.15556,29.669639",
     "geom:latitude":29.669639,
     "geom:longitude":-95.15556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 E Sam Houston Pkwy S",
     "sg:city":"Pasadena",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286777379,
-    "wof:lastmodified":1449016737,
+    "wof:lastmodified":1467084279,
     "wof:name":"Texas Teacher Supply",
     "wof:parent_id":85879753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.15556,29.669639,-95.15556,29.669639],
-  "geometry": {"coordinates":[-95.15556,29.669639],"type":"Point"}
+  "bbox": [
+    -95.15556,
+    29.669639,
+    -95.15556,
+    29.669639
+],
+  "geometry": {"coordinates":[-95.15555999999999,29.669639],"type":"Point"}
 }

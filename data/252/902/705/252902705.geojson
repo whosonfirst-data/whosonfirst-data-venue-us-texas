@@ -2,13 +2,14 @@
   "id": 252902705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.91558,30.37046,-97.91558,30.37046",
     "geom:latitude":30.37046,
     "geom:longitude":-97.91558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 Big Horn Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252902705,
-    "wof:lastmodified":1449006211,
+    "wof:lastmodified":1467084092,
     "wof:name":"Silicion Hills Advisors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.91558,30.37046,-97.91558,30.37046],
-  "geometry": {"coordinates":[-97.91558,30.37046],"type":"Point"}
+  "bbox": [
+    -97.91558,
+    30.37046,
+    -97.91558,
+    30.37046
+],
+  "geometry": {"coordinates":[-97.91558000000001,30.37046],"type":"Point"}
 }

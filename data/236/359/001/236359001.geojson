@@ -2,13 +2,14 @@
   "id": 236359001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.718105,30.320632,-97.718105,30.320632",
     "geom:latitude":30.320632,
     "geom:longitude":-97.718105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Ave G",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236359001,
-    "wof:lastmodified":1449001639,
+    "wof:lastmodified":1467083851,
     "wof:name":"Dayspring Chapel",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.718105,30.320632,-97.718105,30.320632],
-  "geometry": {"coordinates":[-97.718105,30.320632],"type":"Point"}
+  "bbox": [
+    -97.718105,
+    30.320632,
+    -97.718105,
+    30.320632
+],
+  "geometry": {"coordinates":[-97.71810499999999,30.320632],"type":"Point"}
 }

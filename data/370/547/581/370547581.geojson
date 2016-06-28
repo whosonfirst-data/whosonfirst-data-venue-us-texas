@@ -2,13 +2,14 @@
   "id": 370547581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.282141,29.77431,-95.282141,29.77431",
     "geom:latitude":29.77431,
     "geom:longitude":-95.282141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Pearl St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370547581,
-    "wof:lastmodified":1449029431,
+    "wof:lastmodified":1467084477,
     "wof:name":"Hayes Machine Service",
     "wof:parent_id":85869591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.282141,29.77431,-95.282141,29.77431],
+  "bbox": [
+    -95.282141,
+    29.77431,
+    -95.282141,
+    29.77431
+],
   "geometry": {"coordinates":[-95.282141,29.77431],"type":"Point"}
 }

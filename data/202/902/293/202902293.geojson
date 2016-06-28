@@ -2,13 +2,14 @@
   "id": 202902293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.907903,32.825697,-96.907903,32.825697",
     "geom:latitude":32.825697,
     "geom:longitude":-96.907903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Hinton Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202902293,
-    "wof:lastmodified":1449061982,
+    "wof:lastmodified":1467084927,
     "wof:name":"Pope Research & Consulting",
     "wof:parent_id":85878293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-96.907903,32.825697,-96.907903,32.825697],
+  "bbox": [
+    -96.907903,
+    32.825697,
+    -96.907903,
+    32.825697
+],
   "geometry": {"coordinates":[-96.907903,32.825697],"type":"Point"}
 }

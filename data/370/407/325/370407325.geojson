@@ -2,13 +2,14 @@
   "id": 370407325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.310673,29.685717,-95.310673,29.685717",
     "geom:latitude":29.685717,
     "geom:longitude":-95.310673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6603 McGrew St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370407325,
-    "wof:lastmodified":1449030946,
+    "wof:lastmodified":1467084516,
     "wof:name":"Com-Jan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.310673,29.685717,-95.310673,29.685717],
-  "geometry": {"coordinates":[-95.310673,29.685717],"type":"Point"}
+  "bbox": [
+    -95.310673,
+    29.685717,
+    -95.310673,
+    29.685717
+],
+  "geometry": {"coordinates":[-95.31067299999999,29.685717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304044905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.723058,32.518525,-99.723058,32.518525",
     "geom:latitude":32.518525,
     "geom:longitude":-99.723058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Beltway N",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":304044905,
-    "wof:lastmodified":1449043883,
+    "wof:lastmodified":1467084665,
     "wof:name":"Greenbelt Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "landscape"
     ]
 },
-  "bbox": [-99.723058,32.518525,-99.723058,32.518525],
-  "geometry": {"coordinates":[-99.723058,32.518525],"type":"Point"}
+  "bbox": [
+    -99.723058,
+    32.518525,
+    -99.723058,
+    32.518525
+],
+  "geometry": {"coordinates":[-99.72305799999999,32.518525],"type":"Point"}
 }

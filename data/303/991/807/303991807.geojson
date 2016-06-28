@@ -2,13 +2,14 @@
   "id": 303991807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.956814,33.553023,-101.956814,33.553023",
     "geom:latitude":33.553023,
     "geom:longitude":-101.956814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Milwaukee Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303991807,
-    "wof:lastmodified":1448998885,
+    "wof:lastmodified":1467083730,
     "wof:name":"City View Christian Fellowship",
     "wof:parent_id":85814987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-101.956814,33.553023,-101.956814,33.553023],
-  "geometry": {"coordinates":[-101.956814,33.553023],"type":"Point"}
+  "bbox": [
+    -101.956814,
+    33.553023,
+    -101.956814,
+    33.553023
+],
+  "geometry": {"coordinates":[-101.95681399999999,33.553023],"type":"Point"}
 }

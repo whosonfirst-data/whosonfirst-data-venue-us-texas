@@ -2,13 +2,14 @@
   "id": 252854553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.111039,29.714492,-98.111039,29.714492",
     "geom:latitude":29.714492,
     "geom:longitude":-98.111039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Common St",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252854553,
-    "wof:lastmodified":1449006458,
+    "wof:lastmodified":1467084105,
     "wof:name":"New Braunfels Public Library",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.111039,29.714492,-98.111039,29.714492],
-  "geometry": {"coordinates":[-98.111039,29.714492],"type":"Point"}
+  "bbox": [
+    -98.111039,
+    29.714492,
+    -98.111039,
+    29.714492
+],
+  "geometry": {"coordinates":[-98.11103900000001,29.714492],"type":"Point"}
 }

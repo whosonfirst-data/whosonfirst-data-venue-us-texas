@@ -2,13 +2,14 @@
   "id": 353538195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.451006,31.789341,-106.451006,31.789341",
     "geom:latitude":31.789341,
     "geom:longitude":-106.451006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Alta St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353538195,
-    "wof:lastmodified":1449018567,
+    "wof:lastmodified":1467084328,
     "wof:name":"El Paso PM Group",
     "wof:parent_id":85893661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.451006,31.789341,-106.451006,31.789341],
-  "geometry": {"coordinates":[-106.451006,31.789341],"type":"Point"}
+  "bbox": [
+    -106.451006,
+    31.789341,
+    -106.451006,
+    31.789341
+],
+  "geometry": {"coordinates":[-106.45100600000001,31.789341],"type":"Point"}
 }

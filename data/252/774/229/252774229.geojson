@@ -2,13 +2,14 @@
   "id": 252774229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.812353,32.885871,-96.812353,32.885871",
     "geom:latitude":32.885871,
     "geom:longitude":-96.812353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5678 Meaders Cir",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252774229,
-    "wof:lastmodified":1449005836,
+    "wof:lastmodified":1467084071,
     "wof:name":"Anigme",
     "wof:parent_id":85833361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "security"
     ]
 },
-  "bbox": [-96.812353,32.885871,-96.812353,32.885871],
+  "bbox": [
+    -96.812353,
+    32.885871,
+    -96.812353,
+    32.885871
+],
   "geometry": {"coordinates":[-96.812353,32.885871],"type":"Point"}
 }

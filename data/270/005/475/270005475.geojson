@@ -2,13 +2,14 @@
   "id": 270005475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.261299,29.680401,-95.261299,29.680401",
     "geom:latitude":29.680401,
     "geom:longitude":-95.261299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8222 Howard Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270005475,
-    "wof:lastmodified":1449010900,
+    "wof:lastmodified":1467084225,
     "wof:name":"The Look Upholstery",
     "wof:parent_id":85802795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-95.261299,29.680401,-95.261299,29.680401],
-  "geometry": {"coordinates":[-95.261299,29.680401],"type":"Point"}
+  "bbox": [
+    -95.261299,
+    29.680401,
+    -95.261299,
+    29.680401
+],
+  "geometry": {"coordinates":[-95.26129899999999,29.680401],"type":"Point"}
 }

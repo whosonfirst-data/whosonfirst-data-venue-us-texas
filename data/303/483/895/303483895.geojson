@@ -2,13 +2,14 @@
   "id": 303483895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751873,30.353272,-97.751873,30.353272",
     "geom:latitude":30.353272,
     "geom:longitude":-97.751873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Austin Diagnostic Clinic Family Practice 3508 Far West Blvd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303483895,
-    "wof:lastmodified":1449000045,
+    "wof:lastmodified":1467083787,
     "wof:name":"Andre Chen, M.D.",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-97.751873,30.353272,-97.751873,30.353272],
+  "bbox": [
+    -97.751873,
+    30.353272,
+    -97.751873,
+    30.353272
+],
   "geometry": {"coordinates":[-97.751873,30.353272],"type":"Point"}
 }

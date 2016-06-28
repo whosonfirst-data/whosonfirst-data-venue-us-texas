@@ -2,13 +2,14 @@
   "id": 286440397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.587381,29.674777,-95.587381,29.674777",
     "geom:latitude":29.674777,
     "geom:longitude":-95.587381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9626 S Kirkwood Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286440397,
-    "wof:lastmodified":1449016223,
+    "wof:lastmodified":1467084265,
     "wof:name":"Drivers Education",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "traffic"
     ]
 },
-  "bbox": [-95.587381,29.674777,-95.587381,29.674777],
-  "geometry": {"coordinates":[-95.587381,29.674777],"type":"Point"}
+  "bbox": [
+    -95.587381,
+    29.674777,
+    -95.587381,
+    29.674777
+],
+  "geometry": {"coordinates":[-95.58738099999999,29.674777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252811365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710794,32.839844,-96.710794,32.839844",
     "geom:latitude":32.839844,
     "geom:longitude":-96.710794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9314 Peninsula Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252811365,
-    "wof:lastmodified":1449005934,
+    "wof:lastmodified":1467084076,
     "wof:name":"The Stable",
     "wof:parent_id":85870391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-96.710794,32.839844,-96.710794,32.839844],
-  "geometry": {"coordinates":[-96.710794,32.839844],"type":"Point"}
+  "bbox": [
+    -96.710794,
+    32.839844,
+    -96.710794,
+    32.839844
+],
+  "geometry": {"coordinates":[-96.71079400000001,32.839844],"type":"Point"}
 }

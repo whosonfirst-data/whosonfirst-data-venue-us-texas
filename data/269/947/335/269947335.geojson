@@ -2,13 +2,14 @@
   "id": 269947335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.425283,29.81234,-95.425283,29.81234",
     "geom:latitude":29.81234,
     "geom:longitude":-95.425283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 North Loop W # 1210",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269947335,
-    "wof:lastmodified":1449037942,
+    "wof:lastmodified":1467084619,
     "wof:name":"Smith Power Systems",
     "wof:parent_id":85869411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [-95.425283,29.81234,-95.425283,29.81234],
-  "geometry": {"coordinates":[-95.425283,29.81234],"type":"Point"}
+  "bbox": [
+    -95.425283,
+    29.81234,
+    -95.425283,
+    29.81234
+],
+  "geometry": {"coordinates":[-95.42528299999999,29.81234],"type":"Point"}
 }

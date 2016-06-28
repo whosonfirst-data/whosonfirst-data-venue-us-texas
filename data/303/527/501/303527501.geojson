@@ -2,13 +2,14 @@
   "id": 303527501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881966,30.235062,-97.881966,30.235062",
     "geom:latitude":30.235062,
     "geom:longitude":-97.881966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7103 South Brook Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303527501,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1467083788,
     "wof:name":"Cyr Maintenance",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-97.881966,30.235062,-97.881966,30.235062],
-  "geometry": {"coordinates":[-97.881966,30.235062],"type":"Point"}
+  "bbox": [
+    -97.881966,
+    30.235062,
+    -97.881966,
+    30.235062
+],
+  "geometry": {"coordinates":[-97.88196600000001,30.235062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286506269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.152588,30.00119,-95.152588,30.00119",
     "geom:latitude":30.00119,
     "geom:longitude":-95.152588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19415 Pinehurst Trail Dr",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286506269,
-    "wof:lastmodified":1449015221,
+    "wof:lastmodified":1467084237,
     "wof:name":"U.S. Storage - Atascocita",
     "wof:parent_id":85869399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "household"
     ]
 },
-  "bbox": [-95.152588,30.00119,-95.152588,30.00119],
-  "geometry": {"coordinates":[-95.152588,30.00119],"type":"Point"}
+  "bbox": [
+    -95.152588,
+    30.00119,
+    -95.152588,
+    30.00119
+],
+  "geometry": {"coordinates":[-95.15258799999999,30.00119],"type":"Point"}
 }

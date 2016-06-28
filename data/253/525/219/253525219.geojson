@@ -2,13 +2,14 @@
   "id": 253525219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.276352,31.970091,-95.276352,31.970091",
     "geom:latitude":31.970091,
     "geom:longitude":-95.276352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 N Bolton St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253525219,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1467085025,
     "wof:name":"Simon's Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-95.276352,31.970091,-95.276352,31.970091],
+  "bbox": [
+    -95.276352,
+    31.970091,
+    -95.276352,
+    31.970091
+],
   "geometry": {"coordinates":[-95.276352,31.970091],"type":"Point"}
 }

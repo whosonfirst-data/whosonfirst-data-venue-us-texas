@@ -2,13 +2,14 @@
   "id": 270298021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.559998,29.802,-95.559998,29.802",
     "geom:latitude":29.802,
     "geom:longitude":-95.559998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Stebbins Dr Ste 150",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270298021,
-    "wof:lastmodified":1449009277,
+    "wof:lastmodified":1467084171,
     "wof:name":"Butler Business Products",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.559998,29.802,-95.559998,29.802],
-  "geometry": {"coordinates":[-95.559998,29.802],"type":"Point"}
+  "bbox": [
+    -95.559998,
+    29.802,
+    -95.559998,
+    29.802
+],
+  "geometry": {"coordinates":[-95.55999799999999,29.802],"type":"Point"}
 }

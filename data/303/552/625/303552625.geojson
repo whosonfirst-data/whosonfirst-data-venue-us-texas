@@ -2,13 +2,14 @@
   "id": 303552625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.699407,30.239571,-97.699407,30.239571",
     "geom:latitude":30.239571,
     "geom:longitude":-97.699407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6003 Ponca St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303552625,
-    "wof:lastmodified":1448999144,
+    "wof:lastmodified":1467083742,
     "wof:name":"Elizabeth Corner Store",
     "wof:parent_id":85835031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [-97.699407,30.239571,-97.699407,30.239571],
-  "geometry": {"coordinates":[-97.699407,30.239571],"type":"Point"}
+  "bbox": [
+    -97.699407,
+    30.239571,
+    -97.699407,
+    30.239571
+],
+  "geometry": {"coordinates":[-97.69940699999999,30.239571],"type":"Point"}
 }

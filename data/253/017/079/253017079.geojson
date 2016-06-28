@@ -2,13 +2,14 @@
   "id": 253017079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.529556,29.370504,-98.529556,29.370504",
     "geom:latitude":29.370504,
     "geom:longitude":-98.529556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Fitch St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253017079,
-    "wof:lastmodified":1449064397,
+    "wof:lastmodified":1467084999,
     "wof:name":"Wesley Primary Care Clinics",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.529556,29.370504,-98.529556,29.370504],
+  "bbox": [
+    -98.529556,
+    29.370504,
+    -98.529556,
+    29.370504
+],
   "geometry": {"coordinates":[-98.529556,29.370504],"type":"Point"}
 }

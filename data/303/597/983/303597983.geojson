@@ -2,13 +2,14 @@
   "id": 303597983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.813265,30.206019,-97.813265,30.206019",
     "geom:latitude":30.206019,
     "geom:longitude":-97.813265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 William Cannon Dr Ste 203",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303597983,
-    "wof:lastmodified":1449000533,
+    "wof:lastmodified":1467083811,
     "wof:name":"Stonegate Pharmacy",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.813265,30.206019,-97.813265,30.206019],
+  "bbox": [
+    -97.813265,
+    30.206019,
+    -97.813265,
+    30.206019
+],
   "geometry": {"coordinates":[-97.813265,30.206019],"type":"Point"}
 }

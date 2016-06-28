@@ -2,13 +2,14 @@
   "id": 353700813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.902366,35.176693,-101.902366,35.176693",
     "geom:latitude":35.176693,
     "geom:longitude":-101.902366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Bell St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353700813,
-    "wof:lastmodified":1449020585,
+    "wof:lastmodified":1467084371,
     "wof:name":"Party Stop Warehouse",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.902366,35.176693,-101.902366,35.176693],
+  "bbox": [
+    -101.902366,
+    35.176693,
+    -101.902366,
+    35.176693
+],
   "geometry": {"coordinates":[-101.902366,35.176693],"type":"Point"}
 }

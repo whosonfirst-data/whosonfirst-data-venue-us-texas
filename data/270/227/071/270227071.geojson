@@ -2,13 +2,14 @@
   "id": 270227071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545403,29.7047,-95.545403,29.7047",
     "geom:latitude":29.7047,
     "geom:longitude":-95.545403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9219 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270227071,
-    "wof:lastmodified":1449009154,
+    "wof:lastmodified":1467084167,
     "wof:name":"Century Apartments",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.545403,29.7047,-95.545403,29.7047],
-  "geometry": {"coordinates":[-95.545403,29.7047],"type":"Point"}
+  "bbox": [
+    -95.545403,
+    29.7047,
+    -95.545403,
+    29.7047
+],
+  "geometry": {"coordinates":[-95.54540299999999,29.7047],"type":"Point"}
 }

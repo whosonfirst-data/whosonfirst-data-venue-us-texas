@@ -2,13 +2,14 @@
   "id": 354262241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.383142,29.754025,-95.383142,29.754025",
     "geom:latitude":29.754025,
     "geom:longitude":-95.383142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Gillette St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354262241,
-    "wof:lastmodified":1449067002,
+    "wof:lastmodified":1467085077,
     "wof:name":"Prison Initiatives",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-95.383142,29.754025,-95.383142,29.754025],
-  "geometry": {"coordinates":[-95.383142,29.754025],"type":"Point"}
+  "bbox": [
+    -95.383142,
+    29.754025,
+    -95.383142,
+    29.754025
+],
+  "geometry": {"coordinates":[-95.38314200000001,29.754025],"type":"Point"}
 }

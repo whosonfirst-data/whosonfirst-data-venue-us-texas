@@ -2,13 +2,14 @@
   "id": 303279881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727814,30.260321,-97.727814,30.260321",
     "geom:latitude":30.260321,
     "geom:longitude":-97.727814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Comal St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303279881,
-    "wof:lastmodified":1448999242,
+    "wof:lastmodified":1467083748,
     "wof:name":"Comal Park",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camping"
     ]
 },
-  "bbox": [-97.727814,30.260321,-97.727814,30.260321],
+  "bbox": [
+    -97.727814,
+    30.260321,
+    -97.727814,
+    30.260321
+],
   "geometry": {"coordinates":[-97.727814,30.260321],"type":"Point"}
 }

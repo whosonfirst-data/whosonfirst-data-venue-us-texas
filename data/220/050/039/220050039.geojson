@@ -2,13 +2,14 @@
   "id": 220050039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511298,29.527307,-98.511298,29.527307",
     "geom:latitude":29.527307,
     "geom:longitude":-98.511298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Gardenview Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220050039,
-    "wof:lastmodified":1449074496,
+    "wof:lastmodified":1467085187,
     "wof:name":"Travis Enterprises Inc",
     "wof:parent_id":85871081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-98.511298,29.527307,-98.511298,29.527307],
+  "bbox": [
+    -98.511298,
+    29.527307,
+    -98.511298,
+    29.527307
+],
   "geometry": {"coordinates":[-98.511298,29.527307],"type":"Point"}
 }

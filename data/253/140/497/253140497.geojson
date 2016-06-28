@@ -2,13 +2,14 @@
   "id": 253140497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.52361,29.375326,-98.52361,29.375326",
     "geom:latitude":29.375326,
     "geom:longitude":-98.52361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Brighton Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253140497,
-    "wof:lastmodified":1449063248,
+    "wof:lastmodified":1467084959,
     "wof:name":"Church Apostolic",
     "wof:parent_id":85811971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.52361,29.375326,-98.52361,29.375326],
-  "geometry": {"coordinates":[-98.52361,29.375326],"type":"Point"}
+  "bbox": [
+    -98.52361,
+    29.375326,
+    -98.52361,
+    29.375326
+],
+  "geometry": {"coordinates":[-98.52361000000001,29.375326],"type":"Point"}
 }

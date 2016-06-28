@@ -2,13 +2,14 @@
   "id": 337442141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.89096,32.897643,-97.89096,32.897643",
     "geom:latitude":32.897643,
     "geom:longitude":-97.89096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 W Dry Creek Rd",
     "sg:city":"Poolville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337442141,
-    "wof:lastmodified":1449027297,
+    "wof:lastmodified":1467084438,
     "wof:name":"Elysian Fields Soap",
     "wof:parent_id":85897427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.89096,32.897643,-97.89096,32.897643],
-  "geometry": {"coordinates":[-97.89096,32.897643],"type":"Point"}
+  "bbox": [
+    -97.89096,
+    32.897643,
+    -97.89096,
+    32.897643
+],
+  "geometry": {"coordinates":[-97.89096000000001,32.897643],"type":"Point"}
 }

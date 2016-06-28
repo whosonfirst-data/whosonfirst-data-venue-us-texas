@@ -2,13 +2,14 @@
   "id": 353590999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.123402,29.682553,-95.123402,29.682553",
     "geom:latitude":29.682553,
     "geom:longitude":-95.123402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Center St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353590999,
-    "wof:lastmodified":1449019791,
+    "wof:lastmodified":1467084354,
     "wof:name":"Brake Stop",
     "wof:parent_id":85830765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-95.123402,29.682553,-95.123402,29.682553],
+  "bbox": [
+    -95.123402,
+    29.682553,
+    -95.123402,
+    29.682553
+],
   "geometry": {"coordinates":[-95.123402,29.682553],"type":"Point"}
 }

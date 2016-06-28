@@ -2,13 +2,14 @@
   "id": 219815913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.786831,35.231064,-101.786831,35.231064",
     "geom:latitude":35.231064,
     "geom:longitude":-101.786831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 NE 18th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219815913,
-    "wof:lastmodified":1449072102,
+    "wof:lastmodified":1467085136,
     "wof:name":"Francscan Sster Mary Imaculate",
     "wof:parent_id":85815395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.786831,35.231064,-101.786831,35.231064],
-  "geometry": {"coordinates":[-101.786831,35.231064],"type":"Point"}
+  "bbox": [
+    -101.786831,
+    35.231064,
+    -101.786831,
+    35.231064
+],
+  "geometry": {"coordinates":[-101.78683100000001,35.231064],"type":"Point"}
 }

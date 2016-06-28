@@ -2,13 +2,14 @@
   "id": 303776043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738701,30.340599,-97.738701,30.340599",
     "geom:latitude":30.340599,
     "geom:longitude":-97.738701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6507 Burnet Rd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303776043,
-    "wof:lastmodified":1448998648,
+    "wof:lastmodified":1467083717,
     "wof:name":"Poodle Dog Lounge",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.738701,30.340599,-97.738701,30.340599],
-  "geometry": {"coordinates":[-97.738701,30.340599],"type":"Point"}
+  "bbox": [
+    -97.738701,
+    30.340599,
+    -97.738701,
+    30.340599
+],
+  "geometry": {"coordinates":[-97.73870100000001,30.340599],"type":"Point"}
 }

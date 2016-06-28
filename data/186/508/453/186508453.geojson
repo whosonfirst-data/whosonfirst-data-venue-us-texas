@@ -2,13 +2,14 @@
   "id": 186508453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.545536,29.832312,-95.545536,29.832312",
     "geom:latitude":29.832312,
     "geom:longitude":-95.545536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 Clay Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186508453,
-    "wof:lastmodified":1449051886,
+    "wof:lastmodified":1467084723,
     "wof:name":"Texas Security Systems",
     "wof:parent_id":85869161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.545536,29.832312,-95.545536,29.832312],
+  "bbox": [
+    -95.545536,
+    29.832312,
+    -95.545536,
+    29.832312
+],
   "geometry": {"coordinates":[-95.545536,29.832312],"type":"Point"}
 }

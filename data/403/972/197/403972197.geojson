@@ -2,13 +2,14 @@
   "id": 403972197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.128204,32.88211,-100.128204,32.88211",
     "geom:latitude":32.88211,
     "geom:longitude":-100.128204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 SW Ave B",
     "sg:city":"Hamlin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403972197,
-    "wof:lastmodified":1449055314,
+    "wof:lastmodified":1467084765,
     "wof:name":"First Baptist Church Of Hamlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.128204,32.88211,-100.128204,32.88211],
+  "bbox": [
+    -100.128204,
+    32.88211,
+    -100.128204,
+    32.88211
+],
   "geometry": {"coordinates":[-100.128204,32.88211],"type":"Point"}
 }

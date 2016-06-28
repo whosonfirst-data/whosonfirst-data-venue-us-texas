@@ -2,13 +2,14 @@
   "id": 387511503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.41146,30.123783,-95.41146,30.123783",
     "geom:latitude":30.123783,
     "geom:longitude":-95.41146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Rayford Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387511503,
-    "wof:lastmodified":1449057859,
+    "wof:lastmodified":1467084829,
     "wof:name":"Growing Tgether Early Lrng Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.41146,30.123783,-95.41146,30.123783],
-  "geometry": {"coordinates":[-95.41146,30.123783],"type":"Point"}
+  "bbox": [
+    -95.41146,
+    30.123783,
+    -95.41146,
+    30.123783
+],
+  "geometry": {"coordinates":[-95.41146000000001,30.123783],"type":"Point"}
 }

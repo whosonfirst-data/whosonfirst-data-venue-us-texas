@@ -2,13 +2,14 @@
   "id": 236140091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.960512,32.990438,-96.960512,32.990438",
     "geom:latitude":32.990438,
     "geom:longitude":-96.960512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Lake Vista Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236140091,
-    "wof:lastmodified":1449002032,
+    "wof:lastmodified":1467083880,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.960512,32.990438,-96.960512,32.990438],
-  "geometry": {"coordinates":[-96.960512,32.990438],"type":"Point"}
+  "bbox": [
+    -96.960512,
+    32.990438,
+    -96.960512,
+    32.990438
+],
+  "geometry": {"coordinates":[-96.96051199999999,32.990438],"type":"Point"}
 }

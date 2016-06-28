@@ -2,13 +2,14 @@
   "id": 236401241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635521,33.161677,-96.635521,33.161677",
     "geom:latitude":33.161677,
     "geom:longitude":-96.635521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Medical Center Dr Ste 300",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236401241,
-    "wof:lastmodified":1449004660,
+    "wof:lastmodified":1467084011,
     "wof:name":"McKinney Foot & Ankle Clinic",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "sport"
     ]
 },
-  "bbox": [-96.635521,33.161677,-96.635521,33.161677],
+  "bbox": [
+    -96.635521,
+    33.161677,
+    -96.635521,
+    33.161677
+],
   "geometry": {"coordinates":[-96.635521,33.161677],"type":"Point"}
 }

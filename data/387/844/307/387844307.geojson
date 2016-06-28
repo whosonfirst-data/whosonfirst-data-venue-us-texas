@@ -2,13 +2,14 @@
   "id": 387844307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767986,32.859667,-96.767986,32.859667",
     "geom:latitude":32.859667,
     "geom:longitude":-96.767986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6130 Greenville Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387844307,
-    "wof:lastmodified":1449057729,
+    "wof:lastmodified":1467084825,
     "wof:name":"Touchstone Realty Advisers",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.767986,32.859667,-96.767986,32.859667],
-  "geometry": {"coordinates":[-96.767986,32.859667],"type":"Point"}
+  "bbox": [
+    -96.767986,
+    32.859667,
+    -96.767986,
+    32.859667
+],
+  "geometry": {"coordinates":[-96.76798599999999,32.859667],"type":"Point"}
 }

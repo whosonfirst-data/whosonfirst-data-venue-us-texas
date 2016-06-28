@@ -2,13 +2,14 @@
   "id": 236000001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.633844,29.734605,-95.633844,29.734605",
     "geom:latitude":29.734605,
     "geom:longitude":-95.633844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Joel Wheaton Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236000001,
-    "wof:lastmodified":1449002070,
+    "wof:lastmodified":1467083883,
     "wof:name":"Alltexas Vending",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-95.633844,29.734605,-95.633844,29.734605],
+  "bbox": [
+    -95.633844,
+    29.734605,
+    -95.633844,
+    29.734605
+],
   "geometry": {"coordinates":[-95.633844,29.734605],"type":"Point"}
 }

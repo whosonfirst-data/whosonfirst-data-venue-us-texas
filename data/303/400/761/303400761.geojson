@@ -2,13 +2,14 @@
   "id": 303400761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.687035,30.309355,-97.687035,30.309355",
     "geom:latitude":30.309355,
     "geom:longitude":-97.687035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5707 Thames Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303400761,
-    "wof:lastmodified":1448998361,
+    "wof:lastmodified":1467083703,
     "wof:name":"Center Components Corp",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "device"
     ]
 },
-  "bbox": [-97.687035,30.309355,-97.687035,30.309355],
-  "geometry": {"coordinates":[-97.687035,30.309355],"type":"Point"}
+  "bbox": [
+    -97.687035,
+    30.309355,
+    -97.687035,
+    30.309355
+],
+  "geometry": {"coordinates":[-97.68703499999999,30.309355],"type":"Point"}
 }

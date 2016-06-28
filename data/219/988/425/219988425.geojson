@@ -2,13 +2,14 @@
   "id": 219988425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.455033,31.429636,-100.455033,31.429636",
     "geom:latitude":31.429636,
     "geom:longitude":-100.455033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 Industrial Ave",
     "sg:city":"San Angelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219988425,
-    "wof:lastmodified":1449071616,
+    "wof:lastmodified":1467085126,
     "wof:name":"Calvary Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.455033,31.429636,-100.455033,31.429636],
+  "bbox": [
+    -100.455033,
+    31.429636,
+    -100.455033,
+    31.429636
+],
   "geometry": {"coordinates":[-100.455033,31.429636],"type":"Point"}
 }

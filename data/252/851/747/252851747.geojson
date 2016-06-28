@@ -2,13 +2,14 @@
   "id": 252851747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508523,29.967964,-95.508523,29.967964",
     "geom:latitude":29.967964,
     "geom:longitude":-95.508523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Pinewood Springs Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252851747,
-    "wof:lastmodified":1449006115,
+    "wof:lastmodified":1467084086,
     "wof:name":"All Around Airport Transport",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-95.508523,29.967964,-95.508523,29.967964],
+  "bbox": [
+    -95.508523,
+    29.967964,
+    -95.508523,
+    29.967964
+],
   "geometry": {"coordinates":[-95.508523,29.967964],"type":"Point"}
 }

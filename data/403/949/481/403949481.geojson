@@ -2,13 +2,14 @@
   "id": 403949481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.562621,29.413651,-98.562621,29.413651",
     "geom:latitude":29.413651,
     "geom:longitude":-98.562621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Allende Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403949481,
-    "wof:lastmodified":1449055469,
+    "wof:lastmodified":1467084769,
     "wof:name":"P&G Sales",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.562621,29.413651,-98.562621,29.413651],
-  "geometry": {"coordinates":[-98.562621,29.413651],"type":"Point"}
+  "bbox": [
+    -98.562621,
+    29.413651,
+    -98.562621,
+    29.413651
+],
+  "geometry": {"coordinates":[-98.56262099999999,29.413651],"type":"Point"}
 }

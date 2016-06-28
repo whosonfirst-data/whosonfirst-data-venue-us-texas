@@ -2,13 +2,14 @@
   "id": 253169659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838726,32.934264,-96.838726,32.934264",
     "geom:latitude":32.934264,
     "geom:longitude":-96.838726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13614 Midway Rd Ste 203",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253169659,
-    "wof:lastmodified":1449064638,
+    "wof:lastmodified":1467085007,
     "wof:name":"Brookhaven College",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-96.838726,32.934264,-96.838726,32.934264],
-  "geometry": {"coordinates":[-96.838726,32.934264],"type":"Point"}
+  "bbox": [
+    -96.838726,
+    32.934264,
+    -96.838726,
+    32.934264
+],
+  "geometry": {"coordinates":[-96.83872599999999,32.934264],"type":"Point"}
 }

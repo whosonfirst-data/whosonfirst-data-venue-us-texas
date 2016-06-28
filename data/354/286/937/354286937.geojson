@@ -2,13 +2,14 @@
   "id": 354286937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12542,31.542115,-97.12542,31.542115",
     "geom:latitude":31.542115,
     "geom:longitude":-97.12542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S 11th St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354286937,
-    "wof:lastmodified":1449066357,
+    "wof:lastmodified":1467085062,
     "wof:name":"Padon Distribution",
     "wof:parent_id":85881731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-97.12542,31.542115,-97.12542,31.542115],
-  "geometry": {"coordinates":[-97.12542,31.542115],"type":"Point"}
+  "bbox": [
+    -97.12542,
+    31.542115,
+    -97.12542,
+    31.542115
+],
+  "geometry": {"coordinates":[-97.12542000000001,31.542115],"type":"Point"}
 }

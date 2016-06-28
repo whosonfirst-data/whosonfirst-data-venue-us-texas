@@ -2,13 +2,14 @@
   "id": 253060359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.414674,29.704491,-95.414674,29.704491",
     "geom:latitude":29.704491,
     "geom:longitude":-95.414674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 Morningside Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253060359,
-    "wof:lastmodified":1449065514,
+    "wof:lastmodified":1467085038,
     "wof:name":"Anything Goes Flowers & Bllns",
     "wof:parent_id":85893751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-95.414674,29.704491,-95.414674,29.704491],
-  "geometry": {"coordinates":[-95.414674,29.704491],"type":"Point"}
+  "bbox": [
+    -95.414674,
+    29.704491,
+    -95.414674,
+    29.704491
+],
+  "geometry": {"coordinates":[-95.41467400000001,29.704491],"type":"Point"}
 }

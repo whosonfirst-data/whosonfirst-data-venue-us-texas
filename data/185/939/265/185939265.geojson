@@ -2,13 +2,14 @@
   "id": 185939265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772375,30.310811,-97.772375,30.310811",
     "geom:latitude":30.310811,
     "geom:longitude":-97.772375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 Taylors Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185939265,
-    "wof:lastmodified":1449007086,
+    "wof:lastmodified":1467084120,
     "wof:name":"Alfred A King",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.772375,30.310811,-97.772375,30.310811],
+  "bbox": [
+    -97.772375,
+    30.310811,
+    -97.772375,
+    30.310811
+],
   "geometry": {"coordinates":[-97.772375,30.310811],"type":"Point"}
 }

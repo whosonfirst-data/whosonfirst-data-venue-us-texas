@@ -2,13 +2,14 @@
   "id": 404039611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.708126,30.272355,-97.708126,30.272355",
     "geom:latitude":30.272355,
     "geom:longitude":-97.708126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Rosewood Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404039611,
-    "wof:lastmodified":1449040175,
+    "wof:lastmodified":1467084658,
     "wof:name":"Educational Talent Search",
     "wof:parent_id":85867201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.708126,30.272355,-97.708126,30.272355],
-  "geometry": {"coordinates":[-97.708126,30.272355],"type":"Point"}
+  "bbox": [
+    -97.708126,
+    30.272355,
+    -97.708126,
+    30.272355
+],
+  "geometry": {"coordinates":[-97.70812599999999,30.272355],"type":"Point"}
 }

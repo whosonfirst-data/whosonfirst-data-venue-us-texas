@@ -2,13 +2,14 @@
   "id": 403808111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.743096,33.420311,-99.743096,33.420311",
     "geom:latitude":33.420311,
     "geom:longitude":-99.743096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5436 State Hwy 222",
     "sg:city":"Knox City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403808111,
-    "wof:lastmodified":1449054687,
+    "wof:lastmodified":1467084751,
     "wof:name":"Anderson Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.743096,33.420311,-99.743096,33.420311],
-  "geometry": {"coordinates":[-99.743096,33.420311],"type":"Point"}
+  "bbox": [
+    -99.743096,
+    33.420311,
+    -99.743096,
+    33.420311
+],
+  "geometry": {"coordinates":[-99.74309599999999,33.420311],"type":"Point"}
 }

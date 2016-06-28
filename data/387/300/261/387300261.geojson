@@ -2,13 +2,14 @@
   "id": 387300261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515931,29.357535,-98.515931,29.357535",
     "geom:latitude":29.357535,
     "geom:longitude":-98.515931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Rayburn Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387300261,
-    "wof:lastmodified":1449058247,
+    "wof:lastmodified":1467084839,
     "wof:name":"San Antonio Federal Cu",
     "wof:parent_id":85846903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-98.515931,29.357535,-98.515931,29.357535],
-  "geometry": {"coordinates":[-98.515931,29.357535],"type":"Point"}
+  "bbox": [
+    -98.515931,
+    29.357535,
+    -98.515931,
+    29.357535
+],
+  "geometry": {"coordinates":[-98.51593099999999,29.357535],"type":"Point"}
 }

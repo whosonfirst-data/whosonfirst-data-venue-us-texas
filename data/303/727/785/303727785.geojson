@@ -2,13 +2,14 @@
   "id": 303727785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.692712,30.344518,-97.692712,30.344518",
     "geom:latitude":30.344518,
     "geom:longitude":-97.692712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 Shenandoah Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303727785,
-    "wof:lastmodified":1448998489,
+    "wof:lastmodified":1467083709,
     "wof:name":"Dog Mess",
     "wof:parent_id":85869893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-97.692712,30.344518,-97.692712,30.344518],
+  "bbox": [
+    -97.692712,
+    30.344518,
+    -97.692712,
+    30.344518
+],
   "geometry": {"coordinates":[-97.692712,30.344518],"type":"Point"}
 }

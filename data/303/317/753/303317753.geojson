@@ -2,13 +2,14 @@
   "id": 303317753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.755331,30.258966,-97.755331,30.258966",
     "geom:latitude":30.258966,
     "geom:longitude":-97.755331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Daniel Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303317753,
-    "wof:lastmodified":1448999236,
+    "wof:lastmodified":1467083747,
     "wof:name":"FAB Architecture",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.755331,30.258966,-97.755331,30.258966],
+  "bbox": [
+    -97.755331,
+    30.258966,
+    -97.755331,
+    30.258966
+],
   "geometry": {"coordinates":[-97.755331,30.258966],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224775",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.845282,35.211853,-101.845282,35.211853",
     "geom:latitude":35.211853,
     "geom:longitude":-101.845282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W 3rd Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.amarillospca.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875863,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102224775",
-    "wof:lastmodified":1449069565,
+    "wof:lastmodified":1467085097,
     "wof:name":"Amarillo SPCA",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.845282,35.211853,-101.845282,35.211853],
+  "bbox": [
+    -101.845282,
+    35.211853,
+    -101.845282,
+    35.211853
+],
   "geometry": {"coordinates":[-101.845282,35.211853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370181803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486074,29.428308,-98.486074,29.428308",
     "geom:latitude":29.428308,
     "geom:longitude":-98.486074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 3rd St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370181803,
-    "wof:lastmodified":1449031166,
+    "wof:lastmodified":1467084521,
     "wof:name":"Master Control San Antonio",
     "wof:parent_id":85871035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.486074,29.428308,-98.486074,29.428308],
+  "bbox": [
+    -98.486074,
+    29.428308,
+    -98.486074,
+    29.428308
+],
   "geometry": {"coordinates":[-98.486074,29.428308],"type":"Point"}
 }

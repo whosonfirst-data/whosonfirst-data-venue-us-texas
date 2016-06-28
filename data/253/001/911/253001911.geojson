@@ -2,13 +2,14 @@
   "id": 253001911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769227,32.888243,-96.769227,32.888243",
     "geom:latitude":32.888243,
     "geom:longitude":-96.769227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10440 N Central Expy Ste 300",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253001911,
-    "wof:lastmodified":1449063481,
+    "wof:lastmodified":1467084968,
     "wof:name":"Flagstar Bank",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.769227,32.888243,-96.769227,32.888243],
+  "bbox": [
+    -96.769227,
+    32.888243,
+    -96.769227,
+    32.888243
+],
   "geometry": {"coordinates":[-96.769227,32.888243],"type":"Point"}
 }

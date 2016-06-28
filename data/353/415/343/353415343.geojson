@@ -2,13 +2,14 @@
   "id": 353415343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.862103,33.000511,-96.862103,33.000511",
     "geom:latitude":33.000511,
     "geom:longitude":-96.862103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Timberglen Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353415343,
-    "wof:lastmodified":1449020084,
+    "wof:lastmodified":1467084361,
     "wof:name":"City Wide Vending",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-96.862103,33.000511,-96.862103,33.000511],
+  "bbox": [
+    -96.862103,
+    33.000511,
+    -96.862103,
+    33.000511
+],
   "geometry": {"coordinates":[-96.862103,33.000511],"type":"Point"}
 }

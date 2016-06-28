@@ -2,13 +2,14 @@
   "id": 370442571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.616291,29.756657,-95.616291,29.756657",
     "geom:latitude":29.756657,
     "geom:longitude":-95.616291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Briar Bayou Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370442571,
-    "wof:lastmodified":1449030580,
+    "wof:lastmodified":1467084506,
     "wof:name":"Wharton Associates Inc",
     "wof:parent_id":85869771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.616291,29.756657,-95.616291,29.756657],
+  "bbox": [
+    -95.616291,
+    29.756657,
+    -95.616291,
+    29.756657
+],
   "geometry": {"coordinates":[-95.616291,29.756657],"type":"Point"}
 }

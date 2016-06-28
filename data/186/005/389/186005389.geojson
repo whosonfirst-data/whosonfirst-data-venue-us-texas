@@ -2,13 +2,14 @@
   "id": 186005389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477105,25.914161,-97.477105,25.914161",
     "geom:latitude":25.914161,
     "geom:longitude":-97.477105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 E 14th St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186005389,
-    "wof:lastmodified":1449052813,
+    "wof:lastmodified":1467084743,
     "wof:name":"Economic Transmission",
     "wof:parent_id":85876601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.477105,25.914161,-97.477105,25.914161],
-  "geometry": {"coordinates":[-97.477105,25.914161],"type":"Point"}
+  "bbox": [
+    -97.477105,
+    25.914161,
+    -97.477105,
+    25.914161
+],
+  "geometry": {"coordinates":[-97.47710499999999,25.914161],"type":"Point"}
 }

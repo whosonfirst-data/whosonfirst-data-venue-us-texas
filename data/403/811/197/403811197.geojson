@@ -2,13 +2,14 @@
   "id": 403811197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744149,31.43959,-97.744149,31.43959",
     "geom:latitude":31.43959,
     "geom:longitude":-97.744149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Lutterloh Ave",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403811197,
-    "wof:lastmodified":1449055273,
+    "wof:lastmodified":1467084765,
     "wof:name":"A To Z Air Cooled Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.744149,31.43959,-97.744149,31.43959],
-  "geometry": {"coordinates":[-97.744149,31.43959],"type":"Point"}
+  "bbox": [
+    -97.744149,
+    31.43959,
+    -97.744149,
+    31.43959
+],
+  "geometry": {"coordinates":[-97.74414899999999,31.43959],"type":"Point"}
 }

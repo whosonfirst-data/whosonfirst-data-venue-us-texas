@@ -2,13 +2,14 @@
   "id": 403784791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049008,32.777225,-97.049008,32.777225",
     "geom:latitude":32.777225,
     "geom:longitude":-97.049008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Avenue N",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403784791,
-    "wof:lastmodified":1449055503,
+    "wof:lastmodified":1467084770,
     "wof:name":"Data Label",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.049008,32.777225,-97.049008,32.777225],
+  "bbox": [
+    -97.049008,
+    32.777225,
+    -97.049008,
+    32.777225
+],
   "geometry": {"coordinates":[-97.049008,32.777225],"type":"Point"}
 }

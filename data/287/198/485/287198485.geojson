@@ -2,13 +2,14 @@
   "id": 287198485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479405,29.660025,-98.479405,29.660025",
     "geom:latitude":29.660025,
     "geom:longitude":-98.479405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24400 Canyon Golf Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":287198485,
-    "wof:lastmodified":1449000985,
+    "wof:lastmodified":1467083829,
     "wof:name":"Canyon Springs Golf Club",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-98.479405,29.660025,-98.479405,29.660025],
+  "bbox": [
+    -98.479405,
+    29.660025,
+    -98.479405,
+    29.660025
+],
   "geometry": {"coordinates":[-98.479405,29.660025],"type":"Point"}
 }

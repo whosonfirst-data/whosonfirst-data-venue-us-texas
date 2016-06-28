@@ -2,13 +2,14 @@
   "id": 202769773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.880169,33.563343,-101.880169,33.563343",
     "geom:latitude":33.563343,
     "geom:longitude":-101.880169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3060 34th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202769773,
-    "wof:lastmodified":1449060949,
+    "wof:lastmodified":1467084906,
     "wof:name":"Direct Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.880169,33.563343,-101.880169,33.563343],
+  "bbox": [
+    -101.880169,
+    33.563343,
+    -101.880169,
+    33.563343
+],
   "geometry": {"coordinates":[-101.880169,33.563343],"type":"Point"}
 }

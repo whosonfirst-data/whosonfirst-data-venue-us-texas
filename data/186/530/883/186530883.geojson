@@ -2,13 +2,14 @@
   "id": 186530883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.862449,32.557646,-95.862449,32.557646",
     "geom:latitude":32.557646,
     "geom:longitude":-95.862449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Groves St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186530883,
-    "wof:lastmodified":1449051803,
+    "wof:lastmodified":1467084721,
     "wof:name":"Groves Parking Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-95.862449,32.557646,-95.862449,32.557646],
+  "bbox": [
+    -95.862449,
+    32.557646,
+    -95.862449,
+    32.557646
+],
   "geometry": {"coordinates":[-95.862449,32.557646],"type":"Point"}
 }

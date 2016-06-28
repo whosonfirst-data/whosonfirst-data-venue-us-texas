@@ -2,13 +2,14 @@
   "id": 371114935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.364112,29.776547,-95.364112,29.776547",
     "geom:latitude":29.776547,
     "geom:longitude":-95.364112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Fletcher St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371114935,
-    "wof:lastmodified":1449049463,
+    "wof:lastmodified":1467084678,
     "wof:name":"Baptist Mission Ctr",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mission"
     ]
 },
-  "bbox": [-95.364112,29.776547,-95.364112,29.776547],
-  "geometry": {"coordinates":[-95.364112,29.776547],"type":"Point"}
+  "bbox": [
+    -95.364112,
+    29.776547,
+    -95.364112,
+    29.776547
+],
+  "geometry": {"coordinates":[-95.36411200000001,29.776547],"type":"Point"}
 }

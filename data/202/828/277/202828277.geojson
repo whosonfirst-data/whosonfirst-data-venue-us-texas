@@ -2,13 +2,14 @@
   "id": 202828277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.160255,26.175979,-98.160255,26.175979",
     "geom:latitude":26.175979,
     "geom:longitude":-98.160255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W 17th St",
     "sg:city":"San Juan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202828277,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1467084915,
     "wof:name":"Graceful Crafts",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.160255,26.175979,-98.160255,26.175979],
-  "geometry": {"coordinates":[-98.160255,26.175979],"type":"Point"}
+  "bbox": [
+    -98.160255,
+    26.175979,
+    -98.160255,
+    26.175979
+],
+  "geometry": {"coordinates":[-98.16025500000001,26.175979],"type":"Point"}
 }

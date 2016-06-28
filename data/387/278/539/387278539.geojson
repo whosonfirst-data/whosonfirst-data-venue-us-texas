@@ -2,13 +2,14 @@
   "id": 387278539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747852,32.760565,-96.747852,32.760565",
     "geom:latitude":32.760565,
     "geom:longitude":-96.747852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Bradshaw St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387278539,
-    "wof:lastmodified":1449058217,
+    "wof:lastmodified":1467084838,
     "wof:name":"Smittys of Dallas",
     "wof:parent_id":85870447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.747852,32.760565,-96.747852,32.760565],
-  "geometry": {"coordinates":[-96.747852,32.760565],"type":"Point"}
+  "bbox": [
+    -96.747852,
+    32.760565,
+    -96.747852,
+    32.760565
+],
+  "geometry": {"coordinates":[-96.74785199999999,32.760565],"type":"Point"}
 }

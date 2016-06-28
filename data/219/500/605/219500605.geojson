@@ -2,13 +2,14 @@
   "id": 219500605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.179132,32.83587,-97.179132,32.83587",
     "geom:latitude":32.83587,
     "geom:longitude":-97.179132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Brookside Dr",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219500605,
-    "wof:lastmodified":1449071282,
+    "wof:lastmodified":1467085118,
     "wof:name":"ACS Housekeeping Maintenance",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.179132,32.83587,-97.179132,32.83587],
+  "bbox": [
+    -97.179132,
+    32.83587,
+    -97.179132,
+    32.83587
+],
   "geometry": {"coordinates":[-97.179132,32.83587],"type":"Point"}
 }

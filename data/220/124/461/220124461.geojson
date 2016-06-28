@@ -2,13 +2,14 @@
   "id": 220124461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.352944,29.938614,-95.352944,29.938614",
     "geom:latitude":29.938614,
     "geom:longitude":-95.352944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Sam Houston Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220124461,
-    "wof:lastmodified":1449074824,
+    "wof:lastmodified":1467085195,
     "wof:name":"Iron Mountain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "record"
     ]
 },
-  "bbox": [-95.352944,29.938614,-95.352944,29.938614],
-  "geometry": {"coordinates":[-95.352944,29.938614],"type":"Point"}
+  "bbox": [
+    -95.352944,
+    29.938614,
+    -95.352944,
+    29.938614
+],
+  "geometry": {"coordinates":[-95.35294399999999,29.938614],"type":"Point"}
 }

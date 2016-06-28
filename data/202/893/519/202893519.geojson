@@ -2,13 +2,14 @@
   "id": 202893519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.106209,31.980673,-102.106209,31.980673",
     "geom:latitude":31.980673,
     "geom:longitude":-102.106209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 W Front St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202893519,
-    "wof:lastmodified":1449062191,
+    "wof:lastmodified":1467084931,
     "wof:name":"Fred's Archery",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-102.106209,31.980673,-102.106209,31.980673],
-  "geometry": {"coordinates":[-102.106209,31.980673],"type":"Point"}
+  "bbox": [
+    -102.106209,
+    31.980673,
+    -102.106209,
+    31.980673
+],
+  "geometry": {"coordinates":[-102.10620900000001,31.980673],"type":"Point"}
 }

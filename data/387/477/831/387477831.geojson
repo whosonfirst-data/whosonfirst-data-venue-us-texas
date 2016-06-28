@@ -2,13 +2,14 @@
   "id": 387477831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.855333,33.476498,-100.855333,33.476498",
     "geom:latitude":33.476498,
     "geom:longitude":-100.855333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Harris St",
     "sg:city":"Spur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387477831,
-    "wof:lastmodified":1449056752,
+    "wof:lastmodified":1467084801,
     "wof:name":"City Of Spur Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-100.855333,33.476498,-100.855333,33.476498],
+  "bbox": [
+    -100.855333,
+    33.476498,
+    -100.855333,
+    33.476498
+],
   "geometry": {"coordinates":[-100.855333,33.476498],"type":"Point"}
 }

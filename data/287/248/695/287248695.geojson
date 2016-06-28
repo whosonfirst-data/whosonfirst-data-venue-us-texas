@@ -2,13 +2,14 @@
   "id": 287248695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.226368,26.22505,-98.226368,26.22505",
     "geom:latitude":26.22505,
     "geom:longitude":-98.226368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 N 10th St Ste B",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287248695,
-    "wof:lastmodified":1449001157,
+    "wof:lastmodified":1467083834,
     "wof:name":"Texas State Billing",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-98.226368,26.22505,-98.226368,26.22505],
-  "geometry": {"coordinates":[-98.226368,26.22505],"type":"Point"}
+  "bbox": [
+    -98.226368,
+    26.22505,
+    -98.226368,
+    26.22505
+],
+  "geometry": {"coordinates":[-98.22636799999999,26.22505],"type":"Point"}
 }

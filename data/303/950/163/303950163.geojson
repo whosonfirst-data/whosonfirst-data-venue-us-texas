@@ -2,13 +2,14 @@
   "id": 303950163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.938608,35.240866,-101.938608,35.240866",
     "geom:latitude":35.240866,
     "geom:longitude":-101.938608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 S Soncy Rd Ste 700",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303950163,
-    "wof:lastmodified":1448999072,
+    "wof:lastmodified":1467083739,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-101.938608,35.240866,-101.938608,35.240866],
+  "bbox": [
+    -101.938608,
+    35.240866,
+    -101.938608,
+    35.240866
+],
   "geometry": {"coordinates":[-101.938608,35.240866],"type":"Point"}
 }

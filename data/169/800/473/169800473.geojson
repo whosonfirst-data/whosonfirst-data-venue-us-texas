@@ -2,13 +2,14 @@
   "id": 169800473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.761251,30.083724,-93.761251,30.083724",
     "geom:latitude":30.083724,
     "geom:longitude":-93.761251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Western Ave",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169800473,
-    "wof:lastmodified":1449032937,
+    "wof:lastmodified":1467084558,
     "wof:name":"West Orange City of",
     "wof:parent_id":85841777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-93.761251,30.083724,-93.761251,30.083724],
+  "bbox": [
+    -93.761251,
+    30.083724,
+    -93.761251,
+    30.083724
+],
   "geometry": {"coordinates":[-93.761251,30.083724],"type":"Point"}
 }

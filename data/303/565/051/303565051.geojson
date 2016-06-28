@@ -2,13 +2,14 @@
   "id": 303565051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751297,30.213699,-97.751297,30.213699",
     "geom:latitude":30.213699,
     "geom:longitude":-97.751297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Directors Blvd Ste 240",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303565051,
-    "wof:lastmodified":1449000348,
+    "wof:lastmodified":1467083802,
     "wof:name":"Smith & Carlson P C",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.751297,30.213699,-97.751297,30.213699],
-  "geometry": {"coordinates":[-97.751297,30.213699],"type":"Point"}
+  "bbox": [
+    -97.751297,
+    30.213699,
+    -97.751297,
+    30.213699
+],
+  "geometry": {"coordinates":[-97.75129699999999,30.213699],"type":"Point"}
 }

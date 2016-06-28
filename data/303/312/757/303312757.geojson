@@ -2,13 +2,14 @@
   "id": 303312757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.769214,30.249192,-97.769214,30.249192",
     "geom:latitude":30.249192,
     "geom:longitude":-97.769214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2038 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303312757,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1467083753,
     "wof:name":"El Meson, Cocina Mexicana Y Tequileria",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.769214,30.249192,-97.769214,30.249192],
-  "geometry": {"coordinates":[-97.769214,30.249192],"type":"Point"}
+  "bbox": [
+    -97.769214,
+    30.249192,
+    -97.769214,
+    30.249192
+],
+  "geometry": {"coordinates":[-97.76921400000001,30.249192],"type":"Point"}
 }

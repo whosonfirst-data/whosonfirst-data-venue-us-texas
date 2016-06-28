@@ -2,13 +2,14 @@
   "id": 370619005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.931732,29.395207,-94.931732,29.395207",
     "geom:latitude":29.395207,
     "geom:longitude":-94.931732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Palmer Hwy",
     "sg:city":"Texas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370619005,
-    "wof:lastmodified":1449029703,
+    "wof:lastmodified":1467084484,
     "wof:name":"BEI Engineering",
     "wof:parent_id":85824553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-94.931732,29.395207,-94.931732,29.395207],
+  "bbox": [
+    -94.931732,
+    29.395207,
+    -94.931732,
+    29.395207
+],
   "geometry": {"coordinates":[-94.931732,29.395207],"type":"Point"}
 }

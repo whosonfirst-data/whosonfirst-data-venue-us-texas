@@ -2,13 +2,14 @@
   "id": 203100101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485679,29.386817,-98.485679,29.386817",
     "geom:latitude":29.386817,
     "geom:longitude":-98.485679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Roosevelt Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203100101,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1467084411,
     "wof:name":"San Antonio Security Svc",
     "wof:parent_id":85871057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-98.485679,29.386817,-98.485679,29.386817],
+  "bbox": [
+    -98.485679,
+    29.386817,
+    -98.485679,
+    29.386817
+],
   "geometry": {"coordinates":[-98.485679,29.386817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169830039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.131789,30.087656,-94.131789,30.087656",
     "geom:latitude":30.087656,
     "geom:longitude":-94.131789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 North St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169830039,
-    "wof:lastmodified":1449033386,
+    "wof:lastmodified":1467084560,
     "wof:name":"Minor Care Center",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.131789,30.087656,-94.131789,30.087656],
+  "bbox": [
+    -94.131789,
+    30.087656,
+    -94.131789,
+    30.087656
+],
   "geometry": {"coordinates":[-94.131789,30.087656],"type":"Point"}
 }

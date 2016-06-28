@@ -2,13 +2,14 @@
   "id": 269880035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.376748,29.74011,-95.376748,29.74011",
     "geom:latitude":29.74011,
     "geom:longitude":-95.376748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269880035,
-    "wof:lastmodified":1449038998,
+    "wof:lastmodified":1467084639,
     "wof:name":"Second Chance Technology Edge",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.376748,29.74011,-95.376748,29.74011],
-  "geometry": {"coordinates":[-95.376748,29.74011],"type":"Point"}
+  "bbox": [
+    -95.376748,
+    29.74011,
+    -95.376748,
+    29.74011
+],
+  "geometry": {"coordinates":[-95.37674800000001,29.74011],"type":"Point"}
 }

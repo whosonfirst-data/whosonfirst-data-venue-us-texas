@@ -2,13 +2,14 @@
   "id": 270150067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39398,29.713725,-95.39398,29.713725",
     "geom:latitude":29.713725,
     "geom:longitude":-95.39398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 N. MacGregor",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270150067,
-    "wof:lastmodified":1449008694,
+    "wof:lastmodified":1467084151,
     "wof:name":"The Houston Zoo",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.39398,29.713725,-95.39398,29.713725],
+  "bbox": [
+    -95.39398,
+    29.713725,
+    -95.39398,
+    29.713725
+],
   "geometry": {"coordinates":[-95.39398,29.713725],"type":"Point"}
 }

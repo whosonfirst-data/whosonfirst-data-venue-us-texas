@@ -2,13 +2,14 @@
   "id": 353863925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765988,32.970656,-96.765988,32.970656",
     "geom:latitude":32.970656,
     "geom:longitude":-96.765988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Melrose Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353863925,
-    "wof:lastmodified":1449019998,
+    "wof:lastmodified":1467084359,
     "wof:name":"Glen Mojahead",
     "wof:parent_id":85880209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.765988,32.970656,-96.765988,32.970656],
-  "geometry": {"coordinates":[-96.765988,32.970656],"type":"Point"}
+  "bbox": [
+    -96.765988,
+    32.970656,
+    -96.765988,
+    32.970656
+],
+  "geometry": {"coordinates":[-96.76598799999999,32.970656],"type":"Point"}
 }

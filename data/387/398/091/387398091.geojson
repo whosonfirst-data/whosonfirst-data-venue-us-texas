@@ -2,13 +2,14 @@
   "id": 387398091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.542871,35.23643,-101.542871,35.23643",
     "geom:latitude":35.23643,
     "geom:longitude":-101.542871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 FM 2373",
     "sg:city":"Panhandle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387398091,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1467084792,
     "wof:name":"Vance Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-101.542871,35.23643,-101.542871,35.23643],
-  "geometry": {"coordinates":[-101.542871,35.23643],"type":"Point"}
+  "bbox": [
+    -101.542871,
+    35.23643,
+    -101.542871,
+    35.23643
+],
+  "geometry": {"coordinates":[-101.54287100000001,35.23643],"type":"Point"}
 }

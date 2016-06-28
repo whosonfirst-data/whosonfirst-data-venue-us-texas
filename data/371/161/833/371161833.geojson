@@ -2,13 +2,14 @@
   "id": 371161833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.852224,27.521879,-97.852224,27.521879",
     "geom:latitude":27.521879,
     "geom:longitude":-97.852224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 E Richard Ave",
     "sg:city":"Kingsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371161833,
-    "wof:lastmodified":1449049437,
+    "wof:lastmodified":1467084678,
     "wof:name":"John's Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.852224,27.521879,-97.852224,27.521879],
-  "geometry": {"coordinates":[-97.852224,27.521879],"type":"Point"}
+  "bbox": [
+    -97.852224,
+    27.521879,
+    -97.852224,
+    27.521879
+],
+  "geometry": {"coordinates":[-97.85222400000001,27.521879],"type":"Point"}
 }

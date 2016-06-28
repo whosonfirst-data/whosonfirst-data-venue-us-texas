@@ -2,13 +2,14 @@
   "id": 202870671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474235,29.450287,-98.474235,29.450287",
     "geom:latitude":29.450287,
     "geom:longitude":-98.474235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Broadway",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202870671,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1467084902,
     "wof:name":"Jeff Morehouse",
     "wof:parent_id":85871069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.474235,29.450287,-98.474235,29.450287],
-  "geometry": {"coordinates":[-98.474235,29.450287],"type":"Point"}
+  "bbox": [
+    -98.474235,
+    29.450287,
+    -98.474235,
+    29.450287
+],
+  "geometry": {"coordinates":[-98.47423499999999,29.450287],"type":"Point"}
 }

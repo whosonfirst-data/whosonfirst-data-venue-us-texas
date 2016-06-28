@@ -2,13 +2,14 @@
   "id": 303707501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721433,30.317509,-97.721433,30.317509",
     "geom:latitude":30.317509,
     "geom:longitude":-97.721433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E North Loop",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":303707501,
-    "wof:lastmodified":1449000178,
+    "wof:lastmodified":1467083794,
     "wof:name":"Play It Again Music Center",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "teacher"
     ]
 },
-  "bbox": [-97.721433,30.317509,-97.721433,30.317509],
+  "bbox": [
+    -97.721433,
+    30.317509,
+    -97.721433,
+    30.317509
+],
   "geometry": {"coordinates":[-97.721433,30.317509],"type":"Point"}
 }

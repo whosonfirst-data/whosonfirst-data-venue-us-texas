@@ -2,13 +2,14 @@
   "id": 354185317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.156236,29.133143,-98.156236,29.133143",
     "geom:latitude":29.133143,
     "geom:longitude":-98.156236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 D St",
     "sg:city":"Floresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354185317,
-    "wof:lastmodified":1449066215,
+    "wof:lastmodified":1467085058,
     "wof:name":"Stop N Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.156236,29.133143,-98.156236,29.133143],
-  "geometry": {"coordinates":[-98.156236,29.133143],"type":"Point"}
+  "bbox": [
+    -98.156236,
+    29.133143,
+    -98.156236,
+    29.133143
+],
+  "geometry": {"coordinates":[-98.15623600000001,29.133143],"type":"Point"}
 }

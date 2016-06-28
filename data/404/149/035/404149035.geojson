@@ -2,13 +2,14 @@
   "id": 404149035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.023129,32.73925,-97.023129,32.73925",
     "geom:latitude":32.73925,
     "geom:longitude":-97.023129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 SW 14th St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404149035,
-    "wof:lastmodified":1449039089,
+    "wof:lastmodified":1467084641,
     "wof:name":"IDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.023129,32.73925,-97.023129,32.73925],
+  "bbox": [
+    -97.023129,
+    32.73925,
+    -97.023129,
+    32.73925
+],
   "geometry": {"coordinates":[-97.023129,32.73925],"type":"Point"}
 }

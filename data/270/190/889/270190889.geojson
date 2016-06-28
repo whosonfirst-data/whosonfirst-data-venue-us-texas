@@ -2,13 +2,14 @@
   "id": 270190889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.351503,29.669076,-95.351503,29.669076",
     "geom:latitude":29.669076,
     "geom:longitude":-95.351503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 Sunflower St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":270190889,
-    "wof:lastmodified":1449010956,
+    "wof:lastmodified":1467084227,
     "wof:name":"Sunflower Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "listing"
     ]
 },
-  "bbox": [-95.351503,29.669076,-95.351503,29.669076],
-  "geometry": {"coordinates":[-95.351503,29.669076],"type":"Point"}
+  "bbox": [
+    -95.351503,
+    29.669076,
+    -95.351503,
+    29.669076
+],
+  "geometry": {"coordinates":[-95.35150299999999,29.669076],"type":"Point"}
 }

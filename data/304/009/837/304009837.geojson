@@ -2,13 +2,14 @@
   "id": 304009837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.87108,33.527668,-101.87108,33.527668",
     "geom:latitude":33.527668,
     "geom:longitude":-101.87108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2529 74th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304009837,
-    "wof:lastmodified":1449044151,
+    "wof:lastmodified":1467084670,
     "wof:name":"Adling Associates",
     "wof:parent_id":85878811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "architectural"
     ]
 },
-  "bbox": [-101.87108,33.527668,-101.87108,33.527668],
-  "geometry": {"coordinates":[-101.87108,33.527668],"type":"Point"}
+  "bbox": [
+    -101.87108,
+    33.527668,
+    -101.87108,
+    33.527668
+],
+  "geometry": {"coordinates":[-101.87108000000001,33.527668],"type":"Point"}
 }

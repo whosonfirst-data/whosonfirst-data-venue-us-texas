@@ -2,13 +2,14 @@
   "id": 386971259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.875128,33.567233,-101.875128,33.567233",
     "geom:latitude":33.567233,
     "geom:longitude":-101.875128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 30th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386971259,
-    "wof:lastmodified":1449028787,
+    "wof:lastmodified":1467084461,
     "wof:name":"AC Olson Transcription Service",
     "wof:parent_id":85878817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-101.875128,33.567233,-101.875128,33.567233],
+  "bbox": [
+    -101.875128,
+    33.567233,
+    -101.875128,
+    33.567233
+],
   "geometry": {"coordinates":[-101.875128,33.567233],"type":"Point"}
 }

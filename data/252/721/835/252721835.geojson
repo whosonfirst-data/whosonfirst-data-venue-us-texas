@@ -2,13 +2,14 @@
   "id": 252721835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86094,32.748019,-96.86094,32.748019",
     "geom:latitude":32.748019,
     "geom:longitude":-96.86094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 W Jefferson Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252721835,
-    "wof:lastmodified":1449006509,
+    "wof:lastmodified":1467084108,
     "wof:name":"Pizza Patron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-96.86094,32.748019,-96.86094,32.748019],
+  "bbox": [
+    -96.86094,
+    32.748019,
+    -96.86094,
+    32.748019
+],
   "geometry": {"coordinates":[-96.86094,32.748019],"type":"Point"}
 }

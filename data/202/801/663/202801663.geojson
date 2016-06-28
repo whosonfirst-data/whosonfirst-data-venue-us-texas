@@ -2,13 +2,14 @@
   "id": 202801663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.615362,27.65325,-99.615362,27.65325",
     "geom:latitude":27.65325,
     "geom:longitude":-99.615362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23703 Mines Rd",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202801663,
-    "wof:lastmodified":1449062222,
+    "wof:lastmodified":1467084932,
     "wof:name":"El Primero Training Ctr & Feed",
     "wof:parent_id":85814095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-99.615362,27.65325,-99.615362,27.65325],
+  "bbox": [
+    -99.615362,
+    27.65325,
+    -99.615362,
+    27.65325
+],
   "geometry": {"coordinates":[-99.615362,27.65325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236321023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.962196,32.800999,-96.962196,32.800999",
     "geom:latitude":32.800999,
     "geom:longitude":-96.962196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 W Shady Grove Rd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236321023,
-    "wof:lastmodified":1449001737,
+    "wof:lastmodified":1467083858,
     "wof:name":"Dairy Way No 2",
     "wof:parent_id":85878335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.962196,32.800999,-96.962196,32.800999],
-  "geometry": {"coordinates":[-96.962196,32.800999],"type":"Point"}
+  "bbox": [
+    -96.962196,
+    32.800999,
+    -96.962196,
+    32.800999
+],
+  "geometry": {"coordinates":[-96.96219600000001,32.800999],"type":"Point"}
 }

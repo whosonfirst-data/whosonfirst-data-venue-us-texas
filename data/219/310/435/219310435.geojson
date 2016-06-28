@@ -2,13 +2,14 @@
   "id": 219310435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.572708,29.518325,-98.572708,29.518325",
     "geom:latitude":29.518325,
     "geom:longitude":-98.572708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8494 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219310435,
-    "wof:lastmodified":1449072572,
+    "wof:lastmodified":1467085146,
     "wof:name":"Vegetation Management Svcs LLC",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mowing"
     ]
 },
-  "bbox": [-98.572708,29.518325,-98.572708,29.518325],
-  "geometry": {"coordinates":[-98.572708,29.518325],"type":"Point"}
+  "bbox": [
+    -98.572708,
+    29.518325,
+    -98.572708,
+    29.518325
+],
+  "geometry": {"coordinates":[-98.57270800000001,29.518325],"type":"Point"}
 }

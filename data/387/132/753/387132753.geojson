@@ -2,13 +2,14 @@
   "id": 387132753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.500347,29.924646,-95.500347,29.924646",
     "geom:latitude":29.924646,
     "geom:longitude":-95.500347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14409 Tomball Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387132753,
-    "wof:lastmodified":1449057959,
+    "wof:lastmodified":1467084832,
     "wof:name":"Stop N Go 975",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.500347,29.924646,-95.500347,29.924646],
+  "bbox": [
+    -95.500347,
+    29.924646,
+    -95.500347,
+    29.924646
+],
   "geometry": {"coordinates":[-95.500347,29.924646],"type":"Point"}
 }

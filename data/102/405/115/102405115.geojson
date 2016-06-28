@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.835096,35.19808,-101.835096,35.19808",
     "geom:latitude":35.19808,
     "geom:longitude":-101.835096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 S Pierce St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875859,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102405115,
-    "wof:lastmodified":1449069992,
+    "wof:lastmodified":1467085097,
     "wof:name":"Florentino Records",
     "wof:parent_id":85875859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.835096,35.19808,-101.835096,35.19808],
-  "geometry": {"coordinates":[-101.835096,35.19808],"type":"Point"}
+  "bbox": [
+    -101.835096,
+    35.19808,
+    -101.835096,
+    35.19808
+],
+  "geometry": {"coordinates":[-101.83509599999999,35.19808],"type":"Point"}
 }

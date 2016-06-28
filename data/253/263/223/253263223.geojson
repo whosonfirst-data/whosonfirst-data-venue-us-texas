@@ -2,13 +2,14 @@
   "id": 253263223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.368817,30.681427,-96.368817,30.681427",
     "geom:latitude":30.681427,
     "geom:longitude":-96.368817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 N Texas Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253263223,
-    "wof:lastmodified":1449065709,
+    "wof:lastmodified":1467085044,
     "wof:name":"Discount Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.368817,30.681427,-96.368817,30.681427],
-  "geometry": {"coordinates":[-96.368817,30.681427],"type":"Point"}
+  "bbox": [
+    -96.368817,
+    30.681427,
+    -96.368817,
+    30.681427
+],
+  "geometry": {"coordinates":[-96.36881700000001,30.681427],"type":"Point"}
 }

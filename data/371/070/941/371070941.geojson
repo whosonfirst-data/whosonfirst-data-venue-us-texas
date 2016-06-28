@@ -2,13 +2,14 @@
   "id": 371070941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.900473,32.633724,-96.900473,32.633724",
     "geom:latitude":32.633724,
     "geom:longitude":-96.900473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Acton Ave",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371070941,
-    "wof:lastmodified":1449049514,
+    "wof:lastmodified":1467084679,
     "wof:name":"El Centro Defensive Driving",
     "wof:parent_id":85858735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.900473,32.633724,-96.900473,32.633724],
-  "geometry": {"coordinates":[-96.900473,32.633724],"type":"Point"}
+  "bbox": [
+    -96.900473,
+    32.633724,
+    -96.900473,
+    32.633724
+],
+  "geometry": {"coordinates":[-96.90047300000001,32.633724],"type":"Point"}
 }

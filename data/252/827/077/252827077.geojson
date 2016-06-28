@@ -2,13 +2,14 @@
   "id": 252827077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.301917,28.743509,-98.301917,28.743509",
     "geom:latitude":28.743509,
     "geom:longitude":-98.301917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Commerce St",
     "sg:city":"Campbellton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252827077,
-    "wof:lastmodified":1449005791,
+    "wof:lastmodified":1467084069,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.301917,28.743509,-98.301917,28.743509],
+  "bbox": [
+    -98.301917,
+    28.743509,
+    -98.301917,
+    28.743509
+],
   "geometry": {"coordinates":[-98.301917,28.743509],"type":"Point"}
 }

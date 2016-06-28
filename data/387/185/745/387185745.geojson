@@ -2,13 +2,14 @@
   "id": 387185745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.605333,33.007535,-96.605333,33.007535",
     "geom:latitude":33.007535,
     "geom:longitude":-96.605333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Sycamore Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387185745,
-    "wof:lastmodified":1449056729,
+    "wof:lastmodified":1467084800,
     "wof:name":"Totilities",
     "wof:parent_id":85877695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-96.605333,33.007535,-96.605333,33.007535],
+  "bbox": [
+    -96.605333,
+    33.007535,
+    -96.605333,
+    33.007535
+],
   "geometry": {"coordinates":[-96.605333,33.007535],"type":"Point"}
 }

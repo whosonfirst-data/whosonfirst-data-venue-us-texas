@@ -2,13 +2,14 @@
   "id": 403872801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.432244,29.171102,-95.432244,29.171102",
     "geom:latitude":29.171102,
     "geom:longitude":-95.432244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 N Velasco St",
     "sg:city":"Angleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403872801,
-    "wof:lastmodified":1449054756,
+    "wof:lastmodified":1467084752,
     "wof:name":"Tax Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-95.432244,29.171102,-95.432244,29.171102],
+  "bbox": [
+    -95.432244,
+    29.171102,
+    -95.432244,
+    29.171102
+],
   "geometry": {"coordinates":[-95.432244,29.171102],"type":"Point"}
 }

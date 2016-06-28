@@ -2,13 +2,14 @@
   "id": 236342147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.980924,32.830363,-96.980924,32.830363",
     "geom:latitude":32.830363,
     "geom:longitude":-96.980924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 W Irving Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236342147,
-    "wof:lastmodified":1449004969,
+    "wof:lastmodified":1467084026,
     "wof:name":"USPS - United States Post Office - Irving Main Office",
     "wof:parent_id":85878329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.980924,32.830363,-96.980924,32.830363],
+  "bbox": [
+    -96.980924,
+    32.830363,
+    -96.980924,
+    32.830363
+],
   "geometry": {"coordinates":[-96.980924,32.830363],"type":"Point"}
 }

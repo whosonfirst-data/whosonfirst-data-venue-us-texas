@@ -2,13 +2,14 @@
   "id": 270057323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.330345,29.724939,-95.330345,29.724939",
     "geom:latitude":29.724939,
     "geom:longitude":-95.330345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Lombardy St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270057323,
-    "wof:lastmodified":1449009841,
+    "wof:lastmodified":1467084189,
     "wof:name":"Watkins Qulaity Products",
     "wof:parent_id":85893761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.330345,29.724939,-95.330345,29.724939],
-  "geometry": {"coordinates":[-95.330345,29.724939],"type":"Point"}
+  "bbox": [
+    -95.330345,
+    29.724939,
+    -95.330345,
+    29.724939
+],
+  "geometry": {"coordinates":[-95.33034499999999,29.724939],"type":"Point"}
 }

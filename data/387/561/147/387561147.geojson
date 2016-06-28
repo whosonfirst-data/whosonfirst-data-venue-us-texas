@@ -2,13 +2,14 @@
   "id": 387561147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.155004,32.823218,-97.155004,32.823218",
     "geom:latitude":32.823218,
     "geom:longitude":-97.155004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4323 W Pipeline Rd",
     "sg:city":"Euless",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387561147,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1467084853,
     "wof:name":"Early Church",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.155004,32.823218,-97.155004,32.823218],
-  "geometry": {"coordinates":[-97.155004,32.823218],"type":"Point"}
+  "bbox": [
+    -97.155004,
+    32.823218,
+    -97.155004,
+    32.823218
+],
+  "geometry": {"coordinates":[-97.15500400000001,32.823218],"type":"Point"}
 }

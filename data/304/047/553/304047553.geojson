@@ -2,13 +2,14 @@
   "id": 304047553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.603704,32.279487,-99.603704,32.279487",
     "geom:latitude":32.279487,
     "geom:longitude":-99.603704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10576 State Highway 36 S",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304047553,
-    "wof:lastmodified":1449043984,
+    "wof:lastmodified":1467084667,
     "wof:name":"Highway 36 Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "christ"
     ]
 },
-  "bbox": [-99.603704,32.279487,-99.603704,32.279487],
-  "geometry": {"coordinates":[-99.603704,32.279487],"type":"Point"}
+  "bbox": [
+    -99.603704,
+    32.279487,
+    -99.603704,
+    32.279487
+],
+  "geometry": {"coordinates":[-99.60370399999999,32.279487],"type":"Point"}
 }

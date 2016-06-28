@@ -2,13 +2,14 @@
   "id": 236856777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804926,32.781552,-96.804926,32.781552",
     "geom:latitude":32.781552,
     "geom:longitude":-96.804926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N Lamar Ste 400",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236856777,
-    "wof:lastmodified":1449002405,
+    "wof:lastmodified":1467083905,
     "wof:name":"My Yogo",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-96.804926,32.781552,-96.804926,32.781552],
-  "geometry": {"coordinates":[-96.804926,32.781552],"type":"Point"}
+  "bbox": [
+    -96.804926,
+    32.781552,
+    -96.804926,
+    32.781552
+],
+  "geometry": {"coordinates":[-96.80492599999999,32.781552],"type":"Point"}
 }

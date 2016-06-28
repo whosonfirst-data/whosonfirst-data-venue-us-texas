@@ -2,13 +2,14 @@
   "id": 203002817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.487631,29.926002,-95.487631,29.926002",
     "geom:latitude":29.926002,
     "geom:longitude":-95.487631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6831 Dusty Dawn Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203002817,
-    "wof:lastmodified":1449026499,
+    "wof:lastmodified":1467084414,
     "wof:name":"Mc Kinney Sales Co East",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.487631,29.926002,-95.487631,29.926002],
-  "geometry": {"coordinates":[-95.487631,29.926002],"type":"Point"}
+  "bbox": [
+    -95.487631,
+    29.926002,
+    -95.487631,
+    29.926002
+],
+  "geometry": {"coordinates":[-95.48763099999999,29.926002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354353035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.459167,29.486113,-98.459167,29.486113",
     "geom:latitude":29.486113,
     "geom:longitude":-98.459167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6350 N New Braunfels Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354353035,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1467085062,
     "wof:name":"Glassworks",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.459167,29.486113,-98.459167,29.486113],
-  "geometry": {"coordinates":[-98.459167,29.486113],"type":"Point"}
+  "bbox": [
+    -98.459167,
+    29.486113,
+    -98.459167,
+    29.486113
+],
+  "geometry": {"coordinates":[-98.45916699999999,29.486113],"type":"Point"}
 }

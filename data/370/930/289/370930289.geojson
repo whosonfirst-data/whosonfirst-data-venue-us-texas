@@ -2,13 +2,14 @@
   "id": 370930289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.780324,33.609524,-101.780324,33.609524",
     "geom:latitude":33.609524,
     "geom:longitude":-101.780324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 Idalou Rd",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370930289,
-    "wof:lastmodified":1449030181,
+    "wof:lastmodified":1467084496,
     "wof:name":"A-1 Buildings",
     "wof:parent_id":85878781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-101.780324,33.609524,-101.780324,33.609524],
-  "geometry": {"coordinates":[-101.780324,33.609524],"type":"Point"}
+  "bbox": [
+    -101.780324,
+    33.609524,
+    -101.780324,
+    33.609524
+],
+  "geometry": {"coordinates":[-101.78032399999999,33.609524],"type":"Point"}
 }

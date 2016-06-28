@@ -2,13 +2,14 @@
   "id": 303385731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.66858,30.274087,-97.66858,30.274087",
     "geom:latitude":30.274087,
     "geom:longitude":-97.66858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3926 Ed Bluestein Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303385731,
-    "wof:lastmodified":1448999573,
+    "wof:lastmodified":1467083764,
     "wof:name":"Am Petroleum",
     "wof:parent_id":85869941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.66858,30.274087,-97.66858,30.274087],
-  "geometry": {"coordinates":[-97.66858,30.274087],"type":"Point"}
+  "bbox": [
+    -97.66858,
+    30.274087,
+    -97.66858,
+    30.274087
+],
+  "geometry": {"coordinates":[-97.66858000000001,30.274087],"type":"Point"}
 }

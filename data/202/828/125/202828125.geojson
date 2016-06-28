@@ -2,13 +2,14 @@
   "id": 202828125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.463417,29.763942,-95.463417,29.763942",
     "geom:latitude":29.763942,
     "geom:longitude":-95.463417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Post Oak Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202828125,
-    "wof:lastmodified":1449061410,
+    "wof:lastmodified":1467084915,
     "wof:name":"Gom Shelf LLC",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-95.463417,29.763942,-95.463417,29.763942],
-  "geometry": {"coordinates":[-95.463417,29.763942],"type":"Point"}
+  "bbox": [
+    -95.463417,
+    29.763942,
+    -95.463417,
+    29.763942
+],
+  "geometry": {"coordinates":[-95.46341700000001,29.763942],"type":"Point"}
 }

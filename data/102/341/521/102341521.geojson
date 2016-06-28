@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.856733,35.209101,-101.856733,35.209101",
     "geom:latitude":35.209101,
     "geom:longitude":-101.856733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 W 7th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875857,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102341521,
-    "wof:lastmodified":1449070106,
+    "wof:lastmodified":1467085097,
     "wof:name":"Ken's Golf Cars",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.856733,35.209101,-101.856733,35.209101],
-  "geometry": {"coordinates":[-101.856733,35.209101],"type":"Point"}
+  "bbox": [
+    -101.856733,
+    35.209101,
+    -101.856733,
+    35.209101
+],
+  "geometry": {"coordinates":[-101.85673300000001,35.209101],"type":"Point"}
 }

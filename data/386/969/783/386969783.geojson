@@ -2,13 +2,14 @@
   "id": 386969783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.749254,32.423154,-99.749254,32.423154",
     "geom:latitude":32.423154,
     "geom:longitude":-99.749254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 Highland Ave",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386969783,
-    "wof:lastmodified":1449028683,
+    "wof:lastmodified":1467084459,
     "wof:name":"Miller Appraisal Svc",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-99.749254,32.423154,-99.749254,32.423154],
-  "geometry": {"coordinates":[-99.749254,32.423154],"type":"Point"}
+  "bbox": [
+    -99.749254,
+    32.423154,
+    -99.749254,
+    32.423154
+],
+  "geometry": {"coordinates":[-99.74925399999999,32.423154],"type":"Point"}
 }

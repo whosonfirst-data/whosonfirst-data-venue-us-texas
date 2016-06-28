@@ -2,13 +2,14 @@
   "id": 303873787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.45189,35.641291,-101.45189,35.641291",
     "geom:latitude":35.641291,
     "geom:longitude":-101.45189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Lakeview St",
     "sg:city":"Borger",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303873787,
-    "wof:lastmodified":1448998625,
+    "wof:lastmodified":1467083716,
     "wof:name":"Loretto Petroleum Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-101.45189,35.641291,-101.45189,35.641291],
-  "geometry": {"coordinates":[-101.45189,35.641291],"type":"Point"}
+  "bbox": [
+    -101.45189,
+    35.641291,
+    -101.45189,
+    35.641291
+],
+  "geometry": {"coordinates":[-101.45189000000001,35.641291],"type":"Point"}
 }

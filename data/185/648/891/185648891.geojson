@@ -2,13 +2,14 @@
   "id": 185648891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.288272,31.668609,-106.288272,31.668609",
     "geom:latitude":31.668609,
     "geom:longitude":-106.288272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Old Hueco Tanks Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185648891,
-    "wof:lastmodified":1449007048,
+    "wof:lastmodified":1467084119,
     "wof:name":"Socorro City Street Dept",
     "wof:parent_id":85893653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-106.288272,31.668609,-106.288272,31.668609],
-  "geometry": {"coordinates":[-106.288272,31.668609],"type":"Point"}
+  "bbox": [
+    -106.288272,
+    31.668609,
+    -106.288272,
+    31.668609
+],
+  "geometry": {"coordinates":[-106.28827200000001,31.668609],"type":"Point"}
 }

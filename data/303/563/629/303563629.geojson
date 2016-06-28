@@ -2,13 +2,14 @@
   "id": 303563629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717351,30.211756,-97.717351,30.211756",
     "geom:latitude":30.211756,
     "geom:longitude":-97.717351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 Daffodil Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303563629,
-    "wof:lastmodified":1448998155,
+    "wof:lastmodified":1467083693,
     "wof:name":"Daffodil Apartments",
     "wof:parent_id":85869953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.717351,30.211756,-97.717351,30.211756],
-  "geometry": {"coordinates":[-97.717351,30.211756],"type":"Point"}
+  "bbox": [
+    -97.717351,
+    30.211756,
+    -97.717351,
+    30.211756
+],
+  "geometry": {"coordinates":[-97.71735099999999,30.211756],"type":"Point"}
 }

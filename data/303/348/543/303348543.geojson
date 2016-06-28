@@ -2,13 +2,14 @@
   "id": 303348543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.761283,30.256894,-97.761283,30.256894",
     "geom:latitude":30.256894,
     "geom:longitude":-97.761283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S Lamar St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303348543,
-    "wof:lastmodified":1448998223,
+    "wof:lastmodified":1467083696,
     "wof:name":"Moo Moo's Mini Burgers",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "stand"
     ]
 },
-  "bbox": [-97.761283,30.256894,-97.761283,30.256894],
-  "geometry": {"coordinates":[-97.761283,30.256894],"type":"Point"}
+  "bbox": [
+    -97.761283,
+    30.256894,
+    -97.761283,
+    30.256894
+],
+  "geometry": {"coordinates":[-97.76128300000001,30.256894],"type":"Point"}
 }

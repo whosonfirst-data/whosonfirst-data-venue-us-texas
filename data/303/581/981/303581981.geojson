@@ -2,13 +2,14 @@
   "id": 303581981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.793,30.213778,-97.793,30.213778",
     "geom:latitude":30.213778,
     "geom:longitude":-97.793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 W Stassney Ln #3",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303581981,
-    "wof:lastmodified":1448998633,
+    "wof:lastmodified":1467083717,
     "wof:name":"Guerrilla Fitness",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [-97.793,30.213778,-97.793,30.213778],
-  "geometry": {"coordinates":[-97.793,30.213778],"type":"Point"}
+  "bbox": [
+    -97.793,
+    30.213778,
+    -97.793,
+    30.213778
+],
+  "geometry": {"coordinates":[-97.79300000000001,30.213778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219687133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.469107,27.525839,-99.469107,27.525839",
     "geom:latitude":27.525839,
     "geom:longitude":-99.469107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 E Elm St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219687133,
-    "wof:lastmodified":1449071396,
+    "wof:lastmodified":1467085121,
     "wof:name":"Texas Pictorial",
     "wof:parent_id":85878681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tape"
     ]
 },
-  "bbox": [-99.469107,27.525839,-99.469107,27.525839],
-  "geometry": {"coordinates":[-99.469107,27.525839],"type":"Point"}
+  "bbox": [
+    -99.469107,
+    27.525839,
+    -99.469107,
+    27.525839
+],
+  "geometry": {"coordinates":[-99.46910699999999,27.525839],"type":"Point"}
 }

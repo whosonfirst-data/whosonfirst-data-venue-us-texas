@@ -2,13 +2,14 @@
   "id": 354258651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.349481,32.808281,-97.349481,32.808281",
     "geom:latitude":32.808281,
     "geom:longitude":-97.349481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3423 N Calhoun St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354258651,
-    "wof:lastmodified":1449067277,
+    "wof:lastmodified":1467085084,
     "wof:name":"Hank's Roll-Off & Waste Svc",
     "wof:parent_id":85871613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-97.349481,32.808281,-97.349481,32.808281],
+  "bbox": [
+    -97.349481,
+    32.808281,
+    -97.349481,
+    32.808281
+],
   "geometry": {"coordinates":[-97.349481,32.808281],"type":"Point"}
 }

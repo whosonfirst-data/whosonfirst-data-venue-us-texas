@@ -2,13 +2,14 @@
   "id": 253505667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.306993,32.271226,-95.306993,32.271226",
     "geom:latitude":32.271226,
     "geom:longitude":-95.306993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7906 S Broadway Ave",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":253505667,
-    "wof:lastmodified":1449065284,
+    "wof:lastmodified":1467085030,
     "wof:name":"Tyler Car and Truck Ctr",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "transport"
     ]
 },
-  "bbox": [-95.306993,32.271226,-95.306993,32.271226],
-  "geometry": {"coordinates":[-95.306993,32.271226],"type":"Point"}
+  "bbox": [
+    -95.306993,
+    32.271226,
+    -95.306993,
+    32.271226
+],
+  "geometry": {"coordinates":[-95.30699300000001,32.271226],"type":"Point"}
 }

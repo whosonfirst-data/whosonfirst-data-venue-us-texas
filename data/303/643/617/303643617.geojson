@@ -2,13 +2,14 @@
   "id": 303643617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.812255,30.17658,-97.812255,30.17658",
     "geom:latitude":30.17658,
     "geom:longitude":-97.812255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9212 Independence Loop",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303643617,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1467083796,
     "wof:name":"artful interiors",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-97.812255,30.17658,-97.812255,30.17658],
-  "geometry": {"coordinates":[-97.812255,30.17658],"type":"Point"}
+  "bbox": [
+    -97.812255,
+    30.17658,
+    -97.812255,
+    30.17658
+],
+  "geometry": {"coordinates":[-97.81225499999999,30.17658],"type":"Point"}
 }

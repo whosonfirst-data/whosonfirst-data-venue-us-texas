@@ -2,13 +2,14 @@
   "id": 303915405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.707141,34.190743,-101.707141,34.190743",
     "geom:latitude":34.190743,
     "geom:longitude":-101.707141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W 10th St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303915405,
-    "wof:lastmodified":1449000543,
+    "wof:lastmodified":1467083812,
     "wof:name":"Concrete Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.707141,34.190743,-101.707141,34.190743],
-  "geometry": {"coordinates":[-101.707141,34.190743],"type":"Point"}
+  "bbox": [
+    -101.707141,
+    34.190743,
+    -101.707141,
+    34.190743
+],
+  "geometry": {"coordinates":[-101.70714099999999,34.190743],"type":"Point"}
 }

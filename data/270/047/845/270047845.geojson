@@ -2,13 +2,14 @@
   "id": 270047845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.398649,29.83053,-95.398649,29.83053",
     "geom:latitude":29.83053,
     "geom:longitude":-95.398649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Whitney St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270047845,
-    "wof:lastmodified":1449010241,
+    "wof:lastmodified":1467084203,
     "wof:name":"Independant Heights",
     "wof:parent_id":85869359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.398649,29.83053,-95.398649,29.83053],
-  "geometry": {"coordinates":[-95.398649,29.83053],"type":"Point"}
+  "bbox": [
+    -95.398649,
+    29.83053,
+    -95.398649,
+    29.83053
+],
+  "geometry": {"coordinates":[-95.39864900000001,29.83053],"type":"Point"}
 }

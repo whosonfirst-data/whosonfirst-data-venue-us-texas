@@ -2,13 +2,14 @@
   "id": 185960473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.491619,25.959683,-97.491619,25.959683",
     "geom:latitude":25.959683,
     "geom:longitude":-97.491619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 E San Marcelo Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185960473,
-    "wof:lastmodified":1449007749,
+    "wof:lastmodified":1467084131,
     "wof:name":"Taxi Print",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.491619,25.959683,-97.491619,25.959683],
+  "bbox": [
+    -97.491619,
+    25.959683,
+    -97.491619,
+    25.959683
+],
   "geometry": {"coordinates":[-97.491619,25.959683],"type":"Point"}
 }

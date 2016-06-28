@@ -2,13 +2,14 @@
   "id": 337627013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.827396,32.802121,-96.827396,32.802121",
     "geom:latitude":32.802121,
     "geom:longitude":-96.827396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Stemmons Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337627013,
-    "wof:lastmodified":1449027747,
+    "wof:lastmodified":1467084457,
     "wof:name":"Karen & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.827396,32.802121,-96.827396,32.802121],
-  "geometry": {"coordinates":[-96.827396,32.802121],"type":"Point"}
+  "bbox": [
+    -96.827396,
+    32.802121,
+    -96.827396,
+    32.802121
+],
+  "geometry": {"coordinates":[-96.82739599999999,32.802121],"type":"Point"}
 }

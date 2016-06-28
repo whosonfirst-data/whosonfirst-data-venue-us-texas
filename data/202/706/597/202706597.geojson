@@ -2,13 +2,14 @@
   "id": 202706597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.398282,31.78934,-106.398282,31.78934",
     "geom:latitude":31.78934,
     "geom:longitude":-106.398282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202706597,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1467084891,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-106.398282,31.78934,-106.398282,31.78934],
-  "geometry": {"coordinates":[-106.398282,31.78934],"type":"Point"}
+  "bbox": [
+    -106.398282,
+    31.78934,
+    -106.398282,
+    31.78934
+],
+  "geometry": {"coordinates":[-106.39828199999999,31.78934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236869053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.614939,29.408185,-98.614939,29.408185",
     "geom:latitude":29.408185,
     "geom:longitude":-98.614939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Old US Hwy 90 W",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236869053,
-    "wof:lastmodified":1449004930,
+    "wof:lastmodified":1467084024,
     "wof:name":"Dunes Motel West",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.614939,29.408185,-98.614939,29.408185],
-  "geometry": {"coordinates":[-98.614939,29.408185],"type":"Point"}
+  "bbox": [
+    -98.614939,
+    29.408185,
+    -98.614939,
+    29.408185
+],
+  "geometry": {"coordinates":[-98.61493900000001,29.408185],"type":"Point"}
 }

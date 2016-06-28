@@ -2,13 +2,14 @@
   "id": 404079611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.212045,34.85614,-100.212045,34.85614",
     "geom:latitude":34.85614,
     "geom:longitude":-100.212045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Arlington St",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404079611,
-    "wof:lastmodified":1449040114,
+    "wof:lastmodified":1467084657,
     "wof:name":"Jim's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-100.212045,34.85614,-100.212045,34.85614],
+  "bbox": [
+    -100.212045,
+    34.85614,
+    -100.212045,
+    34.85614
+],
   "geometry": {"coordinates":[-100.212045,34.85614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236475233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.700574,32.945182,-96.700574,32.945182",
     "geom:latitude":32.945182,
     "geom:longitude":-96.700574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1356 E Belt Line Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236475233,
-    "wof:lastmodified":1449002944,
+    "wof:lastmodified":1467083930,
     "wof:name":"Wells Fargo Financial",
     "wof:parent_id":85880213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.700574,32.945182,-96.700574,32.945182],
+  "bbox": [
+    -96.700574,
+    32.945182,
+    -96.700574,
+    32.945182
+],
   "geometry": {"coordinates":[-96.700574,32.945182],"type":"Point"}
 }

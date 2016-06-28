@@ -2,13 +2,14 @@
   "id": 236365115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.006502,32.837372,-97.006502,32.837372",
     "geom:latitude":32.837372,
     "geom:longitude":-97.006502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 W Airport Fwy",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236365115,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1467083883,
     "wof:name":"La Quinta Inn & Suites Dallas - DFW Airport South/Irving",
     "wof:parent_id":85878337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-97.006502,32.837372,-97.006502,32.837372],
+  "bbox": [
+    -97.006502,
+    32.837372,
+    -97.006502,
+    32.837372
+],
   "geometry": {"coordinates":[-97.006502,32.837372],"type":"Point"}
 }

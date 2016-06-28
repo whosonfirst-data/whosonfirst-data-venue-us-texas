@@ -2,13 +2,14 @@
   "id": 303700355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.732849,30.311089,-97.732849,30.311089",
     "geom:latitude":30.311089,
     "geom:longitude":-97.732849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 W Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303700355,
-    "wof:lastmodified":1449000351,
+    "wof:lastmodified":1467083802,
     "wof:name":"Capstone",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "chemicals-wholesale"
     ]
 },
-  "bbox": [-97.732849,30.311089,-97.732849,30.311089],
+  "bbox": [
+    -97.732849,
+    30.311089,
+    -97.732849,
+    30.311089
+],
   "geometry": {"coordinates":[-97.732849,30.311089],"type":"Point"}
 }

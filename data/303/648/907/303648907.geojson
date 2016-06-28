@@ -2,13 +2,14 @@
   "id": 303648907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.85592,30.170436,-97.85592,30.170436",
     "geom:latitude":30.170436,
     "geom:longitude":-97.85592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Doe Run",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":303648907,
-    "wof:lastmodified":1448998780,
+    "wof:lastmodified":1467083724,
     "wof:name":"Central Texas Home Rebates",
     "wof:parent_id":85865413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.85592,30.170436,-97.85592,30.170436],
+  "bbox": [
+    -97.85592,
+    30.170436,
+    -97.85592,
+    30.170436
+],
   "geometry": {"coordinates":[-97.85592,30.170436],"type":"Point"}
 }

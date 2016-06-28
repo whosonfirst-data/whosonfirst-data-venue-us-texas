@@ -2,13 +2,14 @@
   "id": 404127609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.324063,27.872905,-97.324063,27.872905",
     "geom:latitude":27.872905,
     "geom:longitude":-97.324063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Houston St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404127609,
-    "wof:lastmodified":1449040231,
+    "wof:lastmodified":1467084659,
     "wof:name":"Air Tex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.324063,27.872905,-97.324063,27.872905],
+  "bbox": [
+    -97.324063,
+    27.872905,
+    -97.324063,
+    27.872905
+],
   "geometry": {"coordinates":[-97.324063,27.872905],"type":"Point"}
 }

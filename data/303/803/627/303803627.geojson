@@ -2,13 +2,14 @@
   "id": 303803627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.703656,30.387068,-97.703656,30.387068",
     "geom:latitude":30.387068,
     "geom:longitude":-97.703656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11011 Domain Dr Ste 116",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303803627,
-    "wof:lastmodified":1449000596,
+    "wof:lastmodified":1467083814,
     "wof:name":"metrodog",
     "wof:parent_id":85893529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.703656,30.387068,-97.703656,30.387068],
+  "bbox": [
+    -97.703656,
+    30.387068,
+    -97.703656,
+    30.387068
+],
   "geometry": {"coordinates":[-97.703656,30.387068],"type":"Point"}
 }

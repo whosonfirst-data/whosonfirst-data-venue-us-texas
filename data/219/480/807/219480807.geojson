@@ -2,13 +2,14 @@
   "id": 219480807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63205,32.898969,-96.63205,32.898969",
     "geom:latitude":32.898969,
     "geom:longitude":-96.63205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Lynn Dr",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219480807,
-    "wof:lastmodified":1449071544,
+    "wof:lastmodified":1467085124,
     "wof:name":"Bowen Builders Group",
     "wof:parent_id":85877673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-96.63205,32.898969,-96.63205,32.898969],
-  "geometry": {"coordinates":[-96.63205,32.898969],"type":"Point"}
+  "bbox": [
+    -96.63205,
+    32.898969,
+    -96.63205,
+    32.898969
+],
+  "geometry": {"coordinates":[-96.63205000000001,32.898969],"type":"Point"}
 }

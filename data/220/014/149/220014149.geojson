@@ -2,13 +2,14 @@
   "id": 220014149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.346032,29.815799,-95.346032,29.815799",
     "geom:latitude":29.815799,
     "geom:longitude":-95.346032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Caplin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220014149,
-    "wof:lastmodified":1449074421,
+    "wof:lastmodified":1467085185,
     "wof:name":"Mitchell's Grocery",
     "wof:parent_id":85869371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.346032,29.815799,-95.346032,29.815799],
-  "geometry": {"coordinates":[-95.346032,29.815799],"type":"Point"}
+  "bbox": [
+    -95.346032,
+    29.815799,
+    -95.346032,
+    29.815799
+],
+  "geometry": {"coordinates":[-95.34603199999999,29.815799],"type":"Point"}
 }

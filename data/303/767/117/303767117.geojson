@@ -2,13 +2,14 @@
   "id": 303767117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733261,30.3522,-97.733261,30.3522",
     "geom:latitude":30.3522,
     "geom:longitude":-97.733261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303767117,
-    "wof:lastmodified":1448998811,
+    "wof:lastmodified":1467083726,
     "wof:name":"Meridian Logistics",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.733261,30.3522,-97.733261,30.3522],
+  "bbox": [
+    -97.733261,
+    30.3522,
+    -97.733261,
+    30.3522
+],
   "geometry": {"coordinates":[-97.733261,30.3522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253683381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.380113,32.348117,-97.380113,32.348117",
     "geom:latitude":32.348117,
     "geom:longitude":-97.380113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 E Chambers St",
     "sg:city":"Cleburne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253683381,
-    "wof:lastmodified":1449063915,
+    "wof:lastmodified":1467084983,
     "wof:name":"Davids Promise Church",
     "wof:parent_id":85897317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.380113,32.348117,-97.380113,32.348117],
-  "geometry": {"coordinates":[-97.380113,32.348117],"type":"Point"}
+  "bbox": [
+    -97.380113,
+    32.348117,
+    -97.380113,
+    32.348117
+],
+  "geometry": {"coordinates":[-97.38011299999999,32.348117],"type":"Point"}
 }

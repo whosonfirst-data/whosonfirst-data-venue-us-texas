@@ -2,13 +2,14 @@
   "id": 253259599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.390599,32.708464,-97.390599,32.708464",
     "geom:latitude":32.708464,
     "geom:longitude":-97.390599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 Bellaire Ranch Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253259599,
-    "wof:lastmodified":1449063489,
+    "wof:lastmodified":1467084969,
     "wof:name":"Camilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.390599,32.708464,-97.390599,32.708464],
-  "geometry": {"coordinates":[-97.390599,32.708464],"type":"Point"}
+  "bbox": [
+    -97.390599,
+    32.708464,
+    -97.390599,
+    32.708464
+],
+  "geometry": {"coordinates":[-97.39059899999999,32.708464],"type":"Point"}
 }

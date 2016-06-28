@@ -2,13 +2,14 @@
   "id": 286498063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.549787,30.69721,-95.549787,30.69721",
     "geom:latitude":30.69721,
     "geom:longitude":-95.549787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 Montgomery Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286498063,
-    "wof:lastmodified":1449017416,
+    "wof:lastmodified":1467084298,
     "wof:name":"Story Team",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.549787,30.69721,-95.549787,30.69721],
-  "geometry": {"coordinates":[-95.549787,30.69721],"type":"Point"}
+  "bbox": [
+    -95.549787,
+    30.69721,
+    -95.549787,
+    30.69721
+],
+  "geometry": {"coordinates":[-95.54978699999999,30.69721],"type":"Point"}
 }

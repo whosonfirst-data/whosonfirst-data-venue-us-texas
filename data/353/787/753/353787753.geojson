@@ -2,13 +2,14 @@
   "id": 353787753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.559001,29.59518,-95.559001,29.59518",
     "geom:latitude":29.59518,
     "geom:longitude":-95.559001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 5th St",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353787753,
-    "wof:lastmodified":1449019412,
+    "wof:lastmodified":1467084346,
     "wof:name":"Fort Bend Boat & Rv Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "boat"
     ]
 },
-  "bbox": [-95.559001,29.59518,-95.559001,29.59518],
-  "geometry": {"coordinates":[-95.559001,29.59518],"type":"Point"}
+  "bbox": [
+    -95.559001,
+    29.59518,
+    -95.559001,
+    29.59518
+],
+  "geometry": {"coordinates":[-95.55900099999999,29.59518],"type":"Point"}
 }

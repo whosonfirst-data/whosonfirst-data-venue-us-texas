@@ -2,13 +2,14 @@
   "id": 270200449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.180199,29.5921,-95.180199,29.5921",
     "geom:latitude":29.5921,
     "geom:longitude":-95.180199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Fm 1959 Rd Apt 1502",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270200449,
-    "wof:lastmodified":1449009612,
+    "wof:lastmodified":1467084182,
     "wof:name":"Suncreek Apartments",
     "wof:parent_id":85839275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.180199,29.5921,-95.180199,29.5921],
+  "bbox": [
+    -95.180199,
+    29.5921,
+    -95.180199,
+    29.5921
+],
   "geometry": {"coordinates":[-95.180199,29.5921],"type":"Point"}
 }

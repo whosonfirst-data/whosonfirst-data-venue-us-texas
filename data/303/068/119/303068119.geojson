@@ -2,13 +2,14 @@
   "id": 303068119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.843128,30.15911,-97.843128,30.15911",
     "geom:latitude":30.15911,
     "geom:longitude":-97.843128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18210 S Interstate 35",
     "sg:city":"Buda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303068119,
-    "wof:lastmodified":1448999380,
+    "wof:lastmodified":1467083754,
     "wof:name":"Sac-N-Pac",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.843128,30.15911,-97.843128,30.15911],
-  "geometry": {"coordinates":[-97.843128,30.15911],"type":"Point"}
+  "bbox": [
+    -97.843128,
+    30.15911,
+    -97.843128,
+    30.15911
+],
+  "geometry": {"coordinates":[-97.84312799999999,30.15911],"type":"Point"}
 }

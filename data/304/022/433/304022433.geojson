@@ -2,13 +2,14 @@
   "id": 304022433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.814228,32.609693,-99.814228,32.609693",
     "geom:latitude":32.609693,
     "geom:longitude":-99.814228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 4th St",
     "sg:city":"Hawley",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":304022433,
-    "wof:lastmodified":1449043745,
+    "wof:lastmodified":1467084663,
     "wof:name":"Hawley United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-99.814228,32.609693,-99.814228,32.609693],
+  "bbox": [
+    -99.814228,
+    32.609693,
+    -99.814228,
+    32.609693
+],
   "geometry": {"coordinates":[-99.814228,32.609693],"type":"Point"}
 }

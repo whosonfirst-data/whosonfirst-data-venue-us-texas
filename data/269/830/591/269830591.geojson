@@ -2,13 +2,14 @@
   "id": 269830591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.353696,29.767526,-95.353696,29.767526",
     "geom:latitude":29.767526,
     "geom:longitude":-95.353696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801-B William",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":269830591,
-    "wof:lastmodified":1449036662,
+    "wof:lastmodified":1467084586,
     "wof:name":"Studio Holloman Photography",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.353696,29.767526,-95.353696,29.767526],
+  "bbox": [
+    -95.353696,
+    29.767526,
+    -95.353696,
+    29.767526
+],
   "geometry": {"coordinates":[-95.353696,29.767526],"type":"Point"}
 }

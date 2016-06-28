@@ -2,13 +2,14 @@
   "id": 403942717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.182943,29.778587,-98.182943,29.778587",
     "geom:latitude":29.778587,
     "geom:longitude":-98.182943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2590 Lone Oak Rd",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403942717,
-    "wof:lastmodified":1449055245,
+    "wof:lastmodified":1467084764,
     "wof:name":"William T Jones",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "background"
     ]
 },
-  "bbox": [-98.182943,29.778587,-98.182943,29.778587],
-  "geometry": {"coordinates":[-98.182943,29.778587],"type":"Point"}
+  "bbox": [
+    -98.182943,
+    29.778587,
+    -98.182943,
+    29.778587
+],
+  "geometry": {"coordinates":[-98.18294299999999,29.778587],"type":"Point"}
 }

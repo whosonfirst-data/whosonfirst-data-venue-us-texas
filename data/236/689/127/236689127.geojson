@@ -2,13 +2,14 @@
   "id": 236689127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.606903,32.764099,-96.606903,32.764099",
     "geom:latitude":32.764099,
     "geom:longitude":-96.606903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 S Peachtree Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236689127,
-    "wof:lastmodified":1449004582,
+    "wof:lastmodified":1467084007,
     "wof:name":"Peachtree Apts",
     "wof:parent_id":85878895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.606903,32.764099,-96.606903,32.764099],
+  "bbox": [
+    -96.606903,
+    32.764099,
+    -96.606903,
+    32.764099
+],
   "geometry": {"coordinates":[-96.606903,32.764099],"type":"Point"}
 }

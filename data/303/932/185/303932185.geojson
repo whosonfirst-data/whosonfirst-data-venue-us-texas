@@ -2,13 +2,14 @@
   "id": 303932185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.863166,35.219627,-101.863166,35.219627",
     "geom:latitude":35.219627,
     "geom:longitude":-101.863166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 NW 3rd Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303932185,
-    "wof:lastmodified":1448999024,
+    "wof:lastmodified":1467083737,
     "wof:name":"Baneco Electric",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-101.863166,35.219627,-101.863166,35.219627],
-  "geometry": {"coordinates":[-101.863166,35.219627],"type":"Point"}
+  "bbox": [
+    -101.863166,
+    35.219627,
+    -101.863166,
+    35.219627
+],
+  "geometry": {"coordinates":[-101.86316600000001,35.219627],"type":"Point"}
 }

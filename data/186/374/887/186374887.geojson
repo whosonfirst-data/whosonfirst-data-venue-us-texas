@@ -2,13 +2,14 @@
   "id": 186374887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.786246,32.072245,-94.786246,32.072245",
     "geom:latitude":32.072245,
     "geom:longitude":-94.786246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 Co Rd 314 S",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186374887,
-    "wof:lastmodified":1449051537,
+    "wof:lastmodified":1467084716,
     "wof:name":"East Texas Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.786246,32.072245,-94.786246,32.072245],
-  "geometry": {"coordinates":[-94.786246,32.072245],"type":"Point"}
+  "bbox": [
+    -94.786246,
+    32.072245,
+    -94.786246,
+    32.072245
+],
+  "geometry": {"coordinates":[-94.78624600000001,32.072245],"type":"Point"}
 }

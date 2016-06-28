@@ -2,13 +2,14 @@
   "id": 404151697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.305231,32.742043,-97.305231,32.742043",
     "geom:latitude":32.742043,
     "geom:longitude":-97.305231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1637 E Broadway Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404151697,
-    "wof:lastmodified":1449039095,
+    "wof:lastmodified":1467084641,
     "wof:name":"Goodman Precision Tooling",
     "wof:parent_id":85871539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.305231,32.742043,-97.305231,32.742043],
-  "geometry": {"coordinates":[-97.305231,32.742043],"type":"Point"}
+  "bbox": [
+    -97.305231,
+    32.742043,
+    -97.305231,
+    32.742043
+],
+  "geometry": {"coordinates":[-97.30523100000001,32.742043],"type":"Point"}
 }

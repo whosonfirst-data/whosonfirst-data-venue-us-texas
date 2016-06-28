@@ -2,13 +2,14 @@
   "id": 253357703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538567,33.677871,-95.538567,33.677871",
     "geom:latitude":33.677871,
     "geom:longitude":-95.538567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 17th St NE",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":253357703,
-    "wof:lastmodified":1449065411,
+    "wof:lastmodified":1467085034,
     "wof:name":"Paris Tile & Marble",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-95.538567,33.677871,-95.538567,33.677871],
+  "bbox": [
+    -95.538567,
+    33.677871,
+    -95.538567,
+    33.677871
+],
   "geometry": {"coordinates":[-95.538567,33.677871],"type":"Point"}
 }

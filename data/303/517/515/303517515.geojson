@@ -2,13 +2,14 @@
   "id": 303517515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.841317,30.243905,-97.841317,30.243905",
     "geom:latitude":30.243905,
     "geom:longitude":-97.841317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 Southwest Pkwy Apt 515",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303517515,
-    "wof:lastmodified":1448999519,
+    "wof:lastmodified":1467083761,
     "wof:name":"Mooring Pilates",
     "wof:parent_id":85869975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-97.841317,30.243905,-97.841317,30.243905],
+  "bbox": [
+    -97.841317,
+    30.243905,
+    -97.841317,
+    30.243905
+],
   "geometry": {"coordinates":[-97.841317,30.243905],"type":"Point"}
 }

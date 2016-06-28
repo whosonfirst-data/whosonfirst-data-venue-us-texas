@@ -2,13 +2,14 @@
   "id": 202494191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.869045,35.17612,-101.869045,35.17612",
     "geom:latitude":35.17612,
     "geom:longitude":-101.869045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Concord Rd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202494191,
-    "wof:lastmodified":1449062370,
+    "wof:lastmodified":1467084935,
     "wof:name":"Adams Landing",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-101.869045,35.17612,-101.869045,35.17612],
+  "bbox": [
+    -101.869045,
+    35.17612,
+    -101.869045,
+    35.17612
+],
   "geometry": {"coordinates":[-101.869045,35.17612],"type":"Point"}
 }

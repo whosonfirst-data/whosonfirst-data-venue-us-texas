@@ -2,13 +2,14 @@
   "id": 203323121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.317762,30.607293,-96.317762,30.607293",
     "geom:latitude":30.607293,
     "geom:longitude":-96.317762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Anderson St",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203323121,
-    "wof:lastmodified":1449025098,
+    "wof:lastmodified":1467084388,
     "wof:name":"Sheridan",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.317762,30.607293,-96.317762,30.607293],
+  "bbox": [
+    -96.317762,
+    30.607293,
+    -96.317762,
+    30.607293
+],
   "geometry": {"coordinates":[-96.317762,30.607293],"type":"Point"}
 }

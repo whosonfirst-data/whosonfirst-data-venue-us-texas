@@ -2,13 +2,14 @@
   "id": 252915877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675458,32.835011,-96.675458,32.835011",
     "geom:latitude":32.835011,
     "geom:longitude":-96.675458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2353 Gus Thomasson Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252915877,
-    "wof:lastmodified":1449006491,
+    "wof:lastmodified":1467084107,
     "wof:name":"Lodge Mortgage Inc",
     "wof:parent_id":85844255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.675458,32.835011,-96.675458,32.835011],
-  "geometry": {"coordinates":[-96.675458,32.835011],"type":"Point"}
+  "bbox": [
+    -96.675458,
+    32.835011,
+    -96.675458,
+    32.835011
+],
+  "geometry": {"coordinates":[-96.67545800000001,32.835011],"type":"Point"}
 }

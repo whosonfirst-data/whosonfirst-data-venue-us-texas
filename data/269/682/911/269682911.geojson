@@ -2,13 +2,14 @@
   "id": 269682911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.123343,31.705756,-98.123343,31.705756",
     "geom:latitude":31.705756,
     "geom:longitude":-98.123343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N Rice St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":269682911,
-    "wof:lastmodified":1449036550,
+    "wof:lastmodified":1467084583,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-98.123343,31.705756,-98.123343,31.705756],
-  "geometry": {"coordinates":[-98.123343,31.705756],"type":"Point"}
+  "bbox": [
+    -98.123343,
+    31.705756,
+    -98.123343,
+    31.705756
+],
+  "geometry": {"coordinates":[-98.12334300000001,31.705756],"type":"Point"}
 }

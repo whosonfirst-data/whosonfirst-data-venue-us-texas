@@ -2,13 +2,14 @@
   "id": 353785451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.367044,32.523368,-94.367044,32.523368",
     "geom:latitude":32.523368,
     "geom:longitude":-94.367044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 S Washington Ave",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353785451,
-    "wof:lastmodified":1449020386,
+    "wof:lastmodified":1467084367,
     "wof:name":"Bluebonnet Fields",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-94.367044,32.523368,-94.367044,32.523368],
-  "geometry": {"coordinates":[-94.367044,32.523368],"type":"Point"}
+  "bbox": [
+    -94.367044,
+    32.523368,
+    -94.367044,
+    32.523368
+],
+  "geometry": {"coordinates":[-94.36704400000001,32.523368],"type":"Point"}
 }

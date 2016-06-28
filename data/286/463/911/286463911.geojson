@@ -2,13 +2,14 @@
   "id": 286463911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556812,30.452361,-95.556812,30.452361",
     "geom:latitude":30.452361,
     "geom:longitude":-95.556812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13328 Country Oak Dr",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286463911,
-    "wof:lastmodified":1449017232,
+    "wof:lastmodified":1467084293,
     "wof:name":"Bob & Kat's Custom Home Furnishings",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.556812,30.452361,-95.556812,30.452361],
-  "geometry": {"coordinates":[-95.556812,30.452361],"type":"Point"}
+  "bbox": [
+    -95.556812,
+    30.452361,
+    -95.556812,
+    30.452361
+],
+  "geometry": {"coordinates":[-95.55681199999999,30.452361],"type":"Point"}
 }

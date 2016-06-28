@@ -2,13 +2,14 @@
   "id": 185638913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399039,29.797926,-95.399039,29.797926",
     "geom:latitude":29.797926,
     "geom:longitude":-95.399039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Yale St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185638913,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1467084112,
     "wof:name":"American Brokers",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.399039,29.797926,-95.399039,29.797926],
+  "bbox": [
+    -95.399039,
+    29.797926,
+    -95.399039,
+    29.797926
+],
   "geometry": {"coordinates":[-95.399039,29.797926],"type":"Point"}
 }

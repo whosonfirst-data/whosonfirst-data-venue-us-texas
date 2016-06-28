@@ -2,13 +2,14 @@
   "id": 353754871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495913,29.533095,-98.495913,29.533095",
     "geom:latitude":29.533095,
     "geom:longitude":-98.495913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10123 San Pedro Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353754871,
-    "wof:lastmodified":1449019915,
+    "wof:lastmodified":1467084357,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-98.495913,29.533095,-98.495913,29.533095],
+  "bbox": [
+    -98.495913,
+    29.533095,
+    -98.495913,
+    29.533095
+],
   "geometry": {"coordinates":[-98.495913,29.533095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219926441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.44595,29.590572,-98.44595,29.590572",
     "geom:latitude":29.590572,
     "geom:longitude":-98.44595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 Rocky Oak St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219926441,
-    "wof:lastmodified":1449071625,
+    "wof:lastmodified":1467085126,
     "wof:name":"Autobroker",
     "wof:parent_id":85828145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.44595,29.590572,-98.44595,29.590572],
+  "bbox": [
+    -98.44595,
+    29.590572,
+    -98.44595,
+    29.590572
+],
   "geometry": {"coordinates":[-98.44595,29.590572],"type":"Point"}
 }

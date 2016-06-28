@@ -2,13 +2,14 @@
   "id": 370756293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.312038,31.475668,-97.312038,31.475668",
     "geom:latitude":31.475668,
     "geom:longitude":-97.312038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Bluebonnet Cir",
     "sg:city":"Mc Gregor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370756293,
-    "wof:lastmodified":1449031101,
+    "wof:lastmodified":1467084520,
     "wof:name":"S2 Software",
     "wof:parent_id":85849481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-97.312038,31.475668,-97.312038,31.475668],
+  "bbox": [
+    -97.312038,
+    31.475668,
+    -97.312038,
+    31.475668
+],
   "geometry": {"coordinates":[-97.312038,31.475668],"type":"Point"}
 }

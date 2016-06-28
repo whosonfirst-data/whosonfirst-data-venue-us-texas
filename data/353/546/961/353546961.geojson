@@ -2,13 +2,14 @@
   "id": 353546961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67225,30.638379,-97.67225,30.638379",
     "geom:latitude":30.638379,
     "geom:longitude":-97.67225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 S College St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353546961,
-    "wof:lastmodified":1449018258,
+    "wof:lastmodified":1467084321,
     "wof:name":"EJS Enterprises",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.67225,30.638379,-97.67225,30.638379],
-  "geometry": {"coordinates":[-97.67225,30.638379],"type":"Point"}
+  "bbox": [
+    -97.67225,
+    30.638379,
+    -97.67225,
+    30.638379
+],
+  "geometry": {"coordinates":[-97.67225000000001,30.638379],"type":"Point"}
 }

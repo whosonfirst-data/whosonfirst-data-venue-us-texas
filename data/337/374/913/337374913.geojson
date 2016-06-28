@@ -2,13 +2,14 @@
   "id": 337374913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.228544,26.218172,-98.228544,26.218172",
     "geom:latitude":26.218172,
     "geom:longitude":-98.228544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 N 11th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":337374913,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1467084438,
     "wof:name":"Acme Carpet Cleaning",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.228544,26.218172,-98.228544,26.218172],
+  "bbox": [
+    -98.228544,
+    26.218172,
+    -98.228544,
+    26.218172
+],
   "geometry": {"coordinates":[-98.228544,26.218172],"type":"Point"}
 }

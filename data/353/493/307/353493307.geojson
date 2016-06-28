@@ -2,13 +2,14 @@
   "id": 353493307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508862,29.55558,-98.508862,29.55558",
     "geom:latitude":29.55558,
     "geom:longitude":-98.508862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Windmill Palm",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353493307,
-    "wof:lastmodified":1449019067,
+    "wof:lastmodified":1467084339,
     "wof:name":"Park At Vista Del Norte",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-98.508862,29.55558,-98.508862,29.55558],
-  "geometry": {"coordinates":[-98.508862,29.55558],"type":"Point"}
+  "bbox": [
+    -98.508862,
+    29.55558,
+    -98.508862,
+    29.55558
+],
+  "geometry": {"coordinates":[-98.50886199999999,29.55558],"type":"Point"}
 }

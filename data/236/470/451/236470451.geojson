@@ -2,13 +2,14 @@
   "id": 236470451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701729,32.953463,-96.701729,32.953463",
     "geom:latitude":32.953463,
     "geom:longitude":-96.701729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Apollo Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236470451,
-    "wof:lastmodified":1449002278,
+    "wof:lastmodified":1467083898,
     "wof:name":"USPS - United States Post Office - Huffhines Park",
     "wof:parent_id":85880213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.701729,32.953463,-96.701729,32.953463],
+  "bbox": [
+    -96.701729,
+    32.953463,
+    -96.701729,
+    32.953463
+],
   "geometry": {"coordinates":[-96.701729,32.953463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253222261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.495865,27.506484,-99.495865,27.506484",
     "geom:latitude":27.506484,
     "geom:longitude":-99.495865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Monterrey Ave",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253222261,
-    "wof:lastmodified":1449064813,
+    "wof:lastmodified":1467085014,
     "wof:name":"La Kbuena Tortilla Factory",
     "wof:parent_id":85878679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.495865,27.506484,-99.495865,27.506484],
-  "geometry": {"coordinates":[-99.495865,27.506484],"type":"Point"}
+  "bbox": [
+    -99.495865,
+    27.506484,
+    -99.495865,
+    27.506484
+],
+  "geometry": {"coordinates":[-99.49586499999999,27.506484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252908785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698799,32.772701,-96.698799,32.772701",
     "geom:latitude":32.772701,
     "geom:longitude":-96.698799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7055 Military Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252908785,
-    "wof:lastmodified":1449006036,
+    "wof:lastmodified":1467084082,
     "wof:name":"Willy's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.698799,32.772701,-96.698799,32.772701],
-  "geometry": {"coordinates":[-96.698799,32.772701],"type":"Point"}
+  "bbox": [
+    -96.698799,
+    32.772701,
+    -96.698799,
+    32.772701
+],
+  "geometry": {"coordinates":[-96.69879899999999,32.772701],"type":"Point"}
 }

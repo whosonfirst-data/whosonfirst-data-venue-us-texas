@@ -2,13 +2,14 @@
   "id": 387259293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645491,32.865548,-96.645491,32.865548",
     "geom:latitude":32.865548,
     "geom:longitude":-96.645491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 Augusta Dr",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387259293,
-    "wof:lastmodified":1449056976,
+    "wof:lastmodified":1467084806,
     "wof:name":"Fast Pitch Files",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.645491,32.865548,-96.645491,32.865548],
-  "geometry": {"coordinates":[-96.645491,32.865548],"type":"Point"}
+  "bbox": [
+    -96.645491,
+    32.865548,
+    -96.645491,
+    32.865548
+],
+  "geometry": {"coordinates":[-96.64549100000001,32.865548],"type":"Point"}
 }

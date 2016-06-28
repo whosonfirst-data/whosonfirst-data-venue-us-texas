@@ -2,13 +2,14 @@
   "id": 370660197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.771426,29.313243,-94.771426,29.313243",
     "geom:latitude":29.313243,
     "geom:longitude":-94.771426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Strand St",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370660197,
-    "wof:lastmodified":1449032127,
+    "wof:lastmodified":1467084546,
     "wof:name":"Texas Dept of Corr Hosp",
     "wof:parent_id":85893717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-94.771426,29.313243,-94.771426,29.313243],
-  "geometry": {"coordinates":[-94.771426,29.313243],"type":"Point"}
+  "bbox": [
+    -94.771426,
+    29.313243,
+    -94.771426,
+    29.313243
+],
+  "geometry": {"coordinates":[-94.77142600000001,29.313243],"type":"Point"}
 }

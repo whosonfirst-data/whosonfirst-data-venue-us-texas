@@ -2,13 +2,14 @@
   "id": 169806163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333013,32.754515,-97.333013,32.754515",
     "geom:latitude":32.754515,
     "geom:longitude":-97.333013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W 3rd St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169806163,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1467084557,
     "wof:name":"Stream Realty Partners",
     "wof:parent_id":85897401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.333013,32.754515,-97.333013,32.754515],
-  "geometry": {"coordinates":[-97.333013,32.754515],"type":"Point"}
+  "bbox": [
+    -97.333013,
+    32.754515,
+    -97.333013,
+    32.754515
+],
+  "geometry": {"coordinates":[-97.33301299999999,32.754515],"type":"Point"}
 }

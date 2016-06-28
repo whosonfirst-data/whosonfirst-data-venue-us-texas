@@ -2,13 +2,14 @@
   "id": 354366997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733044,30.322847,-97.733044,30.322847",
     "geom:latitude":30.322847,
     "geom:longitude":-97.733044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W North Loop Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354366997,
-    "wof:lastmodified":1449067202,
+    "wof:lastmodified":1467085082,
     "wof:name":"Computer Center",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.733044,30.322847,-97.733044,30.322847],
-  "geometry": {"coordinates":[-97.733044,30.322847],"type":"Point"}
+  "bbox": [
+    -97.733044,
+    30.322847,
+    -97.733044,
+    30.322847
+],
+  "geometry": {"coordinates":[-97.73304400000001,30.322847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303841353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745979,30.40361,-97.745979,30.40361",
     "geom:latitude":30.40361,
     "geom:longitude":-97.745979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11044 Research Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":303841353,
-    "wof:lastmodified":1448998629,
+    "wof:lastmodified":1467083716,
     "wof:name":"Kyocera Industrial Ceramics Corporation",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.745979,30.40361,-97.745979,30.40361],
-  "geometry": {"coordinates":[-97.745979,30.40361],"type":"Point"}
+  "bbox": [
+    -97.745979,
+    30.40361,
+    -97.745979,
+    30.40361
+],
+  "geometry": {"coordinates":[-97.74597900000001,30.40361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220163299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.267799,26.167767,-98.267799,26.167767",
     "geom:latitude":26.167767,
     "geom:longitude":-98.267799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 Helena Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220163299,
-    "wof:lastmodified":1449074857,
+    "wof:lastmodified":1467085195,
     "wof:name":"San Juan Diego",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.267799,26.167767,-98.267799,26.167767],
+  "bbox": [
+    -98.267799,
+    26.167767,
+    -98.267799,
+    26.167767
+],
   "geometry": {"coordinates":[-98.267799,26.167767],"type":"Point"}
 }

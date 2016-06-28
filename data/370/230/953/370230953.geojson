@@ -2,13 +2,14 @@
   "id": 370230953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.384701,29.855004,-95.384701,29.855004",
     "geom:latitude":29.855004,
     "geom:longitude":-95.384701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6149 Airline Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370230953,
-    "wof:lastmodified":1449031607,
+    "wof:lastmodified":1467084533,
     "wof:name":"Fisherman's Stop",
     "wof:parent_id":85869551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.384701,29.855004,-95.384701,29.855004],
-  "geometry": {"coordinates":[-95.384701,29.855004],"type":"Point"}
+  "bbox": [
+    -95.384701,
+    29.855004,
+    -95.384701,
+    29.855004
+],
+  "geometry": {"coordinates":[-95.38470100000001,29.855004],"type":"Point"}
 }

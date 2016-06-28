@@ -2,13 +2,14 @@
   "id": 303618995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.807274,30.27995,-97.807274,30.27995",
     "geom:latitude":30.27995,
     "geom:longitude":-97.807274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Bee Caves Ste 201",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303618995,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1467083768,
     "wof:name":"Randall McIntyre, MD",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"
     ]
 },
-  "bbox": [-97.807274,30.27995,-97.807274,30.27995],
-  "geometry": {"coordinates":[-97.807274,30.27995],"type":"Point"}
+  "bbox": [
+    -97.807274,
+    30.27995,
+    -97.807274,
+    30.27995
+],
+  "geometry": {"coordinates":[-97.80727400000001,30.27995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235957267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234586,30.758277,-98.234586,30.758277",
     "geom:latitude":30.758277,
     "geom:longitude":-98.234586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Fanin St",
     "sg:city":"Burnet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235957267,
-    "wof:lastmodified":1449008547,
+    "wof:lastmodified":1467084147,
     "wof:name":"Computer Planet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recycling"
     ]
 },
-  "bbox": [-98.234586,30.758277,-98.234586,30.758277],
-  "geometry": {"coordinates":[-98.234586,30.758277],"type":"Point"}
+  "bbox": [
+    -98.234586,
+    30.758277,
+    -98.234586,
+    30.758277
+],
+  "geometry": {"coordinates":[-98.23458599999999,30.758277],"type":"Point"}
 }

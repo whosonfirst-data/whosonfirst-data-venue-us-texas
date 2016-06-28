@@ -2,13 +2,14 @@
   "id": 185954565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.101613,28.871349,-99.101613,28.871349",
     "geom:latitude":28.871349,
     "geom:longitude":-99.101613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 FM 1582",
     "sg:city":"Pearsall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185954565,
-    "wof:lastmodified":1449008015,
+    "wof:lastmodified":1467084136,
     "wof:name":"Farmer's Harvest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-99.101613,28.871349,-99.101613,28.871349],
+  "bbox": [
+    -99.101613,
+    28.871349,
+    -99.101613,
+    28.871349
+],
   "geometry": {"coordinates":[-99.101613,28.871349],"type":"Point"}
 }

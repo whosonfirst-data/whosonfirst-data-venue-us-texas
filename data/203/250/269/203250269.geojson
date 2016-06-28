@@ -2,13 +2,14 @@
   "id": 203250269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.875196,30.275248,-98.875196,30.275248",
     "geom:latitude":30.275248,
     "geom:longitude":-98.875196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Crockett St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203250269,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1467084405,
     "wof:name":"Grape Arbor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-98.875196,30.275248,-98.875196,30.275248],
+  "bbox": [
+    -98.875196,
+    30.275248,
+    -98.875196,
+    30.275248
+],
   "geometry": {"coordinates":[-98.875196,30.275248],"type":"Point"}
 }

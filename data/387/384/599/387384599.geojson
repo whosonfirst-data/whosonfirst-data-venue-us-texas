@@ -2,13 +2,14 @@
   "id": 387384599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.512099,27.510754,-99.512099,27.510754",
     "geom:latitude":27.510754,
     "geom:longitude":-99.512099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 Scott St",
     "sg:city":"Laredo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387384599,
-    "wof:lastmodified":1449056581,
+    "wof:lastmodified":1467084796,
     "wof:name":"Refugio Droa Sign Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.512099,27.510754,-99.512099,27.510754],
-  "geometry": {"coordinates":[-99.512099,27.510754],"type":"Point"}
+  "bbox": [
+    -99.512099,
+    27.510754,
+    -99.512099,
+    27.510754
+],
+  "geometry": {"coordinates":[-99.51209900000001,27.510754],"type":"Point"}
 }

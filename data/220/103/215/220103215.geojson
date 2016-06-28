@@ -2,13 +2,14 @@
   "id": 220103215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54591,30.024481,-95.54591,30.024481",
     "geom:latitude":30.024481,
     "geom:longitude":-95.54591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 Forest Breeze Ln",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220103215,
-    "wof:lastmodified":1449074543,
+    "wof:lastmodified":1467085188,
     "wof:name":"Hamilton Sundstrand",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "component"
     ]
 },
-  "bbox": [-95.54591,30.024481,-95.54591,30.024481],
-  "geometry": {"coordinates":[-95.54591,30.024481],"type":"Point"}
+  "bbox": [
+    -95.54591,
+    30.024481,
+    -95.54591,
+    30.024481
+],
+  "geometry": {"coordinates":[-95.54591000000001,30.024481],"type":"Point"}
 }

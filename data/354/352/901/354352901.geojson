@@ -2,13 +2,14 @@
   "id": 354352901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.687431,31.095176,-97.687431,31.095176",
     "geom:latitude":31.095176,
     "geom:longitude":-97.687431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 E Veterans Memorial Blvd",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354352901,
-    "wof:lastmodified":1449066983,
+    "wof:lastmodified":1467085077,
     "wof:name":"Associated Movers",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.687431,31.095176,-97.687431,31.095176],
+  "bbox": [
+    -97.687431,
+    31.095176,
+    -97.687431,
+    31.095176
+],
   "geometry": {"coordinates":[-97.687431,31.095176],"type":"Point"}
 }

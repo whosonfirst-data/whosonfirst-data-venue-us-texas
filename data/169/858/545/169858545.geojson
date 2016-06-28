@@ -2,13 +2,14 @@
   "id": 169858545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42256,29.565486,-98.42256,29.565486",
     "geom:latitude":29.565486,
     "geom:longitude":-98.42256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14022 Boulder Oaks",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169858545,
-    "wof:lastmodified":1449032994,
+    "wof:lastmodified":1467084559,
     "wof:name":"Boulder Oaks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-98.42256,29.565486,-98.42256,29.565486],
+  "bbox": [
+    -98.42256,
+    29.565486,
+    -98.42256,
+    29.565486
+],
   "geometry": {"coordinates":[-98.42256,29.565486],"type":"Point"}
 }

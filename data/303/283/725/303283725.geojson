@@ -2,13 +2,14 @@
   "id": 303283725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.704993,30.275959,-97.704993,30.275959",
     "geom:latitude":30.275959,
     "geom:longitude":-97.704993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2931 East 12th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303283725,
-    "wof:lastmodified":1448998838,
+    "wof:lastmodified":1467083727,
     "wof:name":"East End Flats",
     "wof:parent_id":85869947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.704993,30.275959,-97.704993,30.275959],
+  "bbox": [
+    -97.704993,
+    30.275959,
+    -97.704993,
+    30.275959
+],
   "geometry": {"coordinates":[-97.704993,30.275959],"type":"Point"}
 }

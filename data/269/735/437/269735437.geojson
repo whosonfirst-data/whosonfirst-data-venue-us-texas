@@ -2,13 +2,14 @@
   "id": 269735437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132118,31.556954,-97.132118,31.556954",
     "geom:latitude":31.556954,
     "geom:longitude":-97.132118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 N 5th St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":269735437,
-    "wof:lastmodified":1449038890,
+    "wof:lastmodified":1467084636,
     "wof:name":"American Amicable",
     "wof:parent_id":85881745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "public"
     ]
 },
-  "bbox": [-97.132118,31.556954,-97.132118,31.556954],
-  "geometry": {"coordinates":[-97.132118,31.556954],"type":"Point"}
+  "bbox": [
+    -97.132118,
+    31.556954,
+    -97.132118,
+    31.556954
+],
+  "geometry": {"coordinates":[-97.13211800000001,31.556954],"type":"Point"}
 }

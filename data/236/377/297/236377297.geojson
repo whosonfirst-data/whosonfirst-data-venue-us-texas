@@ -2,13 +2,14 @@
   "id": 236377297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.955368,32.931648,-96.955368,32.931648",
     "geom:latitude":32.931648,
     "geom:longitude":-96.955368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Stone Canyon Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236377297,
-    "wof:lastmodified":1449002780,
+    "wof:lastmodified":1467083922,
     "wof:name":"Eagle Consulting Group Inc",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-96.955368,32.931648,-96.955368,32.931648],
-  "geometry": {"coordinates":[-96.955368,32.931648],"type":"Point"}
+  "bbox": [
+    -96.955368,
+    32.931648,
+    -96.955368,
+    32.931648
+],
+  "geometry": {"coordinates":[-96.95536800000001,32.931648],"type":"Point"}
 }

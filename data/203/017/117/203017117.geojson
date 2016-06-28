@@ -2,13 +2,14 @@
   "id": 203017117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.615344,29.996297,-95.615344,29.996297",
     "geom:latitude":29.996297,
     "geom:longitude":-95.615344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12839 Louetta Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203017117,
-    "wof:lastmodified":1449025954,
+    "wof:lastmodified":1467084404,
     "wof:name":"Longwood Montessori",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "school"
     ]
 },
-  "bbox": [-95.615344,29.996297,-95.615344,29.996297],
-  "geometry": {"coordinates":[-95.615344,29.996297],"type":"Point"}
+  "bbox": [
+    -95.615344,
+    29.996297,
+    -95.615344,
+    29.996297
+],
+  "geometry": {"coordinates":[-95.61534399999999,29.996297],"type":"Point"}
 }

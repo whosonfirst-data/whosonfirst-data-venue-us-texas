@@ -2,13 +2,14 @@
   "id": 386986929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525118,26.07531,-97.525118,26.07531",
     "geom:latitude":26.07531,
     "geom:longitude":-97.525118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30852 State Hwy 100",
     "sg:city":"San Benito",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386986929,
-    "wof:lastmodified":1449028887,
+    "wof:lastmodified":1467084464,
     "wof:name":"Cherry Saloon",
     "wof:parent_id":85876603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.525118,26.07531,-97.525118,26.07531],
-  "geometry": {"coordinates":[-97.525118,26.07531],"type":"Point"}
+  "bbox": [
+    -97.525118,
+    26.07531,
+    -97.525118,
+    26.07531
+],
+  "geometry": {"coordinates":[-97.52511800000001,26.07531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236322289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.238885,31.810559,-106.238885,31.810559",
     "geom:latitude":31.810559,
     "geom:longitude":-106.238885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12945 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236322289,
-    "wof:lastmodified":1449001650,
+    "wof:lastmodified":1467083852,
     "wof:name":"Structural Steel Svc",
     "wof:parent_id":85871379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-106.238885,31.810559,-106.238885,31.810559],
+  "bbox": [
+    -106.238885,
+    31.810559,
+    -106.238885,
+    31.810559
+],
   "geometry": {"coordinates":[-106.238885,31.810559],"type":"Point"}
 }

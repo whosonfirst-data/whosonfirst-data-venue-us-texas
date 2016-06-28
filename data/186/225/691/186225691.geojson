@@ -2,13 +2,14 @@
   "id": 186225691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.829428,35.250984,-101.829428,35.250984",
     "geom:latitude":35.250984,
     "geom:longitude":-101.829428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 E Hastings Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186225691,
-    "wof:lastmodified":1449051213,
+    "wof:lastmodified":1467084709,
     "wof:name":"Sarah's Town & Country",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.829428,35.250984,-101.829428,35.250984],
-  "geometry": {"coordinates":[-101.829428,35.250984],"type":"Point"}
+  "bbox": [
+    -101.829428,
+    35.250984,
+    -101.829428,
+    35.250984
+],
+  "geometry": {"coordinates":[-101.82942799999999,35.250984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337315007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.481271,31.768193,-106.481271,31.768193",
     "geom:latitude":31.768193,
     "geom:longitude":-106.481271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Wyoming Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337315007,
-    "wof:lastmodified":1449027699,
+    "wof:lastmodified":1467084455,
     "wof:name":"El Paso Bid Depository System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.481271,31.768193,-106.481271,31.768193],
-  "geometry": {"coordinates":[-106.481271,31.768193],"type":"Point"}
+  "bbox": [
+    -106.481271,
+    31.768193,
+    -106.481271,
+    31.768193
+],
+  "geometry": {"coordinates":[-106.48127100000001,31.768193],"type":"Point"}
 }

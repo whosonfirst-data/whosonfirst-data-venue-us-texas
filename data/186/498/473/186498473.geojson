@@ -2,13 +2,14 @@
   "id": 186498473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.122357,32.77549,-97.122357,32.77549",
     "geom:latitude":32.77549,
     "geom:longitude":-97.122357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Radcliffe Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186498473,
-    "wof:lastmodified":1449052357,
+    "wof:lastmodified":1467084733,
     "wof:name":"DLM",
     "wof:parent_id":85897297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.122357,32.77549,-97.122357,32.77549],
-  "geometry": {"coordinates":[-97.122357,32.77549],"type":"Point"}
+  "bbox": [
+    -97.122357,
+    32.77549,
+    -97.122357,
+    32.77549
+],
+  "geometry": {"coordinates":[-97.12235699999999,32.77549],"type":"Point"}
 }

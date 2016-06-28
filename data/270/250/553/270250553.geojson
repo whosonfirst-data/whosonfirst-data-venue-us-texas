@@ -2,13 +2,14 @@
   "id": 270250553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.411797,29.9041,-95.411797,29.9041",
     "geom:latitude":29.9041,
     "geom:longitude":-95.411797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9650 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270250553,
-    "wof:lastmodified":1449010050,
+    "wof:lastmodified":1467084197,
     "wof:name":"A J Foyt Cycles",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.411797,29.9041,-95.411797,29.9041],
-  "geometry": {"coordinates":[-95.411797,29.9041],"type":"Point"}
+  "bbox": [
+    -95.411797,
+    29.9041,
+    -95.411797,
+    29.9041
+],
+  "geometry": {"coordinates":[-95.41179700000001,29.9041],"type":"Point"}
 }

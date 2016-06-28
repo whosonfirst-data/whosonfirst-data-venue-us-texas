@@ -2,13 +2,14 @@
   "id": 303298197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772022,30.277889,-97.772022,30.277889",
     "geom:latitude":30.277889,
     "geom:longitude":-97.772022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Lake Austin Blvd.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303298197,
-    "wof:lastmodified":1448998774,
+    "wof:lastmodified":1467083724,
     "wof:name":"Dr. Lisa Leit",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mental"
     ]
 },
-  "bbox": [-97.772022,30.277889,-97.772022,30.277889],
-  "geometry": {"coordinates":[-97.772022,30.277889],"type":"Point"}
+  "bbox": [
+    -97.772022,
+    30.277889,
+    -97.772022,
+    30.277889
+],
+  "geometry": {"coordinates":[-97.77202200000001,30.277889],"type":"Point"}
 }

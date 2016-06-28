@@ -2,13 +2,14 @@
   "id": 303763839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740277,30.355314,-97.740277,30.355314",
     "geom:latitude":30.355314,
     "geom:longitude":-97.740277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7611 Shoal Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303763839,
-    "wof:lastmodified":1449000558,
+    "wof:lastmodified":1467083812,
     "wof:name":"Electron Wave Inc",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.740277,30.355314,-97.740277,30.355314],
-  "geometry": {"coordinates":[-97.740277,30.355314],"type":"Point"}
+  "bbox": [
+    -97.740277,
+    30.355314,
+    -97.740277,
+    30.355314
+],
+  "geometry": {"coordinates":[-97.74027700000001,30.355314],"type":"Point"}
 }

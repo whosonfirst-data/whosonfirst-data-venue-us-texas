@@ -2,13 +2,14 @@
   "id": 185770221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538483,33.678156,-95.538483,33.678156",
     "geom:latitude":33.678156,
     "geom:longitude":-95.538483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 17th St NE",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185770221,
-    "wof:lastmodified":1449008247,
+    "wof:lastmodified":1467084140,
     "wof:name":"Photo's By Joe Marva",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.538483,33.678156,-95.538483,33.678156],
+  "bbox": [
+    -95.538483,
+    33.678156,
+    -95.538483,
+    33.678156
+],
   "geometry": {"coordinates":[-95.538483,33.678156],"type":"Point"}
 }

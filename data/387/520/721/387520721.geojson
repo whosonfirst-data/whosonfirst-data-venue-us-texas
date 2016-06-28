@@ -2,13 +2,14 @@
   "id": 387520721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.769413,30.294543,-97.769413,30.294543",
     "geom:latitude":30.294543,
     "geom:longitude":-97.769413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Exposition Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387520721,
-    "wof:lastmodified":1449057356,
+    "wof:lastmodified":1467084816,
     "wof:name":"Tutor Design/Build",
     "wof:parent_id":85867207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.769413,30.294543,-97.769413,30.294543],
+  "bbox": [
+    -97.769413,
+    30.294543,
+    -97.769413,
+    30.294543
+],
   "geometry": {"coordinates":[-97.769413,30.294543],"type":"Point"}
 }

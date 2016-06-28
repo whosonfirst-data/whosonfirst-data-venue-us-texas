@@ -2,13 +2,14 @@
   "id": 370942791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.880777,29.354235,-98.880777,29.354235",
     "geom:latitude":29.354235,
     "geom:longitude":-98.880777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Paris St",
     "sg:city":"Castroville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370942791,
-    "wof:lastmodified":1449030640,
+    "wof:lastmodified":1467084508,
     "wof:name":"A&L Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-98.880777,29.354235,-98.880777,29.354235],
-  "geometry": {"coordinates":[-98.880777,29.354235],"type":"Point"}
+  "bbox": [
+    -98.880777,
+    29.354235,
+    -98.880777,
+    29.354235
+],
+  "geometry": {"coordinates":[-98.88077699999999,29.354235],"type":"Point"}
 }

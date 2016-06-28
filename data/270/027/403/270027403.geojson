@@ -2,13 +2,14 @@
   "id": 270027403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.383049,29.752029,-95.383049,29.752029",
     "geom:latitude":29.752029,
     "geom:longitude":-95.383049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Webster St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270027403,
-    "wof:lastmodified":1449009084,
+    "wof:lastmodified":1467084164,
     "wof:name":"Dean Edwards",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.383049,29.752029,-95.383049,29.752029],
+  "bbox": [
+    -95.383049,
+    29.752029,
+    -95.383049,
+    29.752029
+],
   "geometry": {"coordinates":[-95.383049,29.752029],"type":"Point"}
 }

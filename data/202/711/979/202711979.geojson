@@ -2,13 +2,14 @@
   "id": 202711979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802286,32.820167,-96.802286,32.820167",
     "geom:latitude":32.820167,
     "geom:longitude":-96.802286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Oak Lawn Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202711979,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1467084931,
     "wof:name":"B A Framer Inc",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.802286,32.820167,-96.802286,32.820167],
+  "bbox": [
+    -96.802286,
+    32.820167,
+    -96.802286,
+    32.820167
+],
   "geometry": {"coordinates":[-96.802286,32.820167],"type":"Point"}
 }

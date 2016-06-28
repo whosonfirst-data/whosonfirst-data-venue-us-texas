@@ -2,13 +2,14 @@
   "id": 303479557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757694,30.336585,-97.757694,30.336585",
     "geom:latitude":30.336585,
     "geom:longitude":-97.757694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5523 Balcones Dr # A",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303479557,
-    "wof:lastmodified":1448999791,
+    "wof:lastmodified":1467083775,
     "wof:name":"Berry Austin",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-97.757694,30.336585,-97.757694,30.336585],
+  "bbox": [
+    -97.757694,
+    30.336585,
+    -97.757694,
+    30.336585
+],
   "geometry": {"coordinates":[-97.757694,30.336585],"type":"Point"}
 }

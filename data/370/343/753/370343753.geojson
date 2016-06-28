@@ -2,13 +2,14 @@
   "id": 370343753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.199019,31.815631,-106.199019,31.815631",
     "geom:latitude":31.815631,
     "geom:longitude":-106.199019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13901 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370343753,
-    "wof:lastmodified":1449031493,
+    "wof:lastmodified":1467084530,
     "wof:name":"Fiesta Mobile Homes",
     "wof:parent_id":85871379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.199019,31.815631,-106.199019,31.815631],
-  "geometry": {"coordinates":[-106.199019,31.815631],"type":"Point"}
+  "bbox": [
+    -106.199019,
+    31.815631,
+    -106.199019,
+    31.815631
+],
+  "geometry": {"coordinates":[-106.19901900000001,31.815631],"type":"Point"}
 }

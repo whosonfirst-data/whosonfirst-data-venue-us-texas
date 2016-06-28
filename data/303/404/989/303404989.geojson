@@ -2,13 +2,14 @@
   "id": 303404989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.634399,30.281281,-97.634399,30.281281",
     "geom:latitude":30.281281,
     "geom:longitude":-97.634399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5605 Decker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303404989,
-    "wof:lastmodified":1448999743,
+    "wof:lastmodified":1467083773,
     "wof:name":"Baker Atlas",
     "wof:parent_id":85893545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.634399,30.281281,-97.634399,30.281281],
+  "bbox": [
+    -97.634399,
+    30.281281,
+    -97.634399,
+    30.281281
+],
   "geometry": {"coordinates":[-97.634399,30.281281],"type":"Point"}
 }

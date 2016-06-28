@@ -2,13 +2,14 @@
   "id": 303308933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.756081,30.28199,-97.756081,30.28199",
     "geom:latitude":30.28199,
     "geom:longitude":-97.756081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Enfield Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303308933,
-    "wof:lastmodified":1449000632,
+    "wof:lastmodified":1467083816,
     "wof:name":"Austin Children's Shelter",
     "wof:parent_id":85893557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.756081,30.28199,-97.756081,30.28199],
-  "geometry": {"coordinates":[-97.756081,30.28199],"type":"Point"}
+  "bbox": [
+    -97.756081,
+    30.28199,
+    -97.756081,
+    30.28199
+],
+  "geometry": {"coordinates":[-97.75608099999999,30.28199],"type":"Point"}
 }

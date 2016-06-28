@@ -2,13 +2,14 @@
   "id": 353513121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.65269,31.618555,-94.65269,31.618555",
     "geom:latitude":31.618555,
     "geom:longitude":-94.65269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Rusk St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353513121,
-    "wof:lastmodified":1449019934,
+    "wof:lastmodified":1467084358,
     "wof:name":"Davis Equipment Repair",
     "wof:parent_id":85839837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-94.65269,31.618555,-94.65269,31.618555],
-  "geometry": {"coordinates":[-94.65269,31.618555],"type":"Point"}
+  "bbox": [
+    -94.65269,
+    31.618555,
+    -94.65269,
+    31.618555
+],
+  "geometry": {"coordinates":[-94.65269000000001,31.618555],"type":"Point"}
 }

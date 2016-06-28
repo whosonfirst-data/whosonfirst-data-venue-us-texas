@@ -2,13 +2,14 @@
   "id": 387597569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.15582,31.534138,-97.15582,31.534138",
     "geom:latitude":31.534138,
     "geom:longitude":-97.15582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S 32nd St",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387597569,
-    "wof:lastmodified":1449059873,
+    "wof:lastmodified":1467084881,
     "wof:name":"Osuna Apartment Co",
     "wof:parent_id":85881729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.15582,31.534138,-97.15582,31.534138],
-  "geometry": {"coordinates":[-97.15582,31.534138],"type":"Point"}
+  "bbox": [
+    -97.15582,
+    31.534138,
+    -97.15582,
+    31.534138
+],
+  "geometry": {"coordinates":[-97.15582000000001,31.534138],"type":"Point"}
 }

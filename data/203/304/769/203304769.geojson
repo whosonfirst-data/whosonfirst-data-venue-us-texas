@@ -2,13 +2,14 @@
   "id": 203304769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.674303,30.224388,-97.674303,30.224388",
     "geom:latitude":30.224388,
     "geom:longitude":-97.674303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Harrison Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203304769,
-    "wof:lastmodified":1449026374,
+    "wof:lastmodified":1467084411,
     "wof:name":"Regular American Veterans",
     "wof:parent_id":85849153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.674303,30.224388,-97.674303,30.224388],
-  "geometry": {"coordinates":[-97.674303,30.224388],"type":"Point"}
+  "bbox": [
+    -97.674303,
+    30.224388,
+    -97.674303,
+    30.224388
+],
+  "geometry": {"coordinates":[-97.67430299999999,30.224388],"type":"Point"}
 }

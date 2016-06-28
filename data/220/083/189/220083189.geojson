@@ -2,13 +2,14 @@
   "id": 220083189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.367435,29.394856,-98.367435,29.394856",
     "geom:latitude":29.394856,
     "geom:longitude":-98.367435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6315 US Hwy 87",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220083189,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1467085185,
     "wof:name":"Land Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.367435,29.394856,-98.367435,29.394856],
+  "bbox": [
+    -98.367435,
+    29.394856,
+    -98.367435,
+    29.394856
+],
   "geometry": {"coordinates":[-98.367435,29.394856],"type":"Point"}
 }

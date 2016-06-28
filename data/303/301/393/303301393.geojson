@@ -2,13 +2,14 @@
   "id": 303301393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757113,30.30897,-97.757113,30.30897",
     "geom:latitude":30.30897,
     "geom:longitude":-97.757113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W 35th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303301393,
-    "wof:lastmodified":1448998736,
+    "wof:lastmodified":1467083722,
     "wof:name":"Camp Mabry",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "flavor"
     ]
 },
-  "bbox": [-97.757113,30.30897,-97.757113,30.30897],
+  "bbox": [
+    -97.757113,
+    30.30897,
+    -97.757113,
+    30.30897
+],
   "geometry": {"coordinates":[-97.757113,30.30897],"type":"Point"}
 }

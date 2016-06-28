@@ -2,13 +2,14 @@
   "id": 353500917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740339,30.311525,-97.740339,30.311525",
     "geom:latitude":30.311525,
     "geom:longitude":-97.740339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Marathon Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353500917,
-    "wof:lastmodified":1449018906,
+    "wof:lastmodified":1467084335,
     "wof:name":"Andrew C Silverthorn",
     "wof:parent_id":85869983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.740339,30.311525,-97.740339,30.311525],
-  "geometry": {"coordinates":[-97.740339,30.311525],"type":"Point"}
+  "bbox": [
+    -97.740339,
+    30.311525,
+    -97.740339,
+    30.311525
+],
+  "geometry": {"coordinates":[-97.74033900000001,30.311525],"type":"Point"}
 }

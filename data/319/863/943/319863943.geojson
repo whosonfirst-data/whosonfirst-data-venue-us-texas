@@ -2,13 +2,14 @@
   "id": 319863943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.579361,31.84068,-106.579361,31.84068",
     "geom:latitude":31.84068,
     "geom:longitude":-106.579361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4990 Doniphan Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319863943,
-    "wof:lastmodified":1449024613,
+    "wof:lastmodified":1467084382,
     "wof:name":"Howdy's Food Mart",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.579361,31.84068,-106.579361,31.84068],
-  "geometry": {"coordinates":[-106.579361,31.84068],"type":"Point"}
+  "bbox": [
+    -106.579361,
+    31.84068,
+    -106.579361,
+    31.84068
+],
+  "geometry": {"coordinates":[-106.57936100000001,31.84068],"type":"Point"}
 }

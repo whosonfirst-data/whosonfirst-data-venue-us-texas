@@ -2,13 +2,14 @@
   "id": 354029773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.550208,29.7286,-95.550208,29.7286",
     "geom:latitude":29.7286,
     "geom:longitude":-95.550208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354029773,
-    "wof:lastmodified":1449066641,
+    "wof:lastmodified":1467085068,
     "wof:name":"Fleet Svc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-95.550208,29.7286,-95.550208,29.7286],
+  "bbox": [
+    -95.550208,
+    29.7286,
+    -95.550208,
+    29.7286
+],
   "geometry": {"coordinates":[-95.550208,29.7286],"type":"Point"}
 }

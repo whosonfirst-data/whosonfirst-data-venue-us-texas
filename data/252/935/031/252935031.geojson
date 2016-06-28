@@ -2,13 +2,14 @@
   "id": 252935031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329912,32.754317,-97.329912,32.754317",
     "geom:latitude":32.754317,
     "geom:longitude":-97.329912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Commerce St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252935031,
-    "wof:lastmodified":1449006317,
+    "wof:lastmodified":1467084098,
     "wof:name":"Manning",
     "wof:parent_id":85897401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.329912,32.754317,-97.329912,32.754317],
-  "geometry": {"coordinates":[-97.329912,32.754317],"type":"Point"}
+  "bbox": [
+    -97.329912,
+    32.754317,
+    -97.329912,
+    32.754317
+],
+  "geometry": {"coordinates":[-97.32991199999999,32.754317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303322345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757403,30.220268,-97.757403,30.220268",
     "geom:latitude":30.220268,
     "geom:longitude":-97.757403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Ben White Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303322345,
-    "wof:lastmodified":1448998091,
+    "wof:lastmodified":1467083689,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.757403,30.220268,-97.757403,30.220268],
+  "bbox": [
+    -97.757403,
+    30.220268,
+    -97.757403,
+    30.220268
+],
   "geometry": {"coordinates":[-97.757403,30.220268],"type":"Point"}
 }

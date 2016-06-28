@@ -2,13 +2,14 @@
   "id": 404004239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.634592,33.858776,-98.634592,33.858776",
     "geom:latitude":33.858776,
     "geom:longitude":-98.634592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8039 Seymour Hwy",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404004239,
-    "wof:lastmodified":1449039461,
+    "wof:lastmodified":1467084647,
     "wof:name":"American Eagle Well Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.634592,33.858776,-98.634592,33.858776],
+  "bbox": [
+    -98.634592,
+    33.858776,
+    -98.634592,
+    33.858776
+],
   "geometry": {"coordinates":[-98.634592,33.858776],"type":"Point"}
 }

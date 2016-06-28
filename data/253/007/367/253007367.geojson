@@ -2,13 +2,14 @@
   "id": 253007367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.829361,32.646336,-96.829361,32.646336",
     "geom:latitude":32.646336,
     "geom:longitude":-96.829361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8328 Willoughby Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253007367,
-    "wof:lastmodified":1449065260,
+    "wof:lastmodified":1467085029,
     "wof:name":"Dallas Willoughby",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-96.829361,32.646336,-96.829361,32.646336],
-  "geometry": {"coordinates":[-96.829361,32.646336],"type":"Point"}
+  "bbox": [
+    -96.829361,
+    32.646336,
+    -96.829361,
+    32.646336
+],
+  "geometry": {"coordinates":[-96.82936100000001,32.646336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253248473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766815,32.925064,-96.766815,32.925064",
     "geom:latitude":32.925064,
     "geom:longitude":-96.766815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8111 Lyndon B Johnson Fwy Ste 700",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253248473,
-    "wof:lastmodified":1449064451,
+    "wof:lastmodified":1467085001,
     "wof:name":"Binder & Binder",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.766815,32.925064,-96.766815,32.925064],
-  "geometry": {"coordinates":[-96.766815,32.925064],"type":"Point"}
+  "bbox": [
+    -96.766815,
+    32.925064,
+    -96.766815,
+    32.925064
+],
+  "geometry": {"coordinates":[-96.76681499999999,32.925064],"type":"Point"}
 }

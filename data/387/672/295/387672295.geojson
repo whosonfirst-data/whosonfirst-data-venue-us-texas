@@ -2,13 +2,14 @@
   "id": 387672295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.409338,31.891044,-106.409338,31.891044",
     "geom:latitude":31.891044,
     "geom:longitude":-106.409338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 Eisenhower Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387672295,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1467084790,
     "wof:name":"Eisenhower Apartments",
     "wof:parent_id":85882361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.409338,31.891044,-106.409338,31.891044],
-  "geometry": {"coordinates":[-106.409338,31.891044],"type":"Point"}
+  "bbox": [
+    -106.409338,
+    31.891044,
+    -106.409338,
+    31.891044
+],
+  "geometry": {"coordinates":[-106.40933800000001,31.891044],"type":"Point"}
 }

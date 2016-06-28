@@ -2,13 +2,14 @@
   "id": 286445037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.504173,29.847766,-95.504173,29.847766",
     "geom:latitude":29.847766,
     "geom:longitude":-95.504173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13169 Northwest Freeway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":286445037,
-    "wof:lastmodified":1449015569,
+    "wof:lastmodified":1467084247,
     "wof:name":"Brown Bag Deli",
     "wof:parent_id":85869555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-95.504173,29.847766,-95.504173,29.847766],
-  "geometry": {"coordinates":[-95.504173,29.847766],"type":"Point"}
+  "bbox": [
+    -95.504173,
+    29.847766,
+    -95.504173,
+    29.847766
+],
+  "geometry": {"coordinates":[-95.50417299999999,29.847766],"type":"Point"}
 }

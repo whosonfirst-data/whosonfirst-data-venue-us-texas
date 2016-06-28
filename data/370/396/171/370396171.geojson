@@ -2,13 +2,14 @@
   "id": 370396171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503036,25.896622,-97.503036,25.896622",
     "geom:latitude":25.896622,
     "geom:longitude":-97.503036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Sam Perl Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370396171,
-    "wof:lastmodified":1449031297,
+    "wof:lastmodified":1467084524,
     "wof:name":"El Chinito",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "christmas"
     ]
 },
-  "bbox": [-97.503036,25.896622,-97.503036,25.896622],
-  "geometry": {"coordinates":[-97.503036,25.896622],"type":"Point"}
+  "bbox": [
+    -97.503036,
+    25.896622,
+    -97.503036,
+    25.896622
+],
+  "geometry": {"coordinates":[-97.50303599999999,25.896622],"type":"Point"}
 }

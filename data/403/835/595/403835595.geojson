@@ -2,13 +2,14 @@
   "id": 403835595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.490705,25.90123,-97.490705,25.90123",
     "geom:latitude":25.90123,
     "geom:longitude":-97.490705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 International Blvd",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403835595,
-    "wof:lastmodified":1449054822,
+    "wof:lastmodified":1467084754,
     "wof:name":"Amber Auto Sales",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.490705,25.90123,-97.490705,25.90123],
-  "geometry": {"coordinates":[-97.490705,25.90123],"type":"Point"}
+  "bbox": [
+    -97.490705,
+    25.90123,
+    -97.490705,
+    25.90123
+],
+  "geometry": {"coordinates":[-97.49070500000001,25.90123],"type":"Point"}
 }

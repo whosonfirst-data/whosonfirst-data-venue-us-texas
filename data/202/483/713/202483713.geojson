@@ -2,13 +2,14 @@
   "id": 202483713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.409862,31.788151,-106.409862,31.788151",
     "geom:latitude":31.788151,
     "geom:longitude":-106.409862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Mescalero Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202483713,
-    "wof:lastmodified":1449062121,
+    "wof:lastmodified":1467084930,
     "wof:name":"Mescalero Apartments",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.409862,31.788151,-106.409862,31.788151],
+  "bbox": [
+    -106.409862,
+    31.788151,
+    -106.409862,
+    31.788151
+],
   "geometry": {"coordinates":[-106.409862,31.788151],"type":"Point"}
 }

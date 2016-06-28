@@ -2,13 +2,14 @@
   "id": 202836089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67955,30.507237,-97.67955,30.507237",
     "geom:latitude":30.507237,
     "geom:longitude":-97.67955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Bagdad Ave",
     "sg:city":"Round Rock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202836089,
-    "wof:lastmodified":1449061760,
+    "wof:lastmodified":1467084922,
     "wof:name":"Dollytime",
     "wof:parent_id":85893949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-97.67955,30.507237,-97.67955,30.507237],
-  "geometry": {"coordinates":[-97.67955,30.507237],"type":"Point"}
+  "bbox": [
+    -97.67955,
+    30.507237,
+    -97.67955,
+    30.507237
+],
+  "geometry": {"coordinates":[-97.67955000000001,30.507237],"type":"Point"}
 }

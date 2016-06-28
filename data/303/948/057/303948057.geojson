@@ -2,13 +2,14 @@
   "id": 303948057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.915709,35.13003,-101.915709,35.13003",
     "geom:latitude":35.13003,
     "geom:longitude":-101.915709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7714 Progress Dr",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303948057,
-    "wof:lastmodified":1449000058,
+    "wof:lastmodified":1467083788,
     "wof:name":"West Motors",
     "wof:parent_id":85849307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-101.915709,35.13003,-101.915709,35.13003],
-  "geometry": {"coordinates":[-101.915709,35.13003],"type":"Point"}
+  "bbox": [
+    -101.915709,
+    35.13003,
+    -101.915709,
+    35.13003
+],
+  "geometry": {"coordinates":[-101.91570900000001,35.13003],"type":"Point"}
 }

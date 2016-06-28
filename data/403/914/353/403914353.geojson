@@ -2,13 +2,14 @@
   "id": 403914353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.519528,29.707354,-95.519528,29.707354",
     "geom:latitude":29.707354,
     "geom:longitude":-95.519528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7637 Dashwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403914353,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1467084761,
     "wof:name":"Colors Club",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.519528,29.707354,-95.519528,29.707354],
-  "geometry": {"coordinates":[-95.519528,29.707354],"type":"Point"}
+  "bbox": [
+    -95.519528,
+    29.707354,
+    -95.519528,
+    29.707354
+],
+  "geometry": {"coordinates":[-95.51952799999999,29.707354],"type":"Point"}
 }

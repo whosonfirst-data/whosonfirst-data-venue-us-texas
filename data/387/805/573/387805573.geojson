@@ -2,13 +2,14 @@
   "id": 387805573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.865304,32.451093,-99.865304,32.451093",
     "geom:latitude":32.451093,
     "geom:longitude":-99.865304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Air Base Rd",
     "sg:city":"Tye",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387805573,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1467084816,
     "wof:name":"Tye Concrete Co",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-99.865304,32.451093,-99.865304,32.451093],
-  "geometry": {"coordinates":[-99.865304,32.451093],"type":"Point"}
+  "bbox": [
+    -99.865304,
+    32.451093,
+    -99.865304,
+    32.451093
+],
+  "geometry": {"coordinates":[-99.86530399999999,32.451093],"type":"Point"}
 }

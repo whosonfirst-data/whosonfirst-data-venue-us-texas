@@ -2,13 +2,14 @@
   "id": 370573043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496321,29.638526,-98.496321,29.638526",
     "geom:latitude":29.638526,
     "geom:longitude":-98.496321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Arrow Hill",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370573043,
-    "wof:lastmodified":1449031595,
+    "wof:lastmodified":1467084532,
     "wof:name":"Mystyle Inc",
     "wof:parent_id":85871075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.496321,29.638526,-98.496321,29.638526],
-  "geometry": {"coordinates":[-98.496321,29.638526],"type":"Point"}
+  "bbox": [
+    -98.496321,
+    29.638526,
+    -98.496321,
+    29.638526
+],
+  "geometry": {"coordinates":[-98.49632099999999,29.638526],"type":"Point"}
 }

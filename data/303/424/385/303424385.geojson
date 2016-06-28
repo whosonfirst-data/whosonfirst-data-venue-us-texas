@@ -2,13 +2,14 @@
   "id": 303424385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.695793,30.445361,-97.695793,30.445361",
     "geom:latitude":30.445361,
     "geom:longitude":-97.695793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14205 N Mo Pac Expy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303424385,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1467083805,
     "wof:name":"Pc Dave Patterson",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.695793,30.445361,-97.695793,30.445361],
-  "geometry": {"coordinates":[-97.695793,30.445361],"type":"Point"}
+  "bbox": [
+    -97.695793,
+    30.445361,
+    -97.695793,
+    30.445361
+],
+  "geometry": {"coordinates":[-97.69579299999999,30.445361],"type":"Point"}
 }

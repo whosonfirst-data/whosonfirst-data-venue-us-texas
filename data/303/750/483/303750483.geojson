@@ -2,13 +2,14 @@
   "id": 303750483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.673071,30.340554,-97.673071,30.340554",
     "geom:latitude":30.340554,
     "geom:longitude":-97.673071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8606 Wall St 310",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303750483,
-    "wof:lastmodified":1448999598,
+    "wof:lastmodified":1467083765,
     "wof:name":"Everything Neon",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.673071,30.340554,-97.673071,30.340554],
-  "geometry": {"coordinates":[-97.673071,30.340554],"type":"Point"}
+  "bbox": [
+    -97.673071,
+    30.340554,
+    -97.673071,
+    30.340554
+],
+  "geometry": {"coordinates":[-97.67307099999999,30.340554],"type":"Point"}
 }

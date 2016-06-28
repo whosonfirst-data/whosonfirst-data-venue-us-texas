@@ -2,13 +2,14 @@
   "id": 236200459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.960063,32.865101,-96.960063,32.865101",
     "geom:latitude":32.865101,
     "geom:longitude":-96.960063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Cottonwood Ln Ste 100",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236200459,
-    "wof:lastmodified":1449002879,
+    "wof:lastmodified":1467083927,
     "wof:name":"Powell Charles L MD",
     "wof:parent_id":85878299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.960063,32.865101,-96.960063,32.865101],
-  "geometry": {"coordinates":[-96.960063,32.865101],"type":"Point"}
+  "bbox": [
+    -96.960063,
+    32.865101,
+    -96.960063,
+    32.865101
+],
+  "geometry": {"coordinates":[-96.96006300000001,32.865101],"type":"Point"}
 }

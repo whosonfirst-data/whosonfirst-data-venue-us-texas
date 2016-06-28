@@ -2,13 +2,14 @@
   "id": 252985269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769737,32.881969,-96.769737,32.881969",
     "geom:latitude":32.881969,
     "geom:longitude":-96.769737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9900 N Central Expy # 110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":252985269,
-    "wof:lastmodified":1449005955,
+    "wof:lastmodified":1467084078,
     "wof:name":"Preston Hollow Surgical Center",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "surgery"
     ]
 },
-  "bbox": [-96.769737,32.881969,-96.769737,32.881969],
-  "geometry": {"coordinates":[-96.769737,32.881969],"type":"Point"}
+  "bbox": [
+    -96.769737,
+    32.881969,
+    -96.769737,
+    32.881969
+],
+  "geometry": {"coordinates":[-96.76973700000001,32.881969],"type":"Point"}
 }

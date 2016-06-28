@@ -2,13 +2,14 @@
   "id": 303721113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.702731,30.325356,-97.702731,30.325356",
     "geom:latitude":30.325356,
     "geom:longitude":-97.702731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 La Posada Dr.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303721113,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1467083813,
     "wof:name":"Better Business Bureau",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.702731,30.325356,-97.702731,30.325356],
+  "bbox": [
+    -97.702731,
+    30.325356,
+    -97.702731,
+    30.325356
+],
   "geometry": {"coordinates":[-97.702731,30.325356],"type":"Point"}
 }

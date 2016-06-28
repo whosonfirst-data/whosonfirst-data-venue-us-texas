@@ -2,13 +2,14 @@
   "id": 387743313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745055,30.228085,-97.745055,30.228085",
     "geom:latitude":30.228085,
     "geom:longitude":-97.745055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 I- 35 Svc Rd S",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387743313,
-    "wof:lastmodified":1449059898,
+    "wof:lastmodified":1467084882,
     "wof:name":"Cardon Health Care Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "care"
     ]
 },
-  "bbox": [-97.745055,30.228085,-97.745055,30.228085],
-  "geometry": {"coordinates":[-97.745055,30.228085],"type":"Point"}
+  "bbox": [
+    -97.745055,
+    30.228085,
+    -97.745055,
+    30.228085
+],
+  "geometry": {"coordinates":[-97.74505499999999,30.228085],"type":"Point"}
 }

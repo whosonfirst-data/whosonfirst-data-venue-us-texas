@@ -2,13 +2,14 @@
   "id": 236505273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.99832,32.748146,-96.99832,32.748146",
     "geom:latitude":32.748146,
     "geom:longitude":-96.99832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 North St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236505273,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1467084008,
     "wof:name":"NCNB Downtown Dal",
     "wof:parent_id":85882135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.99832,32.748146,-96.99832,32.748146],
-  "geometry": {"coordinates":[-96.99832,32.748146],"type":"Point"}
+  "bbox": [
+    -96.99832,
+    32.748146,
+    -96.99832,
+    32.748146
+],
+  "geometry": {"coordinates":[-96.99832000000001,32.748146],"type":"Point"}
 }

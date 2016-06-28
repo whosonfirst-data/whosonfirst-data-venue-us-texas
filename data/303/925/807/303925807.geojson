@@ -2,13 +2,14 @@
   "id": 303925807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.274184,35.445181,-100.274184,35.445181",
     "geom:latitude":35.445181,
     "geom:longitude":-100.274184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Oklahoma Ave",
     "sg:city":"Wheeler",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303925807,
-    "wof:lastmodified":1448998135,
+    "wof:lastmodified":1467083692,
     "wof:name":"Honey Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-100.274184,35.445181,-100.274184,35.445181],
-  "geometry": {"coordinates":[-100.274184,35.445181],"type":"Point"}
+  "bbox": [
+    -100.274184,
+    35.445181,
+    -100.274184,
+    35.445181
+],
+  "geometry": {"coordinates":[-100.27418400000001,35.445181],"type":"Point"}
 }

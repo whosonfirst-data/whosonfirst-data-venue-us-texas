@@ -2,13 +2,14 @@
   "id": 202856281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.595622,27.851121,-97.595622,27.851121",
     "geom:latitude":27.851121,
     "geom:longitude":-97.595622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11649 Leopard St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202856281,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1467084903,
     "wof:name":"Bay Area Notary",
     "wof:parent_id":85803175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.595622,27.851121,-97.595622,27.851121],
-  "geometry": {"coordinates":[-97.595622,27.851121],"type":"Point"}
+  "bbox": [
+    -97.595622,
+    27.851121,
+    -97.595622,
+    27.851121
+],
+  "geometry": {"coordinates":[-97.59562200000001,27.851121],"type":"Point"}
 }

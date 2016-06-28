@@ -2,13 +2,14 @@
   "id": 236724827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.538283,29.574328,-98.538283,29.574328",
     "geom:latitude":29.574328,
     "geom:longitude":-98.538283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 Bee Cave St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236724827,
-    "wof:lastmodified":1449005162,
+    "wof:lastmodified":1467084035,
     "wof:name":"South Texas Spray Booths",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "booth"
     ]
 },
-  "bbox": [-98.538283,29.574328,-98.538283,29.574328],
-  "geometry": {"coordinates":[-98.538283,29.574328],"type":"Point"}
+  "bbox": [
+    -98.538283,
+    29.574328,
+    -98.538283,
+    29.574328
+],
+  "geometry": {"coordinates":[-98.53828300000001,29.574328],"type":"Point"}
 }

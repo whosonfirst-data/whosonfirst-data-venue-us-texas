@@ -2,13 +2,14 @@
   "id": 387141379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479167,29.573942,-98.479167,29.573942",
     "geom:latitude":29.573942,
     "geom:longitude":-98.479167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14807 San Pedro Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387141379,
-    "wof:lastmodified":1449057432,
+    "wof:lastmodified":1467084818,
     "wof:name":"San Antonio Eye Center  PA",
     "wof:parent_id":85871077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"
     ]
 },
-  "bbox": [-98.479167,29.573942,-98.479167,29.573942],
+  "bbox": [
+    -98.479167,
+    29.573942,
+    -98.479167,
+    29.573942
+],
   "geometry": {"coordinates":[-98.479167,29.573942],"type":"Point"}
 }

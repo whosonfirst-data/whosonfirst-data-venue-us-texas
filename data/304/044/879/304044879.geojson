@@ -2,13 +2,14 @@
   "id": 304044879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.706009,32.46154,-99.706009,32.46154",
     "geom:latitude":32.46154,
     "geom:longitude":-99.706009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1083 N Judge Ely Blvd",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":304044879,
-    "wof:lastmodified":1449043881,
+    "wof:lastmodified":1467084665,
     "wof:name":"Moving Guys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "local"
     ]
 },
-  "bbox": [-99.706009,32.46154,-99.706009,32.46154],
-  "geometry": {"coordinates":[-99.706009,32.46154],"type":"Point"}
+  "bbox": [
+    -99.706009,
+    32.46154,
+    -99.706009,
+    32.46154
+],
+  "geometry": {"coordinates":[-99.70600899999999,32.46154],"type":"Point"}
 }

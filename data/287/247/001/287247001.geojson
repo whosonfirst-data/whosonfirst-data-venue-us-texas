@@ -2,13 +2,14 @@
   "id": 287247001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.235784,26.226766,-98.235784,26.226766",
     "geom:latitude":26.226766,
     "geom:longitude":-98.235784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 S Bicentennial Blvd",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287247001,
-    "wof:lastmodified":1449001189,
+    "wof:lastmodified":1467083835,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-98.235784,26.226766,-98.235784,26.226766],
+  "bbox": [
+    -98.235784,
+    26.226766,
+    -98.235784,
+    26.226766
+],
   "geometry": {"coordinates":[-98.235784,26.226766],"type":"Point"}
 }

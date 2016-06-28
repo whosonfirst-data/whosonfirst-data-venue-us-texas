@@ -2,13 +2,14 @@
   "id": 270174921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.415728,29.694885,-95.415728,29.694885",
     "geom:latitude":29.694885,
     "geom:longitude":-95.415728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 S Main St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270174921,
-    "wof:lastmodified":1449008982,
+    "wof:lastmodified":1467084161,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85869131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.415728,29.694885,-95.415728,29.694885],
+  "bbox": [
+    -95.415728,
+    29.694885,
+    -95.415728,
+    29.694885
+],
   "geometry": {"coordinates":[-95.415728,29.694885],"type":"Point"}
 }

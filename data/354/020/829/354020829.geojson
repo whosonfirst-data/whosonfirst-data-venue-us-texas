@@ -2,13 +2,14 @@
   "id": 354020829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.391753,29.519693,-98.391753,29.519693",
     "geom:latitude":29.519693,
     "geom:longitude":-98.391753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Weathercock Ln",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354020829,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1467085070,
     "wof:name":"San Antonio Intl Piano",
     "wof:parent_id":85820615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.391753,29.519693,-98.391753,29.519693],
-  "geometry": {"coordinates":[-98.391753,29.519693],"type":"Point"}
+  "bbox": [
+    -98.391753,
+    29.519693,
+    -98.391753,
+    29.519693
+],
+  "geometry": {"coordinates":[-98.39175299999999,29.519693],"type":"Point"}
 }

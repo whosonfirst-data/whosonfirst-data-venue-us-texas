@@ -2,13 +2,14 @@
   "id": 353433615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.350751,31.609285,-97.350751,31.609285",
     "geom:latitude":31.609285,
     "geom:longitude":-97.350751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 Oak Ridge Rd",
     "sg:city":"Crawford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353433615,
-    "wof:lastmodified":1449018549,
+    "wof:lastmodified":1467084327,
     "wof:name":"Central Texas Hydro-Flow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [-97.350751,31.609285,-97.350751,31.609285],
+  "bbox": [
+    -97.350751,
+    31.609285,
+    -97.350751,
+    31.609285
+],
   "geometry": {"coordinates":[-97.350751,31.609285],"type":"Point"}
 }

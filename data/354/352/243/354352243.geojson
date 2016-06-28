@@ -2,13 +2,14 @@
   "id": 354352243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.549735,33.045748,-96.549735,33.045748",
     "geom:latitude":33.045748,
     "geom:longitude":-96.549735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Parker Rd",
     "sg:city":"Wylie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354352243,
-    "wof:lastmodified":1449066982,
+    "wof:lastmodified":1467085077,
     "wof:name":"Dallas Tree Spec",
     "wof:parent_id":85877695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.549735,33.045748,-96.549735,33.045748],
+  "bbox": [
+    -96.549735,
+    33.045748,
+    -96.549735,
+    33.045748
+],
   "geometry": {"coordinates":[-96.549735,33.045748],"type":"Point"}
 }

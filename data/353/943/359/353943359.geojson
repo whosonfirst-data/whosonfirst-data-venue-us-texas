@@ -2,13 +2,14 @@
   "id": 353943359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.550018,29.490512,-98.550018,29.490512",
     "geom:latitude":29.490512,
     "geom:longitude":-98.550018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Crossroads Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353943359,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1467084336,
     "wof:name":"Nogalitos Gear Transm Svc Co",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-98.550018,29.490512,-98.550018,29.490512],
-  "geometry": {"coordinates":[-98.550018,29.490512],"type":"Point"}
+  "bbox": [
+    -98.550018,
+    29.490512,
+    -98.550018,
+    29.490512
+],
+  "geometry": {"coordinates":[-98.55001799999999,29.490512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386940115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.502401,29.488081,-98.502401,29.488081",
     "geom:latitude":29.488081,
     "geom:longitude":-98.502401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Basse Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386940115,
-    "wof:lastmodified":1449028690,
+    "wof:lastmodified":1467084459,
     "wof:name":"Texas Investigations & Scrty",
     "wof:parent_id":85871071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.502401,29.488081,-98.502401,29.488081],
-  "geometry": {"coordinates":[-98.502401,29.488081],"type":"Point"}
+  "bbox": [
+    -98.502401,
+    29.488081,
+    -98.502401,
+    29.488081
+],
+  "geometry": {"coordinates":[-98.50240100000001,29.488081],"type":"Point"}
 }

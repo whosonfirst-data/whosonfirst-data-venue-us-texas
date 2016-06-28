@@ -2,13 +2,14 @@
   "id": 303354453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745402,30.285037,-97.745402,30.285037",
     "geom:latitude":30.285037,
     "geom:longitude":-97.745402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Rio Grande",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303354453,
-    "wof:lastmodified":1449000292,
+    "wof:lastmodified":1467083799,
     "wof:name":"Inbound Interactive",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-97.745402,30.285037,-97.745402,30.285037],
+  "bbox": [
+    -97.745402,
+    30.285037,
+    -97.745402,
+    30.285037
+],
   "geometry": {"coordinates":[-97.745402,30.285037],"type":"Point"}
 }

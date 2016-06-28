@@ -2,13 +2,14 @@
   "id": 286353713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.235813,29.611437,-95.235813,29.611437",
     "geom:latitude":29.611437,
     "geom:longitude":-95.235813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10005 Fuqua St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286353713,
-    "wof:lastmodified":1449016041,
+    "wof:lastmodified":1467084260,
     "wof:name":"Community Tire Service",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-95.235813,29.611437,-95.235813,29.611437],
-  "geometry": {"coordinates":[-95.235813,29.611437],"type":"Point"}
+  "bbox": [
+    -95.235813,
+    29.611437,
+    -95.235813,
+    29.611437
+],
+  "geometry": {"coordinates":[-95.23581299999999,29.611437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354309553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.395614,29.683826,-95.395614,29.683826",
     "geom:latitude":29.683826,
     "geom:longitude":-95.395614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8450 Cambridge St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354309553,
-    "wof:lastmodified":1449066293,
+    "wof:lastmodified":1467085060,
     "wof:name":"Medical Drawings",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgical"
     ]
 },
-  "bbox": [-95.395614,29.683826,-95.395614,29.683826],
-  "geometry": {"coordinates":[-95.395614,29.683826],"type":"Point"}
+  "bbox": [
+    -95.395614,
+    29.683826,
+    -95.395614,
+    29.683826
+],
+  "geometry": {"coordinates":[-95.39561399999999,29.683826],"type":"Point"}
 }

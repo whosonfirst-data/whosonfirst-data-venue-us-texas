@@ -2,13 +2,14 @@
   "id": 235939573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76587,32.793479,-96.76587,32.793479",
     "geom:latitude":32.793479,
     "geom:longitude":-96.76587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Columbia Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235939573,
-    "wof:lastmodified":1449008357,
+    "wof:lastmodified":1467084142,
     "wof:name":"Super Title Service",
     "wof:parent_id":85870373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-96.76587,32.793479,-96.76587,32.793479],
-  "geometry": {"coordinates":[-96.76587,32.793479],"type":"Point"}
+  "bbox": [
+    -96.76587,
+    32.793479,
+    -96.76587,
+    32.793479
+],
+  "geometry": {"coordinates":[-96.76587000000001,32.793479],"type":"Point"}
 }

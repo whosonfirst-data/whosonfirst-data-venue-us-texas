@@ -2,13 +2,14 @@
   "id": 303732089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.694603,30.367399,-97.694603,30.367399",
     "geom:latitude":30.367399,
     "geom:longitude":-97.694603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 N Lamar Blvd Ste 280",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303732089,
-    "wof:lastmodified":1449000642,
+    "wof:lastmodified":1467083817,
     "wof:name":"A Z Tax Service",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-97.694603,30.367399,-97.694603,30.367399],
+  "bbox": [
+    -97.694603,
+    30.367399,
+    -97.694603,
+    30.367399
+],
   "geometry": {"coordinates":[-97.694603,30.367399],"type":"Point"}
 }

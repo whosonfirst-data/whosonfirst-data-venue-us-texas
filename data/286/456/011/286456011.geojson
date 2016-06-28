@@ -2,13 +2,14 @@
   "id": 286456011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.489929,30.330666,-95.489929,30.330666",
     "geom:latitude":30.330666,
     "geom:longitude":-95.489929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 North Loop 336 West Suite 306",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286456011,
-    "wof:lastmodified":1449016066,
+    "wof:lastmodified":1467084261,
     "wof:name":"Montgomery County Credit Bureau",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "verification"
     ]
 },
-  "bbox": [-95.489929,30.330666,-95.489929,30.330666],
+  "bbox": [
+    -95.489929,
+    30.330666,
+    -95.489929,
+    30.330666
+],
   "geometry": {"coordinates":[-95.489929,30.330666],"type":"Point"}
 }

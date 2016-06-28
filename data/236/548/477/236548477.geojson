@@ -2,13 +2,14 @@
   "id": 236548477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795013,33.029685,-96.795013,33.029685",
     "geom:latitude":33.029685,
     "geom:longitude":-96.795013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Preston Rd Ste C",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":236548477,
-    "wof:lastmodified":1449004026,
+    "wof:lastmodified":1467083981,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "diet"
     ]
 },
-  "bbox": [-96.795013,33.029685,-96.795013,33.029685],
+  "bbox": [
+    -96.795013,
+    33.029685,
+    -96.795013,
+    33.029685
+],
   "geometry": {"coordinates":[-96.795013,33.029685],"type":"Point"}
 }

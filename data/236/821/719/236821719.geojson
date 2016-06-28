@@ -2,13 +2,14 @@
   "id": 236821719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797011,32.781113,-96.797011,32.781113",
     "geom:latitude":32.781113,
     "geom:longitude":-96.797011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236821719,
-    "wof:lastmodified":1449003454,
+    "wof:lastmodified":1467083954,
     "wof:name":"Cambridge Healthcare Management, Inc.",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outpatient"
     ]
 },
-  "bbox": [-96.797011,32.781113,-96.797011,32.781113],
+  "bbox": [
+    -96.797011,
+    32.781113,
+    -96.797011,
+    32.781113
+],
   "geometry": {"coordinates":[-96.797011,32.781113],"type":"Point"}
 }

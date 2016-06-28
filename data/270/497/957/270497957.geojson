@@ -2,13 +2,14 @@
   "id": 270497957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.56843,29.942857,-95.56843,29.942857",
     "geom:latitude":29.942857,
     "geom:longitude":-95.56843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9558 Fm 1960 Rd W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270497957,
-    "wof:lastmodified":1449011105,
+    "wof:lastmodified":1467084231,
     "wof:name":"Oz Bar",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "grill"
     ]
 },
-  "bbox": [-95.56843,29.942857,-95.56843,29.942857],
-  "geometry": {"coordinates":[-95.56843,29.942857],"type":"Point"}
+  "bbox": [
+    -95.56843,
+    29.942857,
+    -95.56843,
+    29.942857
+],
+  "geometry": {"coordinates":[-95.56843000000001,29.942857],"type":"Point"}
 }

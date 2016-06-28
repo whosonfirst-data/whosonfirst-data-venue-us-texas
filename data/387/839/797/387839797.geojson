@@ -2,13 +2,14 @@
   "id": 387839797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.405581,29.738693,-95.405581,29.738693",
     "geom:latitude":29.738693,
     "geom:longitude":-95.405581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 W Alabama St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387839797,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1467084843,
     "wof:name":"Tap Water",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.405581,29.738693,-95.405581,29.738693],
+  "bbox": [
+    -95.405581,
+    29.738693,
+    -95.405581,
+    29.738693
+],
   "geometry": {"coordinates":[-95.405581,29.738693],"type":"Point"}
 }

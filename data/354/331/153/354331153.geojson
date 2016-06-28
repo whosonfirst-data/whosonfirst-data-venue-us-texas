@@ -2,13 +2,14 @@
   "id": 354331153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73484,33.065695,-96.73484,33.065695",
     "geom:latitude":33.065695,
     "geom:longitude":-96.73484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2036 Cumberland Trl",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354331153,
-    "wof:lastmodified":1449066975,
+    "wof:lastmodified":1467085077,
     "wof:name":"Thurston and David Interiors",
     "wof:parent_id":85879921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.73484,33.065695,-96.73484,33.065695],
-  "geometry": {"coordinates":[-96.73484,33.065695],"type":"Point"}
+  "bbox": [
+    -96.73484,
+    33.065695,
+    -96.73484,
+    33.065695
+],
+  "geometry": {"coordinates":[-96.73484000000001,33.065695],"type":"Point"}
 }

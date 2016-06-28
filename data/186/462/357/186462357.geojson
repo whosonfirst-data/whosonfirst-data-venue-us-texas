@@ -2,13 +2,14 @@
   "id": 186462357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493418,33.958736,-98.493418,33.958736",
     "geom:latitude":33.958736,
     "geom:longitude":-98.493418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Armstrong Dr",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186462357,
-    "wof:lastmodified":1449052937,
+    "wof:lastmodified":1467084745,
     "wof:name":"Federal Aviation ADM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.493418,33.958736,-98.493418,33.958736],
-  "geometry": {"coordinates":[-98.493418,33.958736],"type":"Point"}
+  "bbox": [
+    -98.493418,
+    33.958736,
+    -98.493418,
+    33.958736
+],
+  "geometry": {"coordinates":[-98.49341800000001,33.958736],"type":"Point"}
 }

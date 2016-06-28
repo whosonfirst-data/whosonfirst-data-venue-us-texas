@@ -2,13 +2,14 @@
   "id": 303685181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.802676,30.392165,-97.802676,30.392165",
     "geom:latitude":30.392165,
     "geom:longitude":-97.802676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8308 Elander Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303685181,
-    "wof:lastmodified":1449000507,
+    "wof:lastmodified":1467083810,
     "wof:name":"Gary L Powell",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "consultant"
     ]
 },
-  "bbox": [-97.802676,30.392165,-97.802676,30.392165],
-  "geometry": {"coordinates":[-97.802676,30.392165],"type":"Point"}
+  "bbox": [
+    -97.802676,
+    30.392165,
+    -97.802676,
+    30.392165
+],
+  "geometry": {"coordinates":[-97.80267600000001,30.392165],"type":"Point"}
 }

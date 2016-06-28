@@ -2,13 +2,14 @@
   "id": 387421469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809366,32.633184,-96.809366,32.633184",
     "geom:latitude":32.633184,
     "geom:longitude":-96.809366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Danieldale Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387421469,
-    "wof:lastmodified":1449058526,
+    "wof:lastmodified":1467084846,
     "wof:name":"Dart Transit",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.809366,32.633184,-96.809366,32.633184],
+  "bbox": [
+    -96.809366,
+    32.633184,
+    -96.809366,
+    32.633184
+],
   "geometry": {"coordinates":[-96.809366,32.633184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202686241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.787518,32.442626,-99.787518,32.442626",
     "geom:latitude":32.442626,
     "geom:longitude":-99.787518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 S Clack St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202686241,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1467084928,
     "wof:name":"U-Haul",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-99.787518,32.442626,-99.787518,32.442626],
-  "geometry": {"coordinates":[-99.787518,32.442626],"type":"Point"}
+  "bbox": [
+    -99.787518,
+    32.442626,
+    -99.787518,
+    32.442626
+],
+  "geometry": {"coordinates":[-99.78751800000001,32.442626],"type":"Point"}
 }

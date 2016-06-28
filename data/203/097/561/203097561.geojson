@@ -2,13 +2,14 @@
   "id": 203097561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46105,29.431881,-98.46105,29.431881",
     "geom:latitude":29.431881,
     "geom:longitude":-98.46105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N New Braunfels Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203097561,
-    "wof:lastmodified":1449025659,
+    "wof:lastmodified":1467084398,
     "wof:name":"Sunshine Bakery",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-98.46105,29.431881,-98.46105,29.431881],
+  "bbox": [
+    -98.46105,
+    29.431881,
+    -98.46105,
+    29.431881
+],
   "geometry": {"coordinates":[-98.46105,29.431881],"type":"Point"}
 }

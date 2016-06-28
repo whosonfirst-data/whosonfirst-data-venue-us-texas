@@ -2,13 +2,14 @@
   "id": 303844879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749733,30.397722,-97.749733,30.397722",
     "geom:latitude":30.397722,
     "geom:longitude":-97.749733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 Jollyville Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303844879,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1467083743,
     "wof:name":"Joe Mama's",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "american"
     ]
 },
-  "bbox": [-97.749733,30.397722,-97.749733,30.397722],
-  "geometry": {"coordinates":[-97.749733,30.397722],"type":"Point"}
+  "bbox": [
+    -97.749733,
+    30.397722,
+    -97.749733,
+    30.397722
+],
+  "geometry": {"coordinates":[-97.74973300000001,30.397722],"type":"Point"}
 }

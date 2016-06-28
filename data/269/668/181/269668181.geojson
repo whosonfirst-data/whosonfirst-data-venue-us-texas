@@ -2,13 +2,14 @@
   "id": 269668181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455643,31.06588,-97.455643,31.06588",
     "geom:latitude":31.06588,
     "geom:longitude":-97.455643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 N Beal St",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":269668181,
-    "wof:lastmodified":1449037792,
+    "wof:lastmodified":1467084618,
     "wof:name":"Center Point Air Conditioning",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.455643,31.06588,-97.455643,31.06588],
-  "geometry": {"coordinates":[-97.455643,31.06588],"type":"Point"}
+  "bbox": [
+    -97.455643,
+    31.06588,
+    -97.455643,
+    31.06588
+],
+  "geometry": {"coordinates":[-97.45564299999999,31.06588],"type":"Point"}
 }

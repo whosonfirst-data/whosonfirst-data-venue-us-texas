@@ -2,13 +2,14 @@
   "id": 219584033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.53261,29.582038,-98.53261,29.582038",
     "geom:latitude":29.582038,
     "geom:longitude":-98.53261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14811 Swale",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219584033,
-    "wof:lastmodified":1449070774,
+    "wof:lastmodified":1467085108,
     "wof:name":"Conrad N Walker",
     "wof:parent_id":85845219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-98.53261,29.582038,-98.53261,29.582038],
-  "geometry": {"coordinates":[-98.53261,29.582038],"type":"Point"}
+  "bbox": [
+    -98.53261,
+    29.582038,
+    -98.53261,
+    29.582038
+],
+  "geometry": {"coordinates":[-98.53261000000001,29.582038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303835217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740608,30.37418,-97.740608,30.37418",
     "geom:latitude":30.37418,
     "geom:longitude":-97.740608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Hyridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303835217,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1467083709,
     "wof:name":"Austin Capitol Tile",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.740608,30.37418,-97.740608,30.37418],
-  "geometry": {"coordinates":[-97.740608,30.37418],"type":"Point"}
+  "bbox": [
+    -97.740608,
+    30.37418,
+    -97.740608,
+    30.37418
+],
+  "geometry": {"coordinates":[-97.74060799999999,30.37418],"type":"Point"}
 }

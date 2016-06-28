@@ -2,13 +2,14 @@
   "id": 236004323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.486466,29.899665,-95.486466,29.899665",
     "geom:latitude":29.899665,
     "geom:longitude":-95.486466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 Breen Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236004323,
-    "wof:lastmodified":1449002728,
+    "wof:lastmodified":1467083920,
     "wof:name":"180 Connect",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.486466,29.899665,-95.486466,29.899665],
-  "geometry": {"coordinates":[-95.486466,29.899665],"type":"Point"}
+  "bbox": [
+    -95.486466,
+    29.899665,
+    -95.486466,
+    29.899665
+],
+  "geometry": {"coordinates":[-95.48646599999999,29.899665],"type":"Point"}
 }

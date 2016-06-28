@@ -2,13 +2,14 @@
   "id": 287261261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506752,25.907881,-97.506752,25.907881",
     "geom:latitude":25.907881,
     "geom:longitude":-97.506752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Levee St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287261261,
-    "wof:lastmodified":1449000679,
+    "wof:lastmodified":1467083817,
     "wof:name":"Abc Taxi Cabs",
     "wof:parent_id":85876599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.506752,25.907881,-97.506752,25.907881],
-  "geometry": {"coordinates":[-97.506752,25.907881],"type":"Point"}
+  "bbox": [
+    -97.506752,
+    25.907881,
+    -97.506752,
+    25.907881
+],
+  "geometry": {"coordinates":[-97.50675200000001,25.907881],"type":"Point"}
 }

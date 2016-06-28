@@ -2,13 +2,14 @@
   "id": 270366001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.480883,29.815818,-95.480883,29.815818",
     "geom:latitude":29.815818,
     "geom:longitude":-95.480883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11525 Todd St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270366001,
-    "wof:lastmodified":1449010441,
+    "wof:lastmodified":1467084209,
     "wof:name":"Houston Academy Of Dramatic Arts",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.480883,29.815818,-95.480883,29.815818],
-  "geometry": {"coordinates":[-95.480883,29.815818],"type":"Point"}
+  "bbox": [
+    -95.480883,
+    29.815818,
+    -95.480883,
+    29.815818
+],
+  "geometry": {"coordinates":[-95.48088300000001,29.815818],"type":"Point"}
 }

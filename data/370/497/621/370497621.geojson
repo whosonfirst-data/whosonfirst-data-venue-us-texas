@@ -2,13 +2,14 @@
   "id": 370497621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.611148,29.990746,-95.611148,29.990746",
     "geom:latitude":29.990746,
     "geom:longitude":-95.611148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12311 Rosehill Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370497621,
-    "wof:lastmodified":1449032418,
+    "wof:lastmodified":1467084553,
     "wof:name":"Howells Electric",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-95.611148,29.990746,-95.611148,29.990746],
+  "bbox": [
+    -95.611148,
+    29.990746,
+    -95.611148,
+    29.990746
+],
   "geometry": {"coordinates":[-95.611148,29.990746],"type":"Point"}
 }

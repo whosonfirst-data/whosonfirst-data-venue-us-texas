@@ -2,13 +2,14 @@
   "id": 286587163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.463665,30.186524,-95.463665,30.186524",
     "geom:latitude":30.186524,
     "geom:longitude":-95.463665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Wellman Rd",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286587163,
-    "wof:lastmodified":1449016196,
+    "wof:lastmodified":1467084264,
     "wof:name":"Woodlands Church Of Christ",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "christ"
     ]
 },
-  "bbox": [-95.463665,30.186524,-95.463665,30.186524],
-  "geometry": {"coordinates":[-95.463665,30.186524],"type":"Point"}
+  "bbox": [
+    -95.463665,
+    30.186524,
+    -95.463665,
+    30.186524
+],
+  "geometry": {"coordinates":[-95.46366500000001,30.186524],"type":"Point"}
 }

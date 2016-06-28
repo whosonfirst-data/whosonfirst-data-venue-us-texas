@@ -2,13 +2,14 @@
   "id": 203294215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.980356,29.974321,-93.980356,29.974321",
     "geom:latitude":29.974321,
     "geom:longitude":-93.980356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 S 9th St",
     "sg:city":"Nederland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203294215,
-    "wof:lastmodified":1449026319,
+    "wof:lastmodified":1467084410,
     "wof:name":"Arc Church",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.980356,29.974321,-93.980356,29.974321],
+  "bbox": [
+    -93.980356,
+    29.974321,
+    -93.980356,
+    29.974321
+],
   "geometry": {"coordinates":[-93.980356,29.974321],"type":"Point"}
 }

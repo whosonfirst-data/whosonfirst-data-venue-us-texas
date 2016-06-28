@@ -2,13 +2,14 @@
   "id": 186136301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.861721,32.691962,-96.861721,32.691962",
     "geom:latitude":32.691962,
     "geom:longitude":-96.861721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Deep Hill Cir",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186136301,
-    "wof:lastmodified":1449052992,
+    "wof:lastmodified":1467084746,
     "wof:name":"America Home Mortgage",
     "wof:parent_id":85897351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-96.861721,32.691962,-96.861721,32.691962],
+  "bbox": [
+    -96.861721,
+    32.691962,
+    -96.861721,
+    32.691962
+],
   "geometry": {"coordinates":[-96.861721,32.691962],"type":"Point"}
 }

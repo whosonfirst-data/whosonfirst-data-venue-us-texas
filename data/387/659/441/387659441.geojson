@@ -2,13 +2,14 @@
   "id": 387659441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475547,29.783368,-95.475547,29.783368",
     "geom:latitude":29.783368,
     "geom:longitude":-95.475547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7887 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387659441,
-    "wof:lastmodified":1449056514,
+    "wof:lastmodified":1467084795,
     "wof:name":"Golf Art",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.475547,29.783368,-95.475547,29.783368],
-  "geometry": {"coordinates":[-95.475547,29.783368],"type":"Point"}
+  "bbox": [
+    -95.475547,
+    29.783368,
+    -95.475547,
+    29.783368
+],
+  "geometry": {"coordinates":[-95.47554700000001,29.783368],"type":"Point"}
 }

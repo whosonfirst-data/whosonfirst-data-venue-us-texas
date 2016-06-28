@@ -2,13 +2,14 @@
   "id": 253360087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.498737,33.661809,-95.498737,33.661809",
     "geom:latitude":33.661809,
     "geom:longitude":-95.498737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 Lamar Ave",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253360087,
-    "wof:lastmodified":1449065079,
+    "wof:lastmodified":1467085023,
     "wof:name":"Wellness Center of Paris",
     "wof:parent_id":85832767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "diet"
     ]
 },
-  "bbox": [-95.498737,33.661809,-95.498737,33.661809],
-  "geometry": {"coordinates":[-95.498737,33.661809],"type":"Point"}
+  "bbox": [
+    -95.498737,
+    33.661809,
+    -95.498737,
+    33.661809
+],
+  "geometry": {"coordinates":[-95.49873700000001,33.661809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304068031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.550419,32.33523,-102.550419,32.33523",
     "geom:latitude":32.33523,
     "geom:longitude":-102.550419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 NW 1st Pl",
     "sg:city":"Andrews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304068031,
-    "wof:lastmodified":1449043873,
+    "wof:lastmodified":1467084665,
     "wof:name":"Greenmark Andrews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-102.550419,32.33523,-102.550419,32.33523],
-  "geometry": {"coordinates":[-102.550419,32.33523],"type":"Point"}
+  "bbox": [
+    -102.550419,
+    32.33523,
+    -102.550419,
+    32.33523
+],
+  "geometry": {"coordinates":[-102.55041900000001,32.33523],"type":"Point"}
 }

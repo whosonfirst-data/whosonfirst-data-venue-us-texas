@@ -2,13 +2,14 @@
   "id": 253051381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.862324,32.845414,-96.862324,32.845414",
     "geom:latitude":32.845414,
     "geom:longitude":-96.862324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Love Field Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253051381,
-    "wof:lastmodified":1449064640,
+    "wof:lastmodified":1467085007,
     "wof:name":"Southwest Airlines",
     "wof:parent_id":85870475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.862324,32.845414,-96.862324,32.845414],
+  "bbox": [
+    -96.862324,
+    32.845414,
+    -96.862324,
+    32.845414
+],
   "geometry": {"coordinates":[-96.862324,32.845414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371178505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.086098,29.666583,-98.086098,29.666583",
     "geom:latitude":29.666583,
     "geom:longitude":-98.086098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Placid Cove Dr",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371178505,
-    "wof:lastmodified":1449049807,
+    "wof:lastmodified":1467084684,
     "wof:name":"L & L Distribution",
     "wof:parent_id":85865407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-98.086098,29.666583,-98.086098,29.666583],
-  "geometry": {"coordinates":[-98.086098,29.666583],"type":"Point"}
+  "bbox": [
+    -98.086098,
+    29.666583,
+    -98.086098,
+    29.666583
+],
+  "geometry": {"coordinates":[-98.08609800000001,29.666583],"type":"Point"}
 }

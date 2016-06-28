@@ -2,13 +2,14 @@
   "id": 186182519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.631769,32.818652,-96.631769,32.818652",
     "geom:latitude":32.818652,
     "geom:longitude":-96.631769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4003 Towne Crossing Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186182519,
-    "wof:lastmodified":1449052071,
+    "wof:lastmodified":1467084727,
     "wof:name":"Firehouse Limousines",
     "wof:parent_id":85878919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-96.631769,32.818652,-96.631769,32.818652],
-  "geometry": {"coordinates":[-96.631769,32.818652],"type":"Point"}
+  "bbox": [
+    -96.631769,
+    32.818652,
+    -96.631769,
+    32.818652
+],
+  "geometry": {"coordinates":[-96.63176900000001,32.818652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370718137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.831244,35.308987,-101.831244,35.308987",
     "geom:latitude":35.308987,
     "geom:longitude":-101.831244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8723 River Rd",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370718137,
-    "wof:lastmodified":1449029825,
+    "wof:lastmodified":1467084487,
     "wof:name":"Wait Trucking",
     "wof:parent_id":85842341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-101.831244,35.308987,-101.831244,35.308987],
+  "bbox": [
+    -101.831244,
+    35.308987,
+    -101.831244,
+    35.308987
+],
   "geometry": {"coordinates":[-101.831244,35.308987],"type":"Point"}
 }

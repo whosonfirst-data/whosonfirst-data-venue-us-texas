@@ -2,13 +2,14 @@
   "id": 252806743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719253,32.812829,-96.719253,32.812829",
     "geom:latitude":32.812829,
     "geom:longitude":-96.719253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8205 Forest Hills Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252806743,
-    "wof:lastmodified":1449005406,
+    "wof:lastmodified":1467084047,
     "wof:name":"Jones Texas Inc",
     "wof:parent_id":85882337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "site"
     ]
 },
-  "bbox": [-96.719253,32.812829,-96.719253,32.812829],
-  "geometry": {"coordinates":[-96.719253,32.812829],"type":"Point"}
+  "bbox": [
+    -96.719253,
+    32.812829,
+    -96.719253,
+    32.812829
+],
+  "geometry": {"coordinates":[-96.71925299999999,32.812829],"type":"Point"}
 }

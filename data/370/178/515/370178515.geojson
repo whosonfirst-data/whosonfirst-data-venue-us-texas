@@ -2,13 +2,14 @@
   "id": 370178515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.260421,26.112116,-98.260421,26.112116",
     "geom:latitude":26.112116,
     "geom:longitude":-98.260421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Produce",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370178515,
-    "wof:lastmodified":1449031521,
+    "wof:lastmodified":1467084530,
     "wof:name":"Hidalgo Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.260421,26.112116,-98.260421,26.112116],
-  "geometry": {"coordinates":[-98.260421,26.112116],"type":"Point"}
+  "bbox": [
+    -98.260421,
+    26.112116,
+    -98.260421,
+    26.112116
+],
+  "geometry": {"coordinates":[-98.26042099999999,26.112116],"type":"Point"}
 }

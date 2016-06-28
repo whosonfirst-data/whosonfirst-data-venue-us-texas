@@ -2,13 +2,14 @@
   "id": 303587417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790889,30.206235,-97.790889,30.206235",
     "geom:latitude":30.206235,
     "geom:longitude":-97.790889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Turtle Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303587417,
-    "wof:lastmodified":1448998955,
+    "wof:lastmodified":1467083734,
     "wof:name":"Clean Air Co.",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.790889,30.206235,-97.790889,30.206235],
-  "geometry": {"coordinates":[-97.790889,30.206235],"type":"Point"}
+  "bbox": [
+    -97.790889,
+    30.206235,
+    -97.790889,
+    30.206235
+],
+  "geometry": {"coordinates":[-97.79088900000001,30.206235],"type":"Point"}
 }

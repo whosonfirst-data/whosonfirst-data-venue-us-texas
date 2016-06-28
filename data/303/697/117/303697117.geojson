@@ -2,13 +2,14 @@
   "id": 303697117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787347,30.445163,-97.787347,30.445163",
     "geom:latitude":30.445163,
     "geom:longitude":-97.787347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13343 N Hwy 183 Ste 275",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303697117,
-    "wof:lastmodified":1448999659,
+    "wof:lastmodified":1467083769,
     "wof:name":"Bark 'n Bubbles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cat"
     ]
 },
-  "bbox": [-97.787347,30.445163,-97.787347,30.445163],
+  "bbox": [
+    -97.787347,
+    30.445163,
+    -97.787347,
+    30.445163
+],
   "geometry": {"coordinates":[-97.787347,30.445163],"type":"Point"}
 }

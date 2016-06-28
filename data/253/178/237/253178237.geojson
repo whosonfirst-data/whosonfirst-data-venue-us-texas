@@ -2,13 +2,14 @@
   "id": 253178237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.786352,32.166548,-94.786352,32.166548",
     "geom:latitude":32.166548,
     "geom:longitude":-94.786352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 US Hwy 79 N",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253178237,
-    "wof:lastmodified":1449064954,
+    "wof:lastmodified":1467085018,
     "wof:name":"Woodlawn Hills Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.786352,32.166548,-94.786352,32.166548],
-  "geometry": {"coordinates":[-94.786352,32.166548],"type":"Point"}
+  "bbox": [
+    -94.786352,
+    32.166548,
+    -94.786352,
+    32.166548
+],
+  "geometry": {"coordinates":[-94.78635199999999,32.166548],"type":"Point"}
 }

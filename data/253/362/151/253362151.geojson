@@ -2,13 +2,14 @@
   "id": 253362151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.130244,32.912826,-96.130244,32.912826",
     "geom:latitude":32.912826,
     "geom:longitude":-96.130244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Greenway Dr",
     "sg:city":"Quinlan",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253362151,
-    "wof:lastmodified":1449064744,
+    "wof:lastmodified":1467085011,
     "wof:name":"Mike House",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.130244,32.912826,-96.130244,32.912826],
+  "bbox": [
+    -96.130244,
+    32.912826,
+    -96.130244,
+    32.912826
+],
   "geometry": {"coordinates":[-96.130244,32.912826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303421901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739782,30.423735,-97.739782,30.423735",
     "geom:latitude":30.423735,
     "geom:longitude":-97.739782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12108 W Cow Path",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303421901,
-    "wof:lastmodified":1448999670,
+    "wof:lastmodified":1467083769,
     "wof:name":"The Neill Foundation",
     "wof:parent_id":85893495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-97.739782,30.423735,-97.739782,30.423735],
-  "geometry": {"coordinates":[-97.739782,30.423735],"type":"Point"}
+  "bbox": [
+    -97.739782,
+    30.423735,
+    -97.739782,
+    30.423735
+],
+  "geometry": {"coordinates":[-97.73978200000001,30.423735],"type":"Point"}
 }

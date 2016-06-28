@@ -2,13 +2,14 @@
   "id": 286659977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.685611,30.005569,-95.685611,30.005569",
     "geom:latitude":30.005569,
     "geom:longitude":-95.685611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17318 E Blooming Rose Ct",
     "sg:city":"Cypress",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286659977,
-    "wof:lastmodified":1449015496,
+    "wof:lastmodified":1467084245,
     "wof:name":"Mark Riordan & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "investigator"
     ]
 },
-  "bbox": [-95.685611,30.005569,-95.685611,30.005569],
-  "geometry": {"coordinates":[-95.685611,30.005569],"type":"Point"}
+  "bbox": [
+    -95.685611,
+    30.005569,
+    -95.685611,
+    30.005569
+],
+  "geometry": {"coordinates":[-95.68561099999999,30.005569],"type":"Point"}
 }

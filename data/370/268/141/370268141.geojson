@@ -2,13 +2,14 @@
   "id": 370268141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.391016,29.955079,-95.391016,29.955079",
     "geom:latitude":29.955079,
     "geom:longitude":-95.391016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Richcrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370268141,
-    "wof:lastmodified":1449030996,
+    "wof:lastmodified":1467084517,
     "wof:name":"Fanuc USA Corp",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.391016,29.955079,-95.391016,29.955079],
-  "geometry": {"coordinates":[-95.391016,29.955079],"type":"Point"}
+  "bbox": [
+    -95.391016,
+    29.955079,
+    -95.391016,
+    29.955079
+],
+  "geometry": {"coordinates":[-95.39101599999999,29.955079],"type":"Point"}
 }

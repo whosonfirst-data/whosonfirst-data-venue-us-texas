@@ -2,13 +2,14 @@
   "id": 370531859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.671901,26.190825,-97.671901,26.190825",
     "geom:latitude":26.190825,
     "geom:longitude":-97.671901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Harrison Ave",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370531859,
-    "wof:lastmodified":1449029895,
+    "wof:lastmodified":1467084489,
     "wof:name":"Commercial Refrigeration Svc",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-97.671901,26.190825,-97.671901,26.190825],
-  "geometry": {"coordinates":[-97.671901,26.190825],"type":"Point"}
+  "bbox": [
+    -97.671901,
+    26.190825,
+    -97.671901,
+    26.190825
+],
+  "geometry": {"coordinates":[-97.67190100000001,26.190825],"type":"Point"}
 }

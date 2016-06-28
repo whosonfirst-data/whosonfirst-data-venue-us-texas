@@ -2,13 +2,14 @@
   "id": 303802185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711131,30.389083,-97.711131,30.389083",
     "geom:latitude":30.389083,
     "geom:longitude":-97.711131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Kramer Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303802185,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1467083790,
     "wof:name":"Texas State-Hiv Std Epdmlgy",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-97.711131,30.389083,-97.711131,30.389083],
-  "geometry": {"coordinates":[-97.711131,30.389083],"type":"Point"}
+  "bbox": [
+    -97.711131,
+    30.389083,
+    -97.711131,
+    30.389083
+],
+  "geometry": {"coordinates":[-97.71113099999999,30.389083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337330853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.186996,29.7805,-95.186996,29.7805",
     "geom:latitude":29.7805,
     "geom:longitude":-95.186996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Uvalde Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337330853,
-    "wof:lastmodified":1449027358,
+    "wof:lastmodified":1467084441,
     "wof:name":"Uvalde Food Mart",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.186996,29.7805,-95.186996,29.7805],
-  "geometry": {"coordinates":[-95.186996,29.7805],"type":"Point"}
+  "bbox": [
+    -95.186996,
+    29.7805,
+    -95.186996,
+    29.7805
+],
+  "geometry": {"coordinates":[-95.18699599999999,29.7805],"type":"Point"}
 }

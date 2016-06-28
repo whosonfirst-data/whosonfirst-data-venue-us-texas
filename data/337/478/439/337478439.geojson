@@ -2,13 +2,14 @@
   "id": 337478439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.848121,34.060281,-101.848121,34.060281",
     "geom:latitude":34.060281,
     "geom:longitude":-101.848121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W 3rd St",
     "sg:city":"Hale Center",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337478439,
-    "wof:lastmodified":1449026961,
+    "wof:lastmodified":1467084424,
     "wof:name":"Hale County Nursing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-101.848121,34.060281,-101.848121,34.060281],
-  "geometry": {"coordinates":[-101.848121,34.060281],"type":"Point"}
+  "bbox": [
+    -101.848121,
+    34.060281,
+    -101.848121,
+    34.060281
+],
+  "geometry": {"coordinates":[-101.84812100000001,34.060281],"type":"Point"}
 }

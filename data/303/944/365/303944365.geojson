@@ -2,13 +2,14 @@
   "id": 303944365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.864433,35.191101,-101.864433,35.191101",
     "geom:latitude":35.191101,
     "geom:longitude":-101.864433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Wolflin Vlg",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303944365,
-    "wof:lastmodified":1448999341,
+    "wof:lastmodified":1467083753,
     "wof:name":"Panache",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "decorator"
     ]
 },
-  "bbox": [-101.864433,35.191101,-101.864433,35.191101],
-  "geometry": {"coordinates":[-101.864433,35.191101],"type":"Point"}
+  "bbox": [
+    -101.864433,
+    35.191101,
+    -101.864433,
+    35.191101
+],
+  "geometry": {"coordinates":[-101.86443300000001,35.191101],"type":"Point"}
 }

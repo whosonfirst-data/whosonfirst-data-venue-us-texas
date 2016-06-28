@@ -2,13 +2,14 @@
   "id": 253028939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.507483,29.903285,-95.507483,29.903285",
     "geom:latitude":29.903285,
     "geom:longitude":-95.507483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8383 Sorrel Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253028939,
-    "wof:lastmodified":1449064432,
+    "wof:lastmodified":1467085000,
     "wof:name":"Dianas Design & Collectibles",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.507483,29.903285,-95.507483,29.903285],
-  "geometry": {"coordinates":[-95.507483,29.903285],"type":"Point"}
+  "bbox": [
+    -95.507483,
+    29.903285,
+    -95.507483,
+    29.903285
+],
+  "geometry": {"coordinates":[-95.50748299999999,29.903285],"type":"Point"}
 }

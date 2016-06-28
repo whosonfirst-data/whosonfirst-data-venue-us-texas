@@ -2,13 +2,14 @@
   "id": 387755529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.08107,30.041987,-94.08107,30.041987",
     "geom:latitude":30.041987,
     "geom:longitude":-94.08107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 E Virginia St",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387755529,
-    "wof:lastmodified":1449057172,
+    "wof:lastmodified":1467084811,
     "wof:name":"Stop N Drive",
     "wof:parent_id":85824883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.08107,30.041987,-94.08107,30.041987],
+  "bbox": [
+    -94.08107,
+    30.041987,
+    -94.08107,
+    30.041987
+],
   "geometry": {"coordinates":[-94.08107,30.041987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403868999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.73865,32.434557,-99.73865,32.434557",
     "geom:latitude":32.434557,
     "geom:longitude":-99.73865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Butternut St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403868999,
-    "wof:lastmodified":1449054678,
+    "wof:lastmodified":1467084751,
     "wof:name":"Big Country Finance & Leasing",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-99.73865,32.434557,-99.73865,32.434557],
-  "geometry": {"coordinates":[-99.73865,32.434557],"type":"Point"}
+  "bbox": [
+    -99.73865,
+    32.434557,
+    -99.73865,
+    32.434557
+],
+  "geometry": {"coordinates":[-99.73865000000001,32.434557],"type":"Point"}
 }

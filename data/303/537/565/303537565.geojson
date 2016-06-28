@@ -2,13 +2,14 @@
   "id": 303537565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944347,30.17094,-97.944347,30.17094",
     "geom:latitude":30.17094,
     "geom:longitude":-97.944347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6803 Cactus Crossing",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303537565,
-    "wof:lastmodified":1448998712,
+    "wof:lastmodified":1467083721,
     "wof:name":"AC Electric LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrician"
     ]
 },
-  "bbox": [-97.944347,30.17094,-97.944347,30.17094],
-  "geometry": {"coordinates":[-97.944347,30.17094],"type":"Point"}
+  "bbox": [
+    -97.944347,
+    30.17094,
+    -97.944347,
+    30.17094
+],
+  "geometry": {"coordinates":[-97.94434699999999,30.17094],"type":"Point"}
 }

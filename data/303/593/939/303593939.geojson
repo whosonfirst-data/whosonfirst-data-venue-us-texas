@@ -2,13 +2,14 @@
   "id": 303593939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.835503,30.206499,-97.835503,30.206499",
     "geom:latitude":30.206499,
     "geom:longitude":-97.835503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7612 Brodie Ln Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303593939,
-    "wof:lastmodified":1448999738,
+    "wof:lastmodified":1467083773,
     "wof:name":"King Liquor",
     "wof:parent_id":85828349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.835503,30.206499,-97.835503,30.206499],
+  "bbox": [
+    -97.835503,
+    30.206499,
+    -97.835503,
+    30.206499
+],
   "geometry": {"coordinates":[-97.835503,30.206499],"type":"Point"}
 }

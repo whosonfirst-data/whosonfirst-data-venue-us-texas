@@ -2,13 +2,14 @@
   "id": 354402745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.32707,32.350322,-95.32707,32.350322",
     "geom:latitude":32.350322,
     "geom:longitude":-95.32707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 W Erwin St",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354402745,
-    "wof:lastmodified":1449066454,
+    "wof:lastmodified":1467085064,
     "wof:name":"Magoi Medical Eqpt & Supplies",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.32707,32.350322,-95.32707,32.350322],
-  "geometry": {"coordinates":[-95.32707,32.350322],"type":"Point"}
+  "bbox": [
+    -95.32707,
+    32.350322,
+    -95.32707,
+    32.350322
+],
+  "geometry": {"coordinates":[-95.32707000000001,32.350322],"type":"Point"}
 }

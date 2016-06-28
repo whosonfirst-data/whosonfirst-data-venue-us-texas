@@ -2,13 +2,14 @@
   "id": 371145107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.917637,33.535212,-101.917637,33.535212",
     "geom:latitude":33.535212,
     "geom:longitude":-101.917637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 65th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371145107,
-    "wof:lastmodified":1449049324,
+    "wof:lastmodified":1467084675,
     "wof:name":"GEM Tape Duplicating",
     "wof:parent_id":85878815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tape"
     ]
 },
-  "bbox": [-101.917637,33.535212,-101.917637,33.535212],
+  "bbox": [
+    -101.917637,
+    33.535212,
+    -101.917637,
+    33.535212
+],
   "geometry": {"coordinates":[-101.917637,33.535212],"type":"Point"}
 }

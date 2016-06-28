@@ -2,13 +2,14 @@
   "id": 252921229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.700401,32.791801,-96.700401,32.791801",
     "geom:latitude":32.791801,
     "geom:longitude":-96.700401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5924 Samuell Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252921229,
-    "wof:lastmodified":1449006107,
+    "wof:lastmodified":1467084086,
     "wof:name":"Subway Sandwiches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-96.700401,32.791801,-96.700401,32.791801],
+  "bbox": [
+    -96.700401,
+    32.791801,
+    -96.700401,
+    32.791801
+],
   "geometry": {"coordinates":[-96.700401,32.791801],"type":"Point"}
 }

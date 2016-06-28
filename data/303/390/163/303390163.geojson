@@ -2,13 +2,14 @@
   "id": 303390163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.718358,30.29171,-97.718358,30.29171",
     "geom:latitude":30.29171,
     "geom:longitude":-97.718358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 Werner Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303390163,
-    "wof:lastmodified":1449000593,
+    "wof:lastmodified":1467083814,
     "wof:name":"Part Police Consultants",
     "wof:parent_id":85869915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.718358,30.29171,-97.718358,30.29171],
-  "geometry": {"coordinates":[-97.718358,30.29171],"type":"Point"}
+  "bbox": [
+    -97.718358,
+    30.29171,
+    -97.718358,
+    30.29171
+],
+  "geometry": {"coordinates":[-97.71835799999999,30.29171],"type":"Point"}
 }

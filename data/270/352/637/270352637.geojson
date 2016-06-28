@@ -2,13 +2,14 @@
   "id": 270352637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.383339,29.69578,-95.383339,29.69578",
     "geom:latitude":29.69578,
     "geom:longitude":-95.383339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7171 Grand Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270352637,
-    "wof:lastmodified":1449010134,
+    "wof:lastmodified":1467084199,
     "wof:name":"The News Group",
     "wof:parent_id":85849809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "news"
     ]
 },
-  "bbox": [-95.383339,29.69578,-95.383339,29.69578],
-  "geometry": {"coordinates":[-95.383339,29.69578],"type":"Point"}
+  "bbox": [
+    -95.383339,
+    29.69578,
+    -95.383339,
+    29.69578
+],
+  "geometry": {"coordinates":[-95.38333900000001,29.69578],"type":"Point"}
 }

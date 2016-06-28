@@ -2,13 +2,14 @@
   "id": 202961083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.202975,30.467961,-96.202975,30.467961",
     "geom:latitude":30.467961,
     "geom:longitude":-96.202975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2985 Wingfall St",
     "sg:city":"Millican",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202961083,
-    "wof:lastmodified":1449062579,
+    "wof:lastmodified":1467084939,
     "wof:name":"Millican Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.202975,30.467961,-96.202975,30.467961],
+  "bbox": [
+    -96.202975,
+    30.467961,
+    -96.202975,
+    30.467961
+],
   "geometry": {"coordinates":[-96.202975,30.467961],"type":"Point"}
 }

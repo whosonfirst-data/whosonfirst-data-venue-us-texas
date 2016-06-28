@@ -2,13 +2,14 @@
   "id": 353751663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.680416,26.21061,-97.680416,26.21061",
     "geom:latitude":26.21061,
     "geom:longitude":-97.680416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 High St",
     "sg:city":"Harlingen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353751663,
-    "wof:lastmodified":1449018393,
+    "wof:lastmodified":1467084324,
     "wof:name":"Lopez Supermarket",
     "wof:parent_id":85840341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.680416,26.21061,-97.680416,26.21061],
-  "geometry": {"coordinates":[-97.680416,26.21061],"type":"Point"}
+  "bbox": [
+    -97.680416,
+    26.21061,
+    -97.680416,
+    26.21061
+],
+  "geometry": {"coordinates":[-97.68041599999999,26.21061],"type":"Point"}
 }

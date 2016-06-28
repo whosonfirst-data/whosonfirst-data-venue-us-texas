@@ -2,13 +2,14 @@
   "id": 253136711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743844,30.378641,-97.743844,30.378641",
     "geom:latitude":30.378641,
     "geom:longitude":-97.743844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8708 Honeysuckle Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253136711,
-    "wof:lastmodified":1449065763,
+    "wof:lastmodified":1467085046,
     "wof:name":"Knowtech",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-97.743844,30.378641,-97.743844,30.378641],
+  "bbox": [
+    -97.743844,
+    30.378641,
+    -97.743844,
+    30.378641
+],
   "geometry": {"coordinates":[-97.743844,30.378641],"type":"Point"}
 }

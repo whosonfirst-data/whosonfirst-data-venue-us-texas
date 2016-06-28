@@ -2,13 +2,14 @@
   "id": 387645763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059447,32.783055,-97.059447,32.783055",
     "geom:latitude":32.783055,
     "geom:longitude":-97.059447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 N State Hwy 360",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387645763,
-    "wof:lastmodified":1449056493,
+    "wof:lastmodified":1467084794,
     "wof:name":"Precis Inc",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-97.059447,32.783055,-97.059447,32.783055],
-  "geometry": {"coordinates":[-97.059447,32.783055],"type":"Point"}
+  "bbox": [
+    -97.059447,
+    32.783055,
+    -97.059447,
+    32.783055
+],
+  "geometry": {"coordinates":[-97.05944700000001,32.783055],"type":"Point"}
 }

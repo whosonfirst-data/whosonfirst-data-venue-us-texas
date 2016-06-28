@@ -2,13 +2,14 @@
   "id": 353780273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.782683,32.794095,-96.782683,32.794095",
     "geom:latitude":32.794095,
     "geom:longitude":-96.782683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 Live Oak St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353780273,
-    "wof:lastmodified":1449020160,
+    "wof:lastmodified":1467084362,
     "wof:name":"Dallas Transplant Institute",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "center"
     ]
 },
-  "bbox": [-96.782683,32.794095,-96.782683,32.794095],
-  "geometry": {"coordinates":[-96.782683,32.794095],"type":"Point"}
+  "bbox": [
+    -96.782683,
+    32.794095,
+    -96.782683,
+    32.794095
+],
+  "geometry": {"coordinates":[-96.78268300000001,32.794095],"type":"Point"}
 }

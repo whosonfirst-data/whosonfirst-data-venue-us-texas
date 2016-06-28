@@ -2,13 +2,14 @@
   "id": 219230265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.62002,33.65254,-96.62002,33.65254",
     "geom:latitude":33.65254,
     "geom:longitude":-96.62002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 N Woods St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219230265,
-    "wof:lastmodified":1449073020,
+    "wof:lastmodified":1467085155,
     "wof:name":"Mom's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-96.62002,33.65254,-96.62002,33.65254],
+  "bbox": [
+    -96.62002,
+    33.65254,
+    -96.62002,
+    33.65254
+],
   "geometry": {"coordinates":[-96.62002,33.65254],"type":"Point"}
 }

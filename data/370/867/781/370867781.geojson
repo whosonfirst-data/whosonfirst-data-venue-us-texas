@@ -2,13 +2,14 @@
   "id": 370867781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.357695,32.747396,-97.357695,32.747396",
     "geom:latitude":32.747396,
     "geom:longitude":-97.357695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 W Lancaster Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370867781,
-    "wof:lastmodified":1449030551,
+    "wof:lastmodified":1467084505,
     "wof:name":"Horse Trader",
     "wof:parent_id":85867233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-97.357695,32.747396,-97.357695,32.747396],
-  "geometry": {"coordinates":[-97.357695,32.747396],"type":"Point"}
+  "bbox": [
+    -97.357695,
+    32.747396,
+    -97.357695,
+    32.747396
+],
+  "geometry": {"coordinates":[-97.35769500000001,32.747396],"type":"Point"}
 }

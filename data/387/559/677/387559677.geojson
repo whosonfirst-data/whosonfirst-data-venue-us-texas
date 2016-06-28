@@ -2,13 +2,14 @@
   "id": 387559677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443498,32.73068,-97.443498,32.73068",
     "geom:latitude":32.73068,
     "geom:longitude":-97.443498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Rosewood St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387559677,
-    "wof:lastmodified":1449059080,
+    "wof:lastmodified":1467084861,
     "wof:name":"Premier Car Rental",
     "wof:parent_id":85871663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-97.443498,32.73068,-97.443498,32.73068],
-  "geometry": {"coordinates":[-97.443498,32.73068],"type":"Point"}
+  "bbox": [
+    -97.443498,
+    32.73068,
+    -97.443498,
+    32.73068
+],
+  "geometry": {"coordinates":[-97.44349800000001,32.73068],"type":"Point"}
 }

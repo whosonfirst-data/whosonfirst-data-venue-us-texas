@@ -2,13 +2,14 @@
   "id": 403871767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.555934,33.67518,-95.555934,33.67518",
     "geom:latitude":33.67518,
     "geom:longitude":-95.555934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403871767,
-    "wof:lastmodified":1449055059,
+    "wof:lastmodified":1467084759,
     "wof:name":"Burger Land",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.555934,33.67518,-95.555934,33.67518],
-  "geometry": {"coordinates":[-95.555934,33.67518],"type":"Point"}
+  "bbox": [
+    -95.555934,
+    33.67518,
+    -95.555934,
+    33.67518
+],
+  "geometry": {"coordinates":[-95.55593399999999,33.67518],"type":"Point"}
 }

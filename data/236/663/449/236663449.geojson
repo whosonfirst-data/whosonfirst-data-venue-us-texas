@@ -2,13 +2,14 @@
   "id": 236663449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.907919,32.827425,-96.907919,32.827425",
     "geom:latitude":32.827425,
     "geom:longitude":-96.907919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Penn St",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236663449,
-    "wof:lastmodified":1449004199,
+    "wof:lastmodified":1467083989,
     "wof:name":"None",
     "wof:parent_id":85878293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.907919,32.827425,-96.907919,32.827425],
-  "geometry": {"coordinates":[-96.907919,32.827425],"type":"Point"}
+  "bbox": [
+    -96.907919,
+    32.827425,
+    -96.907919,
+    32.827425
+],
+  "geometry": {"coordinates":[-96.90791900000001,32.827425],"type":"Point"}
 }

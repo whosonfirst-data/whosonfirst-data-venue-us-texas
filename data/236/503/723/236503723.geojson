@@ -2,13 +2,14 @@
   "id": 236503723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.153031,33.205002,-97.153031,33.205002",
     "geom:latitude":33.205002,
     "geom:longitude":-97.153031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Texas Blvd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236503723,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1467084040,
     "wof:name":"Avenue D Exxon",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.153031,33.205002,-97.153031,33.205002],
+  "bbox": [
+    -97.153031,
+    33.205002,
+    -97.153031,
+    33.205002
+],
   "geometry": {"coordinates":[-97.153031,33.205002],"type":"Point"}
 }

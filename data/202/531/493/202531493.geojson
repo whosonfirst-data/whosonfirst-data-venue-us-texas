@@ -2,13 +2,14 @@
   "id": 202531493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.723447,33.074509,-96.723447,33.074509",
     "geom:latitude":33.074509,
     "geom:longitude":-96.723447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 Chester Dr",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202531493,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1467084900,
     "wof:name":"USA Pizza",
     "wof:parent_id":85879901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.723447,33.074509,-96.723447,33.074509],
-  "geometry": {"coordinates":[-96.723447,33.074509],"type":"Point"}
+  "bbox": [
+    -96.723447,
+    33.074509,
+    -96.723447,
+    33.074509
+],
+  "geometry": {"coordinates":[-96.72344699999999,33.074509],"type":"Point"}
 }

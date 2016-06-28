@@ -2,13 +2,14 @@
   "id": 370217531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535503,31.843519,-106.535503,31.843519",
     "geom:latitude":31.843519,
     "geom:longitude":-106.535503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Escondido Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370217531,
-    "wof:lastmodified":1449032263,
+    "wof:lastmodified":1467084549,
     "wof:name":"I S B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "employment"
     ]
 },
-  "bbox": [-106.535503,31.843519,-106.535503,31.843519],
-  "geometry": {"coordinates":[-106.535503,31.843519],"type":"Point"}
+  "bbox": [
+    -106.535503,
+    31.843519,
+    -106.535503,
+    31.843519
+],
+  "geometry": {"coordinates":[-106.53550300000001,31.843519],"type":"Point"}
 }

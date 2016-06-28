@@ -2,13 +2,14 @@
   "id": 253644275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115055,32.66819,-97.115055,32.66819",
     "geom:latitude":32.66819,
     "geom:longitude":-97.115055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4860 Matlock Rd Ste 140",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253644275,
-    "wof:lastmodified":1449064516,
+    "wof:lastmodified":1467085003,
     "wof:name":"Medical Center Of Arlington",
     "wof:parent_id":85850295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.115055,32.66819,-97.115055,32.66819],
+  "bbox": [
+    -97.115055,
+    32.66819,
+    -97.115055,
+    32.66819
+],
   "geometry": {"coordinates":[-97.115055,32.66819],"type":"Point"}
 }

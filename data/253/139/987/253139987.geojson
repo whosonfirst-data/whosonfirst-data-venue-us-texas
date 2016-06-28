@@ -2,13 +2,14 @@
   "id": 253139987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.745042,32.914085,-96.745042,32.914085",
     "geom:latitude":32.914085,
     "geom:longitude":-96.745042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12225 Greenville Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253139987,
-    "wof:lastmodified":1449063086,
+    "wof:lastmodified":1467084954,
     "wof:name":"Delicious Deli",
     "wof:parent_id":85897337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-96.745042,32.914085,-96.745042,32.914085],
+  "bbox": [
+    -96.745042,
+    32.914085,
+    -96.745042,
+    32.914085
+],
   "geometry": {"coordinates":[-96.745042,32.914085],"type":"Point"}
 }

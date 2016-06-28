@@ -2,13 +2,14 @@
   "id": 337614823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.621586,30.393843,-95.621586,30.393843",
     "geom:latitude":30.393843,
     "geom:longitude":-95.621586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12900 Walden Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337614823,
-    "wof:lastmodified":1449027761,
+    "wof:lastmodified":1467084458,
     "wof:name":"Trading Time",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.621586,30.393843,-95.621586,30.393843],
-  "geometry": {"coordinates":[-95.621586,30.393843],"type":"Point"}
+  "bbox": [
+    -95.621586,
+    30.393843,
+    -95.621586,
+    30.393843
+],
+  "geometry": {"coordinates":[-95.62158599999999,30.393843],"type":"Point"}
 }

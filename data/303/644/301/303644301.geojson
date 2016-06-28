@@ -2,13 +2,14 @@
   "id": 303644301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.812767,30.182294,-97.812767,30.182294",
     "geom:latitude":30.182294,
     "geom:longitude":-97.812767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Strickland Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303644301,
-    "wof:lastmodified":1448999521,
+    "wof:lastmodified":1467083761,
     "wof:name":"Paint All Of Austin",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.812767,30.182294,-97.812767,30.182294],
-  "geometry": {"coordinates":[-97.812767,30.182294],"type":"Point"}
+  "bbox": [
+    -97.812767,
+    30.182294,
+    -97.812767,
+    30.182294
+],
+  "geometry": {"coordinates":[-97.81276699999999,30.182294],"type":"Point"}
 }

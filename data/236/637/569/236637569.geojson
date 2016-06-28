@@ -2,13 +2,14 @@
   "id": 236637569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.948495,29.852984,-97.948495,29.852984",
     "geom:latitude":29.852984,
     "geom:longitude":-97.948495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Medical Pkwy",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236637569,
-    "wof:lastmodified":1449001678,
+    "wof:lastmodified":1467083854,
     "wof:name":"Medpark Pharmacy",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drug"
     ]
 },
-  "bbox": [-97.948495,29.852984,-97.948495,29.852984],
-  "geometry": {"coordinates":[-97.948495,29.852984],"type":"Point"}
+  "bbox": [
+    -97.948495,
+    29.852984,
+    -97.948495,
+    29.852984
+],
+  "geometry": {"coordinates":[-97.94849499999999,29.852984],"type":"Point"}
 }

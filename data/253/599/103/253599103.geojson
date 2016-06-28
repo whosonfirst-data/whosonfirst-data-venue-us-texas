@@ -2,13 +2,14 @@
   "id": 253599103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.416295,30.763722,-94.416295,30.763722",
     "geom:latitude":30.763722,
     "geom:longitude":-94.416295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Magnolia St",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253599103,
-    "wof:lastmodified":1449064195,
+    "wof:lastmodified":1467084992,
     "wof:name":"Food Basket Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-94.416295,30.763722,-94.416295,30.763722],
-  "geometry": {"coordinates":[-94.416295,30.763722],"type":"Point"}
+  "bbox": [
+    -94.416295,
+    30.763722,
+    -94.416295,
+    30.763722
+],
+  "geometry": {"coordinates":[-94.41629500000001,30.763722],"type":"Point"}
 }

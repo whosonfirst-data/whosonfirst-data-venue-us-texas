@@ -2,13 +2,14 @@
   "id": 286445939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.396495,29.715383,-95.396495,29.715383",
     "geom:latitude":29.715383,
     "geom:longitude":-95.396495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6410 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286445939,
-    "wof:lastmodified":1449015562,
+    "wof:lastmodified":1467084247,
     "wof:name":"Labcorp",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.396495,29.715383,-95.396495,29.715383],
+  "bbox": [
+    -95.396495,
+    29.715383,
+    -95.396495,
+    29.715383
+],
   "geometry": {"coordinates":[-95.396495,29.715383],"type":"Point"}
 }

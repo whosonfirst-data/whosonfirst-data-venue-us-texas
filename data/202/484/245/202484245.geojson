@@ -2,13 +2,14 @@
   "id": 202484245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.612125,29.771345,-95.612125,29.771345",
     "geom:latitude":29.771345,
     "geom:longitude":-95.612125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14777 Memorial Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484245,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1467084938,
     "wof:name":"West Memorial Barber Shop",
     "wof:parent_id":85885361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.612125,29.771345,-95.612125,29.771345],
-  "geometry": {"coordinates":[-95.612125,29.771345],"type":"Point"}
+  "bbox": [
+    -95.612125,
+    29.771345,
+    -95.612125,
+    29.771345
+],
+  "geometry": {"coordinates":[-95.61212500000001,29.771345],"type":"Point"}
 }

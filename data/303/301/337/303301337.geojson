@@ -2,13 +2,14 @@
   "id": 303301337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.77543,30.282426,-97.77543,30.282426",
     "geom:latitude":30.282426,
     "geom:longitude":-97.77543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 W 7th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303301337,
-    "wof:lastmodified":1448998736,
+    "wof:lastmodified":1467083722,
     "wof:name":"Twin Liquors",
     "wof:parent_id":85869997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.77543,30.282426,-97.77543,30.282426],
+  "bbox": [
+    -97.77543,
+    30.282426,
+    -97.77543,
+    30.282426
+],
   "geometry": {"coordinates":[-97.77543,30.282426],"type":"Point"}
 }

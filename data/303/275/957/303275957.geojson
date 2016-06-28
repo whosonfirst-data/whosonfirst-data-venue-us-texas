@@ -2,13 +2,14 @@
   "id": 303275957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.70225,30.253547,-97.70225,30.253547",
     "geom:latitude":30.253547,
     "geom:longitude":-97.70225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 E 5th St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303275957,
-    "wof:lastmodified":1448998903,
+    "wof:lastmodified":1467083731,
     "wof:name":"Texas Redwood",
     "wof:parent_id":85869935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.70225,30.253547,-97.70225,30.253547],
-  "geometry": {"coordinates":[-97.70225,30.253547],"type":"Point"}
+  "bbox": [
+    -97.70225,
+    30.253547,
+    -97.70225,
+    30.253547
+],
+  "geometry": {"coordinates":[-97.70225000000001,30.253547],"type":"Point"}
 }

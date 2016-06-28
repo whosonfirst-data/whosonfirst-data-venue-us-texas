@@ -2,13 +2,14 @@
   "id": 370827709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.982324,31.705624,-98.982324,31.705624",
     "geom:latitude":31.705624,
     "geom:longitude":-98.982324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Coggin Ave",
     "sg:city":"Brownwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370827709,
-    "wof:lastmodified":1449030302,
+    "wof:lastmodified":1467084499,
     "wof:name":"Heartland Medical Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-98.982324,31.705624,-98.982324,31.705624],
-  "geometry": {"coordinates":[-98.982324,31.705624],"type":"Point"}
+  "bbox": [
+    -98.982324,
+    31.705624,
+    -98.982324,
+    31.705624
+],
+  "geometry": {"coordinates":[-98.98232400000001,31.705624],"type":"Point"}
 }

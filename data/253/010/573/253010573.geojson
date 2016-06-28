@@ -2,13 +2,14 @@
   "id": 253010573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839813,32.641453,-96.839813,32.641453",
     "geom:latitude":32.641453,
     "geom:longitude":-96.839813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8702 S Polk St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253010573,
-    "wof:lastmodified":1449064657,
+    "wof:lastmodified":1467085008,
     "wof:name":"Subway Sandwiches",
     "wof:parent_id":85897361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-96.839813,32.641453,-96.839813,32.641453],
-  "geometry": {"coordinates":[-96.839813,32.641453],"type":"Point"}
+  "bbox": [
+    -96.839813,
+    32.641453,
+    -96.839813,
+    32.641453
+],
+  "geometry": {"coordinates":[-96.83981300000001,32.641453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203410005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.544108,29.647902,-95.544108,29.647902",
     "geom:latitude":29.647902,
     "geom:longitude":-95.544108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11375 Sam Houston Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203410005,
-    "wof:lastmodified":1449024970,
+    "wof:lastmodified":1467084385,
     "wof:name":"Diagnostic M R I",
     "wof:parent_id":85893763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "center"
     ]
 },
-  "bbox": [-95.544108,29.647902,-95.544108,29.647902],
-  "geometry": {"coordinates":[-95.544108,29.647902],"type":"Point"}
+  "bbox": [
+    -95.544108,
+    29.647902,
+    -95.544108,
+    29.647902
+],
+  "geometry": {"coordinates":[-95.54410799999999,29.647902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185683269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.930546,33.523251,-101.930546,33.523251",
     "geom:latitude":33.523251,
     "geom:longitude":-101.930546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5428 78th St",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185683269,
-    "wof:lastmodified":1449007194,
+    "wof:lastmodified":1467084121,
     "wof:name":"Darby Williams Trim",
     "wof:parent_id":85878791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-101.930546,33.523251,-101.930546,33.523251],
-  "geometry": {"coordinates":[-101.930546,33.523251],"type":"Point"}
+  "bbox": [
+    -101.930546,
+    33.523251,
+    -101.930546,
+    33.523251
+],
+  "geometry": {"coordinates":[-101.93054600000001,33.523251],"type":"Point"}
 }

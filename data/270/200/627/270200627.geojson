@@ -2,13 +2,14 @@
   "id": 270200627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.186725,29.589513,-95.186725,29.589513",
     "geom:latitude":29.589513,
     "geom:longitude":-95.186725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15255 Gulf Fwy Ste 135A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270200627,
-    "wof:lastmodified":1449009615,
+    "wof:lastmodified":1467084182,
     "wof:name":"Fielder's Choice",
     "wof:parent_id":85826449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.186725,29.589513,-95.186725,29.589513],
+  "bbox": [
+    -95.186725,
+    29.589513,
+    -95.186725,
+    29.589513
+],
   "geometry": {"coordinates":[-95.186725,29.589513],"type":"Point"}
 }

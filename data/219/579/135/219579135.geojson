@@ -2,13 +2,14 @@
   "id": 219579135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.741077,30.116923,-93.741077,30.116923",
     "geom:latitude":30.116923,
     "geom:longitude":-93.741077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Byron Rd",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219579135,
-    "wof:lastmodified":1449071521,
+    "wof:lastmodified":1467085123,
     "wof:name":"Press Service",
     "wof:parent_id":85841777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-93.741077,30.116923,-93.741077,30.116923],
+  "bbox": [
+    -93.741077,
+    30.116923,
+    -93.741077,
+    30.116923
+],
   "geometry": {"coordinates":[-93.741077,30.116923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202671815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.103379,29.587081,-95.103379,29.587081",
     "geom:latitude":29.587081,
     "geom:longitude":-95.103379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 Ledgestone Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202671815,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1467084900,
     "wof:name":"Residential Realty",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.103379,29.587081,-95.103379,29.587081],
+  "bbox": [
+    -95.103379,
+    29.587081,
+    -95.103379,
+    29.587081
+],
   "geometry": {"coordinates":[-95.103379,29.587081],"type":"Point"}
 }

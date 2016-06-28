@@ -2,13 +2,14 @@
   "id": 303449631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.778474,30.445286,-97.778474,30.445286",
     "geom:latitude":30.445286,
     "geom:longitude":-97.778474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13200 Pond Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303449631,
-    "wof:lastmodified":1449000387,
+    "wof:lastmodified":1467083803,
     "wof:name":"TM Air Conditioning & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-97.778474,30.445286,-97.778474,30.445286],
+  "bbox": [
+    -97.778474,
+    30.445286,
+    -97.778474,
+    30.445286
+],
   "geometry": {"coordinates":[-97.778474,30.445286],"type":"Point"}
 }

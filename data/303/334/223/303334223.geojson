@@ -2,13 +2,14 @@
   "id": 303334223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749052,30.249965,-97.749052,30.249965",
     "geom:latitude":30.249965,
     "geom:longitude":-97.749052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 S Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303334223,
-    "wof:lastmodified":1448998828,
+    "wof:lastmodified":1467083727,
     "wof:name":"St. Vincent de Paul",
     "wof:parent_id":85869869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-97.749052,30.249965,-97.749052,30.249965],
-  "geometry": {"coordinates":[-97.749052,30.249965],"type":"Point"}
+  "bbox": [
+    -97.749052,
+    30.249965,
+    -97.749052,
+    30.249965
+],
+  "geometry": {"coordinates":[-97.74905200000001,30.249965],"type":"Point"}
 }

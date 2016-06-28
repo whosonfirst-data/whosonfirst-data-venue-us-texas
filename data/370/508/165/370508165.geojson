@@ -2,13 +2,14 @@
   "id": 370508165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.550869,29.947083,-95.550869,29.947083",
     "geom:latitude":29.947083,
     "geom:longitude":-95.550869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11926 New Meadow Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370508165,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1467084516,
     "wof:name":"La Rancherita Deli Mini Market",
     "wof:parent_id":85869811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.550869,29.947083,-95.550869,29.947083],
-  "geometry": {"coordinates":[-95.550869,29.947083],"type":"Point"}
+  "bbox": [
+    -95.550869,
+    29.947083,
+    -95.550869,
+    29.947083
+],
+  "geometry": {"coordinates":[-95.55086900000001,29.947083],"type":"Point"}
 }

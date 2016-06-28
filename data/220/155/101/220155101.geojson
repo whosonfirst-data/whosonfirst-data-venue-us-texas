@@ -2,13 +2,14 @@
   "id": 220155101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721097,30.254863,-97.721097,30.254863",
     "geom:latitude":30.254863,
     "geom:longitude":-97.721097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Willow St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220155101,
-    "wof:lastmodified":1449074713,
+    "wof:lastmodified":1467085192,
     "wof:name":"Clear Copy",
     "wof:parent_id":85869933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.721097,30.254863,-97.721097,30.254863],
+  "bbox": [
+    -97.721097,
+    30.254863,
+    -97.721097,
+    30.254863
+],
   "geometry": {"coordinates":[-97.721097,30.254863],"type":"Point"}
 }

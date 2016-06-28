@@ -2,13 +2,14 @@
   "id": 270273271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52535,29.859637,-95.52535,29.859637",
     "geom:latitude":29.859637,
     "geom:longitude":-95.52535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14143 Northwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270273271,
-    "wof:lastmodified":1449009906,
+    "wof:lastmodified":1467084191,
     "wof:name":"Wis International",
     "wof:parent_id":85818461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-95.52535,29.859637,-95.52535,29.859637],
+  "bbox": [
+    -95.52535,
+    29.859637,
+    -95.52535,
+    29.859637
+],
   "geometry": {"coordinates":[-95.52535,29.859637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253486399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37923,32.531851,-94.37923,32.531851",
     "geom:latitude":32.531851,
     "geom:longitude":-94.37923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Sanford St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253486399,
-    "wof:lastmodified":1449064475,
+    "wof:lastmodified":1467085002,
     "wof:name":"Child Nutrition",
     "wof:parent_id":85805315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.37923,32.531851,-94.37923,32.531851],
-  "geometry": {"coordinates":[-94.37923,32.531851],"type":"Point"}
+  "bbox": [
+    -94.37923,
+    32.531851,
+    -94.37923,
+    32.531851
+],
+  "geometry": {"coordinates":[-94.37923000000001,32.531851],"type":"Point"}
 }

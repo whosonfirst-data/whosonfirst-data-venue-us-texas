@@ -2,13 +2,14 @@
   "id": 185856791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.260567,31.971295,-95.260567,31.971295",
     "geom:latitude":31.971295,
     "geom:longitude":-95.260567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Carolina St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185856791,
-    "wof:lastmodified":1449007069,
+    "wof:lastmodified":1467084119,
     "wof:name":"Johnny Astro Waste Mgt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.260567,31.971295,-95.260567,31.971295],
-  "geometry": {"coordinates":[-95.260567,31.971295],"type":"Point"}
+  "bbox": [
+    -95.260567,
+    31.971295,
+    -95.260567,
+    31.971295
+],
+  "geometry": {"coordinates":[-95.26056699999999,31.971295],"type":"Point"}
 }

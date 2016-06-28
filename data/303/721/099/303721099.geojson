@@ -2,13 +2,14 @@
   "id": 303721099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707648,30.32941,-97.707648,30.32941",
     "geom:latitude":30.32941,
     "geom:longitude":-97.707648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 Middle Fiskville Rd Ste 102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303721099,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1467083813,
     "wof:name":"MJ's Night Club",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.707648,30.32941,-97.707648,30.32941],
-  "geometry": {"coordinates":[-97.707648,30.32941],"type":"Point"}
+  "bbox": [
+    -97.707648,
+    30.32941,
+    -97.707648,
+    30.32941
+],
+  "geometry": {"coordinates":[-97.70764800000001,30.32941],"type":"Point"}
 }

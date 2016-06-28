@@ -2,13 +2,14 @@
   "id": 220159237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.820327,29.560681,-95.820327,29.560681",
     "geom:latitude":29.560681,
     "geom:longitude":-95.820327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 State Hwy 36",
     "sg:city":"Rosenberg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220159237,
-    "wof:lastmodified":1449074129,
+    "wof:lastmodified":1467085179,
     "wof:name":"Martin Marietta Mtls Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "ready"
     ]
 },
-  "bbox": [-95.820327,29.560681,-95.820327,29.560681],
-  "geometry": {"coordinates":[-95.820327,29.560681],"type":"Point"}
+  "bbox": [
+    -95.820327,
+    29.560681,
+    -95.820327,
+    29.560681
+],
+  "geometry": {"coordinates":[-95.82032700000001,29.560681],"type":"Point"}
 }

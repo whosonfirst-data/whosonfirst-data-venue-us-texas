@@ -2,13 +2,14 @@
   "id": 303318321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.783959,30.242434,-97.783959,30.242434",
     "geom:latitude":30.242434,
     "geom:longitude":-97.783959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 S Lamar Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303318321,
-    "wof:lastmodified":1448998654,
+    "wof:lastmodified":1467083718,
     "wof:name":"Performance Bike",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-97.783959,30.242434,-97.783959,30.242434],
+  "bbox": [
+    -97.783959,
+    30.242434,
+    -97.783959,
+    30.242434
+],
   "geometry": {"coordinates":[-97.783959,30.242434],"type":"Point"}
 }

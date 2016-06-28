@@ -2,13 +2,14 @@
   "id": 303620875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.793175,30.260217,-97.793175,30.260217",
     "geom:latitude":30.260217,
     "geom:longitude":-97.793175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 S. Mopac Expwy Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303620875,
-    "wof:lastmodified":1449000355,
+    "wof:lastmodified":1467083802,
     "wof:name":"Moxie Realty Group",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.793175,30.260217,-97.793175,30.260217],
-  "geometry": {"coordinates":[-97.793175,30.260217],"type":"Point"}
+  "bbox": [
+    -97.793175,
+    30.260217,
+    -97.793175,
+    30.260217
+],
+  "geometry": {"coordinates":[-97.79317500000001,30.260217],"type":"Point"}
 }

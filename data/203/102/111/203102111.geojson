@@ -2,13 +2,14 @@
   "id": 203102111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.835402,33.657906,-101.835402,33.657906",
     "geom:latitude":33.657906,
     "geom:longitude":-101.835402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6006 N Cedar Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203102111,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1467084418,
     "wof:name":"Aerocare",
     "wof:parent_id":85878809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-101.835402,33.657906,-101.835402,33.657906],
+  "bbox": [
+    -101.835402,
+    33.657906,
+    -101.835402,
+    33.657906
+],
   "geometry": {"coordinates":[-101.835402,33.657906],"type":"Point"}
 }

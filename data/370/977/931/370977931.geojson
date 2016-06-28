@@ -2,13 +2,14 @@
   "id": 370977931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.550153,33.349075,-96.550153,33.349075",
     "geom:latitude":33.349075,
     "geom:longitude":-96.550153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W 4th St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370977931,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1467084556,
     "wof:name":"Mama Mia's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.550153,33.349075,-96.550153,33.349075],
-  "geometry": {"coordinates":[-96.550153,33.349075],"type":"Point"}
+  "bbox": [
+    -96.550153,
+    33.349075,
+    -96.550153,
+    33.349075
+],
+  "geometry": {"coordinates":[-96.55015299999999,33.349075],"type":"Point"}
 }

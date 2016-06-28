@@ -2,13 +2,14 @@
   "id": 202719733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.417263,31.88462,-106.417263,31.88462",
     "geom:latitude":31.88462,
     "geom:longitude":-106.417263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5211 Threadgill Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202719733,
-    "wof:lastmodified":1449060430,
+    "wof:lastmodified":1467084894,
     "wof:name":"Arneson Pool Svc Inc",
     "wof:parent_id":85835851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.417263,31.88462,-106.417263,31.88462],
-  "geometry": {"coordinates":[-106.417263,31.88462],"type":"Point"}
+  "bbox": [
+    -106.417263,
+    31.88462,
+    -106.417263,
+    31.88462
+],
+  "geometry": {"coordinates":[-106.41726300000001,31.88462],"type":"Point"}
 }

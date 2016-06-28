@@ -2,13 +2,14 @@
   "id": 404073001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.127526,29.689425,-98.127526,29.689425",
     "geom:latitude":29.689425,
     "geom:longitude":-98.127526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 S Walnut Ave",
     "sg:city":"New Braunfels",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404073001,
-    "wof:lastmodified":1449039174,
+    "wof:lastmodified":1467084643,
     "wof:name":"Posner Telecommunications",
     "wof:parent_id":85823311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-98.127526,29.689425,-98.127526,29.689425],
+  "bbox": [
+    -98.127526,
+    29.689425,
+    -98.127526,
+    29.689425
+],
   "geometry": {"coordinates":[-98.127526,29.689425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203366267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.91755,29.49534,-94.91755,29.49534",
     "geom:latitude":29.49534,
     "geom:longitude":-94.91755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Bayshore Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203366267,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1467084411,
     "wof:name":"Mainline Integrity Svc",
     "wof:parent_id":85893973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.91755,29.49534,-94.91755,29.49534],
-  "geometry": {"coordinates":[-94.91755,29.49534],"type":"Point"}
+  "bbox": [
+    -94.91755,
+    29.49534,
+    -94.91755,
+    29.49534
+],
+  "geometry": {"coordinates":[-94.91755000000001,29.49534],"type":"Point"}
 }

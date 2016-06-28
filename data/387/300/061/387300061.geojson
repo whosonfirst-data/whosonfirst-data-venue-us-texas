@@ -2,13 +2,14 @@
   "id": 387300061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749068,30.694997,-97.749068,30.694997",
     "geom:latitude":30.694997,
     "geom:longitude":-97.749068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Fountainwood Cir",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387300061,
-    "wof:lastmodified":1449058251,
+    "wof:lastmodified":1467084839,
     "wof:name":"Hearts N Hugs",
     "wof:parent_id":85893951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.749068,30.694997,-97.749068,30.694997],
-  "geometry": {"coordinates":[-97.749068,30.694997],"type":"Point"}
+  "bbox": [
+    -97.749068,
+    30.694997,
+    -97.749068,
+    30.694997
+],
+  "geometry": {"coordinates":[-97.74906799999999,30.694997],"type":"Point"}
 }

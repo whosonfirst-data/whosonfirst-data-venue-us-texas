@@ -2,13 +2,14 @@
   "id": 185612149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.258605,30.555764,-96.258605,30.555764",
     "geom:latitude":30.555764,
     "geom:longitude":-96.258605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Arrington Rd",
     "sg:city":"College Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185612149,
-    "wof:lastmodified":1449007318,
+    "wof:lastmodified":1467084124,
     "wof:name":"Bryan City Office",
     "wof:parent_id":85850441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.258605,30.555764,-96.258605,30.555764],
+  "bbox": [
+    -96.258605,
+    30.555764,
+    -96.258605,
+    30.555764
+],
   "geometry": {"coordinates":[-96.258605,30.555764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303088333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.81274,30.531243,-97.81274,30.531243",
     "geom:latitude":30.531243,
     "geom:longitude":-97.81274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Medical Pkwy Ste 311",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303088333,
-    "wof:lastmodified":1449000024,
+    "wof:lastmodified":1467083786,
     "wof:name":"Jonathan B Buten Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.81274,30.531243,-97.81274,30.531243],
-  "geometry": {"coordinates":[-97.81274,30.531243],"type":"Point"}
+  "bbox": [
+    -97.81274,
+    30.531243,
+    -97.81274,
+    30.531243
+],
+  "geometry": {"coordinates":[-97.81274000000001,30.531243],"type":"Point"}
 }

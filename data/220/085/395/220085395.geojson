@@ -2,13 +2,14 @@
   "id": 220085395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.395851,29.938585,-95.395851,29.938585",
     "geom:latitude":29.938585,
     "geom:longitude":-95.395851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Sam Houston Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220085395,
-    "wof:lastmodified":1449074235,
+    "wof:lastmodified":1467085181,
     "wof:name":"LA Barge Pipe & Steel Co",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tubing"
     ]
 },
-  "bbox": [-95.395851,29.938585,-95.395851,29.938585],
-  "geometry": {"coordinates":[-95.395851,29.938585],"type":"Point"}
+  "bbox": [
+    -95.395851,
+    29.938585,
+    -95.395851,
+    29.938585
+],
+  "geometry": {"coordinates":[-95.39585099999999,29.938585],"type":"Point"}
 }

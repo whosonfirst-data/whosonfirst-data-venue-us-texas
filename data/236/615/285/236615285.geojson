@@ -2,13 +2,14 @@
   "id": 236615285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.903801,32.674198,-96.903801,32.674198",
     "geom:latitude":32.674198,
     "geom:longitude":-96.903801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 N Main St",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236615285,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1467083911,
     "wof:name":"Main Street Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.903801,32.674198,-96.903801,32.674198],
+  "bbox": [
+    -96.903801,
+    32.674198,
+    -96.903801,
+    32.674198
+],
   "geometry": {"coordinates":[-96.903801,32.674198],"type":"Point"}
 }

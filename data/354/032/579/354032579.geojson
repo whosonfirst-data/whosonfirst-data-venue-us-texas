@@ -2,13 +2,14 @@
   "id": 354032579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.435582,31.783721,-106.435582,31.783721",
     "geom:latitude":31.783721,
     "geom:longitude":-106.435582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Montana Ave",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354032579,
-    "wof:lastmodified":1449066749,
+    "wof:lastmodified":1467085071,
     "wof:name":"Airway Auto Svc",
     "wof:parent_id":85871377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.435582,31.783721,-106.435582,31.783721],
+  "bbox": [
+    -106.435582,
+    31.783721,
+    -106.435582,
+    31.783721
+],
   "geometry": {"coordinates":[-106.435582,31.783721],"type":"Point"}
 }

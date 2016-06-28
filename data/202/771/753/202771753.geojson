@@ -2,13 +2,14 @@
   "id": 202771753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.024526,29.66572,-95.024526,29.66572",
     "geom:latitude":29.66572,
     "geom:longitude":-95.024526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N 5th St",
     "sg:city":"La Porte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202771753,
-    "wof:lastmodified":1449061485,
+    "wof:lastmodified":1467084917,
     "wof:name":"B&L Delivery Service Inc",
     "wof:parent_id":85804809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.024526,29.66572,-95.024526,29.66572],
-  "geometry": {"coordinates":[-95.024526,29.66572],"type":"Point"}
+  "bbox": [
+    -95.024526,
+    29.66572,
+    -95.024526,
+    29.66572
+],
+  "geometry": {"coordinates":[-95.02452599999999,29.66572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370389115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.813082,35.173238,-101.813082,35.173238",
     "geom:latitude":35.173238,
     "geom:longitude":-101.813082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 S Osage St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370389115,
-    "wof:lastmodified":1449031790,
+    "wof:lastmodified":1467084537,
     "wof:name":"Osage Water Plant",
     "wof:parent_id":85875855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-101.813082,35.173238,-101.813082,35.173238],
-  "geometry": {"coordinates":[-101.813082,35.173238],"type":"Point"}
+  "bbox": [
+    -101.813082,
+    35.173238,
+    -101.813082,
+    35.173238
+],
+  "geometry": {"coordinates":[-101.81308199999999,35.173238],"type":"Point"}
 }

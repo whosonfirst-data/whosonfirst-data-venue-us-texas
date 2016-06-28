@@ -2,13 +2,14 @@
   "id": 370614499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.27366,29.672555,-95.27366,29.672555",
     "geom:latitude":29.672555,
     "geom:longitude":-95.27366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7927 Bellfort St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370614499,
-    "wof:lastmodified":1449032574,
+    "wof:lastmodified":1467084557,
     "wof:name":"Kevon's Towing Svc",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.27366,29.672555,-95.27366,29.672555],
-  "geometry": {"coordinates":[-95.27366,29.672555],"type":"Point"}
+  "bbox": [
+    -95.27366,
+    29.672555,
+    -95.27366,
+    29.672555
+],
+  "geometry": {"coordinates":[-95.27366000000001,29.672555],"type":"Point"}
 }

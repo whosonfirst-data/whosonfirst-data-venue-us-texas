@@ -2,13 +2,14 @@
   "id": 354232515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.501782,29.673345,-95.501782,29.673345",
     "geom:latitude":29.673345,
     "geom:longitude":-95.501782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6231 Queensloch Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354232515,
-    "wof:lastmodified":1449066458,
+    "wof:lastmodified":1467085064,
     "wof:name":"Computer Approach Inc",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-95.501782,29.673345,-95.501782,29.673345],
-  "geometry": {"coordinates":[-95.501782,29.673345],"type":"Point"}
+  "bbox": [
+    -95.501782,
+    29.673345,
+    -95.501782,
+    29.673345
+],
+  "geometry": {"coordinates":[-95.50178200000001,29.673345],"type":"Point"}
 }

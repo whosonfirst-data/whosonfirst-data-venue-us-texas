@@ -2,13 +2,14 @@
   "id": 370811255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743508,32.949975,-96.743508,32.949975",
     "geom:latitude":32.949975,
     "geom:longitude":-96.743508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Devonshire Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370811255,
-    "wof:lastmodified":1449030722,
+    "wof:lastmodified":1467084510,
     "wof:name":"Cuisine By Design",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.743508,32.949975,-96.743508,32.949975],
-  "geometry": {"coordinates":[-96.743508,32.949975],"type":"Point"}
+  "bbox": [
+    -96.743508,
+    32.949975,
+    -96.743508,
+    32.949975
+],
+  "geometry": {"coordinates":[-96.74350800000001,32.949975],"type":"Point"}
 }

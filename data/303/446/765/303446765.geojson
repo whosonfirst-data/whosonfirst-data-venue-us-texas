@@ -2,13 +2,14 @@
   "id": 303446765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.743608,30.446025,-97.743608,30.446025",
     "geom:latitude":30.446025,
     "geom:longitude":-97.743608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 W Parmer Ln Ste 102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303446765,
-    "wof:lastmodified":1449000358,
+    "wof:lastmodified":1467083802,
     "wof:name":"Dominion Family Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "medicine"
     ]
 },
-  "bbox": [-97.743608,30.446025,-97.743608,30.446025],
-  "geometry": {"coordinates":[-97.743608,30.446025],"type":"Point"}
+  "bbox": [
+    -97.743608,
+    30.446025,
+    -97.743608,
+    30.446025
+],
+  "geometry": {"coordinates":[-97.74360799999999,30.446025],"type":"Point"}
 }

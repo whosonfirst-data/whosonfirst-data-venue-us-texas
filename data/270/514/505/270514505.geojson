@@ -2,13 +2,14 @@
   "id": 270514505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.522387,29.695689,-95.522387,29.695689",
     "geom:latitude":29.695689,
     "geom:longitude":-95.522387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7737 Southwest Fwy Ste 630",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270514505,
-    "wof:lastmodified":1449009867,
+    "wof:lastmodified":1467084190,
     "wof:name":"The Houston Ear Research Foundation",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "ear"
     ]
 },
-  "bbox": [-95.522387,29.695689,-95.522387,29.695689],
-  "geometry": {"coordinates":[-95.522387,29.695689],"type":"Point"}
+  "bbox": [
+    -95.522387,
+    29.695689,
+    -95.522387,
+    29.695689
+],
+  "geometry": {"coordinates":[-95.52238699999999,29.695689],"type":"Point"}
 }

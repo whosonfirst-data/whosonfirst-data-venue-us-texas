@@ -2,13 +2,14 @@
   "id": 202441823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.763529,30.156599,-93.763529,30.156599",
     "geom:latitude":30.156599,
     "geom:longitude":-93.763529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 Huntsman St",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202441823,
-    "wof:lastmodified":1449060307,
+    "wof:lastmodified":1467084891,
     "wof:name":"Jt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-93.763529,30.156599,-93.763529,30.156599],
-  "geometry": {"coordinates":[-93.763529,30.156599],"type":"Point"}
+  "bbox": [
+    -93.763529,
+    30.156599,
+    -93.763529,
+    30.156599
+],
+  "geometry": {"coordinates":[-93.76352900000001,30.156599],"type":"Point"}
 }

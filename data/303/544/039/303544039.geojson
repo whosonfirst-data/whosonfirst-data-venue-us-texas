@@ -2,13 +2,14 @@
   "id": 303544039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.971669,30.311429,-97.971669,30.311429",
     "geom:latitude":30.311429,
     "geom:longitude":-97.971669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14623 W Highway 71",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303544039,
-    "wof:lastmodified":1449000563,
+    "wof:lastmodified":1467083813,
     "wof:name":"Randall Electric",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-97.971669,30.311429,-97.971669,30.311429],
-  "geometry": {"coordinates":[-97.971669,30.311429],"type":"Point"}
+  "bbox": [
+    -97.971669,
+    30.311429,
+    -97.971669,
+    30.311429
+],
+  "geometry": {"coordinates":[-97.97166900000001,30.311429],"type":"Point"}
 }

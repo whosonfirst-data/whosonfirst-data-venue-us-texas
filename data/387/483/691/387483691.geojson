@@ -2,13 +2,14 @@
   "id": 387483691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.735082,29.429796,-98.735082,29.429796",
     "geom:latitude":29.429796,
     "geom:longitude":-98.735082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12286 Potranco Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":387483691,
-    "wof:lastmodified":1449059101,
+    "wof:lastmodified":1467084861,
     "wof:name":"Ramos Contracting Inc",
     "wof:parent_id":85837993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "utility"
     ]
 },
-  "bbox": [-98.735082,29.429796,-98.735082,29.429796],
-  "geometry": {"coordinates":[-98.735082,29.429796],"type":"Point"}
+  "bbox": [
+    -98.735082,
+    29.429796,
+    -98.735082,
+    29.429796
+],
+  "geometry": {"coordinates":[-98.73508200000001,29.429796],"type":"Point"}
 }

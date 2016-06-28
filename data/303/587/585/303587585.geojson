@@ -2,13 +2,14 @@
   "id": 303587585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.845955,30.184606,-97.845955,30.184606",
     "geom:latitude":30.184606,
     "geom:longitude":-97.845955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Brodie Ln Ste 160-239",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303587585,
-    "wof:lastmodified":1448998956,
+    "wof:lastmodified":1467083734,
     "wof:name":"VB Consulting",
     "wof:parent_id":85869991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.845955,30.184606,-97.845955,30.184606],
+  "bbox": [
+    -97.845955,
+    30.184606,
+    -97.845955,
+    30.184606
+],
   "geometry": {"coordinates":[-97.845955,30.184606],"type":"Point"}
 }

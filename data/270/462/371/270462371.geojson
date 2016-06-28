@@ -2,13 +2,14 @@
   "id": 270462371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538803,29.721201,-95.538803,29.721201",
     "geom:latitude":29.721201,
     "geom:longitude":-95.538803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3963 S Gessner Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270462371,
-    "wof:lastmodified":1449011037,
+    "wof:lastmodified":1467084229,
     "wof:name":"Apartment Living Locators",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "property"
     ]
 },
-  "bbox": [-95.538803,29.721201,-95.538803,29.721201],
+  "bbox": [
+    -95.538803,
+    29.721201,
+    -95.538803,
+    29.721201
+],
   "geometry": {"coordinates":[-95.538803,29.721201],"type":"Point"}
 }

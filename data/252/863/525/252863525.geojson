@@ -2,13 +2,14 @@
   "id": 252863525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833092,32.705029,-96.833092,32.705029",
     "geom:latitude":32.705029,
     "geom:longitude":-96.833092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Kiest Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252863525,
-    "wof:lastmodified":1449006145,
+    "wof:lastmodified":1467084088,
     "wof:name":"Kiest Blvd Shell",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.833092,32.705029,-96.833092,32.705029],
-  "geometry": {"coordinates":[-96.833092,32.705029],"type":"Point"}
+  "bbox": [
+    -96.833092,
+    32.705029,
+    -96.833092,
+    32.705029
+],
+  "geometry": {"coordinates":[-96.83309199999999,32.705029],"type":"Point"}
 }

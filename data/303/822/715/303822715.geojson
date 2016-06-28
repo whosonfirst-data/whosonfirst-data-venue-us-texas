@@ -2,13 +2,14 @@
   "id": 303822715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.765748,30.432777,-97.765748,30.432777",
     "geom:latitude":30.432777,
     "geom:longitude":-97.765748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12701 Research Blvd Suite 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303822715,
-    "wof:lastmodified":1449000492,
+    "wof:lastmodified":1467083809,
     "wof:name":"McCormick Vision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-97.765748,30.432777,-97.765748,30.432777],
+  "bbox": [
+    -97.765748,
+    30.432777,
+    -97.765748,
+    30.432777
+],
   "geometry": {"coordinates":[-97.765748,30.432777],"type":"Point"}
 }

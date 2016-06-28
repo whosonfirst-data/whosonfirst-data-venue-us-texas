@@ -2,13 +2,14 @@
   "id": 219770187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807475,32.780411,-96.807475,32.780411",
     "geom:latitude":32.780411,
     "geom:longitude":-96.807475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Record St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219770187,
-    "wof:lastmodified":1449073995,
+    "wof:lastmodified":1467085176,
     "wof:name":"West End Pub",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.807475,32.780411,-96.807475,32.780411],
+  "bbox": [
+    -96.807475,
+    32.780411,
+    -96.807475,
+    32.780411
+],
   "geometry": {"coordinates":[-96.807475,32.780411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220000295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.865603,32.607771,-96.865603,32.607771",
     "geom:latitude":32.607771,
     "geom:longitude":-96.865603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Ten Mile Dr",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220000295,
-    "wof:lastmodified":1449074163,
+    "wof:lastmodified":1467085179,
     "wof:name":"First Call Casket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.865603,32.607771,-96.865603,32.607771],
-  "geometry": {"coordinates":[-96.865603,32.607771],"type":"Point"}
+  "bbox": [
+    -96.865603,
+    32.607771,
+    -96.865603,
+    32.607771
+],
+  "geometry": {"coordinates":[-96.86560299999999,32.607771],"type":"Point"}
 }

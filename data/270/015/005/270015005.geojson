@@ -2,13 +2,14 @@
   "id": 270015005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.442703,29.809601,-95.442703,29.809601",
     "geom:latitude":29.809601,
     "geom:longitude":-95.442703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2772 W T C Jester Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270015005,
-    "wof:lastmodified":1449009187,
+    "wof:lastmodified":1467084168,
     "wof:name":"Pilgrim Cleaners",
     "wof:parent_id":85869411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.442703,29.809601,-95.442703,29.809601],
-  "geometry": {"coordinates":[-95.442703,29.809601],"type":"Point"}
+  "bbox": [
+    -95.442703,
+    29.809601,
+    -95.442703,
+    29.809601
+],
+  "geometry": {"coordinates":[-95.44270299999999,29.809601],"type":"Point"}
 }

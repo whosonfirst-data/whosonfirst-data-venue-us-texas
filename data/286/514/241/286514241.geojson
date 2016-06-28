@@ -2,13 +2,14 @@
   "id": 286514241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.056277,30.797508,-95.056277,30.797508",
     "geom:latitude":30.797508,
     "geom:longitude":-95.056277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8924 U S Highway 190 E",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286514241,
-    "wof:lastmodified":1449016671,
+    "wof:lastmodified":1467084277,
     "wof:name":"Windows & Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.056277,30.797508,-95.056277,30.797508],
-  "geometry": {"coordinates":[-95.056277,30.797508],"type":"Point"}
+  "bbox": [
+    -95.056277,
+    30.797508,
+    -95.056277,
+    30.797508
+],
+  "geometry": {"coordinates":[-95.05627699999999,30.797508],"type":"Point"}
 }

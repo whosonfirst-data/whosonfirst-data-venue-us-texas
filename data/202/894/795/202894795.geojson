@@ -2,13 +2,14 @@
   "id": 202894795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.480195,30.040375,-95.480195,30.040375",
     "geom:latitude":30.040375,
     "geom:longitude":-95.480195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 Marywood Dr",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202894795,
-    "wof:lastmodified":1449061157,
+    "wof:lastmodified":1467084910,
     "wof:name":"Leaky Pen Software LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-95.480195,30.040375,-95.480195,30.040375],
-  "geometry": {"coordinates":[-95.480195,30.040375],"type":"Point"}
+  "bbox": [
+    -95.480195,
+    30.040375,
+    -95.480195,
+    30.040375
+],
+  "geometry": {"coordinates":[-95.48019499999999,30.040375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286578223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.455492,30.17281,-95.455492,30.17281",
     "geom:latitude":30.17281,
     "geom:longitude":-95.455492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Medical Plaza Dr",
     "sg:city":"Shenandoah",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286578223,
-    "wof:lastmodified":1449015906,
+    "wof:lastmodified":1467084256,
     "wof:name":"Primary Care Specialists",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.455492,30.17281,-95.455492,30.17281],
-  "geometry": {"coordinates":[-95.455492,30.17281],"type":"Point"}
+  "bbox": [
+    -95.455492,
+    30.17281,
+    -95.455492,
+    30.17281
+],
+  "geometry": {"coordinates":[-95.45549200000001,30.17281],"type":"Point"}
 }

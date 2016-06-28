@@ -2,13 +2,14 @@
   "id": 303812295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760857,30.37461,-97.760857,30.37461",
     "geom:latitude":30.37461,
     "geom:longitude":-97.760857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Spicewood Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303812295,
-    "wof:lastmodified":1448998185,
+    "wof:lastmodified":1467083694,
     "wof:name":"Austin & Company",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.760857,30.37461,-97.760857,30.37461],
+  "bbox": [
+    -97.760857,
+    30.37461,
+    -97.760857,
+    30.37461
+],
   "geometry": {"coordinates":[-97.760857,30.37461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303869235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159489,30.008596,-97.159489,30.008596",
     "geom:latitude":30.008596,
     "geom:longitude":-97.159489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Main St",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303869235,
-    "wof:lastmodified":1449000370,
+    "wof:lastmodified":1467083803,
     "wof:name":"Patricia Wolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.159489,30.008596,-97.159489,30.008596],
-  "geometry": {"coordinates":[-97.159489,30.008596],"type":"Point"}
+  "bbox": [
+    -97.159489,
+    30.008596,
+    -97.159489,
+    30.008596
+],
+  "geometry": {"coordinates":[-97.15948899999999,30.008596],"type":"Point"}
 }

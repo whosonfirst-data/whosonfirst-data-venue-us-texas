@@ -2,13 +2,14 @@
   "id": 303205649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749195,30.273966,-97.749195,30.273966",
     "geom:latitude":30.273966,
     "geom:longitude":-97.749195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 West Ave Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303205649,
-    "wof:lastmodified":1448999599,
+    "wof:lastmodified":1467083766,
     "wof:name":"West Austin Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.749195,30.273966,-97.749195,30.273966],
+  "bbox": [
+    -97.749195,
+    30.273966,
+    -97.749195,
+    30.273966
+],
   "geometry": {"coordinates":[-97.749195,30.273966],"type":"Point"}
 }

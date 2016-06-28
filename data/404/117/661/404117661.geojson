@@ -2,13 +2,14 @@
   "id": 404117661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.051382,29.669576,-95.051382,29.669576",
     "geom:latitude":29.669576,
     "geom:longitude":-95.051382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Spencer Lndg E",
     "sg:city":"La Porte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404117661,
-    "wof:lastmodified":1449039947,
+    "wof:lastmodified":1467084654,
     "wof:name":"Car Spot",
     "wof:parent_id":85804809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.051382,29.669576,-95.051382,29.669576],
+  "bbox": [
+    -95.051382,
+    29.669576,
+    -95.051382,
+    29.669576
+],
   "geometry": {"coordinates":[-95.051382,29.669576],"type":"Point"}
 }

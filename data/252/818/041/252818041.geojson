@@ -2,13 +2,14 @@
   "id": 252818041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802378,32.822033,-96.802378,32.822033",
     "geom:latitude":32.822033,
     "geom:longitude":-96.802378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Oak Lawn Ave Ste 650",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252818041,
-    "wof:lastmodified":1449005943,
+    "wof:lastmodified":1467084077,
     "wof:name":"Gateway Green Energy",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-96.802378,32.822033,-96.802378,32.822033],
+  "bbox": [
+    -96.802378,
+    32.822033,
+    -96.802378,
+    32.822033
+],
   "geometry": {"coordinates":[-96.802378,32.822033],"type":"Point"}
 }

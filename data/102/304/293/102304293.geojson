@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304293",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.850648,35.207227,-101.850648,35.207227",
     "geom:latitude":35.207227,
     "geom:longitude":-101.850648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 W 8th Ave",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875857,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102304293",
-    "wof:lastmodified":1449069587,
+    "wof:lastmodified":1467085097,
     "wof:name":"Tascosa Office Solutions",
     "wof:parent_id":85875857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.850648,35.207227,-101.850648,35.207227],
-  "geometry": {"coordinates":[-101.850648,35.207227],"type":"Point"}
+  "bbox": [
+    -101.850648,
+    35.207227,
+    -101.850648,
+    35.207227
+],
+  "geometry": {"coordinates":[-101.85064800000001,35.207227],"type":"Point"}
 }

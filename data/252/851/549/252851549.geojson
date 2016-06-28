@@ -2,13 +2,14 @@
   "id": 252851549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734679,30.260512,-97.734679,30.260512",
     "geom:latitude":30.260512,
     "geom:longitude":-97.734679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 E Cesar Chavez St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252851549,
-    "wof:lastmodified":1449006116,
+    "wof:lastmodified":1467084087,
     "wof:name":"First Street Auto Sales",
     "wof:parent_id":85869867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.734679,30.260512,-97.734679,30.260512],
+  "bbox": [
+    -97.734679,
+    30.260512,
+    -97.734679,
+    30.260512
+],
   "geometry": {"coordinates":[-97.734679,30.260512],"type":"Point"}
 }

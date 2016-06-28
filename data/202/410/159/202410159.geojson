@@ -2,13 +2,14 @@
   "id": 202410159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.279496,32.827825,-97.279496,32.827825",
     "geom:latitude":32.827825,
     "geom:longitude":-97.279496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 Old Denton Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202410159,
-    "wof:lastmodified":1449060142,
+    "wof:lastmodified":1467084888,
     "wof:name":"Malco Automotive & Ind Chem",
     "wof:parent_id":85897371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.279496,32.827825,-97.279496,32.827825],
-  "geometry": {"coordinates":[-97.279496,32.827825],"type":"Point"}
+  "bbox": [
+    -97.279496,
+    32.827825,
+    -97.279496,
+    32.827825
+],
+  "geometry": {"coordinates":[-97.27949599999999,32.827825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203267913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.725062,32.983151,-96.725062,32.983151",
     "geom:latitude":32.983151,
     "geom:longitude":-96.725062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Fallcreek Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203267913,
-    "wof:lastmodified":1449026694,
+    "wof:lastmodified":1467084417,
     "wof:name":"A Better Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineering"
     ]
 },
-  "bbox": [-96.725062,32.983151,-96.725062,32.983151],
-  "geometry": {"coordinates":[-96.725062,32.983151],"type":"Point"}
+  "bbox": [
+    -96.725062,
+    32.983151,
+    -96.725062,
+    32.983151
+],
+  "geometry": {"coordinates":[-96.72506199999999,32.983151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252802265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.717649,32.730876,-96.717649,32.730876",
     "geom:latitude":32.730876,
     "geom:longitude":-96.717649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Pemberton Hill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252802265,
-    "wof:lastmodified":1449006306,
+    "wof:lastmodified":1467084097,
     "wof:name":"R.I.C. Church",
     "wof:parent_id":85870477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.717649,32.730876,-96.717649,32.730876],
-  "geometry": {"coordinates":[-96.717649,32.730876],"type":"Point"}
+  "bbox": [
+    -96.717649,
+    32.730876,
+    -96.717649,
+    32.730876
+],
+  "geometry": {"coordinates":[-96.71764899999999,32.730876],"type":"Point"}
 }

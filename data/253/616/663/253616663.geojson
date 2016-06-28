@@ -2,13 +2,14 @@
   "id": 253616663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.092715,32.734121,-97.092715,32.734121",
     "geom:latitude":32.734121,
     "geom:longitude":-97.092715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Dugan St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253616663,
-    "wof:lastmodified":1449065003,
+    "wof:lastmodified":1467085020,
     "wof:name":"Meadowbrook Golf Course",
     "wof:parent_id":85893487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-97.092715,32.734121,-97.092715,32.734121],
+  "bbox": [
+    -97.092715,
+    32.734121,
+    -97.092715,
+    32.734121
+],
   "geometry": {"coordinates":[-97.092715,32.734121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202562203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.98493,33.021436,-96.98493,33.021436",
     "geom:latitude":33.021436,
     "geom:longitude":-96.98493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Stemmons Fwy",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202562203,
-    "wof:lastmodified":1449061453,
+    "wof:lastmodified":1467084916,
     "wof:name":"Enterprise Leasing 09a5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-96.98493,33.021436,-96.98493,33.021436],
-  "geometry": {"coordinates":[-96.98493,33.021436],"type":"Point"}
+  "bbox": [
+    -96.98493,
+    33.021436,
+    -96.98493,
+    33.021436
+],
+  "geometry": {"coordinates":[-96.98493000000001,33.021436],"type":"Point"}
 }

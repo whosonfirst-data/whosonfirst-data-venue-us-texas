@@ -2,13 +2,14 @@
   "id": 169813619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359483,29.744767,-95.359483,29.744767",
     "geom:latitude":29.744767,
     "geom:longitude":-95.359483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Jefferson St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169813619,
-    "wof:lastmodified":1449033541,
+    "wof:lastmodified":1467084561,
     "wof:name":"Hanh Tax",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.359483,29.744767,-95.359483,29.744767],
+  "bbox": [
+    -95.359483,
+    29.744767,
+    -95.359483,
+    29.744767
+],
   "geometry": {"coordinates":[-95.359483,29.744767],"type":"Point"}
 }

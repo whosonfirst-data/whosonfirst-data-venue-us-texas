@@ -2,13 +2,14 @@
   "id": 387892533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141203,30.055571,-94.141203,30.055571",
     "geom:latitude":30.055571,
     "geom:longitude":-94.141203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 Washington Blvd",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387892533,
-    "wof:lastmodified":1449056662,
+    "wof:lastmodified":1467084799,
     "wof:name":"Health Associates",
     "wof:parent_id":85808833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-94.141203,30.055571,-94.141203,30.055571],
+  "bbox": [
+    -94.141203,
+    30.055571,
+    -94.141203,
+    30.055571
+],
   "geometry": {"coordinates":[-94.141203,30.055571],"type":"Point"}
 }

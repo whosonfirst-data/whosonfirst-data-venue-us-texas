@@ -2,13 +2,14 @@
   "id": 253262269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892451,31.311102,-96.892451,31.311102",
     "geom:latitude":31.311102,
     "geom:longitude":-96.892451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Carter St",
     "sg:city":"Marlin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253262269,
-    "wof:lastmodified":1449064648,
+    "wof:lastmodified":1467085008,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.892451,31.311102,-96.892451,31.311102],
-  "geometry": {"coordinates":[-96.892451,31.311102],"type":"Point"}
+  "bbox": [
+    -96.892451,
+    31.311102,
+    -96.892451,
+    31.311102
+],
+  "geometry": {"coordinates":[-96.89245099999999,31.311102],"type":"Point"}
 }

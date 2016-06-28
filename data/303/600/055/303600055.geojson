@@ -2,13 +2,14 @@
   "id": 303600055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.802116,30.197491,-97.802116,30.197491",
     "geom:latitude":30.197491,
     "geom:longitude":-97.802116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Matthews Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303600055,
-    "wof:lastmodified":1448998343,
+    "wof:lastmodified":1467083702,
     "wof:name":"Mortgage Rescue",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "processing"
     ]
 },
-  "bbox": [-97.802116,30.197491,-97.802116,30.197491],
+  "bbox": [
+    -97.802116,
+    30.197491,
+    -97.802116,
+    30.197491
+],
   "geometry": {"coordinates":[-97.802116,30.197491],"type":"Point"}
 }

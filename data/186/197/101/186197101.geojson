@@ -2,13 +2,14 @@
   "id": 186197101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348013,32.204101,-95.348013,32.204101",
     "geom:latitude":32.204101,
     "geom:longitude":-95.348013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10678 FM 346 W",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186197101,
-    "wof:lastmodified":1449052675,
+    "wof:lastmodified":1467084740,
     "wof:name":"Bubba's Texas Grill",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.348013,32.204101,-95.348013,32.204101],
-  "geometry": {"coordinates":[-95.348013,32.204101],"type":"Point"}
+  "bbox": [
+    -95.348013,
+    32.204101,
+    -95.348013,
+    32.204101
+],
+  "geometry": {"coordinates":[-95.34801299999999,32.204101],"type":"Point"}
 }

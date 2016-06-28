@@ -2,13 +2,14 @@
   "id": 186381367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526018,29.469562,-98.526018,29.469562",
     "geom:latitude":29.469562,
     "geom:longitude":-98.526018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 West Ave",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186381367,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1467084697,
     "wof:name":"Stop N Go",
     "wof:parent_id":85871059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.526018,29.469562,-98.526018,29.469562],
-  "geometry": {"coordinates":[-98.526018,29.469562],"type":"Point"}
+  "bbox": [
+    -98.526018,
+    29.469562,
+    -98.526018,
+    29.469562
+],
+  "geometry": {"coordinates":[-98.52601799999999,29.469562],"type":"Point"}
 }

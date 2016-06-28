@@ -2,13 +2,14 @@
   "id": 203205669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.662461,32.908933,-96.662461,32.908933",
     "geom:latitude":32.908933,
     "geom:longitude":-96.662461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Forest Ln",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203205669,
-    "wof:lastmodified":1449026077,
+    "wof:lastmodified":1467084406,
     "wof:name":"Painology",
     "wof:parent_id":85877673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.662461,32.908933,-96.662461,32.908933],
-  "geometry": {"coordinates":[-96.662461,32.908933],"type":"Point"}
+  "bbox": [
+    -96.662461,
+    32.908933,
+    -96.662461,
+    32.908933
+],
+  "geometry": {"coordinates":[-96.66246099999999,32.908933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270032261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.299202,29.7752,-95.299202,29.7752",
     "geom:latitude":29.7752,
     "geom:longitude":-95.299202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7065 East Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270032261,
-    "wof:lastmodified":1449009827,
+    "wof:lastmodified":1467084189,
     "wof:name":"East Freeway Hardware and Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.299202,29.7752,-95.299202,29.7752],
-  "geometry": {"coordinates":[-95.299202,29.7752],"type":"Point"}
+  "bbox": [
+    -95.299202,
+    29.7752,
+    -95.299202,
+    29.7752
+],
+  "geometry": {"coordinates":[-95.29920199999999,29.7752],"type":"Point"}
 }

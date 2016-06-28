@@ -2,13 +2,14 @@
   "id": 186134377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.48201,30.423516,-95.48201,30.423516",
     "geom:latitude":30.423516,
     "geom:longitude":-95.48201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Montgomery St",
     "sg:city":"Willis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186134377,
-    "wof:lastmodified":1449052885,
+    "wof:lastmodified":1467084744,
     "wof:name":"Ada Dental Ctr",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.48201,30.423516,-95.48201,30.423516],
+  "bbox": [
+    -95.48201,
+    30.423516,
+    -95.48201,
+    30.423516
+],
   "geometry": {"coordinates":[-95.48201,30.423516],"type":"Point"}
 }

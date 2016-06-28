@@ -2,13 +2,14 @@
   "id": 219432359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.298055,32.481796,-95.298055,32.481796",
     "geom:latitude":32.481796,
     "geom:longitude":-95.298055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1638 Park Rd 16",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219432359,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1467085098,
     "wof:name":"Region 8 Office",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parks"
     ]
 },
-  "bbox": [-95.298055,32.481796,-95.298055,32.481796],
-  "geometry": {"coordinates":[-95.298055,32.481796],"type":"Point"}
+  "bbox": [
+    -95.298055,
+    32.481796,
+    -95.298055,
+    32.481796
+],
+  "geometry": {"coordinates":[-95.29805500000001,32.481796],"type":"Point"}
 }

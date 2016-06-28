@@ -2,13 +2,14 @@
   "id": 219187623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.584207,29.782873,-95.584207,29.782873",
     "geom:latitude":29.782873,
     "geom:longitude":-95.584207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13750 Britoak Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219187623,
-    "wof:lastmodified":1449070914,
+    "wof:lastmodified":1467085111,
     "wof:name":"Davis Dental",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.584207,29.782873,-95.584207,29.782873],
-  "geometry": {"coordinates":[-95.584207,29.782873],"type":"Point"}
+  "bbox": [
+    -95.584207,
+    29.782873,
+    -95.584207,
+    29.782873
+],
+  "geometry": {"coordinates":[-95.58420700000001,29.782873],"type":"Point"}
 }

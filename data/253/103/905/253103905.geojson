@@ -2,13 +2,14 @@
   "id": 253103905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.392927,29.561721,-98.392927,29.561721",
     "geom:latitude":29.561721,
     "geom:longitude":-98.392927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13220 Nacogdoches Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253103905,
-    "wof:lastmodified":1449064662,
+    "wof:lastmodified":1467085008,
     "wof:name":"Hwy 2252 Rooms",
     "wof:parent_id":85848613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-98.392927,29.561721,-98.392927,29.561721],
+  "bbox": [
+    -98.392927,
+    29.561721,
+    -98.392927,
+    29.561721
+],
   "geometry": {"coordinates":[-98.392927,29.561721],"type":"Point"}
 }

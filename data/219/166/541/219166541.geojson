@@ -2,13 +2,14 @@
   "id": 219166541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.324014,32.540168,-97.324014,32.540168",
     "geom:latitude":32.540168,
     "geom:longitude":-97.324014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Bransom St",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219166541,
-    "wof:lastmodified":1449072344,
+    "wof:lastmodified":1467085141,
     "wof:name":"Burleson Fire Dept",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.324014,32.540168,-97.324014,32.540168],
-  "geometry": {"coordinates":[-97.324014,32.540168],"type":"Point"}
+  "bbox": [
+    -97.324014,
+    32.540168,
+    -97.324014,
+    32.540168
+],
+  "geometry": {"coordinates":[-97.32401400000001,32.540168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353490883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.570996,29.86197,-95.570996,29.86197",
     "geom:latitude":29.86197,
     "geom:longitude":-95.570996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11030 Kirwin Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353490883,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1467084371,
     "wof:name":"Liberty Tree Svc",
     "wof:parent_id":85893783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-95.570996,29.86197,-95.570996,29.86197],
-  "geometry": {"coordinates":[-95.570996,29.86197],"type":"Point"}
+  "bbox": [
+    -95.570996,
+    29.86197,
+    -95.570996,
+    29.86197
+],
+  "geometry": {"coordinates":[-95.57099599999999,29.86197],"type":"Point"}
 }

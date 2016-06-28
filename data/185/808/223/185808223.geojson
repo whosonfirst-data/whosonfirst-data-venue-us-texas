@@ -2,13 +2,14 @@
   "id": 185808223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.335645,29.745498,-95.335645,29.745498",
     "geom:latitude":29.745498,
     "geom:longitude":-95.335645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3917 Harrisburg Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185808223,
-    "wof:lastmodified":1449006650,
+    "wof:lastmodified":1467084112,
     "wof:name":"Gonzalez & Sons Wrecker Svc",
     "wof:parent_id":85869285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.335645,29.745498,-95.335645,29.745498],
+  "bbox": [
+    -95.335645,
+    29.745498,
+    -95.335645,
+    29.745498
+],
   "geometry": {"coordinates":[-95.335645,29.745498],"type":"Point"}
 }

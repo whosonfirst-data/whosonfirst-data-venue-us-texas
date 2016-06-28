@@ -2,13 +2,14 @@
   "id": 186492881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.611016,30.361126,-95.611016,30.361126",
     "geom:latitude":30.361126,
     "geom:longitude":-95.611016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Navajo Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186492881,
-    "wof:lastmodified":1449050251,
+    "wof:lastmodified":1467084692,
     "wof:name":"Hamilton & Assoc Builing",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-95.611016,30.361126,-95.611016,30.361126],
-  "geometry": {"coordinates":[-95.611016,30.361126],"type":"Point"}
+  "bbox": [
+    -95.611016,
+    30.361126,
+    -95.611016,
+    30.361126
+],
+  "geometry": {"coordinates":[-95.61101600000001,30.361126],"type":"Point"}
 }

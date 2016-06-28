@@ -2,13 +2,14 @@
   "id": 253479509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.491036,32.779842,-94.491036,32.779842",
     "geom:latitude":32.779842,
     "geom:longitude":-94.491036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Navajo Trl",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":253479509,
-    "wof:lastmodified":1449064865,
+    "wof:lastmodified":1467085015,
     "wof:name":"Pine Harbor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.491036,32.779842,-94.491036,32.779842],
-  "geometry": {"coordinates":[-94.491036,32.779842],"type":"Point"}
+  "bbox": [
+    -94.491036,
+    32.779842,
+    -94.491036,
+    32.779842
+],
+  "geometry": {"coordinates":[-94.49103599999999,32.779842],"type":"Point"}
 }

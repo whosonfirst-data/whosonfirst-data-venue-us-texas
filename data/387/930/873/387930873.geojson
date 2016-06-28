@@ -2,13 +2,14 @@
   "id": 387930873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.872103,30.29277,-98.872103,30.29277",
     "geom:latitude":30.29277,
     "geom:longitude":-98.872103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Cross Mountain Dr",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387930873,
-    "wof:lastmodified":1449057313,
+    "wof:lastmodified":1467084815,
     "wof:name":"B M P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-98.872103,30.29277,-98.872103,30.29277],
+  "bbox": [
+    -98.872103,
+    30.29277,
+    -98.872103,
+    30.29277
+],
   "geometry": {"coordinates":[-98.872103,30.29277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236203111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.560944,33.870148,-98.560944,33.870148",
     "geom:latitude":33.870148,
     "geom:longitude":-98.560944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4217 Fairway Blvd",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236203111,
-    "wof:lastmodified":1449003057,
+    "wof:lastmodified":1467083935,
     "wof:name":"Harris Chiropractic PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.560944,33.870148,-98.560944,33.870148],
-  "geometry": {"coordinates":[-98.560944,33.870148],"type":"Point"}
+  "bbox": [
+    -98.560944,
+    33.870148,
+    -98.560944,
+    33.870148
+],
+  "geometry": {"coordinates":[-98.56094400000001,33.870148],"type":"Point"}
 }

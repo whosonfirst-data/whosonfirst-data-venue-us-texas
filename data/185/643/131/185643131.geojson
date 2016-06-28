@@ -2,13 +2,14 @@
   "id": 185643131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.43295,29.181444,-95.43295,29.181444",
     "geom:latitude":29.181444,
     "geom:longitude":-95.43295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N Velasco St",
     "sg:city":"Angleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185643131,
-    "wof:lastmodified":1449008000,
+    "wof:lastmodified":1467084136,
     "wof:name":"Lube N Tune",
     "wof:parent_id":85829137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-95.43295,29.181444,-95.43295,29.181444],
-  "geometry": {"coordinates":[-95.43295,29.181444],"type":"Point"}
+  "bbox": [
+    -95.43295,
+    29.181444,
+    -95.43295,
+    29.181444
+],
+  "geometry": {"coordinates":[-95.43295000000001,29.181444],"type":"Point"}
 }

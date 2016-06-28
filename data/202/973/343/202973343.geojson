@@ -2,13 +2,14 @@
   "id": 202973343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.705069,31.33596,-94.705069,31.33596",
     "geom:latitude":31.33596,
     "geom:longitude":-94.705069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E Lufkin Ave",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202973343,
-    "wof:lastmodified":1449061641,
+    "wof:lastmodified":1467084920,
     "wof:name":"Moseley Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.705069,31.33596,-94.705069,31.33596],
-  "geometry": {"coordinates":[-94.705069,31.33596],"type":"Point"}
+  "bbox": [
+    -94.705069,
+    31.33596,
+    -94.705069,
+    31.33596
+],
+  "geometry": {"coordinates":[-94.70506899999999,31.33596],"type":"Point"}
 }

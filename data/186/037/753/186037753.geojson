@@ -2,13 +2,14 @@
   "id": 186037753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594661,31.829503,-106.594661,31.829503",
     "geom:latitude":31.829503,
     "geom:longitude":-106.594661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 W Sunset Rd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186037753,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1467084748,
     "wof:name":"West Texas Provider Svc",
     "wof:parent_id":85835045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.594661,31.829503,-106.594661,31.829503],
+  "bbox": [
+    -106.594661,
+    31.829503,
+    -106.594661,
+    31.829503
+],
   "geometry": {"coordinates":[-106.594661,31.829503],"type":"Point"}
 }

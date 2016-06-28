@@ -2,13 +2,14 @@
   "id": 303479175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.755277,30.354621,-97.755277,30.354621",
     "geom:latitude":30.354621,
     "geom:longitude":-97.755277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 Far West Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303479175,
-    "wof:lastmodified":1448999790,
+    "wof:lastmodified":1467083775,
     "wof:name":"Steve's Liquor & Fine Wines",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-97.755277,30.354621,-97.755277,30.354621],
-  "geometry": {"coordinates":[-97.755277,30.354621],"type":"Point"}
+  "bbox": [
+    -97.755277,
+    30.354621,
+    -97.755277,
+    30.354621
+],
+  "geometry": {"coordinates":[-97.75527700000001,30.354621],"type":"Point"}
 }

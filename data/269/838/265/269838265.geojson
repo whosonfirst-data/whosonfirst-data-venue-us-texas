@@ -2,13 +2,14 @@
   "id": 269838265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.36956,29.75754,-95.36956,29.75754",
     "geom:latitude":29.75754,
     "geom:longitude":-95.36956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Smith St Ste 1060",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269838265,
-    "wof:lastmodified":1449036429,
+    "wof:lastmodified":1467084580,
     "wof:name":"Charles Grube Properties, Inc.",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.36956,29.75754,-95.36956,29.75754],
-  "geometry": {"coordinates":[-95.36956,29.75754],"type":"Point"}
+  "bbox": [
+    -95.36956,
+    29.75754,
+    -95.36956,
+    29.75754
+],
+  "geometry": {"coordinates":[-95.36956000000001,29.75754],"type":"Point"}
 }

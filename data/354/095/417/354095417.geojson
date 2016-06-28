@@ -2,13 +2,14 @@
   "id": 354095417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.808123,29.531856,-95.808123,29.531856",
     "geom:latitude":29.531856,
     "geom:longitude":-95.808123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3417 1st St",
     "sg:city":"Rosenberg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354095417,
-    "wof:lastmodified":1449066787,
+    "wof:lastmodified":1467085072,
     "wof:name":"Shell Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-95.808123,29.531856,-95.808123,29.531856],
-  "geometry": {"coordinates":[-95.808123,29.531856],"type":"Point"}
+  "bbox": [
+    -95.808123,
+    29.531856,
+    -95.808123,
+    29.531856
+],
+  "geometry": {"coordinates":[-95.80812299999999,29.531856],"type":"Point"}
 }

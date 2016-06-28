@@ -2,13 +2,14 @@
   "id": 236627417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801015,32.78017,-96.801015,32.78017",
     "geom:latitude":32.78017,
     "geom:longitude":-96.801015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236627417,
-    "wof:lastmodified":1449005329,
+    "wof:lastmodified":1467084044,
     "wof:name":"Jazzy Island Girls",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escort"
     ]
 },
-  "bbox": [-96.801015,32.78017,-96.801015,32.78017],
-  "geometry": {"coordinates":[-96.801015,32.78017],"type":"Point"}
+  "bbox": [
+    -96.801015,
+    32.78017,
+    -96.801015,
+    32.78017
+],
+  "geometry": {"coordinates":[-96.80101500000001,32.78017],"type":"Point"}
 }

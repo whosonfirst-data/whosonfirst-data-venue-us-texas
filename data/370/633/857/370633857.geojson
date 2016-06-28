@@ -2,13 +2,14 @@
   "id": 370633857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.366289,32.757061,-97.366289,32.757061",
     "geom:latitude":32.757061,
     "geom:longitude":-97.366289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Bailey Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370633857,
-    "wof:lastmodified":1449032438,
+    "wof:lastmodified":1467084553,
     "wof:name":"Royer & Schutts Commercial",
     "wof:parent_id":85871551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.366289,32.757061,-97.366289,32.757061],
-  "geometry": {"coordinates":[-97.366289,32.757061],"type":"Point"}
+  "bbox": [
+    -97.366289,
+    32.757061,
+    -97.366289,
+    32.757061
+],
+  "geometry": {"coordinates":[-97.36628899999999,32.757061],"type":"Point"}
 }

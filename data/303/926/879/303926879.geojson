@@ -2,13 +2,14 @@
   "id": 303926879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.837466,35.205431,-101.837466,35.205431",
     "geom:latitude":35.205431,
     "geom:longitude":-101.837466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 S Polk St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303926879,
-    "wof:lastmodified":1448998969,
+    "wof:lastmodified":1467083734,
     "wof:name":"Real Estate Concepts",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "broker"
     ]
 },
-  "bbox": [-101.837466,35.205431,-101.837466,35.205431],
-  "geometry": {"coordinates":[-101.837466,35.205431],"type":"Point"}
+  "bbox": [
+    -101.837466,
+    35.205431,
+    -101.837466,
+    35.205431
+],
+  "geometry": {"coordinates":[-101.83746600000001,35.205431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270003999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.269395,29.676645,-95.269395,29.676645",
     "geom:latitude":29.676645,
     "geom:longitude":-95.269395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 Gulf Fwy Ste 204",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270003999,
-    "wof:lastmodified":1449010911,
+    "wof:lastmodified":1467084225,
     "wof:name":"Third Coast Defensive Driving",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "traffic"
     ]
 },
-  "bbox": [-95.269395,29.676645,-95.269395,29.676645],
+  "bbox": [
+    -95.269395,
+    29.676645,
+    -95.269395,
+    29.676645
+],
   "geometry": {"coordinates":[-95.269395,29.676645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236155967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.740181,33.05328,-96.740181,33.05328",
     "geom:latitude":33.05328,
     "geom:longitude":-96.740181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Belmont Pl",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236155967,
-    "wof:lastmodified":1449004552,
+    "wof:lastmodified":1467084006,
     "wof:name":"Ricardo R Kasmiski",
     "wof:parent_id":85879921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dishwashing"
     ]
 },
-  "bbox": [-96.740181,33.05328,-96.740181,33.05328],
-  "geometry": {"coordinates":[-96.740181,33.05328],"type":"Point"}
+  "bbox": [
+    -96.740181,
+    33.05328,
+    -96.740181,
+    33.05328
+],
+  "geometry": {"coordinates":[-96.74018100000001,33.05328],"type":"Point"}
 }

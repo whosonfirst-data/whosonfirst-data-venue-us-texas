@@ -2,13 +2,14 @@
   "id": 253156943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766033,32.921259,-96.766033,32.921259",
     "geom:latitude":32.921259,
     "geom:longitude":-96.766033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12655 N Central Expy Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253156943,
-    "wof:lastmodified":1449063396,
+    "wof:lastmodified":1467084965,
     "wof:name":"Masterlink Interactive",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "web"
     ]
 },
-  "bbox": [-96.766033,32.921259,-96.766033,32.921259],
-  "geometry": {"coordinates":[-96.766033,32.921259],"type":"Point"}
+  "bbox": [
+    -96.766033,
+    32.921259,
+    -96.766033,
+    32.921259
+],
+  "geometry": {"coordinates":[-96.76603299999999,32.921259],"type":"Point"}
 }

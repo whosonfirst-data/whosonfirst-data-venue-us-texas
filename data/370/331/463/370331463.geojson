@@ -2,13 +2,14 @@
   "id": 370331463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.821373,26.38021,-98.821373,26.38021",
     "geom:latitude":26.38021,
     "geom:longitude":-98.821373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Texas St",
     "sg:city":"Rio Grande City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370331463,
-    "wof:lastmodified":1449031144,
+    "wof:lastmodified":1467084521,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-98.821373,26.38021,-98.821373,26.38021],
-  "geometry": {"coordinates":[-98.821373,26.38021],"type":"Point"}
+  "bbox": [
+    -98.821373,
+    26.38021,
+    -98.821373,
+    26.38021
+],
+  "geometry": {"coordinates":[-98.82137299999999,26.38021],"type":"Point"}
 }

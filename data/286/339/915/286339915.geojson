@@ -2,13 +2,14 @@
   "id": 286339915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.293017,29.686845,-95.293017,29.686845",
     "geom:latitude":29.686845,
     "geom:longitude":-95.293017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 Juniper St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286339915,
-    "wof:lastmodified":1449016500,
+    "wof:lastmodified":1467084272,
     "wof:name":"Avsco Houston",
     "wof:parent_id":85869623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "etched"
     ]
 },
-  "bbox": [-95.293017,29.686845,-95.293017,29.686845],
-  "geometry": {"coordinates":[-95.293017,29.686845],"type":"Point"}
+  "bbox": [
+    -95.293017,
+    29.686845,
+    -95.293017,
+    29.686845
+],
+  "geometry": {"coordinates":[-95.29301700000001,29.686845],"type":"Point"}
 }

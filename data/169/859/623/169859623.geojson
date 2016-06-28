@@ -2,13 +2,14 @@
   "id": 169859623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510892,31.794319,-106.510892,31.794319",
     "geom:latitude":31.794319,
     "geom:longitude":-106.510892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4164 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169859623,
-    "wof:lastmodified":1449035045,
+    "wof:lastmodified":1467084566,
     "wof:name":"Transmission Masters",
     "wof:parent_id":85834641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.510892,31.794319,-106.510892,31.794319],
+  "bbox": [
+    -106.510892,
+    31.794319,
+    -106.510892,
+    31.794319
+],
   "geometry": {"coordinates":[-106.510892,31.794319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370503435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.902559,35.201566,-101.902559,35.201566",
     "geom:latitude":35.201566,
     "geom:longitude":-101.902559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Bell St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370503435,
-    "wof:lastmodified":1449032482,
+    "wof:lastmodified":1467084554,
     "wof:name":"Moving Guys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-101.902559,35.201566,-101.902559,35.201566],
+  "bbox": [
+    -101.902559,
+    35.201566,
+    -101.902559,
+    35.201566
+],
   "geometry": {"coordinates":[-101.902559,35.201566],"type":"Point"}
 }

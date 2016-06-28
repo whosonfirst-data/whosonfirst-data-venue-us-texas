@@ -2,13 +2,14 @@
   "id": 186487629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04511,32.793389,-97.04511,32.793389",
     "geom:latitude":32.793389,
     "geom:longitude":-97.04511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Post N Paddock St",
     "sg:city":"Grand Prairie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186487629,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1467084710,
     "wof:name":"Rollins Truck Leasing",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.04511,32.793389,-97.04511,32.793389],
-  "geometry": {"coordinates":[-97.04511,32.793389],"type":"Point"}
+  "bbox": [
+    -97.04511,
+    32.793389,
+    -97.04511,
+    32.793389
+],
+  "geometry": {"coordinates":[-97.04510999999999,32.793389],"type":"Point"}
 }

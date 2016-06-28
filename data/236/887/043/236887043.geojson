@@ -2,13 +2,14 @@
   "id": 236887043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79085,32.797101,-96.79085,32.797101",
     "geom:latitude":32.797101,
     "geom:longitude":-96.79085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Hall St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236887043,
-    "wof:lastmodified":1449004461,
+    "wof:lastmodified":1467084001,
     "wof:name":"Shop & Go",
     "wof:parent_id":85870433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.79085,32.797101,-96.79085,32.797101],
-  "geometry": {"coordinates":[-96.79085,32.797101],"type":"Point"}
+  "bbox": [
+    -96.79085,
+    32.797101,
+    -96.79085,
+    32.797101
+],
+  "geometry": {"coordinates":[-96.79085000000001,32.797101],"type":"Point"}
 }

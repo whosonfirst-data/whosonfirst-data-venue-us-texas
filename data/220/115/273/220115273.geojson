@@ -2,13 +2,14 @@
   "id": 220115273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.418692,29.958233,-95.418692,29.958233",
     "geom:latitude":29.958233,
     "geom:longitude":-95.418692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13401 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220115273,
-    "wof:lastmodified":1449074053,
+    "wof:lastmodified":1467085177,
     "wof:name":"Bank of America",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.418692,29.958233,-95.418692,29.958233],
-  "geometry": {"coordinates":[-95.418692,29.958233],"type":"Point"}
+  "bbox": [
+    -95.418692,
+    29.958233,
+    -95.418692,
+    29.958233
+],
+  "geometry": {"coordinates":[-95.41869199999999,29.958233],"type":"Point"}
 }

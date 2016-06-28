@@ -2,13 +2,14 @@
   "id": 353809309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.308315,32.578875,-96.308315,32.578875",
     "geom:latitude":32.578875,
     "geom:longitude":-96.308315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 9th St",
     "sg:city":"Kaufman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353809309,
-    "wof:lastmodified":1449020365,
+    "wof:lastmodified":1467084367,
     "wof:name":"Rosehaven Retirement Residents",
     "wof:parent_id":85897423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-96.308315,32.578875,-96.308315,32.578875],
-  "geometry": {"coordinates":[-96.308315,32.578875],"type":"Point"}
+  "bbox": [
+    -96.308315,
+    32.578875,
+    -96.308315,
+    32.578875
+],
+  "geometry": {"coordinates":[-96.30831499999999,32.578875],"type":"Point"}
 }

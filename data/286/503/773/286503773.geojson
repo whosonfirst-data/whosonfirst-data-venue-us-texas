@@ -2,13 +2,14 @@
   "id": 286503773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.173409,30.032619,-95.173409,30.032619",
     "geom:latitude":30.032619,
     "geom:longitude":-95.173409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Magnolia Cove Dr",
     "sg:city":"Kingwood",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286503773,
-    "wof:lastmodified":1449018090,
+    "wof:lastmodified":1467084317,
     "wof:name":"F M Facility Maintenance",
     "wof:parent_id":85869399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.173409,30.032619,-95.173409,30.032619],
-  "geometry": {"coordinates":[-95.173409,30.032619],"type":"Point"}
+  "bbox": [
+    -95.173409,
+    30.032619,
+    -95.173409,
+    30.032619
+],
+  "geometry": {"coordinates":[-95.17340900000001,30.032619],"type":"Point"}
 }

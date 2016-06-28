@@ -2,13 +2,14 @@
   "id": 370238725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.431705,30.02025,-95.431705,30.02025",
     "geom:latitude":30.02025,
     "geom:longitude":-95.431705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 FM 1960 W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370238725,
-    "wof:lastmodified":1449030350,
+    "wof:lastmodified":1467084500,
     "wof:name":"Roi Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.431705,30.02025,-95.431705,30.02025],
-  "geometry": {"coordinates":[-95.431705,30.02025],"type":"Point"}
+  "bbox": [
+    -95.431705,
+    30.02025,
+    -95.431705,
+    30.02025
+],
+  "geometry": {"coordinates":[-95.43170499999999,30.02025],"type":"Point"}
 }

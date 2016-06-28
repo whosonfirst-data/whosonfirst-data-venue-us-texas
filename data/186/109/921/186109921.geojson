@@ -2,13 +2,14 @@
   "id": 186109921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.523518,30.106115,-95.523518,30.106115",
     "geom:latitude":30.106115,
     "geom:longitude":-95.523518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6611 Dover Way",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186109921,
-    "wof:lastmodified":1449051323,
+    "wof:lastmodified":1467084711,
     "wof:name":"Jack Johnson",
     "wof:parent_id":85893755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.523518,30.106115,-95.523518,30.106115],
+  "bbox": [
+    -95.523518,
+    30.106115,
+    -95.523518,
+    30.106115
+],
   "geometry": {"coordinates":[-95.523518,30.106115],"type":"Point"}
 }
