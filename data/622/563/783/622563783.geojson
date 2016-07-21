@@ -29,17 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688753,
+        "622563783",
+        85878679,
         85633793,
         101725033,
         102081071,
-        85878679,
-        85686695,
-        102191575,
-        85633293,
-        102000965,
-        102078877,
-        85884281
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +46,17 @@
         {
             "country_id":85633793,
             "county_id":102081071,
+            "empire_id":85633793,
             "locality_id":101725033,
             "neighbourhood_id":85878679,
             "region_id":85688753,
-            "venue_id":622563783
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633293,
-            "county_id":102078877,
-            "locality_id":102000965,
-            "neighbourhood_id":85884281,
-            "region_id":85686695,
-            "venue_id":622563783
+            "venue_id":"622563783"
         }
     ],
     "wof:id":622563783,
-    "wof:lastmodified":1467086920,
+    "wof:lastmodified":1469136351,
     "wof:name":"Juerz-Lincoln Intl Bridge 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":101725033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
