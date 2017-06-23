@@ -3,13 +3,19 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "edtf:inception":"1967",
+    "geom:area":0,
     "geom:bbox":"-98.01646,30.131436,-98.01646,30.131436",
     "geom:latitude":30.131436,
     "geom:longitude":-98.01646,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=barbecue"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"18300 Fm 1826",
     "sg:city":"Driftwood",
     "sg:classifiers":[],
@@ -20,34 +26,41 @@
     "sg:website":"http://www.saltlickbbq.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688753,
+        102191575,
         85633793,
-        85688753
+        "303109123",
+        102080715
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "sg:id":"SG_5K7vnqBar9aYPvereYBDDp_30.131436_-98.016460@1303263049"
+        "sg:id":"SG_5K7vnqBar9aYPvereYBDDp_30.131436_-98.016460@1303263049",
+        "wk:page":"The_Salt_Lick"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d54caa92c3209e362d9ceed4f98e9cf",
+    "wof:geomhash":"53a18d2c43376d49ca3e3729b1af5597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080715,
+            "locality_id":"303109123",
             "region_id":85688753,
             "venue_id":303109123
         }
     ],
     "wof:id":303109123,
-    "wof:lastmodified":1467083734,
+    "wof:lastmodified":1498237098,
     "wof:name":"Salt Lick BBQ",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "bbq",
+        "meat"
+    ]
 },
   "bbox": [
     -98.01646,
