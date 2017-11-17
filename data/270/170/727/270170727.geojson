@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.409798,29.7001,-95.409798,29.7001",
     "geom:latitude":29.7001,
     "geom:longitude":-95.409798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7515 Main St Ste 240",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7FuCMb5Enq3lsY3UPx45EG_29.700100_-95.409798@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5193cd9d16dd446211c665b9d69da09",
+    "wof:geomhash":"eb7521b1a97035e56f2b3f656d1894e7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270170727,
-    "wof:lastmodified":1467084157,
+    "wof:lastmodified":1510941196,
     "wof:name":"Derm Surgery Associates",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387512107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

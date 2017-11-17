@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.857282,32.689358,-96.857282,32.689358",
     "geom:latitude":32.689358,
     "geom:longitude":-96.857282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4347 S Hampton Rd Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2tIeh8Y7XfmihlNGOHKMhP_32.689358_-96.857282@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7924f5bd06578e561e90e6df88a8b5b",
+    "wof:geomhash":"f24f7711e0d379fb0f9eb47b443216d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":253006185,
-    "wof:lastmodified":1467085026,
+    "wof:lastmodified":1510941385,
     "wof:name":"Bank of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605989077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

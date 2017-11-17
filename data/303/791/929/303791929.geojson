@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.712973,30.404166,-97.712973,30.404166",
     "geom:latitude":30.404166,
     "geom:longitude":-97.712973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11901 Hobby Horse Ct Ste 1423",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5ZeWJMR35aZVFerRK61HxU_30.404166_-97.712973@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"3133a79d6ef2c3b8cd8e92e472eeeacd",
+    "wof:geomhash":"adfd7849f01d3bbec151a9dc3ce3bd0f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303791929,
-    "wof:lastmodified":1467083785,
+    "wof:lastmodified":1510941428,
     "wof:name":"Fliers For Hire",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303798263
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "local"

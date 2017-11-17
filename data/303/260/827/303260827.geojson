@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741703,30.271026,-97.741703,30.271026",
     "geom:latitude":30.271026,
     "geom:longitude":-97.741703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"919 Congress Ave Ste 1000",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_1t89BfUyOmwSOP00qdWhHP_30.271026_-97.741703@1303263054"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5e8274025b609f4ff466dae1ace5108",
+    "wof:geomhash":"770c09c198d6b82c26a50bfc8bfe8e33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":303260827,
-    "wof:lastmodified":1467083711,
+    "wof:lastmodified":1510941296,
     "wof:name":"Texas Citizens Action Network",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605614415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "workers'",

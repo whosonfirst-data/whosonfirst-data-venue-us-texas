@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.800113,32.813597,-96.800113,32.813597",
     "geom:latitude":32.813597,
     "geom:longitude":-96.800113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3811 Turtle Creek Blvd Ste 150",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6OKQnJBVDz1gFJs5bXvIBK_32.813597_-96.800113@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3c878b01a0bfc494be999acb850859b",
+    "wof:geomhash":"6f2889d79d513645b2ce74cd3f5f8a53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252817971,
-    "wof:lastmodified":1467084096,
+    "wof:lastmodified":1510943944,
     "wof:name":"F&M Bank",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621861115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

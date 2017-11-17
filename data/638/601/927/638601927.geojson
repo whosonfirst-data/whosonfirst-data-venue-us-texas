@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724131,30.235791,-97.724131,30.235791",
     "geom:latitude":30.235791,
     "geom:longitude":-97.724131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2426 E Riverside Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2qqBhM1HxefX9RzE50kiJ5_30.235791_-97.724131@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"97bfbd6533512c2b4cf7b9c8cb588416",
+    "wof:geomhash":"00103f87283f87754b770b4b2ceefd23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,13 +57,17 @@
         }
     ],
     "wof:id":638601927,
-    "wof:lastmodified":1467087345,
+    "wof:lastmodified":1510944084,
     "wof:name":"McDonald's",
     "wof:parent_id":85869951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303558205
+    ],
+    "wof:supersedes":[
+        303558205
+    ],
     "wof:tags":[
         "burger",
         "american"

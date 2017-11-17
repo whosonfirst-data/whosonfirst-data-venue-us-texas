@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.403634,29.709418,-95.403634,29.709418",
     "geom:latitude":29.709418,
     "geom:longitude":-95.403634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6655 Travis St Ste 500",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_59r8AruyjHeT1EpfwjIf0q_29.709418_-95.403634@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"e17ed7bf204ce12c0c09dff71f281d5e",
+    "wof:geomhash":"a33a07e925c4e3c61ab8e92402cdbd61",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270151193,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510942397,
     "wof:name":"Baylor Psychiatry Clinic",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622836355
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"

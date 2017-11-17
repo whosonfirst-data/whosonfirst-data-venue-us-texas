@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.204065,32.668625,-97.204065,32.668625",
     "geom:latitude":32.668625,
     "geom:longitude":-97.204065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4914 Little Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_3ujxKCtWw72G6XxNvVK6s9_32.668625_-97.204065@1303262997"
     },
     "wof:country":"US",
-    "wof:geomhash":"465492ea21050640b3806bba37945234",
+    "wof:geomhash":"4762621026c00250a559e7a3d84556ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":253642445,
-    "wof:lastmodified":1467084951,
+    "wof:lastmodified":1510944055,
     "wof:name":"No Frills Grill",
     "wof:parent_id":85897313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605659883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

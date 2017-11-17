@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.840868,32.817455,-96.840868,32.817455",
     "geom:latitude":32.817455,
     "geom:longitude":-96.840868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2202 Inwood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7NPjsaVypM4fC4hwVI1rq3_32.817455_-96.840868@1303262987"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a6d86328723cb92806742ea82928f6e",
+    "wof:geomhash":"d7563b86103d36e798cdf135ac4afa9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":253053097,
-    "wof:lastmodified":1467084964,
+    "wof:lastmodified":1510941743,
     "wof:name":"Sonny Bryan's Steakhouse",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638586165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

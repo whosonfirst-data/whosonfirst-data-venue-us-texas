@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.826599,32.9981,-96.826599,32.9981",
     "geom:latitude":32.9981,
     "geom:longitude":-96.826599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4727 Frankford Rd Ste 345",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0yda8KzMIQvt9pe7Y06lj0_32.998100_-96.826599@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"7356932b2a596d3283c90cfe2ec791a5",
+    "wof:geomhash":"b289c31ed868d84dbc0124c8982d9787",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253309727,
-    "wof:lastmodified":1467084967,
+    "wof:lastmodified":1510942906,
     "wof:name":"Jay's Donuts",
     "wof:parent_id":85897347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589050165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

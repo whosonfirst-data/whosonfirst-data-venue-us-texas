@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.824637,32.741327,-96.824637,32.741327",
     "geom:latitude":32.741327,
     "geom:longitude":-96.824637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 S Zang Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4zQWsgOZSdGUsaegWrp7Hj_32.741327_-96.824637@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"33203711ec570a0cebe4ef96cc091bbd",
+    "wof:geomhash":"baed32f71c74e00cd96676423f357fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":605231255,
-    "wof:lastmodified":1467085757,
+    "wof:lastmodified":1510942449,
     "wof:name":"Salcedo Group Inc",
     "wof:parent_id":85838633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236971203
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

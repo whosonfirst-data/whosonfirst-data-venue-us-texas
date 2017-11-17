@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.969893,33.003666,-96.969893,33.003666",
     "geom:latitude":33.003666,
     "geom:longitude":-96.969893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 S Stemmons Fwy Ste 6000",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4innVpdqSmNggdbvd65ZhS_33.003666_-96.969893@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"631f8f3ee78f59137bfc8c5491e42cda",
+    "wof:geomhash":"7e564d5c8b9440950824943ebf788a14",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236391565,
-    "wof:lastmodified":1467083972,
+    "wof:lastmodified":1510942648,
     "wof:name":"Foley's Department Store",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622709065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

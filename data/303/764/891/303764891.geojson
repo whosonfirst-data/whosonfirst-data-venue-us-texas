@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.735916,30.353878,-97.735916,30.353878",
     "geom:latitude":30.353878,
     "geom:longitude":-97.735916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7739 Northcross Dr",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -28,10 +31,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2724718785,
         "sg:id":"SG_2eQZJ8D5ucbyeZzgGjLXM8_30.353878_-97.735916@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef1fee7356334c391398960d8a548a27",
+    "wof:geomhash":"4642e8fcfddad470740b42c9fbd4c2d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +48,17 @@
         }
     ],
     "wof:id":303764891,
-    "wof:lastmodified":1467083807,
+    "wof:lastmodified":1510943007,
     "wof:name":"Petticoat Fair",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303777481
+    ],
+    "wof:supersedes":[
+        303777481
+    ],
     "wof:tags":[]
 },
   "bbox": [

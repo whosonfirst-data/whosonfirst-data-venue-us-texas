@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.385628,29.614043,-95.385628,29.614043",
     "geom:latitude":29.614043,
     "geom:longitude":-95.385628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2504 Almeda Genoa Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3GeHud9vDZ7JFlAFYHjPtz_29.614043_-95.385628@1303263021"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6f7ab7adfe3234864d7bc04a382a636",
+    "wof:geomhash":"bdd61f0427fb792921b1386734303202",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270325375,
-    "wof:lastmodified":1467084181,
+    "wof:lastmodified":1510942144,
     "wof:name":"Jones Memorial Methodist Church",
     "wof:parent_id":85869661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605266813
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"

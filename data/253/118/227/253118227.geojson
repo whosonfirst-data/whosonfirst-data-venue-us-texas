@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806259,32.927695,-96.806259,32.927695",
     "geom:latitude":32.927695,
     "geom:longitude":-96.806259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13101 Preston Rd Ste 411",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1ySabZ0gxcOFZSiWtwHUp8_32.927695_-96.806259@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"df3c4bd0307ee96469645dd65363eac0",
+    "wof:geomhash":"b2a3fa80ea41d52f5dc50eae314a5a18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":253118227,
-    "wof:lastmodified":1467085027,
+    "wof:lastmodified":1510942613,
     "wof:name":"Masterpiece of Hollywood",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622276993
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.687666,30.411887,-97.687666,30.411887",
     "geom:latitude":30.411887,
     "geom:longitude":-97.687666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 W Parmer Ln",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5NTvX5nzbP4e8jEcDFvyNy_30.411887_-97.687666@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"33c9569f583f849ccb92c67f1e07a890",
+    "wof:geomhash":"457323e4f5cff7b9a1204a4cec99c419",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":303416691,
-    "wof:lastmodified":1467083746,
+    "wof:lastmodified":1510943622,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303418817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

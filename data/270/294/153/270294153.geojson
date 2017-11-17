@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.541458,29.737141,-95.541458,29.737141",
     "geom:latitude":29.737141,
     "geom:longitude":-95.541458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9801 Westheimer Rd # 302",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_32NO7bPlhlC8D57oan3sPx_29.737141_-95.541458@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ac55f1b5d303312c95cf766437fd8d4",
+    "wof:geomhash":"6dfd0d35d1273e94a48df5cf1cfc81b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270294153,
-    "wof:lastmodified":1467084208,
+    "wof:lastmodified":1510943940,
     "wof:name":"Parker Industries Inc",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219860665
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contract"

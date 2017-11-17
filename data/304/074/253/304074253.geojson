@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.090248,31.85861,-103.090248,31.85861",
     "geom:latitude":31.85861,
     "geom:longitude":-103.090248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 E Austin St",
     "sg:city":"Kermit",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3hC9j3tEgNbbHIey2JolRX_31.858610_-103.090248@1303263078"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fab223eaada45bd96c998bc928da9ee",
+    "wof:geomhash":"22ac7ff3c83b584f99eb8f6e1fd46d17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":304074253,
-    "wof:lastmodified":1467084666,
+    "wof:lastmodified":1510942762,
     "wof:name":"Don Burrito Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353900357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

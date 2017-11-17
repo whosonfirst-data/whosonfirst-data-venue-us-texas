@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.482112,29.991254,-95.482112,29.991254",
     "geom:latitude":29.991254,
     "geom:longitude":-95.482112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14405 Walters Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4V9MY8leEdCBu8ZWQ4w8jt_29.991254_-95.482112@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"68146caff0014601ee61a249dd66c925",
+    "wof:geomhash":"617f7132df6608996a69a06c02659d36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":606053515,
-    "wof:lastmodified":1467086354,
+    "wof:lastmodified":1510943056,
     "wof:name":"GST Corp",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588943469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

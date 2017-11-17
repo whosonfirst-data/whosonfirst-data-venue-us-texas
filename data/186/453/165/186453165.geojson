@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773565,32.843079,-96.773565,32.843079",
     "geom:latitude":32.843079,
     "geom:longitude":-96.773565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5526 Dyer St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1KOjs9U1stLuOF6mckPXm7_32.843079_-96.773565@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6f5b65d303efef26ed131870c7dfb79",
+    "wof:geomhash":"69179f449798134b47cb065e5c761a7f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":186453165,
-    "wof:lastmodified":1467084733,
+    "wof:lastmodified":1510941751,
     "wof:name":"Beh Designs",
     "wof:parent_id":85870385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236916899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"

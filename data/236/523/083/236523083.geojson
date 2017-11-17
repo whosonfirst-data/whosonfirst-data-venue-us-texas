@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.569455,32.911542,-96.569455,32.911542",
     "geom:latitude":32.911542,
     "geom:longitude":-96.569455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5700 Rowlett Rd Ste 160",
     "sg:city":"Rowlett",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_14SI6bqM7f4mi0XTPZm5A8_32.911542_-96.569455@1303262971"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa1cfdd7b84b6411f6fe78639b7a29c5",
+    "wof:geomhash":"e6225e9d48ee0027778006b4f6f6bffd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236523083,
-    "wof:lastmodified":1467083959,
+    "wof:lastmodified":1510943974,
     "wof:name":"M B K R Medical Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622794273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

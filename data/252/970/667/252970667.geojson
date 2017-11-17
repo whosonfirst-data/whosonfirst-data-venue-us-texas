@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803398,32.924999,-96.803398,32.924999",
     "geom:latitude":32.924999,
     "geom:longitude":-96.803398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12900 Preston Rd Ste 900",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0ErVtWvTmKMY7tOExreS3V_32.924999_-96.803398@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"21aacc9df9aba34ecfeb8a2a6c5b7ac0",
+    "wof:geomhash":"d66af674b319ba3aa617ce03226a0313",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252970667,
-    "wof:lastmodified":1467084107,
+    "wof:lastmodified":1510942974,
     "wof:name":"Rad Lawfirm",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252974957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

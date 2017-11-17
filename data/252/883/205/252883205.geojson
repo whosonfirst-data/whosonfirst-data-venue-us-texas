@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770849,32.861658,-96.770849,32.861658",
     "geom:latitude":32.861658,
     "geom:longitude":-96.770849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8401 N Central Expy Ste 630",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4BL7ABtA4m2JCOjoWWPysj_32.861658_-96.770849@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0844c42301c720f2511d61c44282c3f",
+    "wof:geomhash":"88772e9b97be6e12062a42180b970bce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252883205,
-    "wof:lastmodified":1467084094,
+    "wof:lastmodified":1510941687,
     "wof:name":"Miller Keffer & Pedigo",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622062445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

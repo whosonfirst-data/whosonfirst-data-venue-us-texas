@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.959099,32.799599,-96.959099,32.799599",
     "geom:latitude":32.799599,
     "geom:longitude":-96.959099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 S MacArthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2XSMx0uffdx3oWbn16Fa1m_32.799599_-96.959099@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f143fc385a37051cbd72ab12c31898b",
+    "wof:geomhash":"ec552eb31ef17451a562712adee6af1a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236324271,
-    "wof:lastmodified":1467083961,
+    "wof:lastmodified":1510943234,
     "wof:name":"Childrens Discovery Center",
     "wof:parent_id":85878335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605441959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"

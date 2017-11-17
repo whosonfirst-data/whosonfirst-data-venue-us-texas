@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.986801,32.8909,-96.986801,32.8909",
     "geom:latitude":32.8909,
     "geom:longitude":-96.986801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6015 Commerce Dr Ste 430",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0upXfpuv1ru4u38De1kFsv_32.890900_-96.986801@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"60a7006de72b523c81a19a4fcdfcc3cb",
+    "wof:geomhash":"d9233bef862225f028e777373bd208c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236377789,
-    "wof:lastmodified":1467083922,
+    "wof:lastmodified":1510941598,
     "wof:name":"Execustay by Marriott",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621963147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

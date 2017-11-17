@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.646756,32.801219,-96.646756,32.801219",
     "geom:latitude":32.801219,
     "geom:longitude":-96.646756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3334 N Town East Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3fGr3hLCHbgd5X1krpVNJE_32.801219_-96.646756@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b951096c1f7fff5daa8d7c939eeac6fc",
+    "wof:geomhash":"6f1ffa6828fef24b2335c33054032bd5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219262711,
-    "wof:lastmodified":1467085146,
+    "wof:lastmodified":1510942027,
     "wof:name":"Lucila's",
     "wof:parent_id":85893823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589191023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

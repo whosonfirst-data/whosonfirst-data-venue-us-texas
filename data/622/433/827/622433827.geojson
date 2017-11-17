@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.418446,29.496653,-98.418446,29.496653",
     "geom:latitude":29.496653,
     "geom:longitude":-98.418446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3903 Eisenhauer Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -30,15 +33,17 @@
         "sg:id":"SG_3ln8xEufg0ltjVylFodzPf_29.496653_-98.418446@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3b6b2d081769e787f9c281873db2855",
+    "wof:geomhash":"da651301d9f3a229d99a23c5a9a212a2",
     "wof:hierarchy":[],
     "wof:id":622433827,
-    "wof:lastmodified":1467086827,
+    "wof:lastmodified":1510944071,
     "wof:name":"A&S Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622688083
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

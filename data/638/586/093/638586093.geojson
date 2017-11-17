@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803948,32.923298,-96.803948,32.923298",
     "geom:latitude":32.923298,
     "geom:longitude":-96.803948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12815 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6Y4Wab7T9ptQhkWRXdtxo4_32.923298_-96.803948@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"59c9265479f1b3696aeaaa57203f2fa6",
+    "wof:geomhash":"3ffcce73e3269469f2ed5a14d8b2e090",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":638586093,
-    "wof:lastmodified":1467087322,
+    "wof:lastmodified":1510942066,
     "wof:name":"Chili's",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622713441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.665604,32.8773,-96.665604,32.8773",
     "geom:latitude":32.8773,
     "geom:longitude":-96.665604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3209 S Shiloh Rd",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6VlzfFqwZ3EXff0hF3i6Jl_32.877300_-96.665604@1303262966"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea1b0b9c74c9b00df574cbd58ebad94b",
+    "wof:geomhash":"444dff1efe64968cf34ffec556dd6e6b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236255555,
-    "wof:lastmodified":1467083937,
+    "wof:lastmodified":1510943928,
     "wof:name":"Auto Glass Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588988207
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"

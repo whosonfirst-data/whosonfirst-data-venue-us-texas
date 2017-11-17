@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.794245,32.766704,-96.794245,32.766704",
     "geom:latitude":32.766704,
     "geom:longitude":-96.794245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1409 S Lamar St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4zpETzJA7ukA4FMAf3ad4H_32.766704_-96.794245@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"67ba930cd47232914f73527752fa31da",
+    "wof:geomhash":"c7b3a6c96efbfe8d50080b9ce4b93525",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":219817803,
-    "wof:lastmodified":1467085160,
+    "wof:lastmodified":1510942104,
     "wof:name":"Focus Asset Management Group",
     "wof:parent_id":85870445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252758885,
+        252759639
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

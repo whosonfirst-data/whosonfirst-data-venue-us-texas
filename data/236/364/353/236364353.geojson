@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.960289,32.850531,-96.960289,32.850531",
     "geom:latitude":32.850531,
     "geom:longitude":-96.960289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3333 N MacArthur Blvd Ste 300",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2b62qZg1vfLXFweMNK3z7a_32.850531_-96.960289@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"30d17cb9d7b1332b91e4991cf1b9cfd9",
+    "wof:geomhash":"a1d574f4351ded8e36926ea86ae6a52b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236364353,
-    "wof:lastmodified":1467083957,
+    "wof:lastmodified":1510942135,
     "wof:name":"Irving Arts Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622681949
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.526001,29.6894,-95.526001,29.6894",
     "geom:latitude":29.6894,
     "geom:longitude":-95.526001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8200 Wednesbury Ln Ste 104",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2jloAah6hKqYWUYfOYZz8P_29.689400_-95.526001@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1d4e97d2f777f5c127274b2d6b48752",
+    "wof:geomhash":"e731d62764185e01d97aa123b49e4e6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270515825,
-    "wof:lastmodified":1467084168,
+    "wof:lastmodified":1510943072,
     "wof:name":"Joshua's Pharmacy",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605905817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

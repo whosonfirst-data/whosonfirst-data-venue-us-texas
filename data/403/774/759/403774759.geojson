@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.489823,29.428518,-98.489823,29.428518",
     "geom:latitude":29.428518,
     "geom:longitude":-98.489823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 Navarro St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7TIV3nkFomAtbNpWtITDuP_29.428518_-98.489823@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d790f8c5b038112f8ee16afd99d34855",
+    "wof:geomhash":"49b4ec09aaaa0a402c4491af50484672",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":403774759,
-    "wof:lastmodified":1467084762,
+    "wof:lastmodified":1510943760,
     "wof:name":"Trust Co Na",
     "wof:parent_id":85867255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387970255
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

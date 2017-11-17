@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805794,33.101231,-96.805794,33.101231",
     "geom:latitude":33.101231,
     "geom:longitude":-96.805794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2693 Preston Rd Ste 1020",
     "sg:city":"Frisco",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0W1c9X75GBh17wO0odji0M_33.101231_-96.805794@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab7bf5b2f270538f3c3ac0a205c28abc",
+    "wof:geomhash":"9ff33e6504e66579322ef24df569c4a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236189641,
-    "wof:lastmodified":1467083984,
+    "wof:lastmodified":1510943518,
     "wof:name":"Bath Junkie",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353936319
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.478449,29.821397,-95.478449,29.821397",
     "geom:latitude":29.821397,
     "geom:longitude":-95.478449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6005 Milwee St. Unit 708",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1GqzG5w18iC7CUCbLe5M6R_29.821397_-95.478449@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb4d15eb0408f12f1a92668ed7e1c466",
+    "wof:geomhash":"3beb4465ea0cca5beac655b413d57fd5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":286370815,
-    "wof:lastmodified":1467084280,
+    "wof:lastmodified":1510941834,
     "wof:name":"AM-PM Glass & Mirror",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286379293
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "window",

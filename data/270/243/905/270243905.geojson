@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401604,29.889099,-95.401604,29.889099",
     "geom:latitude":29.889099,
     "geom:longitude":-95.401604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"302 W Gulf Bank Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_37fjGpcmLX7uMHGP3fiL1s_29.889099_-95.401604@1303263019"
     },
     "wof:country":"US",
-    "wof:geomhash":"b33fac68854d4ed29478ecf9a5e6dc61",
+    "wof:geomhash":"1051c41d6db03b6dd05c04f9cb581258",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270243905,
-    "wof:lastmodified":1467084175,
+    "wof:lastmodified":1510943369,
     "wof:name":"Cunningham Pharmacy Gulfbank",
     "wof:parent_id":85869329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589183805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

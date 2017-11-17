@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.793701,32.9921,-96.793701,32.9921",
     "geom:latitude":32.9921,
     "geom:longitude":-96.793701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17811 Davenport Rd Ste 42",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0JPGJ6sIpKKy2eQdb3A4eu_32.992100_-96.793701@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"14a7e759f810388b7b171401bfd31402",
+    "wof:geomhash":"73f62ebcdfd4c18e2d3df8fb19df2b65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253256595,
-    "wof:lastmodified":1467085022,
+    "wof:lastmodified":1510942184,
     "wof:name":"Dowager Construction Inc",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605101677
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

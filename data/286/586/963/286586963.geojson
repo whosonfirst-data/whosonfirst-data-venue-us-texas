@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463793,30.206983,-95.463793,30.206983",
     "geom:latitude":30.206983,
     "geom:longitude":-95.463793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3081 College Park Dr",
     "sg:city":"Conroe",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4wcdhUhFaKmyMoCMbbQxOe_30.206983_-95.463793@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbf4a8d7b4610b02b4338b68e796d4f2",
+    "wof:geomhash":"d17ffb70ea5cd142c2a1b6f1b1659dd2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":286586963,
-    "wof:lastmodified":1467084308,
+    "wof:lastmodified":1510943741,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85893779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638595185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.876612,32.823531,-96.876612,32.823531",
     "geom:latitude":32.823531,
     "geom:longitude":-96.876612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1140 Empire Central Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7CljeQjQaAIwtYuEvnkuCU_32.823531_-96.876612@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"57018f50d389644ac6f22f8222c41f09",
+    "wof:geomhash":"12243a8a66f06e4428167f4c6d70431e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":202870717,
-    "wof:lastmodified":1467084902,
+    "wof:lastmodified":1510943718,
     "wof:name":"Menes Law Firm",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253199175
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805944,32.907956,-96.805944,32.907956",
     "geom:latitude":32.907956,
     "geom:longitude":-96.805944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11661 Preston Rd Ste 127",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5VwrRPp6trz0VmIfacTcql_32.907956_-96.805944@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e41c0015c5e725b26efb68a7cc8b69c",
+    "wof:geomhash":"4ea0d4e09baee6bfe585078876631f0e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252958659,
-    "wof:lastmodified":1467084095,
+    "wof:lastmodified":1510942231,
     "wof:name":"Sonny Bryan's Smokehouse",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622286475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"

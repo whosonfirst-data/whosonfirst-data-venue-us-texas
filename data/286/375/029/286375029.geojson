@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461309,29.822561,-95.461309,29.822561",
     "geom:latitude":29.822561,
     "geom:longitude":-95.461309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4901 Milwee St Suite 101",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -59,7 +62,7 @@
         "sg:id":"SG_7QpqcxcR9SAKzQ4a2J3x5B_29.822561_-95.461309@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"28731fa0c5a48f6583767e3f81b3c47f",
+    "wof:geomhash":"020b1151adf5b635579f296c8dc67aba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -72,12 +75,14 @@
         }
     ],
     "wof:id":286375029,
-    "wof:lastmodified":1467084239,
+    "wof:lastmodified":1510942065,
     "wof:name":"Laser Faire",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203392399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "printer",

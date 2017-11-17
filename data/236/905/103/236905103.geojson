@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806702,32.836601,-96.806702,32.836601",
     "geom:latitude":32.836601,
     "geom:longitude":-96.806702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"88 Highland Park Vlg",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3elQzJMdAK3MR7CRuJSz9z_32.836601_-96.806702@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2870fda2ab32b78099fb8def0b1dfee",
+    "wof:geomhash":"de5eb908300743571e61223f2f9402db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":236905103,
-    "wof:lastmodified":1467083925,
+    "wof:lastmodified":1510941998,
     "wof:name":"Harold's Ladies Apparel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588973675
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

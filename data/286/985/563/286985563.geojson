@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.154583,30.03721,-94.154583,30.03721",
     "geom:latitude":30.03721,
     "geom:longitude":-94.154583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5390 Walden Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_0790QC9VkaxJr3znKMgT3G_30.037210_-94.154583@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c7a7744a34b57e1446398e24f356bc8",
+    "wof:geomhash":"031fba6f1f97d0cdf5e174a69edf0dc1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286985563,
-    "wof:lastmodified":1467084276,
+    "wof:lastmodified":1510943776,
     "wof:name":"Cracker Barrel Old Country Store",
     "wof:parent_id":85854189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638597217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

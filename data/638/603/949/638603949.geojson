@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.543191,31.816812,-106.543191,31.816812",
     "geom:latitude":31.816812,
     "geom:longitude":-106.543191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"750 Sunland Park Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_45UREX02wjlHDO6fWNIBcf_31.816812_-106.543191@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ac6d297117e4b6bfe8c5cc357f87a18",
+    "wof:geomhash":"49d24800d2936fd5355d002921849ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":638603949,
-    "wof:lastmodified":1467087347,
+    "wof:lastmodified":1510941380,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605310767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

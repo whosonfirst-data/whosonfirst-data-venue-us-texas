@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.47511,29.705551,-95.47511,29.705551",
     "geom:latitude":29.705551,
     "geom:longitude":-95.47511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5423 Bellaire Blvd",
     "sg:city":"Bellaire",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2eOGz7C5Jg66Y9CLUVK2yB_29.705551_-95.475110@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4402824c2b47e9b96c75eb49483bbc9",
+    "wof:geomhash":"8f55cee9e47400ecf0e835620727c0ad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286623509,
-    "wof:lastmodified":1467084294,
+    "wof:lastmodified":1510941369,
     "wof:name":"Mama Ninfa's",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638595289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

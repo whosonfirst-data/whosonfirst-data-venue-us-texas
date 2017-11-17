@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.792527,30.236454,-97.792527,30.236454",
     "geom:latitude":30.236454,
     "geom:longitude":-97.792527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4006 S Lamar Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2sG7jWIGL6V6RJMEJQHfxz_30.236454_-97.792527@1303263056"
     },
     "wof:country":"US",
-    "wof:geomhash":"de34fa926199eb08b421441b8683392c",
+    "wof:geomhash":"9352af06033b568cad512aaf2813f9bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303318623,
-    "wof:lastmodified":1467083718,
+    "wof:lastmodified":1510941739,
     "wof:name":"Tabu Lingerie",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303325811
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"

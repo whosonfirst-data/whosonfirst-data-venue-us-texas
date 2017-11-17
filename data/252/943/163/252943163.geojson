@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.891403,32.896099,-96.891403,32.896099",
     "geom:latitude":32.896099,
     "geom:longitude":-96.891403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11422 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3P28S0BL8RF39A8KeiQhem_32.896099_-96.891403@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"caa52b81437fe2d23dde6792fed6e9f5",
+    "wof:geomhash":"f6213498a3a2ec397c6ff5216cdb00b2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252943163,
-    "wof:lastmodified":1467084065,
+    "wof:lastmodified":1510941162,
     "wof:name":"Ali's International",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605597081
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

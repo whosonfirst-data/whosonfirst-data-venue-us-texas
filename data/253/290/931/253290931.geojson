@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.825203,32.951,-96.825203,32.951",
     "geom:latitude":32.951,
     "geom:longitude":-96.825203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14901 Quorum Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1RJGFiljF7e9lcYZAmkNL1_32.951000_-96.825203@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a9f6424a104a5238be269765b139609",
+    "wof:geomhash":"90b1f09ce52837e46844e725f697feec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253290931,
-    "wof:lastmodified":1467084988,
+    "wof:lastmodified":1510943396,
     "wof:name":"Gehan Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622250997
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "provider",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.939281,30.202566,-97.939281,30.202566",
     "geom:latitude":30.202566,
     "geom:longitude":-97.939281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11504 Morningsun Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4CkJfk7VftcBvgXRdxIP7P_30.202566_-97.939281@1303263062"
     },
     "wof:country":"US",
-    "wof:geomhash":"a18a9ae7089f68fadaef6bf2cfe169d2",
+    "wof:geomhash":"0a5115fd2257d3f1acf0828d1da694cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303535087,
-    "wof:lastmodified":1467083713,
+    "wof:lastmodified":1510942805,
     "wof:name":"Hank's Service",
     "wof:parent_id":85869987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621864933
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air",

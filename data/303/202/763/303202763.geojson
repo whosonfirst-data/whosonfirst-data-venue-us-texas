@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741397,30.271799,-97.741397,30.271799",
     "geom:latitude":30.271799,
     "geom:longitude":-97.741397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1005 Congress Avenue Suite 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0tGTox2gSbuyB0PYK1u1Ov_30.271799_-97.741397@1303263051"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc61f27821cac84313b5b83650a18744",
+    "wof:geomhash":"7fa91ee03d591d456eb1228c38f49fb9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303202763,
-    "wof:lastmodified":1467083797,
+    "wof:lastmodified":1510941445,
     "wof:name":"Bank of Texas",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589249559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

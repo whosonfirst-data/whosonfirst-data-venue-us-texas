@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.828613,32.989761,-96.828613,32.989761",
     "geom:latitude":32.989761,
     "geom:longitude":-96.828613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17552 Dallas Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_43BbsaTBLITpHMMa5uJDoB_32.989761_-96.828613@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cd695d3e8c2daed569a76b0b8fd7a3d",
+    "wof:geomhash":"cf75a7e446e7889aacc35303edfa833a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":253320829,
-    "wof:lastmodified":1467084971,
+    "wof:lastmodified":1510941755,
     "wof:name":"Maguire's Regional Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622847621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

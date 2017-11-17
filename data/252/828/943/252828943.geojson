@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80417,32.80473,-96.80417,32.80473",
     "geom:latitude":32.80473,
     "geom:longitude":-96.80417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2911 Turtle Creek Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3JUPsXmhwtzFmimED6unoZ_32.804730_-96.804170@1303262982"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3ffb6c5585746792640c54d01176580",
+    "wof:geomhash":"c834b95fd8040fea3bf4d3d9062bbf09",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":252828943,
-    "wof:lastmodified":1467084079,
+    "wof:lastmodified":1510943196,
     "wof:name":"MS Legalsearch",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252831013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

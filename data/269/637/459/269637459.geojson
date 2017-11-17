@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.606236,31.898389,-98.606236,31.898389",
     "geom:latitude":31.898389,
     "geom:longitude":-98.606236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"309 W Grand Ave",
     "sg:city":"Comanche",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_41f0X5DfFyL5cRu0kucDpC_31.898389_-98.606236@1303263003"
     },
     "wof:country":"US",
-    "wof:geomhash":"0291617961c29b1254df0c4f40fc719a",
+    "wof:geomhash":"e38f3e579867914eb9fc6e8fe82ec653",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269637459,
-    "wof:lastmodified":1467084572,
+    "wof:lastmodified":1510942024,
     "wof:name":"Comanche Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605555097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

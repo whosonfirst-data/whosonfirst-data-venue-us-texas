@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.761658,32.811946,-96.761658,32.811946",
     "geom:latitude":32.811946,
     "geom:longitude":-96.761658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5818 Live Oak St",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6AnnWV2ue5YoD6lTwF7VsZ_32.811946_-96.761658@1303262980"
     },
     "wof:country":"US",
-    "wof:geomhash":"79e2f6c1fe16d2f325724bf145148f60",
+    "wof:geomhash":"3f34cfafe0af9f53af80a59a1ebe00f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":252742505,
-    "wof:lastmodified":1467084052,
+    "wof:lastmodified":1510942905,
     "wof:name":"Lakewood Landing",
     "wof:parent_id":85893619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622832405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

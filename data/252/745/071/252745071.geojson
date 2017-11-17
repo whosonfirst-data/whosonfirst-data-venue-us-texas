@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808605,32.863249,-96.808605,32.863249",
     "geom:latitude":32.863249,
     "geom:longitude":-96.808605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8226 Douglas Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_10PxiURPclXdsvzSxygHeZ_32.863249_-96.808605@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b0cc469b3d9e037f40e7be4db358069",
+    "wof:geomhash":"9433d8506cf3a81d70d68e54757d4e29",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252745071,
-    "wof:lastmodified":1467084105,
+    "wof:lastmodified":1510941288,
     "wof:name":"Shafer & Mueller",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252868013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

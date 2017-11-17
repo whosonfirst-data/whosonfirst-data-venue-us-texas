@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.555598,29.736975,-95.555598,29.736975",
     "geom:latitude":29.736975,
     "geom:longitude":-95.555598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10260 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1GfU80oFoaYlHswoqZ44FM_29.736975_-95.555598@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7104867e230f873ee7912e2cf7bc0c78",
+    "wof:geomhash":"3210c26563ebd81f5934df781ed4533d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":353502491,
-    "wof:lastmodified":1467084347,
+    "wof:lastmodified":1510942244,
     "wof:name":"Tri Corp",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605699887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pesticide",

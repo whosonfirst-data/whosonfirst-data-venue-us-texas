@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.802062,32.780466,-96.802062,32.780466",
     "geom:latitude":32.780466,
     "geom:longitude":-96.802062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Main St Ste P-250",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3SEq1tqoi659LoCb0sSTzP_32.780466_-96.802062@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5838bfe23670bd205f5bdf550b83296",
+    "wof:geomhash":"a745a757db45730da929414224b2750b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":253307125,
-    "wof:lastmodified":1467084971,
+    "wof:lastmodified":1510943451,
     "wof:name":"Pop's Corn Shoppe",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236863865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

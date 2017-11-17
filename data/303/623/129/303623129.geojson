@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.800205,30.275847,-97.800205,30.275847",
     "geom:latitude":30.275847,
     "geom:longitude":-97.800205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Bee Caves Rd Ste 370",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2OqAYOejd5uZysmsXqPVY4_30.275847_-97.800205@1303263066"
     },
     "wof:country":"US",
-    "wof:geomhash":"40be836fcef348902b493088215c310d",
+    "wof:geomhash":"a38b255acc7a35d620f68cbf97f3be78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303623129,
-    "wof:lastmodified":1467083777,
+    "wof:lastmodified":1510941547,
     "wof:name":"Tomlinson's Feed & Pets Inc",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605985139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

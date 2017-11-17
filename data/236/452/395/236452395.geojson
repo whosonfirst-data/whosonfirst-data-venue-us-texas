@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.736801,32.946899,-96.736801,32.946899",
     "geom:latitude":32.946899,
     "geom:longitude":-96.736801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"405 S Central Expy Ste 116",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3lWQ11c9Nav7XAcSrKAT5N_32.946899_-96.736801@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"c84359310cff78cc3fbbca899ee109e1",
+    "wof:geomhash":"7d729a48f77393489d2ff3738acaee30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236452395,
-    "wof:lastmodified":1467083897,
+    "wof:lastmodified":1510944067,
     "wof:name":"Gus's Auto Center",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622611337
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

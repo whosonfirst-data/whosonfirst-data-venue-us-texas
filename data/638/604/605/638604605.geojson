@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.993779,32.83258,-96.993779,32.83258",
     "geom:latitude":32.83258,
     "geom:longitude":-96.993779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1725 N Belt Line Rd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0Y0S8hSD9xXnnTKk1xYfWX_32.832017_-96.993802@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa4ae098da3f77f4de49205f58f58240",
+    "wof:geomhash":"b3bbd820a68c575613da84d1050a86bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":638604605,
-    "wof:lastmodified":1467087348,
+    "wof:lastmodified":1510943575,
     "wof:name":"Wendy's",
     "wof:parent_id":85850385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622130429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.598896,32.695222,-96.598896,32.695222",
     "geom:latitude":32.695222,
     "geom:longitude":-96.598896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12650 Ravenview Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_0tm9wxz8EOApvSVrWqjWQW_32.695222_-96.598896@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c89821481d101e540ffcd989745304f",
+    "wof:geomhash":"35a5d235b5c64446026882fd20ec8011",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":253262981,
-    "wof:lastmodified":1467085008,
+    "wof:lastmodified":1510942206,
     "wof:name":"Collins Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605203017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

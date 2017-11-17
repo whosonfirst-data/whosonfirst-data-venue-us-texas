@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.775555,30.192102,-97.775555,30.192102",
     "geom:latitude":30.192102,
     "geom:longitude":-97.775555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"412 E William Cannon Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_2xGdznz6vsioBA6Sc74tW1_30.192102_-97.775555@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"371987118f66e7ad7cdca3bbe91c9857",
+    "wof:geomhash":"3d081acf7ab99f10e8ce8ad76b9b8293",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":303583233,
-    "wof:lastmodified":1467083788,
+    "wof:lastmodified":1510943175,
     "wof:name":"Willow Brook",
     "wof:parent_id":85842253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303592825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment",

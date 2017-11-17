@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.35067,30.641191,-96.35067,30.641191",
     "geom:latitude":30.641191,
     "geom:longitude":-96.35067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3224 S Texas Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5nQwf4G6jz5SoeHU0rLgP3_30.641191_-96.350670@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"de522a7c37618d63ddacef505f1266ea",
+    "wof:geomhash":"851662791436bc6ceb5e345b302e4736",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":287000853,
-    "wof:lastmodified":1467083822,
+    "wof:lastmodified":1510942647,
     "wof:name":"Long John Silver's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638607607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

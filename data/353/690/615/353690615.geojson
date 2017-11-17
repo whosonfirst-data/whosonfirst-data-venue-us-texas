@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.33486,32.747791,-97.33486,32.747791",
     "geom:latitude":32.747791,
     "geom:longitude":-97.33486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Cherry St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6VDQGj2PgCrel5GXW740bL_32.747791_-97.334860@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"351a898223f962bb1ee6b0ee180eaf60",
+    "wof:geomhash":"efaef6cf98d7fa156c0c1ef81253952e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":353690615,
-    "wof:lastmodified":1467084350,
+    "wof:lastmodified":1510942586,
     "wof:name":"Fire Dept",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605593533
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.959917,32.877276,-96.959917,32.877276",
     "geom:latitude":32.877276,
     "geom:longitude":-96.959917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"909 Hidden Ridge",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3LZGNqUiE9vcCy0loD5WEJ_32.877276_-96.959917@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3be94ae1bbf77d9375a7121a53c0ed8",
+    "wof:geomhash":"88e25036075ed6b35191df9e0272148a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":387191363,
-    "wof:lastmodified":1467084843,
+    "wof:lastmodified":1510942398,
     "wof:name":"LA Quinta Corp",
     "wof:parent_id":85878321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387202099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

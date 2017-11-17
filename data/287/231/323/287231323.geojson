@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.050484,28.025948,-97.050484,28.025948",
     "geom:latitude":28.025948,
     "geom:longitude":-97.050484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"302 S Austin St",
     "sg:city":"Rockport",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1PgKUL4LBvwcKO7A0vBLqA_28.025948_-97.050484@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"cfdf710f3928fd6eb31b019ed04d31e0",
+    "wof:geomhash":"be753405db5fdcd1b6bb49ca72aae6f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287231323,
-    "wof:lastmodified":1467083833,
+    "wof:lastmodified":1510942532,
     "wof:name":"Java Bay Caffe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588874865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

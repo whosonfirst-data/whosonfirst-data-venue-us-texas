@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806248,32.836194,-96.806248,32.836194",
     "geom:latitude":32.836194,
     "geom:longitude":-96.806248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25 Highland Park Village",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2oWQzIdw0kFTuCTRTtt7Oe_32.836194_-96.806248@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a37d42712f4386c7e2f92092a087f6af",
+    "wof:geomhash":"83df82c43155c2cfe6678ad31d780086",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":252826395,
-    "wof:lastmodified":1467084091,
+    "wof:lastmodified":1510943291,
     "wof:name":"Paradigm Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236899505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"

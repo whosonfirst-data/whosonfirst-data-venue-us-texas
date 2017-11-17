@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.557297,29.783899,-95.557297,29.783899",
     "geom:latitude":29.783899,
     "geom:longitude":-95.557297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10565 Katy Fwy Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4A4DADjdKSNE78AIbmwXsU_29.783899_-95.557297@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"4da3b4929144bdb6f84de725f4a1c838",
+    "wof:geomhash":"a538f09f75cb6671a9c1bdaaaa5d2481",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270062729,
-    "wof:lastmodified":1467084226,
+    "wof:lastmodified":1510941597,
     "wof:name":"Yarish R Scott MD",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270067065
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

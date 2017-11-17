@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.552649,29.675341,-95.552649,29.675341",
     "geom:latitude":29.675341,
     "geom:longitude":-95.552649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9894 Bissonnet St Ste 170",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7WcDfzzx8LA7ijpd40xLjY_29.675341_-95.552649@1303263019"
     },
     "wof:country":"US",
-    "wof:geomhash":"d318b5c5171c0dff6c0efa24cd625dd4",
+    "wof:geomhash":"c08142ecb83577154da1c376e316d257",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270236351,
-    "wof:lastmodified":1467084158,
+    "wof:lastmodified":1510943995,
     "wof:name":"Boxer Properties",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605720551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

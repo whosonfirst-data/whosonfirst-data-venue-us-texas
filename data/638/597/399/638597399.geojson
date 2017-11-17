@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.374171,30.672823,-96.374171,30.672823",
     "geom:latitude":30.672823,
     "geom:longitude":-96.374171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"202 S Bryan Ave",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_390amTaCLvbAcXlBgJYUam_30.672823_-96.374171@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"a638dd96825e77ff39412ad7e6676e46",
+    "wof:geomhash":"49a4e2ec052f1b2666116e19034ab997",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638597399,
-    "wof:lastmodified":1467087338,
+    "wof:lastmodified":1510942348,
     "wof:name":"Madden's",
     "wof:parent_id":85893605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287012721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

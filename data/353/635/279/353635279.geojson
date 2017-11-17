@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.719942,30.298744,-97.719942,30.298744",
     "geom:latitude":30.298744,
     "geom:longitude":-97.719942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 E 41st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1DoalX9EEjT1t2ZeMungpT_30.298744_-97.719942@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b350bf00c4a0c3aaed4d0e3c0a3285db",
+    "wof:geomhash":"5e60b1bb86e5f97c7f8b929109af6e11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,15 @@
         }
     ],
     "wof:id":353635279,
-    "wof:lastmodified":1467084345,
+    "wof:lastmodified":1510943837,
     "wof:name":"Wendy's",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638602177,
+        303701869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.111038,32.730141,-97.111038,32.730141",
     "geom:latitude":32.730141,
     "geom:longitude":-97.111038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 S West St Ste 409",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5zqZlQ95ZmlIKR19MP4R8n_32.730141_-97.111038@1303262996"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b8a355dba3939201924f09172710db4",
+    "wof:geomhash":"1bcce268e088e7a1af8f7aee4dd53eda",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253614637,
-    "wof:lastmodified":1467085050,
+    "wof:lastmodified":1510941290,
     "wof:name":"University of Texas",
     "wof:parent_id":85873097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605749505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

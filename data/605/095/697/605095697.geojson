@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.445164,31.829036,-106.445164,31.829036",
     "geom:latitude":31.829036,
     "geom:longitude":-106.445164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5631 Dyer St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3bnfV2zecebj7QauKtIlk1_31.829036_-106.445164@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc00250ad2af0e021c36794927b53575",
+    "wof:geomhash":"5d82483edb9f1db852a2dcec17910976",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":605095697,
-    "wof:lastmodified":1467085658,
+    "wof:lastmodified":1510943879,
     "wof:name":"D Dads Produce",
     "wof:parent_id":85842159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588954917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

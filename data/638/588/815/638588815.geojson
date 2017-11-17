@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.197406,32.828776,-97.197406,32.828776",
     "geom:latitude":32.828776,
     "geom:longitude":-97.197406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1101 Melbourne Rd",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0jTzTJ9H50raNp9tbcWbW4_32.828776_-97.197406@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba60b0f69a12888dde3f5663a57dc5e3",
+    "wof:geomhash":"14054a4a892d4382489972eb2da41103",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":638588815,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510942355,
     "wof:name":"Wendy's",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605301469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

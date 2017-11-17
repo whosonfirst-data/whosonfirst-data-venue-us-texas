@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.529381,36.059251,-102.529381,36.059251",
     "geom:latitude":36.059251,
     "geom:longitude":-102.529381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"706 Cherry Ave",
     "sg:city":"Dalhart",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0kOBLXhyG2HFuho70Afx7W_36.059251_-102.529381@1303263074"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e6d799ea5c083a2959444d1ec99d078",
+    "wof:geomhash":"7bb9ec80b50984bbaac3b3059f17a63e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303884059,
-    "wof:lastmodified":1467083790,
+    "wof:lastmodified":1510941744,
     "wof:name":"Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605868711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

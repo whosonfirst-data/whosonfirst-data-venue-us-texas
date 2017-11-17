@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.768799,32.953999,-96.768799,32.953999",
     "geom:latitude":32.953999,
     "geom:longitude":-96.768799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 N Coit Rd Ste 810",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_010EkY3PUZcfqRvDklff3R_32.953999_-96.768799@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5cc9797e97c9e74ce90a7a3c835e061",
+    "wof:geomhash":"543698650564df10a1476af0e3aa7a12",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,15 @@
         }
     ],
     "wof:id":236467847,
-    "wof:lastmodified":1467083998,
+    "wof:lastmodified":1510944183,
     "wof:name":"Rwl Group",
     "wof:parent_id":85880183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588813005,
+        621968323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

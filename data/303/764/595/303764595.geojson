@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727361,30.369364,-97.727361,30.369364",
     "geom:latitude":30.369364,
     "geom:longitude":-97.727361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8711 Burnet Rd Ste H-93",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -64,7 +67,7 @@
         "sg:id":"SG_6J7KGQEBN4of1lxvsO1Isu_30.369364_-97.727361@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc9e1051280675e0924e18047648025d",
+    "wof:geomhash":"df25bdd492227d7d0dc9849417521b1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -77,12 +80,15 @@
         }
     ],
     "wof:id":303764595,
-    "wof:lastmodified":1467083807,
+    "wof:lastmodified":1510943811,
     "wof:name":"JAG INTERIORS, INC.",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605787159,
+        303775067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "draperies",

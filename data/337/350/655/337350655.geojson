@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.426598,29.7339,-95.426598,29.7339",
     "geom:latitude":29.7339,
     "geom:longitude":-95.426598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3311 Richmond Ave Ste 220",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4ae3y5e9nymu2Kkib3RG25_29.733900_-95.426598@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9edc94955dc007390750518b6f32239",
+    "wof:geomhash":"b847681ee30cfac83652b6b7aff1c975",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":337350655,
-    "wof:lastmodified":1467084442,
+    "wof:lastmodified":1510941702,
     "wof:name":"3311 Richmond",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589263333
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

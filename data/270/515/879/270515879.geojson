@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.529595,29.688507,-95.529595,29.688507",
     "geom:latitude":29.688507,
     "geom:longitude":-95.529595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8303 Southwest Fwy Ste 600",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0lujGn5EcSMkw2ugf6mM1L_29.688507_-95.529595@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"92bf782ca94f18467c2c5bbfdf9dccfb",
+    "wof:geomhash":"a82991f20e7e8a628af16dcbaef31012",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,16 @@
         }
     ],
     "wof:id":270515879,
-    "wof:lastmodified":1467084168,
+    "wof:lastmodified":1510943538,
     "wof:name":"Crown Cab Company",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588809755,
+        236930217,
+        270520163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

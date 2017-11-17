@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.804008,29.78219,-95.804008,29.78219",
     "geom:latitude":29.78219,
     "geom:longitude":-95.804008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25109 MARKET PLACE DR",
     "sg:city":"KATY",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4QDE3wyZM0ktPfvA7t8VbH_29.782190_-95.804008@1303263038"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3ab57a7f0d24385d5212b38cb0c2c38",
+    "wof:geomhash":"5d9086794ea045681e3700053b235877",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":286762817,
-    "wof:lastmodified":1467084294,
+    "wof:lastmodified":1510942784,
     "wof:name":"Taco Bell",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638596015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

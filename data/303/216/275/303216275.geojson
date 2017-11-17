@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744598,30.263399,-97.744598,30.263399",
     "geom:latitude":30.263399,
     "geom:longitude":-97.744598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Congress Ave Ste 1800",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1lizR0Z2Nf8NEN4biYHar1_30.263399_-97.744598@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"52b2274abd419a766c49d104a15ec3f9",
+    "wof:geomhash":"fae5a90116d58a824f57c4c455b3c07e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":303216275,
-    "wof:lastmodified":1467083799,
+    "wof:lastmodified":1510943921,
     "wof:name":"First City Southwest Mortgage",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303217481,
+        589176775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.89003,32.952384,-96.89003,32.952384",
     "geom:latitude":32.952384,
     "geom:longitude":-96.89003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1103 S Josey Ln Ste 119",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_7G2336p357EzgM1b1rCLRZ_32.952384_-96.890030@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"157f740fab38ed3d73f9de90bdc0c458",
+    "wof:geomhash":"bc35c76593824d26011c3043765171aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236069693,
-    "wof:lastmodified":1467083970,
+    "wof:lastmodified":1510942747,
     "wof:name":"Banh Mi Ba Hue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605930541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home"

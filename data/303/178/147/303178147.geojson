@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.60776,30.446184,-97.60776,30.446184",
     "geom:latitude":30.446184,
     "geom:longitude":-97.60776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1202 Fm 685",
     "sg:city":"Pflugerville",
     "sg:classifiers":[],
@@ -26,10 +29,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2809689762,
         "sg:id":"SG_2w7LtJ4mnFvnzjMZFGwvJ3_30.446184_-97.607760@1303263051"
     },
     "wof:country":"US",
-    "wof:geomhash":"970ebd528e6bfebec175b8ef846543b7",
+    "wof:geomhash":"9d871e4f6f6d6a84bcfd80ace5fbc940",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,13 +46,17 @@
         }
     ],
     "wof:id":303178147,
-    "wof:lastmodified":1467083779,
+    "wof:lastmodified":1510941620,
     "wof:name":"Great Wall Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622369147
+    ],
+    "wof:supersedes":[
+        622369147
+    ],
     "wof:tags":[]
 },
   "bbox": [

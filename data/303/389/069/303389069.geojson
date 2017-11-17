@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.720543,30.28479,-97.720543,30.28479",
     "geom:latitude":30.28479,
     "geom:longitude":-97.720543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2800 French Pl",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7HHxH0ycrTbB92uKcrzhji_30.284790_-97.720543@1303263058"
     },
     "wof:country":"US",
-    "wof:geomhash":"c329a9ac27b41137b12b60fad669cd55",
+    "wof:geomhash":"e5b4a1ce719691aae84d60ccf8b210f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303389069,
-    "wof:lastmodified":1467083788,
+    "wof:lastmodified":1510942029,
     "wof:name":"Eliza W Morehead Appraisals",
     "wof:parent_id":85893499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622724719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

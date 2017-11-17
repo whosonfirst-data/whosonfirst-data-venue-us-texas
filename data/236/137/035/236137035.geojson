@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.958,32.9534,-96.958,32.9534",
     "geom:latitude":32.9534,
     "geom:longitude":-96.958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"769 S MacArthur Blvd",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5m5xtbo7BRQcxdvouQdD94_32.953400_-96.958000@1303262963"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe89e6e2e759b31c08608673d2bd2a52",
+    "wof:geomhash":"b0d3a4187d81b8e814d72aa59610c196",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236137035,
-    "wof:lastmodified":1467084013,
+    "wof:lastmodified":1510943975,
     "wof:name":"Coppell House of Dance",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387447787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"

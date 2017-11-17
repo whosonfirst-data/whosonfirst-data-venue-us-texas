@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.112693,29.558625,-95.112693,29.558625",
     "geom:latitude":29.558625,
     "geom:longitude":-95.112693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1331 Gemini St Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_24IvoxS5X2frTbsR9vcAGn_29.558625_-95.112693@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0e97c4c89dcdd07a8d62542bf050e0b",
+    "wof:geomhash":"b4ce31cd99c91029301e459f1705435c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":270442229,
-    "wof:lastmodified":1467084185,
+    "wof:lastmodified":1510941572,
     "wof:name":"Cb Richard Ellis, Inc.",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605952043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

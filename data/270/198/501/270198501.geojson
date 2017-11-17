@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.2229,29.621599,-95.2229,29.621599",
     "geom:latitude":29.621599,
     "geom:longitude":-95.2229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12200 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1PtLmYvgwoetq12ucMcY5j_29.621599_-95.222900@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8357fc68931264d76aca35200c6c525",
+    "wof:geomhash":"677bb4b1049a4e0074ab98607b0d05d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,15 @@
         }
     ],
     "wof:id":270198501,
-    "wof:lastmodified":1467084179,
+    "wof:lastmodified":1510942355,
     "wof:name":"Naad Jewelers",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236444199,
+        588823565
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

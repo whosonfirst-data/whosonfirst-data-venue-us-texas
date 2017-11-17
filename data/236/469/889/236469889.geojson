@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.700297,32.932168,-96.700297,32.932168",
     "geom:latitude":32.932168,
     "geom:longitude":-96.700297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1332 S Plano Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_7BDM1eiFKeg7ucOD7Fc7A7_32.932168_-96.700297@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"76167c0407bb5c9e38e35b34fc6ef586",
+    "wof:geomhash":"8d36d4c0299e848902ff13d006fe9f56",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236469889,
-    "wof:lastmodified":1467084044,
+    "wof:lastmodified":1510941816,
     "wof:name":"Buckingham Plano Road Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236473181
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

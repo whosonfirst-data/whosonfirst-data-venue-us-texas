@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.4188,29.741501,-95.4188,29.741501",
     "geom:latitude":29.741501,
     "geom:longitude":-95.4188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2727 Kirby Dr Ste 700",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5DgPuJhGsH8abYRdq2xPA1_29.741501_-95.418800@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6f762273d792193a1c9a7355800e55b",
+    "wof:geomhash":"632b9917cce78ea1a047478dba27e67b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":286430345,
-    "wof:lastmodified":1467084289,
+    "wof:lastmodified":1510942261,
     "wof:name":"Papercity Magazine",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589051007
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "print",

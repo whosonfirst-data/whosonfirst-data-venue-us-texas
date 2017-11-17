@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.865365,30.233986,-97.865365,30.233986",
     "geom:latitude":30.233986,
     "geom:longitude":-97.865365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6705 W Hwy 290",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0u0QQ0RtmfpSdx7IjDiYG8_30.233986_-97.865365@1303263062"
     },
     "wof:country":"US",
-    "wof:geomhash":"1645a2d253c535d7cff4c50b05daefdb",
+    "wof:geomhash":"189816f321a770ee9bc3a7479edc441e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303518449,
-    "wof:lastmodified":1467083761,
+    "wof:lastmodified":1510941620,
     "wof:name":"Burger Tex",
     "wof:parent_id":85838745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303522385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"

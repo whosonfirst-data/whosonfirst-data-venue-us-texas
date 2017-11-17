@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.207965,29.584284,-95.207965,29.584284",
     "geom:latitude":29.584284,
     "geom:longitude":-95.207965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11914 Astoria Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0384ZHbKTss7eEUgPhwoDS_29.584284_-95.207965@1303263029"
     },
     "wof:country":"US",
-    "wof:geomhash":"013c0fdb4f57192789bd9d49bbe3fedb",
+    "wof:geomhash":"fd2fb45ee23e91bf9107c2be05338510",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":286346641,
-    "wof:lastmodified":1467084235,
+    "wof:lastmodified":1510941788,
     "wof:name":"Bapat, Avinash",
     "wof:parent_id":85869665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622650147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

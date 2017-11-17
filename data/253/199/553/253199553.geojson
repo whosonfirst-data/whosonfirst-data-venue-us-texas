@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.865799,32.821301,-96.865799,32.821301",
     "geom:latitude":32.821301,
     "geom:longitude":-96.865799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1341 W Mockingbird Ln Lbby",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6BL3w4zOWfsdID83X3jrKr_32.821301_-96.865799@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"671ce71b653f20a36f1459e81da9815e",
+    "wof:geomhash":"ca24e3769a893c952f4564c9649ad28f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253199553,
-    "wof:lastmodified":1467084955,
+    "wof:lastmodified":1510941982,
     "wof:name":"Nursefinders Inc",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622836299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

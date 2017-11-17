@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.387871,29.72477,-95.387871,29.72477",
     "geom:latitude":29.72477,
     "geom:longitude":-95.387871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Binz St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3yPqJcX9gyZS2rZAXuBm4q_29.724770_-95.387871@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd901cc266e77101d5ed08375f9876a1",
+    "wof:geomhash":"c3b21659ad1fbe239b32a2949997932d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269873139,
-    "wof:lastmodified":1467084585,
+    "wof:lastmodified":1510943636,
     "wof:name":"Diagnostic Clinic Of Houston",
     "wof:parent_id":85893767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605864383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

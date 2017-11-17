@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.819504,32.798302,-96.819504,32.798302",
     "geom:latitude":32.798302,
     "geom:longitude":-96.819504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1949 N Stemmons Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_76Dt4CvKx2ioEQAc3vmdH9_32.798302_-96.819504@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"d80d79320c3520e5e9735a21490a8882",
+    "wof:geomhash":"3051cda6581b79adb8ce923a2e18890a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236940325,
-    "wof:lastmodified":1467083898,
+    "wof:lastmodified":1510942196,
     "wof:name":"Feizy Rugs",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589224721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.473199,29.748188,-95.473199,29.748188",
     "geom:latitude":29.748188,
     "geom:longitude":-95.473199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1770 Saint James Pl",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_25pNvkky0yjfackNP7K4m8_29.748188_-95.473199@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9cfac759f0ec2a2fb88d112d5b7cca2",
+    "wof:geomhash":"7f25fbc4c8593ea252f3d20557d41664",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370196269,
-    "wof:lastmodified":1467084488,
+    "wof:lastmodified":1510942255,
     "wof:name":"Graubart & Co",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622531147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

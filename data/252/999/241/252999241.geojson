@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769699,32.8769,-96.769699,32.8769",
     "geom:latitude":32.8769,
     "geom:longitude":-96.769699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9400 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4VJUeGJ6Gp7aJcEnVrw6uw_32.876900_-96.769699@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"558eac8e314899376be9508836b5f0b2",
+    "wof:geomhash":"60ba72bd890c6072d0697b64de7420fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252999241,
-    "wof:lastmodified":1467084101,
+    "wof:lastmodified":1510942615,
     "wof:name":"Bell Steven S Attorney At Law",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589061977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

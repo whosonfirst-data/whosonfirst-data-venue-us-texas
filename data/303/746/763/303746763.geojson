@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.67881,30.333692,-97.67881,30.333692",
     "geom:latitude":30.333692,
     "geom:longitude":-97.67881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8000 Centre Park Drive Suite 385",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_49azgKkPoGG0Vk9BWxKoA6_30.333692_-97.678810@1303263069"
     },
     "wof:country":"US",
-    "wof:geomhash":"061ed44000179eb12bd18c4f03f2cfb3",
+    "wof:geomhash":"a72ef78e4f38ad2da4e5d5fd059eb657",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":303746763,
-    "wof:lastmodified":1467083690,
+    "wof:lastmodified":1510943825,
     "wof:name":"Digital Street, Inc.",
     "wof:parent_id":85869903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303749975
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"

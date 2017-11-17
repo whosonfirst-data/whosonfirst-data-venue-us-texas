@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.190083,32.994664,-97.190083,32.994664",
     "geom:latitude":32.994664,
     "geom:longitude":-97.190083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"99 Trophy Club Dr",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5KZvBpLfMgAzWZNfLk4q1C_32.994664_-97.190083@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"537e0d354043506401a2144879145f51",
+    "wof:geomhash":"79862a63abfcb90c5e102d1d237c76ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236228561,
-    "wof:lastmodified":1467083910,
+    "wof:lastmodified":1510941703,
     "wof:name":"S A A  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588843361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "retail",

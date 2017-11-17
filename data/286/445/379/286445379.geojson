@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463447,29.737432,-95.463447,29.737432",
     "geom:latitude":29.737432,
     "geom:longitude":-95.463447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5135 W Alabama St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2SIzMgv2LbyHYbUNH41cCA_29.737432_-95.463447@1303263032"
     },
     "wof:country":"US",
-    "wof:geomhash":"279c1daca870c90f5e5f26c8fa549d72",
+    "wof:geomhash":"cefc054450792a98332848e1822c8f54",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":286445379,
-    "wof:lastmodified":1467084247,
+    "wof:lastmodified":1510943335,
     "wof:name":"Macy's",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270377101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

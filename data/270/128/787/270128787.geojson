@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.434303,29.7383,-95.434303,29.7383",
     "geom:latitude":29.7383,
     "geom:longitude":-95.434303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3601 W Alabama St Ste 107",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7HBO1T97nU5pmCPuUE05Pv_29.738300_-95.434303@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"a159865d817d20b9be5692805ed7ca12",
+    "wof:geomhash":"334aaefdcbaddf1b34dd86ce172a92b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270128787,
-    "wof:lastmodified":1467084181,
+    "wof:lastmodified":1510943896,
     "wof:name":"Knapp Lock & Safe Co Inc",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353944027
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "key"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.552498,29.6752,-95.552498,29.6752",
     "geom:latitude":29.6752,
     "geom:longitude":-95.552498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9894 Bissonnet St Ste 340",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_15lZvKDfkwwPB16USaAtL3_29.675200_-95.552498@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5b33ab0e8124db8a0a3b3d01edda071",
+    "wof:geomhash":"d5b2da3a4b396a89904a95b1df7802d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270218255,
-    "wof:lastmodified":1467084202,
+    "wof:lastmodified":1510942716,
     "wof:name":"Raynor Joyce Atty At Law",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605680001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

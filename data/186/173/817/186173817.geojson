@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.751086,30.352434,-97.751086,30.352434",
     "geom:latitude":30.352434,
     "geom:longitude":-97.751086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6800 Austin Center Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7Fl4v3pp61KFA73Qn34EYC_30.352434_-97.751086@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9942c35a9df91c303486d48ef468c18e",
+    "wof:geomhash":"8f081754ce3e18e3f678e8a9b8b929af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":186173817,
-    "wof:lastmodified":1467084702,
+    "wof:lastmodified":1510943788,
     "wof:name":"Somerset Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303466601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

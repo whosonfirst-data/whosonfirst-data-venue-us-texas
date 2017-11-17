@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.716414,30.36109,-97.716414,30.36109",
     "geom:latitude":30.36109,
     "geom:longitude":-97.716414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8557 Research Blvd Ste 118",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2QfnBcWbbEr29lmjZRnXfC_30.361090_-97.716414@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"389cf986939726551322a44bad498ddb",
+    "wof:geomhash":"452cbdddf87463e7078e888a4756a6a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638602341,
-    "wof:lastmodified":1467087345,
+    "wof:lastmodified":1510943721,
     "wof:name":"Coco's Cafe",
     "wof:parent_id":85869883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303787021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "taiwanese",

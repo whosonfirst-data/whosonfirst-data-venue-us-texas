@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.739882,30.303614,-97.739882,30.303614",
     "geom:latitude":30.303614,
     "geom:longitude":-97.739882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 W 38th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
         "sg:id":"SG_0Xz93MPWFbNqHUKMzUhj9p_30.303614_-97.739882@1303263058"
     },
     "wof:country":"US",
-    "wof:geomhash":"a74b5bc472f1c0934cd1343568fe245f",
+    "wof:geomhash":"56cd1405aa57909b8ef5debb4bed7fe0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":303368305,
-    "wof:lastmodified":1467083719,
+    "wof:lastmodified":1510943567,
     "wof:name":"Turner David M MD",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621825139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

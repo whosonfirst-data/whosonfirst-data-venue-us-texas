@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.645088,29.86146,-95.645088,29.86146",
     "geom:latitude":29.86146,
     "geom:longitude":-95.645088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5935 Highway 6 N",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1B5iuQfS6SoeSNQ9P9vjPJ_29.861460_-95.645088@1303263029"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7cc4f90f02b910a294be66b09bfaa84",
+    "wof:geomhash":"5a799d88fe618984e3ea9212b8b5e3ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286320027,
-    "wof:lastmodified":1467084256,
+    "wof:lastmodified":1510943503,
     "wof:name":"Spring Creek Barbeque",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638593637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

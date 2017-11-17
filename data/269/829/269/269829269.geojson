@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.367426,29.748712,-95.367426,29.748712",
     "geom:latitude":29.748712,
     "geom:longitude":-95.367426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1315 St Joseph Pkwy Ste 920",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1JJUXnD5WiL2LXSbhFLwCl_29.748712_-95.367426@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4e1c9355a287b9b6390686a0582b940",
+    "wof:geomhash":"07c2407e65076af0967344bab7b4416a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269829269,
-    "wof:lastmodified":1467084634,
+    "wof:lastmodified":1510942057,
     "wof:name":"Cohen & Cronin Clinic Assoc",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622839781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

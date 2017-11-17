@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.571482,29.713962,-95.571482,29.713962",
     "geom:latitude":29.713962,
     "geom:longitude":-95.571482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6150 Wilcrest Dr",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3SOtzlXVWOOoe02r7mZN6x_29.713962_-95.571482@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"d566ad79f5a3fdca6349472efff0ae59",
+    "wof:geomhash":"5468f725ef5b83b5f03cd71bf83ef545",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270506911,
-    "wof:lastmodified":1467084152,
+    "wof:lastmodified":1510941271,
     "wof:name":"Big John's Sports Bar",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638593259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

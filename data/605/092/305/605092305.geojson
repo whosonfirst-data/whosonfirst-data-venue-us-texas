@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.841139,32.814878,-96.841139,32.814878",
     "geom:latitude":32.814878,
     "geom:longitude":-96.841139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5323 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5XoafXfBvmPDfkplzm0Q0z_32.814878_-96.841139@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1e7630454eecb973d0f74e928a84ea7",
+    "wof:geomhash":"26f0808b86ea7b7441879974a3db1fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":605092305,
-    "wof:lastmodified":1467085656,
+    "wof:lastmodified":1510941391,
     "wof:name":"University Tx Sw Med School",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622791847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.686297,29.551024,-98.686297,29.551024",
     "geom:latitude":29.551024,
     "geom:longitude":-98.686297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11634 Rainbow Rdg",
     "sg:city":"Helotes",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_15KiYOAGQcJnsYL9piaKY1_29.551024_-98.686297@1303263044"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc392ec61dc8dbd3fe702af1e267da22",
+    "wof:geomhash":"6e079703583fb01c06fbf1c6ed1b624b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287105189,
-    "wof:lastmodified":1467083829,
+    "wof:lastmodified":1510941229,
     "wof:name":"Helotes Collision Center",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622060699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

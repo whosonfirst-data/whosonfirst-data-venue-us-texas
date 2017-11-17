@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.539299,29.7278,-95.539299,29.7278",
     "geom:latitude":29.7278,
     "geom:longitude":-95.539299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9700 Richmond Ave Ste 230",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_58oU9kOLTM0pGMJsJfZ9hD_29.727800_-95.539299@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2361d49608406a11732420c6ce450f9",
+    "wof:geomhash":"5a137ca334ac6174642e33b034abebb7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270297053,
-    "wof:lastmodified":1467084202,
+    "wof:lastmodified":1510943374,
     "wof:name":"Terry H Sears Atty At Law",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621978729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

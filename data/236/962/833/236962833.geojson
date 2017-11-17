@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.826918,32.742251,-96.826918,32.742251",
     "geom:latitude":32.742251,
     "geom:longitude":-96.826918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"325 Centre St",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1CsvCuzPpD9QEtJHnNAsmm_32.742251_-96.826918@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfdc2b8b34c5be7dc710addd0f1739f1",
+    "wof:geomhash":"a90dfd00ae3d949d6bc202d6314c979f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236962833,
-    "wof:lastmodified":1467083961,
+    "wof:lastmodified":1510942274,
     "wof:name":"Barbara's Pavillion",
     "wof:parent_id":85870397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622839137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

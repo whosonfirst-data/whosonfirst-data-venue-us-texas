@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.459321,31.055138,-97.459321,31.055138",
     "geom:latitude":31.055138,
     "geom:longitude":-97.459321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"505 E Central Ave",
     "sg:city":"Belton",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_201jzsqJzcL1g13gYGfhGZ_31.055138_-97.459321@1303263003"
     },
     "wof:country":"US",
-    "wof:geomhash":"3abed9f45d74c37be6277c146bcd8921",
+    "wof:geomhash":"dbd5c2e5ed2da87cf2c7f9e7574331b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269670779,
-    "wof:lastmodified":1467084581,
+    "wof:lastmodified":1510941492,
     "wof:name":"Jaliscos Mexican Restaurant",
     "wof:parent_id":85825787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404049959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.538103,29.717631,-95.538103,29.717631",
     "geom:latitude":29.717631,
     "geom:longitude":-95.538103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9889 Harwin Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7Dd9jn0M1hcgssfab6JpYC_29.717631_-95.538103@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b775a61078bd5c979e7a2e823c2ab2d1",
+    "wof:geomhash":"d905bcb7d7293c7d7ecc1659b5ac79d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":588787237,
-    "wof:lastmodified":1467085229,
+    "wof:lastmodified":1510941777,
     "wof:name":"AMKO Trading",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622717305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise",

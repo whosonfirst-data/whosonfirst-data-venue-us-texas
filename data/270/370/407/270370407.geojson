@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.531756,29.784987,-95.531756,29.784987",
     "geom:latitude":29.784987,
     "geom:longitude":-95.531756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9710 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_7enTn44gBnUNuLflv8ZlJp_29.784987_-95.531756@1303263022"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed007bd8c30c45d5c700c4bf99bf638d",
+    "wof:geomhash":"bc4cf870cf09657e2fa3fb887831fa03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":270370407,
-    "wof:lastmodified":1467084194,
+    "wof:lastmodified":1510943399,
     "wof:name":"H-E-B",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270373015
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

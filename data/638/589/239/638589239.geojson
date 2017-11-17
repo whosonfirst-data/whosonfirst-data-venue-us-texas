@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.34295,32.835433,-97.34295,32.835433",
     "geom:latitude":32.835433,
     "geom:longitude":-97.34295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5321 Blue Mound Rd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_07bIdejGiIi30lhP2fw8Io_32.835433_-97.342950@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bf02cfa71402ed9bb79225a7a77779c",
+    "wof:geomhash":"ce113073958b36d6bc20b36962a8b2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638589239,
-    "wof:lastmodified":1467087327,
+    "wof:lastmodified":1510941507,
     "wof:name":"McDonald's",
     "wof:parent_id":420543791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605821967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.600617,32.780832,-96.600617,32.780832",
     "geom:latitude":32.780832,
     "geom:longitude":-96.600617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1336 N Galloway Ave",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_3cvjHCybahuwpaR7dZnXBB_32.780832_-96.600617@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7d4def00f65c1de2ff5c65560c78728",
+    "wof:geomhash":"e3f71595b01349dfc26104b5e0f32979",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":353764005,
-    "wof:lastmodified":1467084373,
+    "wof:lastmodified":1510943052,
     "wof:name":"Childrens Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236674669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

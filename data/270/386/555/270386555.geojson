@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461324,29.740602,-95.461324,29.740602",
     "geom:latitude":29.740602,
     "geom:longitude":-95.461324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5015 Westheimer Rd Ste 2490",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7Osj75FIBV2lmjYnCMLKjA_29.740602_-95.461324@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bb5041494f9aa0c97b1296ec90d6991",
+    "wof:geomhash":"23785eacc4af36e59d7968b8cdbfde43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270386555,
-    "wof:lastmodified":1467084192,
+    "wof:lastmodified":1510941563,
     "wof:name":"EXPRESS",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605153243
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

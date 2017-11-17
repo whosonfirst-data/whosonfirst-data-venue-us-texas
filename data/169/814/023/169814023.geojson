@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.715479,30.323839,-97.715479,30.323839",
     "geom:latitude":30.323839,
     "geom:longitude":-97.715479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6001 Airport Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_28jb9QX2ivIhIbAfFqLXuj_30.323839_-97.715479@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff1052f182f4829b2f26098fcf1dc698",
+    "wof:geomhash":"245a0f78c14cadfa6f3e8167a9003173",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169814023,
-    "wof:lastmodified":1467084560,
+    "wof:lastmodified":1510943274,
     "wof:name":"American Eagle Outfitters",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303709999
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family",

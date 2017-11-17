@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803703,32.932701,-96.803703,32.932701",
     "geom:latitude":32.932701,
     "geom:longitude":-96.803703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13601 Preston Rd Ste 307W",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5NcdLAoCsqkrHkwPPMBfya_32.932701_-96.803703@1303262987"
     },
     "wof:country":"US",
-    "wof:geomhash":"edb35f39aae3041286abfce2d1ac9676",
+    "wof:geomhash":"f93bde851601280fdc8e0243e05f4084",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253096259,
-    "wof:lastmodified":1467084978,
+    "wof:lastmodified":1510943330,
     "wof:name":"Ams Staffing Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589089169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity",

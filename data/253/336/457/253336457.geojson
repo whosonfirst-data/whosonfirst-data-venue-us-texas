@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.109871,33.094151,-96.109871,33.094151",
     "geom:latitude":33.094151,
     "geom:longitude":-96.109871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7818 Wesley St",
     "sg:city":"Greenville",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_68lWNxmQLUFH68X4091vnF_33.094151_-96.109871@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"2563c49dfab74a8ab33e8397f40fb108",
+    "wof:geomhash":"709dc7260edb33bd90f0bb8cf1c0d135",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253336457,
-    "wof:lastmodified":1467084943,
+    "wof:lastmodified":1510944004,
     "wof:name":"Wings to Go",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638586569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

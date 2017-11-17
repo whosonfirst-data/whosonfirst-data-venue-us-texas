@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.785246,30.195901,-97.785246,30.195901",
     "geom:latitude":30.195901,
     "geom:longitude":-97.785246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 W William Cannon Dr",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1aaHXMymIArCg1NFUoYBF2_30.195901_-97.785246@1303263065"
     },
     "wof:country":"US",
-    "wof:geomhash":"52666312c99c4cba19c2d2a33f351bb7",
+    "wof:geomhash":"3411020d44d6ba35c3dced7a49d9395c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303598573,
-    "wof:lastmodified":1467083698,
+    "wof:lastmodified":1510942105,
     "wof:name":"Eternal Flowers & Gifts",
     "wof:parent_id":85869971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622638737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

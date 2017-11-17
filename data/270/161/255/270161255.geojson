@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.399915,29.711315,-95.399915,29.711315",
     "geom:latitude":29.711315,
     "geom:longitude":-95.399915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6550 Fannin St Ste 2421",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0rCto4znIaxxq3VXhGCV0G_29.711315_-95.399915@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f79b3bed98bb6e9935e971511230859",
+    "wof:geomhash":"02fc76add48fd4eff9586103839c546a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270161255,
-    "wof:lastmodified":1467084181,
+    "wof:lastmodified":1510943188,
     "wof:name":"Texas Pain Consultants",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219833705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

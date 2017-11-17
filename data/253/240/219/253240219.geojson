@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.789178,32.962306,-96.789178,32.962306",
     "geom:latitude":32.962306,
     "geom:longitude":-96.789178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6959 Arapaho Rd Ste 115",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5ihAktMRb8JFVdb2UJyoxf_32.962306_-96.789178@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6d2a5a545be9dc269e8f5b63b3053b4",
+    "wof:geomhash":"c250ae6c371cd268b93ccfc044d8cd3c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":253240219,
-    "wof:lastmodified":1467084955,
+    "wof:lastmodified":1510941888,
     "wof:name":"Sam's Wok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622847649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"

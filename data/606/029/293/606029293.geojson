@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.796134,32.780512,-96.796134,32.780512",
     "geom:latitude":32.780512,
     "geom:longitude":-96.796134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2Qi7yHepXLVScdqrYT69KP_32.780512_-96.796134@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b325a7d5c5a1b7513a1af33d73f564c",
+    "wof:geomhash":"274df429d9f32e9102b4f8ef5c0b14b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":606029293,
-    "wof:lastmodified":1467086337,
+    "wof:lastmodified":1510941697,
     "wof:name":"Mc Commons Oil Co",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236785111
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil",

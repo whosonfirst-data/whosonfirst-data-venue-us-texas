@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.498632,29.731786,-95.498632,29.731786",
     "geom:latitude":29.731786,
     "geom:longitude":-95.498632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6430 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0EPmijnlOqHBzN0dXB5XOr_29.731786_-95.498632@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb6a45d869a603e1be4d67c64b37bb38",
+    "wof:geomhash":"767f22468d1f4c5df6f912706d1107c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":185841235,
-    "wof:lastmodified":1467084117,
+    "wof:lastmodified":1510942051,
     "wof:name":"GMI Credit",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605564747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

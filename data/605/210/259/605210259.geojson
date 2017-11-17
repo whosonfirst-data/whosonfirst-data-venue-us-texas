@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.39013,29.938986,-95.39013,29.938986",
     "geom:latitude":29.938986,
     "geom:longitude":-95.39013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"507 Sam Houston Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_2o6NXlo4x8XBh7yP4L7tUW_29.938986_-95.390130@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b34971755b4254dc7806306a9f68721",
+    "wof:geomhash":"d0d7d370342a744cc3633089d059e298",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":605210259,
-    "wof:lastmodified":1467085741,
+    "wof:lastmodified":1510943213,
     "wof:name":"Aim Group Incorporated",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622731795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

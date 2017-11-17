@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.3675,29.7486,-95.3675,29.7486",
     "geom:latitude":29.7486,
     "geom:longitude":-95.3675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1315 St Joseph Pkwy Ste 1605",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5qgPiYV6EeKRw6s45fzrhX_29.748600_-95.367500@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"914d52125a97fc80de7d36f5bc734927",
+    "wof:geomhash":"992f59140c0c617728e60802a7f21f4f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269814633,
-    "wof:lastmodified":1467084584,
+    "wof:lastmodified":1510941304,
     "wof:name":"Colorectal Associates PA",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605490807
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.742481,32.941911,-96.742481,32.941911",
     "geom:latitude":32.941911,
     "geom:longitude":-96.742481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"811 S Central Expy",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_35HVA1tfI3HTY6mnoKZ29I_32.941911_-96.742481@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e67b53d9fea91da812fbdb2e00846ef",
+    "wof:geomhash":"28eb87d0109431b26863e91b18f40a79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236468093,
-    "wof:lastmodified":1467083985,
+    "wof:lastmodified":1510943304,
     "wof:name":"Iranzamin Broadcasting Inc",
     "wof:parent_id":85880221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605270175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

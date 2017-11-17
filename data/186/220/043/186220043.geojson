@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.861931,32.822274,-96.861931,32.822274",
     "geom:latitude":32.822274,
     "geom:longitude":-96.861931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1420 W Mockingbird Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6dwK2ANdrUlj5gatt0xcqS_32.822274_-96.861931@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"36550c127d33c5abd8c0a5cd8195a80b",
+    "wof:geomhash":"df5244b3a933d1361cfe60e2419d9f84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":186220043,
-    "wof:lastmodified":1467084745,
+    "wof:lastmodified":1510942463,
     "wof:name":"Network Intelligence",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253200899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"

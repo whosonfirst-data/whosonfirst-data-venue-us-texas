@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461304,29.760201,-95.461304,29.760201",
     "geom:latitude":29.760201,
     "geom:longitude":-95.461304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Riverway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_00uEQsh6DfRYydYZVkhWx9_29.760201_-95.461304@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebc66e2d428ca6faa6bfbecd85fcc167",
+    "wof:geomhash":"2b11c692491903d5f6130aa152afa620",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270385403,
-    "wof:lastmodified":1467084198,
+    "wof:lastmodified":1510941695,
     "wof:name":"Mullen Lawrence R Atty",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605117129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

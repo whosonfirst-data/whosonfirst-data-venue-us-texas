@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.362252,29.755473,-95.362252,29.755473",
     "geom:latitude":29.755473,
     "geom:longitude":-95.362252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 McKinney St Ste 900",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_5S5ZOFfeAKVVKPXXSGpJRR_29.755473_-95.362252@1303263011"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b2a3a2b5a2e033e7bb4f22b2f3f7258",
+    "wof:geomhash":"445a8d3a3ec2cc9fad2703ed81ce8b88",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":269957983,
-    "wof:lastmodified":1467084629,
+    "wof:lastmodified":1510943270,
     "wof:name":"Chevron",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605328411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

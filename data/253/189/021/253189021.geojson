@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.779873,32.791171,-96.779873,32.791171",
     "geom:latitude":32.791171,
     "geom:longitude":-96.779873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 Gaston Ave Ste 410",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6MQJpL7KIu8GNJ2hLQ50Ff_32.791171_-96.779873@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"7005f9b1e64ac96eb06caad1ea50bbfc",
+    "wof:geomhash":"ef07dea54c135f5047dccaea5a7bd08b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253189021,
-    "wof:lastmodified":1467085017,
+    "wof:lastmodified":1510942322,
     "wof:name":"Paul G Pin, MD",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622064307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

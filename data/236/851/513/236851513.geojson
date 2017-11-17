@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806503,32.780727,-96.806503,32.780727",
     "geom:latitude":32.780727,
     "geom:longitude":-96.806503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"302 N Market St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5YpTEx9hy4E6e3HqpSqlPg_32.780727_-96.806503@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"75938f95c183d65cadd9b76538d83eab",
+    "wof:geomhash":"15968e19b56c31c9f3b7abed56b71b97",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236851513,
-    "wof:lastmodified":1467083975,
+    "wof:lastmodified":1510941593,
     "wof:name":"Sonny Bryan's Smokehouse",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236851579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"

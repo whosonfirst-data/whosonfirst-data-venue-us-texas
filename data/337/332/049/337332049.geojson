@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.372244,29.752547,-95.372244,29.752547",
     "geom:latitude":29.752547,
     "geom:longitude":-95.372244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 Jefferson St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3RtBQvQI5TkcjAJJI7z2GM_29.752547_-95.372244@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d22077ce489c42d05f5c6dcd15775d91",
+    "wof:geomhash":"1d214d10a9bae8ca58776f55a3f894cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":337332049,
-    "wof:lastmodified":1467084443,
+    "wof:lastmodified":1510944184,
     "wof:name":"Eco Fluids Inc",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622169815
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "preparation",

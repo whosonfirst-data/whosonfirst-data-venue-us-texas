@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.813103,32.9226,-96.813103,32.9226",
     "geom:latitude":32.9226,
     "geom:longitude":-96.813103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5550 Harvest Hill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3iL7yHLWV0AqNATd4qoy8d_32.922600_-96.813103@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c94b25b07e2a0df29bf7b04a745e8c3",
+    "wof:geomhash":"b43828604eedefb7cd27b8135d858f77",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252963931,
-    "wof:lastmodified":1467084054,
+    "wof:lastmodified":1510941761,
     "wof:name":"St Paul Senior Health Center",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588928375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

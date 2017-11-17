@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7463,32.882599,-96.7463,32.882599",
     "geom:latitude":32.882599,
     "geom:longitude":-96.7463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8440 Walnut Hill Ln Ste 510",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1NtW85K8Sur8PbyZNjBzJ4_32.882599_-96.746300@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"304201e6268b64ff2540acea2e439686",
+    "wof:geomhash":"d496d4bbb1efa49a68575375208207c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252987631,
-    "wof:lastmodified":1467084081,
+    "wof:lastmodified":1510942304,
     "wof:name":"Texas Neuro Radiology",
     "wof:parent_id":85897343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353708441
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

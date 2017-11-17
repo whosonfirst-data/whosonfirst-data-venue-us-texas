@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8181,32.930099,-96.8181,32.930099",
     "geom:latitude":32.930099,
     "geom:longitude":-96.8181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13355 Noel Rd Ste 800",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3POJn8bnFiWy7vPk2R8RCy_32.930099_-96.818100@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a01fe080aff07ffdfb53612afcd6cf8",
+    "wof:geomhash":"58dccafc97004de63f1f098d4da71ea6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253122609,
-    "wof:lastmodified":1467085003,
+    "wof:lastmodified":1510943654,
     "wof:name":"Rsm McGladrey",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588812851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

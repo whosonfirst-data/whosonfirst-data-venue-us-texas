@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.743492,30.26618,-97.743492,30.26618",
     "geom:latitude":30.26618,
     "geom:longitude":-97.743492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 Congress Ave",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_3OgKBA0cbiTD3b4POTuOLy_30.266180_-97.743492@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"2700076a949b8884de5a4ab5448890c0",
+    "wof:geomhash":"8352290c7240fab8545d55e1028be9e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303259641,
-    "wof:lastmodified":1467083719,
+    "wof:lastmodified":1510941568,
     "wof:name":"McCormick & Schmick's",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638601483
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.751157,30.350659,-97.751157,30.350659",
     "geom:latitude":30.350659,
     "geom:longitude":-97.751157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6818 Austin Center Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5q3HGJ3vYj1saJ2FTzvKee_30.350659_-97.751157@1303263061"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e5418fe77b38a4e885d18013786a8a5",
+    "wof:geomhash":"32de21ff7eba0cbf9e18415d581061b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303472693,
-    "wof:lastmodified":1467083701,
+    "wof:lastmodified":1510943736,
     "wof:name":"Back Injury Center of Austin",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589016975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

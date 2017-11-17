@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803627,32.949666,-96.803627,32.949666",
     "geom:latitude":32.949666,
     "geom:longitude":-96.803627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14785 Preston Rd Ste 550",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Mfi8DtiUaMcOm3nsazzCP_32.949666_-96.803627@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"190a5e9c5f4ea0c013c005d96cc0b236",
+    "wof:geomhash":"ffe5d8bf0d94eb67ebe4c8ece7b5b1f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253285885,
-    "wof:lastmodified":1467084948,
+    "wof:lastmodified":1510942023,
     "wof:name":"Ignite Sales, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622752491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "web",

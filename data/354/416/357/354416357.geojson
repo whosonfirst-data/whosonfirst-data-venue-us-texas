@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.106639,33.184903,-97.106639,33.184903",
     "geom:latitude":33.184903,
     "geom:longitude":-97.106639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2430 S I- 35 E",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1oXtcQvWX1zHiSeFQKpDOb_33.184903_-97.106639@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0e9300b7bfac39ee43817611b3f6c7a",
+    "wof:geomhash":"f6df455865143f0261254a6e923cfb8b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":354416357,
-    "wof:lastmodified":1467085069,
+    "wof:lastmodified":1510942212,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370524527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

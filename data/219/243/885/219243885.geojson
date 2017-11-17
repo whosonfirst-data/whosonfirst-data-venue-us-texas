@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401877,29.736073,-95.401877,29.736073",
     "geom:latitude":29.736073,
     "geom:longitude":-95.401877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3803 Dunlavy St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3Ds2BuzQ0zn0AqqnyI0Vwp_29.736073_-95.401877@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"709eaa5452913e42cd5dcbf686673df7",
+    "wof:geomhash":"edade7606b989dbc0c206907b9e91a1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219243885,
-    "wof:lastmodified":1467085124,
+    "wof:lastmodified":1510941512,
     "wof:name":"A & V Jewelry & Watch Repair",
     "wof:parent_id":85867251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269905521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"

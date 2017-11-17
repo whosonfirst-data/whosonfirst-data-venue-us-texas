@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.618347,32.81089,-96.618347,32.81089",
     "geom:latitude":32.81089,
     "geom:longitude":-96.618347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1515 N Town East Blvd # 138",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1subfOtAAxQmGYMH3NVwH8_32.810890_-96.618347@1303262974"
     },
     "wof:country":"US",
-    "wof:geomhash":"41580e68825ff799e472b039b05bde87",
+    "wof:geomhash":"c98d4158b355c05b3e70bcdc209197e7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236705285,
-    "wof:lastmodified":1467084041,
+    "wof:lastmodified":1510943409,
     "wof:name":"Mcgowan & Shaw Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605254793
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"

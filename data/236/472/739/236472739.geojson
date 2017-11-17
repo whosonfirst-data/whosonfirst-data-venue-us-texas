@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.711996,32.956984,-96.711996,32.956984",
     "geom:latitude":32.956984,
     "geom:longitude":-96.711996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 Alpha Dr Ste 430",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0hW0Z937tOVKH0nhEBzfXW_32.956984_-96.711996@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"8069dab9a98f9f91c9f3b9797f5cb303",
+    "wof:geomhash":"030e92b2f8d58947f8268968307f1df6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236472739,
-    "wof:lastmodified":1467083868,
+    "wof:lastmodified":1510942563,
     "wof:name":"Enterprise Plumbing Inc",
     "wof:parent_id":85880213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622592699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

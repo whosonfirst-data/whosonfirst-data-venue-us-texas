@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.723299,29.771667,-98.723299,29.771667",
     "geom:latitude":29.771667,
     "geom:longitude":-98.723299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 Crosspoint",
     "sg:city":"Boerne",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6cv7MsR8DuoAoDQYt3ZVBE_29.771667_-98.723299@1303263044"
     },
     "wof:country":"US",
-    "wof:geomhash":"4eb85ae50a10b743e981307176ac5003",
+    "wof:geomhash":"ff1fe38bd8aac9eeb2ecec6d2fb99022",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287096545,
-    "wof:lastmodified":1467083827,
+    "wof:lastmodified":1510942804,
     "wof:name":"Vistas Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370588117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

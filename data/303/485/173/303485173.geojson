@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.759086,30.334848,-97.759086,30.334848",
     "geom:latitude":30.334848,
     "geom:longitude":-97.759086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3305 Northland Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5JNQGnmL0LyD2lXvdlLdfW_30.334848_-97.759086@1303263061"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f7cd11c2cc88787769ab70c8568fbeb",
+    "wof:geomhash":"9f65a252ab6ee80f49488a6913129191",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303485173,
-    "wof:lastmodified":1467083766,
+    "wof:lastmodified":1510942312,
     "wof:name":"Austin Tierra Mortgage",
     "wof:parent_id":85868509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387882179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

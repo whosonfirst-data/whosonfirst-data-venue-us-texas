@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.564903,29.633699,-95.564903,29.633699",
     "geom:latitude":29.633699,
     "geom:longitude":-95.564903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12999 Murphy Rd Ste B4",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_4iwm3c5EcDccK7FUIdD46d_29.633699_-95.564903@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a1ada8c47c568291be875770797637e",
+    "wof:geomhash":"2200c17f6b084796be2d2c176c82dc30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":286721495,
-    "wof:lastmodified":1467084317,
+    "wof:lastmodified":1510943544,
     "wof:name":"Don Roberto's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622055611
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

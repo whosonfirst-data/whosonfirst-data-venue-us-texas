@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.956965,32.912895,-96.956965,32.912895",
     "geom:latitude":32.912895,
     "geom:longitude":-96.956965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7750 N Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4IyH5qltyAH6TsrYOAzcd2_32.912895_-96.956965@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec9436a3297817be2dee4ddd515fabd0",
+    "wof:geomhash":"f8f802711aec55a87786faddd63bec2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":638583969,
-    "wof:lastmodified":1467087319,
+    "wof:lastmodified":1510942766,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236378787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

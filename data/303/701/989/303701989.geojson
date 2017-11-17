@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-97.718964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1000 E 41st St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -69,12 +70,14 @@
         }
     ],
     "wof:id":303701989,
-    "wof:lastmodified":1510874661,
+    "wof:lastmodified":1510941477,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303702697
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil",

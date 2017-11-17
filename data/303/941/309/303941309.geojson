@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.8802,35.185083,-101.8802,35.185083",
     "geom:latitude":35.185083,
     "geom:longitude":-101.8802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3602 Olsen Blvd",
     "sg:city":"Amarillo",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5yluB1pr4hUDGJNj4EYiq1_35.185083_-101.880200@1303263075"
     },
     "wof:country":"US",
-    "wof:geomhash":"30e57502f39e64d0cc79bc03d528566c",
+    "wof:geomhash":"35d21be2cf2e0850df59cb89937349d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303941309,
-    "wof:lastmodified":1467083765,
+    "wof:lastmodified":1510943685,
     "wof:name":"Impressions Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236808259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

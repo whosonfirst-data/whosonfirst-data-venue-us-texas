@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.452301,29.750299,-95.452301,29.750299",
     "geom:latitude":29.750299,
     "geom:longitude":-95.452301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4615 Post Oak Place Dr Ste 279",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1xT7HpYLdnfeBQpoFRgXLI_29.750299_-95.452301@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"94860b56e1fdcef27b3c70ff8001c710",
+    "wof:geomhash":"dc00062212dda72ced63f68c2ef5d3d9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270108613,
-    "wof:lastmodified":1467084152,
+    "wof:lastmodified":1510943841,
     "wof:name":"Babchick & Cohen PC",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354405621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

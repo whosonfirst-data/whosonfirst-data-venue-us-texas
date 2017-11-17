@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.335022,29.69722,-95.335022,29.69722",
     "geom:latitude":29.69722,
     "geom:longitude":-95.335022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5330 Griggs Rd.",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6vy4shJ3nsGPLhdtlHcCJu_29.697220_-95.335022@1303263013"
     },
     "wof:country":"US",
-    "wof:geomhash":"c742ee16959ba57e6a50c082c44bb08e",
+    "wof:geomhash":"c297d6ea3f20c274ec0505cc1e50086c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":270040627,
-    "wof:lastmodified":1467084230,
+    "wof:lastmodified":1510942524,
     "wof:name":"American Services, Air Conditioning-Electrical-Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270043239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

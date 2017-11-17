@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.352095,30.622028,-96.352095,30.622028",
     "geom:latitude":30.622028,
     "geom:longitude":-96.352095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"805 Oran Cir Apt D",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2KpoO4y1CC3z9Ipj8gPOZY_30.622028_-96.352095@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd90da660773357786f554a9b661a5da",
+    "wof:geomhash":"67ae2518fdf32c51b5e20fac2b7091ab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":286999509,
-    "wof:lastmodified":1467084307,
+    "wof:lastmodified":1510944142,
     "wof:name":"AAA University Taxi",
     "wof:parent_id":85893613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622326991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

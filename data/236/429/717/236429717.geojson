@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.733489,33.040511,-96.733489,33.040511",
     "geom:latitude":33.040511,
     "geom:longitude":-96.733489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3131 Custer Rd Ste 101",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1N780GRJgW4xAqHz8JMw5h_33.040511_-96.733489@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8d4b1449638513034242d630a632c00",
+    "wof:geomhash":"320963d93d16133f15a3d225324c2c89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236429717,
-    "wof:lastmodified":1467084029,
+    "wof:lastmodified":1510943670,
     "wof:name":"Ivy Cottage Inc",
     "wof:parent_id":85879889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236797793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

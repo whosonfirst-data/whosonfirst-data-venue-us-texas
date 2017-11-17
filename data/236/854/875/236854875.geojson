@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806297,32.779999,-96.806297,32.779999",
     "geom:latitude":32.779999,
     "geom:longitude":-96.806297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"208 N Market St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_148VuV9x1h5Y7gDWTgV0Z7_32.779999_-96.806297@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"36d9ebdb120e9ec80bf5c449d15cdc6d",
+    "wof:geomhash":"2dffc8521688882ef0840d1d477b3bbc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236854875,
-    "wof:lastmodified":1467084032,
+    "wof:lastmodified":1510942893,
     "wof:name":"Edwards & George Llp",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622339841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

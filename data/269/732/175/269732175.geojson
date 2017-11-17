@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.096454,31.803452,-97.096454,31.803452",
     "geom:latitude":31.803452,
     "geom:longitude":-97.096454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"508 W Oak St",
     "sg:city":"West",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7LtlpFKT97AhAww8Aaf4cy_31.803452_-97.096454@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"00bbdb57016c5b98f9639b25043528b1",
+    "wof:geomhash":"f544d04dbd2b5e5a04dd1267591a8b9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269732175,
-    "wof:lastmodified":1467084640,
+    "wof:lastmodified":1510941819,
     "wof:name":"Leo's Mexican Restaurant",
     "wof:parent_id":85881739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622299157
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.13614,32.677438,-97.13614,32.677438",
     "geom:latitude":32.677438,
     "geom:longitude":-97.13614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4300 S Cooper St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5rZouGdKhEcv8dmOavt8tA_32.677438_-97.136140@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"95c12f9c698b72b9e84365690f3a07e8",
+    "wof:geomhash":"aa96af5912ae984b11553ced3cae9862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638588063,
-    "wof:lastmodified":1467087325,
+    "wof:lastmodified":1510941609,
     "wof:name":"McDonald's",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588837503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

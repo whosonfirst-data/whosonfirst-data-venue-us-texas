@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.941399,32.870399,-96.941399,32.870399",
     "geom:latitude":32.870399,
     "geom:longitude":-96.941399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 Las Colinas Blvd W Ste 1616",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4vRrdfndFPwxDtuXmSYcVq_32.870399_-96.941399@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"90bcdf0d65beba830f48be965fadc3c8",
+    "wof:geomhash":"572668de1e678fdfa78e53d1e33f20df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236209703,
-    "wof:lastmodified":1467084018,
+    "wof:lastmodified":1510941362,
     "wof:name":"Harris Davis & Co",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589191297
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.09474,29.325171,-96.09474,29.325171",
     "geom:latitude":29.325171,
     "geom:longitude":-96.09474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"120 W Boling Hwy",
     "sg:city":"Wharton",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6zub8lRyCKC9O70KvPG0DC_29.325171_-96.094740@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3cd174e985cd0994a651217529d7e7d",
+    "wof:geomhash":"e6e3a6e10c07b1e950d8eed3eafa5b9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286745163,
-    "wof:lastmodified":1467084314,
+    "wof:lastmodified":1510942403,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638595953
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.845179,32.954426,-96.845179,32.954426",
     "geom:latitude":32.954426,
     "geom:longitude":-96.845179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4021 Belt Line Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2DNKTE0OYplBpAfQinZC9S_32.954426_-96.845179@1303262961"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d3d19bb02c4563b296f4e8578c112ae",
+    "wof:geomhash":"baea0074757ec2d90bd71506ac04b5a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":235992053,
-    "wof:lastmodified":1467084144,
+    "wof:lastmodified":1510943269,
     "wof:name":"Lefty's Lobster & Chowder House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622773589
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.888692,32.889235,-96.888692,32.889235",
     "geom:latitude":32.889235,
     "geom:longitude":-96.888692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11200 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7a6sE0L4HGPo9HIm1YEVcs_32.889235_-96.888692@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"31cf4d71b44650d2ed87768d4006b17c",
+    "wof:geomhash":"4e755f0705ec4e47d218890ba8229d14",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219189859,
-    "wof:lastmodified":1467085152,
+    "wof:lastmodified":1510944153,
     "wof:name":"Tomasita's Fashions",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252955265
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

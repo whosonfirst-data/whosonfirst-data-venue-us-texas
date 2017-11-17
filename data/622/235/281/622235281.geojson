@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.490883,29.699644,-95.490883,29.699644",
     "geom:latitude":29.699644,
     "geom:longitude":-95.490883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7320 Ashcroft Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4Pc0q0QY42jNJl5zLt030y_29.699644_-95.490883@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3f11128b7040ec50fdedb9a6cd15e14",
+    "wof:geomhash":"3e2d4f23688cb02d7f34132ad14c7593",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":622235281,
-    "wof:lastmodified":1467086683,
+    "wof:lastmodified":1510943467,
     "wof:name":"Jr Delay Builder Inc",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605611669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house"

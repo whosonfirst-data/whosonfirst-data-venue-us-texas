@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.133919,32.64241,-97.133919,32.64241",
     "geom:latitude":32.64241,
     "geom:longitude":-97.133919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6400 S Cooper St",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7l1GYmH2yaJOc4TiFErxc1_32.642410_-97.133919@1303262996"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb9aae1b70312fb42f5d10073099a40a",
+    "wof:geomhash":"4eeb4cc384535a003151e610ff938746",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253601547,
-    "wof:lastmodified":1467084990,
+    "wof:lastmodified":1510943783,
     "wof:name":"American Pawn Super Store",
     "wof:parent_id":85897301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622748447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

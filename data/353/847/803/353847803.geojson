@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80425,32.865376,-96.80425,32.865376",
     "geom:latitude":32.865376,
     "geom:longitude":-96.80425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8411 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0apI4X1THh4Lx6EIsKWg75_32.865376_-96.804250@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4565c190cd4104dcb020f470171362d3",
+    "wof:geomhash":"340af83f9c3cac697f9c312edecca1de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":353847803,
-    "wof:lastmodified":1467084341,
+    "wof:lastmodified":1510942935,
     "wof:name":"Richard Law Group Inc",
     "wof:parent_id":85870419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252885381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

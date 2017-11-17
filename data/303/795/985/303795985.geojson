@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.708702,30.4116,-97.708702,30.4116",
     "geom:latitude":30.4116,
     "geom:longitude":-97.708702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 N Mo Pac Expy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3j8oCXQIaoMfGCsG5hCOfZ_30.411600_-97.708702@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"643ed160aa009184c1e1217af8979dfa",
+    "wof:geomhash":"7de5b5dc0b5d356c69a917c344556909",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303795985,
-    "wof:lastmodified":1467083764,
+    "wof:lastmodified":1510942411,
     "wof:name":"Southwest Regional Cancer Center",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605238747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

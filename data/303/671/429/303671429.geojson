@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.815822,30.462225,-97.815822,30.462225",
     "geom:latitude":30.462225,
     "geom:longitude":-97.815822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12226 Ranch Road 620 N",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_5hu8xtpMmqGgkq1Y1e4Cuy_30.462225_-97.815822@1303263067"
     },
     "wof:country":"US",
-    "wof:geomhash":"463516edd807794f938cd33757c87bc1",
+    "wof:geomhash":"40df8f601befa88a240ed83e89c3b9a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":303671429,
-    "wof:lastmodified":1467083719,
+    "wof:lastmodified":1510941263,
     "wof:name":"Lezlies Nails & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303681009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

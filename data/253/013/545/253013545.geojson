@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.857101,32.677502,-96.857101,32.677502",
     "geom:latitude":32.677502,
     "geom:longitude":-96.857101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5787 S Hampton Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5ezwu4b7BzgNipeTNJSMjI_32.677502_-96.857101@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"22a9e42bb20bc8d2b0ae39420eeeb17e",
+    "wof:geomhash":"2cfa244d2314feef99d9b317e429b3fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253013545,
-    "wof:lastmodified":1467085014,
+    "wof:lastmodified":1510942743,
     "wof:name":"Mortgage Holdings Corporation",
     "wof:parent_id":85897351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605103415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

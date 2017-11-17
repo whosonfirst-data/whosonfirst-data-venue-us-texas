@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.167956,30.118338,-94.167956,30.118338",
     "geom:latitude":30.118338,
     "geom:longitude":-94.167956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4030 Dowlen Rd Ste A",
     "sg:city":"Beaumont",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5OzAKHplSU9qH59xLHmBe0_30.118338_-94.167956@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dcc260579bb15c4eb7cfb43c42f7dba",
+    "wof:geomhash":"a1feceeb64f6dd7fefb35773abbd4e93",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286988865,
-    "wof:lastmodified":1467084264,
+    "wof:lastmodified":1510944098,
     "wof:name":"Obee's Soup-Salad-Subs",
     "wof:parent_id":85845963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638597271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

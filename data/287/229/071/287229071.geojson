@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.053521,28.027235,-97.053521,28.027235",
     "geom:latitude":28.027235,
     "geom:longitude":-97.053521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 Highway 35 N",
     "sg:city":"Rockport",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1rEfAbTrAq0vojIWPJqVY2_28.027235_-97.053521@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cb66b405d026d09a4a33c0c97b7becd",
+    "wof:geomhash":"36bc46b9e2001726b0ab747e3414e4ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287229071,
-    "wof:lastmodified":1467083841,
+    "wof:lastmodified":1510941928,
     "wof:name":"The Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622680553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

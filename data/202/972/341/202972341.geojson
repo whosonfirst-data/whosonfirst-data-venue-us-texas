@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.638017,29.679536,-97.638017,29.679536",
     "geom:latitude":29.679536,
     "geom:longitude":-97.638017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 E Davis St",
     "sg:city":"Luling",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_68h8YZDdXLuzK4qc2ArvtS_29.679536_-97.638017@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bc1d9d3fa4ee362381c22e59b6dd26e",
+    "wof:geomhash":"6005824a11e6355c3185e4f7f6eba162",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":202972341,
-    "wof:lastmodified":1467084915,
+    "wof:lastmodified":1510941593,
     "wof:name":"Monte's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588877883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

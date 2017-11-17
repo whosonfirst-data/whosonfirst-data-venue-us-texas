@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724741,30.289917,-97.724741,30.289917",
     "geom:latitude":30.289917,
     "geom:longitude":-97.724741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 E 32nd St Ste 306",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2AKg02Zp6vOCSIwq73gUW5_30.289917_-97.724741@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"6376ff938cf2ecb8b21dbb49c1134381",
+    "wof:geomhash":"ad31ab2eac39465d0e4e8340695306c1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303356237,
-    "wof:lastmodified":1467083791,
+    "wof:lastmodified":1510941768,
     "wof:name":"Roberta Braun Md",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622801993
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

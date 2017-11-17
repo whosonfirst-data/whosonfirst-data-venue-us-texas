@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.471106,30.335221,-95.471106,30.335221",
     "geom:latitude":30.335221,
     "geom:longitude":-95.471106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1027 N Loop 336 W",
     "sg:city":"Conroe",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_4sMuv8N3RuOcD4GB2MeW4g_30.335221_-95.471106@1303263032"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e985497bfd6179924426ea7006fcdcc",
+    "wof:geomhash":"f8ad85be1a1ec97c85487deb0a62bb59",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286448011,
-    "wof:lastmodified":1467084314,
+    "wof:lastmodified":1510943115,
     "wof:name":"Margarita's Mexican Restaurant",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638594057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.479202,29.7633,-95.479202,29.7633",
     "geom:latitude":29.7633,
     "geom:longitude":-95.479202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5757 Woodway Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_53R0n83glIAqaTcuTGFvdy_29.763300_-95.479202@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"fddf26ecf563a14f71960a39a85bf25f",
+    "wof:geomhash":"0861ef94e6dcdee51ad3846c7fa5f228",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270415675,
-    "wof:lastmodified":1467084208,
+    "wof:lastmodified":1510943808,
     "wof:name":"Killinger R Peter MD",
     "wof:parent_id":85893787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270432409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

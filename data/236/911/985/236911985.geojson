@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770149,32.846802,-96.770149,32.846802",
     "geom:latitude":32.846802,
     "geom:longitude":-96.770149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4849 Greenville Ave Ste 1600",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2qB2VAN9tQr6yjE1G6aJed_32.846802_-96.770149@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"f65bc34b327881b3d5e94ba97c0662fe",
+    "wof:geomhash":"8182dbd31569cf0f42316741cb3d966f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236911985,
-    "wof:lastmodified":1467084008,
+    "wof:lastmodified":1510942833,
     "wof:name":"Sagadau Energy",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622790517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "royalty"

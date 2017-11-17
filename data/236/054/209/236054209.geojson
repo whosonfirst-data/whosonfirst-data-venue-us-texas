@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.924346,32.937782,-96.924346,32.937782",
     "geom:latitude":32.937782,
     "geom:longitude":-96.924346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1630 Valwood Pkwy Ste 116",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2D6X6M2ikm5TOrKvWBBrp9_32.937782_-96.924346@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8e462b92c0bed97e14533c4c2019006",
+    "wof:geomhash":"52369c55e94673d243ed695fe9047cc1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236054209,
-    "wof:lastmodified":1467083940,
+    "wof:lastmodified":1510942698,
     "wof:name":"EmbroidMe",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387805973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

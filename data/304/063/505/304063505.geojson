@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.108265,32.023747,-102.108265,32.023747",
     "geom:latitude":32.023747,
     "geom:longitude":-102.108265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 W Wadley Ave",
     "sg:city":"Midland",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_744k9ZKocKbxOAbTWSmKKH_32.023747_-102.108265@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"515a9e80b6d03fe37ad1d2fb5fd02151",
+    "wof:geomhash":"9c96c249a28b1277864b5b1f3240ecbe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":304063505,
-    "wof:lastmodified":1467084661,
+    "wof:lastmodified":1510941584,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638603507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

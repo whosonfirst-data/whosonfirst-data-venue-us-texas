@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.730443,30.259139,-97.730443,30.259139",
     "geom:latitude":30.259139,
     "geom:longitude":-97.730443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1410 E Cesar Chavez St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7K7TZBZ9Kh2RS7ziR5oLfX_30.259139_-97.730443@1303263054"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3519cf4ff6280457edc079a13cb7a00",
+    "wof:geomhash":"076ec9ce8bee13cbb6247f5def8b644a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303282899,
-    "wof:lastmodified":1467083768,
+    "wof:lastmodified":1510942193,
     "wof:name":"Remar Usa",
     "wof:parent_id":85869943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252735847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

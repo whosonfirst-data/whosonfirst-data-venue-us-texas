@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.420929,29.945858,-95.420929,29.945858",
     "geom:latitude":29.945858,
     "geom:longitude":-95.420929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"450 Gears Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1xTW4mV50mFyGcHvrTDLrX_29.945858_-95.420929@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"b40d902d4d41a0a09cdf15d1e4eb4279",
+    "wof:geomhash":"7053f00d7e250c0effe6e021ca765b7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":270487729,
-    "wof:lastmodified":1467084176,
+    "wof:lastmodified":1510944086,
     "wof:name":"Nexen Inc",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387572203
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oils-petroleum"

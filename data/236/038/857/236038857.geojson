@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.905596,32.9854,-96.905596,32.9854",
     "geom:latitude":32.9854,
     "geom:longitude":-96.905596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1213 E Trinity Mills Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0zIw82N2b44YB2SDNgt1rS_32.985400_-96.905596@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"64a4667be5cbff039dcbfb77a00d514f",
+    "wof:geomhash":"db623c3cf30e391a3f8324dafa1d7c7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236038857,
-    "wof:lastmodified":1467083972,
+    "wof:lastmodified":1510941371,
     "wof:name":"Wal-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236076181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

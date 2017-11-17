@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.456146,29.780817,-95.456146,29.780817",
     "geom:latitude":29.780817,
     "geom:longitude":-95.456146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"730 N Post Oak Rd Ste 110",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5EZzIGRwrJBWX3TVWmqMod_29.780817_-95.456146@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"12e39269cf13f24bec70e021a3f66322",
+    "wof:geomhash":"7a47279c831e4486321f022fdb825cde",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270075019,
-    "wof:lastmodified":1467084194,
+    "wof:lastmodified":1510942783,
     "wof:name":"Abercrombie Builders Inc",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589192347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

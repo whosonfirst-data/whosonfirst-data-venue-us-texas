@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.478302,29.8221,-95.478302,29.8221",
     "geom:latitude":29.8221,
     "geom:longitude":-95.478302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6005 Milwee St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0EsTZFQ4URBz1EAPRQxwEQ_29.822100_-95.478302@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0d2d76b2a3b4a579dfdfaadbf021ca8",
+    "wof:geomhash":"2ea0055923aeb0fcf21145290ea589c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":286381581,
-    "wof:lastmodified":1467084243,
+    "wof:lastmodified":1510942620,
     "wof:name":"Mario's Auto Repair",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622697659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.6129,32.871201,-96.6129,32.871201",
     "geom:latitude":32.871201,
     "geom:longitude":-96.6129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3615 Broadway Blvd Ste A",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6ZrR9ZYKJDUySoQVdH5PwW_32.871201_-96.612900@1303262966"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5216349b3443e5eb0922cbb21301078",
+    "wof:geomhash":"d99bf6c6a2ae38311260aa788aca6a3e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236278279,
-    "wof:lastmodified":1467083955,
+    "wof:lastmodified":1510943742,
     "wof:name":"Roberts Tom G Atty",
     "wof:parent_id":85877693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622069205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

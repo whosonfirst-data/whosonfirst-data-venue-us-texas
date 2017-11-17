@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.109894,33.101537,-96.109894,33.101537",
     "geom:latitude":33.101537,
     "geom:longitude":-96.109894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6834 Wesley St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_37Pucyjg10YgjZd3jJ3GUI_33.101537_-96.109894@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e4245242596f8cce719f8e361db6af4",
+    "wof:geomhash":"f86cb3cf36372388a02f2ccca8bc455f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +57,17 @@
         }
     ],
     "wof:id":638586573,
-    "wof:lastmodified":1467087323,
+    "wof:lastmodified":1510944031,
     "wof:name":"Wendy's",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622402397
+    ],
+    "wof:supersedes":[
+        202640897
+    ],
     "wof:tags":[
         "burger",
         "american",

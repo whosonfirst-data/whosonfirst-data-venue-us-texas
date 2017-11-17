@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.745991,31.107182,-97.745991,31.107182",
     "geom:latitude":31.107182,
     "geom:longitude":-97.745991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"902 W Central Texas Expy",
     "sg:city":"Killeen",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5WK1gRuOsAF4rFhUg7Svco_31.107182_-97.745991@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"367795c26d84cdc7e37ac415e4076fbb",
+    "wof:geomhash":"cc510e54d74d6fba960dfc188f422676",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269686849,
-    "wof:lastmodified":1467084623,
+    "wof:lastmodified":1510942524,
     "wof:name":"Wingstop",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638590939
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

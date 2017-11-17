@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.712999,30.379394,-97.712999,30.379394",
     "geom:latitude":30.379394,
     "geom:longitude":-97.712999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1934 Rutland Dr Ste 800",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2P86xfXcvR3mOPNgEHxxlu_30.379394_-97.712999@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"99375fc03da42df492ee60809c4b77f4",
+    "wof:geomhash":"0d51ef5c729ba7c921aa1413fb0a6e7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303794867,
-    "wof:lastmodified":1467083750,
+    "wof:lastmodified":1510942743,
     "wof:name":"Renee's Catering & Events",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303795403
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"

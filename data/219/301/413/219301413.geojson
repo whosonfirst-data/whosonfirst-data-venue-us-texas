@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.399255,29.712009,-95.399255,29.712009",
     "geom:latitude":29.712009,
     "geom:longitude":-95.399255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6560 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0TGZw6iPFLThauuDgYkOKx_29.712009_-95.399255@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"924c4d3698e2da3e84b504df0204648a",
+    "wof:geomhash":"6d760983abd66e5fe3ccb4721e2b6e77",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219301413,
-    "wof:lastmodified":1467085119,
+    "wof:lastmodified":1510943858,
     "wof:name":"Howell Jimmy F MD",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270164449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

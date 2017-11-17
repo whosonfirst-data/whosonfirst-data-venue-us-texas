@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5541,33.6889,-95.5541,33.6889",
     "geom:latitude":33.6889,
     "geom:longitude":-95.5541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2675 N Main St",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7U9R9UjaQATepvt1Ybhl6g_33.688900_-95.554100@1303262992"
     },
     "wof:country":"US",
-    "wof:geomhash":"a95b9ec1535a81012bb633451cf35789",
+    "wof:geomhash":"61e29c298d2bea3315233c4d335b62d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":253359507,
-    "wof:lastmodified":1467084944,
+    "wof:lastmodified":1510941881,
     "wof:name":"Precision Automotive",
     "wof:parent_id":85897419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169764403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

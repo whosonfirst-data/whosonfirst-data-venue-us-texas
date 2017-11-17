@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.747979,30.356995,-97.747979,30.356995",
     "geom:latitude":30.356995,
     "geom:longitude":-97.747979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3415 Greystone Dr Ste 102",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4cchuG5hWgZBxoB2qSUu46_30.356995_-97.747979@1303263061"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfe9f936f7d2bf89fadb21cc42bc6c20",
+    "wof:geomhash":"fdd8c84a360e66cb3c3940a8580795ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":303471757,
-    "wof:lastmodified":1467083740,
+    "wof:lastmodified":1510943098,
     "wof:name":"Austin Office Space Inc",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622549045
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

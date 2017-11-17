@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5056,29.7164,-95.5056,29.7164",
     "geom:latitude":29.7164,
     "geom:longitude":-95.5056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7000 Regency Square Blvd Ste 275",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5JN4ptvxPP4BXJc0pk0uYi_29.716400_-95.505600@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad0faa0772f1d5b61bcc66a7dd4ef901",
+    "wof:geomhash":"4ac07f09862e52dc892e93bdfc7d9892",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270228977,
-    "wof:lastmodified":1467084174,
+    "wof:lastmodified":1510944061,
     "wof:name":"First Confederated Mortgage",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202861709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

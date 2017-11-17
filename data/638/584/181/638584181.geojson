@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.641594,33.173818,-96.641594,33.173818",
     "geom:latitude":33.173818,
     "geom:longitude":-96.641594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2801 Craig Dr",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6REVMXebFxQoj8lsjh74if_33.173818_-96.641594@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"643ebddbd401241b38959d18bc798464",
+    "wof:geomhash":"57d71bf19b698a49e5aefe84165e19fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638584181,
-    "wof:lastmodified":1467087320,
+    "wof:lastmodified":1510941847,
     "wof:name":"Saltgrass Steak House",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236405663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

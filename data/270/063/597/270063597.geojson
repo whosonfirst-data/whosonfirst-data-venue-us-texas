@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.495697,29.7836,-95.495697,29.7836",
     "geom:latitude":29.7836,
     "geom:longitude":-95.495697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8584 Katy Fwy Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7BjfkkKi6pQLbsNKteR0Te_29.783600_-95.495697@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"0887eea04e7a2df58bae6d8d96f6ed11",
+    "wof:geomhash":"02fee4b1ebb808ce54581b8e4962669c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270063597,
-    "wof:lastmodified":1467084157,
+    "wof:lastmodified":1510941601,
     "wof:name":"River Oaks Homes",
     "wof:parent_id":85869691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622057267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

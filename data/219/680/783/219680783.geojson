@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.438826,30.12227,-95.438826,30.12227",
     "geom:latitude":30.12227,
     "geom:longitude":-95.438826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24900 Pitkin Rd",
     "sg:city":"Spring",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3D9kLyjHLRJOpnPpiBGmOx_30.122270_-95.438826@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d150a8aafb9e853ffc3fb96021ec72b9",
+    "wof:geomhash":"653313e314749bdb5684c3c1e576b62b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":219680783,
-    "wof:lastmodified":1467085152,
+    "wof:lastmodified":1510941863,
     "wof:name":"Newhouse & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605268121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "employee",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.589427,29.509152,-98.589427,29.509152",
     "geom:latitude":29.509152,
     "geom:longitude":-98.589427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5282 Medical Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7kfYRMAiuYuUSANOBb9zwK_29.509152_-98.589427@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad22fda2296f9d387d280c33750fd62a",
+    "wof:geomhash":"a375c9b02fda064450092e765d9b46cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":605135733,
-    "wof:lastmodified":1467085687,
+    "wof:lastmodified":1510941826,
     "wof:name":"Southwest Childrens Center P A",
     "wof:parent_id":85830313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622595047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

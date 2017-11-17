@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.450699,29.7502,-95.450699,29.7502",
     "geom:latitude":29.7502,
     "geom:longitude":-95.450699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4545 Post Oak Place Dr Ste 144",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5yGSfeLyruF2xsMI1RyBLQ_29.750200_-95.450699@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"23ec9a173cf8d76c78516212e0d7a27c",
+    "wof:geomhash":"76b13bc8154ee42852157be59efed1c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270130429,
-    "wof:lastmodified":1467084178,
+    "wof:lastmodified":1510942832,
     "wof:name":"Mullins Management Company",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605160655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

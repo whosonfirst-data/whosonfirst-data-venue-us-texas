@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.683227,30.437014,-97.683227,30.437014",
     "geom:latitude":30.437014,
     "geom:longitude":-97.683227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2115 Margalene Way",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_17BRxszgbrBlaNRyB55AtN_30.437014_-97.683227@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5d84ed548e699783f1084bf9f2e69c5",
+    "wof:geomhash":"88b46e6552f3ce763d94f025742bffa1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303422909,
-    "wof:lastmodified":1467083700,
+    "wof:lastmodified":1510943080,
     "wof:name":"Kidzart",
     "wof:parent_id":85865411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605738909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information"

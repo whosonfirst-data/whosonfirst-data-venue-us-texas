@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.077806,32.762742,-97.077806,32.762742",
     "geom:latitude":32.762742,
     "geom:longitude":-97.077806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2000 E Lamar Blvd Ste 600",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_01NQNiiAsvxsEzYN4KY4Ya_32.762742_-97.077806@1303262996"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff6452969145bb417a7d8686cdbf26ed",
+    "wof:geomhash":"1242d253b1a537bf9272323546387803",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253605561,
-    "wof:lastmodified":1467084994,
+    "wof:lastmodified":1510941514,
     "wof:name":"I3 Solutions",
     "wof:parent_id":85873091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605127349
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",

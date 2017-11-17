@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.753269,30.258923,-97.753269,30.258923",
     "geom:latitude":30.258923,
     "geom:longitude":-97.753269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"811 Barton Springs Rd Ste 210",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7dEyL8SiGXh7JhCzAA9Xc0_30.258923_-97.753269@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"96ed444494f29e24878c631987e1b033",
+    "wof:geomhash":"76415dd97c09382167f72b146d7e6f21",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303348905,
-    "wof:lastmodified":1467083696,
+    "wof:lastmodified":1510943597,
     "wof:name":"Rick Freeman PC",
     "wof:parent_id":85869949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387646843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

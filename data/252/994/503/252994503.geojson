@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.761228,32.876647,-96.761228,32.876647",
     "geom:latitude":32.876647,
     "geom:longitude":-96.761228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7150 Greenville Ave Ste 300",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_26cnI9pcqyz2pgLgczFXLB_32.876647_-96.761228@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"2457da517d1b999ffb86fbdb0f6600aa",
+    "wof:geomhash":"7dcf664f43df220d85657b34b7736f11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252994503,
-    "wof:lastmodified":1467084050,
+    "wof:lastmodified":1510943883,
     "wof:name":"Glaucoma Associates Of Texas",
     "wof:parent_id":85870457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622008121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

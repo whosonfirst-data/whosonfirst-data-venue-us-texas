@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.698997,30.3223,-97.698997,30.3223",
     "geom:latitude":30.3223,
     "geom:longitude":-97.698997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6448 E Highway 290",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5gaRNVpIOUfilRhKsthjX1_30.322300_-97.698997@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d2568fd0de684a734599e642fdf1e60",
+    "wof:geomhash":"80ddfd3cc530f672cb99fa2411bd95ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303402995,
-    "wof:lastmodified":1467083731,
+    "wof:lastmodified":1510942392,
     "wof:name":"Texas Tax Solutions",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588979141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.289284,29.672421,-95.289284,29.672421",
     "geom:latitude":29.672421,
     "geom:longitude":-95.289284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6400 Telephone Rd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0QWZvVfZD3GkszaKVv5Ot6_29.672421_-95.289284@1303263025"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a78a036a67a987c1c32d314ff2cc507",
+    "wof:geomhash":"e730d903f380869c030f938c40dd8f7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270457091,
-    "wof:lastmodified":1467084205,
+    "wof:lastmodified":1510942668,
     "wof:name":"Mac's Auto Service",
     "wof:parent_id":85869111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622806313
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

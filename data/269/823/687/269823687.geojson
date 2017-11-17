@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.366768,29.74814,-95.366768,29.74814",
     "geom:latitude":29.74814,
     "geom:longitude":-95.366768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 St Joseph Pkwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1WtCLUd76b8c3lQXNQ4njt_29.748140_-95.366768@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"0909919931b16ef50b10e9ce44543ff3",
+    "wof:geomhash":"4d8090885992b94e6731f025a8b187c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269823687,
-    "wof:lastmodified":1467084637,
+    "wof:lastmodified":1510943902,
     "wof:name":"Christus Saint Joseph Hospital",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186577247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.789398,32.9622,-96.789398,32.9622",
     "geom:latitude":32.9622,
     "geom:longitude":-96.789398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6959 Arapaho Rd Ste 110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6Ap1paepubeFxgWNaDGf5O_32.962200_-96.789398@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"cde38342783308635b222a2617d6ab1a",
+    "wof:geomhash":"22c287abeac3b9e2d43779b0fd870f43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253212713,
-    "wof:lastmodified":1467085012,
+    "wof:lastmodified":1510943193,
     "wof:name":"Lane Sung Tailor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622179533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing",

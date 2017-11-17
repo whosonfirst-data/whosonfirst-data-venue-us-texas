@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.395823,29.943678,-95.395823,29.943678",
     "geom:latitude":29.943678,
     "geom:longitude":-95.395823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16800 Imperial Valley Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Ip0Gnzgw943y3DQ8B2i2c_29.943678_-95.395823@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa273fd93feb722b36617d0942c9b657",
+    "wof:geomhash":"acf6729ebff5552149e1049fd3befe26",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":337315367,
-    "wof:lastmodified":1467084455,
+    "wof:lastmodified":1510943764,
     "wof:name":"Kona Ltd",
     "wof:parent_id":85869291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589278593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "production",

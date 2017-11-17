@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.548698,29.735001,-95.548698,29.735001",
     "geom:latitude":29.735001,
     "geom:longitude":-95.548698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2925 Briarpark Dr Ste 600",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_44qEDPISEj8FAT6PU3NjwD_29.735001_-95.548698@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad52bdc19313629fdcd44960b60aa9c1",
+    "wof:geomhash":"d0e2b823f2d5c96750a989343b921e5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270297257,
-    "wof:lastmodified":1467084202,
+    "wof:lastmodified":1510942073,
     "wof:name":"Davidson Eagleson & Company",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605321069
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

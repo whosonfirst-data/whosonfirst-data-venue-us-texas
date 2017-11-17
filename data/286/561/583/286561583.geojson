@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.539723,30.012217,-95.539723,30.012217",
     "geom:latitude":30.012217,
     "geom:longitude":-95.539723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8320 Louetta Rd",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4nVgnwifUFKwvL2n3TCTaf_30.012217_-95.539723@1303263034"
     },
     "wof:country":"US",
-    "wof:geomhash":"809d24f5e51849fc95142f4473730e05",
+    "wof:geomhash":"0551077af3988c6b32efd191a995459f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286561583,
-    "wof:lastmodified":1467084294,
+    "wof:lastmodified":1510943214,
     "wof:name":"Best Donuts",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605135135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

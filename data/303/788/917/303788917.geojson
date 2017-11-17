@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724707,30.380638,-97.724707,30.380638",
     "geom:latitude":30.380638,
     "geom:longitude":-97.724707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9705 Burnet Road",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
         "sg:id":"SG_2mTRtYmCom5psWmzjeQ04o_30.380638_-97.724707@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"48a63d527ff11cc0569b01b9e5aacd03",
+    "wof:geomhash":"f2aca2c8669dac31a6d794c527a0290d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,12 +69,14 @@
         }
     ],
     "wof:id":303788917,
-    "wof:lastmodified":1467083755,
+    "wof:lastmodified":1510941401,
     "wof:name":"K & M Steam Cleaning",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605247771
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741806,30.282927,-97.741806,30.282927",
     "geom:latitude":30.282927,
     "geom:longitude":-97.741806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2021 Guadalupe St Suite 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_22YwAHeZ6S06nMsH4ANpbe_30.282927_-97.741806@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"700680577108dcd6e72ee148b2506029",
+    "wof:geomhash":"7a05c68bfcc8a941f2793c905641f39f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":303350565,
-    "wof:lastmodified":1467083754,
+    "wof:lastmodified":1510941940,
     "wof:name":"Dobie Mall",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621887029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

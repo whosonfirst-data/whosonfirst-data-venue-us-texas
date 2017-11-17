@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.750761,30.288068,-97.750761,30.288068",
     "geom:latitude":30.288068,
     "geom:longitude":-97.750761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 W 24th St Ste 104",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_35iAWSPyk3MxDpr2y4iBeg_30.288068_-97.750761@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"32ee9b13b32082a5576f659fef9958db",
+    "wof:geomhash":"7979f6bd124162fbd487183dc91dbb9f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303358883,
-    "wof:lastmodified":1467083743,
+    "wof:lastmodified":1510941934,
     "wof:name":"The MOD Studio",
     "wof:parent_id":85893557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303360353
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "graphic",

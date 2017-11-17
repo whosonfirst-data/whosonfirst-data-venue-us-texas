@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.744702,32.37281,-99.744702,32.37281",
     "geom:latitude":32.37281,
     "geom:longitude":-99.744702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1680 Antilley Rd Ste 350",
     "sg:city":"Abilene",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_57g269f6A0IiU3nWsxny7k_32.372810_-99.744702@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"227bb7d59fc3b79501c1a6728ebdc488",
+    "wof:geomhash":"5ae56ff6b61ad1616e37442c5ddcea2c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":304055299,
-    "wof:lastmodified":1467084662,
+    "wof:lastmodified":1510943333,
     "wof:name":"Charles Anderson Md",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605276047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

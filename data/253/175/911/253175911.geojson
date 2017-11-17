@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.838898,32.9333,-96.838898,32.9333",
     "geom:latitude":32.9333,
     "geom:longitude":-96.838898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13612 Midway Rd Ste 404",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3ibXOLl2eHYymi18q5F6Nk_32.933300_-96.838898@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"95f8a04af1ea7279b29c8193d1acf548",
+    "wof:geomhash":"d8361cd747d1ab19729422e86f8b4cca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253175911,
-    "wof:lastmodified":1467085016,
+    "wof:lastmodified":1510943422,
     "wof:name":"United Properties",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605439385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

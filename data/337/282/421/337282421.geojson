@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.800161,32.808549,-96.800161,32.808549",
     "geom:latitude":32.808549,
     "geom:longitude":-96.800161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3535 Travis St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6MHa1Fmlt7VlIrVSMPcfu9_32.808549_-96.800161@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8323cf7e1003fdac90a86be8939c0e81",
+    "wof:geomhash":"7f5c9dd783aa71f61a35d391d978e305",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":337282421,
-    "wof:lastmodified":1467084446,
+    "wof:lastmodified":1510942124,
     "wof:name":"BRW Architects",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236880211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

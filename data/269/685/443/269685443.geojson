@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.746682,31.11124,-97.746682,31.11124",
     "geom:latitude":31.11124,
     "geom:longitude":-97.746682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 S Fort Hood St",
     "sg:city":"Killeen",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_3Q1YXbTkXhmIYN4IlFYTAV_31.111240_-97.746682@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc731541bfaf590242223c6219da471d",
+    "wof:geomhash":"4362ac70ea8d41be41c5f389aadf2e9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269685443,
-    "wof:lastmodified":1467084636,
+    "wof:lastmodified":1510943071,
     "wof:name":"Lack's Furniture Ctr",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370265293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

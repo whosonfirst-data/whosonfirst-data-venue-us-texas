@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.824608,32.948471,-96.824608,32.948471",
     "geom:latitude":32.948471,
     "geom:longitude":-96.824608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5050 Quorum Dr Ste 700",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5c3siqEqvxyByvLDFJn2rg_32.948471_-96.824608@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a89b0f2f0752ca91836ad7dadc2c103",
+    "wof:geomhash":"5ef4d1e64a7b140b06b188aacaeade89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253295259,
-    "wof:lastmodified":1467084986,
+    "wof:lastmodified":1510944019,
     "wof:name":"Sign A Rama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589132223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "signs-erectors",

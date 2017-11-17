@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.171291,31.528628,-97.171291,31.528628",
     "geom:latitude":31.528628,
     "geom:longitude":-97.171291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 N Valley Mills Dr",
     "sg:city":"Waco",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5cyUUe1bMHHGh9uz08g2T0_31.528628_-97.171291@1303263005"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2eda64d962144f6759b3ee0cc7d040e",
+    "wof:geomhash":"95d241a35bd4c6eee49aa48fce546e37",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269750315,
-    "wof:lastmodified":1467084613,
+    "wof:lastmodified":1510941487,
     "wof:name":"Wallace Tours Inc",
     "wof:parent_id":85881763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387377375
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "promoter",

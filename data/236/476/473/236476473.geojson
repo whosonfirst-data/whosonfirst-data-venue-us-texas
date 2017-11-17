@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.711252,32.974828,-96.711252,32.974828",
     "geom:latitude":32.974828,
     "geom:longitude":-96.711252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 E Campbell Rd Ste 122",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4WCrqDu8KOw42nz3Pmh7dp_32.974828_-96.711252@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"07f29a1243cda36060279d4b549bc143",
+    "wof:geomhash":"9a7aae26bd09fd7716fecef4059c7a6b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":236476473,
-    "wof:lastmodified":1467083928,
+    "wof:lastmodified":1510941348,
     "wof:name":"Mr Tax International",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605706905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

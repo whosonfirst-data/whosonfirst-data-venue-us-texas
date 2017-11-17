@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.856032,32.908041,-96.856032,32.908041",
     "geom:latitude":32.908041,
     "geom:longitude":-96.856032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11722 Marsh Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5F1hbNnN4Wiy8220I1iDTw_32.908041_-96.856032@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"d807b35334dfb30c809a9a64c32b099a",
+    "wof:geomhash":"642426dc0a9d33f716fa2ff765d39b43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":252943025,
-    "wof:lastmodified":1467084065,
+    "wof:lastmodified":1510942446,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606054527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

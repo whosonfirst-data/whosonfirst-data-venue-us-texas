@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.526602,29.356664,-98.526602,29.356664",
     "geom:latitude":29.356664,
     "geom:longitude":-98.526602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2135 SW Military Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7cwLsZdxC7thrwxZLzDQ5e_29.356664_-98.526602@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"272b1ef452864575fd567077154a5d55",
+    "wof:geomhash":"5e433c2a4102992d43166a26f04bcfa0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":589018153,
-    "wof:lastmodified":1467085406,
+    "wof:lastmodified":1510942752,
     "wof:name":"McDonalds",
     "wof:parent_id":85846903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638599093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

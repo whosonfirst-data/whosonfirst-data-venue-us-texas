@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.91806,32.895618,-96.91806,32.895618",
     "geom:latitude":32.895618,
     "geom:longitude":-96.91806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1801 Royal Ln Ste 110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6bxQD4YJTja6lQdnGRCZmz_32.895618_-96.918060@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdc106ab8f00eae3f748ea775a3b5eb3",
+    "wof:geomhash":"0c0f434f7c504c92fa635b59c8cc0a07",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":252939409,
-    "wof:lastmodified":1467084066,
+    "wof:lastmodified":1510943649,
     "wof:name":"Tubbesing Sales Corp",
     "wof:parent_id":85823221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622707249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

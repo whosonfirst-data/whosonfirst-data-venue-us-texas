@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.944141,29.882638,-97.944141,29.882638",
     "geom:latitude":29.882638,
     "geom:longitude":-97.944141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"323 W Hopkins St",
     "sg:city":"San Marcos",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5Lwx3wrpyKpDxL13Z0nMTv_29.882638_-97.944141@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"37b138a827e26b5b0739a5c059aabe2f",
+    "wof:geomhash":"556fde4eb5e7da137412a0cf82281f0f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236631603,
-    "wof:lastmodified":1467083910,
+    "wof:lastmodified":1510943896,
     "wof:name":"Environmental PR",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622793273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.843882,32.808694,-96.843882,32.808694",
     "geom:latitude":32.808694,
     "geom:longitude":-96.843882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2720 N Stemmons Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_56Q1cTOTQUxFw5wT929ikU_32.808694_-96.843882@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"f342d386e48559e40af176957a586b10",
+    "wof:geomhash":"97db8ef4482624e31e826a2602bdf83a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236940231,
-    "wof:lastmodified":1467083898,
+    "wof:lastmodified":1510941939,
     "wof:name":"Gator's Mardi Gras",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236954671
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cajun/creole"

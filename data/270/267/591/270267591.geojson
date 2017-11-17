@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.542363,29.892433,-95.542363,29.892433",
     "geom:latitude":29.892433,
     "geom:longitude":-95.542363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8311 Wind Willow Dr",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5i3H5xGZwcBOexrt5FYedb_29.892433_-95.542363@1303263019"
     },
     "wof:country":"US",
-    "wof:geomhash":"025ba17c26096d6843af0c67a927a80d",
+    "wof:geomhash":"443a3bde825ee7ddd80b9ce0e4ee0387",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270267591,
-    "wof:lastmodified":1467084224,
+    "wof:lastmodified":1510943291,
     "wof:name":"J T Air Conditioning & Heating",
     "wof:parent_id":85893783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236376301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

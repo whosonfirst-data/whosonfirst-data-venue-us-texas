@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742699,30.2735,-97.742699,30.2735",
     "geom:latitude":30.2735,
     "geom:longitude":-97.742699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1122 Colorado St Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_39J6zmIOIl6XrZqXflxdlg_30.273500_-97.742699@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"15761b6d86bc46ca793779d3b81c4afb",
+    "wof:geomhash":"362d5bc8f8bb8d999b49f19f31e227ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303247495,
-    "wof:lastmodified":1467083763,
+    "wof:lastmodified":1510943304,
     "wof:name":"Texas Credit Union League",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606074281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

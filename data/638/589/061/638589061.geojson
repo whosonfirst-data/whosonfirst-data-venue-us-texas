@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.132397,32.942589,-97.132397,32.942589",
     "geom:latitude":32.942589,
     "geom:longitude":-97.132397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1230 Main St",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1sCq0htAlXNGqbF58do6nZ_32.942589_-97.132397@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"42c5584c77542698a8737717c26f4d37",
+    "wof:geomhash":"3a1c89312768f18109bba39977510a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638589061,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510942097,
     "wof:name":"Kobeya",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269523217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "japanese",

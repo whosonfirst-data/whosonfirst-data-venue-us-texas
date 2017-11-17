@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.76122,32.886717,-96.76122,32.886717",
     "geom:latitude":32.886717,
     "geom:longitude":-96.76122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8330 Meadow Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5PacLfHEBAnHX3Luu5YctO_32.886717_-96.761220@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"deb847098e2770b054ef5c3fc72d5c1e",
+    "wof:geomhash":"c966a939b56c1b29ed3c630c2237c60a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252978569,
-    "wof:lastmodified":1467084082,
+    "wof:lastmodified":1510942432,
     "wof:name":"Manziel Law Offices",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622597673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

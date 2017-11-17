@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.874702,32.909599,-96.874702,32.909599",
     "geom:latitude":32.909599,
     "geom:longitude":-96.874702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3068 Forest Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5A0vPlEyWmO11o0KolWPxH_32.909599_-96.874702@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b0e569972f80e191445d2116f97bdd9",
+    "wof:geomhash":"8a6c011e88455af719cb9f96797ae65f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253041089,
-    "wof:lastmodified":1467084982,
+    "wof:lastmodified":1510944164,
     "wof:name":"Hairtender's",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219543339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

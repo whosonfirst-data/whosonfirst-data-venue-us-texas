@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.77185,32.850455,-96.77185,32.850455",
     "geom:latitude":32.850455,
     "geom:longitude":-96.77185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8350 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_38PvgXfxYkilH0LJ1ezogn_32.850455_-96.771850@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"75366e49196bd91e67cdd85eaacc8baa",
+    "wof:geomhash":"8fa9a761bab1875dec05217d8b0311a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":622092945,
-    "wof:lastmodified":1467086580,
+    "wof:lastmodified":1510943037,
     "wof:name":"F & S Partners Incorporated",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621990083
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.782173,30.276859,-97.782173,30.276859",
     "geom:latitude":30.276859,
     "geom:longitude":-97.782173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 Almarion Way",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_13PPLl2A3PPURSwuoCctdA_30.276859_-97.782173@1303263066"
     },
     "wof:country":"US",
-    "wof:geomhash":"34f8c2b6f0056036b76967cd55c6a745",
+    "wof:geomhash":"28659e25e977d48bd6f38b6f6fe4ffe8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303633169,
-    "wof:lastmodified":1467083812,
+    "wof:lastmodified":1510943795,
     "wof:name":"Pooch Pins",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621861061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

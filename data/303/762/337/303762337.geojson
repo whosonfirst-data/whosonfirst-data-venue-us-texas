@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.732304,30.353709,-97.732304,30.353709",
     "geom:latitude":30.353709,
     "geom:longitude":-97.732304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7719 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_70bueOtLa1AQwvMRrULaWy_30.353709_-97.732304@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bd6515b1e0b88aeabee4d481b81e80c",
+    "wof:geomhash":"de991b312ccde19bf86f620073d3c649",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303762337,
-    "wof:lastmodified":1467083778,
+    "wof:lastmodified":1510941631,
     "wof:name":"Interior Fabrics",
     "wof:parent_id":85869881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622820093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

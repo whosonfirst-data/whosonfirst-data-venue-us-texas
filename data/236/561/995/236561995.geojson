@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.794899,33.025799,-96.794899,33.025799",
     "geom:latitude":33.025799,
     "geom:longitude":-96.794899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1900 Preston Rd Ste 313",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4rGVc3De5UUS0mfvoanlu6_33.025799_-96.794899@1303262972"
     },
     "wof:country":"US",
-    "wof:geomhash":"c16d9960f1efe88bfe51dfd9b0319130",
+    "wof:geomhash":"4fe21148e20feb6c74b3501b89e9fe89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":236561995,
-    "wof:lastmodified":1467083984,
+    "wof:lastmodified":1510942292,
     "wof:name":"Sample House & Candle Shop",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622520457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

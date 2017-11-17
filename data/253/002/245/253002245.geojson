@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769699,32.8834,-96.769699,32.8834",
     "geom:latitude":32.8834,
     "geom:longitude":-96.769699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_10FhNvzC9X6LmSMF3GWSMr_32.883400_-96.769699@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"57bd1c62cb5e942511691cd2b9c502ed",
+    "wof:geomhash":"11a01a72a4d6b946f8c799bffd5d0580",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253002245,
-    "wof:lastmodified":1467085028,
+    "wof:lastmodified":1510942310,
     "wof:name":"Symmetry Capital Advisors",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622540991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

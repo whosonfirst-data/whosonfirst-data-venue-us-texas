@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.451852,29.754837,-95.451852,29.754837",
     "geom:latitude":29.754837,
     "geom:longitude":-95.451852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"50 Briar Hollow Ln Ste 150W",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3hGkeSRBY5lhrXzzXpZg9O_29.754837_-95.451852@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"45548a95800639275b7c6423f1c1c6d6",
+    "wof:geomhash":"2d2d418c9dc343e37a54db566277b5cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270102613,
-    "wof:lastmodified":1467084225,
+    "wof:lastmodified":1510941659,
     "wof:name":"Gittleman Neal B",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588995227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

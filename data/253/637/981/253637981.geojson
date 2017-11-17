@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.131493,32.686218,-97.131493,32.686218",
     "geom:latitude":32.686218,
     "geom:longitude":-97.131493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3701 S Cooper St Ste 125",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_0hPt3lI2BmeRLm9KLCYkVM_32.686218_-97.131493@1303262997"
     },
     "wof:country":"US",
-    "wof:geomhash":"8362cb6bfa7dcef30f9d347d10ff423c",
+    "wof:geomhash":"d8416779345425a89c148c8bbd815ab9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":253637981,
-    "wof:lastmodified":1467084945,
+    "wof:lastmodified":1510943066,
     "wof:name":"Mr E's Music Supercenters Inc",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588819767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "guitar",

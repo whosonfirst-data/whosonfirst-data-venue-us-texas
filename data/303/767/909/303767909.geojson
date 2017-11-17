@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.73156,30.356461,-97.73156,30.356461",
     "geom:latitude":30.356461,
     "geom:longitude":-97.73156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2438 W Anderson Ln",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7X8N2TACNNys56fxXcni1k_30.356461_-97.731560@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ce4332b52992222523650a6f5248c1d",
+    "wof:geomhash":"18e4b8dbd4bb3eef0b2be912f8add810",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303767909,
-    "wof:lastmodified":1467083726,
+    "wof:lastmodified":1510942331,
     "wof:name":"Town and Country Leather",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303773065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.754981,30.271919,-97.754981,30.271919",
     "geom:latitude":30.271919,
     "geom:longitude":-97.754981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1009 W 6th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0dZ9nxVKXP9lwT9iL9bPV0_30.271919_-97.754981@1303263055"
     },
     "wof:country":"US",
-    "wof:geomhash":"29ffe40dd5239cab31d6ca0c949cb1aa",
+    "wof:geomhash":"692b87c7f1ef7616a5a3d7482ce5248c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":303299071,
-    "wof:lastmodified":1467083722,
+    "wof:lastmodified":1510941258,
     "wof:name":"House of Lamps & Antiques",
     "wof:parent_id":85893577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589062569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

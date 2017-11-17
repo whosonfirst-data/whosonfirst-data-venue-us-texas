@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.987046,29.803473,-94.987046,29.803473",
     "geom:latitude":29.803473,
     "geom:longitude":-94.987046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1328 San Jacinto Mall",
     "sg:city":"Baytown",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0QueCpSyhNdY8fFxoStkJh_29.803473_-94.987046@1303263039"
     },
     "wof:country":"US",
-    "wof:geomhash":"91b234893464a251193b22fb02710c85",
+    "wof:geomhash":"fc78cf8743fcd7f701d954884faa143a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286825901,
-    "wof:lastmodified":1467084239,
+    "wof:lastmodified":1510942478,
     "wof:name":"Tae Kwon Do Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605141925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

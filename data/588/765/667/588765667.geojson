@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461074,29.74494,-95.461074,29.74494",
     "geom:latitude":29.74494,
     "geom:longitude":-95.461074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 Post Oak Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3nQr9CQPbRwLtdZmNzp3Tw_29.744940_-95.461074@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d4969dd696037291ab1ef0a0909c489",
+    "wof:geomhash":"c4092b5a7fbd91a0f6488a2cf1c8fac7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":588765667,
-    "wof:lastmodified":1467085206,
+    "wof:lastmodified":1510942225,
     "wof:name":"DESCO Oil Co",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622616097
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

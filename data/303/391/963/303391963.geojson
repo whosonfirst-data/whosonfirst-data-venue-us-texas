@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.706064,30.317937,-97.706064,30.317937",
     "geom:latitude":30.317937,
     "geom:longitude":-97.706064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1029 Reinli St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6wkrme8Sn2Wohutw4xvv0q_30.317937_-97.706064@1303263058"
     },
     "wof:country":"US",
-    "wof:geomhash":"04f145b5c73c3b118e1a3ddc452f3aa2",
+    "wof:geomhash":"0f252aa8c2e0eeff85064dc0371af522",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303391963,
-    "wof:lastmodified":1467083770,
+    "wof:lastmodified":1510942219,
     "wof:name":"Austin TV Repair",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303393289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

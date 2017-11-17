@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.971848,33.006145,-96.971848,33.006145",
     "geom:latitude":33.006145,
     "geom:longitude":-96.971848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 S Stemmons Fwy Ste 2424",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_7IBvAVuLKuPimjRGH11iau_33.006145_-96.971848@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdc1fa08e11f4badfddffe29475b5e9c",
+    "wof:geomhash":"0450b5fc19ced2d30eda59eb9b752abc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":236389403,
-    "wof:lastmodified":1467084000,
+    "wof:lastmodified":1510941359,
     "wof:name":"Dallas Cowboys Pro Shop",
     "wof:parent_id":85852663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605210959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

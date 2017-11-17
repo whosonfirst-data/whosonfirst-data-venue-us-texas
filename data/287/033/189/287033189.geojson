@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.913972,30.949541,-95.913972,30.949541",
     "geom:latitude":30.949541,
     "geom:longitude":-95.913972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"209 N Madison St",
     "sg:city":"Madisonville",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3ctGM0CLwVUEnl5BEqTlBy_30.949541_-95.913972@1303263043"
     },
     "wof:country":"US",
-    "wof:geomhash":"42fa3eb2f0ed4c5f623b5ae3d26b9f85",
+    "wof:geomhash":"9a7a0b0048c5dd80475a22d44b87eeb5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287033189,
-    "wof:lastmodified":1467083824,
+    "wof:lastmodified":1510941511,
     "wof:name":"Woodbine Hotel & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622318831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

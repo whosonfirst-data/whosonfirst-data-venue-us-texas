@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.835953,32.960078,-96.835953,32.960078",
     "geom:latitude":32.960078,
     "geom:longitude":-96.835953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4310 Wiley Post Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_3Z8KDecBoVgDOOYwLOwn6F_32.960078_-96.835953@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1946f6c5a51a6cd7605b159f96dcc41",
+    "wof:geomhash":"2cfbecb055a139621ce1a972fdffa390",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236002517,
-    "wof:lastmodified":1467084004,
+    "wof:lastmodified":1510942987,
     "wof:name":"Lordane Jewels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605233085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

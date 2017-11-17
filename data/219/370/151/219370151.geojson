@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.616116,32.723676,-96.616116,32.723676",
     "geom:latitude":32.723676,
     "geom:longitude":-96.616116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3535 Glenshire Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_18PopYc81HBBowKp1AoJBc_32.723676_-96.616116@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe5b178302c803f3d27ec2400ffdd709",
+    "wof:geomhash":"a9b13ac51e0556f5a9ce5b22c3f18c6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":219370151,
-    "wof:lastmodified":1467085140,
+    "wof:lastmodified":1510944062,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638585529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

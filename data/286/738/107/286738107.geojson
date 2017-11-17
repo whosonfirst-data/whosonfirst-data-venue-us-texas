@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.56333,29.63399,-95.56333,29.63399",
     "geom:latitude":29.63399,
     "geom:longitude":-95.56333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13003 Murphy Rd Ste B-6",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5CJK8WbJhiVZBZGlshug3m_29.633990_-95.563330@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"c40d6482448e0d5b33837909be895a34",
+    "wof:geomhash":"247cc00408b117d9511955cb9583739b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286738107,
-    "wof:lastmodified":1467084296,
+    "wof:lastmodified":1510941390,
     "wof:name":"Shas Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387851865
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "graphic",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.781626,32.792073,-96.781626,32.792073",
     "geom:latitude":32.792073,
     "geom:longitude":-96.781626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3434 Swiss Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2R7sNOd1cmJErnt407M5UH_32.792073_-96.781626@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"50705ccc8b96746cfa11a3adb766f6a9",
+    "wof:geomhash":"cedd6b81a908987449b05400694ec053",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":202860703,
-    "wof:lastmodified":1467084912,
+    "wof:lastmodified":1510942238,
     "wof:name":"Swiss Avenue Medical Building",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236870851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

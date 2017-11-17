@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.15313,32.706868,-97.15313,32.706868",
     "geom:latitude":32.706868,
     "geom:longitude":-97.15313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3001 W Arkansas Ln",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2dSnrIFK9rvKbsxNqJTDNX_32.706868_-97.153130@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"6210f0ab3396f56d9f5a4c29ab8460c2",
+    "wof:geomhash":"640911ad0ebc8f1ff15dcd00fd6d7485",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203253159,
-    "wof:lastmodified":1467084416,
+    "wof:lastmodified":1510944097,
     "wof:name":"Green's Produce",
     "wof:parent_id":85840401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253641173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fresh",

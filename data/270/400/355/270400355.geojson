@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463204,29.740551,-95.463204,29.740551",
     "geom:latitude":29.740551,
     "geom:longitude":-95.463204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5085 Westheimer Rd Ste 3780",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_49J14KssPlEZzfKnymO7ma_29.740551_-95.463204@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"2493756772e0f6e0d1c21da292d879be",
+    "wof:geomhash":"cdbc16a18d551fc05215b544e187ed68",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270400355,
-    "wof:lastmodified":1467084158,
+    "wof:lastmodified":1510941519,
     "wof:name":"Caroll Paris",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252742425
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

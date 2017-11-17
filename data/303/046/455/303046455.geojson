@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.974422,26.151633,-97.974422,26.151633",
     "geom:latitude":26.151633,
     "geom:longitude":-97.974422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"902 S Airport Dr Ste 6",
     "sg:city":"Weslaco",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6ah3eFBxSwC8faArU7dCZt_26.151633_-97.974422@1303263049"
     },
     "wof:country":"US",
-    "wof:geomhash":"4371dfff531cabc98c4e3405ee7899ef",
+    "wof:geomhash":"f31fc3fdb4faf881e60f10910dc3428b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303046455,
-    "wof:lastmodified":1467083759,
+    "wof:lastmodified":1510943207,
     "wof:name":"Badiga S Murthy MD",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605604567
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

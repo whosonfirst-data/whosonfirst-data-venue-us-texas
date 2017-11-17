@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.948997,32.867001,-96.948997,32.867001",
     "geom:latitude":32.867001,
     "geom:longitude":-96.948997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4545 Fuller Dr",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2gnIN2JBxTxoz0TxK6xA44_32.867001_-96.948997@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"c380c4430d41040ff4c4496fa50d42f9",
+    "wof:geomhash":"cfd9a5e9d36b405e1d6af37e13f43467",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236197987,
-    "wof:lastmodified":1467084015,
+    "wof:lastmodified":1510941629,
     "wof:name":"G2Web Technologies",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622408013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "web",

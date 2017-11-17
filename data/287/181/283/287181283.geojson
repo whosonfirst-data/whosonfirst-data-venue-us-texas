@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.304019,29.588435,-98.304019,29.588435",
     "geom:latitude":29.588435,
     "geom:longitude":-98.304019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9330 Corporate Dr Ste 403",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_764SzSL0kgGfNv9vNwk3Lv_29.588435_-98.304019@1303263045"
     },
     "wof:country":"US",
-    "wof:geomhash":"fedba02a965f135dc2990356d8de4aa4",
+    "wof:geomhash":"aaeada4321119f6a77af8de6457fe716",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":287181283,
-    "wof:lastmodified":1467083836,
+    "wof:lastmodified":1510944040,
     "wof:name":"Crew Cut Lawn Care",
     "wof:parent_id":85831723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589041001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape",

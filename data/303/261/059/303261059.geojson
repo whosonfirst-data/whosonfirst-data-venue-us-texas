@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.745122,30.275363,-97.745122,30.275363",
     "geom:latitude":30.275363,
     "geom:longitude":-97.745122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1210 San Antonio St Ste 112",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3DxxCJJluly76yocF6T6rW_30.275363_-97.745122@1303263054"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1bb822e64239e4d64e197f145b844cc",
+    "wof:geomhash":"9e8d1568e97588006188b87312b1c6aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":303261059,
-    "wof:lastmodified":1467083693,
+    "wof:lastmodified":1510941659,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638601497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

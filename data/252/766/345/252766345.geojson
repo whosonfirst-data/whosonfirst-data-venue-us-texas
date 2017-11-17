@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.801872,32.708542,-96.801872,32.708542",
     "geom:latitude":32.708542,
     "geom:longitude":-96.801872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 S Lancaster Rd Ste 156A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_5ENJCp2vUjp4PPCLfOVTPo_32.708542_-96.801872@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cf1ff802edc801d27b0620b5b36bd81",
+    "wof:geomhash":"215f922dc82996b7e43a82fdce91a6f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":252766345,
-    "wof:lastmodified":1467084047,
+    "wof:lastmodified":1510943932,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622732945
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

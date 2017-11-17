@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.798132,32.997249,-96.798132,32.997249",
     "geom:latitude":32.997249,
     "geom:longitude":-96.798132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17950 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_56r7a34H9heUGfGtAYNzhx_32.997249_-96.798132@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"c476dea6644879bc2a204443c54095af",
+    "wof:geomhash":"315d46a0de8c90766fcd802995ede5da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":253261487,
-    "wof:lastmodified":1467084947,
+    "wof:lastmodified":1510941914,
     "wof:name":"Republic Title",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622095297
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

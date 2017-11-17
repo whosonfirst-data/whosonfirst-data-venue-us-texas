@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.111663,33.215807,-97.111663,33.215807",
     "geom:latitude":33.215807,
     "geom:longitude":-97.111663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1607 E Mckinney St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1J1UexoDZX6RjoRHuVdScE_33.215807_-97.111663@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"783b24344a37e454aaefba30442017f3",
+    "wof:geomhash":"32f88daffbb65c6b5ebf775c52b58c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":638590223,
-    "wof:lastmodified":1467087328,
+    "wof:lastmodified":1510942451,
     "wof:name":"Milan Pizzeria",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269545025
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

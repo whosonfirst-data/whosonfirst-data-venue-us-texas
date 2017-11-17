@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.36321,29.741625,-95.36321,29.741625",
     "geom:latitude":29.741625,
     "geom:longitude":-95.36321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2202 Saint Emanuel St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5aSghMsBF5zMXA0dOddqR0_29.741625_-95.363210@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"41d042abc47eb5e4d03e80352a804d18",
+    "wof:geomhash":"decdb009aea3e19abf7e839359506a9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":370207281,
-    "wof:lastmodified":1467084529,
+    "wof:lastmodified":1510943661,
     "wof:name":"Houston Police Dept",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269868907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "department"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.564484,29.610539,-95.564484,29.610539",
     "geom:latitude":29.610539,
     "geom:longitude":-95.564484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"620 Murphy Rd Ste 111",
     "sg:city":"Stafford",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_62OKwbABe9hGUcvH3FWKZT_29.610539_-95.564484@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6f902d51454987a48448f9243d06dc0",
+    "wof:geomhash":"d497bc1e02389540d365707c10697656",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286736639,
-    "wof:lastmodified":1467084316,
+    "wof:lastmodified":1510943554,
     "wof:name":"Ordonez Shoe Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622825465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

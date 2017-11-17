@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.384423,31.880349,-102.384423,31.880349",
     "geom:latitude":31.880349,
     "geom:longitude":-102.384423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4115 Andrews Hwy",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_60i2pubpVpbHU11yu1W08c_31.880349_-102.384423@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbc374211ccb51be55cbc0811438ac6a",
+    "wof:geomhash":"c70c2305361284748261844263638011",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":202950497,
-    "wof:lastmodified":1467084909,
+    "wof:lastmodified":1510942884,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638603723
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

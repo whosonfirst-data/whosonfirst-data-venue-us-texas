@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.830299,32.980269,-96.830299,32.980269",
     "geom:latitude":32.980269,
     "geom:longitude":-96.830299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16775 Addison Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_6f7z1C1EcfUyQvmg6oMxR0_32.980269_-96.830299@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"896bb7fd58cdd45316ff0ee25528e95b",
+    "wof:geomhash":"831ba87317c5c36523860932f35a29ab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":236015683,
-    "wof:lastmodified":1467083895,
+    "wof:lastmodified":1510943572,
     "wof:name":"Trycos Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588865785
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.911598,32.8325,-96.911598,32.8325",
     "geom:latitude":32.8325,
     "geom:longitude":-96.911598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1719 Peters Rd Ste 502",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2LU54jWMZUhtjDljmk4nDp_32.832500_-96.911598@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2e66d13b3a0e8f6e1759398df6dba6a",
+    "wof:geomhash":"3f5207844c5ca421f0e353d0a0c488ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236345561,
-    "wof:lastmodified":1467084024,
+    "wof:lastmodified":1510942714,
     "wof:name":"Kens Kustom Shop",
     "wof:parent_id":85878293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589252443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

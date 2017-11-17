@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.707615,30.305735,-97.707615,30.305735",
     "geom:latitude":30.305735,
     "geom:longitude":-97.707615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 Barbara Jordan Blvd Ste 200",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0cVODRNC1EBiFAB5T8kEV4_30.305735_-97.707615@1303263058"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ef1f9a0e53d21bcd07a13b0aaacc757",
+    "wof:geomhash":"6fb55b47e1537e317f2a7cb9c40c32f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303396293,
-    "wof:lastmodified":1467083772,
+    "wof:lastmodified":1510941764,
     "wof:name":"Dell Children's Medical Center Of Central Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303402489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

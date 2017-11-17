@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.711762,30.387861,-97.711762,30.387861",
     "geom:latitude":30.387861,
     "geom:longitude":-97.711762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2105 Donley Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_3DNVlJ1hLefT0udwCPVeE3_30.387861_-97.711762@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8a89fbec69cbb5d321c66a8b4c5d693",
+    "wof:geomhash":"5b043afe387b61aeaa49389b05075ea3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":303780719,
-    "wof:lastmodified":1467083783,
+    "wof:lastmodified":1510943065,
     "wof:name":"Actacell",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638609753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeologist",

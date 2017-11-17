@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.482597,29.747601,-95.482597,29.747601",
     "geom:latitude":29.747601,
     "geom:longitude":-95.482597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Augusta Dr Ste 340",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1Mszjel5SudB0T2nYOU8GK_29.747601_-95.482597@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"4662a41f8642c5ad41e02480eb3a1e43",
+    "wof:geomhash":"e42d3e917fa734544356f33066747b65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270412493,
-    "wof:lastmodified":1467084166,
+    "wof:lastmodified":1510941462,
     "wof:name":"Horn Stanley J Cfp",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622669877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

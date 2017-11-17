@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.772301,32.914001,-96.772301,32.914001",
     "geom:latitude":32.914001,
     "geom:longitude":-96.772301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 Merit Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0hrV61feO3lf7ivIbwgjDe_32.914001_-96.772301@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf9174281362ff80a49ca06b4326d86a",
+    "wof:geomhash":"0be8b587cd4bcbfd92cb81801c13b874",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253248575,
-    "wof:lastmodified":1467085001,
+    "wof:lastmodified":1510942958,
     "wof:name":"Ray & Collins Associates Inc",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605308871
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

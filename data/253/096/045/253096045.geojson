@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808899,32.925499,-96.808899,32.925499",
     "geom:latitude":32.925499,
     "geom:longitude":-96.808899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5720 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4TgHyYCXlkgmPS1ZgaVOGP_32.925499_-96.808899@1303262987"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a864e5bd869f1b9096ed5570c10f948",
+    "wof:geomhash":"d06171ca03be58aaa6e9f88c54d1f855",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253096045,
-    "wof:lastmodified":1467084978,
+    "wof:lastmodified":1510941613,
     "wof:name":"Residential Alliance Mortgage",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622104529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

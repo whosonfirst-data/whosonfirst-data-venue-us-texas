@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.702042,30.318444,-97.702042,30.318444",
     "geom:latitude":30.318444,
     "geom:longitude":-97.702042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1106 Clayton Lane Suite 410",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2aFiQmaPBTp8gaxXuPAekZ_30.318444_-97.702042@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9ff20e3cf47830229f6e3b2b1987aef",
+    "wof:geomhash":"6b6db238ca52884f110806002cea1b60",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":303398155,
-    "wof:lastmodified":1467083701,
+    "wof:lastmodified":1510943658,
     "wof:name":"Center For Health Training",
     "wof:parent_id":85869899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589087969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

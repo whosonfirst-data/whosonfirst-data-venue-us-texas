@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.126614,29.52309,-95.126614,29.52309",
     "geom:latitude":29.52309,
     "geom:longitude":-95.126614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20934 Gulf Fwy",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0BKukKMmYVrhZcLiLUKJLm_29.523090_-95.126614@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d8c86830c7b26d38284ed5616507f20",
+    "wof:geomhash":"4ec73e1170f51d8b2904131f2ccd9e74",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236106503,
-    "wof:lastmodified":1467083852,
+    "wof:lastmodified":1510942476,
     "wof:name":"Nasa Wholesale Barkyard",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286939461
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"

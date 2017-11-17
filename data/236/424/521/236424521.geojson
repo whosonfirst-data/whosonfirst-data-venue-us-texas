@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.74975,33.041001,-96.74975,33.041001",
     "geom:latitude":33.041001,
     "geom:longitude":-96.74975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2828 W Parker Rd Ste A107",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_40W0uY7HM26W9D000GSMoD_33.041001_-96.749750@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"12d5e28a66c81999ce3f489c8d77da94",
+    "wof:geomhash":"d17fe2b678eab7c27297ca366b459ee3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236424521,
-    "wof:lastmodified":1467084028,
+    "wof:lastmodified":1510942623,
     "wof:name":"Musicmasters School Of Music",
     "wof:parent_id":85879933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589165017
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction-instrumental"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.828796,33.032799,-96.828796,33.032799",
     "geom:latitude":33.032799,
     "geom:longitude":-96.828796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Dallas Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4jyKgDUDjn1R1WXvTCotyh_33.032799_-96.828796@1303262971"
     },
     "wof:country":"US",
-    "wof:geomhash":"637fe1fb000c589f6cda9085a66bff61",
+    "wof:geomhash":"5514cbdabce307c20f209da6b3779811",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236554077,
-    "wof:lastmodified":1467083891,
+    "wof:lastmodified":1510941630,
     "wof:name":"Richmont Holdings Inc",
     "wof:parent_id":85879963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622705619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

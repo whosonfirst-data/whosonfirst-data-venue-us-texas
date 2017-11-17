@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.361198,29.7614,-95.361198,29.7614",
     "geom:latitude":29.7614,
     "geom:longitude":-95.361198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1018 Preston St Ste 700",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_07zXOdzajXJrzmCu8Ggwiq_29.761400_-95.361198@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"9958dd8fdbcbcbbc23dd34bd069b7108",
+    "wof:geomhash":"d4ff52148b6e816013603546f0815b05",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269867281,
-    "wof:lastmodified":1467084600,
+    "wof:lastmodified":1510942194,
     "wof:name":"Deguerin Dickson & Hennessy",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588884321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

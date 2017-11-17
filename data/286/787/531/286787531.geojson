@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.172287,29.664254,-95.172287,29.664254",
     "geom:latitude":29.664254,
     "geom:longitude":-95.172287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3210 Preston Ave",
     "sg:city":"Pasadena",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_0WepDFmWYIf2Bl7yjESO9c_29.664254_-95.172287@1303263038"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d59ef41f3e09e1d87cbd336efa0a2fb",
+    "wof:geomhash":"db4af67e69c2fd71324083562c3fee89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286787531,
-    "wof:lastmodified":1467084273,
+    "wof:lastmodified":1510943753,
     "wof:name":"Armadilla Lanes I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622843411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.704247,30.408694,-97.704247,30.408694",
     "geom:latitude":30.408694,
     "geom:longitude":-97.704247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 Park Bend Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3lVrtHmJJC0BW2Jgf90ATZ_30.408694_-97.704247@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c753e0c950ef68ea25746f2924f7b5d1",
+    "wof:geomhash":"e77b4ad57f5a4b211a61436434170909",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236109463,
-    "wof:lastmodified":1467083917,
+    "wof:lastmodified":1510943243,
     "wof:name":"Austin Neurosurgical Institute",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303802229
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

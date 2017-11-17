@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7976,32.7826,-96.7976,32.7826",
     "geom:latitude":32.7826,
     "geom:longitude":-96.7976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Pacific Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1uwpwxQUkXU9kBagmXaqJW_32.782600_-96.797600@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7d4d83591690e0aeb2d2cd707ed5973",
+    "wof:geomhash":"61ca39cba312db359ac0b5194500b32c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236812783,
-    "wof:lastmodified":1467083859,
+    "wof:lastmodified":1510943969,
     "wof:name":"McNulty Mary A Atty",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622620917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

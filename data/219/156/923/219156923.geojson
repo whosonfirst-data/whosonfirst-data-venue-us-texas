@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.562242,29.621081,-95.562242,29.621081",
     "geom:latitude":29.621081,
     "geom:longitude":-95.562242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10435 Greenbough Dr",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1COlROitSa0TN1ZtpDFt6p_29.621081_-95.562242@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d374395f06dd69d7491f8d9b71477648",
+    "wof:geomhash":"78ad287772b46c6cb42e47b7e3107d1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219156923,
-    "wof:lastmodified":1467085114,
+    "wof:lastmodified":1510941214,
     "wof:name":"De Pelchin Children's Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370233925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "guidance",

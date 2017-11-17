@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.479698,29.7582,-95.479698,29.7582",
     "geom:latitude":29.7582,
     "geom:longitude":-95.479698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Bering Dr Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5CTRCDQQvn7BrEq82mLtwE_29.758200_-95.479698@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"28a65d230e5bd94dd2c2299ad14b910e",
+    "wof:geomhash":"9fda10b096d210197c8e7eb1f7cbd8fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270435811,
-    "wof:lastmodified":1467084224,
+    "wof:lastmodified":1510943340,
     "wof:name":"A P Keller Inc",
     "wof:parent_id":85893787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622679449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

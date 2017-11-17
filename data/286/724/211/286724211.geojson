@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.561279,29.62073,-95.561279,29.62073",
     "geom:latitude":29.62073,
     "geom:longitude":-95.561279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10435 Greenbough Dr",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0RolXB3xLERrH4D1Em6Y5E_29.620730_-95.561279@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f4581eae92b2ab0ae0963e2c9604b42",
+    "wof:geomhash":"af32b672dce0278a5179b6288d4d217d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":286724211,
-    "wof:lastmodified":1467084315,
+    "wof:lastmodified":1510941803,
     "wof:name":"Boy Scouts Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622772159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

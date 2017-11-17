@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.816101,32.939701,-96.816101,32.939701",
     "geom:latitude":32.939701,
     "geom:longitude":-96.816101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5323 Spring Valley Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -34,7 +37,7 @@
         "sg:id":"SG_5O3kVcXXSlWMQ0Y0EdQwds_32.939701_-96.816101@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"a655e2f4f5211dd00c1354bba471fe00",
+    "wof:geomhash":"b5f431ce1f03a1924439568726f9b62a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":253301131,
-    "wof:lastmodified":1467084971,
+    "wof:lastmodified":1510941780,
     "wof:name":"T G S Architects Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622435209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.809934,30.255524,-97.809934,30.255524",
     "geom:latitude":30.255524,
     "geom:longitude":-97.809934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2901 S Capital of Texas Hwy Ste 20",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5O7NJiBNLFNPB49elnpZ4n_30.255524_-97.809934@1303263065"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9218e8020b3423c93b231c4b9654716",
+    "wof:geomhash":"532de1233dc6f5c01edeb8843cff5563",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303616461,
-    "wof:lastmodified":1467083781,
+    "wof:lastmodified":1510943614,
     "wof:name":"Sears",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622592881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

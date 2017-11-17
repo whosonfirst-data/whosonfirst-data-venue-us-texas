@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.475479,29.88855,-95.475479,29.88855",
     "geom:latitude":29.88855,
     "geom:longitude":-95.475479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8240 Antoine Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6Iiaj9aLTbgfaeWjZYMd0e_29.888550_-95.475479@1303263029"
     },
     "wof:country":"US",
-    "wof:geomhash":"80d4a3fb9c65d338805bf7b4da92858a",
+    "wof:geomhash":"7dba91f47b6c01835da05e3afd10987a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":286345961,
-    "wof:lastmodified":1467084311,
+    "wof:lastmodified":1510942676,
     "wof:name":"Medical Health Lab, Inc",
     "wof:parent_id":85869299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622393345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratories-pathological",

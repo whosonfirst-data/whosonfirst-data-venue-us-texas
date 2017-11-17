@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.10888,33.187669,-97.10888,33.187669",
     "geom:latitude":33.187669,
     "geom:longitude":-97.10888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2201 S I- 35 E",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_39Hj01CcSyvAelpSzd3CAH_33.187669_-97.108880@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"39f3b97e35827dbb8b7c4cb9fb8f6d5a",
+    "wof:geomhash":"36c4b99d97fdfb2cb90551627a608a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":588782893,
-    "wof:lastmodified":1467085223,
+    "wof:lastmodified":1510943721,
     "wof:name":"S C C Cleaning",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621916765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"

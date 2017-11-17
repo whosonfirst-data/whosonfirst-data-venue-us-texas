@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.828118,32.985962,-96.828118,32.985962",
     "geom:latitude":32.985962,
     "geom:longitude":-96.828118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17311 Dallas Pkwy Ste 350",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4TaE59se94tuUn94HXvavW_32.985962_-96.828118@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"db9bef1b43b01b722707c9383111b4ff",
+    "wof:geomhash":"9dec35fd894b799cea7b9d12efd90708",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253211875,
-    "wof:lastmodified":1467084970,
+    "wof:lastmodified":1510941645,
     "wof:name":"Amtrust Mortgage Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220055179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

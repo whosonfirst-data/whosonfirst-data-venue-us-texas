@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803596,32.9496,-96.803596,32.9496",
     "geom:latitude":32.9496,
     "geom:longitude":-96.803596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14785 Preston Rd Ste 160",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1lZgNA2wh3Z2MJtHNmo2h7_32.949600_-96.803596@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"1100d1fcf1868d1c7705b90c554d931f",
+    "wof:geomhash":"9d346dc71e474aff8c65be6d5c0415af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":253295085,
-    "wof:lastmodified":1467084986,
+    "wof:lastmodified":1510943001,
     "wof:name":"Signature Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605859467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

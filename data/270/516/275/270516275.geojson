@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.523435,29.691966,-95.523435,29.691966",
     "geom:latitude":29.691966,
     "geom:longitude":-95.523435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7710 Beechnut St Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2H8ixEFCDUNAwWPnR5BNLY_29.691966_-95.523435@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9d97c27f20259006389001480b3b0cc",
+    "wof:geomhash":"789d687d59fb55da15eb0be7c2a833ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":270516275,
-    "wof:lastmodified":1467084165,
+    "wof:lastmodified":1510943797,
     "wof:name":"Texas Eye Institute",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270524829,
+        169770153
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-94.081882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2105 Richmond Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -40,12 +41,14 @@
     "wof:geomhash":"8a222e07b35e560a07ad5018b6a38693",
     "wof:hierarchy":[],
     "wof:id":638586889,
-    "wof:lastmodified":1510603252,
+    "wof:lastmodified":1510941832,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589162483
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

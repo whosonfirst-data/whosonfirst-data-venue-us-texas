@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.567098,29.703911,-95.567098,29.703911",
     "geom:latitude":29.703911,
     "geom:longitude":-95.567098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10603 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6kGKDF5wTbCytmGFsqwSZS_29.703911_-95.567098@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"51ae224ce66afd8b284e0cde82426e1a",
+    "wof:geomhash":"3fa35e79b1af3a7654dfa9d3c0e6229c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":270508447,
-    "wof:lastmodified":1467084196,
+    "wof:lastmodified":1510943609,
     "wof:name":"Kim Son Restaurant",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270508535
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

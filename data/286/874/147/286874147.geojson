@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.183994,29.513234,-95.183994,29.513234",
     "geom:latitude":29.513234,
     "geom:longitude":-95.183994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"355 E Parkwood Ave",
     "sg:city":"Friendswood",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4nhzUDFMJe5KcMzUD1W55l_29.513234_-95.183994@1303263040"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c643fcd4c463065fda13db2eb600a1f",
+    "wof:geomhash":"efad29c5160c75d89eaee39f224b7fbb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286874147,
-    "wof:lastmodified":1467084312,
+    "wof:lastmodified":1510942928,
     "wof:name":"Friendswood Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606028409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.36505,29.934904,-95.36505,29.934904",
     "geom:latitude":29.934904,
     "geom:longitude":-95.36505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1430 Aldine Meadows Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1YZYWSwIUm1V30qJlQIA0d_29.934904_-95.365050@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b16d7cfd2169db16fa1266a3a400ecc",
+    "wof:geomhash":"152699bcb77d5065e78870385ace5808",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":270187127,
-    "wof:lastmodified":1467084162,
+    "wof:lastmodified":1510941360,
     "wof:name":"Lawrence Eckert Intermediate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236601791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary",

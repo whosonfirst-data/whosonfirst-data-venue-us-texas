@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.762299,32.8834,-96.762299,32.8834",
     "geom:latitude":32.8834,
     "geom:longitude":-96.762299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8305 Walnut Hill Ln Ste 210",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Db7xbPHXVvU73lyi4sDUU_32.883400_-96.762299@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebd3901cb1b81d5b032329c1113cdfc0",
+    "wof:geomhash":"6216e1b9767e64ec724fab323e8047d4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252983785,
-    "wof:lastmodified":1467084103,
+    "wof:lastmodified":1510944045,
     "wof:name":"North Dallas Plastic Surgery",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252992935
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

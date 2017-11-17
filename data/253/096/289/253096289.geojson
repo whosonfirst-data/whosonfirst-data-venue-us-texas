@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.818242,32.931214,-96.818242,32.931214",
     "geom:latitude":32.931214,
     "geom:longitude":-96.818242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13455 Noel Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6jLAd2gFwIRTruJvh2Ej52_32.931214_-96.818242@1303262987"
     },
     "wof:country":"US",
-    "wof:geomhash":"d36e82ff26301b106ba59f70809ac57c",
+    "wof:geomhash":"344a8d1436b70e9f10b73a19e0b92b5c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253096289,
-    "wof:lastmodified":1467084978,
+    "wof:lastmodified":1510944112,
     "wof:name":"Holbrook Mortgage",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387732253
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

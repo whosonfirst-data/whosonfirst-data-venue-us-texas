@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.715534,32.971714,-96.715534,32.971714",
     "geom:latitude":32.971714,
     "geom:longitude":-96.715534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 N Greenville Ave",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2LP1idDi1bYDtJ9IePOnq2_32.971714_-96.715534@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9fc837baeb2cd323ec5fefdc71a4071",
+    "wof:geomhash":"e24e03ca7452ef89c76d694d258dc6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":621982675,
-    "wof:lastmodified":1467086500,
+    "wof:lastmodified":1510942450,
     "wof:name":"Pawlik and Company Inc",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605530073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

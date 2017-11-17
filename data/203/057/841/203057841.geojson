@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.468002,29.731456,-95.468002,29.731456",
     "geom:latitude":29.731456,
     "geom:longitude":-95.468002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5177 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7FPb3ea9arLqbIvaAZksCH_29.731456_-95.468002@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"78131dc51b66354b54b5bb3de6853e0a",
+    "wof:geomhash":"03b27b5fed8edb2b7e57c90a43dbe9ce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203057841,
-    "wof:lastmodified":1467084402,
+    "wof:lastmodified":1510943415,
     "wof:name":"Burch Consultants",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270398063
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "software"

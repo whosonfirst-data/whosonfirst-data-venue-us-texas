@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.797699,32.998501,-96.797699,32.998501",
     "geom:latitude":32.998501,
     "geom:longitude":-96.797699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18111 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2KZy44boTOeYv1PauQMTZk_32.998501_-96.797699@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"75687449807f8c20691ef724794f8fa0",
+    "wof:geomhash":"a7e2e040f04fe324d44a5ba27f0f6e19",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253261857,
-    "wof:lastmodified":1467084947,
+    "wof:lastmodified":1510942873,
     "wof:name":"Plainscapital Bank",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622600055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

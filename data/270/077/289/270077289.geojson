@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547798,29.7785,-95.547798,29.7785",
     "geom:latitude":29.7785,
     "geom:longitude":-95.547798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"909 Frostwood Dr Ste 226",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7kWE9rEHvZapYfkChuoCNo_29.778500_-95.547798@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"b37dc73596488161022c064560401d76",
+    "wof:geomhash":"7d877389221a8a1d0e2b4da93fef272c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270077289,
-    "wof:lastmodified":1467084162,
+    "wof:lastmodified":1510942392,
     "wof:name":"Jarrett Alan MD",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605354503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

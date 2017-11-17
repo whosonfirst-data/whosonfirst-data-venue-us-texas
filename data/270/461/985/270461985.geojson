@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.538101,29.740499,-95.538101,29.740499",
     "geom:latitude":29.740499,
     "geom:longitude":-95.538101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2503 S Gessner Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2yJYSKmNO06cdBFCRtJkXo_29.740499_-95.538101@1303263025"
     },
     "wof:country":"US",
-    "wof:geomhash":"daad3b6a270962690f3c6d9e5e85a06f",
+    "wof:geomhash":"856770e283d8371cd3c27d3ee791ed6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270461985,
-    "wof:lastmodified":1467084180,
+    "wof:lastmodified":1510941868,
     "wof:name":"Rudi Lechner's Restaurant",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270462845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "german"

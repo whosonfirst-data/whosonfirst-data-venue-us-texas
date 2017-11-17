@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.510461,29.720621,-95.510461,29.720621",
     "geom:latitude":29.720621,
     "geom:longitude":-95.510461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5601 Bintliff Dr Ste 520",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1oMuevmYqz81tcq5jCDNY1_29.720621_-95.510461@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b594d4dcfc4cdd117033c2441eac189",
+    "wof:geomhash":"13de20b2ed114cdc2abde5bd8910795c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":270213171,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510942052,
     "wof:name":"Pens Plus Inc",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270219705,
+        622080299
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"

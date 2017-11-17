@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.647212,32.860159,-96.647212,32.860159",
     "geom:latitude":32.860159,
     "geom:longitude":-96.647212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1311 Plaza Dr # 290",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2kpDJ8niN5VTqgGPiy2WtB_32.860159_-96.647212@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"645a3a74c78ffcbbec062c6575f001fc",
+    "wof:geomhash":"84cbe40a612d52873608c236411dd438",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236241543,
-    "wof:lastmodified":1467084034,
+    "wof:lastmodified":1510943983,
     "wof:name":"Golden Wok Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236246289
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"

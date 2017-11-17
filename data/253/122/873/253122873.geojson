@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805702,32.931198,-96.805702,32.931198",
     "geom:latitude":32.931198,
     "geom:longitude":-96.805702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2040 Valley View Mall Ofc",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_42gPUHPhn9iswTj17Tw6ZU_32.931198_-96.805702@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"457dd0541307b861b2236bdf13c69aae",
+    "wof:geomhash":"06d4a28362879d90c2da42151acd28ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253122873,
-    "wof:lastmodified":1467085002,
+    "wof:lastmodified":1510943763,
     "wof:name":"Valley View Ctr",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387647143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

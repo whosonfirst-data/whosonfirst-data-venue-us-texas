@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.70771,29.602532,-98.70771,29.602532",
     "geom:latitude":29.602532,
     "geom:longitude":-98.70771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17200 Bandera Rd",
     "sg:city":"Helotes",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2jAYWY7fyuhXyE1QPkcbYg_29.602532_-98.707710@1303263044"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8aa11ffaf3ed654c36d772917be235f",
+    "wof:geomhash":"5c0bf7eaa15849208ace3835e0137fe7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":337367003,
-    "wof:lastmodified":1467084444,
+    "wof:lastmodified":1510942495,
     "wof:name":"Textile Enterprises Incorporated",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621920401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

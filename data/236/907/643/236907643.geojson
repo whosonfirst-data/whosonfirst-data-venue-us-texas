@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.789597,32.8218,-96.789597,32.8218",
     "geom:latitude":32.8218,
     "geom:longitude":-96.789597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4514 Cole Ave Ste 600",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1oHtBSJ2aXTf1YH7jSbEVG_32.821800_-96.789597@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"74ef0da0fd3033ca9189ac83eea4c44e",
+    "wof:geomhash":"34573225b5305075fe0fd9aee384bd9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236907643,
-    "wof:lastmodified":1467084025,
+    "wof:lastmodified":1510942257,
     "wof:name":"Hr Placement",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605939311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.818199,32.801899,-96.818199,32.801899",
     "geom:latitude":32.801899,
     "geom:longitude":-96.818199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3630 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2IWsphbz4A8AiO3YopzV8i_32.801899_-96.818199@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"d86c352ed19cb9575d17e40367968ddb",
+    "wof:geomhash":"55feb8672f212ee4187d1fdc10da7556",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252821321,
-    "wof:lastmodified":1467084080,
+    "wof:lastmodified":1510942308,
     "wof:name":"New Arts Six",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589127545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"

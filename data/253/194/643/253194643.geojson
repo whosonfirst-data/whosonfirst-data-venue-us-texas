@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.780403,32.791,-96.780403,32.791",
     "geom:latitude":32.791,
     "geom:longitude":-96.780403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 Gaston Ave Ste 751",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_65bmFTl2PFIxL2E979AuHl_32.791000_-96.780403@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4c9a7cf1ad8aca75e55f66717ccb976",
+    "wof:geomhash":"606ebdca2fd285283146d13e0c53ba62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253194643,
-    "wof:lastmodified":1467085032,
+    "wof:lastmodified":1510941547,
     "wof:name":"Brown Byron L MD",
     "wof:parent_id":85870343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588918449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

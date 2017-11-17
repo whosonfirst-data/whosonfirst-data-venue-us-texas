@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.971802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1431 Greenway Dr Ste 240",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,12 +53,14 @@
         }
     ],
     "wof:id":236196553,
-    "wof:lastmodified":1510875911,
+    "wof:lastmodified":1510942988,
     "wof:name":"Volt Services Group",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387763019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461318,29.74829,-95.461318,29.74829",
     "geom:latitude":29.74829,
     "geom:longitude":-95.461318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Post Oak Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_16HYn0op9KwI7xs8kSoB21_29.748290_-95.461318@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cab32beb0d33bcc17fd263b31896ac7",
+    "wof:geomhash":"d9c9ce091876bd67d6c855104714fda7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":337340729,
-    "wof:lastmodified":1467084450,
+    "wof:lastmodified":1510942681,
     "wof:name":"Americas",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270392973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

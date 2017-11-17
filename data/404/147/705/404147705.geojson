@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.339144,31.892384,-102.339144,31.892384",
     "geom:latitude":31.892384,
     "geom:longitude":-102.339144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4101 E 42nd St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6wZiL1mtMvtBfUYiqT2oHa_31.892384_-102.339144@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9e3856ad8aaa21653acb994c3049292",
+    "wof:geomhash":"c7e291a18b5f8372fb84dd9db35670f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":404147705,
-    "wof:lastmodified":1467084658,
+    "wof:lastmodified":1510942130,
     "wof:name":"Zambies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622799969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

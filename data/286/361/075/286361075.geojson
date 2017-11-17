@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.43171,29.988039,-95.43171,29.988039",
     "geom:latitude":29.988039,
     "geom:longitude":-95.43171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15225 Ella Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1YxJevNClsDaOeOoY2kAxG_29.988039_-95.431710@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"530532da3ebf5e483461d812b641a7b0",
+    "wof:geomhash":"f97aef3facbde44f89ad322d2933c335",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286361075,
-    "wof:lastmodified":1467084296,
+    "wof:lastmodified":1510944150,
     "wof:name":"Ella Washateria",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622334913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

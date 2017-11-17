@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.677244,30.414741,-97.677244,30.414741",
     "geom:latitude":30.414741,
     "geom:longitude":-97.677244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12820 N Lamar Boulevard Apt 732",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4x9XNbZzeqpIoKHE05v7qO_30.414741_-97.677244@1303263069"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec2860c99256cf97bd6a71257cdba5dd",
+    "wof:geomhash":"3bfce81e119399a73f7f8f5b819658db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303727921,
-    "wof:lastmodified":1467083709,
+    "wof:lastmodified":1510943915,
     "wof:name":"The Villages of Sage Creek",
     "wof:parent_id":85812665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303737083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463501,29.739212,-95.463501,29.739212",
     "geom:latitude":29.739212,
     "geom:longitude":-95.463501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5015 Westheimer Rd Ste 3330",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7ZQy9or2OZ9GWeSilMvJp4_29.739212_-95.463501@1303263022"
     },
     "wof:country":"US",
-    "wof:geomhash":"f989e5a067dcaa587bcebe2e9f7d8064",
+    "wof:geomhash":"fd1017080c0e823253ded35cdbf4b07d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270378365,
-    "wof:lastmodified":1467084205,
+    "wof:lastmodified":1510942590,
     "wof:name":"Mac At Houston Galleria",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588853541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"

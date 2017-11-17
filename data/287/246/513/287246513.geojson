@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.234117,26.236447,-98.234117,26.236447",
     "geom:latitude":26.236447,
     "geom:longitude":-98.234117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3601 N Bicentennial Blvd",
     "sg:city":"Mcallen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5w0lxHQYUiSyeFsvnF5vah_26.236447_-98.234117@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"13f3dba321fabcb2c5b74e65844c8c81",
+    "wof:geomhash":"6dc2b6138852ac804a89e19f7cfdab62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287246513,
-    "wof:lastmodified":1467083819,
+    "wof:lastmodified":1510942761,
     "wof:name":"Vintage Square Apartments",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605064713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

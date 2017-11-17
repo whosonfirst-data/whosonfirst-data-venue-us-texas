@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.394096,29.708401,-95.394096,29.708401",
     "geom:latitude":29.708401,
     "geom:longitude":-95.394096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Baylor Plz",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,10 +39,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":221618665,
         "sg:id":"SG_1Y0SX8Wi4Scpy8rhu0M5ZA_29.708401_-95.394096@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c4ec151d0d189ea59171c444f1a575c",
+    "wof:geomhash":"50de56404167a6efab577c498e88e91c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":270160619,
-    "wof:lastmodified":1467084217,
+    "wof:lastmodified":1510944185,
     "wof:name":"Baylor College of Medicine",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622680945
+    ],
+    "wof:supersedes":[
+        622680945
+    ],
     "wof:tags":[
         "college"
     ]

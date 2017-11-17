@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.549207,33.764261,-96.549207,33.764261",
     "geom:latitude":33.764261,
     "geom:longitude":-96.549207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1024 W Elm St",
     "sg:city":"Denison",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_257NPP6Xzw6nUF7hhmoCxl_33.764261_-96.549207@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"596b4208db5204142a3a690703030038",
+    "wof:geomhash":"87881a3bb05be738c41c48e9f6866132",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":236148567,
-    "wof:lastmodified":1467084009,
+    "wof:lastmodified":1510943179,
     "wof:name":"Don's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605657405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

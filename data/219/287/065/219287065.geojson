@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770321,32.88798,-96.770321,32.88798",
     "geom:latitude":32.88798,
     "geom:longitude":-96.770321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10455 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1lCBnm99vC67sgQsZ3QUxR_32.887980_-96.770321@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"5beb012d8a45de82d7fc788aca3980e1",
+    "wof:geomhash":"ecaaa6ead9f1d6fff63bb92c28117ace",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":219287065,
-    "wof:lastmodified":1467085104,
+    "wof:lastmodified":1510943167,
     "wof:name":"Gigi Beauty Supply",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252994985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

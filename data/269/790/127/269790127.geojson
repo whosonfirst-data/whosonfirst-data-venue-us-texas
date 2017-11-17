@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.372704,29.7582,-95.372704,29.7582",
     "geom:latitude":29.7582,
     "geom:longitude":-95.372704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 Clay St Ste 4800",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6gggoc578cwSHakWBJR99z_29.758200_-95.372704@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"bafaae30a91c7036971386b2efbd8c25",
+    "wof:geomhash":"2ceda2817e5220e8f1f9e9d4eb819da5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269790127,
-    "wof:lastmodified":1467084624,
+    "wof:lastmodified":1510943236,
     "wof:name":"Eggleston & Briscoe",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622059055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

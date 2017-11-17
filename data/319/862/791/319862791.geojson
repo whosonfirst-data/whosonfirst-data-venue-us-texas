@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.555,31.8367,-106.555,31.8367",
     "geom:latitude":31.8367,
     "geom:longitude":-106.555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7211 N Mesa St Ste 1W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_1yI1rW2lZM1cmn11ylpM3q_31.836700_-106.555000@1303263079"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf8efe3a0ae01127d6eeb24c418e7e91",
+    "wof:geomhash":"431c942e4545924ebb75b1d173c3394d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":319862791,
-    "wof:lastmodified":1467084384,
+    "wof:lastmodified":1510944108,
     "wof:name":"Pirk Frederick W DDS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370852607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

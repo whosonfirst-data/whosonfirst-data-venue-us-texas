@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.065964,32.919263,-97.065964,32.919263",
     "geom:latitude":32.919263,
     "geom:longitude":-97.065964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"753 Port America Pl",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0jOlDCjmndpfhdKfmYzhK6_32.919263_-97.065964@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7688635164f5ef6e4efeb79dbebab3f2",
+    "wof:geomhash":"5c03406d2491ee11699178f0b347a448",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370657097,
-    "wof:lastmodified":1467084478,
+    "wof:lastmodified":1510943167,
     "wof:name":"S M Freight Intl Inc",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622091365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

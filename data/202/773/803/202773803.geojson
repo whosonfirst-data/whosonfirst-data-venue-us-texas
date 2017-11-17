@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.014845,32.924329,-97.014845,32.924329",
     "geom:latitude":32.924329,
     "geom:longitude":-97.014845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8600 Freeport Pkwy",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5EzyHYjGOdf9DfiD7cYRaU_32.924329_-97.014845@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2af07a5499d602d7182b1ab299c1990",
+    "wof:geomhash":"5e02a4aedbf90983285a0653be87fe2f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":202773803,
-    "wof:lastmodified":1467084894,
+    "wof:lastmodified":1510943000,
     "wof:name":"Wendys",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622490921
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

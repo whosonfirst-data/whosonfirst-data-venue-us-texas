@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.490773,30.083759,-95.490773,30.083759",
     "geom:latitude":30.083759,
     "geom:longitude":-95.490773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4804 Spring Stuebner Rd",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_5bsoTrWm9sIqkC3AbxeMoH_30.083759_-95.490773@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ceed9a6554dd6c1fb4348d7e434c5dd",
+    "wof:geomhash":"3c457e415f131627b43bc7e4dfe6c789",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":286607019,
-    "wof:lastmodified":1467084247,
+    "wof:lastmodified":1510943651,
     "wof:name":"Strike Zone Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588770105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.446059,29.793432,-95.446059,29.793432",
     "geom:latitude":29.793432,
     "geom:longitude":-95.446059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7234 Wynnwood Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1Yd58K3lTalPP61NIRnQlt_29.793432_-95.446059@1303263010"
     },
     "wof:country":"US",
-    "wof:geomhash":"98e742bf8cbc96d4b21bce5791f930db",
+    "wof:geomhash":"8deabd7965fc4f46f941cf7be5ad43a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269932553,
-    "wof:lastmodified":1467084596,
+    "wof:lastmodified":1510941347,
     "wof:name":"Certified Moving Systems",
     "wof:parent_id":85869733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269938885
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"

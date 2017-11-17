@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.6157,32.810799,-96.6157,32.810799",
     "geom:latitude":32.810799,
     "geom:longitude":-96.6157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1220 N Town East Blvd Ste 130",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_0r02ZKb0sObw1LNcSMWUAC_32.810799_-96.615700@1303262974"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f9c27cdd93b356b1cb6a3bc76778d38",
+    "wof:geomhash":"cf751b116eb46ee28f25b12828d0645e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236727251,
-    "wof:lastmodified":1467083881,
+    "wof:lastmodified":1510943518,
     "wof:name":"Hpk Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589193071
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

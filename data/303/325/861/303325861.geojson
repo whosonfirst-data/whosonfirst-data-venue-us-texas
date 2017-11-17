@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.800339,30.241003,-97.800339,30.241003",
     "geom:latitude":30.241003,
     "geom:longitude":-97.800339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4107 S Capital Of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7eNfEcsAemaSvUcvRd276N_30.241003_-97.800339@1303263056"
     },
     "wof:country":"US",
-    "wof:geomhash":"5757a58c591b1be35abaabc29e03dbbe",
+    "wof:geomhash":"74c425339b8f03c53436f4c3899a316d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303325861,
-    "wof:lastmodified":1467083739,
+    "wof:lastmodified":1510942074,
     "wof:name":"Baubles & Beads",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605878899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

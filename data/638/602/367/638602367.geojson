@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.748839,30.394243,-97.748839,30.394243",
     "geom:latitude":30.394243,
     "geom:longitude":-97.748839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9828 Great Hills Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7LnRhQXMVy418SSN7yWNCt_30.394243_-97.748839@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"796673e4ad363c1430144642398c35b5",
+    "wof:geomhash":"dd232f95c8920fb749b02b98401193ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638602367,
-    "wof:lastmodified":1467087345,
+    "wof:lastmodified":1510944142,
     "wof:name":"Pok e Jo's",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303810933
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.824824,32.80182,-96.824824,32.80182",
     "geom:latitude":32.80182,
     "geom:longitude":-96.824824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2050 N Stemmons Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7QuD736Z43DWuhqwzOmkTK_32.801820_-96.824824@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e41e1c1bff91b69196dab5df54faf56a",
+    "wof:geomhash":"3978be9a6cac495c0e5dbd48b4a3fa59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":605705601,
-    "wof:lastmodified":1467086102,
+    "wof:lastmodified":1510943623,
     "wof:name":"Guanajuato Trade Office",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622751611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "public",

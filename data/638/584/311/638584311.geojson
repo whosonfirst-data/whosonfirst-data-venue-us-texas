@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.682549,33.018199,-96.682549,33.018199",
     "geom:latitude":33.018199,
     "geom:longitude":-96.682549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 Jupiter Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_597kKqgzAYlNGacwZyg4t7_33.018199_-96.682549@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"d72495a444840137413234224160b6d0",
+    "wof:geomhash":"73825afeba4b305fdba0690ddb15eb88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638584311,
-    "wof:lastmodified":1467087320,
+    "wof:lastmodified":1510943721,
     "wof:name":"Que Huong",
     "wof:parent_id":420542557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236417155
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

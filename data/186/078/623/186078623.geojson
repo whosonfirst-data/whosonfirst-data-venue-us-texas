@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.206872,26.229247,-98.206872,26.229247",
     "geom:latitude":26.229247,
     "geom:longitude":-98.206872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"929 E Esperanza Ave",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2DGdNDgmHj3Q5eSAX0pEPD_26.229247_-98.206872@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cab8106032709dc2a929384858de9e0",
+    "wof:geomhash":"91c7691b9260bc4e53d398934a49d687",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":186078623,
-    "wof:lastmodified":1467084738,
+    "wof:lastmodified":1510943222,
     "wof:name":"R D R Real Estate",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287247701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

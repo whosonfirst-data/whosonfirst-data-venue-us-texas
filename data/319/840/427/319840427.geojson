@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.654971,30.360551,-103.654971,30.360551",
     "geom:latitude":30.360551,
     "geom:longitude":-103.654971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"708 E Avenue E",
     "sg:city":"Alpine",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0uEvWeRCXLqlEmUfjeXmji_30.360551_-103.654971@1303263078"
     },
     "wof:country":"US",
-    "wof:geomhash":"740bd850322c8d4505ae977efdacb349",
+    "wof:geomhash":"ccc25dc10e3de6c5a5c88b256ed9b873",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":319840427,
-    "wof:lastmodified":1467084383,
+    "wof:lastmodified":1510943800,
     "wof:name":"Carpenter Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589185985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.899678,32.944608,-96.899678,32.944608",
     "geom:latitude":32.944608,
     "geom:longitude":-96.899678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1510 Randolph St Ste 208",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7EMV5jDsQmpv9BmdO1tXfb_32.944608_-96.899678@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"207afb2a6b2e40d2a510303eb1357da8",
+    "wof:geomhash":"9b79822e95eb47dd2fecfc1302f2ecee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236039443,
-    "wof:lastmodified":1467084015,
+    "wof:lastmodified":1510942765,
     "wof:name":"Intex Builders Inc",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605043617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.764651,30.251762,-97.764651,30.251762",
     "geom:latitude":30.251762,
     "geom:longitude":-97.764651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1602 S Lamar Boulevard",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7X19z7nokzeeCZdcYM6ILa_30.251762_-97.764651@1303263056"
     },
     "wof:country":"US",
-    "wof:geomhash":"60921b040617bbc597dee4a276668def",
+    "wof:geomhash":"6d912af2118dd94c781192f422170d9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303314127,
-    "wof:lastmodified":1467083808,
+    "wof:lastmodified":1510941369,
     "wof:name":"Quality Automotive of Austin",
     "wof:parent_id":85869871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303316507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

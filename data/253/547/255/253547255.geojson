@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.457878,31.32353,-95.457878,31.32353",
     "geom:latitude":31.32353,
     "geom:longitude":-95.457878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"614 N 4th St",
     "sg:city":"Crockett",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_3QvjPMW97bkwpm9WverVOm_31.323530_-95.457878@1303262995"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb6244bc651049d44a394d49bd3f4e65",
+    "wof:geomhash":"8ca205e66002cd393b6dd4c4c1646a1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":253547255,
-    "wof:lastmodified":1467084954,
+    "wof:lastmodified":1510942023,
     "wof:name":"Economy Inn",
     "wof:parent_id":85838569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621955947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

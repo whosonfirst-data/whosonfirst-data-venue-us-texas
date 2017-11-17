@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.819702,30.504999,-97.819702,30.504999",
     "geom:latitude":30.504999,
     "geom:longitude":-97.819702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Old Highway 183",
     "sg:city":"Cedar Park",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_4FB0FxYB0pLzXyWIusGI1u_30.504999_-97.819702@1303263049"
     },
     "wof:country":"US",
-    "wof:geomhash":"42271dfa08e8b2925303dd3bda331096",
+    "wof:geomhash":"e38ab943ecee35257dacc6615a46ee03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":303090117,
-    "wof:lastmodified":1467083789,
+    "wof:lastmodified":1510942610,
     "wof:name":"New Mini Storage of Cedar Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622400377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"

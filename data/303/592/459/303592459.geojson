@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.804398,30.2022,-97.804398,30.2022",
     "geom:latitude":30.2022,
     "geom:longitude":-97.804398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1901 W William Cannon Dr Ste 159",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3M4qhHVgcFrtSQAq7DmMLA_30.202200_-97.804398@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba78699a73fe104a767747377c29b41c",
+    "wof:geomhash":"cf0483da11b2f3c51c7957e1baa2c489",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303592459,
-    "wof:lastmodified":1467083762,
+    "wof:lastmodified":1510941879,
     "wof:name":"Casa Garcias",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638602019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

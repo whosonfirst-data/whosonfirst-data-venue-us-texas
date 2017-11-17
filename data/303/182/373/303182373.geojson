@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.629921,30.444151,-97.629921,30.444151",
     "geom:latitude":30.444151,
     "geom:longitude":-97.629921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 12th St Ste 100",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_2jFXJnamucTLl4NNRZFDIu_30.444151_-97.629921@1303263051"
     },
     "wof:country":"US",
-    "wof:geomhash":"3191b3be55e98ab2c90fc149aec0ed05",
+    "wof:geomhash":"68aa557c83857c5f6e6a50ef7accc1f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":303182373,
-    "wof:lastmodified":1467083769,
+    "wof:lastmodified":1510942984,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638601215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.977557,29.768639,-94.977557,29.768639",
     "geom:latitude":29.768639,
     "geom:longitude":-94.977557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4301 Garth Rd Ste 300",
     "sg:city":"Baytown",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6jpORmEK4iL9rHphtP7ar5_29.768639_-94.977557@1303263039"
     },
     "wof:country":"US",
-    "wof:geomhash":"7444c35a40034447323882ca9039c96c",
+    "wof:geomhash":"9c0f271b0250113bc6d26562fca6bab0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":286832017,
-    "wof:lastmodified":1467084236,
+    "wof:lastmodified":1510941368,
     "wof:name":"Farouk Barbandi Md Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169710305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

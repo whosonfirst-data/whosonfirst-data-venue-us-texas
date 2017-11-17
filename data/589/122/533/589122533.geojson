@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.586355,29.56481,-98.586355,29.56481",
     "geom:latitude":29.56481,
     "geom:longitude":-98.586355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5221 de Zavala Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1x6rMZkdj7hTySNz0QDIcB_29.564810_-98.586355@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"95f5d0bd553331623a61858b17fcaf25",
+    "wof:geomhash":"3002ea1477bf5e739103fde18426e609",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +53,17 @@
         }
     ],
     "wof:id":589122533,
-    "wof:lastmodified":1467085482,
+    "wof:lastmodified":1510942498,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85871083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        638599719
+    ],
+    "wof:supersedes":[
+        638599719
+    ],
     "wof:tags":[]
 },
   "bbox": [

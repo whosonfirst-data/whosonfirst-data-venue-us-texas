@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8909,32.973598,-96.8909,32.973598",
     "geom:latitude":32.973598,
     "geom:longitude":-96.8909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1735 Keller Springs Rd Ste 204",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_31b6QwOemSpTnfR3w07Lk7_32.973598_-96.890900@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"696aff97c2ec81a6d9fbf770e38f5776",
+    "wof:geomhash":"fad31485b8e716bf2da5a89e4d118ce5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":236051671,
-    "wof:lastmodified":1467083967,
+    "wof:lastmodified":1510943163,
     "wof:name":"A & A Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622739145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"

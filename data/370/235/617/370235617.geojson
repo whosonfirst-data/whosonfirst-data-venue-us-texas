@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.59294,29.73064,-95.59294,29.73064",
     "geom:latitude":29.73064,
     "geom:longitude":-95.59294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12121 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6p2gOxH3iu1NtRbaF6Ynm7_29.730640_-95.592940@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e769f6a8aa515f0789bb66619d8094a",
+    "wof:geomhash":"797724098ad7f13c924e71fc5e9dd339",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":370235617,
-    "wof:lastmodified":1467084483,
+    "wof:lastmodified":1510943123,
     "wof:name":"Houston Womens Center",
     "wof:parent_id":85868507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622109861
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

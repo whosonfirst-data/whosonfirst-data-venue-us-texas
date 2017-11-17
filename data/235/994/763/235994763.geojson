@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827845,32.965472,-96.827845,32.965472",
     "geom:latitude":32.965472,
     "geom:longitude":-96.827845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4900 Airport Parkway",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7NQkFQvfeqfTssYLn6lhjP_32.965472_-96.827845@1303262961"
     },
     "wof:country":"US",
-    "wof:geomhash":"c455795fef12be90a289c9a2a92a38d2",
+    "wof:geomhash":"a584e893cfb11f946d636ea191ee57cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":235994763,
-    "wof:lastmodified":1467084141,
+    "wof:lastmodified":1510942642,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370835171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.698836,33.100933,-96.698836,33.100933",
     "geom:latitude":33.100933,
     "geom:longitude":-96.698836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1310 W McDermott Dr",
     "sg:city":"Mc Kinney",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3Xty504h4W5BA3TKvWIDAE_33.100933_-96.698836@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"466f12e3a73f879126ed11ac0b9d422a",
+    "wof:geomhash":"c5e29830078c897124d2f1a2e5d7a968",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":605236719,
-    "wof:lastmodified":1467085760,
+    "wof:lastmodified":1510944063,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85879901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622854079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.001148,33.036897,-97.001148,33.036897",
     "geom:latitude":33.036897,
     "geom:longitude":-97.001148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"893 S Stemmons Fwy",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_4wVDkFFYyrl0bLBbXZtQtv_33.036897_-97.001148@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"abf4c7f6990a27841247cf69f0354a6e",
+    "wof:geomhash":"edb5f4a9ac84c6af834ca9fb4677928e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":185712675,
-    "wof:lastmodified":1467084123,
+    "wof:lastmodified":1510943082,
     "wof:name":"Lewisville Volkswagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236382131
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "used"

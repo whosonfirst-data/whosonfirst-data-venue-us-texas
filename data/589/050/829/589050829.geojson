@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.41844,29.721576,-95.41844,29.721576",
     "geom:latitude":29.721576,
     "geom:longitude":-95.41844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5615 Kirby Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1I83YXYVOyIVPZBooXqF0t_29.721576_-95.418440@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a77887ec4b8f859f416a52c667fd350",
+    "wof:geomhash":"d69fa355c12e285cd5c1284f7603c0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":589050829,
-    "wof:lastmodified":1467085430,
+    "wof:lastmodified":1510943953,
     "wof:name":"Life Gift Organ Donation Ctr",
     "wof:parent_id":85893775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622125647
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banks",

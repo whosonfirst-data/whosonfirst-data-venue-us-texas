@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.919909,30.179917,-96.919909,30.179917",
     "geom:latitude":30.179917,
     "geom:longitude":-96.919909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1865 E Austin St",
     "sg:city":"Giddings",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3atOR7axaI5gs0UsHitQ8n_30.179917_-96.919909@1303263074"
     },
     "wof:country":"US",
-    "wof:geomhash":"70ced5470382baf324e354d2926959bd",
+    "wof:geomhash":"6763e5cda81254a1703e22d9ff5a132e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303862763,
-    "wof:lastmodified":1467083816,
+    "wof:lastmodified":1510942113,
     "wof:name":"Taqueria Chihuaua",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588942925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

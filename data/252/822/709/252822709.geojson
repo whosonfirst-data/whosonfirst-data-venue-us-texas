@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808601,32.808998,-96.808601,32.808998",
     "geom:latitude":32.808998,
     "geom:longitude":-96.808601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3102 Oak Lawn Ave Ste 110",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_32h00xjZow0LAolQupa59t_32.808998_-96.808601@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"c26f613c9042750fcc74f22c8a88624a",
+    "wof:geomhash":"0df358332a311dee91a1062b21348c00",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252822709,
-    "wof:lastmodified":1467084106,
+    "wof:lastmodified":1510941394,
     "wof:name":"Lackey Hershman Law Firm",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622272243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

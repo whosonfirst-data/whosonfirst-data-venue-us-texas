@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.542099,29.737101,-95.542099,29.737101",
     "geom:latitude":29.737101,
     "geom:longitude":-95.542099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9801 Westheimer Rd Ste 302",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1cYSx40azGenDrJFGKMybJ_29.737101_-95.542099@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"32b0e2f36e825463b27614fe2937e303",
+    "wof:geomhash":"530b6880c6f6a5e6f5772f8b44966663",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270286739,
-    "wof:lastmodified":1467084170,
+    "wof:lastmodified":1510941876,
     "wof:name":"Language Direct",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622327237
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

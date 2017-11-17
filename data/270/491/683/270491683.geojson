@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.473869,30.0212,-95.473869,30.0212",
     "geom:latitude":30.0212,
     "geom:longitude":-95.473869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16920 Kuykendahl Rd # 218",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0UGmykqw1fZFiSeEa2sbRj_30.021200_-95.473869@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f567eccf0b3c04c71e3cd4fc8ce8ca8",
+    "wof:geomhash":"08282c6749cb2df9f817def129319fde",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270491683,
-    "wof:lastmodified":1467084149,
+    "wof:lastmodified":1510943601,
     "wof:name":"Kdh Companies, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387784893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hardware-wholesale",

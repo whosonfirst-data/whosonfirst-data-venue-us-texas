@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.564962,29.633761,-95.564962,29.633761",
     "geom:latitude":29.633761,
     "geom:longitude":-95.564962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13003 Murphy Rd",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_5qRTmj3bVFDMSHRtlaq1NV_29.633761_-95.564962@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"62c50bf544bbc3ebd41b9910a1fd6943",
+    "wof:geomhash":"1fcbb7fbfc5640b50d96581ee9a946ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":219631791,
-    "wof:lastmodified":1467085123,
+    "wof:lastmodified":1510943492,
     "wof:name":"Southwest Book Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286730305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"

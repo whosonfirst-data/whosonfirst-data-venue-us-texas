@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-97.800532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3300 Bee Cave Road Suite 650",
     "sg:city":"West Lake Hills",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":303600859,
-    "wof:lastmodified":1510876595,
+    "wof:lastmodified":1510942077,
     "wof:name":"Chipotle Mexican Grill",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638602049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

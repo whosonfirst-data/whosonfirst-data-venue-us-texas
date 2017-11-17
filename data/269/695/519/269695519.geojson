@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.179396,31.057494,-98.179396,31.057494",
     "geom:latitude":31.057494,
     "geom:longitude":-98.179396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1305 S Key Ave Ste 104A",
     "sg:city":"Lampasas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1JlGFK0TiVBXuREVbBFpEI_31.057494_-98.179396@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cb404f39998c248eb6fb7dfdf3af64c",
+    "wof:geomhash":"6b4203094e2258755aa039adc29075f7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":269695519,
-    "wof:lastmodified":1467084597,
+    "wof:lastmodified":1510942184,
     "wof:name":"Health Dept Wic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605289107
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"

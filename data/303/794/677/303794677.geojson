@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.704626,30.409548,-97.704626,30.409548",
     "geom:latitude":30.409548,
     "geom:longitude":-97.704626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12201 Renfert Way Ste 120",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Ptwz7mvUP8qAIQBzHWuGf_30.409548_-97.704626@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"16b7a2f575262d4e5ce2ca2c04b039a3",
+    "wof:geomhash":"6674811cb71e401676d0f5068ab65359",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303794677,
-    "wof:lastmodified":1467083750,
+    "wof:lastmodified":1510943908,
     "wof:name":"North Austin Surgery Center",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605510765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

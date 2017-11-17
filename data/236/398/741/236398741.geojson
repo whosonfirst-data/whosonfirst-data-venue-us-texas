@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.61311,33.191012,-96.61311,33.191012",
     "geom:latitude":33.191012,
     "geom:longitude":-96.61311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 S Mcdonald St",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4HYZWyPMg5nnW8c7XoOwI9_33.191012_-96.613110@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"90b192b83483fe23fde4df75acd09dcd",
+    "wof:geomhash":"5000eff864808d8fe1966112aabe137d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236398741,
-    "wof:lastmodified":1467083868,
+    "wof:lastmodified":1510943397,
     "wof:name":"Box Brothers Auto Sales",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622055571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "used",

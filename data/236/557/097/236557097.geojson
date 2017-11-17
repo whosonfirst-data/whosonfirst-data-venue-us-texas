@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.794769,33.030353,-96.794769,33.030353",
     "geom:latitude":33.030353,
     "geom:longitude":-96.794769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2412 Preston Rd",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_75VQKfnAzQZlPgjn0QFmQX_33.030353_-96.794769@1303262972"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a2aa304a30a22c2916a091e7df6bde8",
+    "wof:geomhash":"18ca990921a74b8ec84df3083cd9ed01",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236557097,
-    "wof:lastmodified":1467083985,
+    "wof:lastmodified":1510942344,
     "wof:name":"Private Workout Inc",
     "wof:parent_id":85848241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622101777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

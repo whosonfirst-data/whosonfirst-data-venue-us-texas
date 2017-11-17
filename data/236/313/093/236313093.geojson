@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.224285,32.837164,-97.224285,32.837164",
     "geom:latitude":32.837164,
     "geom:longitude":-97.224285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7301 NE Loop 820",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0B5SUxZ2Ftj5tbsaiVt1WD_32.837164_-97.224285@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b409d34c7a9937855fd7dff0cb62ed1",
+    "wof:geomhash":"2b59ac0eb42b6bee383b52619b463533",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236313093,
-    "wof:lastmodified":1467083859,
+    "wof:lastmodified":1510941936,
     "wof:name":"North Richland Hills Purchase",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605372611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "department",

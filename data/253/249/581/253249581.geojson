@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.772651,32.913867,-96.772651,32.913867",
     "geom:latitude":32.913867,
     "geom:longitude":-96.772651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 Merit Dr Ste 1005",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7VVyvKtbaK2KD1fq3UpMwW_32.913867_-96.772651@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f02918f65a40871c54b9b2f2d46a7bb",
+    "wof:geomhash":"faf1c5a8797aafd2c5ff63333a78fc36",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253249581,
-    "wof:lastmodified":1467084950,
+    "wof:lastmodified":1510943286,
     "wof:name":"Rachal & Associates",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387274395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.465698,29.7502,-95.465698,29.7502",
     "geom:latitude":29.7502,
     "geom:longitude":-95.465698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5161 San Felipe St Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6UkleWZnxCLUjEzcTiSnvv_29.750200_-95.465698@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba05282762f935f56ab2f742f82d3803",
+    "wof:geomhash":"eb9b8fa97eff4519c7ad393b06d36374",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":270397519,
-    "wof:lastmodified":1467084182,
+    "wof:lastmodified":1510943000,
     "wof:name":"Randalls Food & Pharmacy",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270397585
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

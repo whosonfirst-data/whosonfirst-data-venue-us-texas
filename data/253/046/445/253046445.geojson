@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.855103,32.822102,-96.855103,32.822102",
     "geom:latitude":32.822102,
     "geom:longitude":-96.855103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1820 W Mockingbird Ln Ste 28",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1YhE2yg72L0NUxBdyVffz1_32.822102_-96.855103@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"bca1d026ffe845a355ff69a6bba31df7",
+    "wof:geomhash":"73791619d01788707249f1bb1f34160f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253046445,
-    "wof:lastmodified":1467085001,
+    "wof:lastmodified":1510942659,
     "wof:name":"Charlie's Bar",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203222147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"

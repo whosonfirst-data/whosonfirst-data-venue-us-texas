@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.875153,33.570535,-101.875153,33.570535",
     "geom:latitude":33.570535,
     "geom:longitude":-101.875153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2605 Boston Ave",
     "sg:city":"Lubbock",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_055lyyRRTwO4RBeSPQVqUN_33.570535_-101.875153@1303263076"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd8c6a13e274f29c07bd1728aef29e21",
+    "wof:geomhash":"0f6e12dacb595fac7724241761e50d3c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":303994199,
-    "wof:lastmodified":1467083697,
+    "wof:lastmodified":1510943573,
     "wof:name":"Sharp's Flowers",
     "wof:parent_id":85878817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        252951675
+    ],
+    "wof:supersedes":[
+        252951675
+    ],
     "wof:tags":[]
 },
   "bbox": [

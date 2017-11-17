@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727303,30.3694,-97.727303,30.3694",
     "geom:latitude":30.3694,
     "geom:longitude":-97.727303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8711 Burnet Rd Ste D44",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7jnafpRXZPkuXiiXrOgtbr_30.369400_-97.727303@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"0143cb8429ed3b189cfbe30c99b73d9a",
+    "wof:geomhash":"462eeec64c786519878607f96118adfd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303768717,
-    "wof:lastmodified":1467083738,
+    "wof:lastmodified":1510943107,
     "wof:name":"Lasertoner Supply Co Inc",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622723551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.79054,32.822368,-96.79054,32.822368",
     "geom:latitude":32.822368,
     "geom:longitude":-96.79054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4514 Travis St Ste 122",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1AX9pmG6Lm6o8WdUpoxHxf_32.822368_-96.790540@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e20d165b994235121bcaa51edd590c0",
+    "wof:geomhash":"725375a6408b8ad665abd9cc4cd27c9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,15 @@
         }
     ],
     "wof:id":236907031,
-    "wof:lastmodified":1467084025,
+    "wof:lastmodified":1510942939,
     "wof:name":"Ziziki's",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605491503,
+        605795991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "greek",

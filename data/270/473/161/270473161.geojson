@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5382,29.7402,-95.5382,29.7402",
     "geom:latitude":29.7402,
     "geom:longitude":-95.5382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2537 S Gessner Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1ZpGGf8UZaVOk9AAfNjcdn_29.740200_-95.538200@1303263025"
     },
     "wof:country":"US",
-    "wof:geomhash":"316a6d84e0be159f2f097b0789b6d286",
+    "wof:geomhash":"140ef9ade8065c34bfecf74d6392f66b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270473161,
-    "wof:lastmodified":1467084166,
+    "wof:lastmodified":1510942682,
     "wof:name":"Beeson Homes",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605437323
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

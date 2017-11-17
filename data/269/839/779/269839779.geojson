@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.361397,29.7614,-95.361397,29.7614",
     "geom:latitude":29.7614,
     "geom:longitude":-95.361397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"405 Main St Ste 700",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2ZlqaYRaXCiiUgP5zSPPGB_29.761400_-95.361397@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"a09febc265ba5cd315054f7093f6b8ea",
+    "wof:geomhash":"bf83e5156f7610f4f3c7495883c51851",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269839779,
-    "wof:lastmodified":1467084612,
+    "wof:lastmodified":1510941839,
     "wof:name":"Big City Networks Inc",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622059767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "provider",

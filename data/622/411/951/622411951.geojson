@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.384727,31.780843,-106.384727,31.780843",
     "geom:latitude":31.780843,
     "geom:longitude":-106.384727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7500 Viscount Blvd",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6WdQrCbS2n4LZhAkqr8ydS_31.780843_-106.384727@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"97095b8f5df188c4c853c56a69aa2d02",
+    "wof:geomhash":"9c3da30380dff9f78cb6cf0ee24f2dea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":622411951,
-    "wof:lastmodified":1467086811,
+    "wof:lastmodified":1510942503,
     "wof:name":"Systems Design Intl",
     "wof:parent_id":85811021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622671377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

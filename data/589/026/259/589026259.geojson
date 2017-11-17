@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.513584,29.655901,-95.513584,29.655901",
     "geom:latitude":29.655901,
     "geom:longitude":-95.513584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7760 W Bellfort St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5nqPIvnGmhpOVDauOMCI2e_29.655901_-95.513584@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8456b220284fe15976afa21dc5d174f0",
+    "wof:geomhash":"b64edf9696234f2849ffffbcc0064841",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":589026259,
-    "wof:lastmodified":1467085412,
+    "wof:lastmodified":1510941201,
     "wof:name":"Wendys",
     "wof:parent_id":85869289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638593253
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

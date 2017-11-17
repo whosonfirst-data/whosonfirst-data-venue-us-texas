@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74286,30.268065,-97.74286,30.268065",
     "geom:latitude":30.268065,
     "geom:longitude":-97.74286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Congress Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0Q83nmpum0ODYjA1lwrrLj_30.268065_-97.742860@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f9bdb025e80a15aa8ef832a4e7026c3",
+    "wof:geomhash":"46dc08fe2424dbbbd13d406c9d707841",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303218065,
-    "wof:lastmodified":1467083769,
+    "wof:lastmodified":1510943343,
     "wof:name":"Washington Mutual",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387592027
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.788619,32.804064,-96.788619,32.804064",
     "geom:latitude":32.804064,
     "geom:longitude":-96.788619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2406 N Haskell Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5ni1SgSKeT8l2BVPIm6yMK_32.804064_-96.788619@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddd93f0f3209078f08f0a06e1645fd91",
+    "wof:geomhash":"9546a2f50e99072dbed8f4d29558aece",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236871491,
-    "wof:lastmodified":1467083913,
+    "wof:lastmodified":1510941400,
     "wof:name":"ChiroSport",
     "wof:parent_id":85870357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622852375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

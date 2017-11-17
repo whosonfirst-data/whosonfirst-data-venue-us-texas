@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415519,30.117759,-95.415519,30.117759",
     "geom:latitude":30.117759,
     "geom:longitude":-95.415519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1827 Riverwood Trl",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2x1qtzqnFlhHlj2g4rwUMi_30.117759_-95.415519@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"f0180a14340aec807fd3fb3f2ebf0b08",
+    "wof:geomhash":"f7e86b6ef9853fa6ac82cc7c5fc7bde7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286592797,
-    "wof:lastmodified":1467084283,
+    "wof:lastmodified":1510941976,
     "wof:name":"Mr Lynn's Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589012235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.513567,29.704552,-95.513567,29.704552",
     "geom:latitude":29.704552,
     "geom:longitude":-95.513567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7322 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0UlQSRPxn2HYVN1akhdik3_29.704552_-95.513567@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4a2a00ef234438a2748eb79ca2333bb",
+    "wof:geomhash":"19c29fcbb7851186c78b8d1c10ad0073",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":404042709,
-    "wof:lastmodified":1467084655,
+    "wof:lastmodified":1510941411,
     "wof:name":"GSI Marine",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605511353
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "marine",

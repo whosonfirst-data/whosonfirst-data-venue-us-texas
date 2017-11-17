@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.770477,30.277241,-97.770477,30.277241",
     "geom:latitude":30.277241,
     "geom:longitude":-97.770477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 Lake Austin Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5G4y8wGLhfuehMWw8nM6Pk_30.277241_-97.770477@1303263055"
     },
     "wof:country":"US",
-    "wof:geomhash":"12d44c313ac5f1ca15750cacec60e739",
+    "wof:geomhash":"a6b065d97565195e0ca5e7f52801f9e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303308147,
-    "wof:lastmodified":1467083816,
+    "wof:lastmodified":1510943584,
     "wof:name":"Diane Dopson Properties",
     "wof:parent_id":85869919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622756671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

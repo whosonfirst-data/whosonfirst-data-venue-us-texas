@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.72416,30.289494,-97.72416,30.289494",
     "geom:latitude":30.289494,
     "geom:longitude":-97.72416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 E 32nd St Ste 508",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4XG1bcHNdP8crRRT2pSLsx_30.289494_-97.724160@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"29015bfc95d3007ea2ba7f27dee6bd43",
+    "wof:geomhash":"57c88bd308d9c70c5be78a26a7dc2187",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303358727,
-    "wof:lastmodified":1467083743,
+    "wof:lastmodified":1510942256,
     "wof:name":"Texas Cardiovascular Consultants",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303360793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

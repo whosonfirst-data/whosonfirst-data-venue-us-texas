@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.405374,29.803948,-95.405374,29.803948",
     "geom:latitude":29.803948,
     "geom:longitude":-95.405374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"427 W 20th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1vGP2NiKtObJytL7kWmT0t_29.803948_-95.405374@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d450d06037f62a9f61943709a0a0e558",
+    "wof:geomhash":"c3224caa26d60d0b9ba0db1a403e57d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":387044465,
-    "wof:lastmodified":1467084835,
+    "wof:lastmodified":1510943725,
     "wof:name":"Hussein Adnan MD Pa",
     "wof:parent_id":85869293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269946159
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.491178,29.731708,-95.491178,29.731708",
     "geom:latitude":29.731708,
     "geom:longitude":-95.491178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6261 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7RkQp7K8hhSXay5dKsq1o6_29.731708_-95.491178@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"f369f6a8472ee2119cb84112c6d1f4ee",
+    "wof:geomhash":"0d4fd4bf3667dd8303b778d832ab155a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219205969,
-    "wof:lastmodified":1467085145,
+    "wof:lastmodified":1510942363,
     "wof:name":"Todays European Cars Inc",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270418141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.3675,29.748569,-95.3675,29.748569",
     "geom:latitude":29.748569,
     "geom:longitude":-95.3675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1315 St Joseph Pkwy # 1400",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0uXaP5ulafCEh42Vhv2vBO_29.748569_-95.367500@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbba88fd6ae260e96e36161f1a8e86c6",
+    "wof:geomhash":"b7e778b4b81a689cc934a0dcad185809",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269783335,
-    "wof:lastmodified":1467084573,
+    "wof:lastmodified":1510941428,
     "wof:name":"St Joseph Womancare",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370732929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "examination",

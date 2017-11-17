@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.810097,32.862301,-96.810097,32.862301",
     "geom:latitude":32.862301,
     "geom:longitude":-96.810097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5949 Sherry Ln Ste 600",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1OjvTkQQhwK3DYZbVpHOJs_32.862301_-96.810097@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"38e65fafabf8009ea9f30b6dba853e2a",
+    "wof:geomhash":"3151b19ee572873aface72276b6f7d2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252883987,
-    "wof:lastmodified":1467084094,
+    "wof:lastmodified":1510943657,
     "wof:name":"Newsom J Kent",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589125605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

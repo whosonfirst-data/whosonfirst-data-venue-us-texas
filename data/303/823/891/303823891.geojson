@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.755766,30.372586,-97.755766,30.372586",
     "geom:latitude":30.372586,
     "geom:longitude":-97.755766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8127 Mesa Dr B206-198",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3gp2KrIGFbQWJFAbrqrn7t_30.372586_-97.755766@1303263072"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ed7f318321b1dbc9d350678533698dd",
+    "wof:geomhash":"e12d078d8f42fcc1d5abaccdeacc4104",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303823891,
-    "wof:lastmodified":1467083812,
+    "wof:lastmodified":1510942406,
     "wof:name":"All-Tex Exteriors",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303830651
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

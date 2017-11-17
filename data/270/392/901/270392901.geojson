@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.471298,29.738899,-95.471298,29.738899",
     "geom:latitude":29.738899,
     "geom:longitude":-95.471298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5433 Westheimer Rd Ste 600",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_70p3XV1bN3EzkiNtp5GrEv_29.738899_-95.471298@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"86eea2f86f192f28663e6608a885f979",
+    "wof:geomhash":"459cecae042fe97bc737af8b05813424",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270392901,
-    "wof:lastmodified":1467084214,
+    "wof:lastmodified":1510941743,
     "wof:name":"Inspirational Tours Inc",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606067871
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tour"

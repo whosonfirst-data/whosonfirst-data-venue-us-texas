@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.431715,29.733327,-95.431715,29.733327",
     "geom:latitude":29.733327,
     "geom:longitude":-95.431715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12 E Greenway Plz",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2dH7CeuvEm2tHIdnSQFGsC_29.733327_-95.431715@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"286894d388d61174d02feeef77625f46",
+    "wof:geomhash":"47208db84f3edc118d6a2cc588e57c4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":185893025,
-    "wof:lastmodified":1467084134,
+    "wof:lastmodified":1510942096,
     "wof:name":"Los Andes",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270319767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

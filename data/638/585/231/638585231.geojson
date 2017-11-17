@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.213726,32.320684,-96.213726,32.320684",
     "geom:latitude":32.320684,
     "geom:longitude":-96.213726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 W Cedar Creek Pkwy",
     "sg:city":"Kemp",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_71LOJQCavFR8Atcdo44b5e_32.320684_-96.213726@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"959558d7cf6124d42dcfcad175e8bea0",
+    "wof:geomhash":"6a8407572f91830e96ae8eeff444bdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638585231,
-    "wof:lastmodified":1467087321,
+    "wof:lastmodified":1510942936,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236659619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.714399,30.420963,-97.714399,30.420963",
     "geom:latitude":30.420963,
     "geom:longitude":-97.714399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3605 Adelphi Lane",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0Fi8IWW31R3oSYOCRsG7w5_30.420963_-97.714399@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a14328e0b40f2c1ca0b4bc4db0165074",
+    "wof:geomhash":"a553125297898fbffef1fc277b62c141",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303415355,
-    "wof:lastmodified":1467083779,
+    "wof:lastmodified":1510943885,
     "wof:name":"Tabernacle of Praise",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252877435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

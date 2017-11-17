@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.265939,29.674373,-95.265939,29.674373",
     "geom:latitude":29.674373,
     "geom:longitude":-95.265939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8441 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4u7TWyuXSA8U9Fq7TCaspl_29.674373_-95.265939@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1778e0141ebbfa602ae276005a675a15",
+    "wof:geomhash":"1efbee8a5517c0412c5d5df9fc6d5d7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":185968343,
-    "wof:lastmodified":1467084113,
+    "wof:lastmodified":1510941318,
     "wof:name":"Chase-Williams Group Inc",
     "wof:parent_id":85869457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270008081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house",

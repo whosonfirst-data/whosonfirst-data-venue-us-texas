@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.962504,31.749287,-99.962504,31.749287",
     "geom:latitude":31.749287,
     "geom:longitude":-99.962504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1609 N Broadway St",
     "sg:city":"Ballinger",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1HZ07RIBPpJMvxPRjiP92p_31.749287_-99.962504@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e55ad0b88106f2cc7f695dd4ea4c2be1",
+    "wof:geomhash":"b1c8d7ea01bd7826d7efcd5659c3fa73",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252954043,
-    "wof:lastmodified":1467084101,
+    "wof:lastmodified":1510941551,
     "wof:name":"Ballinger Short Stop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269765119
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "station",

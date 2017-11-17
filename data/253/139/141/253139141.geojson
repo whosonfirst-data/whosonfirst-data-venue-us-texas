@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.739998,32.918301,-96.739998,32.918301",
     "geom:latitude":32.918301,
     "geom:longitude":-96.739998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9330 Amberton Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3KR7vZOGnT30WSXGd9MJR8_32.918301_-96.739998@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"7eb5f7f38c16c37646d5cc13b0e906f0",
+    "wof:geomhash":"6766e983dbb2810589e4cf3bc5325d18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253139141,
-    "wof:lastmodified":1467084954,
+    "wof:lastmodified":1510943456,
     "wof:name":"Supreme Lending",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622582899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

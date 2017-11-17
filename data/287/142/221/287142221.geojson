@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.093672,28.896948,-99.093672,28.896948",
     "geom:latitude":28.896948,
     "geom:longitude":-99.093672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"814 N Oak St",
     "sg:city":"Pearsall",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1BGkw8agezwyqtcIScwKPQ_28.896948_-99.093672@1303263045"
     },
     "wof:country":"US",
-    "wof:geomhash":"46ceb882567132671e5419fb2fb7d76f",
+    "wof:geomhash":"7d5585cd2ac140636c749cb116d6caea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":287142221,
-    "wof:lastmodified":1467083841,
+    "wof:lastmodified":1510942905,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638598057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

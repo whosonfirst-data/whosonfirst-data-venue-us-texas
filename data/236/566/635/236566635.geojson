@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.833368,33.031383,-96.833368,33.031383",
     "geom:latitude":33.031383,
     "geom:longitude":-96.833368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6121 W Park Blvd Ste C208",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0DwSLUuOsIks6G8AxrGc8I_33.031383_-96.833368@1303262972"
     },
     "wof:country":"US",
-    "wof:geomhash":"186feba5828bb181f03110c2a9fab8d5",
+    "wof:geomhash":"69fd4cb277aaa8570c0d1f59b551264d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":236566635,
-    "wof:lastmodified":1467083858,
+    "wof:lastmodified":1510943322,
     "wof:name":"Japanese Weekend Maternity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622826257
+    ],
+    "wof:supersedes":[
+        236544661
+    ],
     "wof:tags":[
         "maternity",
         "wear"

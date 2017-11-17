@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.938098,32.871341,-96.938098,32.871341",
     "geom:latitude":32.871341,
     "geom:longitude":-96.938098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5215 N O Connor Blvd Ste 900",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0hwVtqFtDrK4tnRR11knh5_32.871341_-96.938098@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"22dc0410bd48c37b2545cffca0b511c6",
+    "wof:geomhash":"c686e98477d706b166b9fbee06c01a5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236208837,
-    "wof:lastmodified":1467083875,
+    "wof:lastmodified":1510943461,
     "wof:name":"Tiaa Realty Inc",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622847701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

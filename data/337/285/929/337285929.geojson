@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.76226,30.383243,-97.76226,30.383243",
     "geom:latitude":30.383243,
     "geom:longitude":-97.76226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8512 Adirondack Trl",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2xY4ZJG1PtqixrxssseR1Y_30.383243_-97.762260@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"381ca549a9a308116c5864f128cc40a4",
+    "wof:geomhash":"0ccb9f632093aa103843064e0a1ec875",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":337285929,
-    "wof:lastmodified":1467084424,
+    "wof:lastmodified":1510942843,
     "wof:name":"Mobile Cat & Dog Vet",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303832315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

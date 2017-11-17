@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.126029,32.019542,-102.126029,32.019542",
     "geom:latitude":32.019542,
     "geom:longitude":-102.126029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3325 W Wadley Ave",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -67,10 +70,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4311924292,
         "sg:id":"SG_6leYbnabTxMJOKPmkyJDzH_32.019542_-102.126029@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"92126bec1d5517646d46fdcffb56978b",
+    "wof:geomhash":"975428dd5bfdb111f0d1d7e4c72bcbf9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -83,13 +87,17 @@
         }
     ],
     "wof:id":304066223,
-    "wof:lastmodified":1467084663,
+    "wof:lastmodified":1510943200,
     "wof:name":"H-E-B Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        589277203
+    ],
+    "wof:supersedes":[
+        589277203
+    ],
     "wof:tags":[
         "product",
         "wellness",

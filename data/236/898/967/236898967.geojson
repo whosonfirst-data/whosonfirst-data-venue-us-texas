@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.785332,32.82687,-96.785332,32.82687",
     "geom:latitude":32.82687,
     "geom:longitude":-96.785332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3100 Monticello Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
         "sg:id":"SG_6sDIC5KXj9S3ONaa48XA9a_32.826870_-96.785332@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"b85841f5181b93c4f79eb93a8d9c69dd",
+    "wof:geomhash":"86c48e8c5beb00adacb819036f583caf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":236898967,
-    "wof:lastmodified":1467083850,
+    "wof:lastmodified":1510942164,
     "wof:name":"Heath Holdings Usa Inc.",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622333477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.134795,29.544204,-95.134795,29.544204",
     "geom:latitude":29.544204,
     "geom:longitude":-95.134795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 W Bay Area Blvd Suite 400",
     "sg:city":"Webster",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1Bn1Gy5ldDSX7V4icXE9oD_29.544204_-95.134795@1303263041"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e567cbad45279c1cf806c4850644c3e",
+    "wof:geomhash":"2cdac17cd6078439283a04c4926f9768",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286942409,
-    "wof:lastmodified":1467084273,
+    "wof:lastmodified":1510943021,
     "wof:name":"Alexander Law Firm",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588895009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

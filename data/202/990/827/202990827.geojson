@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.746679,30.393453,-97.746679,30.393453",
     "geom:latitude":30.393453,
     "geom:longitude":-97.746679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 Research Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_4UnvxxFZVkFkIJMQg8aE45_30.393453_-97.746679@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"15cce8b4e5eb5b1110f93b3aae81c0a2",
+    "wof:geomhash":"d3e2b73acb1a975ce4ee38ff7b409636",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,15 @@
         }
     ],
     "wof:id":202990827,
-    "wof:lastmodified":1467084923,
+    "wof:lastmodified":1510944137,
     "wof:name":"Chico's",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303836693,
+        303823117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

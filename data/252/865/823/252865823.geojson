@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.810204,32.863602,-96.810204,32.863602",
     "geom:latitude":32.863602,
     "geom:longitude":-96.810204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5944 Luther Ln Ste 401",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3sWKnTEEPSiz3MR8ZuFCEA_32.863602_-96.810204@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"24cd3c9371e9ff9c91e30f5fa3822ce5",
+    "wof:geomhash":"68804f0782ed3b518d4240852b37c9cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252865823,
-    "wof:lastmodified":1467084093,
+    "wof:lastmodified":1510942850,
     "wof:name":"Smith Capital Corporation",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236942339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

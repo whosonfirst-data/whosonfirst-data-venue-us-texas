@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.888901,32.8899,-96.888901,32.8899",
     "geom:latitude":32.8899,
     "geom:longitude":-96.888901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11200 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3MTWTMXIzkexJQ6JYuIImw_32.889900_-96.888901@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f38e2c246f25804c5e10352ea81e87e",
+    "wof:geomhash":"dc4fb91a90700df7d30ad1409f6ed997",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":252951761,
-    "wof:lastmodified":1467084049,
+    "wof:lastmodified":1510942145,
     "wof:name":"Los Angeles Jewelry Store",
     "wof:parent_id":85870417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605765807
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

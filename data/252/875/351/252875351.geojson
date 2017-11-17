@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.807951,32.863277,-96.807951,32.863277",
     "geom:latitude":32.863277,
     "geom:longitude":-96.807951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8226 Douglas Ave Ste 632",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2Wc7dUoauyKnpW9ilcaO7r_32.863277_-96.807951@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b7068665b06ba77f2c80227ea602e89",
+    "wof:geomhash":"99d4af27b4d49d5ebc2c6a9344973c3f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252875351,
-    "wof:lastmodified":1467084092,
+    "wof:lastmodified":1510943434,
     "wof:name":"Adrian J Sampeck, DDS",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236721601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "endodontist"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.513482,29.704503,-95.513482,29.704503",
     "geom:latitude":29.704503,
     "geom:longitude":-95.513482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7324 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1i8yiutKtSJDPqWOKdEpl6_29.704503_-95.513482@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2ef90410e973c47401c09ddad0711d7",
+    "wof:geomhash":"986f36d4d19571e6495208fef4d1d3cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236032095,
-    "wof:lastmodified":1467083944,
+    "wof:lastmodified":1510942960,
     "wof:name":"Home Land Corp",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270532205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

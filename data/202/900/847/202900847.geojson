@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.733771,32.500538,-94.733771,32.500538",
     "geom:latitude":32.500538,
     "geom:longitude":-94.733771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"408 E Marshall Ave",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -36,10 +39,11 @@
     "wof:brand_id":420573827,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":387275394,
         "sg:id":"SG_7JqSfyEsYXrrw7kqXfCSYt_32.500538_-94.733771@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"179592c347f72a16c44dedd19d891f06",
+    "wof:geomhash":"228f8c374e4699d153de81d899dc0eeb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":202900847,
-    "wof:lastmodified":1467084911,
+    "wof:lastmodified":1510943266,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        638586937
+    ],
+    "wof:supersedes":[
+        638586937
+    ],
     "wof:tags":[
         "eating"
     ]

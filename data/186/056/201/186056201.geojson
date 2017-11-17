@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.909635,32.99949,-96.909635,32.99949",
     "geom:latitude":32.99949,
     "geom:longitude":-96.909635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3108 Old Denton Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5BFesp4ylitGEYj4Psqlc3_32.999490_-96.909635@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"69e9ec21ff9afa4e5850fed3dd5e4120",
+    "wof:geomhash":"1469e95d43e161c888a70905e2a27745",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186056201,
-    "wof:lastmodified":1467084707,
+    "wof:lastmodified":1510943766,
     "wof:name":"Pretty Paws",
     "wof:parent_id":85870481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236113205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

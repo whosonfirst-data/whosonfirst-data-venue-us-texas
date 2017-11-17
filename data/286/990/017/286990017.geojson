@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.154167,30.12303,-94.154167,30.12303",
     "geom:latitude":30.12303,
     "geom:longitude":-94.154167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4751 Odom Rd",
     "sg:city":"Beaumont",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5ZDyPm0UAnWBSBiWnLczXk_30.123030_-94.154167@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"e736340cb0a8fb42def74747870217ed",
+    "wof:geomhash":"2e46012da94e104ca0971270047388b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286990017,
-    "wof:lastmodified":1467084291,
+    "wof:lastmodified":1510941849,
     "wof:name":"Odom Place Apartments",
     "wof:parent_id":85845963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605598297
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.737634,30.272703,-97.737634,30.272703",
     "geom:latitude":30.272703,
     "geom:longitude":-97.737634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"313 East 12 St Suite 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5yXiO0wE2hB6uud7TXb5Nx_30.272703_-97.737634@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"fdf456dd2326d20e979b77e49a651f46",
+    "wof:geomhash":"49d911693eeee085f0f1c7ec45063637",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":303240953,
-    "wof:lastmodified":1467083704,
+    "wof:lastmodified":1510942470,
     "wof:name":"Kimberly Carter MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303266985
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

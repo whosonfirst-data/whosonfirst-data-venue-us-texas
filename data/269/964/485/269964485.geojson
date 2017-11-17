@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.363197,29.755899,-95.363197,29.755899",
     "geom:latitude":29.755899,
     "geom:longitude":-95.363197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 McKinney St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0O40b9J5Rkw6DdNollSdxK_29.755899_-95.363197@1303263011"
     },
     "wof:country":"US",
-    "wof:geomhash":"10a6c7ad7a898e947a750cbdbd4965b3",
+    "wof:geomhash":"39dcf61081df8aeb55514058bcba2350",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269964485,
-    "wof:lastmodified":1467084622,
+    "wof:lastmodified":1510942089,
     "wof:name":"Med Grill",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605177809
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

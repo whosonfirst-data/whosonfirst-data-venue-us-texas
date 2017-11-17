@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.809115,32.814855,-96.809115,32.814855",
     "geom:latitude":32.814855,
     "geom:longitude":-96.809115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4107 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0yf4oBPfvH2FVrDLJXNQRe_32.814855_-96.809115@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"67869b19dd544fb15e3bf918d3b22e6f",
+    "wof:geomhash":"aba9a4ea14a9e4b110b62eaeff7b199a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":252823031,
-    "wof:lastmodified":1467084107,
+    "wof:lastmodified":1510941717,
     "wof:name":"Supercuts",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622846571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

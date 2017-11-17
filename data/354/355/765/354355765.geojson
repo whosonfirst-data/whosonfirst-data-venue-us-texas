@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.592675,29.784163,-95.592675,29.784163",
     "geom:latitude":29.784163,
     "geom:longitude":-95.592675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11777 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_56KoWDx4ax364tPwMNBpT9_29.784163_-95.592675@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"be7591f46a992d334b9b01eb82a39a45",
+    "wof:geomhash":"7bc54246db7cb53bb157ae22dced3def",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354355765,
-    "wof:lastmodified":1467085062,
+    "wof:lastmodified":1510943258,
     "wof:name":"CGU Insurance Co",
     "wof:parent_id":85885361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605105893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

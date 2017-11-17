@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7724,32.914001,-96.7724,32.914001",
     "geom:latitude":32.914001,
     "geom:longitude":-96.7724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 Merit Dr Ste 1725",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0GRKkJDRI6CCZmvlgNKlXo_32.914001_-96.772400@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"e906783d2873688fbe776dcb18b268c6",
+    "wof:geomhash":"8b6eff0566492a19f27b45dc62ba7675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253249465,
-    "wof:lastmodified":1467084950,
+    "wof:lastmodified":1510943815,
     "wof:name":"Perryman Financial Advisory",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606058193
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

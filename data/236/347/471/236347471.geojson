@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.960274,32.850513,-96.960274,32.850513",
     "geom:latitude":32.850513,
     "geom:longitude":-96.960274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3333 N. MacArthur Blvd.",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2ZMSDq6YDcPhmAWDrHXDnP_32.850513_-96.960274@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1f22ea4c9fb36b5f43403b84f2e1cf7",
+    "wof:geomhash":"883b8d842cf5898c471674af66b257e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236347471,
-    "wof:lastmodified":1467083943,
+    "wof:lastmodified":1510941369,
     "wof:name":"Lyric Stage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605256337
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"

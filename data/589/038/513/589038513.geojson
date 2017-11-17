@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.797642,32.806948,-96.797642,32.806948",
     "geom:latitude":32.806948,
     "geom:longitude":-96.797642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3699 McKinney Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3dOTCraxDmMGyOGhScnLUZ_32.806948_-96.797642@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf37fbead19d22df012112bdf8710352",
+    "wof:geomhash":"e1464aebfa101a72be1a0056da134f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":589038513,
-    "wof:lastmodified":1467085421,
+    "wof:lastmodified":1510941553,
     "wof:name":"West Village",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236884087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

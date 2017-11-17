@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.269127,32.295319,-95.269127,32.295319",
     "geom:latitude":32.295319,
     "geom:longitude":-95.269127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Shiloh Rd",
     "sg:city":"Tyler",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6K7ScS9Gd18TajcjR0euBp_32.295319_-95.269127@1303262994"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f7023db5eaf8d3b4a066a89c142c6f7",
+    "wof:geomhash":"d0e493e5183d4a10a1569d5144d1216a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253510779,
-    "wof:lastmodified":1467085005,
+    "wof:lastmodified":1510943265,
     "wof:name":"Hidden Springs",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589256041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

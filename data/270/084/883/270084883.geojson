@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.558441,29.771892,-95.558441,29.771892",
     "geom:latitude":29.771892,
     "geom:longitude":-95.558441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"650 W Bough Ln Ste 112",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_28cwdm5XCv4l13NW7TVwhQ_29.771892_-95.558441@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"c497083bc3175fbe275117ec34354bee",
+    "wof:geomhash":"712ed3b4c64c6aa4bd4d8c2352c194de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":270084883,
-    "wof:lastmodified":1467084159,
+    "wof:lastmodified":1510941506,
     "wof:name":"Tcby",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638606491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.466103,29.7623,-95.466103,29.7623",
     "geom:latitude":29.7623,
     "geom:longitude":-95.466103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5120 Woodway Dr Ste 9007",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6fLlCeMNYHvXB3Y0GIzdGL_29.762300_-95.466103@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"dafb4b07591d5265c7ee92e7b8cb1be7",
+    "wof:geomhash":"b605c8b28b3a3bb144e6998045caf3cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270389653,
-    "wof:lastmodified":1467084213,
+    "wof:lastmodified":1510941817,
     "wof:name":"Visinsky & Associates PC",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605724907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

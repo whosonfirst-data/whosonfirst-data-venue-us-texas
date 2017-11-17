@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.454399,29.685801,-95.454399,29.685801",
     "geom:latitude":29.685801,
     "geom:longitude":-95.454399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8811 Frankway Dr Ste D",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2GtKXup3AdhUlu1ArWhT2c_29.685801_-95.454399@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b473ebf29d81e2dbde4096a6e530c221",
+    "wof:geomhash":"239079e57a2dd6458f85cf76c6e1a20b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":286409289,
-    "wof:lastmodified":1467084269,
+    "wof:lastmodified":1510942875,
     "wof:name":"O'brien Thomas R DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236215937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

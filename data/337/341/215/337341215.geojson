@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.479599,29.7488,-95.479599,29.7488",
     "geom:latitude":29.7488,
     "geom:longitude":-95.479599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Bering Dr Ste 800",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4Rqv6YTRtbRsT1GstBXQyH_29.748800_-95.479599@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"291feee86f0f59c7baecaee7ca3b4544",
+    "wof:geomhash":"eb194e2afd2879958c4b83713637343c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":337341215,
-    "wof:lastmodified":1467084456,
+    "wof:lastmodified":1510942870,
     "wof:name":"Link Staffing Services",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236674411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

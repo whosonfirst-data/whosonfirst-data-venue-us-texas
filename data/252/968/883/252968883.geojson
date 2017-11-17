@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803802,32.923,-96.803802,32.923",
     "geom:latitude":32.923,
     "geom:longitude":-96.803802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12817 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_20yAb6FN17kH6P9Uzo8XJG_32.923000_-96.803802@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ed255e44626ca35012fa4d3ff24ff41",
+    "wof:geomhash":"625cd349c59778cff8c5dace9d9372fa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252968883,
-    "wof:lastmodified":1467084052,
+    "wof:lastmodified":1510941714,
     "wof:name":"Diana's Tailor",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370874777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing",

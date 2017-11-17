@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.708401,30.411628,-97.708401,30.411628",
     "geom:latitude":30.411628,
     "geom:longitude":-97.708401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 N Mo Pac Expy Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5tz111zssRvq2piB1CSWeM_30.411628_-97.708401@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e6db86c577d6c17b582ff9800a125ae",
+    "wof:geomhash":"41cdfe528506dd13c9c9e5ac4eae68c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":303783055,
-    "wof:lastmodified":1467083695,
+    "wof:lastmodified":1510943886,
     "wof:name":"Austin Diagnostic Clinic",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622627135,
+        303783121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

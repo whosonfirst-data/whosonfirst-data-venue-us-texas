@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.542099,29.7369,-95.542099,29.7369",
     "geom:latitude":29.7369,
     "geom:longitude":-95.542099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9801 Westheimer Rd Ste 409",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4bfbJQHgO2dXU4qvLztYh8_29.736900_-95.542099@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"6185355326114f3a842b8b08dd2eac3e",
+    "wof:geomhash":"9684a3cd9394aa9bb4360551b95b0e06",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270287177,
-    "wof:lastmodified":1467084155,
+    "wof:lastmodified":1510941385,
     "wof:name":"World Cinema Inc",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622041871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

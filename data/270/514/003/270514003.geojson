@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.528198,29.6905,-95.528198,29.6905",
     "geom:latitude":29.6905,
     "geom:longitude":-95.528198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8303 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5gnmwR2NwiNVB2Xog8gZr6_29.690500_-95.528198@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb954702050b411d765e20588f03c621",
+    "wof:geomhash":"037611b05671fbb7606d2be85e34a246",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270514003,
-    "wof:lastmodified":1467084190,
+    "wof:lastmodified":1510943079,
     "wof:name":"Newton Mortgage Company",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605516635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

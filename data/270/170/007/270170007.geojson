@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.404635,29.706066,-95.404635,29.706066",
     "geom:latitude":29.706066,
     "geom:longitude":-95.404635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1020 Holcombe Blvd Ste 250",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1MuWjKwhBlCB6WaVyyLbnq_29.706066_-95.404635@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"56aef7275792ee8061530402e5ea5e9a",
+    "wof:geomhash":"c0dd4e10a13682808ac2047bafa894e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270170007,
-    "wof:lastmodified":1467084157,
+    "wof:lastmodified":1510941577,
     "wof:name":"M D ANDERSON CANCER CENTER",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622601331
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

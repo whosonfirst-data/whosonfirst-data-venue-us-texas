@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.420799,29.725401,-95.420799,29.725401",
     "geom:latitude":29.725401,
     "geom:longitude":-95.420799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2715 Bissonnet St Ste 202",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1aTb1qxQZWtaRsVsaUsGcX_29.725401_-95.420799@1303263009"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6b903bc86e2d5ce2d29081ded80f199",
+    "wof:geomhash":"bd4567cba4b3fda525a7cccb45084597",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":269890699,
-    "wof:lastmodified":1467084586,
+    "wof:lastmodified":1510942274,
     "wof:name":"McLean Bancroft & Co PC",
     "wof:parent_id":85893775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621856447
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

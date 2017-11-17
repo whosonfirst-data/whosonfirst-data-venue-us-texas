@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.132647,32.684126,-97.132647,32.684126",
     "geom:latitude":32.684126,
     "geom:longitude":-97.132647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3811 S Cooper St Spc 6506",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -62,7 +65,7 @@
         "sg:id":"SG_4UEay9pjpAfOJgRemLqRP9_32.684126_-97.132647@1303262997"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2bca8ad3d1520e1c99f5f0a175d12bc",
+    "wof:geomhash":"9f94f34a714513ee8bcf40e24a567f43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -75,13 +78,18 @@
         }
     ],
     "wof:id":253636961,
-    "wof:lastmodified":1467084986,
+    "wof:lastmodified":1510944117,
     "wof:name":"T-Mobile",
     "wof:parent_id":85827549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253637355
+    ],
+    "wof:supersedes":[
+        337314943,
+        621818497
+    ],
     "wof:tags":[
         "telecommunication",
         "supply",

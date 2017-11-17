@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.74487,32.914093,-96.74487,32.914093",
     "geom:latitude":32.914093,
     "geom:longitude":-96.74487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12225 Greenville Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_4iCy5Q81uVgCkJiyy7Lo1a_32.914093_-96.744870@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"8be8e9d57f936d9093c74341dc52c63e",
+    "wof:geomhash":"d9099e33f33497b74d94485de0e550e4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":253135847,
-    "wof:lastmodified":1467084984,
+    "wof:lastmodified":1510942934,
     "wof:name":"Centre Suites",
     "wof:parent_id":85897337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353723147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "suite",

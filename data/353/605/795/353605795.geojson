@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.794675,32.782457,-96.794675,32.782457",
     "geom:latitude":32.782457,
     "geom:longitude":-96.794675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1925 Elm St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5dIcDE7D9yBaBLy24Zj2xI_32.782457_-96.794675@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d08512cef61e8874238f8b65fdad1ddf",
+    "wof:geomhash":"526ad75fa4ad5cf6d8a01a3c60edf65f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":353605795,
-    "wof:lastmodified":1467084349,
+    "wof:lastmodified":1510943504,
     "wof:name":"Dallas Summer Mscl Schl of MSC",
     "wof:parent_id":85870325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236822667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

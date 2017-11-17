@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.485069,29.741034,-95.485069,29.741034",
     "geom:latitude":29.741034,
     "geom:longitude":-95.485069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 Fountain View Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2UpK1JJKfOEWiV64FRStyB_29.741034_-95.485069@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd3e095232189155ad72c587f6fb9745",
+    "wof:geomhash":"614cc1ae6360291a878bd081eeb01ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":605510389,
-    "wof:lastmodified":1467085960,
+    "wof:lastmodified":1510942967,
     "wof:name":"Al-Zamil Company Inc",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605704269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "purchasing"

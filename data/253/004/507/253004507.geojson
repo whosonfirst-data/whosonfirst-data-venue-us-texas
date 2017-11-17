@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.763298,32.883202,-96.763298,32.883202",
     "geom:latitude":32.883202,
     "geom:longitude":-96.763298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8230 Walnut Hill Ln Ste 308",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_21SaFmkyM3XtDqzvADRCXy_32.883202_-96.763298@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"82302cbbf3da639435c51a8561bc34b3",
+    "wof:geomhash":"4c68f311bba65458a70b79597ba25f76",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253004507,
-    "wof:lastmodified":1467084982,
+    "wof:lastmodified":1510942802,
     "wof:name":"Gilmore John R MD",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252986101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

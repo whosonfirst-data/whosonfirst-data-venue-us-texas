@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.638354,29.381236,-98.638354,29.381236",
     "geom:latitude":29.381236,
     "geom:longitude":-98.638354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"330 Valley Hi Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2m5HaQvCVOv2J3OnTZziba_29.381236_-98.638354@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"2832e1931a543583da83f0702de4c422",
+    "wof:geomhash":"60d2cc55b84a2e6a5fdb3cc089f4128e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638599159,
-    "wof:lastmodified":1467087341,
+    "wof:lastmodified":1510943281,
     "wof:name":"McDonald's",
     "wof:parent_id":85853417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605192059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

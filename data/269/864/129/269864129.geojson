@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.364197,29.7628,-95.364197,29.7628",
     "geom:latitude":29.7628,
     "geom:longitude":-95.364197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"440 Louisiana St Ste 650",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5fM9UtJyvbNFZAwexACAgy_29.762800_-95.364197@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"98f637d7f9c870dbb1b4ef84420b12c3",
+    "wof:geomhash":"df1ba28f39d03368c9587dba319977a7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":269864129,
-    "wof:lastmodified":1467084639,
+    "wof:lastmodified":1510942070,
     "wof:name":"Cummings & Houston",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605530955
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

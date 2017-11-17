@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.707703,32.965801,-96.707703,32.965801",
     "geom:latitude":32.965801,
     "geom:longitude":-96.707703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1461 Exchange Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3irMGJ9UJi0vuslxTsuZcc_32.965801_-96.707703@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"9334331856aa07018dd814580f3d68e1",
+    "wof:geomhash":"0a021858930f0c98154545aba529d684",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236470471,
-    "wof:lastmodified":1467083898,
+    "wof:lastmodified":1510943062,
     "wof:name":"Fashion Works Inc",
     "wof:parent_id":85880233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236491117
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing",

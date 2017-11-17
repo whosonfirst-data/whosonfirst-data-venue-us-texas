@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769043,32.921371,-96.769043,32.921371",
     "geom:latitude":32.921371,
     "geom:longitude":-96.769043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12770 Coit Rd Ste 1260",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_41i9wimolxO9a0duvsEQej_32.921371_-96.769043@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb5fc85b8350969be6362f30e4eb7703",
+    "wof:geomhash":"29c935302dd672547a593b2e5734414d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253248717,
-    "wof:lastmodified":1467085001,
+    "wof:lastmodified":1510942264,
     "wof:name":"Cardiac Dynamics Inc",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622679721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

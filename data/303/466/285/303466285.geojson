@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.753998,30.3421,-97.753998,30.3421",
     "geom:latitude":30.3421,
     "geom:longitude":-97.753998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6101 Balcones Dr Ste 101",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0JYemFGPjlaIc5z35Llv2v_30.342100_-97.753998@1303263060"
     },
     "wof:country":"US",
-    "wof:geomhash":"16ac4be571e072b5f69267d6dd9a18e5",
+    "wof:geomhash":"e83231d19fa8c1c74509bb83f1894110",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303466285,
-    "wof:lastmodified":1467083728,
+    "wof:lastmodified":1510941811,
     "wof:name":"Pet Imaging Center of Austin",
     "wof:parent_id":85869887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605735935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

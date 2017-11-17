@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.809899,32.862298,-96.809899,32.862298",
     "geom:latitude":32.862298,
     "geom:longitude":-96.809899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5956 Sherry Ln Ste 1100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_4h7MhsNq4gyaFlwU9KMWUq_32.862298_-96.809899@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1e1fb5a98ab0079c3541affde8127dc",
+    "wof:geomhash":"127c693559a61bf606878f4f81ee29b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":252879199,
-    "wof:lastmodified":1467084048,
+    "wof:lastmodified":1510941730,
     "wof:name":"Bank Of Texas, National Association",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370986855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

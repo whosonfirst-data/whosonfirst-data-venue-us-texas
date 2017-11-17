@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.852928,32.909649,-96.852928,32.909649",
     "geom:latitude":32.909649,
     "geom:longitude":-96.852928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3767 Forest Ln #124-465",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0WIYrNHnxmJiCVNZG3pfcM_32.909649_-96.852928@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"d84a03b6e91da8f659da469d361d28a1",
+    "wof:geomhash":"cae4fd673b7894fb341f1a823f27273c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":253178345,
-    "wof:lastmodified":1467085018,
+    "wof:lastmodified":1510943522,
     "wof:name":"A-ABC Chem Dry",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588849187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.739258,30.319118,-97.739258,30.319118",
     "geom:latitude":30.319118,
     "geom:longitude":-97.739258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4800 Burnet Rd Bldg F",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_22fwXgSDUcv0T8uJzP6xCF_30.319118_-97.739258@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"a50164dc48871b6553de2130c38ea16f",
+    "wof:geomhash":"10d2fde2b096d9a5a1fc9b83632d1b70",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303756301,
-    "wof:lastmodified":1467083765,
+    "wof:lastmodified":1510943414,
     "wof:name":"Camp4Paws",
     "wof:parent_id":85869877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303762053
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "walker",

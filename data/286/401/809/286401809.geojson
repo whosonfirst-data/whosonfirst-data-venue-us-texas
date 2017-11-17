@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.645311,29.88177,-95.645311,29.88177",
     "geom:latitude":29.88177,
     "geom:longitude":-95.645311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7070 Highway 6 N",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6JtVOCUQmlml8CKJnixQ1z_29.881770_-95.645311@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"befbae0703b13729de54536c8a97946b",
+    "wof:geomhash":"4fecc453d47e59a40f865deba0f8c6b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286401809,
-    "wof:lastmodified":1467084306,
+    "wof:lastmodified":1510942191,
     "wof:name":"Outback Steakhouse",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638593905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.757142,30.371673,-97.757142,30.371673",
     "geom:latitude":30.371673,
     "geom:longitude":-97.757142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8127 Mesa Dr Ste. B-202",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1YL6uX6ViRC1Eh86bYmf4G_30.371673_-97.757142@1303263073"
     },
     "wof:country":"US",
-    "wof:geomhash":"bba2aa87263fc15699bf9aeedbfc3fb6",
+    "wof:geomhash":"8d8c1afeef39b7df8c2004c32143433c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303839679,
-    "wof:lastmodified":1467083765,
+    "wof:lastmodified":1510943286,
     "wof:name":"The Original Brooklyn Pie Co.",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303838925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

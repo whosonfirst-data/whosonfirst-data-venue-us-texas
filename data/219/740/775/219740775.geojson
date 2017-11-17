@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.158969,29.697393,-95.158969,29.697393",
     "geom:latitude":29.697393,
     "geom:longitude":-95.158969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3636 Meadow Wood Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0bl3BgzyUmP2SWTimLdJQt_29.697393_-95.158969@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a594267c03685576f5523c5ea1955f3f",
+    "wof:geomhash":"3aa820e2c6f447260a39db77e1bedd9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":219740775,
-    "wof:lastmodified":1467085134,
+    "wof:lastmodified":1510943992,
     "wof:name":"New Hope Women's Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286775687
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

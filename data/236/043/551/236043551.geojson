@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.72841,32.96225,-96.72841,32.96225",
     "geom:latitude":32.96225,
     "geom:longitude":-96.72841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1202 Richardson Dr",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0q6Utv2CoRoHRhQs5N0yLu_32.962250_-96.728410@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"84efaebaab7c0aeb07407d3c149ac118",
+    "wof:geomhash":"98ba8595213131b1758f04202fd4b1f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236043551,
-    "wof:lastmodified":1467083991,
+    "wof:lastmodified":1510941731,
     "wof:name":"Griff's Of America Inc",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236457051
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hot",

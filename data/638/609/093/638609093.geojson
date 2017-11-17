@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.112047,31.979869,-102.112047,31.979869",
     "geom:latitude":31.979869,
     "geom:longitude":-102.112047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3701 W Wall St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_26ON7RXp7WjdzRY9x3dQ3g_31.979909_-102.111915@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c0e1e2490ba66ebb0801b9eaea2daee",
+    "wof:geomhash":"490157dd9f91ce65503cea51fc6ba6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":638609093,
-    "wof:lastmodified":1467087355,
+    "wof:lastmodified":1510941515,
     "wof:name":"Denny's",
     "wof:parent_id":85893841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622689391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

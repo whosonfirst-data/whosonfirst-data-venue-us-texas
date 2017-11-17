@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.687755,33.057134,-96.687755,33.057134",
     "geom:latitude":33.057134,
     "geom:longitude":-96.687755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1717 E Spring Creek Pkwy Ste 100",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_3D2Ndtlp2Mk2Q88WTyAbQa_33.057134_-96.687755@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a0724c4ea7d438bf93ff7e4fd166ec6",
+    "wof:geomhash":"8774d587fc09061f26dc0e4fa6fb7105",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236422375,
-    "wof:lastmodified":1467083866,
+    "wof:lastmodified":1510942390,
     "wof:name":"Plano Market Square Mall",
     "wof:parent_id":85879923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236663411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

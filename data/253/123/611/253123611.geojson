@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.522345,29.737245,-95.522345,29.737245",
     "geom:latitude":29.737245,
     "geom:longitude":-95.522345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8989 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2lZ5BTtISYROWklEbM0dpU_29.737245_-95.522345@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"aeb228e393e3cdc4d04568548a6b5288",
+    "wof:geomhash":"b4368a53577e1f558c077bf30542a561",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253123611,
-    "wof:lastmodified":1467084975,
+    "wof:lastmodified":1510942785,
     "wof:name":"Sun America Mortgage Co",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270468411
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

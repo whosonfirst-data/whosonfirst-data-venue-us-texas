@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.524123,31.825214,-106.524123,31.825214",
     "geom:latitude":31.825214,
     "geom:longitude":-106.524123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5857 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2unAQ3hWeyL2iNnioleDIW_31.825214_-106.524123@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"78529550f914e9f8eec0b00c189158b6",
+    "wof:geomhash":"180488c7dff663b913a805f8ad529f7f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":185950069,
-    "wof:lastmodified":1467084122,
+    "wof:lastmodified":1510943305,
     "wof:name":"Nonos",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605649995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ready",

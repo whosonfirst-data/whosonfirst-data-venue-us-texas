@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.109363,33.116935,-96.109363,33.116935",
     "geom:latitude":33.116935,
     "geom:longitude":-96.109363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5405 Wesley St",
     "sg:city":"Greenville",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2wkTmWDrazW2czTokxy5Oa_33.116935_-96.109363@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"29d950f8aadd5dc190f940eb89298ad5",
+    "wof:geomhash":"8b1545f532fddb2183f59cf734a65490",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":337311687,
-    "wof:lastmodified":1467084431,
+    "wof:lastmodified":1510943869,
     "wof:name":"Sweetie's Donuts",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622079787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

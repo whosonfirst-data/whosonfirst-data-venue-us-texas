@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.762346,32.88327,-96.762346,32.88327",
     "geom:latitude":32.88327,
     "geom:longitude":-96.762346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8210 Walnut Hill Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1iDwg3W6ieyKJe7So7WdwO_32.883270_-96.762346@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f587c921015b0535d12022a1b35af0c",
+    "wof:geomhash":"d18401032f2d0f878857ab0f2c39d356",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252978455,
-    "wof:lastmodified":1467084082,
+    "wof:lastmodified":1510943565,
     "wof:name":"Healthcore Physicians Group",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605743843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

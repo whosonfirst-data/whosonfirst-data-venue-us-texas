@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.701608,31.078212,-97.701608,31.078212",
     "geom:latitude":31.078212,
     "geom:longitude":-97.701608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4102 Greenlee Dr",
     "sg:city":"Killeen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7BOOKGFc3DOuXT4CgkPMas_31.078212_-97.701608@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"80ec2e779214b97dc1dc593182d5b3a6",
+    "wof:geomhash":"79e244cffab46db625f76011f04702a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269690565,
-    "wof:lastmodified":1467084606,
+    "wof:lastmodified":1510942230,
     "wof:name":"Oriental Cafe",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605039077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

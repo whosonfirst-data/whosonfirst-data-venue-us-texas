@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.623999,30.297321,-97.623999,30.297321",
     "geom:latitude":30.297321,
     "geom:longitude":-97.623999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Travis County Fairgrounds 7311 Decker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_2q0Y4GwlKJM1uP3cRgfsYQ_30.297321_-97.623999@1303263059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a70b0389c0d1e96c4d21f0fc90c3875",
+    "wof:geomhash":"29c03ecda3d26651637c847926f117c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":303405691,
-    "wof:lastmodified":1467083802,
+    "wof:lastmodified":1510941314,
     "wof:name":"Travis County Exposition Center",
     "wof:parent_id":85869995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588899477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

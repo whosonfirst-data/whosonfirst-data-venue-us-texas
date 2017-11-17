@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.739025,30.365051,-97.739025,30.365051",
     "geom:latitude":30.365051,
     "geom:longitude":-97.739025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8015 Shoal Creek Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4pky2MoHRQeHz7pslQD0up_30.365051_-97.739025@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c96dfb6c58a9990c9e47487edc4a2492",
+    "wof:geomhash":"7afaa5513893289219d1fb2df031c9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":605051005,
-    "wof:lastmodified":1467085626,
+    "wof:lastmodified":1510942113,
     "wof:name":"Ray Wilkerson Companys Inc",
     "wof:parent_id":85869885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303768691
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.365402,29.7561,-95.365402,29.7561",
     "geom:latitude":29.7561,
     "geom:longitude":-95.365402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1010 Lamar St Ste 475",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4m72kSCqRpqjQOsCoJcvum_29.756100_-95.365402@1303263005"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6fd294e5d8046de1f22b19604ba4f60",
+    "wof:geomhash":"8b51f16f63de85677f2478b673bf5e2f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":269781815,
-    "wof:lastmodified":1467084584,
+    "wof:lastmodified":1510943697,
     "wof:name":"Royall & Fleschler",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589141271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

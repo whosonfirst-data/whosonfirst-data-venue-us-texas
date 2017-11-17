@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.838716,32.932057,-96.838716,32.932057",
     "geom:latitude":32.932057,
     "geom:longitude":-96.838716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13500 Midway Rd Ste 200",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2uS7KhTMrMNZxU8Yhw5yn7_32.932057_-96.838716@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c10c26186fbc456809fb16c5bf50c34",
+    "wof:geomhash":"341c7f4534021d29ee1c645708040e29",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":253170557,
-    "wof:lastmodified":1467084954,
+    "wof:lastmodified":1510944048,
     "wof:name":"TSC Staffing Solutions Inc",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622637403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

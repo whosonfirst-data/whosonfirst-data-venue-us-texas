@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.522663,29.737142,-95.522663,29.737142",
     "geom:latitude":29.737142,
     "geom:longitude":-95.522663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8989 Westheimer Rd Ste 119",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7JPb9ogsy56g0jHjkrHvhB_29.737142_-95.522663@1303263025"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ad1dbab61e12bebb96bc1813b6635c7",
+    "wof:geomhash":"71c6b17609118584c37fa68c4fb5041d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270466397,
-    "wof:lastmodified":1467084172,
+    "wof:lastmodified":1510942214,
     "wof:name":"Fortune Financial Services",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622824751
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

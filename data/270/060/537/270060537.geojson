@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.457484,29.766102,-95.457484,29.766102",
     "geom:latitude":29.766102,
     "geom:longitude":-95.457484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 N Post Oak Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
         "sg:id":"SG_6hTW2EHNGqT9UoWKQ9p63w_29.766102_-95.457484@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a951ecb5e158305cedfa42237288478",
+    "wof:geomhash":"cf54821e19276ef919a99261f4104a97",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":270060537,
-    "wof:lastmodified":1467084224,
+    "wof:lastmodified":1510943315,
     "wof:name":"Olivette At The Houstonian",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270069249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer",

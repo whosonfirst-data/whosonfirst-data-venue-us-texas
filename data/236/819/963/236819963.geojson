@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.795097,32.785999,-96.795097,32.785999",
     "geom:latitude":32.785999,
     "geom:longitude":-96.795097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 N Pearl St Ste H104",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1E2YuRNSuVcvKV9Miyd2yc_32.785999_-96.795097@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb1acd99be0839900b3fc9cc0d1100c8",
+    "wof:geomhash":"38654c6f114c100e199c0294cb71c563",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236819963,
-    "wof:lastmodified":1467083897,
+    "wof:lastmodified":1510943928,
     "wof:name":"Jewelry by Abe",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605705467
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

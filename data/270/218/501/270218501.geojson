@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.499584,29.719873,-95.499584,29.719873",
     "geom:latitude":29.719873,
     "geom:longitude":-95.499584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6666 Harwin Dr Ste 570",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3O0XZKOomt9X4bOrLsOmwR_29.719873_-95.499584@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"0188962e5fc2ee5fc0ae447f20840408",
+    "wof:geomhash":"ae9b2a110e96e0ef64b34b69bc49ab3f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270218501,
-    "wof:lastmodified":1467084202,
+    "wof:lastmodified":1510942024,
     "wof:name":"Dr Jay Chiropractic Center",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622472937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

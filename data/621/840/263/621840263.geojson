@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.517334,29.705264,-95.517334,29.705264",
     "geom:latitude":29.705264,
     "geom:longitude":-95.517334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7500 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5MaBnLP4lZuIVwZfXgBgJA_29.705264_-95.517334@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"93579eb06332bb8f65286abff0e81f99",
+    "wof:geomhash":"61124d2a91db777103c718d4c46401f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +53,17 @@
         }
     ],
     "wof:id":621840263,
-    "wof:lastmodified":1467086397,
+    "wof:lastmodified":1510944136,
     "wof:name":"Arby's",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236687017
+    ],
+    "wof:supersedes":[
+        638592301
+    ],
     "wof:tags":[]
 },
   "bbox": [

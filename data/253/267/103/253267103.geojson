@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.819936,32.938688,-96.819936,32.938688",
     "geom:latitude":32.938688,
     "geom:longitude":-96.819936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5220 Spring Valley Rd Ste 150",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5mYXNSIUFJY91QwJe0gLk7_32.938688_-96.819936@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7ff02fed0cbe378ba3df7c9cf0df097",
+    "wof:geomhash":"9d73e632ccfae1d887438ad50c55ca0e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253267103,
-    "wof:lastmodified":1467085038,
+    "wof:lastmodified":1510942051,
     "wof:name":"Spring Valley Center Inc",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589216485
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

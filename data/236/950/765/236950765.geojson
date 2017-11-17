@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.813499,32.788399,-96.813499,32.788399",
     "geom:latitude":32.788399,
     "geom:longitude":-96.813499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1025 N Stemmons Fwy Ste 600",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_6DogGn2WvJzYaQ90Hiogrg_32.788399_-96.813499@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"17bb520c3a26d7758a8078afb8671250",
+    "wof:geomhash":"2edf8c8560e3f40c4879bf8ebac1181a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236950765,
-    "wof:lastmodified":1467083925,
+    "wof:lastmodified":1510943285,
     "wof:name":"Krispin the Restaurant",
     "wof:parent_id":85870441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605576627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "traditional",

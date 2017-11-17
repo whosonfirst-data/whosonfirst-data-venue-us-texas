@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74689,30.392445,-97.74689,30.392445",
     "geom:latitude":30.392445,
     "geom:longitude":-97.74689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 Research Blvd Ste 128",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_5LjUom5P4mepoYDUhYHmwE_30.392445_-97.746890@1303263073"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ce6adcea7c0e7882c700a3a5a60028e",
+    "wof:geomhash":"af7c5b411db20f1cf0573d33f9313f81",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":303829603,
-    "wof:lastmodified":1467083805,
+    "wof:lastmodified":1510941322,
     "wof:name":"Nine West",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622252869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "women's",

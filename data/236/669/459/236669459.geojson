@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.6007,32.781502,-96.6007,32.781502",
     "geom:latitude":32.781502,
     "geom:longitude":-96.6007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1336 N Galloway Ave Ste 100",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_3epKGgwm59DHhMjBS7za3C_32.781502_-96.600700@1303262973"
     },
     "wof:country":"US",
-    "wof:geomhash":"aca2f17b5f7450dfd673a433a72199af",
+    "wof:geomhash":"12ea4e1f66b2cfec22a699eb355fbb20",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236669459,
-    "wof:lastmodified":1467083875,
+    "wof:lastmodified":1510942962,
     "wof:name":"Quick E Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605554521
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

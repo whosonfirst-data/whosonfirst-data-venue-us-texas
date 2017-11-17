@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74456,30.263403,-97.74456,30.263403",
     "geom:latitude":30.263403,
     "geom:longitude":-97.74456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Congress Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6HWR0Ob3dn3Tdg3FrYZmPY_30.263403_-97.744560@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"b720a917ad44ec84c95ae611ff301af4",
+    "wof:geomhash":"99a9123d4a698fff5143db90e69e949c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303208463,
-    "wof:lastmodified":1467083706,
+    "wof:lastmodified":1510942769,
     "wof:name":"Hoya Corporation USA",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622450219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

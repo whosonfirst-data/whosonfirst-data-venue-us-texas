@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.519989,30.023104,-95.519989,30.023104",
     "geom:latitude":30.023104,
     "geom:longitude":-95.519989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7017 Louetta Rd",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3NmZxRvjf3bxFi3qUcAlPL_30.023104_-95.519989@1303263034"
     },
     "wof:country":"US",
-    "wof:geomhash":"76c4e02a5dc4a5b31786233887403fa9",
+    "wof:geomhash":"78692a5bc3abe453ee89a50fa1734c53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286559665,
-    "wof:lastmodified":1467084300,
+    "wof:lastmodified":1510942247,
     "wof:name":"Chinese Wok",
     "wof:parent_id":85813891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638594923
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

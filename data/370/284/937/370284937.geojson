@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.47964,29.761817,-95.47964,29.761817",
     "geom:latitude":29.761817,
     "geom:longitude":-95.47964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"675 Bering Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3KqcOWnA4VesXCewnNIRTA_29.761817_-95.479640@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d25e184a3b9eb52cf43353d6567ff20",
+    "wof:geomhash":"40e4b39a292e7aacf7c48f79e211c66f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":370284937,
-    "wof:lastmodified":1467084522,
+    "wof:lastmodified":1510943070,
     "wof:name":"Bordelon Design Associates",
     "wof:parent_id":85893787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270435461
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting",

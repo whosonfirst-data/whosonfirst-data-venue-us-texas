@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.363297,29.759001,-95.363297,29.759001",
     "geom:latitude":29.759001,
     "geom:longitude":-95.363297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"723 Main St Ste 1015",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_29IutYXDDX7DeAT9Py0wm2_29.759001_-95.363297@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5248fe18f8a7325f158913289eaef8c",
+    "wof:geomhash":"08c6648a855b8dcea4d5816094801fd1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269819277,
-    "wof:lastmodified":1467084587,
+    "wof:lastmodified":1510942220,
     "wof:name":"Legal Images Inc",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370353917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

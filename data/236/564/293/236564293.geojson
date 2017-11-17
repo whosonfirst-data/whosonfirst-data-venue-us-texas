@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.833539,33.045125,-96.833539,33.045125",
     "geom:latitude":33.045125,
     "geom:longitude":-96.833539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6124 W Parker Rd Ste 436",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5mjc3lFKU5w4K46GB7b0oj_33.045125_-96.833539@1303262972"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a895d7f518b4fc119e533a8e75a119e",
+    "wof:geomhash":"597836f83dea75d32852a6a2ad3f7f92",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236564293,
-    "wof:lastmodified":1467084028,
+    "wof:lastmodified":1510941692,
     "wof:name":"Plano Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589279199
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

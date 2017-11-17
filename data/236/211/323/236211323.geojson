@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.942334,32.871516,-96.942334,32.871516",
     "geom:latitude":32.871516,
     "geom:longitude":-96.942334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 Las Colinas Blvd W Ste 858",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5Zy8koTAJJCFdzwg5GkQEK_32.871516_-96.942334@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"38d0f081c56be950f22a8150785048d5",
+    "wof:geomhash":"f8f07fd1c8e3f5c820365b7f64b2373b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":236211323,
-    "wof:lastmodified":1467083898,
+    "wof:lastmodified":1510943682,
     "wof:name":"First Option Mortgage",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236212303,
+        621868029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

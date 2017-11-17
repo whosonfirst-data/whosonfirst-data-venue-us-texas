@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.730986,32.959621,-96.730986,32.959621",
     "geom:latitude":32.959621,
     "geom:longitude":-96.730986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"411 West Arapaho Road",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6srO9iOI7sHuCCBJOhcSEo_32.959621_-96.730986@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"31da350a8da6e02813e2813b8df6667f",
+    "wof:geomhash":"628c6e7d07e24e3e78f1a8a39a850fb6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236467245,
-    "wof:lastmodified":1467083999,
+    "wof:lastmodified":1510943275,
     "wof:name":"Richardson Civic Center",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622351841
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"

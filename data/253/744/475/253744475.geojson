@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.197304,32.82864,-97.197304,32.82864",
     "geom:latitude":32.82864,
     "geom:longitude":-97.197304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1101 Melbourne Rd Suite 2105",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7GITiY7vIaLIJGuGBCA80v_32.828640_-97.197304@1303262999"
     },
     "wof:country":"US",
-    "wof:geomhash":"825e5a6244218cef9c656d029c93c5b9",
+    "wof:geomhash":"2dc0c126ba8d49b885adb9da127661cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":253744475,
-    "wof:lastmodified":1467084981,
+    "wof:lastmodified":1510943071,
     "wof:name":"Monarch Dental",
     "wof:parent_id":85849093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253745419
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists",

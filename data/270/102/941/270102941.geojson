@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.4459,29.732401,-95.4459,29.732401",
     "geom:latitude":29.732401,
     "geom:longitude":-95.4459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4219 Richmond Ave Ste 290",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7EUOBPeNGYgYVhyvpuvLAi_29.732401_-95.445900@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff761c2bdcbe5a6f331b3f858103e22c",
+    "wof:geomhash":"f79c4499400bcf168ac9a999a61dd90b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270102941,
-    "wof:lastmodified":1467084225,
+    "wof:lastmodified":1510943440,
     "wof:name":"Robert L. Bishop, DDS",
     "wof:parent_id":85869307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621979177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

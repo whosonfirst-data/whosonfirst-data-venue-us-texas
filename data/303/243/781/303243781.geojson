@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744918,30.266578,-97.744918,30.266578",
     "geom:latitude":30.266578,
     "geom:longitude":-97.744918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"208 W 4th St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6M0RAzZBWMq17Ca647ebLI_30.266578_-97.744918@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fcdf89e8adafda442f78b096d1dc061",
+    "wof:geomhash":"65545c6e797434c3f3ba1ab4dc78ffc0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303243781,
-    "wof:lastmodified":1467083731,
+    "wof:lastmodified":1510941818,
     "wof:name":"Malaga Tapas & Bar",
     "wof:parent_id":85867217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638601519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

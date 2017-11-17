@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769402,32.8531,-96.769402,32.8531",
     "geom:latitude":32.8531,
     "geom:longitude":-96.769402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5500 Greenville Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2xbugZ10xA5HuSf8SKxv8K_32.853100_-96.769402@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"441b1fc0e596f991adc9aff781b7a794",
+    "wof:geomhash":"98ec6c2badd7c260eb0b73e13381bc65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236932187,
-    "wof:lastmodified":1467083922,
+    "wof:lastmodified":1510942463,
     "wof:name":"Kinko's",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589197433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8134,32.953999,-96.8134,32.953999",
     "geom:latitude":32.953999,
     "geom:longitude":-96.8134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5495 Belt Line Rd Ste 225",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0MgL6u76oX7aw1uRAtihWZ_32.953999_-96.813400@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"608b223bf54f4c77b96e76e0a4e7be83",
+    "wof:geomhash":"677fa0b4cd8fe85096863dd5d54a2c47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253281705,
-    "wof:lastmodified":1467085031,
+    "wof:lastmodified":1510944047,
     "wof:name":"Lumbermen's Investment Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622327883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.751671,29.76034,-95.751671,29.76034",
     "geom:latitude":29.76034,
     "geom:longitude":-95.751671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1530 S Mason Rd",
     "sg:city":"Katy",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4niAge0IxnAY3GEPp48vT4_29.760340_-95.751671@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c3876e6fbc680ee8c91355c0d089d65",
+    "wof:geomhash":"73c0c983f92d4fc084c2f7aa343eb83c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":286695265,
-    "wof:lastmodified":1467084267,
+    "wof:lastmodified":1510942650,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638595499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

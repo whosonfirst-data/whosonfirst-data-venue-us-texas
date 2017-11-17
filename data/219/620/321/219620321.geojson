@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.394222,32.679297,-97.394222,32.679297",
     "geom:latitude":32.679297,
     "geom:longitude":-97.394222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4601 S Hulen St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2Av1N1N4yv3cp5Q8t7WbOw_32.679297_-97.394222@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"0924363c9d9bf5d379d9e9d568ec9669",
+    "wof:geomhash":"df5db5d54d519358e05f4cc0a0ad9913",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219620321,
-    "wof:lastmodified":1467085167,
+    "wof:lastmodified":1510941742,
     "wof:name":"Dennys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638605913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

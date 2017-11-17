@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803124,32.954636,-96.803124,32.954636",
     "geom:latitude":32.954636,
     "geom:longitude":-96.803124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15150 Preston Rd Ste 100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_3pVeGxTO3DJOpgjKSoM5s9_32.954636_-96.803124@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"2af8a10975eb9f211db4a9599198484d",
+    "wof:geomhash":"f83c3661d6baec3070a02c3ecddefd43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":253236595,
-    "wof:lastmodified":1467084955,
+    "wof:lastmodified":1510943921,
     "wof:name":"Colonial Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236330553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

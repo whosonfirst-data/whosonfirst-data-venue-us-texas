@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.677451,30.62131,-97.677451,30.62131",
     "geom:latitude":30.62131,
     "geom:longitude":-97.677451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Industrial Ave # 2",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_1HFDfewSir468j5uCtwJvt_30.621310_-97.677451@1303263050"
     },
     "wof:country":"US",
-    "wof:geomhash":"a47cc6cbe66a0a94605b5ab3cd371d48",
+    "wof:geomhash":"d01fa2242a396c3aaa67ec08706a0d15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":303124913,
-    "wof:lastmodified":1467083803,
+    "wof:lastmodified":1510943894,
     "wof:name":"Georgetown Vehicle Shop",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236246169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

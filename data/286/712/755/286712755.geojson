@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.816749,29.558102,-95.816749,29.558102",
     "geom:latitude":29.558102,
     "geom:longitude":-95.816749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1115 Avenue H",
     "sg:city":"Rosenberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4cDDTTs14tcSykuUpJpQqX_29.558102_-95.816749@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"339a012f37a34cac3462769bd04af470",
+    "wof:geomhash":"c5711e308a52ccb078892f6acd9361c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286712755,
-    "wof:lastmodified":1467084270,
+    "wof:lastmodified":1510942332,
     "wof:name":"Blake Phillips Car Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252867993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

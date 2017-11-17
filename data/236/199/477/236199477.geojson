@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.948402,32.867699,-96.948402,32.867699",
     "geom:latitude":32.867699,
     "geom:longitude":-96.948402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4545 Fuller Dr Ste 100",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1wsTs5eV2isBhAwjbiwObq_32.867699_-96.948402@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"426844aa7b3bef8c0d4a86ecfce5f3e7",
+    "wof:geomhash":"038980f36af5a8f88c964696271f39dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236199477,
-    "wof:lastmodified":1467083873,
+    "wof:lastmodified":1510941202,
     "wof:name":"L C Mortgage Corporation",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622566521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.706354,30.348403,-97.706354,30.348403",
     "geom:latitude":30.348403,
     "geom:longitude":-97.706354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 W Powell Lane Suite 207",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_16gV3zHUSpdJfLKv9tUVbX_30.348403_-97.706354@1303263069"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4573917ef1fc07abecc51ea051e8a97",
+    "wof:geomhash":"edf8086307378c15626443022a217c0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":303733425,
-    "wof:lastmodified":1467083708,
+    "wof:lastmodified":1510941290,
     "wof:name":"Distinctive Wood Crafts",
     "wof:parent_id":85869901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303733571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "interior",

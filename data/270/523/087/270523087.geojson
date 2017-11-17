@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547041,29.78007,-95.547041,29.78007",
     "geom:latitude":29.78007,
     "geom:longitude":-95.547041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"902 Frostwood Dr Ste 144",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3fQfFRvx7QF4j7uAFgMfGH_29.780070_-95.547041@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"446494ec46bf40dc8e2bb5d9557d116b",
+    "wof:geomhash":"9790a654975405192af331dd88f37932",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":270523087,
-    "wof:lastmodified":1467084197,
+    "wof:lastmodified":1510944120,
     "wof:name":"Houston Vein Institute",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        605070845
+    ],
+    "wof:supersedes":[
+        270083149
+    ],
     "wof:tags":[]
 },
   "bbox": [

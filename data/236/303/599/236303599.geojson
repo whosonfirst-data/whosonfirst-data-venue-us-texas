@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.823508,33.106034,-96.823508,33.106034",
     "geom:latitude":33.106034,
     "geom:longitude":-96.823508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2591 Dallas Pkwy",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_409hYwEHJYxQpZfGeZoNDq_33.106034_-96.823508@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b1e5210f96bfbd10c9eff57ac92ec85",
+    "wof:geomhash":"199d9828b705bf5232589fd6504f49f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236303599,
-    "wof:lastmodified":1467083856,
+    "wof:lastmodified":1510943720,
     "wof:name":"Haskell Company",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622216423
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

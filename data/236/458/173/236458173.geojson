@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.726997,32.9753,-96.726997,32.9753",
     "geom:latitude":32.9753,
     "geom:longitude":-96.726997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"399 W Campbell Rd Ste 106",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0v3H2IBxcRimip02Fm5rh4_32.975300_-96.726997@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"390936946b4674a7ebcc866d290252ec",
+    "wof:geomhash":"3ed88c56fbb32cfb03299373f4c17f84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236458173,
-    "wof:lastmodified":1467083984,
+    "wof:lastmodified":1510942097,
     "wof:name":"Ronald Bell PA",
     "wof:parent_id":85880199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370833551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

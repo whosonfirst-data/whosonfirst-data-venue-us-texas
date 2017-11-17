@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.365845,29.760813,-95.365845,29.760813",
     "geom:latitude":29.760813,
     "geom:longitude":-95.365845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 Louisiana St Ste 2000",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2CXtrYmAwg3IpcwJo11w0T_29.760813_-95.365845@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec6fb204d9f3cef1d70c08dd0d4feaed",
+    "wof:geomhash":"e3c88fbaeeab5fa6da5f7070c2191efb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269806035,
-    "wof:lastmodified":1467084571,
+    "wof:lastmodified":1510941175,
     "wof:name":"HICKS THOMAS & LILIENSTERN LLP",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589130041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.465964,29.730856,-95.465964,29.730856",
     "geom:latitude":29.730856,
     "geom:longitude":-95.465964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5177 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5jUwzA5FbYTTf5r1l1gYv2_29.730856_-95.465964@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"0873e4e94c0511c553965e110aee0901",
+    "wof:geomhash":"2a81e6d511112933088146505eb1d414",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270404067,
-    "wof:lastmodified":1467084204,
+    "wof:lastmodified":1510942910,
     "wof:name":"Goettee Construction Co Inc",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605595107
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

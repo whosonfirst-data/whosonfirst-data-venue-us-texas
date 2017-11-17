@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.286697,29.594999,-95.286697,29.594999",
     "geom:latitude":29.594999,
     "geom:longitude":-95.286697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1020 N Main St",
     "sg:city":"Pearland",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_2JyRQ5dtN9Z4hn7an08hoB_29.594999_-95.286697@1303263041"
     },
     "wof:country":"US",
-    "wof:geomhash":"250cd47c1c963fe166cca4749f1d01e5",
+    "wof:geomhash":"da0c12e796cb93edb720d332e52f5f72",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":286910209,
-    "wof:lastmodified":1467084270,
+    "wof:lastmodified":1510943449,
     "wof:name":"Lee Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589119161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

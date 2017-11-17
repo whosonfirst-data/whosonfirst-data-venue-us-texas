@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.192749,29.7715,-95.192749,29.7715",
     "geom:latitude":29.7715,
     "geom:longitude":-95.192749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13111 East Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_2DaXK3kGPnn8fAH71YC5wF_29.771500_-95.192749@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"edbcfa0e8d11bab72cb2434085d2056f",
+    "wof:geomhash":"5650801ed61621a822b877adb972c822",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":605032537,
-    "wof:lastmodified":1467085612,
+    "wof:lastmodified":1510943733,
     "wof:name":"East Houston Regional Med Ctr",
     "wof:parent_id":85869553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        269989261
+    ],
+    "wof:supersedes":[
+        269984059
+    ],
     "wof:tags":[
         "occupational",
         "safety",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.756,32.50074,-94.756,32.50074",
     "geom:latitude":32.50074,
     "geom:longitude":-94.756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1007 W Marshall Ave",
     "sg:city":"Longview",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2WMjK8iMxUOwdZKVrS0TAH_32.500740_-94.756000@1303262993"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc368b2f1c939af2f11cbb8ad54e67e7",
+    "wof:geomhash":"5a9706d63a2a01496257b994abed824e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253439047,
-    "wof:lastmodified":1467084973,
+    "wof:lastmodified":1510942532,
     "wof:name":"J. D. Byrider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588980689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

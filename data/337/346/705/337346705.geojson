@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.793783,32.787117,-96.793783,32.787117",
     "geom:latitude":32.787117,
     "geom:longitude":-96.793783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2323 Bryan St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3I4vT7mYoJW7i89iEnweM4_32.787117_-96.793783@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"04cf5503c92faa1e6b9c39f4844a198c",
+    "wof:geomhash":"98fcc1e044429568d449c031d310d830",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":337346705,
-    "wof:lastmodified":1467084423,
+    "wof:lastmodified":1510943629,
     "wof:name":"Bestel (u S A) Inc",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621957921
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"

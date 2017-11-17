@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.793891,32.992002,-96.793891,32.992002",
     "geom:latitude":32.992002,
     "geom:longitude":-96.793891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17819 Davenport Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_42ad384gKWs8K6MVbZmjZk_32.992002_-96.793891@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf05696b4bcee130500eee6896f0e6e2",
+    "wof:geomhash":"30159c197f87dd5b74bbb44d957ab4df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253254811,
-    "wof:lastmodified":1467085016,
+    "wof:lastmodified":1510942532,
     "wof:name":"A-All Pest Termite Exterminators Inc",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253257397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

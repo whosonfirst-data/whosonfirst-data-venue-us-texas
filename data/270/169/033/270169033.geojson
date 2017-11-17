@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.393997,29.712299,-95.393997,29.712299",
     "geom:latitude":29.712299,
     "geom:longitude":-95.393997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1504 Taub Loop",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_7j3pmYf5GPtnUNTq5L5Zle_29.712299_-95.393997@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab1271fa95ac05bd753b1596e9bd2bc9",
+    "wof:geomhash":"3b4e365277ace65db3de256b21f9a3c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270169033,
-    "wof:lastmodified":1467084199,
+    "wof:lastmodified":1510944103,
     "wof:name":"Ben Taub General Hospital",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588808639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

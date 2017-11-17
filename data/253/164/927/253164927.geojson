@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769501,32.901001,-96.769501,32.901001",
     "geom:latitude":32.901001,
     "geom:longitude":-96.769501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11311 N Central Expy Ste 335",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Hb8G5PQzA6HHbpdK8Tjxg_32.901001_-96.769501@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"1dc8fa44361787c47601e77280b81729",
+    "wof:geomhash":"39d28e4c12c3235358724d1756b7a3e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253164927,
-    "wof:lastmodified":1467084957,
+    "wof:lastmodified":1510943412,
     "wof:name":"Royal Management Corp",
     "wof:parent_id":85821503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605128075
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

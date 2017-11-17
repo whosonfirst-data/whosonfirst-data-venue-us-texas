@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.792969,32.69418,-96.792969,32.69418",
     "geom:latitude":32.69418,
     "geom:longitude":-96.792969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4500 S Lancaster Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1HswcrzmK5AJi6g0UfHFFm_32.694180_-96.792969@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"be08cc0f9a4e4c0f36719f39f1b6a016",
+    "wof:geomhash":"8a1aa733511620dee2467e60a4f3fa91",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252762941,
-    "wof:lastmodified":1467084090,
+    "wof:lastmodified":1510943871,
     "wof:name":"North Texas Hcs",
     "wof:parent_id":85870469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605585541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "military",

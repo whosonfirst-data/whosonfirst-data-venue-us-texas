@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.745721,30.306416,-97.745721,30.306416",
     "geom:latitude":30.306416,
     "geom:longitude":-97.745721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 W 38th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2hA11ve3ViDwgkjo6BSYEA_30.306416_-97.745721@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbf121f6cb913d0232e7ce1d053b226b",
+    "wof:geomhash":"6f4e6e3619fb7df76c63cc92f2d821e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303354317,
-    "wof:lastmodified":1467083799,
+    "wof:lastmodified":1510943342,
     "wof:name":"Austin Nutrition Consultants",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622831577
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"

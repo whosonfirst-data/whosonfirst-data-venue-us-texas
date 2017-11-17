@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.633637,29.680699,-95.633637,29.680699",
     "geom:latitude":29.680699,
     "geom:longitude":-95.633637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14165 Bissonnet St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2oHbL2h2MovcbkgV9b7atG_29.680699_-95.633637@1303263029"
     },
     "wof:country":"US",
-    "wof:geomhash":"e03976a5cdbdc8c597308604e9707b14",
+    "wof:geomhash":"d3b30e47a73bdb61a69008f8b361006f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286317893,
-    "wof:lastmodified":1467084273,
+    "wof:lastmodified":1510942070,
     "wof:name":"Kingsbridge Electronics",
     "wof:parent_id":85802711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588953813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

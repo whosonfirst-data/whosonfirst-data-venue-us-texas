@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.545799,30.725121,-95.545799,30.725121",
     "geom:latitude":30.725121,
     "geom:longitude":-95.545799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 10th St",
     "sg:city":"Huntsville",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_10pAPUgdbkto8vZweghRc1_30.725121_-95.545799@1303263032"
     },
     "wof:country":"US",
-    "wof:geomhash":"705cf5f0ed1f5a3bb426af14bdf2caed",
+    "wof:geomhash":"02da1f51b110499a580282084f069c67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286466827,
-    "wof:lastmodified":1467084261,
+    "wof:lastmodified":1510941962,
     "wof:name":"A-1 Locksmith",
     "wof:parent_id":85893807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622691263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

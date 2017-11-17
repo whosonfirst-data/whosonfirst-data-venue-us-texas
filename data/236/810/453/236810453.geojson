@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805298,32.7952,-96.805298,32.7952",
     "geom:latitude":32.7952,
     "geom:longitude":-96.805298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2301 Cedar Springs Rd Ste 400",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3V7mkCYXo5EDsh1ut0YZts_32.795200_-96.805298@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f370137d77cd54a2a5586a5944f3730",
+    "wof:geomhash":"86cdc0913cb88657166396b92887f106",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236810453,
-    "wof:lastmodified":1467083906,
+    "wof:lastmodified":1510942121,
     "wof:name":"Sorrels & Udashen",
     "wof:parent_id":85870441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622500751
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

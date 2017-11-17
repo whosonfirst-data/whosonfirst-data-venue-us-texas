@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.181278,26.21277,-98.181278,26.21277",
     "geom:latitude":26.21277,
     "geom:longitude":-98.181278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2102 N Cage Blvd",
     "sg:city":"Pharr",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3iWbFcd4d1BlmZQA6UigPC_26.212770_-98.181278@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb9ee1d461675ec017d25cbd53a43709",
+    "wof:geomhash":"c3bc86d69d495e9d79ed4d6952adddd3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":186150529,
-    "wof:lastmodified":1467084693,
+    "wof:lastmodified":1510943379,
     "wof:name":"Trucks Unlimited",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287307363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "used"

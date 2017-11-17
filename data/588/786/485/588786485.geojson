@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.618938,32.797728,-96.618938,32.797728",
     "geom:latitude":32.797728,
     "geom:longitude":-96.618938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2533 Franklin Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2rq2PIioxvae9yciSCXxoQ_32.797728_-96.618938@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"28d932d613e75fbed486d0dd18e0fe88",
+    "wof:geomhash":"30fdf621c3faaa4f05d1d10d6f0d6162",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":588786485,
-    "wof:lastmodified":1467085228,
+    "wof:lastmodified":1510942937,
     "wof:name":"Deli Management Inc",
     "wof:parent_id":420542959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236692983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

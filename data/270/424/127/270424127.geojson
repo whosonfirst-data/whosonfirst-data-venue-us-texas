@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.500999,29.7348,-95.500999,29.7348",
     "geom:latitude":29.7348,
     "geom:longitude":-95.500999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2909 Hillcroft St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0Dv0njnCpNTOKRiSMaa6PT_29.734800_-95.500999@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"89c0099ded7a34fac0849f88aeb73bb8",
+    "wof:geomhash":"3a908d3d9734db2b450c7b5f2133cf7f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270424127,
-    "wof:lastmodified":1467084227,
+    "wof:lastmodified":1510941886,
     "wof:name":"Iru International Resources Unlimited",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622118873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.384598,29.853201,-95.384598,29.853201",
     "geom:latitude":29.853201,
     "geom:longitude":-95.384598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6035 Airline Dr Ste 7",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1FOfj2bZ01uW8G240TOLFa_29.853201_-95.384598@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"26ccfa328676e54c23da06227ffa2ac9",
+    "wof:geomhash":"b523a2e5566ab389210c55d045d8f916",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":286274507,
-    "wof:lastmodified":1467084246,
+    "wof:lastmodified":1510943099,
     "wof:name":"Airline Pediatrics Clinic",
     "wof:parent_id":85869551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186614947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5513,29.707199,-95.5513,29.707199",
     "geom:latitude":29.707199,
     "geom:longitude":-95.5513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9630 Clarewood Dr Ste A3",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5EN7Ex0w8eOKiZfE0Ea3vb_29.707199_-95.551300@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"45291282a70ff6ff1ab820f4fba8ac4b",
+    "wof:geomhash":"22f2fb84c729a491b7c2490088d49436",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270229773,
-    "wof:lastmodified":1467084213,
+    "wof:lastmodified":1510943918,
     "wof:name":"Clarewood Chiropractic Inc",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622804141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

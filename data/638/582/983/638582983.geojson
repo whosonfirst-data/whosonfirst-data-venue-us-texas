@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.804508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8724 Preston Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":638582983,
-    "wof:lastmodified":1510877481,
+    "wof:lastmodified":1510942804,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622747693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

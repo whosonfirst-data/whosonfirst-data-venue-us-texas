@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.82147,32.953996,-96.82147,32.953996",
     "geom:latitude":32.953996,
     "geom:longitude":-96.82147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5100 Belt Line Rd Ste 402",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2vvCpWrsSMDJLGakdMSCUT_32.953996_-96.821470@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e052430bcb9550da3ec35e1cea84442",
+    "wof:geomhash":"83aec227811012c8f4ccf7f3065158b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253273439,
-    "wof:lastmodified":1467084997,
+    "wof:lastmodified":1510941740,
     "wof:name":"Canary Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588860707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse",

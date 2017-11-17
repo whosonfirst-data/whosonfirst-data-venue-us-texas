@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5557,29.781373,-95.5557,29.781373",
     "geom:latitude":29.781373,
     "geom:longitude":-95.5557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10497 Town and Country Way Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_16bcY723LTTZfS66XNjhSm_29.781373_-95.555700@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"1eb3fd55469c671cf47fd175674aa7d6",
+    "wof:geomhash":"6f64ddc1893ed3833a66c7fda8340fea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270070909,
-    "wof:lastmodified":1467084189,
+    "wof:lastmodified":1510941779,
     "wof:name":"Network Partners Inc",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203339675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

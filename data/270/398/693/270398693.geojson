@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463203,29.740601,-95.463203,29.740601",
     "geom:latitude":29.740601,
     "geom:longitude":-95.463203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5075 Westheimer Rd Ste 950",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_26NCy09HaHkQoBvsYLAs6f_29.740601_-95.463203@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"eca5cb3167c3b90ab6cee282af4d0207",
+    "wof:geomhash":"ccd1336cacc01f3a1ea15a104369e0d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,15 @@
         }
     ],
     "wof:id":270398693,
-    "wof:lastmodified":1467084156,
+    "wof:lastmodified":1510943995,
     "wof:name":"Ishtar International Inc",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270405773,
+        622069309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

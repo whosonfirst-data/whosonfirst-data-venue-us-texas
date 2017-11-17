@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.835259,32.851361,-96.835259,32.851361",
     "geom:latitude":32.851361,
     "geom:longitude":-96.835259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4315 W Lovers Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3EZuSkTw2owW9VSa9aedoD_32.851361_-96.835259@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee15f16626265f50e4780de5649f4e94",
+    "wof:geomhash":"86a9049175d666e8c76a07bec2f27dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":606058237,
-    "wof:lastmodified":1467086358,
+    "wof:lastmodified":1510943659,
     "wof:name":"Berry Briggs & Berkley",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236975433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773215,32.845212,-96.773215,32.845212",
     "geom:latitude":32.845212,
     "geom:longitude":-96.773215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6440 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0qRRpH7OPbfAcdifcgS3zI_32.845212_-96.773215@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"691e1b3471b3e2c511907f4706cd332f",
+    "wof:geomhash":"0a5dad9eeb323e22178baaf73d073527",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":353850557,
-    "wof:lastmodified":1467084354,
+    "wof:lastmodified":1510943363,
     "wof:name":"Dickman Law Offices P C",
     "wof:parent_id":85870385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236923411
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

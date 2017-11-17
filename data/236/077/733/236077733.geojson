@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.842353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2661 Midway Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -44,6 +45,7 @@
     "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2805212601,
         "sg:id":"SG_0isi5XXEkQhL7Vp2nkgadJ_32.985524_-96.842353@1303262962"
     },
     "wof:country":"US",
@@ -60,13 +62,19 @@
         }
     ],
     "wof:id":236077733,
-    "wof:lastmodified":1510613542,
+    "wof:lastmodified":1510944079,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588848039,
+        622853953
+    ],
+    "wof:supersedes":[
+        588848039,
+        622853953
+    ],
     "wof:tags":[
         "sandwich"
     ]

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.911598,32.9538,-96.911598,32.9538",
     "geom:latitude":32.9538,
     "geom:longitude":-96.911598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1225 W College Ave",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_07DYrKh1xgKI0EgVy00UQ2_32.953800_-96.911598@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"2208a699c4b5884a207d58d8af647b10",
+    "wof:geomhash":"0b1bf824982c18420b4b9925676a643b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236062165,
-    "wof:lastmodified":1467084026,
+    "wof:lastmodified":1510942415,
     "wof:name":"Artistic Auto Body & Paint Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605642217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

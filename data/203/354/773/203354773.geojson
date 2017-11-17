@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.00196,33.055646,-97.00196,33.055646",
     "geom:latitude":33.055646,
     "geom:longitude":-97.00196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"438 Southfork Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6LtJ99IHuImUeszQdc4lgg_33.055646_-97.001960@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"21b45aa6072ecb2defcdebb830df6346",
+    "wof:geomhash":"510773d57c08c1f7355f6759de6929a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":203354773,
-    "wof:lastmodified":1467084417,
+    "wof:lastmodified":1510942029,
     "wof:name":"K S E-T X",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236309221
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial",

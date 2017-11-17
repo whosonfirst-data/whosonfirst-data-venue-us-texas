@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803112,32.951586,-96.803112,32.951586",
     "geom:latitude":32.951586,
     "geom:longitude":-96.803112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14902 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_1JJllWQHpdC568xG9khmpP_32.951586_-96.803112@1303262987"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b6af14d108c2871142d31f810cf04f3",
+    "wof:geomhash":"2fef3c0a875252f32e1f6451ef856038",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":253104539,
-    "wof:lastmodified":1467084987,
+    "wof:lastmodified":1510941807,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387778659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.365142,29.755699,-95.365142,29.755699",
     "geom:latitude":29.755699,
     "geom:longitude":-95.365142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1010 Lamar St Ste 1000",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6Bv1A83X1g6jy8UC6j12Gx_29.755699_-95.365142@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"2041da6a201989016e7daa31eb10c08d",
+    "wof:geomhash":"a4feb77ece3f8db95badf5b91c9f6229",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":337325415,
-    "wof:lastmodified":1467084436,
+    "wof:lastmodified":1510943868,
     "wof:name":"Cohen Gorman & Putnam Llp",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622691785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

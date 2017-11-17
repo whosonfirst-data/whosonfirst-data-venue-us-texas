@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.496532,29.756009,-95.496532,29.756009",
     "geom:latitude":29.756009,
     "geom:longitude":-95.496532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6363 Woodway Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_1W3nTHZWfoqYcqiiCBSAAP_29.756009_-95.496532@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae84649116a46151a6c1e6924d9f1bc0",
+    "wof:geomhash":"148809b93371e454952b028ed3c2821d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":270415159,
-    "wof:lastmodified":1467084208,
+    "wof:lastmodified":1510941992,
     "wof:name":"Mark Kamin & Associates, Inc",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622594085
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

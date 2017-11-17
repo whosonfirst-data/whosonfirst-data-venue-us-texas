@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.513522,29.71149,-95.513522,29.71149",
     "geom:latitude":29.71149,
     "geom:longitude":-95.513522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6201 Bonhomme Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_29Ud6v5rJO0j661dou5Xfa_29.711490_-95.513522@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"be490313d7215654b28113dadce82727",
+    "wof:geomhash":"3e71419c80ebb61a87aa2a710dfce647",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":186225459,
-    "wof:lastmodified":1467084709,
+    "wof:lastmodified":1510943501,
     "wof:name":"K & S Intl Inc",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622158487
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "international",

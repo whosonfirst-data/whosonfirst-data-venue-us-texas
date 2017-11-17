@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.72357,32.971839,-96.72357,32.971839",
     "geom:latitude":32.971839,
     "geom:longitude":-96.72357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1750 N Collins Blvd",
     "sg:city":"Richardson",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6kiy933CUQNhMGTUR74OLD_32.971839_-96.723570@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"a050e8d76de1cd9d7cc06127b003c291",
+    "wof:geomhash":"563f3b17ff6918ede840e2401f66cba9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":236465607,
-    "wof:lastmodified":1467083977,
+    "wof:lastmodified":1510943822,
     "wof:name":"Northwest Office Plaza",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        605757219
+    ],
+    "wof:supersedes":[
+        236462361
+    ],
     "wof:tags":[]
 },
   "bbox": [

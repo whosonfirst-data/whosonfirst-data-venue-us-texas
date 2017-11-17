@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.958448,32.90649,-96.958448,32.90649",
     "geom:latitude":32.90649,
     "geom:longitude":-96.958448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7300 N MacArthur Blvd Ste 150",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2iYUoxTswJUk9AK8FFZVmK_32.906490_-96.958448@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"e34964a79cd82d007f307745a57a4fd5",
+    "wof:geomhash":"482c6c877748738915ede5f57b4f3eec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236376491,
-    "wof:lastmodified":1467083916,
+    "wof:lastmodified":1510942709,
     "wof:name":"Bank of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589138663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.452591,32.676971,-97.452591,32.676971",
     "geom:latitude":32.676971,
     "geom:longitude":-97.452591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 Winscott Rd",
     "sg:city":"Benbrook",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1rXzYil2h3KgBMle54TPSn_32.676971_-97.452591@1303263000"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4825a26cab2d6ebc32e6f3b7fd8d90d",
+    "wof:geomhash":"39d32aed8d30453216b7985e7e5d939f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269528705,
-    "wof:lastmodified":1467084590,
+    "wof:lastmodified":1510943550,
     "wof:name":"Winscott Road Funeral Home",
     "wof:parent_id":85805715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605590961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

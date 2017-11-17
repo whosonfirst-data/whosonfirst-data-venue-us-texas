@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.877998,32.911499,-96.877998,32.911499",
     "geom:latitude":32.911499,
     "geom:longitude":-96.877998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3010 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6XzXzmnjRDZgH5pjZP23h8_32.911499_-96.877998@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"e88d9b09969cd5a819e36d2656b81ff4",
+    "wof:geomhash":"ac30b5a0c99ff112d253823f3529928d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253024295,
-    "wof:lastmodified":1467084993,
+    "wof:lastmodified":1510942167,
     "wof:name":"Available Mortgage Funding",
     "wof:parent_id":85897335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622664351
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

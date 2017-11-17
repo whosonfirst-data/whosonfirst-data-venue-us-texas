@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.834348,32.797854,-96.834348,32.797854",
     "geom:latitude":32.797854,
     "geom:longitude":-96.834348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2266 Monitor St",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -27,10 +30,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1810029400,
         "sg:id":"SG_4h5aw1AsWixTFociYjknrv_32.797854_-96.834348@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"2267e1f75083e94b8762b8392d497216",
+    "wof:geomhash":"83e934a2490aff65f6c679e7ba3123be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +47,17 @@
         }
     ],
     "wof:id":236937153,
-    "wof:lastmodified":1467083888,
+    "wof:lastmodified":1510941873,
     "wof:name":"Clean Air Gardening",
     "wof:parent_id":85870425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236939737
+    ],
+    "wof:supersedes":[
+        236939737
+    ],
     "wof:tags":[]
 },
   "bbox": [

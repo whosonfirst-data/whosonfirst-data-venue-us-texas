@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.285683,32.795741,-97.285683,32.795741",
     "geom:latitude":32.795741,
     "geom:longitude":-97.285683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2801 Glenda St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4cLbs0mgCFqkN4pPSoydh3_32.795741_-97.285683@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a307bc0a5b40315ba7f0cef9df90f55",
+    "wof:geomhash":"10980deefe03c72128d652798e4efd7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":371006957,
-    "wof:lastmodified":1467084686,
+    "wof:lastmodified":1510941982,
     "wof:name":"F F P Marketing Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622112015
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "convenience",

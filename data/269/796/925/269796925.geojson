@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.359692,29.757663,-95.359692,29.757663",
     "geom:latitude":29.757663,
     "geom:longitude":-95.359692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1314 Texas St Ste 1012",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_7XahBhdr33MhKMHaB1XoOi_29.757663_-95.359692@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"a62dac55293f4c9fdc8364e9505e7683",
+    "wof:geomhash":"7b618375c3e8a18ba42892b3e3dac96c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269796925,
-    "wof:lastmodified":1467084602,
+    "wof:lastmodified":1510944145,
     "wof:name":"Kahn Law Firm PC",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622100301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

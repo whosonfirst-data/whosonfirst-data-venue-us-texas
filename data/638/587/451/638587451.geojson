@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.837107,32.205817,-95.837107,32.205817",
     "geom:latitude":32.205817,
     "geom:longitude":-95.837107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1105 E Tyler St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2YVjrFEa5CcLeU60j80gkT_32.205817_-95.837107@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"caaffa98959493558dcb6ec90263126f",
+    "wof:geomhash":"9a50d1962709cb9cae749feff3406d81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638587451,
-    "wof:lastmodified":1467087324,
+    "wof:lastmodified":1510941709,
     "wof:name":"McDonald's",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622044021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

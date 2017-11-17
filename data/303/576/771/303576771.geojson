@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.773138,30.22595,-97.773138,30.22595",
     "geom:latitude":30.22595,
     "geom:longitude":-97.773138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4316 James Casey St Ste E",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_23dzlUkqbYsmqhdeB6E8UN_30.225950_-97.773138@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ba82c2e1981a19876e0b460cc9b6aa2",
+    "wof:geomhash":"081b559cc6666fdcb44bc70a404fe1ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303576771,
-    "wof:lastmodified":1467083785,
+    "wof:lastmodified":1510942809,
     "wof:name":"River Ranch Radiology",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303578353
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

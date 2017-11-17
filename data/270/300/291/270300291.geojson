@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.567001,29.812599,-95.567001,29.812599",
     "geom:latitude":29.812599,
     "geom:longitude":-95.567001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10801 Hammerly Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5v6xMxqdPwZx6rlbTI8IRV_29.812599_-95.567001@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e9ef6234009bf2a1206fbe4ff38aca7",
+    "wof:geomhash":"3ec46bea7c9357bfcaa4a76150b7fd1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270300291,
-    "wof:lastmodified":1467084196,
+    "wof:lastmodified":1510943809,
     "wof:name":"J D Price Construction",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605103931
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

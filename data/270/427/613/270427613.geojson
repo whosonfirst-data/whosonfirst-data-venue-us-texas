@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.500351,29.734284,-95.500351,29.734284",
     "geom:latitude":29.734284,
     "geom:longitude":-95.500351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2909 Hillcroft St Ste 600",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1qbWRXywfxq6u7eKONxwCC_29.734284_-95.500351@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"01e9510541ae310c432f3dae0ca05338",
+    "wof:geomhash":"7316c25271d24cb24c9b96e6887a1fdf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270427613,
-    "wof:lastmodified":1467084173,
+    "wof:lastmodified":1510944013,
     "wof:name":"Insurepointe of Texas",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589101643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

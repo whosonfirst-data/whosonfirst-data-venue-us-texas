@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.367508,29.75852,-95.367508,29.75852",
     "geom:latitude":29.75852,
     "geom:longitude":-95.367508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Louisiana St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
         "sg:id":"SG_0nNeDxYvUeHy94xYZF4Z4G_29.758520_-95.367508@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"1964b14b0127d5a1ac014f6d785e9dc3",
+    "wof:geomhash":"66bdff85ae2d1b626365ff7ec98c89d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":269855267,
-    "wof:lastmodified":1467084621,
+    "wof:lastmodified":1510943009,
     "wof:name":"Goldman Sachs & Co",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589251759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

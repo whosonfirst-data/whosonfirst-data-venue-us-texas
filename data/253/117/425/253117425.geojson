@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.815804,32.925499,-96.815804,32.925499",
     "geom:latitude":32.925499,
     "geom:longitude":-96.815804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5430 Lyndon B Johnson Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_70Zz7kuEm516HHbD8Uuh5V_32.925499_-96.815804@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"54aeb8392883df61b15eb3ae1dff0b70",
+    "wof:geomhash":"3902807fae6ccbfc3caf281336de8748",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253117425,
-    "wof:lastmodified":1467085015,
+    "wof:lastmodified":1510941871,
     "wof:name":"Metatec Corporation",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621915311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

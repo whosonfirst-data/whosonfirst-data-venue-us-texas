@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.718552,30.40076,-97.718552,30.40076",
     "geom:latitude":30.40076,
     "geom:longitude":-97.718552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11400 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4sF1EzTICFXA6GxL9vU76J_30.400760_-97.718552@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bee160d67b94adde22fb14625594e48",
+    "wof:geomhash":"87b84587cce4fdec40bbde2038f3f9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":621838225,
-    "wof:lastmodified":1467086395,
+    "wof:lastmodified":1510941254,
     "wof:name":"Ventana Restaurant",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303796437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

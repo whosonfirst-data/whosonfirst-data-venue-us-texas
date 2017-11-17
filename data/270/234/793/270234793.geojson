@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.540512,29.717939,-95.540512,29.717939",
     "geom:latitude":29.717939,
     "geom:longitude":-95.540512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10101 Harwin Dr Ste 210",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4hOHE68pPQrNg4O4rbgz13_29.717939_-95.540512@1303263019"
     },
     "wof:country":"US",
-    "wof:geomhash":"bfc0d799334a3f283e65b4c5e8d44973",
+    "wof:geomhash":"d09b93f7033d086261fafa5c2cd0080e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270234793,
-    "wof:lastmodified":1467084228,
+    "wof:lastmodified":1510943919,
     "wof:name":"Ajg & Assoc",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622652015
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping",

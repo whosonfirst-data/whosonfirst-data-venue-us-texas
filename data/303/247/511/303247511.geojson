@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742941,30.267212,-97.742941,30.267212",
     "geom:latitude":30.267212,
     "geom:longitude":-97.742941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"515 Congress Ave Ste 1675",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2AeAwl0ioey7PZFgkySkxh_30.267212_-97.742941@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6d209beff28af33854c4f63317d1fcb",
+    "wof:geomhash":"1960c9716757bccd93a25654c3839551",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":303247511,
-    "wof:lastmodified":1467083763,
+    "wof:lastmodified":1510943244,
     "wof:name":"Sandefer Capital Partners",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622807329,
+        303263515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.864449,32.93396,-96.864449,32.93396",
     "geom:latitude":32.93396,
     "geom:longitude":-96.864449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3334 Golfing Green Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3YoaDESId6pTHLpr0O1JOv_32.933960_-96.864449@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc3391b886523b4afe23ff0ec7772842",
+    "wof:geomhash":"87cf12aaf8510ec1d99e32b3f49e01bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253025601,
-    "wof:lastmodified":1467085030,
+    "wof:lastmodified":1510943426,
     "wof:name":"Freer Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589005375
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

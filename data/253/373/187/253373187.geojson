@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.080429,33.423403,-94.080429,33.423403",
     "geom:latitude":33.423403,
     "geom:longitude":-94.080429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"924 N Robison Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2hNd3I6NEQdZ5RtIMW41T4_33.423403_-94.080429@1303262992"
     },
     "wof:country":"US",
-    "wof:geomhash":"e62b68247492fc9de227dfe3f9bcce03",
+    "wof:geomhash":"1b6fe996ec40eaacaed2d37c60cb1d7b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253373187,
-    "wof:lastmodified":1467084997,
+    "wof:lastmodified":1510942960,
     "wof:name":"Aloha Aire Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589192491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

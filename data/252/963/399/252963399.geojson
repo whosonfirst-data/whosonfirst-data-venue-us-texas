@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803845,32.892669,-96.803845,32.892669",
     "geom:latitude":32.892669,
     "geom:longitude":-96.803845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10720 Preston Rd Ste 1018",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0VMQdC6DEHCYkxgNsGf6qw_32.892669_-96.803845@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdc826034af156b068da5a77bfcfb69d",
+    "wof:geomhash":"bd09c15450729c39add67c96b4cda330",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252963399,
-    "wof:lastmodified":1467084054,
+    "wof:lastmodified":1510941219,
     "wof:name":"Seattle's Best",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638586085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

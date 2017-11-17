@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.707433,30.41283,-97.707433,30.41283",
     "geom:latitude":30.41283,
     "geom:longitude":-97.707433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12221 N Mo Pac Expy Fl 3",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1D8ANq4oIOgnAAO4Z4VLoR_30.412830_-97.707433@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c22184e30abd212a5635d6b06731ae3",
+    "wof:geomhash":"dec9122b5a6994cbefaf173fdb00895c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303789795,
-    "wof:lastmodified":1467083747,
+    "wof:lastmodified":1510941998,
     "wof:name":"Radiant Research Clinic",
     "wof:parent_id":85893539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622648163
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

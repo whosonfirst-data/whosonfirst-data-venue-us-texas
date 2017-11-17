@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805143,32.923453,-96.805143,32.923453",
     "geom:latitude":32.923453,
     "geom:longitude":-96.805143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12817 Preston Rd Ste 425",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6Dp87GOIOBLSkwAPrcmBhJ_32.923453_-96.805143@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"b278a9ca0c94d74e3e00d04772fd3e03",
+    "wof:geomhash":"8739dcc5ef794c75d54f594025c8120b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252959113,
-    "wof:lastmodified":1467084102,
+    "wof:lastmodified":1510943906,
     "wof:name":"Mario & Alberto",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403960109
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

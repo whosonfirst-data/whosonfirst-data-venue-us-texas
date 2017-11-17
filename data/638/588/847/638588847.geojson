@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.174946,32.865566,-97.174946,32.865566",
     "geom:latitude":32.865566,
     "geom:longitude":-97.174946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"450 Grapevine Hwy",
     "sg:city":"Hurst",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4Tjg6FvUFuN0qVsKSeVt2e_32.865566_-97.174946@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c58e9d1e64803529282973af27e8f1e",
+    "wof:geomhash":"d953f989314f4c86201fcd103f436c04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638588847,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510943294,
     "wof:name":"McDonald's",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        235936775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

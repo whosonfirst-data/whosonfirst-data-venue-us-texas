@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74472,30.302691,-97.74472,30.302691",
     "geom:latitude":30.302691,
     "geom:longitude":-97.74472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 W 34th St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1Dt0yr93st7ffvXTdCJW0b_30.302691_-97.744720@1303263058"
     },
     "wof:country":"US",
-    "wof:geomhash":"9705cd16add5814845b2be8d29b0609f",
+    "wof:geomhash":"c8fd785ddabaa7f481cf5c0750c1ab3b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303364381,
-    "wof:lastmodified":1467083760,
+    "wof:lastmodified":1510943818,
     "wof:name":"Julian's",
     "wof:parent_id":85893533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622633789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

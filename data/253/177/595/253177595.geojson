@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.821919,32.927521,-96.821919,32.927521",
     "geom:latitude":32.927521,
     "geom:longitude":-96.821919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5001 Lyndon B Johnson Fwy Ste 700",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2R2yofWGc2oahK2ZTOlqY0_32.927521_-96.821919@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"d19f8ede9f58a26241fb7a5b51d1744e",
+    "wof:geomhash":"3e04beb3a3b3021ee47da48d0b12c844",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253177595,
-    "wof:lastmodified":1467085047,
+    "wof:lastmodified":1510943312,
     "wof:name":"Jefferson Nationwide Mortgage",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253182057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

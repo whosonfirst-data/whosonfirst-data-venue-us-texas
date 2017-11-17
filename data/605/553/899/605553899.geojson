@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-98.504767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1700 3rd St",
     "sg:city":"Wichita Falls",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"80a7530e0563c6f5b585a00417ac776a",
     "wof:hierarchy":[],
     "wof:id":605553899,
-    "wof:lastmodified":1510602841,
+    "wof:lastmodified":1510943710,
     "wof:name":"Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605598503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city",

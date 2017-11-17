@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.431999,29.7321,-95.431999,29.7321",
     "geom:latitude":29.7321,
     "geom:longitude":-95.431999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24 E Greenway Plz",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7iVwAqa00fn47XYDcAFgd7_29.732100_-95.431999@1303263021"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c1d314eb00863b92931fcc3908f7f2d",
+    "wof:geomhash":"90f8382a38019db134bffed9f72320cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270321175,
-    "wof:lastmodified":1467084152,
+    "wof:lastmodified":1510943210,
     "wof:name":"Stevenson St John & Ammons",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605720197
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.964041,32.882117,-96.964041,32.882117",
     "geom:latitude":32.882117,
     "geom:longitude":-96.964041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5330 N Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_2WGafnJX9XAHkarrtVw8jo_32.882117_-96.964041@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a205b58e79b481b4eb4588045c065c1",
+    "wof:geomhash":"11947ba1b0c155100c4a11a31daccc68",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":236009613,
-    "wof:lastmodified":1467084036,
+    "wof:lastmodified":1510942640,
     "wof:name":"Desi Mart Inc",
     "wof:parent_id":85878321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236197219
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer",

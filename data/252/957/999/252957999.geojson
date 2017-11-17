@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.772078,32.909589,-96.772078,32.909589",
     "geom:latitude":32.909589,
     "geom:longitude":-96.772078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7777 Forest Ln Ste C642",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_715DvQQgdyxXhYlCxKcGkP_32.909589_-96.772078@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"833296e2c3ecfdcd6ddc3dc5ddf2f3c7",
+    "wof:geomhash":"cf9a699cf14944ef7cb6d292ce9314cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252957999,
-    "wof:lastmodified":1467084100,
+    "wof:lastmodified":1510943914,
     "wof:name":"ANTONETTI ROBERT S. M.D.",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252975877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

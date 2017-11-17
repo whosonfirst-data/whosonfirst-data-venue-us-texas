@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.857035,32.714353,-96.857035,32.714353",
     "geom:latitude":32.714353,
     "geom:longitude":-96.857035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2909 S Hampton Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5zdPRU5LiPxQNMvcQ6Ji9B_32.714353_-96.857035@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8d4cfb8f396737d27968c24de968e5a",
+    "wof:geomhash":"5c91e6ffd3f6beba9a7b88879b035262",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":606006385,
-    "wof:lastmodified":1467086320,
+    "wof:lastmodified":1510941523,
     "wof:name":"Kenneth S Bayles DO",
     "wof:parent_id":420542697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252857587
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

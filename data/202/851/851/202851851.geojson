@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.818856,32.962942,-96.818856,32.962942",
     "geom:latitude":32.962942,
     "geom:longitude":-96.818856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15400 Knoll Trail Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -33,7 +36,7 @@
         "sg:id":"SG_3kA1RPzzru2rPUB6JEN9BP_32.962942_-96.818856@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"80ab48ec58f2a07c78ec2fb37b5c543d",
+    "wof:geomhash":"56a66a5eaa32afa5362a040926aebdd9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":202851851,
-    "wof:lastmodified":1467084922,
+    "wof:lastmodified":1510942916,
     "wof:name":"Irvin Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605520455
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

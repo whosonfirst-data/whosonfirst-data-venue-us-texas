@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.649916,28.983956,-96.649916,28.983956",
     "geom:latitude":28.983956,
     "geom:longitude":-96.649916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"817 N Wells St",
     "sg:city":"Edna",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_1qRsepQLcVHgLLq4nvvPLX_28.983956_-96.649916@1303263043"
     },
     "wof:country":"US",
-    "wof:geomhash":"03a279332c2895aa47a2723f50095267",
+    "wof:geomhash":"e7b82a4f66a6f88bfe853986efb04998",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":287067801,
-    "wof:lastmodified":1467083819,
+    "wof:lastmodified":1510942216,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605739407
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hamburger",

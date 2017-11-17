@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.329498,32.542702,-97.329498,32.542702",
     "geom:latitude":32.542702,
     "geom:longitude":-97.329498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"251 SW Wilshire Blvd Ste 117",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6DM1m3UKmE0O9Q802soXhf_32.542702_-97.329498@1303262998"
     },
     "wof:country":"US",
-    "wof:geomhash":"29e857f4183f4916e92383052346727a",
+    "wof:geomhash":"966dab74aec25b915e39d5527c9e1613",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253678269,
-    "wof:lastmodified":1467084993,
+    "wof:lastmodified":1510942731,
     "wof:name":"Busy B's Bakery",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605535343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

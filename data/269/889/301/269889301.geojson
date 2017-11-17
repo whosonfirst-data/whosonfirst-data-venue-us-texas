@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.430199,29.726299,-95.430199,29.726299",
     "geom:latitude":29.726299,
     "geom:longitude":-95.430199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5252 Westchester St Ste 170",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0OlRv3ljqSomdwpFE81qYR_29.726299_-95.430199@1303263009"
     },
     "wof:country":"US",
-    "wof:geomhash":"e83a5a8c3c5a841e18a18d00d4f88a7e",
+    "wof:geomhash":"52a72616434ed12a4c4a8eba770e0cbd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269889301,
-    "wof:lastmodified":1467084570,
+    "wof:lastmodified":1510943573,
     "wof:name":"Rx Resources Inc",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605121645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "interior",

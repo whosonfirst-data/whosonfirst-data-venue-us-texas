@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.554703,29.727501,-95.554703,29.727501",
     "geom:latitude":29.727501,
     "geom:longitude":-95.554703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10333 Richmond Ave Ste 1030",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_00dGzdH2x7nyNWk7cYNvGo_29.727501_-95.554703@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ce02c0cbdf88c208341254ed1d65868",
+    "wof:geomhash":"4b1f040db1256ef734d2618da898bac1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270296909,
-    "wof:lastmodified":1467084215,
+    "wof:lastmodified":1510941489,
     "wof:name":"Apex Systems Inc",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588754667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

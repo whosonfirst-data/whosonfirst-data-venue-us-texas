@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.830454,32.973641,-96.830454,32.973641",
     "geom:latitude":32.973641,
     "geom:longitude":-96.830454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16415 Addison Rd Ste 100",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3zIN8I4qD7ADcu2ag3Frb7_32.973641_-96.830454@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e893781fc8aa7a4843a6b4604f41d7d",
+    "wof:geomhash":"c937f308a2bba31e21efaa22adc31c2a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236029755,
-    "wof:lastmodified":1467083931,
+    "wof:lastmodified":1510942159,
     "wof:name":"Griffin Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622691629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

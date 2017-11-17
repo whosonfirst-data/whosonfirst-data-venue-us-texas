@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.534798,29.7838,-95.534798,29.7838",
     "geom:latitude":29.7838,
     "geom:longitude":-95.534798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9821 Katy Fwy Ste 200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_533gNzpZb2OXJEbhfC6MAe_29.783800_-95.534798@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa969cea3a383c21f84e9887aaa9e28d",
+    "wof:geomhash":"65dacdb35c4dd90bbb9e024032584384",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270082005,
-    "wof:lastmodified":1467084153,
+    "wof:lastmodified":1510943478,
     "wof:name":"Dickson Flato & Co PC",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605613549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

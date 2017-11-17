@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.580826,29.78414,-95.580826,29.78414",
     "geom:latitude":29.78414,
     "geom:longitude":-95.580826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11211 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -61,7 +64,7 @@
         "sg:id":"SG_1XxRzVl3xolwGyJucR6Ti2_29.784140_-95.580826@1303263028"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ed4dc014231599f244046de3a5f46a6",
+    "wof:geomhash":"79a05b8ddf1e934273e7566c54f554e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -74,12 +77,14 @@
         }
     ],
     "wof:id":286284579,
-    "wof:lastmodified":1467084288,
+    "wof:lastmodified":1510942985,
     "wof:name":"Texas Health School",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605271977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nursing",

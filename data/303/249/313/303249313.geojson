@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742627,30.273703,-97.742627,30.273703",
     "geom:latitude":30.273703,
     "geom:longitude":-97.742627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1122 Colorado Street Ofc",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5IiAPsMpQR05E0jE6WO57E_30.273703_-97.742627@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba67d70756714c305dfd8737bac23379",
+    "wof:geomhash":"d65c3b985c4ce8644a0ff77b76d192ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":303249313,
-    "wof:lastmodified":1467083697,
+    "wof:lastmodified":1510941352,
     "wof:name":"Texas Package Stores Assn",
     "wof:parent_id":85867199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605482635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beer",

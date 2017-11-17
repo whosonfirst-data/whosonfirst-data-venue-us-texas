@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.949897,29.7498,-94.949897,29.7498",
     "geom:latitude":29.7498,
     "geom:longitude":-94.949897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Cedar Bayou Rd",
     "sg:city":"Baytown",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2zfg2Uagsrfovb1gXyfMj8_29.749800_-94.949897@1303263039"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa98fe97f22a008ae0f0f245d58b0ebe",
+    "wof:geomhash":"976deea99eb90b23cad585087b088479",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286816715,
-    "wof:lastmodified":1467084284,
+    "wof:lastmodified":1510941498,
     "wof:name":"Derryberry's, L.P.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588777671
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "system",

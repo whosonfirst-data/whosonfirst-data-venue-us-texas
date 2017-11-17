@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.712341,32.904652,-96.712341,32.904652",
     "geom:latitude":32.904652,
     "geom:longitude":-96.712341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9450 Skillman St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -56,7 +59,7 @@
         "sg:id":"SG_28oghn4ckvqQXw07fbfXQd_32.904652_-96.712341@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea98f42d71fc75323a0cfcdec5798419",
+    "wof:geomhash":"35e2fb7fa265a7a496c13da34c649413",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":253150091,
-    "wof:lastmodified":1467084946,
+    "wof:lastmodified":1510943780,
     "wof:name":"Centerline Fire Protection Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219959537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "control",

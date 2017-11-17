@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.364846,29.757066,-95.364846,29.757066",
     "geom:latitude":29.757066,
     "geom:longitude":-95.364846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 McKinney St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4wCf4K7SVvNlzWhzYp1fSc_29.757066_-95.364846@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"e291f050eb6de540a15bf3925f38d65d",
+    "wof:geomhash":"43359104278483f56a93b4cbd709264c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":269789909,
-    "wof:lastmodified":1467084601,
+    "wof:lastmodified":1510942033,
     "wof:name":"Pjs Deli Cateria",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588856249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

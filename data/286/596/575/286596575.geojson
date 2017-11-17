@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.450673,30.061274,-95.450673,30.061274",
     "geom:latitude":30.061274,
     "geom:longitude":-95.450673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2211 Louetta Rd",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_4PkO0HIxM2TO03QI9LmCQu_30.061274_-95.450673@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"830f877d7a47f79e9ace358c2d3f0091",
+    "wof:geomhash":"ca86ebf2a4cd5c5e280714af2ee33b5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":286596575,
-    "wof:lastmodified":1467084278,
+    "wof:lastmodified":1510942224,
     "wof:name":"Frank's Vettes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236493519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

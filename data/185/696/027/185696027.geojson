@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808702,32.785187,-96.808702,32.785187",
     "geom:latitude":32.785187,
     "geom:longitude":-96.808702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 N Lamar St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1uorbqLA5ZVkv2DH34jW11_32.785187_-96.808702@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ecc98cdc0e39869551bac22f4da5353",
+    "wof:geomhash":"170731169ed1064d56eee6c7edf509ce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":185696027,
-    "wof:lastmodified":1467084113,
+    "wof:lastmodified":1510941183,
     "wof:name":"Greeves Law Office",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236851157
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

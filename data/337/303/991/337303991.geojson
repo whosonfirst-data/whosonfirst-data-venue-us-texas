@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.807247,32.793284,-96.807247,32.793284",
     "geom:latitude":32.793284,
     "geom:longitude":-96.807247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2728 N Harwood St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3x5gvdVlrUeAI11ZPrDrJP_32.793284_-96.807247@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"66f4895fcd52baee77d7a8867364e319",
+    "wof:geomhash":"5626f13d8b462fd9371a78cc541d1a7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":337303991,
-    "wof:lastmodified":1467084423,
+    "wof:lastmodified":1510943793,
     "wof:name":"CTX Mortgage",
     "wof:parent_id":85870441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605605673
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.565002,29.6336,-95.565002,29.6336",
     "geom:latitude":29.6336,
     "geom:longitude":-95.565002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13003 Murphy Rd Ste I2",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4PNfSTxHASbpZfCS2uaKgG_29.633600_-95.565002@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"af40fb0059404df368fb35873ad61504",
+    "wof:geomhash":"6ffdc6fad5b1b5a59e992ab6537866a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":286723765,
-    "wof:lastmodified":1467084284,
+    "wof:lastmodified":1510942278,
     "wof:name":"Regency Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588999935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

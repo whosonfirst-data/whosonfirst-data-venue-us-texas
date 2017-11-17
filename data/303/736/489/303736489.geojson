@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.69545,30.365882,-97.69545,30.365882",
     "geom:latitude":30.365882,
     "geom:longitude":-97.69545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9616 N Lamar Boulevard Suite 147",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0oangNxu3P25BfuNpPxk52_30.365882_-97.695450@1303263069"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd02cb3b6b3ebf5941d6a7475839e54e",
+    "wof:geomhash":"ee683e817b11b6fb143d6e3d127d1bb6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303736489,
-    "wof:lastmodified":1467083812,
+    "wof:lastmodified":1510944112,
     "wof:name":"Acapulco Record Shop",
     "wof:parent_id":85867203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605840663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dvd's"

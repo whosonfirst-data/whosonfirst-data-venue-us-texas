@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.959106,32.851557,-96.959106,32.851557",
     "geom:latitude":32.851557,
     "geom:longitude":-96.959106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3501 N Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_23EA2iXVnNP1Uft1jSbvNo_32.851557_-96.959106@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"589257a3b0c5c9acbfa8052a3bcfc3f0",
+    "wof:geomhash":"2f1e04c4127d0a9b2ad3f5b5522e6f8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":236348131,
-    "wof:lastmodified":1467083862,
+    "wof:lastmodified":1510943248,
     "wof:name":"Macarthur Ob Gyn PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236358691
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

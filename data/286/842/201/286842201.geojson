@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.413732,29.009949,-95.413732,29.009949",
     "geom:latitude":29.009949,
     "geom:longitude":-95.413732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1235 Highway 332",
     "sg:city":"Clute",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4QSXv6yAiUXN1GS34lDxi7_29.009949_-95.413732@1303263039"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c871a57ea73f35055dca48593cf3355",
+    "wof:geomhash":"93c1c5c534bf1b56796b686dacb6404b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286842201,
-    "wof:lastmodified":1467084242,
+    "wof:lastmodified":1510941355,
     "wof:name":"Top Expert Beauty Salon",
     "wof:parent_id":85846109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622506859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

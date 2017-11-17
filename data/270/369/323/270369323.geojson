@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.500511,29.797115,-95.500511,29.797115",
     "geom:latitude":29.797115,
     "geom:longitude":-95.500511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1511 Bingle Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -58,7 +61,7 @@
         "sg:id":"SG_112D87wxsVWKdrcYlpfZYv_29.797115_-95.500511@1303263022"
     },
     "wof:country":"US",
-    "wof:geomhash":"87d59fd5468d4bec9ef809552ba201fe",
+    "wof:geomhash":"d561c06b8a52d705ad4b7e1e85ea8a82",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":270369323,
-    "wof:lastmodified":1467084228,
+    "wof:lastmodified":1510941895,
     "wof:name":"Spring Branch Business Park",
     "wof:parent_id":85869689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605315395
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "register",

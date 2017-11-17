@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547763,29.779555,-95.547763,29.779555",
     "geom:latitude":29.779555,
     "geom:longitude":-95.547763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"909 Frostwood Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7FRWyCK7blV2iZefCbx5WI_29.779555_-95.547763@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fc40c8e638d4e97030c8167b1467172",
+    "wof:geomhash":"6676db0e108d251f8ebb937ce4f0c7a8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270081069,
-    "wof:lastmodified":1467084174,
+    "wof:lastmodified":1510941375,
     "wof:name":"Frank R Wellborne Md",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387768985
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

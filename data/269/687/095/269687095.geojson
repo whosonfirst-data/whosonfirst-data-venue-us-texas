@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.716575,31.123179,-97.716575,31.123179",
     "geom:latitude":31.123179,
     "geom:longitude":-97.716575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1408 E Rancier Ave",
     "sg:city":"Killeen",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0uAGY9LMarinpitrkHFoI7_31.123179_-97.716575@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cc6cbc7a0fce26e5dd170eb8f369abd",
+    "wof:geomhash":"f052dc4e415c5f65c5f4421d95ece233",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":269687095,
-    "wof:lastmodified":1467084590,
+    "wof:lastmodified":1510942358,
     "wof:name":"7-Eleven",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203204435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

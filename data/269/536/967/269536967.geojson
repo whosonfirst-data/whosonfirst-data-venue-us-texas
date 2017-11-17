@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.136543,33.214561,-97.136543,33.214561",
     "geom:latitude":33.214561,
     "geom:longitude":-97.136543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 W Hickory St Ste 125",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_4J8Emc5LxjNBDL6t45rLTz_33.214561_-97.136543@1303263001"
     },
     "wof:country":"US",
-    "wof:geomhash":"3267c1b1ad1e43b38302b15163fcb2ce",
+    "wof:geomhash":"70142934c5c1a3bfbacda1804a1f8ddb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":269536967,
-    "wof:lastmodified":1467084612,
+    "wof:lastmodified":1510944005,
     "wof:name":"Denton County",
     "wof:parent_id":85809683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622287907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "justice",

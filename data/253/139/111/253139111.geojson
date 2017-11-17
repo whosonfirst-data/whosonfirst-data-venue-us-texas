@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.768644,32.900383,-96.768644,32.900383",
     "geom:latitude":32.900383,
     "geom:longitude":-96.768644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11170 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_0wPHkggm73tUlxszP2Gcib_32.900383_-96.768644@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbd594111ca79113c1d55eab324a2df6",
+    "wof:geomhash":"e0ca47896bd4584238b1541f0dfd4f1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":253139111,
-    "wof:lastmodified":1467084954,
+    "wof:lastmodified":1510944150,
     "wof:name":"Studio Movie Grill",
     "wof:parent_id":85821503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253150169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

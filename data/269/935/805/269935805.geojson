@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.427657,29.801718,-95.427657,29.801718",
     "geom:latitude":29.801718,
     "geom:longitude":-95.427657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1511 W 18th St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0f1vhnE6Jcdmo0Xz1e7Qbs_29.801718_-95.427657@1303263010"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2f537e1d3ecc8823a4f56b54bafb9dd",
+    "wof:geomhash":"fd2260b1b85436dd6292b24ee7245e53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269935805,
-    "wof:lastmodified":1467084627,
+    "wof:lastmodified":1510941750,
     "wof:name":"HEB",
     "wof:parent_id":85869411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269939375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

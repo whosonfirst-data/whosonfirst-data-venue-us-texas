@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.803221,32.79446,-96.803221,32.79446",
     "geom:latitude":32.79446,
     "geom:longitude":-96.803221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Crescent Ct",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_06OSbJaplWT393t7dSYy0b_32.794460_-96.803221@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b5685dbef666c0ff6f41c76922bc649",
+    "wof:geomhash":"3a5d235590c72c22c9fbe2462fb90ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":589006121,
-    "wof:lastmodified":1467085397,
+    "wof:lastmodified":1510944106,
     "wof:name":"Holly Corp",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605350991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trader",

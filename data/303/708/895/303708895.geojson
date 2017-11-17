@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.719719,30.300167,-97.719719,30.300167",
     "geom:latitude":30.300167,
     "geom:longitude":-97.719719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hancock Shopping Center 1000 E. 41st Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3fNklHngNcVXW1e9EozLXO_30.300167_-97.719719@1303263068"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea8399d3144aa60ed5f5b759723fa6ef",
+    "wof:geomhash":"11dcdc622f7f6da282859a5a1bf9d8b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303708895,
-    "wof:lastmodified":1467083710,
+    "wof:lastmodified":1510942497,
     "wof:name":"Hancock Barber Shop",
     "wof:parent_id":85869977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186020913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

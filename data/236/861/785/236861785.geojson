@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806801,32.781502,-96.806801,32.781502",
     "geom:latitude":32.781502,
     "geom:longitude":-96.806801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 N Market St Ste 330",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4wO8ILOjAQZbkL0bRrJC8f_32.781502_-96.806801@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"808f0d9154a9792d96dec5de3978a0c3",
+    "wof:geomhash":"81704929b78331c8a00a56bedc5d5bfe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236861785,
-    "wof:lastmodified":1467084039,
+    "wof:lastmodified":1510942022,
     "wof:name":"Gammon & Collins",
     "wof:parent_id":85870313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605398813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

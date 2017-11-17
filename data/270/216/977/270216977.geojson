@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.505501,29.716299,-95.505501,29.716299",
     "geom:latitude":29.716299,
     "geom:longitude":-95.505501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6001 Savoy Dr Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7Fa72QWvOcpqx0DacvwP56_29.716299_-95.505501@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd3e15a6e887d75ba2d4f1f23fdea7c7",
+    "wof:geomhash":"1a116bbf2d9296a4a7383d1abb6c265b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270216977,
-    "wof:lastmodified":1467084222,
+    "wof:lastmodified":1510942176,
     "wof:name":"Loeser Gelfond & Assoc",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622548845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

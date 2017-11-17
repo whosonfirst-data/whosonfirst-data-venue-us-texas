@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.964095,32.818934,-96.964095,32.818934",
     "geom:latitude":32.818934,
     "geom:longitude":-96.964095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1531 W Irving Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7FFw3tvAU39tm9QIxuiHlI_32.818934_-96.964095@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0c7f896924944462fa1f05eca544218",
+    "wof:geomhash":"4eb68bf93975ddcfed53e055c8efb6e4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236336099,
-    "wof:lastmodified":1467083850,
+    "wof:lastmodified":1510941822,
     "wof:name":"Irving Animal Hospital Inc",
     "wof:parent_id":85878329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236338321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

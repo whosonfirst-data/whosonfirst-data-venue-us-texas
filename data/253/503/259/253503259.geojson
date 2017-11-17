@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.301846,32.350747,-95.301846,32.350747",
     "geom:latitude":32.350747,
     "geom:longitude":-95.301846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"214 W Erwin St",
     "sg:city":"Tyler",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_74aPN74ltt36jkbuLS7HPz_32.350747_-95.301846@1303262994"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8b625e2765782c7241bd9f99c262df2",
+    "wof:geomhash":"379c244d2fc1cf4076117789cba6712b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253503259,
-    "wof:lastmodified":1467085048,
+    "wof:lastmodified":1510942855,
     "wof:name":"T A & T Finance Corp",
     "wof:parent_id":85812207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622125995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

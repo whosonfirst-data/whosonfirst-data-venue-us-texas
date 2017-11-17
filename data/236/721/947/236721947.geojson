@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.624001,32.810699,-96.624001,32.810699",
     "geom:latitude":32.810699,
     "geom:longitude":-96.624001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1515 N Town East Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -37,10 +39,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2837157381,
         "sg:id":"SG_27TaJmQXBbLteeB2MzrDih_32.810699_-96.624001@1303262974"
     },
     "wof:country":"US",
-    "wof:geomhash":"08f41f2590cb4fc617ce17eae347ac15",
+    "wof:geomhash":"740d9db69a615dd913e3c861693b2d6c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +56,16 @@
         }
     ],
     "wof:id":236721947,
-    "wof:lastmodified":1467084039,
+    "wof:lastmodified":1510942976,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85878903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        638585309,
+        622315671
+    ],
     "wof:tags":[
         "sandwich"
     ]

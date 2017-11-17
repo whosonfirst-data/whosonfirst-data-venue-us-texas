@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744326,30.26388,-97.744326,30.26388",
     "geom:latitude":30.26388,
     "geom:longitude":-97.744326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 Congress Ave Ste 710",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_6Hvv6Z49EE9Z19pGh99Pi7_30.263880_-97.744326@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ffe001e76c604bbfcaa73c188f5c456",
+    "wof:geomhash":"596b0f1a1d34abff5e8b32e9f0f28d16",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":303242401,
-    "wof:lastmodified":1467083798,
+    "wof:lastmodified":1510942553,
     "wof:name":"Austin Business Journal",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219840599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealers-wholesale",

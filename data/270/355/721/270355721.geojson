@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.386167,29.699393,-95.386167,29.699393",
     "geom:latitude":29.699393,
     "geom:longitude":-95.386167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2803 Old Spanish Trail",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2n84bxMFWpUnS0Oql9TAfU_29.699393_-95.386167@1303263022"
     },
     "wof:country":"US",
-    "wof:geomhash":"26233bf1a238f10549f8b4acb5677a45",
+    "wof:geomhash":"f080ef85ccb816b332f8ae856a8a7d4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":270355721,
-    "wof:lastmodified":1467084171,
+    "wof:lastmodified":1510943215,
     "wof:name":"Subway",
     "wof:parent_id":85849809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638592583
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

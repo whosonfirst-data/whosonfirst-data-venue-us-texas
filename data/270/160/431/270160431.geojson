@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401098,29.709709,-95.401098,29.709709",
     "geom:latitude":29.709709,
     "geom:longitude":-95.401098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1709 Dryden Rd Ste 900",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5ixbCIzk4bgdeSX8GNf3Sg_29.709709_-95.401098@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1162b22c460346378c31917ffdc455c",
+    "wof:geomhash":"351309a6a3c0f7593f2803bf6f477bd6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,16 @@
         }
     ],
     "wof:id":270160431,
-    "wof:lastmodified":1467084217,
+    "wof:lastmodified":1510944199,
     "wof:name":"Baylor College of Medicine",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270160529,
+        622345493,
+        270161257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

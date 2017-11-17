@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773362,32.91145,-96.773362,32.91145",
     "geom:latitude":32.91145,
     "geom:longitude":-96.773362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7777 Forest Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1n2kDopLDcOCEyfURQ9EtM_32.911450_-96.773362@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e1f9c13511a0dce2146781affd6f077",
+    "wof:geomhash":"94bd0921e7613a0ff3944880d11b729f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":252970239,
-    "wof:lastmodified":1467084107,
+    "wof:lastmodified":1510941935,
     "wof:name":"Medical City",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252973891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

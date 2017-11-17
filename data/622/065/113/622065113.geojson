@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.423783,29.73411,-95.423783,29.73411",
     "geom:latitude":29.73411,
     "geom:longitude":-95.423783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3000 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_53qSGiZLHVTH5KNzke8QMF_29.734110_-95.423783@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2472dd0b82521e5bb2fd5ec7ddc5c537",
+    "wof:geomhash":"2e343a1a0b6941e4e9b047701d709667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,13 +57,17 @@
         }
     ],
     "wof:id":622065113,
-    "wof:lastmodified":1467086560,
+    "wof:lastmodified":1510941468,
     "wof:name":"BSA Architects Inc",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622825653
+    ],
+    "wof:supersedes":[
+        286437191
+    ],
     "wof:tags":[
         "building",
         "designer"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.051461,28.024602,-97.051461,28.024602",
     "geom:latitude":28.024602,
     "geom:longitude":-97.051461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"208 N Magnolia St",
     "sg:city":"Rockport",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2k64rjpS7Cx7vgkcUYVoas_28.024602_-97.051461@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fcd3e913309627b827d9c2e1867d3b8",
+    "wof:geomhash":"85963126b645de50ed6b824c78c7438b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287231155,
-    "wof:lastmodified":1467083833,
+    "wof:lastmodified":1510942154,
     "wof:name":"Bombay Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588787723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.461304,29.7409,-95.461304,29.7409",
     "geom:latitude":29.7409,
     "geom:longitude":-95.461304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 Westheimer Rd Ste 100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6ucHbuCUZ9kehu5d0JZUyu_29.740900_-95.461304@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6b37fe7a68e0f45f42c00605aa16c9f",
+    "wof:geomhash":"4a1f60570e44081113913bfda4feeaff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270391035,
-    "wof:lastmodified":1467084202,
+    "wof:lastmodified":1510941305,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605842901
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"

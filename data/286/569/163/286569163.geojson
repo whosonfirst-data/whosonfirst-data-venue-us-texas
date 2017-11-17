@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.493278,30.051719,-95.493278,30.051719",
     "geom:latitude":30.051719,
     "geom:longitude":-95.493278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19402 Kuykendahl Rd",
     "sg:city":"Spring",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_5X3bAglBYWEps4VKAfRRff_30.051719_-95.493278@1303263034"
     },
     "wof:country":"US",
-    "wof:geomhash":"8618f6300ff08aa679418c49778eb328",
+    "wof:geomhash":"d401a5c37ee7d489e437dc94f5f401bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":286569163,
-    "wof:lastmodified":1467084314,
+    "wof:lastmodified":1510941949,
     "wof:name":"Elkin Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622596063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

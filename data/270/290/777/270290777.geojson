@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.548882,29.725913,-95.548882,29.725913",
     "geom:latitude":29.725913,
     "geom:longitude":-95.548882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3535 Briarpark Dr Ste 240",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4m5K5gCXplvv10czV3AsNl_29.725913_-95.548882@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f9b61487212927e2a0f45eb8bcd94c2",
+    "wof:geomhash":"757c66d1918e2e5d5c25e33f6caa7b45",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270290777,
-    "wof:lastmodified":1467084184,
+    "wof:lastmodified":1510941987,
     "wof:name":"Houston 1000",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622514741
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"

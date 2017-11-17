@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74279,30.295418,-97.74279,30.295418",
     "geom:latitude":30.295418,
     "geom:longitude":-97.74279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2904 Guadalupe St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_285gG4LCigZ4ijvxlTsthp_30.295418_-97.742790@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"38b6786f7adeec880b5f546efcd9aaaa",
+    "wof:geomhash":"faee5bd6471ca26ce9ee0dfeeadd5a46",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303354107,
-    "wof:lastmodified":1467083799,
+    "wof:lastmodified":1510942622,
     "wof:name":"Buffalo Exchange",
     "wof:parent_id":85869911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622819309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

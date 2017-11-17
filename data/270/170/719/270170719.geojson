@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.399902,29.7111,-95.399902,29.7111",
     "geom:latitude":29.7111,
     "geom:longitude":-95.399902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6550 Fannin St Ste 2123",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3NBdiCn1dMyKOaXQ0LklZQ_29.711100_-95.399902@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"61de08aa410df7d760fce54ea2b4ac9f",
+    "wof:geomhash":"f3da136e25611e1c3db4ef2f25a831e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270170719,
-    "wof:lastmodified":1467084157,
+    "wof:lastmodified":1510942625,
     "wof:name":"Attar Mohammed MD",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605775093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"

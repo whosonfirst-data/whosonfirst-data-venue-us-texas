@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.343497,32.525172,-97.343497,32.525172",
     "geom:latitude":32.525172,
     "geom:longitude":-97.343497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1161 SW Wilshire Blvd",
     "sg:city":"Burleson",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7b6whIZcywjISuJILdU9hC_32.525172_-97.343497@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"95467d6a7e053219df23aa4efe35bc9a",
+    "wof:geomhash":"5b505b468fa103d42b9eedabb29bab77",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":404106769,
-    "wof:lastmodified":1467084640,
+    "wof:lastmodified":1510942349,
     "wof:name":"Burleson Eye Institute Inc",
     "wof:parent_id":85844281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253677319
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

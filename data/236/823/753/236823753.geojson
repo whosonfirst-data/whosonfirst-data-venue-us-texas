@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7966,32.784698,-96.7966,32.784698",
     "geom:latitude":32.784698,
     "geom:longitude":-96.7966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2001 Bryan St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_64xb4EtUd0OwY6JmkaVmA0_32.784698_-96.796600@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"46794288d008827fcf38db8e48c8f336",
+    "wof:geomhash":"24504caed4cb029f4917805d93a025aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236823753,
-    "wof:lastmodified":1467084038,
+    "wof:lastmodified":1510941886,
     "wof:name":"Monster Legal",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589268717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

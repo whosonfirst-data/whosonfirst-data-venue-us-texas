@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.848801,32.856998,-96.848801,32.856998",
     "geom:latitude":32.856998,
     "geom:longitude":-96.848801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8611 Lemmon Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6wPf0BM7Yz3Ggbrlkcc5jt_32.856998_-96.848801@1303262980"
     },
     "wof:country":"US",
-    "wof:geomhash":"abb159861bac5c1793489b050e2e1f85",
+    "wof:geomhash":"71f30f320c0ca3ee31275fce821e929e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252710719,
-    "wof:lastmodified":1467084051,
+    "wof:lastmodified":1510944080,
     "wof:name":"DD Sedan Service",
     "wof:parent_id":85870475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605810091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "limo"

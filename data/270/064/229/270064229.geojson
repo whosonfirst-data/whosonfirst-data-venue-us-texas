@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.518799,29.783701,-95.518799,29.783701",
     "geom:latitude":29.783701,
     "geom:longitude":-95.518799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9225 Katy Fwy Ste 108",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5XroEO2TmLIQngSxNQY3sY_29.783701_-95.518799@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad65022d4c5e375c1ab373cfc6f57753",
+    "wof:geomhash":"c518f34dad58010d572460dfaa822c02",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270064229,
-    "wof:lastmodified":1467084178,
+    "wof:lastmodified":1510941524,
     "wof:name":"Attorney Calnan",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622645095
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

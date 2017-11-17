@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.561856,29.746542,-95.561856,29.746542",
     "geom:latitude":29.746542,
     "geom:longitude":-95.561856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 Citywest Blvd Ste 460",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2lWvdnv82n9EunOKRVtfGK_29.746542_-95.561856@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"90b52bde5182ff48be9a0e033bdc9491",
+    "wof:geomhash":"2fdf794b2b243edb13b3143775ba4f41",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270292259,
-    "wof:lastmodified":1467084156,
+    "wof:lastmodified":1510942676,
     "wof:name":"W R Starkey Mortgage",
     "wof:parent_id":85869141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605752655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

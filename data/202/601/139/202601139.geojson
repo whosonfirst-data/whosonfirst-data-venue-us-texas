@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.065927,32.919262,-97.065927,32.919262",
     "geom:latitude":32.919262,
     "geom:longitude":-97.065927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"751 Port America Pl",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2lfzgdoQXs1XrZkWUsv3dt_32.919262_-97.065927@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ce03e4ca1fdcc8de67c4382a476fa1f",
+    "wof:geomhash":"503389913e6342dcf827cf865cb6114e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":202601139,
-    "wof:lastmodified":1467084912,
+    "wof:lastmodified":1510941314,
     "wof:name":"Clare Freight International",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622462759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "a",

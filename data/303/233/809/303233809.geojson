@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742131,30.270068,-97.742131,30.270068",
     "geom:latitude":30.270068,
     "geom:longitude":-97.742131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"816 Congress Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6sTL8ko2tWkc3bqJEeRwr4_30.270068_-97.742131@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"0483be146a87d928ae50c1fb561428f0",
+    "wof:geomhash":"560346ba728d801bded963fa1a525226",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303233809,
-    "wof:lastmodified":1467083815,
+    "wof:lastmodified":1510943868,
     "wof:name":"Contract Network",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236304543
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

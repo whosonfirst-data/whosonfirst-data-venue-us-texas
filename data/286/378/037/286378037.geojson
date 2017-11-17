@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.468102,29.813601,-95.468102,29.813601",
     "geom:latitude":29.813601,
     "geom:longitude":-95.468102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5400 Mitchelldale St Ste B9",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6Lv3Eeo62pGa89WWuWHgbP_29.813601_-95.468102@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9d6d6457b63a2ce4a28110dca1f896b",
+    "wof:geomhash":"e9167191db505d4eb3c44321de130071",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":286378037,
-    "wof:lastmodified":1467084292,
+    "wof:lastmodified":1510942445,
     "wof:name":"Craven Carpet Inc",
     "wof:parent_id":85869561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370418293
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.790688,32.812481,-96.790688,32.812481",
     "geom:latitude":32.812481,
     "geom:longitude":-96.790688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4040 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_13hvFWVV2FseIssfrIyuj9_32.812481_-96.790688@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"a570e576c1e8f9ac892672885549cc4e",
+    "wof:geomhash":"69d55b13320cffc7096d3a45745ae9f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236870427,
-    "wof:lastmodified":1467083901,
+    "wof:lastmodified":1510943655,
     "wof:name":"Pulse Systems",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622543065
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

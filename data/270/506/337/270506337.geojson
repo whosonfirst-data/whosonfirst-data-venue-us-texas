@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.577343,29.703739,-95.577343,29.703739",
     "geom:latitude":29.703739,
     "geom:longitude":-95.577343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11205 Bellaire Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_34lpJQmHVYNajxMJTPPzDK_29.703739_-95.577343@1303263026"
     },
     "wof:country":"US",
-    "wof:geomhash":"57859eb8550d6a0eb064f759d8f8147c",
+    "wof:geomhash":"7deba023a042acb1f98b2d09940d64c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270506337,
-    "wof:lastmodified":1467084152,
+    "wof:lastmodified":1510941682,
     "wof:name":"Expo Beauty Salon",
     "wof:parent_id":85805421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605203501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

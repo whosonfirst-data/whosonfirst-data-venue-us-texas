@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.606363,29.781235,-95.606363,29.781235",
     "geom:latitude":29.781235,
     "geom:longitude":-95.606363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1160 Dairy Ashford St Ste 140",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4nOvBLeZ2hHHwzQKIsC5pF_29.781235_-95.606363@1303263028"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c6872f594c36a59165c05b153b55916",
+    "wof:geomhash":"baaee8fa28929fb0bf4c41497e5d828a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286283999,
-    "wof:lastmodified":1467084260,
+    "wof:lastmodified":1510943421,
     "wof:name":"Lineal Mortgage",
     "wof:parent_id":85885361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253016963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"

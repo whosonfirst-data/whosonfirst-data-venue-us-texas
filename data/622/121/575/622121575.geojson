@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.369947,32.747662,-97.369947,32.747662",
     "geom:latitude":32.747662,
     "geom:longitude":-97.369947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Camp Bowie Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_21qQgHChCWrbJUqNUQ5zL4_32.747662_-97.369947@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"389ab6c08200cc62f2b963f5e3f99a3e",
+    "wof:geomhash":"5892cc35eb8041dd6397974eb8850790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":622121575,
-    "wof:lastmodified":1467086600,
+    "wof:lastmodified":1510942827,
     "wof:name":"Unt Health Science Center",
     "wof:parent_id":85867233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589296211
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.833368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6121 W Park Blvd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -40,12 +41,14 @@
     "wof:geomhash":"69fd4cb277aaa8570c0d1f59b551264d",
     "wof:hierarchy":[],
     "wof:id":638584969,
-    "wof:lastmodified":1510697192,
+    "wof:lastmodified":1510944180,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236558381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

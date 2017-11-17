@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.679904,30.65315,-97.679904,30.65315",
     "geom:latitude":30.65315,
     "geom:longitude":-97.679904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1501 Park Ln #101",
     "sg:city":"Georgetown",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7ddNOgP7R1SmzTc2WOz2wT_30.653150_-97.679904@1303263050"
     },
     "wof:country":"US",
-    "wof:geomhash":"69e8ca400f58ad7cbe02f33902af3ce7",
+    "wof:geomhash":"6a30a90c7ef5b80fc9864a9050cb5659",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303130437,
-    "wof:lastmodified":1467083734,
+    "wof:lastmodified":1510941355,
     "wof:name":"Brooklyn Pie Co",
     "wof:parent_id":85894501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605202527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

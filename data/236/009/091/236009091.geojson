@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.825944,32.961661,-96.825944,32.961661",
     "geom:latitude":32.961661,
     "geom:longitude":-96.825944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15615 Quorum Dr",
     "sg:city":"Addison",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1sGQAmmw3w7uKAw5BDRgS4_32.961661_-96.825944@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e12dfb6da3eb834a1315c62fc96d8c3",
+    "wof:geomhash":"17fd0fedb24e2ccd77330de5b45a2d65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":236009091,
-    "wof:lastmodified":1467084036,
+    "wof:lastmodified":1510944029,
     "wof:name":"Greenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622853861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

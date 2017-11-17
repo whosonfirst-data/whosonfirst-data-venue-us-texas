@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.239348,33.658882,-101.239348,33.658882",
     "geom:latitude":33.658882,
     "geom:longitude":-101.239348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 W Aspen St",
     "sg:city":"Crosbyton",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1nQcltFue3Ueiq3ydvgvYr_33.658882_-101.239348@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd55454ea6fcf83dd8e84ff229f2ec01",
+    "wof:geomhash":"7fc9aa8e6c601bcf45e9f520d98cb351",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":185759081,
-    "wof:lastmodified":1467084140,
+    "wof:lastmodified":1510943558,
     "wof:name":"Crosby County Auditor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588987213
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

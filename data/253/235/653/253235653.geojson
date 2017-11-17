@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.719485,30.376846,-97.719485,30.376846",
     "geom:latitude":30.376846,
     "geom:longitude":-97.719485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2222 W Rundberg Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3jZbV1y4IpFft496mPEmwy_30.376846_-97.719485@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"caa135c9bc56fc8f958faf3d9f9d6a63",
+    "wof:geomhash":"71bc3963b4116953798cb18dcfc76d51",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":253235653,
-    "wof:lastmodified":1467084963,
+    "wof:lastmodified":1510944172,
     "wof:name":"Touch International Inc",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303785241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parts",

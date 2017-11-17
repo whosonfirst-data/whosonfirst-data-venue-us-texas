@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.901398,32.953602,-96.901398,32.953602",
     "geom:latitude":32.953602,
     "geom:longitude":-96.901398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1514 E Belt Line Rd Ste 111",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7MEtMcHzNcEn8cIvxVfPqm_32.953602_-96.901398@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"80af099190126c0df1bd84aef8291583",
+    "wof:geomhash":"e2889209c5b7c22458bb01555eccbe8c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236046761,
-    "wof:lastmodified":1467083956,
+    "wof:lastmodified":1510941238,
     "wof:name":"Contact Lens Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605308339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

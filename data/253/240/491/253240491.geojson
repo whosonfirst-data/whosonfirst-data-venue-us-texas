@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.804199,32.983898,-96.804199,32.983898",
     "geom:latitude":32.983898,
     "geom:longitude":-96.804199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17062 Preston Rd Ste 130",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0HiPfOL4VHggNQlXBGlvR0_32.983898_-96.804199@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae61459c950876dd4cd3839ebd886ecf",
+    "wof:geomhash":"71e9c2d44254648f15a482318177feaf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":253240491,
-    "wof:lastmodified":1467084955,
+    "wof:lastmodified":1510941438,
     "wof:name":"Cookie's In Bloom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253242845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

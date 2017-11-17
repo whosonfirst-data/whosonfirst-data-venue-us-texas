@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.958507,32.902061,-96.958507,32.902061",
     "geom:latitude":32.902061,
     "geom:longitude":-96.958507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6750 N MacArthur Blvd Ste 100",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5QKYluRuUJTvzbDHU1O5we_32.902061_-96.958507@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"8172ff23518ba6e06df287bfc586cebe",
+    "wof:geomhash":"b8954a2c36aa822dc3f62bb00fe5bedc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,15 @@
         }
     ],
     "wof:id":236210087,
-    "wof:lastmodified":1467083915,
+    "wof:lastmodified":1510943568,
     "wof:name":"Las Colinas Physicians Office",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622249431,
+        236210447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

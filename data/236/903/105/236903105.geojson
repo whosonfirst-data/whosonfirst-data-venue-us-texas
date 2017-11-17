@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806359,32.83613,-96.806359,32.83613",
     "geom:latitude":32.83613,
     "geom:longitude":-96.806359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21 Highland Park Vlg",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4J7hUhgpK0KYOpXwF3YI3c_32.836130_-96.806359@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"e59788d1f6992c33a0911dee4e7eac71",
+    "wof:geomhash":"4ac5275a00be827f9893a44943731d2e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":236903105,
-    "wof:lastmodified":1467083865,
+    "wof:lastmodified":1510942374,
     "wof:name":"Hermes of Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622542559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

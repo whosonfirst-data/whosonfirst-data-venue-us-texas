@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.557511,29.397622,-98.557511,29.397622",
     "geom:latitude":29.397622,
     "geom:longitude":-98.557511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1846 S General Mcmullen Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1Knj1g3Urt6lxCGJLBfLiX_29.397622_-98.557511@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"35e46ec5c5eaa367077faec688d1dbb8",
+    "wof:geomhash":"2a217e99e598517309e16a11d444acc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638599123,
-    "wof:lastmodified":1467087341,
+    "wof:lastmodified":1510943969,
     "wof:name":"McDonald's",
     "wof:parent_id":85871085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589218127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80191,32.780861,-96.80191,32.780861",
     "geom:latitude":32.780861,
     "geom:longitude":-96.80191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Elm St Ste 5400",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2apekLC5HDcKEHIgx4Tb9u_32.780861_-96.801910@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"81318d099154596c97d66d95d18ce706",
+    "wof:geomhash":"fc9ad80824a743e45a9204e5f3ea5c85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253306433,
-    "wof:lastmodified":1467085042,
+    "wof:lastmodified":1510943306,
     "wof:name":"Bruce W Bowman Jr",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589295411
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

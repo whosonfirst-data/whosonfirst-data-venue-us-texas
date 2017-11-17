@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.231688,26.193458,-98.231688,26.193458",
     "geom:latitude":26.193458,
     "geom:longitude":-98.231688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 S 10th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6ZVToyewuWykgqYGjfwNuo_26.193458_-98.231688@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1428f6ab70a0e230bb76b7bb4db21828",
+    "wof:geomhash":"edc0a059581f50ab4044d94f0d02da56",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":403977737,
-    "wof:lastmodified":1467084781,
+    "wof:lastmodified":1510944021,
     "wof:name":"Little Caesars Pizza",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638600357
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

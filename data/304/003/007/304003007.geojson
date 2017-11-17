@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.887966,33.587595,-101.887966,33.587595",
     "geom:latitude":33.587595,
     "geom:longitude":-101.887966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3502 9th St Suite 350",
     "sg:city":"Lubbock",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0yQXxtTVMacQwNms7oeSkF_33.587595_-101.887966@1303263076"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b2ec3083f12261ccbffeb9893cca03e",
+    "wof:geomhash":"356e2662ab4eb74e9cad17e163215f58",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":304003007,
-    "wof:lastmodified":1467084670,
+    "wof:lastmodified":1510944087,
     "wof:name":"Mark Dorsett Md",
     "wof:parent_id":85893809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404077807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

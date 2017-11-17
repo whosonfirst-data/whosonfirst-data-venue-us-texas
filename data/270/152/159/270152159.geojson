@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.408981,29.701241,-95.408981,29.701241",
     "geom:latitude":29.701241,
     "geom:longitude":-95.408981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7401 Main St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_2I2OAx7FAvPrM1PqKCWBCE_29.701241_-95.408981@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"04af27b87a5677acf3f0d0258a9f5aa5",
+    "wof:geomhash":"f663f81e87de2f107e8c2fdee8593bac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":270152159,
-    "wof:lastmodified":1467084211,
+    "wof:lastmodified":1510943710,
     "wof:name":"Texas Orthopedic Hospital",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622825523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

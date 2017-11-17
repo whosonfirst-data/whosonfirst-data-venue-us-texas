@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805382,33.094594,-96.805382,33.094594",
     "geom:latitude":33.094594,
     "geom:longitude":-96.805382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8724 Preston Rd",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -37,10 +39,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":259565918,
         "sg:id":"SG_2Zfp0Vlb3DrrUwkAtotcXE_33.094594_-96.805382@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"02b006ec3ea85791ee70f9b3299ef3f3",
+    "wof:geomhash":"b35361641a50de6abdd6b02a788894f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +56,15 @@
         }
     ],
     "wof:id":622747693,
-    "wof:lastmodified":1467087169,
+    "wof:lastmodified":1510942804,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        638582983
+    ],
     "wof:tags":[
         "eating"
     ]

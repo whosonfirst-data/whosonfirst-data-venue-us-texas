@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.524002,29.6791,-95.524002,29.6791",
     "geom:latitude":29.6791,
     "geom:longitude":-95.524002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8300 Bissonnet St Ste 350",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7QVtTSYvZmOWQ6pKm3Wbz0_29.679100_-95.524002@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"101bf91de5f2f2fda0f432a2ae518657",
+    "wof:geomhash":"ac8a7adfa60c0fc7731331339ebe391c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270528913,
-    "wof:lastmodified":1467084170,
+    "wof:lastmodified":1510944080,
     "wof:name":"Tristar Fuel Distributors",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605683487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

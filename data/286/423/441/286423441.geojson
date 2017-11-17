@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.426755,29.733941,-95.426755,29.733941",
     "geom:latitude":29.733941,
     "geom:longitude":-95.426755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3311 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2smq4SOyCNJSv52hB9jxjk_29.733941_-95.426755@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"190aaf56f226e7e7889af4c68b2202a6",
+    "wof:geomhash":"2ed94c43023c5a33da1bf0e4e9180117",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":286423441,
-    "wof:lastmodified":1467084249,
+    "wof:lastmodified":1510943917,
     "wof:name":"M Stevens Custom Clothier",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588807487
+    ],
+    "wof:supersedes":[
+        286419387
+    ],
     "wof:tags":[
         "made",
         "alterations-clothing",

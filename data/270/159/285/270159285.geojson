@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.400002,29.710699,-95.400002,29.710699",
     "geom:latitude":29.710699,
     "geom:longitude":-95.400002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6565 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6HNZrkSCvJwnZHLnKuRq4y_29.710699_-95.400002@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"57ece76fb436f02e2a9a075ef58cf9ff",
+    "wof:geomhash":"f247d24294cec97e79d1fd6d9d9b97bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270159285,
-    "wof:lastmodified":1467084160,
+    "wof:lastmodified":1510943370,
     "wof:name":"Ballantyne Christie M MD",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622178225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

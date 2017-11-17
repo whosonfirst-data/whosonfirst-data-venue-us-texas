@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.481062,29.76393,-95.481062,29.76393",
     "geom:latitude":29.76393,
     "geom:longitude":-95.481062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 Bering Dr Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6yX6LBOeWiMikHtcV2mGcx_29.763930_-95.481062@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"5315f96171dda65a79980122892e75c4",
+    "wof:geomhash":"0e7b54d9b8834ff1dfc2e2fd38c94462",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270410227,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510941648,
     "wof:name":"Be Bilingual Inc",
     "wof:parent_id":85893787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622108643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

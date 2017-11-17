@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.573033,34.097083,-98.573033,34.097083",
     "geom:latitude":34.097083,
     "geom:longitude":-98.573033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"208 E 3rd St",
     "sg:city":"Burkburnett",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3S1h7TPRo5MIzwytVeg9d7_34.097083_-98.573033@1303263002"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d7171caac998dce46e71aa2d59ddf8a",
+    "wof:geomhash":"22f38501144f5ae00d9f8c33a7c06a13",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269607689,
-    "wof:lastmodified":1467084580,
+    "wof:lastmodified":1510941167,
     "wof:name":"Sofia's Burritos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622723757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

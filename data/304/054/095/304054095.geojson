@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.762483,32.450784,-99.762483,32.450784",
     "geom:latitude":32.450784,
     "geom:longitude":-99.762483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3241 S 1st St Ste 15",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4Q1BXC1YsM6PP72iZuQn5H_32.450784_-99.762483@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"01cec30ba9ec3e0830f666e3eab53f2b",
+    "wof:geomhash":"557e580df2d3bb161ae460e7f75ae641",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":304054095,
-    "wof:lastmodified":1467084664,
+    "wof:lastmodified":1510944043,
     "wof:name":"Burro Alley Hair",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622733323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

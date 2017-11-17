@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.802299,32.815201,-96.802299,32.815201",
     "geom:latitude":32.815201,
     "geom:longitude":-96.802299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3838 Oak Lawn Ave Ste 910",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5Dt4ljnJ8PbYneCdQMvVaU_32.815201_-96.802299@1303262982"
     },
     "wof:country":"US",
-    "wof:geomhash":"36783d46fe8a3fff0f27e13906e658e5",
+    "wof:geomhash":"f86450da162e866e6d9ce44b15a86bb8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252833017,
-    "wof:lastmodified":1467084055,
+    "wof:lastmodified":1510943606,
     "wof:name":"Danny Looney Inc",
     "wof:parent_id":85870443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589161037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

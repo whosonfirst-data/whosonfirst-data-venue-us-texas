@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.535004,31.832399,-106.535004,31.832399",
     "geom:latitude":31.832399,
     "geom:longitude":-106.535004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6330 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0oFB3J6awF3OWqZjc3XOTw_31.832399_-106.535004@1303263079"
     },
     "wof:country":"US",
-    "wof:geomhash":"4df1aaf13ec78c97b90b0d6d86056f3c",
+    "wof:geomhash":"509ecd7b0627e4240a8642aff0ea7689",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":319858881,
-    "wof:lastmodified":1467084379,
+    "wof:lastmodified":1510941938,
     "wof:name":"M & M Children's Day Care",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605428215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "day"

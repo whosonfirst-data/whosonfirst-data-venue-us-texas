@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.792537,32.816579,-96.792537,32.816579",
     "geom:latitude":32.816579,
     "geom:longitude":-96.792537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3209 N Fitzhugh Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_272MLsG3I5B2JHiRNTXiAv_32.816579_-96.792537@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4ba4de6a0d9662889f77f28b44650eb",
+    "wof:geomhash":"c89479f3d882e2c3842a655ed02c4eed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236871529,
-    "wof:lastmodified":1467083913,
+    "wof:lastmodified":1510943948,
     "wof:name":"Sigels",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236892121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

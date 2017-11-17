@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.728006,32.953316,-96.728006,32.953316",
     "geom:latitude":32.953316,
     "geom:longitude":-96.728006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 N Greenville Ave",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0p9x3jeFZMF88b7Seu4H4s_32.953316_-96.728006@1303262970"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2f77079518fa69301e96947887cd360",
+    "wof:geomhash":"67f2fe99843f845c3d8857474eac59dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236478149,
-    "wof:lastmodified":1467083860,
+    "wof:lastmodified":1510942561,
     "wof:name":"Jeng Chi Restaurant",
     "wof:parent_id":85880195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622590729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"

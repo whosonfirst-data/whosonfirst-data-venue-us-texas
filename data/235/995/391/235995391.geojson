@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.830454,32.973641,-96.830454,32.973641",
     "geom:latitude":32.973641,
     "geom:longitude":-96.830454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16415 Addison Rd Ste 135",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1kiWmF7GakEB15mby6t8C1_32.973641_-96.830454@1303262961"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e893781fc8aa7a4843a6b4604f41d7d",
+    "wof:geomhash":"c937f308a2bba31e21efaa22adc31c2a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":235995391,
-    "wof:lastmodified":1467084148,
+    "wof:lastmodified":1510943250,
     "wof:name":"Addison Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588947797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

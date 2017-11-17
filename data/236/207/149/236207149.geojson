@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.93777,32.894505,-96.93777,32.894505",
     "geom:latitude":32.894505,
     "geom:longitude":-96.93777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6311 N O Connor Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1ldZHMdVdxNgCHx4Z4P9xw_32.894505_-96.937770@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"d11477352b9199b905e93ce6b6f59a42",
+    "wof:geomhash":"fd38a00b2bcfd8426ac4f55ab282c74d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236207149,
-    "wof:lastmodified":1467083982,
+    "wof:lastmodified":1510943223,
     "wof:name":"Silverton Auto",
     "wof:parent_id":85878321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403756193
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealers-used",

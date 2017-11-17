@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.549928,33.768285,-96.549928,33.768285",
     "geom:latitude":33.768285,
     "geom:longitude":-96.549928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1014 Memorial Dr Ste 208",
     "sg:city":"Denison",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_56WDZjL0OOYQKDYjvO0FiY_33.768285_-96.549928@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef52c996b8f50a56bdced13e7bd58bfd",
+    "wof:geomhash":"b53d034eb29cf4fc44a6bb2f7a10797a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236149149,
-    "wof:lastmodified":1467083854,
+    "wof:lastmodified":1510943195,
     "wof:name":"Mark E Dickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387274169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

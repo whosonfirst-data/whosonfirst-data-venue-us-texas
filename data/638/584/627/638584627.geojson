@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.747655,32.962232,-96.747655,32.962232",
     "geom:latitude":32.962232,
     "geom:longitude":-96.747655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"819 W Arapaho Rd",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1AxHkhLkdoPEUJutbbWV94_32.962232_-96.747655@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"96900927124bd3f20df7bef748d67140",
+    "wof:geomhash":"61d84206fa0c9c5a8878919ae8477b75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,15 @@
         }
     ],
     "wof:id":638584627,
-    "wof:lastmodified":1467087320,
+    "wof:lastmodified":1510944162,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85880183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622813057,
+        605413763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

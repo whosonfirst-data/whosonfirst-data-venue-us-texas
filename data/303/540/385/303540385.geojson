@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.952431,30.31967,-97.952431,30.31967",
     "geom:latitude":30.31967,
     "geom:longitude":-97.952431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 Ranch Road 620 S",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4J8fvFY2npbUmL8dIpUENB_30.319670_-97.952431@1303263063"
     },
     "wof:country":"US",
-    "wof:geomhash":"771f259b255e005a2d59387e01ba64cd",
+    "wof:geomhash":"fd996c67756c157b9c2951a50f4c3ea5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":303540385,
-    "wof:lastmodified":1467083739,
+    "wof:lastmodified":1510944124,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":85869973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638601901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

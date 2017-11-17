@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.829201,32.690701,-96.829201,32.690701",
     "geom:latitude":32.690701,
     "geom:longitude":-96.829201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4515 Village Fair Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_22icHXBGnHmL6LL9339rk0_32.690701_-96.829201@1303262982"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca86a16059a4a31ee172f19fcd6c08b9",
+    "wof:geomhash":"833cec4fa7538260508daa96f773d702",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252857505,
-    "wof:lastmodified":1467084086,
+    "wof:lastmodified":1510941838,
     "wof:name":"Que Jewelry",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589274089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

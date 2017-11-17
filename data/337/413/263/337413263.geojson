@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.484504,29.738866,-95.484504,29.738866",
     "geom:latitude":29.738866,
     "geom:longitude":-95.484504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2650 Fountain View Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5DN0Ucxz1CcTndz4k97FyM_29.738866_-95.484504@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2dba12d4990cc30874fc68cde8d7ade",
+    "wof:geomhash":"cb03845511fa91707b56e1084bd1afdb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":337413263,
-    "wof:lastmodified":1467084428,
+    "wof:lastmodified":1510943652,
     "wof:name":"LA Hacienda Treatment Ctr",
     "wof:parent_id":85807317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270411125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

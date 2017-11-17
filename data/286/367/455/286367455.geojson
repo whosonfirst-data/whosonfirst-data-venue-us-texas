@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.454344,29.86347,-95.454344,29.86347",
     "geom:latitude":29.86347,
     "geom:longitude":-95.454344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 W Little York Rd",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_23RTWqEf5I8hObJzzxo8S4_29.863470_-95.454344@1303263030"
     },
     "wof:country":"US",
-    "wof:geomhash":"b17197c417c31d017b6135f77134482d",
+    "wof:geomhash":"ffa39617079003ee71417a1e50bf477d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286367455,
-    "wof:lastmodified":1467084285,
+    "wof:lastmodified":1510941453,
     "wof:name":"Little York Villas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605964533
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

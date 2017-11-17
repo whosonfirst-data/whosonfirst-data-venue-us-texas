@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.477203,29.738001,-95.477203,29.738001",
     "geom:latitude":29.738001,
     "geom:longitude":-95.477203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5718 Westheimer Rd Ste 2100",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6uAyOnqHHrKZBO46TXJ5ZU_29.738001_-95.477203@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"a06a8763080ff6a3ec044724e2c39bb6",
+    "wof:geomhash":"10a0315c67c2b6a698e202a3d57cd1b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270418807,
-    "wof:lastmodified":1467084212,
+    "wof:lastmodified":1510941898,
     "wof:name":"Arruth Associates Inc",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589235965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

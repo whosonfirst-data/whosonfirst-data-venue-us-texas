@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.502531,29.714396,-95.502531,29.714396",
     "geom:latitude":29.714396,
     "geom:longitude":-95.502531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6776 Southwest Fwy Ste 210",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1QLIAbtTyhVfxlBTS6L2ae_29.714396_-95.502531@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"c38812a1558f9141b2428f1d71912505",
+    "wof:geomhash":"25c21561319f7fc52d0884c542d74135",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270515995,
-    "wof:lastmodified":1467084168,
+    "wof:lastmodified":1510943576,
     "wof:name":"Coker Law Firm",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605323081
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

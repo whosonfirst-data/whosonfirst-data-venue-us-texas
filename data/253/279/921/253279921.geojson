@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.81792,32.95339,-96.81792,32.95339",
     "geom:latitude":32.95339,
     "geom:longitude":-96.81792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5290 Belt Line Rd Ste 132",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6mHQLMifTc3Qwgr5vNXFiZ_32.953390_-96.817920@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"48fde8bae22736f68ffc6e6e96e436b2",
+    "wof:geomhash":"14a8f1a0a2afc98cf18b0ff7936e5116",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253279921,
-    "wof:lastmodified":1467084991,
+    "wof:lastmodified":1510943937,
     "wof:name":"Momo's Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589101613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

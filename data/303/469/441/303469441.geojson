@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.75018,30.352143,-97.75018,30.352143",
     "geom:latitude":30.352143,
     "geom:longitude":-97.75018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3410 Far West Boulevard Suite 140",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -65,7 +68,7 @@
         "sg:id":"SG_0h2Fd69cSOgOQW8xJAxrno_30.352143_-97.750180@1303263061"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2c35108ec9a76336d72b7f9cbd899e5",
+    "wof:geomhash":"4382ec17815715f4ef393d8d860e691b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -78,12 +81,14 @@
         }
     ],
     "wof:id":303469441,
-    "wof:lastmodified":1467083816,
+    "wof:lastmodified":1510941498,
     "wof:name":"Eye Clinic of Austin",
     "wof:parent_id":85893551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588834271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

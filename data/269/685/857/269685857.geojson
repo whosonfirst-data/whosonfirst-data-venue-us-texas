@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.735086,31.118734,-97.735086,31.118734",
     "geom:latitude":31.118734,
     "geom:longitude":-97.735086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"505 W Veterans Memorial Blvd",
     "sg:city":"Killeen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4hIPydHFeNonyV2YNBv5tf_31.118734_-97.735086@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"179a4d4549e345fc154ea4230c37df64",
+    "wof:geomhash":"0313d6a2ea58f8ba2041d2fd58f6ea1a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269685857,
-    "wof:lastmodified":1467084636,
+    "wof:lastmodified":1510941632,
     "wof:name":"K Town Motors",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589269479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

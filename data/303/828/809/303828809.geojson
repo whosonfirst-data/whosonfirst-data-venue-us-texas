@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.777577,30.396323,-97.777577,30.396323",
     "geom:latitude":30.396323,
     "geom:longitude":-97.777577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6607 Spicewood Springs Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7JkKt6rxYdglzTQe48JjuR_30.396323_-97.777577@1303263073"
     },
     "wof:country":"US",
-    "wof:geomhash":"d51484fd06b1facf886f0032cdd0814a",
+    "wof:geomhash":"1419e3e02a3801c6553f29465c65f236",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303828809,
-    "wof:lastmodified":1467083753,
+    "wof:lastmodified":1510942661,
     "wof:name":"Spicewood Farms",
     "wof:parent_id":85893549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605558773
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

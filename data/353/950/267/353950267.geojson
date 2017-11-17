@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.398413,27.798361,-97.398413,27.798361",
     "geom:latitude":27.798361,
     "geom:longitude":-97.398413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 Buffalo St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3zATMULPbZPOnmlC60wiOM_27.798361_-97.398413@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"94a0567c3e4d9c57e1e9568d72b61474",
+    "wof:geomhash":"63c2cdb6bacac4e0e34bc99b0e3b2442",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":353950267,
-    "wof:lastmodified":1467084343,
+    "wof:lastmodified":1510943845,
     "wof:name":"J G ODonohoe Inc",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370992749
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "crude",

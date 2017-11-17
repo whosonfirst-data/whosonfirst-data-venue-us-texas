@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.848541,35.178452,-101.848541,35.178452",
     "geom:latitude":35.178452,
     "geom:longitude":-101.848541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3314 S Washington St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3ns5Lq7YvWUh7wtcy5kMcW_35.178452_-101.848541@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"72125d6298f3a7b923570a540f30c8e3",
+    "wof:geomhash":"be402fe775b11246ba02515d3532e64d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":605090045,
-    "wof:lastmodified":1467085654,
+    "wof:lastmodified":1510942186,
     "wof:name":"Thai Express",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303942767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

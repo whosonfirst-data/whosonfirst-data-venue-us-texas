@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.952003,32.590099,-96.952003,32.590099",
     "geom:latitude":32.590099,
     "geom:longitude":-96.952003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"323 W Belt Line Rd Apt 3",
     "sg:city":"Cedar Hill",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0D1WwMSGgU0oiMbInz8JR7_32.590099_-96.952003@1303262972"
     },
     "wof:country":"US",
-    "wof:geomhash":"65aebeb25086438024f7e3d28d688aba",
+    "wof:geomhash":"46673af1d540f2fa6a6bbebea797262d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236587735,
-    "wof:lastmodified":1467083916,
+    "wof:lastmodified":1510942353,
     "wof:name":"Cedarwood Apartments",
     "wof:parent_id":85870473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622615135
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

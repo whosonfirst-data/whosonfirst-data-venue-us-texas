@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.735278,30.30064,-97.735278,30.30064",
     "geom:latitude":30.30064,
     "geom:longitude":-97.735278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3710 Cedar St #7",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4axDstx4fTHUbxrW7vtfE8_30.300640_-97.735278@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"f26bc21d774cd0401fe76225e67ab6b3",
+    "wof:geomhash":"75303ab9c48c96e9d9226b0188b5a947",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303361845,
-    "wof:lastmodified":1467083780,
+    "wof:lastmodified":1510943417,
     "wof:name":"VSA Arts of Texas",
     "wof:parent_id":85867197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605165315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

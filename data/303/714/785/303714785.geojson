@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.715752,30.324221,-97.715752,30.324221",
     "geom:latitude":30.324221,
     "geom:longitude":-97.715752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6001 Airport Blvd #5506",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -62,7 +65,7 @@
         "sg:id":"SG_3nu69z8GwijXnkxCcCAYwV_30.324221_-97.715752@1303263068"
     },
     "wof:country":"US",
-    "wof:geomhash":"871e652ecb2cfd5d2a741c35a909f154",
+    "wof:geomhash":"2bd13a43aa42780789bd4f36df7e8fb6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -75,13 +78,17 @@
         }
     ],
     "wof:id":303714785,
-    "wof:lastmodified":1467083752,
+    "wof:lastmodified":1510942998,
     "wof:name":"T-Mobile",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303715871
+    ],
+    "wof:supersedes":[
+        303713723
+    ],
     "wof:tags":[
         "telecommunication",
         "supply",

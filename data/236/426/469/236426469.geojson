@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.753382,33.040858,-96.753382,33.040858",
     "geom:latitude":33.040858,
     "geom:longitude":-96.753382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3291 Independence Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0ocpHYOm0grQsLny2DrOLE_33.040858_-96.753382@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a05855090a4daccad260477f1d36f27",
+    "wof:geomhash":"3a5b27594ca1d9556e2e1d4d403096fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":236426469,
-    "wof:lastmodified":1467083893,
+    "wof:lastmodified":1510943316,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85879933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589142669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

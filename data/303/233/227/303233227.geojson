@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.733524,30.275338,-97.733524,30.275338",
     "geom:latitude":30.275338,
     "geom:longitude":-97.733524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 E 15th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_5xENklNNvx4dMmhvvCvzX2_30.275338_-97.733524@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f664a7ea8440aa9341cc2306523c55d",
+    "wof:geomhash":"fbe05ff2fdcef673cf54545df7d2a31f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":303233227,
-    "wof:lastmodified":1467083815,
+    "wof:lastmodified":1510944087,
     "wof:name":"Utmb-Austin Women's Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622794639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.271637,29.940029,-95.271637,29.940029",
     "geom:latitude":29.940029,
     "geom:longitude":-95.271637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15100 Golden Eagle Dr",
     "sg:city":"Humble",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_78Np1BwoOmI4shikVD9w8R_29.940029_-95.271637@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd53bccaabaa5cac2c4a270535d4c8fb",
+    "wof:geomhash":"9f1f4f8a48a96633bb1bfa82d27e8733",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":286609237,
-    "wof:lastmodified":1467084266,
+    "wof:lastmodified":1510943482,
     "wof:name":"Waterchase Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286609645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

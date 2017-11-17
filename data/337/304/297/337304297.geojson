@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.823232,32.763033,-96.823232,32.763033",
     "geom:latitude":32.763033,
     "geom:longitude":-96.823232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1441 N. Beckley Avenue",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2h0b0zG5PEpDSG3LqynqWR_32.763033_-96.823232@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"69c0fdeae7422614004cd77c737e079c",
+    "wof:geomhash":"89abec4fea9ee7b85e812a653d5307e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":337304297,
-    "wof:lastmodified":1467084450,
+    "wof:lastmodified":1510941720,
     "wof:name":"Subway",
     "wof:parent_id":85897331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638585637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

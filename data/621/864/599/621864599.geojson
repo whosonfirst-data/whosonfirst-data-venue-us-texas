@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.433178,32.721249,-97.433178,32.721249",
     "geom:latitude":32.721249,
     "geom:longitude":-97.433178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6777 Camp Bowie Blvd",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0yAHetpQCeCjeLmRNR8rcf_32.721249_-97.433178@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d19103d4257747e281c28a2896884c78",
+    "wof:geomhash":"c48cd5536145f67b03a31aa6b8b2ac37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":621864599,
-    "wof:lastmodified":1467086414,
+    "wof:lastmodified":1510941743,
     "wof:name":"Development Group Dgpr",
     "wof:parent_id":420543761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589082367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security"

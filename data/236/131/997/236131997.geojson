@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.993721,32.96838,-96.993721,32.96838",
     "geom:latitude":32.96838,
     "geom:longitude":-96.993721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 S Denton Tap Rd",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_4oIhJoP3w3kjD2vzNhJgnW_32.968380_-96.993721@1303262963"
     },
     "wof:country":"US",
-    "wof:geomhash":"81229fa772143ffd79539cc23cb4f2dd",
+    "wof:geomhash":"a8dbcb9d06be192b2979826d9a243e20",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":236131997,
-    "wof:lastmodified":1467083909,
+    "wof:lastmodified":1510943334,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588796073
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hamburger",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.717946,30.33596,-97.717946,30.33596",
     "geom:latitude":30.33596,
     "geom:longitude":-97.717946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6929 Airport Blvd Ste 158",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6k3KuczqD9aDZ8b0fYjd2u_30.335960_-97.717946@1303263068"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a738cec60c9cbecf04cdb5e39f7ebcd",
+    "wof:geomhash":"c913edc2dde20dc50e8d36682c1c8504",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303720409,
-    "wof:lastmodified":1467083720,
+    "wof:lastmodified":1510942132,
     "wof:name":"Texas Pizza Pasta & More",
     "wof:parent_id":85869889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303726117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

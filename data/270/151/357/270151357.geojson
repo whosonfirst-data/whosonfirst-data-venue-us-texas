@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.400308,29.710548,-95.400308,29.710548",
     "geom:latitude":29.710548,
     "geom:longitude":-95.400308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6560 Fannin St Ste 1016",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7XfFftM08MyCA37czOU18S_29.710548_-95.400308@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"65eae9fd407e5389f1579806be6a5dcc",
+    "wof:geomhash":"ee3b04908e38178508bfaf0efd933111",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270151357,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510942289,
     "wof:name":"Travel Medicine",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169740195
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

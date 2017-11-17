@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.750714,33.054279,-96.750714,33.054279",
     "geom:latitude":33.054279,
     "geom:longitude":-96.750714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5501 Independence Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4JrkBS8ftc2F625X48Nu3m_33.054279_-96.750714@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc22abc5ad3b01798772a3493f73192a",
+    "wof:geomhash":"86c40a739c857a0fc80d085098ce2c6e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":186187477,
-    "wof:lastmodified":1467084700,
+    "wof:lastmodified":1510943884,
     "wof:name":"Home Trust Company",
     "wof:parent_id":85879895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622785993
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"

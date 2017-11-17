@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.723404,31.434725,-97.723404,31.434725",
     "geom:latitude":31.434725,
     "geom:longitude":-97.723404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2302 E Main St",
     "sg:city":"Gatesville",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1qoXjxxEYCyOLQhddNHP1d_31.434725_-97.723404@1303263003"
     },
     "wof:country":"US",
-    "wof:geomhash":"17a4293089f7c19b7c562d8159a3c54c",
+    "wof:geomhash":"cbb3cc213ea682f00c5504c8e72114de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269679665,
-    "wof:lastmodified":1467084614,
+    "wof:lastmodified":1510942183,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638590881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.21254,26.203362,-98.21254,26.203362",
     "geom:latitude":26.203362,
     "geom:longitude":-98.21254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 N Mccoll Rd",
     "sg:city":"Mcallen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6xLEVMyuMT5qSI1mLYjEgV_26.203362_-98.212540@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"06071bbd51805a3dd18289d9240ebe9b",
+    "wof:geomhash":"da1fdf9adebae73be66cdfb4f09600ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287241473,
-    "wof:lastmodified":1467083848,
+    "wof:lastmodified":1510941410,
     "wof:name":"C P Printers",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202962685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

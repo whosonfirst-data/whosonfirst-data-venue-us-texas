@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621031,30.431385,-97.621031,30.431385",
     "geom:latitude":30.431385,
     "geom:longitude":-97.621031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15711 Dessau Rd",
     "sg:city":"Pflugerville",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_0vtWauw1HsUtsxLHSv0I8Q_30.431385_-97.621031@1303263051"
     },
     "wof:country":"US",
-    "wof:geomhash":"81d279ce7663e2b1da792a502e255836",
+    "wof:geomhash":"a40cf171e0c1ed6af701e7e5184b4d54",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":303179333,
-    "wof:lastmodified":1467083800,
+    "wof:lastmodified":1510942140,
     "wof:name":"Cambridge Villas Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303188005
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

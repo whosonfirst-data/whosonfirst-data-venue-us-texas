@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.788944,32.962257,-96.788944,32.962257",
     "geom:latitude":32.962257,
     "geom:longitude":-96.788944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6959 Arapaho Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -33,7 +36,7 @@
         "sg:id":"SG_1BxZk14hOQTo9Kee9HRrTb_32.962257_-96.788944@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ff3ef147cc2376ef3d2f956e06d0e21",
+    "wof:geomhash":"7bf8567358cac092e0aa080e0e80d7db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":370301881,
-    "wof:lastmodified":1467084491,
+    "wof:lastmodified":1510943435,
     "wof:name":"Executive Barbers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253222277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770203,32.8885,-96.770203,32.8885",
     "geom:latitude":32.8885,
     "geom:longitude":-96.770203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10455 N Central Expy Ste 109A",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1KE0CmY1YbvYUeYh7h5VAK_32.888500_-96.770203@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"73b78930a8af5c3f43328e9acb4bbfda",
+    "wof:geomhash":"db64f87b69010cf757efbf7e9efdb9c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253003083,
-    "wof:lastmodified":1467085039,
+    "wof:lastmodified":1510941305,
     "wof:name":"Young's Tailor Shop",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588903121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing",

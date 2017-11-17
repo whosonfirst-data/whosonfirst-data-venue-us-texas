@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.466979,29.745964,-95.466979,29.745964",
     "geom:latitude":29.745964,
     "geom:longitude":-95.466979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2121 Sage Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1WChRKz6MXnK1KszTSh0xN_29.745964_-95.466979@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"bafa5c6d1177e6f082c3c6f4da5aee86",
+    "wof:geomhash":"62d4a5c37c65cc172f4d37b8759de304",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":219296737,
-    "wof:lastmodified":1467085160,
+    "wof:lastmodified":1510941680,
     "wof:name":"Crosswell Properties Inc",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270391649
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

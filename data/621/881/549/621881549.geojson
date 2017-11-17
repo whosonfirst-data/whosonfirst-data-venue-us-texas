@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.802184,32.795134,-96.802184,32.795134",
     "geom:latitude":32.795134,
     "geom:longitude":-96.802184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2515 McKinney Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0YDxUBnPS9lZf9Nv3GSAq8_32.795134_-96.802184@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"462dc125152b0524c34f005030cbf010",
+    "wof:geomhash":"6edb67bd6a263dc3533abef5af166102",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":621881549,
-    "wof:lastmodified":1467086427,
+    "wof:lastmodified":1510944150,
     "wof:name":"Shore Deary LLP",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236798407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.792554,30.455501,-97.792554,30.455501",
     "geom:latitude":30.455501,
     "geom:longitude":-97.792554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9911 Woodland Village Drive",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5mfgqFEw06O4TCmxd8tOgu_30.455501_-97.792554@1303263067"
     },
     "wof:country":"US",
-    "wof:geomhash":"00308697300aa4e4e332cdbbc5c8d807",
+    "wof:geomhash":"2e863fe88771a9581a5d4e4cb1d7165f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":303675041,
-    "wof:lastmodified":1467083753,
+    "wof:lastmodified":1510941741,
     "wof:name":"Artists Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303682271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

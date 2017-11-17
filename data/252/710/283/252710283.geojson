@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.82016,32.850065,-96.82016,32.850065",
     "geom:latitude":32.850065,
     "geom:longitude":-96.82016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5360 W Lovers Ln Ste 220",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Puveg1j4pomKUDJUNeV54_32.850065_-96.820160@1303262980"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5bdbb72d12f30963e8d1a24d0d974a7",
+    "wof:geomhash":"9e6774d8251cec5c7f0a3ad19fd6c32b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":252710283,
-    "wof:lastmodified":1467084051,
+    "wof:lastmodified":1510941769,
     "wof:name":"Rise No. 1",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252710737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "french"

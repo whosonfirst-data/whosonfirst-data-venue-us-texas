@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5131,29.7176,-95.5131,29.7176",
     "geom:latitude":29.7176,
     "geom:longitude":-95.5131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7457 Harwin Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_22ksKp5IbB1YsNoOurIMFH_29.717600_-95.513100@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fc6d974c698bcbcaa7f56af5844b6e3",
+    "wof:geomhash":"ce6fdd0c8f956e1936013c94b8066075",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270230893,
-    "wof:lastmodified":1467084210,
+    "wof:lastmodified":1510941532,
     "wof:name":"Glenn Thomas A Atty At Law",
     "wof:parent_id":85827365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589194907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

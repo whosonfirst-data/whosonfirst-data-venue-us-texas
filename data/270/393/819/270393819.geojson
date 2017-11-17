@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.466103,29.7404,-95.466103,29.7404",
     "geom:latitude":29.7404,
     "geom:longitude":-95.466103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5175 Westheimer Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6Be5OaPkeUJzJrnU2zBnST_29.740400_-95.466103@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f9ac1952afd1a9dba227bd4399fbd1a",
+    "wof:geomhash":"175ef7318138414fc42b5fa82d46d4ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270393819,
-    "wof:lastmodified":1467084174,
+    "wof:lastmodified":1510942370,
     "wof:name":"Biosilk Spa",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622049343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

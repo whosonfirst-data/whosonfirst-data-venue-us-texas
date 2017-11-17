@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.958365,32.920864,-96.958365,32.920864",
     "geom:latitude":32.920864,
     "geom:longitude":-96.958365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8140 N Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_3hhOrX7BDkSFZD9ds22UwB_32.920864_-96.958365@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"71e7f277f7b642a87048cfb0a08db1ed",
+    "wof:geomhash":"5046ed7b07ca48f8c372320c2772ef11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236369317,
-    "wof:lastmodified":1467084030,
+    "wof:lastmodified":1510943401,
     "wof:name":"Lux Spa & Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236370389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

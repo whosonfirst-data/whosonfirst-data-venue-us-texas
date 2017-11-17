@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.4317,29.733237,-95.4317,29.733237",
     "geom:latitude":29.733237,
     "geom:longitude":-95.4317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20 E Greenway Plz",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Kw1a2Q7tqlpaO0XDAlFpz_29.733237_-95.431700@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee26c48325c8fc8e12dd1486e059b1ba",
+    "wof:geomhash":"9db44d351712e6d024958e855e5dad4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":622617267,
-    "wof:lastmodified":1467086984,
+    "wof:lastmodified":1510942869,
     "wof:name":"Entergy-Koch L P",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622744997
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"

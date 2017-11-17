@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.06998,32.735114,-97.06998,32.735114",
     "geom:latitude":32.735114,
     "geom:longitude":-97.06998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2210 E Abram St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0L4WLp8lqdWJkXBQgg6WFI_32.735114_-97.069980@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"49aeb5c2c7c9a727f8ac966ee9e18d21",
+    "wof:geomhash":"98a672580171be2caaa1278519f5ec48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":202487789,
-    "wof:lastmodified":1467084905,
+    "wof:lastmodified":1510942043,
     "wof:name":"Ace Of Clubs",
     "wof:parent_id":85897279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253616007
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

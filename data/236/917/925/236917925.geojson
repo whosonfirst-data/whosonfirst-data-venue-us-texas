@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770142,32.847406,-96.770142,32.847406",
     "geom:latitude":32.847406,
     "geom:longitude":-96.770142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4925 Greenville Ave # 718",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_77orVBYrwrgLmQE4WuQzMS_32.847406_-96.770142@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"dcd013f3241bc0b78566d376844bb4ef",
+    "wof:geomhash":"14b39fcee8ae8c695aa15cfca4b4a7b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236917925,
-    "wof:lastmodified":1467084014,
+    "wof:lastmodified":1510943657,
     "wof:name":"Tom J King",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622472485
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "geologist"

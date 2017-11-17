@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8041,32.798401,-96.8041,32.798401",
     "geom:latitude":32.798401,
     "geom:longitude":-96.8041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2800 Routh St Ste 220",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2rGKNjfm5CqcJRWitBeApu_32.798401_-96.804100@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdd5f6035a7343080aafd8ad627c3ed7",
+    "wof:geomhash":"6c4ae8ecc07ae5b7cafe36905e1bf5ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236813817,
-    "wof:lastmodified":1467083901,
+    "wof:lastmodified":1510942945,
     "wof:name":"Post Op Inc",
     "wof:parent_id":85870437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605630543
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "video/film"

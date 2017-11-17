@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.116223,32.941332,-97.116223,32.941332",
     "geom:latitude":32.941332,
     "geom:longitude":-97.116223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"225 N Kimball Ave",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5AhD1vULklCS9UxGaDa9fv_32.941332_-97.116223@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"3344d923fa174f54b44b770649656eb8",
+    "wof:geomhash":"90e46ddc99cb43c6ae82fd4ffd616541",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638589085,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510943880,
     "wof:name":"McDonald's",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622332817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

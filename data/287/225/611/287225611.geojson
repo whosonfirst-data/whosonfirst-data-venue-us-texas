@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.667351,27.801066,-97.667351,27.801066",
     "geom:latitude":27.801066,
     "geom:longitude":-97.667351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"108 Kissling Ave",
     "sg:city":"Robstown",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2JFFwHGNRuWA5FaNsqNtHe_27.801066_-97.667351@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbb84cb09c869ed821d33cc5c561a9e8",
+    "wof:geomhash":"45e76fe7d025fac88a3184719a20806a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287225611,
-    "wof:lastmodified":1467083827,
+    "wof:lastmodified":1510943743,
     "wof:name":"A & M Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589226675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

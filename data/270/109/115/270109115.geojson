@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.436565,29.728759,-95.436565,29.728759",
     "geom:latitude":29.728759,
     "geom:longitude":-95.436565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3777 S W Freeway",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7QKC4JbpFNu8MvVjXiEKIN_29.728759_-95.436565@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3464c8e178403397b30531e6ccfb6e5",
+    "wof:geomhash":"f9203d7c8e41e15932e2717a3de655d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270109115,
-    "wof:lastmodified":1467084178,
+    "wof:lastmodified":1510942638,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605059257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7687,32.895199,-96.7687,32.895199",
     "geom:latitude":32.895199,
     "geom:longitude":-96.7687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10830 N Central Expy Ste 114",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_54HQTriZRkl6Wtk216lfbN_32.895199_-96.768700@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b09911d503ded7425ffe5e38062561c",
+    "wof:geomhash":"efd95b81e0933f765f9d0c42d2b68a97",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252981317,
-    "wof:lastmodified":1467084109,
+    "wof:lastmodified":1510942858,
     "wof:name":"Computer Based Solutions Inc",
     "wof:parent_id":85870459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622742469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.364161,29.76035,-95.364161,29.76035",
     "geom:latitude":29.76035,
     "geom:longitude":-95.364161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Travis St Ste 2200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2D3gPcMDlLVnFOvxmdCCnl_29.760350_-95.364161@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"84e41e140f8e97aaf2614eef04790520",
+    "wof:geomhash":"3dafe64c4a3cdc62d78c9465282835b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269828779,
-    "wof:lastmodified":1467084605,
+    "wof:lastmodified":1510943792,
     "wof:name":"Andrews Kurth Llp",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605059675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

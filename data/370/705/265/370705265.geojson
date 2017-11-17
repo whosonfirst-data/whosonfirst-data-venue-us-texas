@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.234317,32.76137,-97.234317,32.76137",
     "geom:latitude":32.76137,
     "geom:longitude":-97.234317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1174 Country Club Ln",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_3rLwViTTx9WyUkrUSItEAK_32.761370_-97.234317@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c341629b31db64e8d8aaa982ab414c3",
+    "wof:geomhash":"f12e401660fb716f1f450622bcf7d9b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":370705265,
-    "wof:lastmodified":1467084555,
+    "wof:lastmodified":1510942033,
     "wof:name":"PACC Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588852687
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"

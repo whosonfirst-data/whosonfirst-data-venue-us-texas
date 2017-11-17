@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.177401,31.529499,-97.177401,31.529499",
     "geom:latitude":31.529499,
     "geom:longitude":-97.177401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 N Valley Mills Dr",
     "sg:city":"Waco",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6t0LjLkxQd9abyVXQr9fRQ_31.529499_-97.177401@1303263005"
     },
     "wof:country":"US",
-    "wof:geomhash":"19fbfe76db5a30fd8175ad152fc184dd",
+    "wof:geomhash":"3ae915890194aab2daaf4aab005dec5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269749999,
-    "wof:lastmodified":1467084591,
+    "wof:lastmodified":1510941389,
     "wof:name":"Heart Of Texas Self Defense",
     "wof:parent_id":85881763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622718245
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.949059,32.81333,-96.949059,32.81333",
     "geom:latitude":32.81333,
     "geom:longitude":-96.949059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"302 W Irving Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7HOxbiRHfE1txAklBVzGyh_32.813330_-96.949059@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"891ac175b0675418c6c5babdd3f6d42a",
+    "wof:geomhash":"c20b5840dcd35a2c1553b4da332365e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638583789,
-    "wof:lastmodified":1467087319,
+    "wof:lastmodified":1510943989,
     "wof:name":"McDonald's",
     "wof:parent_id":85878303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622817575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

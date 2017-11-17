@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401038,29.69309,-95.401038,29.69309",
     "geom:latitude":29.69309,
     "geom:longitude":-95.401038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7580 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7XL6b1NPwyG0JaZvWi55uo_29.693090_-95.401038@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6df849f0c1a3099bb231f945800bd5b",
+    "wof:geomhash":"fbc06f462bc3800360794e22c05d4d24",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370414597,
-    "wof:lastmodified":1467084509,
+    "wof:lastmodified":1510942486,
     "wof:name":"Neeman Medical International",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622615159
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial",

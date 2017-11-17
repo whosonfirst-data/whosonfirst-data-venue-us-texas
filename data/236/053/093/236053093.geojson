@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.842353,32.985524,-96.842353,32.985524",
     "geom:latitude":32.985524,
     "geom:longitude":-96.842353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2661 Midway Rd Ste 100",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2K1yGBNkYA9UfcidjqHpB4_32.985524_-96.842353@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad58867273eba6aa37322516fb84ed00",
+    "wof:geomhash":"e0dd29f2ab122f652b21aba15f15ad6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236053093,
-    "wof:lastmodified":1467083888,
+    "wof:lastmodified":1510942516,
     "wof:name":"Dressed To The Nines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605877521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

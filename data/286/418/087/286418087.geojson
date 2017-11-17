@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.4245,29.7341,-95.4245,29.7341",
     "geom:latitude":29.7341,
     "geom:longitude":-95.4245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3100 Richmond Ave Ste 500",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_71dBu4M2aYg0HNqAt0AmQf_29.734100_-95.424500@1303263031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9742932ee884bdaea8562bd86154c246",
+    "wof:geomhash":"403bbb5c23d8518ef4176f66c4e5fb33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":286418087,
-    "wof:lastmodified":1467084300,
+    "wof:lastmodified":1510941552,
     "wof:name":"O'neill Hill",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588920371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

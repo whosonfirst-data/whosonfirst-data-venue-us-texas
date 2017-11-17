@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.592811,29.784201,-95.592811,29.784201",
     "geom:latitude":29.784201,
     "geom:longitude":-95.592811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11767 Katy Fwy Ste 412",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7QgZvAJYYkCtyN5agEjdM6_29.784201_-95.592811@1303263028"
     },
     "wof:country":"US",
-    "wof:geomhash":"c185743a58704da5aba73da098c49a88",
+    "wof:geomhash":"6e6b7981bbc73e611f5fedb3114aafe3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286286453,
-    "wof:lastmodified":1467084257,
+    "wof:lastmodified":1510943175,
     "wof:name":"Aipn",
     "wof:parent_id":85869697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605717715
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.717451,30.407585,-97.717451,30.407585",
     "geom:latitude":30.407585,
     "geom:longitude":-97.717451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11921 N Mo Pac Expy Ste 210",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_05IV54hRx2li5mgl3b4kMB_30.407585_-97.717451@1303263072"
     },
     "wof:country":"US",
-    "wof:geomhash":"b93690f5e4f6547fd646627e29f83262",
+    "wof:geomhash":"bcc587f7c382d023c0552a6dcff97ef5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303810441,
-    "wof:lastmodified":1467083727,
+    "wof:lastmodified":1510943855,
     "wof:name":"Merchants & Professional Crdt",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622739253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

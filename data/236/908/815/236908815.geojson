@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.785854,32.827359,-96.785854,32.827359",
     "geom:latitude":32.827359,
     "geom:longitude":-96.785854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3100 Monticello Avenue Ste 500",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2NlL3Qz56Wlfl5XgziX4UB_32.827359_-96.785854@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"f88d9bd74e8e576dbd4eb7964f3295a5",
+    "wof:geomhash":"98f915c9436aa927da8c639bfa948e61",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236908815,
-    "wof:lastmodified":1467083958,
+    "wof:lastmodified":1510943111,
     "wof:name":"Van Wey & Johnson",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622408295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

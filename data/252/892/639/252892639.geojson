@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.817476,33.087017,-96.817476,33.087017",
     "geom:latitude":33.087017,
     "geom:longitude":-96.817476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5800 Granite Pkwy",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1vCMqOG9jyICHK4x4P7WcF_33.087017_-96.817476@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e324560bfec6e83fadeb24947cc9bc2",
+    "wof:geomhash":"43e4c08898e33f52810a8d664a0ac4d4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252892639,
-    "wof:lastmodified":1467084057,
+    "wof:lastmodified":1510944151,
     "wof:name":"L Kee & Co",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605770225
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

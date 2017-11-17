@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.546154,29.779441,-95.546154,29.779441",
     "geom:latitude":29.779441,
     "geom:longitude":-95.546154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"902 Frostwood Dr Ste 256",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0HNdy5OEQEZhRFOocNvVXO_29.779441_-95.546154@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"7cfd47b25ec23d2e9b9ec2b7253c1f38",
+    "wof:geomhash":"0afff401756c5b51695500ddc05094d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270060369,
-    "wof:lastmodified":1467084224,
+    "wof:lastmodified":1510941622,
     "wof:name":"Berkeley Eye Center",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588968239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

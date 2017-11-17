@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.76712,32.452082,-99.76712,32.452082",
     "geom:latitude":32.452082,
     "geom:longitude":-99.76712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3602 N 1st St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_0ak6qpEUnQ8HNH2cTEbIUO_32.452082_-99.767120@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2f0c500e43f363c755a7797323367e0",
+    "wof:geomhash":"c4b467a4584fb1faf29839e42935ccec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":304048025,
-    "wof:lastmodified":1467084663,
+    "wof:lastmodified":1510941570,
     "wof:name":"McDonald's",
     "wof:parent_id":85859215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605744177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hamburger",

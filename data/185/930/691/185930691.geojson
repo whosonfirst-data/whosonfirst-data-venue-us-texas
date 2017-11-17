@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.622357,32.810721,-96.622357,32.810721",
     "geom:latitude":32.810721,
     "geom:longitude":-96.622357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1531 N Town East Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4AHM611qRsImkniU1or9cB_32.810721_-96.622357@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"74022efb02624cb820f6ad48976912f5",
+    "wof:geomhash":"9a807076964e62d558c9fe5eaf3b07cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":185930691,
-    "wof:lastmodified":1467084120,
+    "wof:lastmodified":1510943190,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638585363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

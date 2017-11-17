@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.7286,31.294006,-94.7286,31.294006",
     "geom:latitude":31.294006,
     "geom:longitude":-94.7286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3301 S 1st St",
     "sg:city":"Lufkin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_10S7J1bnXUvTeeUEHxe4Vb_31.294006_-94.728600@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a5327cff158f83be0a3a35e0bf595f6",
+    "wof:geomhash":"5ca99ec6344e5daa2a4485871e0abd1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":403962729,
-    "wof:lastmodified":1467084768,
+    "wof:lastmodified":1510941332,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638587659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.739731,30.26926,-97.739731,30.26926",
     "geom:latitude":30.26926,
     "geom:longitude":-97.739731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 E 8th St Ste 964",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7d5kQtYl40iW5ljqNriJYD_30.269260_-97.739731@1303263054"
     },
     "wof:country":"US",
-    "wof:geomhash":"6916e8178aace724c194bc77c6490f27",
+    "wof:geomhash":"757b69e04c9de90cd3c5f345fb51b291",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303265721,
-    "wof:lastmodified":1467083733,
+    "wof:lastmodified":1510943488,
     "wof:name":"Austin Field Office",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622560801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock-commission"

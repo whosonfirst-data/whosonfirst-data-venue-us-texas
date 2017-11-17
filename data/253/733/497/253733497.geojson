@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.0784,32.934669,-97.0784,32.934669",
     "geom:latitude":32.934669,
     "geom:longitude":-97.0784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"651 S Main St",
     "sg:city":"Grapevine",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6WUwqVbZnUgiyNtqpyszl0_32.934669_-97.078400@1303262999"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c0bc3143bdb3d0eb6cdd6d8480009e4",
+    "wof:geomhash":"a6a468f6e1d33d1c0939b1a1e498f2d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253733497,
-    "wof:lastmodified":1467084959,
+    "wof:lastmodified":1510942506,
     "wof:name":"South Prairie Oyster Bar",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605831541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

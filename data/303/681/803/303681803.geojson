@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.798843,30.43465,-97.798843,30.43465",
     "geom:latitude":30.43465,
     "geom:longitude":-97.798843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9508 Topridge Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2U4MBVl8aKgi29ortedW8M_30.434650_-97.798843@1303263067"
     },
     "wof:country":"US",
-    "wof:geomhash":"62fa746685e01614be8d2d742ac7b119",
+    "wof:geomhash":"d913e759a45207b9788b57f0dbedfdd2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303681803,
-    "wof:lastmodified":1467083766,
+    "wof:lastmodified":1510942181,
     "wof:name":"Timing Cube",
     "wof:parent_id":85893495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387602907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "directory",

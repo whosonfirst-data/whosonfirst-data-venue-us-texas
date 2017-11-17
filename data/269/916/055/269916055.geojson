@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.420197,29.771694,-95.420197,29.771694",
     "geom:latitude":29.771694,
     "geom:longitude":-95.420197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Birdsall St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_68WvEtwM0RBjQu0ITSZEjb_29.771694_-95.420197@1303263009"
     },
     "wof:country":"US",
-    "wof:geomhash":"382734b53b72ef13a856d22ba3504918",
+    "wof:geomhash":"3704662ea673943abd37ee65e9e78d11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269916055,
-    "wof:lastmodified":1467084608,
+    "wof:lastmodified":1510942770,
     "wof:name":"Thornwood Gallery",
     "wof:parent_id":85893803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589281189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

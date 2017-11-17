@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.813378,32.954026,-96.813378,32.954026",
     "geom:latitude":32.954026,
     "geom:longitude":-96.813378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5495 Belt Line Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6tfHYvKB4uPbWbvmrSq5iQ_32.954026_-96.813378@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"213a319a03ed44e3844540a4b5a78ec2",
+    "wof:geomhash":"93037f622aa5969571a266bec8488c1e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":353585353,
-    "wof:lastmodified":1467084358,
+    "wof:lastmodified":1510941337,
     "wof:name":"21st Century Work Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253276573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "design",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.517731,29.691151,-95.517731,29.691151",
     "geom:latitude":29.691151,
     "geom:longitude":-95.517731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7500 Beechnut St Ste 280",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_55qKOcoC2cEa79ojNS2uVa_29.691151_-95.517731@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a49c7c2428ca5ef6fb2e8e9d5eeae9a",
+    "wof:geomhash":"74f02897fe1814aab6201a4601cd5fb8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270525345,
-    "wof:lastmodified":1467084213,
+    "wof:lastmodified":1510942647,
     "wof:name":"Advance Pain Management",
     "wof:parent_id":85869129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588834851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sleep",

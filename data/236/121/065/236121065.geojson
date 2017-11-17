@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.884804,33.027329,-96.884804,33.027329",
     "geom:latitude":33.027329,
     "geom:longitude":-96.884804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4323 N Josey Ln Ste 202",
     "sg:city":"Carrollton",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4sQoORtLbI7ZfRwqiSREdJ_33.027329_-96.884804@1303262963"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b7bc6803ea95ecdfa9ac7de15afeeb5",
+    "wof:geomhash":"5396a43eccf10876e333321f806745d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236121065,
-    "wof:lastmodified":1467083998,
+    "wof:lastmodified":1510943435,
     "wof:name":"Anis A Ansari Md Pa",
     "wof:parent_id":85897353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589227677
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

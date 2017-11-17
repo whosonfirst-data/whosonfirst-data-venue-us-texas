@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744347,30.263825,-97.744347,30.263825",
     "geom:latitude":30.263825,
     "geom:longitude":-97.744347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Congress Ave Ste 1600",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
         "sg:id":"SG_0zBvW8zsNWiG4G2Z7Jt6fF_30.263825_-97.744347@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"29c067e75bbddc7e309648f660106756",
+    "wof:geomhash":"4274e5aaca98c65c8daa6e1a7ab1ebc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,12 +69,14 @@
         }
     ],
     "wof:id":303241409,
-    "wof:lastmodified":1467083810,
+    "wof:lastmodified":1510943638,
     "wof:name":"Durbin & Bennett L.L.P.",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353584627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

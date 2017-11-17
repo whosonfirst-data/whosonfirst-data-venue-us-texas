@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.549928,33.768285,-96.549928,33.768285",
     "geom:latitude":33.768285,
     "geom:longitude":-96.549928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1014 Memorial Dr Ste 12",
     "sg:city":"Denison",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3dboACcUYK4a23Ud2kdqDx_33.768285_-96.549928@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef52c996b8f50a56bdced13e7bd58bfd",
+    "wof:geomhash":"b53d034eb29cf4fc44a6bb2f7a10797a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236152497,
-    "wof:lastmodified":1467083995,
+    "wof:lastmodified":1510942563,
     "wof:name":"Shannon L Watts Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622498389
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

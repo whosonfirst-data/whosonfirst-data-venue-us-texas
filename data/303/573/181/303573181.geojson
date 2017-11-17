@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.773925,30.225654,-97.773925,30.225654",
     "geom:latitude":30.225654,
     "geom:longitude":-97.773925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4207 James Casey Street Suite 303",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6nJZHHr3YYALkVmWhySsIr_30.225654_-97.773925@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b8c25765a8c63c6eaa09ae90175e781",
+    "wof:geomhash":"7bdcdf1dce12a32af5a8ae9f41da4956",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303573181,
-    "wof:lastmodified":1467083782,
+    "wof:lastmodified":1510943096,
     "wof:name":"South Austin Eye Clinic",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622111331
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

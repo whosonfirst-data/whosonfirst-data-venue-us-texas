@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.400902,29.695601,-95.400902,29.695601",
     "geom:latitude":29.695601,
     "geom:longitude":-95.400902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Fannin St Ste 120",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_716W1t3SFCccuSMyat8MnY_29.695601_-95.400902@1303263021"
     },
     "wof:country":"US",
-    "wof:geomhash":"8868a6077c9ca9d858fbf69cfa9eba63",
+    "wof:geomhash":"0301eaa519f19152716c03811a979b90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270350039,
-    "wof:lastmodified":1467084191,
+    "wof:lastmodified":1510944062,
     "wof:name":"One Fannin Pharmacy",
     "wof:parent_id":85865525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622722193
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

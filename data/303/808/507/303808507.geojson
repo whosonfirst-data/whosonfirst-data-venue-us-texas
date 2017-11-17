@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.734703,30.396601,-97.734703,30.396601",
     "geom:latitude":30.396601,
     "geom:longitude":-97.734703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3925 W Braker Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6JDwAP9Q71Vlp2ot8At4cU_30.396601_-97.734703@1303263072"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ff7d59497b13ded75bd94e52a2b7a66",
+    "wof:geomhash":"f4a78b8ae1c614ce6995f0bd851f1e4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":303808507,
-    "wof:lastmodified":1467083697,
+    "wof:lastmodified":1510943477,
     "wof:name":"University of Texas At Austin",
     "wof:parent_id":85869875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303815243
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

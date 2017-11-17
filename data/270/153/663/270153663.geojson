@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.396959,29.714474,-95.396959,29.714474",
     "geom:latitude":29.714474,
     "geom:longitude":-95.396959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6411 Fannin",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1OvNEuGzV45TLvgLJGzSmx_29.714474_-95.396959@1303263016"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc77824dc301d625907d323937779ed7",
+    "wof:geomhash":"5a0d9eec27067ef772ecf88c8f17262d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270153663,
-    "wof:lastmodified":1467084206,
+    "wof:lastmodified":1510942201,
     "wof:name":"Memorial Hermann Texas Medical Center",
     "wof:parent_id":85869465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        337335335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

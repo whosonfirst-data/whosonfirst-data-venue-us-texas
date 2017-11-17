@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805673,33.099351,-96.805673,33.099351",
     "geom:latitude":33.099351,
     "geom:longitude":-96.805673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2601 Preston Rd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_0sPTge672hBRI1xjP8O9wj_33.099351_-96.805673@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"55ebad95c33151a7f73b7c94ed85b210",
+    "wof:geomhash":"96da554bb957f1c64a0026599bbe37b9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":202498823,
-    "wof:lastmodified":1467084928,
+    "wof:lastmodified":1510943712,
     "wof:name":"Field of Dreams",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236182565
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house",

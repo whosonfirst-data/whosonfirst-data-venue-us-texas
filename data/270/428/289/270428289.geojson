@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.479667,29.748624,-95.479667,29.748624",
     "geom:latitude":29.748624,
     "geom:longitude":-95.479667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Bering Dr Ste 940",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_624WgsRWrn1p0I6Bpx9dN9_29.748624_-95.479667@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"72a2e0432111b0ccc7b8d12255e497e6",
+    "wof:geomhash":"ef445ba4f21a4b84431450af0025e4c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270428289,
-    "wof:lastmodified":1467084226,
+    "wof:lastmodified":1510941220,
     "wof:name":"LifeStyle Mortgage Corp",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622187801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

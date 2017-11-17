@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.866692,32.825401,-96.866692,32.825401",
     "geom:latitude":32.825401,
     "geom:longitude":-96.866692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8267 Elmbrook Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5caBxbmevJrAanYgTKZVZb_32.825401_-96.866692@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"900804f1dc1a09e72038eb27bbb20440",
+    "wof:geomhash":"f86dbb9315ef6dda5ec1c407e4523ade",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253207015,
-    "wof:lastmodified":1467085017,
+    "wof:lastmodified":1510941294,
     "wof:name":"Pro Path Women's Svc",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588895527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratories-pathological"

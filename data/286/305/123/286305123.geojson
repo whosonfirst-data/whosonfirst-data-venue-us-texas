@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.497704,29.715599,-95.497704,29.715599",
     "geom:latitude":29.715599,
     "geom:longitude":-95.497704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6065 Hillcroft St Ste 508",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0pCdNLQcMPydEyFCoIArnD_29.715599_-95.497704@1303263028"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d82dca5d4cb86b92640b96812613151",
+    "wof:geomhash":"3037f757e14797711e8b0908740a7833",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":286305123,
-    "wof:lastmodified":1467084248,
+    "wof:lastmodified":1510942264,
     "wof:name":"Danna Chiropractic Clinic",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186400329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

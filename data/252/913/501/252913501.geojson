@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.665298,32.750599,-96.665298,32.750599",
     "geom:latitude":32.750599,
     "geom:longitude":-96.665298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2233 N Prairie Creek Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4fQjaG54PhmVsVB3gUV6Xz_32.750599_-96.665298@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"b037c30b0ea7cb44699781970d7cda8e",
+    "wof:geomhash":"cc66fd6519c4b8d711e4c47f89e97c9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":252913501,
-    "wof:lastmodified":1467084071,
+    "wof:lastmodified":1510942520,
     "wof:name":"T Town Music & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605155953
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dvd's"

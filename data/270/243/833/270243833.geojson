@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.413005,29.910168,-95.413005,29.910168",
     "geom:latitude":29.910168,
     "geom:longitude":-95.413005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10125 North Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6gzvEgorycxi77vufJiSIb_29.910168_-95.413005@1303263019"
     },
     "wof:country":"US",
-    "wof:geomhash":"f52597f9ce60fea37e37a91c38ca882b",
+    "wof:geomhash":"d4dc19b0d1dcf790523de3807b69859e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270243833,
-    "wof:lastmodified":1467084175,
+    "wof:lastmodified":1510944007,
     "wof:name":"Tampico Seafood & Cocina Mexicana 2",
     "wof:parent_id":85893765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270248957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

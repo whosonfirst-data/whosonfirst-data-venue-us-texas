@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550003,31.8356,-106.550003,31.8356",
     "geom:latitude":31.8356,
     "geom:longitude":-106.550003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6969 N Mesa St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4tuzvQkGteRWngsnaQoDmJ_31.835600_-106.550003@1303263079"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4dca2acbd3c09dd86ccae0c9b838556",
+    "wof:geomhash":"eff2fec6ef76cf1de9fd03a401e10632",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":319857853,
-    "wof:lastmodified":1467084382,
+    "wof:lastmodified":1510944045,
     "wof:name":"Resler Automotive",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622846439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

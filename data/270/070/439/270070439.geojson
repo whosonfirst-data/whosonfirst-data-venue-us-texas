@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547798,29.7785,-95.547798,29.7785",
     "geom:latitude":29.7785,
     "geom:longitude":-95.547798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"909 Frostwood Dr Ste 221",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2MWknNm7842IZDO0ZQdfZo_29.778500_-95.547798@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"b37dc73596488161022c064560401d76",
+    "wof:geomhash":"7d877389221a8a1d0e2b4da93fef272c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270070439,
-    "wof:lastmodified":1467084189,
+    "wof:lastmodified":1510941332,
     "wof:name":"Texas Oncology PA",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270083293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

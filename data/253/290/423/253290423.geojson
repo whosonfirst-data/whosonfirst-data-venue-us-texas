@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.820826,32.951177,-96.820826,32.951177",
     "geom:latitude":32.951177,
     "geom:longitude":-96.820826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5100 Belt Line Rd Ste 510",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1wWTUsLLV4XSfJ1ITlukkm_32.951177_-96.820826@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"78b14287e5bb382af9cb7a2eb70e0c3d",
+    "wof:geomhash":"7068a7e28b64f2b9aa72e424a9c2e944",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253290423,
-    "wof:lastmodified":1467084988,
+    "wof:lastmodified":1510943678,
     "wof:name":"24 Hour Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622845623
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"

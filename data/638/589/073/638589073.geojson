@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.125691,32.940983,-97.125691,32.940983",
     "geom:latitude":32.940983,
     "geom:longitude":-97.125691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1586 E Southlake Blvd",
     "sg:city":"Southlake",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0wYwyxS95N7iqhh9bXGlzQ_32.940983_-97.125691@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b7ebbe7bf1a7ba4e2a278acc6e4b363",
+    "wof:geomhash":"2488f9bf67d29c3b669d7cc88dd6bc99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638589073,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510943090,
     "wof:name":"Blue Mesa Grill",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269524437
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

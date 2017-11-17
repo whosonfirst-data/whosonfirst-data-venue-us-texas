@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80638,32.909566,-96.80638,32.909566",
     "geom:latitude":32.909566,
     "geom:longitude":-96.80638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5925 Forest Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_74LCPQMP1KYLsmwtleKawk_32.909566_-96.806380@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"bad656f81f7ccd31185bc0fe914003e0",
+    "wof:geomhash":"cc934e91e013f4ca2252a17d650e6ad0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252958929,
-    "wof:lastmodified":1467084095,
+    "wof:lastmodified":1510942557,
     "wof:name":"Concepts Of Health",
     "wof:parent_id":85870421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606022117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

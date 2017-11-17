@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.959099,32.849098,-96.959099,32.849098",
     "geom:latitude":32.849098,
     "geom:longitude":-96.959099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3204 N MacArthur Blvd Ste C",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_1IpXznGE5PcuXoqk5daDC5_32.849098_-96.959099@1303262968"
     },
     "wof:country":"US",
-    "wof:geomhash":"449646f63bde7e194c4290e506303276",
+    "wof:geomhash":"22d4e03704bdaddd8dcb84a4ef849434",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236367697,
-    "wof:lastmodified":1467083962,
+    "wof:lastmodified":1510943518,
     "wof:name":"MacArthur Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622055607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

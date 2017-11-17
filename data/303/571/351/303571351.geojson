@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.754836,30.201943,-97.754836,30.201943",
     "geom:latitude":30.201943,
     "geom:longitude":-97.754836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5400 Freidrich Ln",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1t6oqQKvwu7fu868oGKGHp_30.201943_-97.754836@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cb88e06fb2f3aac918bf5d0bd51d810",
+    "wof:geomhash":"52deda24432b8687f080a25097424702",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303571351,
-    "wof:lastmodified":1467083775,
+    "wof:lastmodified":1510943843,
     "wof:name":"Paisano Mobile Home Community",
     "wof:parent_id":85869961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605765143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

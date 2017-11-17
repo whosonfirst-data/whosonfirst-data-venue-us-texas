@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.492724,29.723738,-95.492724,29.723738",
     "geom:latitude":29.723738,
     "geom:longitude":-95.492724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6250 Westpark Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_36ANGKpu15xMlzMmr17Rym_29.723738_-95.492724@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca5fed341c531aae5de42ecd2dd62526",
+    "wof:geomhash":"bfee719ff6f2fc257c85948106497d15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253107017,
-    "wof:lastmodified":1467084946,
+    "wof:lastmodified":1510942400,
     "wof:name":"Malaise & Davis LLP",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270409201
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

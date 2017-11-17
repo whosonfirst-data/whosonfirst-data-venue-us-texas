@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-97.399685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4800 S Hulen St",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":638589651,
-    "wof:lastmodified":1510877482,
+    "wof:lastmodified":1510944105,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":420543715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589110209
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.825302,32.759201,-96.825302,32.759201",
     "geom:latitude":32.759201,
     "geom:longitude":-96.825302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"221 W Colorado Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0EfHMhIq0DLo7DKZrzuKY3_32.759201_-96.825302@1303262979"
     },
     "wof:country":"US",
-    "wof:geomhash":"155e24bf46d8d177b4ed2d8164bddc24",
+    "wof:geomhash":"f506e257d41f02e2b3c638b728087e94",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236963283,
-    "wof:lastmodified":1467083871,
+    "wof:lastmodified":1510944120,
     "wof:name":"Foot Health Center",
     "wof:parent_id":85897331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622805783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"

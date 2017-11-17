@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.743885,32.932557,-96.743885,32.932557",
     "geom:latitude":32.932557,
     "geom:longitude":-96.743885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13550 Floyd Cir",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2N52MxUnxSxQzrHvwnvER3_32.932557_-96.743885@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"39febf362274450bef5c3624574d94c3",
+    "wof:geomhash":"3900eae2105c8c126082750d36bc7172",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253148633,
-    "wof:lastmodified":1467085030,
+    "wof:lastmodified":1510943783,
     "wof:name":"Tow Jam Wrecker Service",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253159991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"

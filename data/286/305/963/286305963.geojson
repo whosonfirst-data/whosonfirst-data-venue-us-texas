@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.489309,29.704352,-95.489309,29.704352",
     "geom:latitude":29.704352,
     "geom:longitude":-95.489309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6912 Rampart St Ste 101A",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_42vsdMeeWpBtTD4o0ET5Fa_29.704352_-95.489309@1303263028"
     },
     "wof:country":"US",
-    "wof:geomhash":"f92455acbac866e5adc00be420b74519",
+    "wof:geomhash":"a880d6f9ebfddeea1bdbb000376d0994",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":286305963,
-    "wof:lastmodified":1467084248,
+    "wof:lastmodified":1510941268,
     "wof:name":"Murtaza Auto",
     "wof:parent_id":85869311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        606025777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

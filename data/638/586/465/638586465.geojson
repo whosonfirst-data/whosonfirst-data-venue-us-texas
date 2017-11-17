@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.820574,32.951931,-96.820574,32.951931",
     "geom:latitude":32.951931,
     "geom:longitude":-96.820574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5100 Belt Line Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -35,16 +38,20 @@
         "sg:id":"SG_2rnmQohnWSs6im5fTXUbtH_32.951931_-96.820574@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"2abbf7a7095ae154af265d177c3bf0c4",
+    "wof:geomhash":"048a241759de34ad878850f45be97ee6",
     "wof:hierarchy":[],
     "wof:id":638586465,
-    "wof:lastmodified":1467087323,
+    "wof:lastmodified":1510944122,
     "wof:name":"Blue Mesa Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622670629
+    ],
+    "wof:supersedes":[
+        253289909
+    ],
     "wof:tags":[
         "american",
         "tex-mex"

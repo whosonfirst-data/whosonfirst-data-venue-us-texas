@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.4655,29.731501,-95.4655,29.731501",
     "geom:latitude":29.731501,
     "geom:longitude":-95.4655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5177 Richmond Ave Ste 800",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_56rjEPFyXfSgdZThSHZWoe_29.731501_-95.465500@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"76bfce28c819a64303b94e7d6d5cd9cd",
+    "wof:geomhash":"2696c1093176bc2d632b562b63f82b5b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270386801,
-    "wof:lastmodified":1467084192,
+    "wof:lastmodified":1510942430,
     "wof:name":"Quan Burdette & Perez PC",
     "wof:parent_id":85829609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622081633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

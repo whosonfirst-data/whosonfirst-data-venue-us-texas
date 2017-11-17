@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.785921,32.822798,-96.785921,32.822798",
     "geom:latitude":32.822798,
     "geom:longitude":-96.785921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4645 N Central Expy # 300",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_7C3fx3VO4c0ARLEgQKHjNw_32.822798_-96.785921@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"35092a4d7073229a51fe821777ca31b6",
+    "wof:geomhash":"fb1dda5388aac6b6f7c60bac3e155496",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236900245,
-    "wof:lastmodified":1467083933,
+    "wof:lastmodified":1510942676,
     "wof:name":"Beauty Bureau, Inc.",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605570385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

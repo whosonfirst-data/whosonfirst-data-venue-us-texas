@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.996598,32.482245,-96.996598,32.482245",
     "geom:latitude":32.482245,
     "geom:longitude":-96.996598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"104 N 6th St",
     "sg:city":"Midlothian",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0BPQ4gWt4hYxyWEUquip1p_32.482245_-96.996598@1303263000"
     },
     "wof:country":"US",
-    "wof:geomhash":"225f9ad48c0eea2e5153a113a66b77d9",
+    "wof:geomhash":"ce8b0bc91df3e58a15991e770ffd90d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269500101,
-    "wof:lastmodified":1467084588,
+    "wof:lastmodified":1510941713,
     "wof:name":"Pets Of Perfection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622611487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

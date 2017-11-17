@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.721108,30.262278,-97.721108,30.262278",
     "geom:latitude":30.262278,
     "geom:longitude":-97.721108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1923 E 7th St Ste 100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_458PnRkf3JWOFXqBnFLSTt_30.262278_-97.721108@1303263054"
     },
     "wof:country":"US",
-    "wof:geomhash":"2061393c124845068a824bb16de035d3",
+    "wof:geomhash":"5e5bb812969dd1a54dd434e409e8311a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303285545,
-    "wof:lastmodified":1467083694,
+    "wof:lastmodified":1510944021,
     "wof:name":"Grande Communications",
     "wof:parent_id":85841417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303290557
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "provider",

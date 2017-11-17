@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.230553,26.200619,-98.230553,26.200619",
     "geom:latitude":26.200619,
     "geom:longitude":-98.230553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 S 10th St",
     "sg:city":"Mcallen",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6PaWgs07Bqy13K36Z6sn2N_26.200619_-98.230553@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"f578a24e6e2d40b0e16dd78ccdc05bf0",
+    "wof:geomhash":"1bba997a829add94d82e66e213105637",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":287247605,
-    "wof:lastmodified":1467083835,
+    "wof:lastmodified":1510942337,
     "wof:name":"D Tronics",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621960261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.310456,26.217503,-98.310456,26.217503",
     "geom:latitude":26.217503,
     "geom:longitude":-98.310456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Bryce Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4jzOZV7H0wmdiMsYC8AnQw_26.217503_-98.310456@1303263048"
     },
     "wof:country":"US",
-    "wof:geomhash":"5db64277d68aad71939b8b0c051ada0a",
+    "wof:geomhash":"a7291224e635a52c3669628a6b3076f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":287297321,
-    "wof:lastmodified":1467083838,
+    "wof:lastmodified":1510941966,
     "wof:name":"Mims Elementary",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621990115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

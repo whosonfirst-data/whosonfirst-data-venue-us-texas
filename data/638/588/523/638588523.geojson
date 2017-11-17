@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.352162,32.564972,-97.352162,32.564972",
     "geom:latitude":32.564972,
     "geom:longitude":-97.352162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"910 S Crowley Rd",
     "sg:city":"Crowley",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6naYdJpMyAnjaxQfeSeDfO_32.564972_-97.352162@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd4f1cb2228045c8128eb2c70d848a3b",
+    "wof:geomhash":"b5ef78eba95f214e9907c16f19844ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":638588523,
-    "wof:lastmodified":1467087326,
+    "wof:lastmodified":1510942016,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85838695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253696547
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80425,32.865376,-96.80425,32.865376",
     "geom:latitude":32.865376,
     "geom:longitude":-96.80425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8411 Preston Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_67bqEwMNlnexOWKkXdzYAh_32.865376_-96.804250@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4565c190cd4104dcb020f470171362d3",
+    "wof:geomhash":"340af83f9c3cac697f9c312edecca1de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219777833,
-    "wof:lastmodified":1467085139,
+    "wof:lastmodified":1510943246,
     "wof:name":"Koll Development Company",
     "wof:parent_id":85870419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605485793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

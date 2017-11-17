@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.751782,29.770421,-95.751782,29.770421",
     "geom:latitude":29.770421,
     "geom:longitude":-95.751782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"870 S Mason Rd Ste 108",
     "sg:city":"Katy",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4jPEQ9iWVqCHAHojI6oXo0_29.770421_-95.751782@1303263036"
     },
     "wof:country":"US",
-    "wof:geomhash":"3975a253b0590f6852309c78c843523b",
+    "wof:geomhash":"9100b283b1d83c3aa328b3871b9431e4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286691019,
-    "wof:lastmodified":1467084243,
+    "wof:lastmodified":1510943628,
     "wof:name":"Queens Nails",
     "wof:parent_id":85869215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622390717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

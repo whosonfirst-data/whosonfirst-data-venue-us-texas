@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.722365,30.368509,-97.722365,30.368509",
     "geom:latitude":30.368509,
     "geom:longitude":-97.722365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8910 Research Blvd Suite A2",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1ZtHtMTAxttpBXYUAdOZBB_30.368509_-97.722365@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"b419e2f9a13c49d5e82c6fafaed3e2b2",
+    "wof:geomhash":"95809ce2337517bbc3d887adf45840e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303781967,
-    "wof:lastmodified":1467083714,
+    "wof:lastmodified":1510941697,
     "wof:name":"Two Men and a Truck",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303793899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"

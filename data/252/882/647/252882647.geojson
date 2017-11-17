@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.809998,32.862301,-96.809998,32.862301",
     "geom:latitude":32.862301,
     "geom:longitude":-96.809998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5956 Sherry Ln Ste 725",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2TK69kR3GJSQJEuurE2QXv_32.862301_-96.809998@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf32f25b9ea16f101a7d4df15a84de36",
+    "wof:geomhash":"173fb0386fa143dd30852d39a6110464",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252882647,
-    "wof:lastmodified":1467084059,
+    "wof:lastmodified":1510943905,
     "wof:name":"Cohen Helene S Atty",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236717115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

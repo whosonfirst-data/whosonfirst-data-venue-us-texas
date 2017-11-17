@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.275995,32.661052,-97.275995,32.661052",
     "geom:latitude":32.661052,
     "geom:longitude":-97.275995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3228 SE Loop 820",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5LQxuEjeOfz65FP1QuB9KE_32.661052_-97.275995@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d63dcf91a0c80d25a96ffbe58978fd8e",
+    "wof:geomhash":"1279ed588f817cb879e7af21f3bfe06d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203367025,
-    "wof:lastmodified":1467084406,
+    "wof:lastmodified":1510942490,
     "wof:name":"Dennys",
     "wof:parent_id":85897397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638589909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

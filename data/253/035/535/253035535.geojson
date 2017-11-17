@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770665,32.848729,-96.770665,32.848729",
     "geom:latitude":32.848729,
     "geom:longitude":-96.770665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5646 Milton St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1qiZsBPFatZPVuYBcKy60L_32.848729_-96.770665@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2503d2029c2f895685a2ce424999638",
+    "wof:geomhash":"d6a0a49dc6a5ed50ca8fc1c4bfd895f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253035535,
-    "wof:lastmodified":1467085026,
+    "wof:lastmodified":1510942310,
     "wof:name":"Ed Jarrett Co",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605919433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.129713,30.08108,-94.129713,30.08108",
     "geom:latitude":30.08108,
     "geom:longitude":-94.129713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 N 11th St",
     "sg:city":"Beaumont",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_7ZIJCBVmbiDdUtl03vJoNP_30.081080_-94.129713@1303263042"
     },
     "wof:country":"US",
-    "wof:geomhash":"6de9468c4317d43011cf7ef012e6080d",
+    "wof:geomhash":"5e1e08f503278a4e5cff334ca8e0965d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":286982707,
-    "wof:lastmodified":1467084249,
+    "wof:lastmodified":1510942218,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":85808815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236742877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

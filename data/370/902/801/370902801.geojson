@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.735461,32.913494,-96.735461,32.913494",
     "geom:latitude":32.913494,
     "geom:longitude":-96.735461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12160 Abrams Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4xJe81xC2B4pgkIDGqFeRO_32.913494_-96.735461@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb8684ad6a22a5f9c190ca580244ec52",
+    "wof:geomhash":"85dbb8065298701300aa0bc1f9b0ee71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370902801,
-    "wof:lastmodified":1467084532,
+    "wof:lastmodified":1510943090,
     "wof:name":"RJN Group Inc",
     "wof:parent_id":85870453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605498455
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

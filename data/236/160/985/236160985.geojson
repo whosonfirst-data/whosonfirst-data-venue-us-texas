@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.750615,33.071773,-96.750615,33.071773",
     "geom:latitude":33.071773,
     "geom:longitude":-96.750615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3020 Legacy Dr Ste 140",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7Kk4fuq87Qbkj5p87SMRTO_33.071773_-96.750615@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6e2d75ebdf869098a46df05021bbc05",
+    "wof:geomhash":"2b87bdc436296eead261b73e79ee522d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236160985,
-    "wof:lastmodified":1467084009,
+    "wof:lastmodified":1510943493,
     "wof:name":"Nails In Time",
     "wof:parent_id":85879943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353745913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

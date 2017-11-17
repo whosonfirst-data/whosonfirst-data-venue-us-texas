@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.486296,29.731768,-95.486296,29.731768",
     "geom:latitude":29.731768,
     "geom:longitude":-95.486296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6060 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6dzngbUySEwuiwr0Dkm9a2_29.731768_-95.486296@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3bbbd7fc29b96b619590ede93fb270b7",
+    "wof:geomhash":"6d5cda305bb1c4e490df5838f1623aea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354005651,
-    "wof:lastmodified":1467085091,
+    "wof:lastmodified":1510941986,
     "wof:name":"J Friedman Inc",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270425693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

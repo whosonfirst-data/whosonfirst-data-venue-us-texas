@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.049693,33.427928,-94.049693,33.427928",
     "geom:latitude":33.427928,
     "geom:longitude":-94.049693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1002 Texas Blvd Ste 400",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5F6PIlcDt9mtxCmKkBkcIW_33.427928_-94.049693@1303262992"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba542e917db42c67573d2c6eb1fa9b0e",
+    "wof:geomhash":"54466239f143e6b7978239decef0aecd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":253375559,
-    "wof:lastmodified":1467084949,
+    "wof:lastmodified":1510942631,
     "wof:name":"John M Strayhorn Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605326989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

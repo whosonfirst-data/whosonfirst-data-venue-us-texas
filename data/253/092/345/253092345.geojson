@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.028494,33.08188,-97.028494,33.08188",
     "geom:latitude":33.08188,
     "geom:longitude":-97.028494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1315 Pinehurst Dr",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3onSgC52ZqqM2C09V5WFEc_33.081880_-97.028494@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d283cde73ca50faa295a0bb6bdef77c6",
+    "wof:geomhash":"24599cd11ce59a8b29f3d819c49b745c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253092345,
-    "wof:lastmodified":1467085027,
+    "wof:lastmodified":1510942679,
     "wof:name":"It's Breathtaking",
     "wof:parent_id":85893675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622828615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

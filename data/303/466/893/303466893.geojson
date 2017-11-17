@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.780273,30.376377,-97.780273,30.376377",
     "geom:latitude":30.376377,
     "geom:longitude":-97.780273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7600 N Capital Of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6rNW2r9UDAxPqWlmO97tiW_30.376377_-97.780273@1303263060"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c5e5d15dab9990ac19f3d0c7a19569c",
+    "wof:geomhash":"b68e39e6ec2e96cf17669108dacb8e74",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":303466893,
-    "wof:lastmodified":1467083728,
+    "wof:lastmodified":1510942895,
     "wof:name":"Medtronic Inc",
     "wof:parent_id":85870001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589078741
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.459297,29.753099,-95.459297,29.753099",
     "geom:latitude":29.753099,
     "geom:longitude":-95.459297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1330 Post Oak Blvd Ste 1600",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1CfDhSREMNNvwEorYDCv2F_29.753099_-95.459297@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc3e7b6b9d29ee84c1a7fde5a4f29fc5",
+    "wof:geomhash":"6f7655eeab911b93b94421b9e296f6bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270402697,
-    "wof:lastmodified":1467084175,
+    "wof:lastmodified":1510942776,
     "wof:name":"Hls Financial Services Inc",
     "wof:parent_id":85869067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621902563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

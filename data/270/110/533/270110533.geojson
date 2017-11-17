@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.432181,29.738272,-95.432181,29.738272",
     "geom:latitude":29.738272,
     "geom:longitude":-95.432181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3203 Mercer St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3zOAHkhNy8laWG7yNa1fdi_29.738272_-95.432181@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"0459b5beb88d788c7b86c171c9af8318",
+    "wof:geomhash":"c9a2df982ac178a81e863467464f1e10",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270110533,
-    "wof:lastmodified":1467084176,
+    "wof:lastmodified":1510942062,
     "wof:name":"Richard L Daniels",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353968309
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

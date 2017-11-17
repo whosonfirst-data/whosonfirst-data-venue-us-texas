@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.272309,29.65798,-95.272309,29.65798",
     "geom:latitude":29.65798,
     "geom:longitude":-95.272309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7930 Airport Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7BEaBaQyblLDfQwZMLDyNu_29.657980_-95.272309@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9413e2a83219477524679182db95371b",
+    "wof:geomhash":"f5e99061ccaf1265e64c3a30d8c0be18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":589002027,
-    "wof:lastmodified":1467085394,
+    "wof:lastmodified":1510941502,
     "wof:name":"Mary Rose Aviation",
     "wof:parent_id":85869295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270458527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"

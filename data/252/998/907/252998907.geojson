@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.838453,32.924585,-96.838453,32.924585",
     "geom:latitude":32.924585,
     "geom:longitude":-96.838453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12801 Midway Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7f77y4NSLzHVe5k6yUYg8j_32.924585_-96.838453@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bdf6853a290033515826de5452b08b7",
+    "wof:geomhash":"d72fb298fe731ca1bd667246cb2e361a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252998907,
-    "wof:lastmodified":1467084068,
+    "wof:lastmodified":1510941226,
     "wof:name":"Hi Tech Cleaners",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253171785
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"

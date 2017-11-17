@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.785055,30.227973,-97.785055,30.227973",
     "geom:latitude":30.227973,
     "geom:longitude":-97.785055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1705 W Ben White Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5VTRYOjCIVINxntWMEkHtU_30.227973_-97.785055@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"89aa3c09bdf0ad0dfecf1cf67aba1eb1",
+    "wof:geomhash":"db0bb5ea5f2c4512cdc09794a964b28a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":303342049,
-    "wof:lastmodified":1467083804,
+    "wof:lastmodified":1510943820,
     "wof:name":"Jiffy Lube",
     "wof:parent_id":85869965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589202179
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

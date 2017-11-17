@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.3593,29.759179,-95.3593,29.759179",
     "geom:latitude":29.759179,
     "geom:longitude":-95.3593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1305 Prairie St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_6QIWBl82W5wXL4wBUkG9Ia_29.759179_-95.359300@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"46706a3a37189f114a7005c1bc57f058",
+    "wof:geomhash":"99cf847203a97037dbc510c4c57ae54b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":269839153,
-    "wof:lastmodified":1467084612,
+    "wof:lastmodified":1510943260,
     "wof:name":"A A Quick Bailbonding",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622245637
+    ],
+    "wof:supersedes":[
+        269807883
+    ],
     "wof:tags":[
         "skip",
         "tracing",

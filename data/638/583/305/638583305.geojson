@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.80579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2601 Preston Rd",
     "sg:city":"Frisco",
     "sg:classifiers":[
@@ -58,13 +59,17 @@
         }
     ],
     "wof:id":638583305,
-    "wof:lastmodified":1510861630,
+    "wof:lastmodified":1510943441,
     "wof:name":"Dave & Buster's",
     "wof:parent_id":85831231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588863099
+    ],
+    "wof:supersedes":[
+        236183767
+    ],
     "wof:tags":[
         "american",
         "pub"

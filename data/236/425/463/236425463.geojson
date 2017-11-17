@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.765191,33.019401,-96.765191,33.019401",
     "geom:latitude":33.019401,
     "geom:longitude":-96.765191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3801 W 15th St Ste 150",
     "sg:city":"Plano",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6NWteKHKVleTRMjQh0tFVQ_33.019401_-96.765191@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"d08cb263d689afb626f6b733b2c864fb",
+    "wof:geomhash":"83e9aef6396047a5657d3d1843f04ffd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236425463,
-    "wof:lastmodified":1467083918,
+    "wof:lastmodified":1510942369,
     "wof:name":"Peter Raphael Md",
     "wof:parent_id":85879951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622393743
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

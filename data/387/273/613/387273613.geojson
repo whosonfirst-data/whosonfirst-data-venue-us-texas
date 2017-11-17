@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.343672,32.735588,-97.343672,32.735588",
     "geom:latitude":32.735588,
     "geom:longitude":-97.343672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 8th Ave",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6fPVMGypucp5xIx4U4YTtr_32.735588_-97.343672@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cfeca6d45faf955d98bfa78376cd966",
+    "wof:geomhash":"3dc4f2cef7b7c2bb34e400f9a5a9319c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":387273613,
-    "wof:lastmodified":1467084835,
+    "wof:lastmodified":1510943699,
     "wof:name":"Beupar Company",
     "wof:parent_id":85867237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622662421
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security"

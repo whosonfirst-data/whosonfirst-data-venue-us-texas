@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.550468,29.6674,-95.550468,29.6674",
     "geom:latitude":29.6674,
     "geom:longitude":-95.550468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10455 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1kB3pH3A9RDKO9H4XDdUdq_29.667400_-95.550468@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"623625f63c0bbc6a5808f5879b75f868",
+    "wof:geomhash":"e22a80240c8a9bf8ffb2e195c581c914",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":270516649,
-    "wof:lastmodified":1467084165,
+    "wof:lastmodified":1510943149,
     "wof:name":"Sterling McCall Acura",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622839977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

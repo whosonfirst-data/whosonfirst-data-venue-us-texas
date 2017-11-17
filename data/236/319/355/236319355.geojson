@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.959209,32.799931,-96.959209,32.799931",
     "geom:latitude":32.799931,
     "geom:longitude":-96.959209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 S Macarthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_4R6jbD7puCo1xOIXGG9Ky5_32.799931_-96.959209@1303262967"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6180a17a9287647643f18edf997d67d",
+    "wof:geomhash":"0bb773bf25c6fa2581469c63b25b0056",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":236319355,
-    "wof:lastmodified":1467083928,
+    "wof:lastmodified":1510942158,
     "wof:name":"Hope Center",
     "wof:parent_id":85878335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605501115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "testament",

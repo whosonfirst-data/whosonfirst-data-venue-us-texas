@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727699,30.323601,-97.727699,30.323601",
     "geom:latitude":30.323601,
     "geom:longitude":-97.727699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5555 N Lamar Blvd Ste K121",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1ARDlk9swVxbvzQvVJ33Pm_30.323601_-97.727699@1303263068"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b71a3892ad5aba5c1a8e6fd6b8f53d1",
+    "wof:geomhash":"16c459f015615ec0f883483d882fff9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":337404533,
-    "wof:lastmodified":1467084447,
+    "wof:lastmodified":1510942201,
     "wof:name":"Lam Inc",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588887623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

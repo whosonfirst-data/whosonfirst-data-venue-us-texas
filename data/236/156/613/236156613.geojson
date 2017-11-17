@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.703889,33.039354,-96.703889,33.039354",
     "geom:latitude":33.039354,
     "geom:longitude":-96.703889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3309 N Central Expy",
     "sg:city":"Plano",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6rJDRdHaKytZzvppdzVz0G_33.039354_-96.703889@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f3609a51940548c0685bff507ccc297",
+    "wof:geomhash":"16148483936bbd5e50c740531cd20b2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236156613,
-    "wof:lastmodified":1467083890,
+    "wof:lastmodified":1510944088,
     "wof:name":"Nakamoto",
     "wof:parent_id":85879939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638604453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

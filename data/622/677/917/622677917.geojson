@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.553823,29.49288,-98.553823,29.49288",
     "geom:latitude":29.49288,
     "geom:longitude":-98.553823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4522 Fredericksburg Rd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2M8Z9gmKO1MZK96Kq06bwL_29.492880_-98.553823@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8da5fb40c9519ecf1195836548e2ec05",
+    "wof:geomhash":"4c3e1d8ebeed8c489f387d41c490abd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":622677917,
-    "wof:lastmodified":1467087070,
+    "wof:lastmodified":1510943395,
     "wof:name":"Patty's Sewing Ctr",
     "wof:parent_id":85804295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605781951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

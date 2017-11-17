@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.097421,32.915411,-97.097421,32.915411",
     "geom:latitude":32.915411,
     "geom:longitude":-97.097421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2050 Grayson Dr",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7JnFucfvZy1pGRjJPG0Biw_32.915411_-97.097421@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c80b49ded7bbbaf7d0169f73f7fd82e",
+    "wof:geomhash":"791dbb94d912a7c742615c614f2f0b5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":169790495,
-    "wof:lastmodified":1467084567,
+    "wof:lastmodified":1510941713,
     "wof:name":"Royal Saint Moritz",
     "wof:parent_id":85839467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253737637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

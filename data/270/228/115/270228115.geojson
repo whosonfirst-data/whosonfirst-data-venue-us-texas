@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.553146,29.675962,-95.553146,29.675962",
     "geom:latitude":29.675962,
     "geom:longitude":-95.553146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9898 Bissonnet St Ste 250",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1u3ifLVHYY5VlTeOggnsyK_29.675962_-95.553146@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"787de46bdeecae3da466a3c341fcff6d",
+    "wof:geomhash":"743dde5ba4fe49e1a38849717aeba7a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270228115,
-    "wof:lastmodified":1467084174,
+    "wof:lastmodified":1510943414,
     "wof:name":"Regency Health Services",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236757775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

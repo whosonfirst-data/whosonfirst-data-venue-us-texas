@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80586,32.778433,-96.80586,32.778433",
     "geom:latitude":32.778433,
     "geom:longitude":-96.80586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_46VFG5ARZyJNu8C7hIq0pd_32.778433_-96.805860@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0f205872689c6a46bce0d9cc4cdb45a",
+    "wof:geomhash":"c9e11e9ba639f25178eb7f57e3ca5443",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":605160065,
-    "wof:lastmodified":1467085705,
+    "wof:lastmodified":1510941843,
     "wof:name":"County Cafeteria",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605368127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

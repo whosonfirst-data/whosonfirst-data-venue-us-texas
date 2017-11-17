@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741791,30.283295,-97.741791,30.283295",
     "geom:latitude":30.283295,
     "geom:longitude":-97.741791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2025 Guadalupe St Ste 152",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -65,7 +68,7 @@
         "sg:id":"SG_1UTSwCCAv1gLZsvyaFQJwn_30.283295_-97.741791@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"a308f955307ff5024e97dae009def828",
+    "wof:geomhash":"6aad5ec63af3040befb9475ac4bf8beb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -78,12 +81,14 @@
         }
     ],
     "wof:id":303359141,
-    "wof:lastmodified":1467083689,
+    "wof:lastmodified":1510943538,
     "wof:name":"Cafe Matisse",
     "wof:parent_id":85867211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622561267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "style",

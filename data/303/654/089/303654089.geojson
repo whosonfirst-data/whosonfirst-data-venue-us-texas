@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.864941,30.206454,-97.864941,30.206454",
     "geom:latitude":30.206454,
     "geom:longitude":-97.864941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8801 La Cresada Dr Apt 924",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5fiUlUdJqnGvCn2X1rqUqI_30.206454_-97.864941@1303263067"
     },
     "wof:country":"US",
-    "wof:geomhash":"52e4730a4a91f47f85bb133b83572489",
+    "wof:geomhash":"e905d85f7984c5f190db19e39aa83504",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303654089,
-    "wof:lastmodified":1467083733,
+    "wof:lastmodified":1510942604,
     "wof:name":"Legacy At Western Oaks",
     "wof:parent_id":85869989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303658239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

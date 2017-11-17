@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.866094,35.178286,-101.866094,35.178286",
     "geom:latitude":35.178286,
     "geom:longitude":-101.866094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3409 S Georgia St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_71Dwd4x9yuaakjGcvyxeUT_35.178286_-101.866094@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"01e99013b3415a64c95b3067ebd91fc1",
+    "wof:geomhash":"29a1aa2aa9a3f2cfc64d5390cbea085b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":606019769,
-    "wof:lastmodified":1467086330,
+    "wof:lastmodified":1510941442,
     "wof:name":"Rick's Formal Wear",
     "wof:parent_id":85875865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605164091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear",

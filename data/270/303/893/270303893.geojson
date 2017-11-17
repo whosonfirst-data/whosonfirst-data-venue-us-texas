@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.595196,29.788394,-95.595196,29.788394",
     "geom:latitude":29.788394,
     "geom:longitude":-95.595196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11931 Wickchester Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0TlNBoaSjbxEzDDRbdzy98_29.788394_-95.595196@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e8b78f65732e95d179557130a43a0a1",
+    "wof:geomhash":"78998c8f9f2d029594b2c61fa85f99a7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270303893,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510943471,
     "wof:name":"Aecc Inc",
     "wof:parent_id":85885361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622786121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

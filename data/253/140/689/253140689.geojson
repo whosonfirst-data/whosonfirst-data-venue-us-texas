@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.766359,32.919827,-96.766359,32.919827",
     "geom:latitude":32.919827,
     "geom:longitude":-96.766359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12655 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_7FtPLfpiKDHEMFzDWDGk5M_32.919827_-96.766359@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"d36ec69a362ccb1433cb8225e92802b7",
+    "wof:geomhash":"86d47451174bb2b8011e6e620c999555",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":253140689,
-    "wof:lastmodified":1467084959,
+    "wof:lastmodified":1510943321,
     "wof:name":"Lloyd Ward & Associates",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253159429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "litigation",

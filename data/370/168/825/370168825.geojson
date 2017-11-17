@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.360374,32.70427,-97.360374,32.70427",
     "geom:latitude":32.70427,
     "geom:longitude":-97.360374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3113 S University Dr",
     "sg:city":"Fort Worth",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5hRuB04t0WsIlwd5uvsDm5_32.704270_-97.360374@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"efaf011e12eca92b17873158ce33c30a",
+    "wof:geomhash":"2300e98cf137e9db0e2af44e82d8018f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370168825,
-    "wof:lastmodified":1467084513,
+    "wof:lastmodified":1510943530,
     "wof:name":"Corbin & Co",
     "wof:parent_id":85867241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403932503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory",

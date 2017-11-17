@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.810796,30.25632,-97.810796,30.25632",
     "geom:latitude":30.25632,
     "geom:longitude":-97.810796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2901 S Capital Of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_2V9eoiK9MxiZHno2O1R7Fw_30.256320_-97.810796@1303263065"
     },
     "wof:country":"US",
-    "wof:geomhash":"57f13a456b8a858c4cccc1be75dbe004",
+    "wof:geomhash":"1ef1d5462c61aafebf75ff927c892e4a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":303609239,
-    "wof:lastmodified":1467083737,
+    "wof:lastmodified":1510943195,
     "wof:name":"California Pizza Kitchen",
     "wof:parent_id":85893571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303613467
+    ],
+    "wof:supersedes":[
+        353815673
+    ],
     "wof:tags":[
         "american",
         "take",

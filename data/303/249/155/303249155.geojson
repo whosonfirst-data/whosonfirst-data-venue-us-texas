@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744499,30.2635,-97.744499,30.2635",
     "geom:latitude":30.2635,
     "geom:longitude":-97.744499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 Congress Ave Ste 1100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3xNTo7XnTPz4c1ij5pGttC_30.263500_-97.744499@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ebf823a140e492c6d182c9d9aa6d52a",
+    "wof:geomhash":"565086d6392a9e1820b3dcf6b6229aa3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303249155,
-    "wof:lastmodified":1467083698,
+    "wof:lastmodified":1510941687,
     "wof:name":"Kpmg Llp",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622303521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant",

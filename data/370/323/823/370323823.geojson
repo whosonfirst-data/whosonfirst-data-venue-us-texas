@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.789068,32.815438,-96.789068,32.815438",
     "geom:latitude":32.815438,
     "geom:longitude":-96.789068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4040 N Central Expy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -34,7 +37,7 @@
         "sg:id":"SG_7lehRtbe5Wn8BIcw5LsnKe_32.815438_-96.789068@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1cdffd702d6f6f121322076a216670f",
+    "wof:geomhash":"d175f956188caf570b47d242966ab43f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":370323823,
-    "wof:lastmodified":1467084476,
+    "wof:lastmodified":1510943297,
     "wof:name":"Three Architecture Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236882915
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.399527,29.711617,-95.399527,29.711617",
     "geom:latitude":29.711617,
     "geom:longitude":-95.399527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6550 Fannin St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5CTsJMCiVm4SBHx55AU3LK_29.711617_-95.399527@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7394e3e3752eb2b8493f60d844721b4",
+    "wof:geomhash":"be5a762f44be5321d7d4866754a0fca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":588790889,
-    "wof:lastmodified":1467085234,
+    "wof:lastmodified":1510942323,
     "wof:name":"Alkek Eye Center",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622294825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

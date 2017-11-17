@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724483,30.380595,-97.724483,30.380595",
     "geom:latitude":30.380595,
     "geom:longitude":-97.724483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9705 Burnet Rd Ste 314",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -66,7 +69,7 @@
         "sg:id":"SG_3oN6idxGUHfxEGF42EmnU2_30.380595_-97.724483@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bc52c006cc05357915e42b37c9063d5",
+    "wof:geomhash":"9627d83f935d038d947d807a93795860",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -79,12 +82,14 @@
         }
     ],
     "wof:id":303798143,
-    "wof:lastmodified":1467083714,
+    "wof:lastmodified":1510942368,
     "wof:name":"Austin Insurance Group",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622368767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "auto",

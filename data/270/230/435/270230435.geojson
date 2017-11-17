@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.5009,29.719601,-95.5009,29.719601",
     "geom:latitude":29.719601,
     "geom:longitude":-95.5009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5901 Hillcroft St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_48FqdDZnL31jZ2h2c0GhtO_29.719601_-95.500900@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"f0294251c097032d13548654188db9ca",
+    "wof:geomhash":"a5a94af3c7d92b6cbe7cc8a62d1f8676",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270230435,
-    "wof:lastmodified":1467084210,
+    "wof:lastmodified":1510942192,
     "wof:name":"Nice Jewelers",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622574617
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

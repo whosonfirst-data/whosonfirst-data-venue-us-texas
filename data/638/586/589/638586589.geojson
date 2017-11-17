@@ -11,7 +11,7 @@
     "geom:longitude":-96.109894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"6834 Wesley St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -43,6 +43,7 @@
     "wof:brand_id":1125149015,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2351483623,
         "sg:id":"SG_7P0rMCHHXFWEPzPiIq2HSS_33.101537_-96.109894@1299784598"
     },
     "wof:country":"US",
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":638586589,
-    "wof:lastmodified":1510877553,
+    "wof:lastmodified":1510944130,
     "wof:name":"Schlotzsky's",
     "wof:parent_id":85834533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236088311,
+        253337907
+    ],
     "wof:tags":[
         "wrap",
         "american",

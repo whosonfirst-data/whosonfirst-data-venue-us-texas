@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.241279,29.638553,-95.241279,29.638553",
     "geom:latitude":29.638553,
     "geom:longitude":-95.241279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10700 Gulf Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_02IoUz65fpBgVXaDgtKeES_29.638553_-95.241279@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"20ac8e9ba250ede0bf6e84429a933e51",
+    "wof:geomhash":"66bb3337a94ac4dbad181081b15fe935",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270195863,
-    "wof:lastmodified":1467084204,
+    "wof:lastmodified":1510941623,
     "wof:name":"Hi Tech Collision Center",
     "wof:parent_id":85816393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622803867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

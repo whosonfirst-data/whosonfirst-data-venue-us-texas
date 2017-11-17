@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.788984,32.822927,-96.788984,32.822927",
     "geom:latitude":32.822927,
     "geom:longitude":-96.788984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4514 Cole Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_76PssvphCkZ8zKvYMeF6xG_32.822927_-96.788984@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7dba63a48d68ee189f6d175a297e378d",
+    "wof:geomhash":"18ccd50ca84fdbb875a0911c45527947",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":387621115,
-    "wof:lastmodified":1467084870,
+    "wof:lastmodified":1510941503,
     "wof:name":"Mai Operations",
     "wof:parent_id":85893625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589088413
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operator",

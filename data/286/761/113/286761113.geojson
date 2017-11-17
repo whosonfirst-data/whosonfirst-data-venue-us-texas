@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.818049,29.771955,-95.818049,29.771955",
     "geom:latitude":29.771955,
     "geom:longitude":-95.818049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1306 Pin Oak Rd",
     "sg:city":"Katy",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_233JNlWZzMr81YYEFXYaFO_29.771955_-95.818049@1303263038"
     },
     "wof:country":"US",
-    "wof:geomhash":"f0679af5401b3e85e508fe4773fd3b63",
+    "wof:geomhash":"3fbca96fe216c64d781c7a9606471e93",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286761113,
-    "wof:lastmodified":1467084299,
+    "wof:lastmodified":1510942915,
     "wof:name":"Pizza Bella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354277679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

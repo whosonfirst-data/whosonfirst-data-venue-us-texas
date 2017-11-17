@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.25214,29.936394,-95.25214,29.936394",
     "geom:latitude":29.936394,
     "geom:longitude":-95.25214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9235 N Sam Houston Pkwy E",
     "sg:city":"Humble",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_3A7f9wKJZIToyiIvMmBJf4_29.936394_-95.252140@1303263035"
     },
     "wof:country":"US",
-    "wof:geomhash":"91b723166dadfe656d0a8551dc349da2",
+    "wof:geomhash":"ef15b6c3f68dcd149d5b1cb5f89aadd6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":286610613,
-    "wof:lastmodified":1467084316,
+    "wof:lastmodified":1510941972,
     "wof:name":"Walmart",
     "wof:parent_id":85835129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286613277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

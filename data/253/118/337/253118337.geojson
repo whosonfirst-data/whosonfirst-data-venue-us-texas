@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.751999,32.9389,-96.751999,32.9389",
     "geom:latitude":32.9389,
     "geom:longitude":-96.751999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14001 Goldmark Dr Ste 256",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1QJRvPSfi4bvvx5r1OaUYa_32.938900_-96.751999@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"b93d78fcb38f58af27e8fa786e745f5e",
+    "wof:geomhash":"2b95eddfe21a5702cc0f9fa950746761",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253118337,
-    "wof:lastmodified":1467085027,
+    "wof:lastmodified":1510942707,
     "wof:name":"E-Z Concepts",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622759881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

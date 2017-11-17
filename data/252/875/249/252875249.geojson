@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808403,32.863701,-96.808403,32.863701",
     "geom:latitude":32.863701,
     "geom:longitude":-96.808403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8300 Douglas Ave Ste 800",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_27b39y439wxbqoKCAbX4l1_32.863701_-96.808403@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"d27544eafc0f886b6cc958a81ae32e0d",
+    "wof:geomhash":"d331b9fcfc3693c635bd61f5079d615c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252875249,
-    "wof:lastmodified":1467084092,
+    "wof:lastmodified":1510943139,
     "wof:name":"Rossini William Paul PC",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605157737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

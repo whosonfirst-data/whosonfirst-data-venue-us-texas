@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.158067,32.013058,-102.158067,32.013058",
     "geom:latitude":32.013058,
     "geom:longitude":-102.158067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3315 N Loop 250 W",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5MdUJ6M4w5KFnlxK0i9GrQ_32.013058_-102.158067@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"514eb9e93166f16a46f4d5d438294985",
+    "wof:geomhash":"ea89807d7d6c6eb9392895170d6e7515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":622291871,
-    "wof:lastmodified":1467086725,
+    "wof:lastmodified":1510943819,
     "wof:name":"Lowes",
     "wof:parent_id":85893843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622561371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

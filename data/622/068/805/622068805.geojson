@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.943473,32.872328,-96.943473,32.872328",
     "geom:latitude":32.872328,
     "geom:longitude":-96.943473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 Las Colinas Blvd W",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3G2SjS1mtJC3eQs5zsVw3o_32.872328_-96.943473@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c927de852f1516b8f1247402aa75d5d5",
+    "wof:geomhash":"ac8ba6314523841a0d7c150994337d00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":622068805,
-    "wof:lastmodified":1467086562,
+    "wof:lastmodified":1510942589,
     "wof:name":"ITA Group",
     "wof:parent_id":85878345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622406877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

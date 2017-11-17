@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.6674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2645 Arapaho Rd Ste 592",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -51,13 +52,17 @@
         }
     ],
     "wof:id":236292699,
-    "wof:lastmodified":1510877549,
+    "wof:lastmodified":1510943494,
     "wof:name":"Tom Thumb Food & Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588766633
+    ],
+    "wof:supersedes":[
+        236289895
+    ],
     "wof:tags":[]
 },
   "bbox": [

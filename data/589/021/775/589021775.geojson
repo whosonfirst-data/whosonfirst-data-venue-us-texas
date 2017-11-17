@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.82392,30.156206,-97.82392,30.156206",
     "geom:latitude":30.156206,
     "geom:longitude":-97.82392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1141 Penion Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_67uUajAEFT2YBe3MMrmr1M_30.156206_-97.823920@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e118be35f14cc3bc14bf479b027bd72",
+    "wof:geomhash":"19bd7a1c8591e670a456e8f73cc3e8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":589021775,
-    "wof:lastmodified":1467085408,
+    "wof:lastmodified":1510944127,
     "wof:name":"Far South Wholesale Nursery",
     "wof:parent_id":85819757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303643237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

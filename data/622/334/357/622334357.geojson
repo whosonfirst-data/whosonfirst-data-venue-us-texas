@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.36633,27.706193,-97.36633,27.706193",
     "geom:latitude":27.706193,
     "geom:longitude":-97.36633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5858 S Padre Island Dr",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7m2w4tFCiB4lQrFi3rK7IM_27.706193_-97.366330@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3f4589a7676344bc2472b1c235c0732",
+    "wof:geomhash":"4a42ead6bb7f5b26cc960efd2beaa271",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":622334357,
-    "wof:lastmodified":1467086757,
+    "wof:lastmodified":1510944140,
     "wof:name":"Richs",
     "wof:parent_id":85821067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622385423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.95895,32.888768,-96.95895,32.888768",
     "geom:latitude":32.888768,
     "geom:longitude":-96.95895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"925 W John Carpenter Fwy Ste 101",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_3ij8k5pqg95zOk87Ou1QRI_32.888768_-96.958950@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"04c6cf1e13db2bf9c61881c57de1fbb7",
+    "wof:geomhash":"7563ba90d270a125c1892f829bf76b7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":236207463,
-    "wof:lastmodified":1467083982,
+    "wof:lastmodified":1510943303,
     "wof:name":"H&R Block",
     "wof:parent_id":85878327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589136925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

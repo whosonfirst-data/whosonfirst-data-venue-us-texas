@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.743001,30.277877,-97.743001,30.277877",
     "geom:latitude":30.277877,
     "geom:longitude":-97.743001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 W 15th Street",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5J07N3dllvEtFWb6Du14lx_30.277877_-97.743001@1303263051"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f96446299442645145242f5855cbc40",
+    "wof:geomhash":"e3da64fa06df3c6fcb75bffd7e76d697",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303200567,
-    "wof:lastmodified":1467083740,
+    "wof:lastmodified":1510941276,
     "wof:name":"Texas Dermatological Society",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622426845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "service/non-profit",

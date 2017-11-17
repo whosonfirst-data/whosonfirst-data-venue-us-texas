@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.458084,30.312159,-95.458084,30.312159",
     "geom:latitude":30.312159,
     "geom:longitude":-95.458084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 W Davis St Ste 520",
     "sg:city":"Conroe",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5ZHU05uS4oVvsSb7VgQnA6_30.312159_-95.458084@1303263032"
     },
     "wof:country":"US",
-    "wof:geomhash":"489a29b10c928c044c54c75fea24e67e",
+    "wof:geomhash":"50af90d87b84097664fbf9fcd88370b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":286449155,
-    "wof:lastmodified":1467084311,
+    "wof:lastmodified":1510941775,
     "wof:name":"Jack Mccormick Attorney",
     "wof:parent_id":85893749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370704769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

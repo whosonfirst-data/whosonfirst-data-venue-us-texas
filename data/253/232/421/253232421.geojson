@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8283,32.985802,-96.8283,32.985802",
     "geom:latitude":32.985802,
     "geom:longitude":-96.8283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17311 Dallas Pkwy Ste 173",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_7bQtQKdC9rXBT7TgLIFwuv_32.985802_-96.828300@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5baf2fbfaf7d07a621f24b92a3be206",
+    "wof:geomhash":"d0a868f676c67b47eaca60d759c797cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":253232421,
-    "wof:lastmodified":1467084978,
+    "wof:lastmodified":1510943756,
     "wof:name":"Mortgage Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605775819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

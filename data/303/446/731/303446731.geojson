@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.7558,30.438884,-97.7558,30.438884",
     "geom:latitude":30.438884,
     "geom:longitude":-97.7558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6816 McNeil Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -35,10 +38,11 @@
     "wof:brand_id":420574111,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2548094810,
         "sg:id":"SG_2Pjsd9xujFYiukQ1nauTUY_30.438884_-97.755800@1303263060"
     },
     "wof:country":"US",
-    "wof:geomhash":"05029ed500aa923bb6f7be0dd13b0e00",
+    "wof:geomhash":"24c6b0d73a0fa3ea5cdcff87549ccd9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,13 +54,17 @@
         }
     ],
     "wof:id":303446731,
-    "wof:lastmodified":1467083802,
+    "wof:lastmodified":1510943764,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        638601845
+    ],
+    "wof:supersedes":[
+        638601845
+    ],
     "wof:tags":[
         "burger"
     ]

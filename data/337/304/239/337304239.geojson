@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.80677,32.77824,-96.80677,32.77824",
     "geom:latitude":32.77824,
     "geom:longitude":-96.80677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Commerce St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3pkEHAih06SUNYTfi3wwW6_32.778240_-96.806770@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"733d7936a400c2fb595061815206c1ff",
+    "wof:geomhash":"3764dc7427543a0fbd8499e57895d313",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":337304239,
-    "wof:lastmodified":1467084449,
+    "wof:lastmodified":1510941626,
     "wof:name":"Dallas County Records Dept",
     "wof:parent_id":85867231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622146545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parish",

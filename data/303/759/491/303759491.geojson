@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.730262,30.329041,-97.730262,30.329041",
     "geom:latitude":30.329041,
     "geom:longitude":-97.730262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5700 Grover Ave",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_2Q2VR7gOc5QsbWu8EJFKwL_30.329041_-97.730262@1303263070"
     },
     "wof:country":"US",
-    "wof:geomhash":"42dd13b360dc1678f04e8dc03a99c4f6",
+    "wof:geomhash":"292f52459d1b3ab250ed764848c38327",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303759491,
-    "wof:lastmodified":1467083814,
+    "wof:lastmodified":1510942554,
     "wof:name":"Dart Bowl",
     "wof:parent_id":85871093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303760307
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

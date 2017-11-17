@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.839782,32.698341,-96.839782,32.698341",
     "geom:latitude":32.698341,
     "geom:longitude":-96.839782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3738 Marvin D Love Fwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1OQwLDVInj0CppLqpHfQUC_32.698341_-96.839782@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"69c2a95e79b20d7744e0b7d0dc4af759",
+    "wof:geomhash":"90487f85b7a2e8b5d831484eb7c48bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":606020587,
-    "wof:lastmodified":1467086330,
+    "wof:lastmodified":1510942029,
     "wof:name":"Grandys",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638605093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.992653,32.958019,-96.992653,32.958019",
     "geom:latitude":32.958019,
     "geom:longitude":-96.992653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"580 S Denton Tap Rd Ste 100",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1f7wtSGX4zCQdT3Eo0tzPZ_32.958019_-96.992653@1303262963"
     },
     "wof:country":"US",
-    "wof:geomhash":"262720baef04b001c1e0d5f161c55e0a",
+    "wof:geomhash":"dbdf57fdb8c0da894b06097fc3537b62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236134777,
-    "wof:lastmodified":1467084029,
+    "wof:lastmodified":1510942175,
     "wof:name":"Coppell Spine & Sports Rehab",
     "wof:parent_id":85870427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605416891
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy",

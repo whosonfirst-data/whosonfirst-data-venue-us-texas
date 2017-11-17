@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.716866,32.971361,-96.716866,32.971361",
     "geom:latitude":32.971361,
     "geom:longitude":-96.716866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 N Greenville Ave",
     "sg:city":"Richardson",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2fsvR35o82FD5J7CFT9W9F_32.971361_-96.716866@1303262971"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ff236a0e0287d03c877299625bbed71",
+    "wof:geomhash":"91f8d6135938467f5da2cdbbf6efe166",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236490071,
-    "wof:lastmodified":1467084020,
+    "wof:lastmodified":1510943284,
     "wof:name":"M C A Message Centers America",
     "wof:parent_id":85880219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622394825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mail",

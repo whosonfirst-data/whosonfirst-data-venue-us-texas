@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.775597,32.914799,-96.775597,32.914799",
     "geom:latitude":32.914799,
     "geom:longitude":-96.775597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12200 Park Central Dr Ste 300",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3qdyosz6oxYnZ9Ye0nmVDh_32.914799_-96.775597@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"cecb14c50084678777cc69ccad92531e",
+    "wof:geomhash":"1c6f219ba45ca0685abdfa02df186ebc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":253251017,
-    "wof:lastmodified":1467084947,
+    "wof:lastmodified":1510941556,
     "wof:name":"Park Central Surgical Ctr",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605465709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

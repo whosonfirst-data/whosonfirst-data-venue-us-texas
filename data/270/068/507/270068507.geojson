@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-95.557297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"10565 Katy Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":270068507,
-    "wof:lastmodified":1510697663,
+    "wof:lastmodified":1510943225,
     "wof:name":"Huntington Learning Center",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605570479
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"

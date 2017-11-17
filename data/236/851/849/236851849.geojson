@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.800957,32.780261,-96.800957,32.780261",
     "geom:latitude":32.780261,
     "geom:longitude":-96.800957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1302 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7M0YDzcNIQJPdLi6VHFmp4_32.780261_-96.800957@1303262977"
     },
     "wof:country":"US",
-    "wof:geomhash":"19f45432e7e27c8878cde1c188588714",
+    "wof:geomhash":"50c38bda295b670bfbaa07c41c5af1c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236851849,
-    "wof:lastmodified":1467083975,
+    "wof:lastmodified":1510943085,
     "wof:name":"Ten Sports Grill",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622833445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

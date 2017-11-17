@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.645515,29.851211,-95.645515,29.851211",
     "geom:latitude":29.851211,
     "geom:longitude":-95.645515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4992 Highway 6 N",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_43q4d0novsz42dCUedwq7h_29.851211_-95.645515@1303263029"
     },
     "wof:country":"US",
-    "wof:geomhash":"e900c19bbc5dda4fdfcb8eebcd6bad31",
+    "wof:geomhash":"e64ac8db04bf2f42d9f0865ef8819292",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286321899,
-    "wof:lastmodified":1467084238,
+    "wof:lastmodified":1510943130,
     "wof:name":"Big Daddy's BBQ",
     "wof:parent_id":85869839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638606841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-97.967088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2102 Ranch Road 620 S",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"f234342c73a5302d726dab807340bdf6",
     "wof:hierarchy":[],
     "wof:id":638601879,
-    "wof:lastmodified":1510875234,
+    "wof:lastmodified":1510942435,
     "wof:name":"Sonic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589130443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

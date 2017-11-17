@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.773804,30.225765,-97.773804,30.225765",
     "geom:latitude":30.225765,
     "geom:longitude":-97.773804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4007 James Casey St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4NtUSFD6vX3YePqeIOagsu_30.225765_-97.773804@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"db3901772d67a9cfc95efb0654ab4938",
+    "wof:geomhash":"c35e7bc978f888ce1d0f93d6191b2ef6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":219651981,
-    "wof:lastmodified":1467085114,
+    "wof:lastmodified":1510942193,
     "wof:name":"Pediatric Professionals South",
     "wof:parent_id":85869969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303600031
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

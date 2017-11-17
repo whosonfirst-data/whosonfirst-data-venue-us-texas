@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.767097,32.907101,-96.767097,32.907101",
     "geom:latitude":32.907101,
     "geom:longitude":-96.767097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11615 Forest Central Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6INwt4nV4k8aOPYz6FGAy7_32.907101_-96.767097@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"3142c045f93b4756da6251fb16997d0c",
+    "wof:geomhash":"dad552e8d5478a041fbbf81c8093d344",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253166263,
-    "wof:lastmodified":1467085002,
+    "wof:lastmodified":1510941477,
     "wof:name":"Spp Management Inc",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605252587
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

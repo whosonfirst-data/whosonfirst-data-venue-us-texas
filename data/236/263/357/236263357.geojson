@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.675903,32.9039,-96.675903,32.9039",
     "geom:latitude":32.9039,
     "geom:longitude":-96.675903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3102 Miller Park S Ste 400",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2jlgJ2vaWg5z0tGaH8amwI_32.903900_-96.675903@1303262966"
     },
     "wof:country":"US",
-    "wof:geomhash":"034b95a5ce4aa8e7a7ebfe3c3a951542",
+    "wof:geomhash":"8365c3a7cd3835b2180d63b35ccfb8b2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236263357,
-    "wof:lastmodified":1467084034,
+    "wof:lastmodified":1510943043,
     "wof:name":"Dap Inc",
     "wof:parent_id":85877699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621885883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.799797,30.3493,-97.799797,30.3493",
     "geom:latitude":30.3493,
     "geom:longitude":-97.799797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 Plaza On the Lk",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0Z39XKFRTLKvXvzKqszxfB_30.349300_-97.799797@1303263066"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6dbb6ef2a703e0b5c066a39a69d9741",
+    "wof:geomhash":"15388273fe0a810bee135c01767bd2ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303626001,
-    "wof:lastmodified":1467083813,
+    "wof:lastmodified":1510943133,
     "wof:name":"First Continental Mortgage Company",
     "wof:parent_id":85893503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621924641
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

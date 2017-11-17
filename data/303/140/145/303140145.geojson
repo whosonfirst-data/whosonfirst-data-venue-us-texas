@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549629,30.54455,-97.549629,30.54455",
     "geom:latitude":30.54455,
     "geom:longitude":-97.549629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 West St",
     "sg:city":"Hutto",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4Duc6Ebc3OXHEZZ8AKcY8A_30.544550_-97.549629@1303263050"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce07deb1a513dd58b424a428131c9215",
+    "wof:geomhash":"c0abf8b6c42817269df7119f3ffc1627",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303140145,
-    "wof:lastmodified":1467083709,
+    "wof:lastmodified":1510943862,
     "wof:name":"El Poblanito Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589202931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

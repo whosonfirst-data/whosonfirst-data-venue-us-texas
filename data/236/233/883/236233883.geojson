@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.59716,32.935371,-96.59716,32.935371",
     "geom:latitude":32.935371,
     "geom:longitude":-96.59716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2205 Country Hollow Ln",
     "sg:city":"Garland",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6ohbTY1KjuNktQrpwEOeDx_32.935371_-96.597160@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"498e593831e181aa75d536d883845377",
+    "wof:geomhash":"320faf7f4f94560089be279ccc2b9d65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236233883,
-    "wof:lastmodified":1467084043,
+    "wof:lastmodified":1510944069,
     "wof:name":"Barbara Hill Studios",
     "wof:parent_id":85877687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589099645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

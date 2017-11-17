@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.821797,32.932724,-96.821797,32.932724",
     "geom:latitude":32.932724,
     "geom:longitude":-96.821797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13350 Dallas Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3tmOUkQF5jZF4Pp2rF7yGH_32.932724_-96.821797@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d729b922a098e2d98b5df09656e3e8a",
+    "wof:geomhash":"f9afb807248980409e65412043b169e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253281021,
-    "wof:lastmodified":1467085031,
+    "wof:lastmodified":1510942377,
     "wof:name":"McDonalds",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638586271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

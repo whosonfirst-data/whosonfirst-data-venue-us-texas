@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.798327,32.783253,-96.798327,32.783253",
     "geom:latitude":32.783253,
     "geom:longitude":-96.798327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 N Ervay St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4lInnVxcONzBtxQpAQugXN_32.783253_-96.798327@1303262975"
     },
     "wof:country":"US",
-    "wof:geomhash":"694c7eba90164322b308219571b15d14",
+    "wof:geomhash":"ce1c01d71cad4fd08221ca17987d44a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236796385,
-    "wof:lastmodified":1467083940,
+    "wof:lastmodified":1510943782,
     "wof:name":"Computer Repair Dallas - Geeks in Minutes",
     "wof:parent_id":85882335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236796365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

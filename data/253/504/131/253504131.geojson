@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.292183,32.345026,-95.292183,32.345026",
     "geom:latitude":32.345026,
     "geom:longitude":-95.292183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 Douglas Blvd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
         "sg:id":"SG_199M3aEhiUo8p6gZblukAA_32.345026_-95.292183@1303262994"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d4ac3e3787a708116564791d252e3f1",
+    "wof:geomhash":"eb14613bfa27feaa03e208f825a596fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":253504131,
-    "wof:lastmodified":1467084963,
+    "wof:lastmodified":1510943178,
     "wof:name":"Trinity Clinic",
     "wof:parent_id":85817725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605115453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

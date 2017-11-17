@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.14552,26.299038,-98.14552,26.299038",
     "geom:latitude":26.299038,
     "geom:longitude":-98.14552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1605 E University Dr",
     "sg:city":"Edinburg",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_70QT8XruWsMOeyaT7oBYBt_26.299038_-98.145520@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"78d447d833b5f46d84455b742e991320",
+    "wof:geomhash":"330dc3060c1a54bf2c6b7b2237e4aaaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":606074663,
-    "wof:lastmodified":1467086370,
+    "wof:lastmodified":1510942965,
     "wof:name":"Mcdonald's",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622798539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.731133,32.47274,-99.731133,32.47274",
     "geom:latitude":32.47274,
     "geom:longitude":-99.731133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1933 Pine St Ste 1A",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2Zrrv1Rfhatb8UMksb8dwl_32.472740_-99.731133@1303263077"
     },
     "wof:country":"US",
-    "wof:geomhash":"822027faaf1046cd949548be04257e87",
+    "wof:geomhash":"8148cae8822920eba4a679402b86ad9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":304044929,
-    "wof:lastmodified":1467084665,
+    "wof:lastmodified":1510943781,
     "wof:name":"Laura A Barber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622270641
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

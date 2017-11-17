@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.720299,30.313801,-97.720299,30.313801",
     "geom:latitude":30.313801,
     "geom:longitude":-97.720299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5011 Duval St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4gxbZYFRhod63rWfHCkxpJ_30.314062_-97.719919@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba388a903e83be391644f84570303614",
+    "wof:geomhash":"57f42b91a552a2f5c791acfaeaa4c854",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,13 +57,17 @@
         }
     ],
     "wof:id":622831467,
-    "wof:lastmodified":1467087285,
+    "wof:lastmodified":1510942723,
     "wof:name":"Flightpath Coffeehouse",
     "wof:parent_id":85893547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303700513
+    ],
+    "wof:supersedes":[
+        303700513
+    ],
     "wof:tags":[
         "eating"
     ]

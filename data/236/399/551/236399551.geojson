@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625906,33.216314,-96.625906,33.216314",
     "geom:latitude":33.216314,
     "geom:longitude":-96.625906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1502 W University Dr # 107",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3Q3uKoXe37lmiSKoEBBArb_33.216314_-96.625906@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"2da10cd96913a8cee76a1e2e7210109d",
+    "wof:geomhash":"d5069a23965747ad027e090d3a4c6687",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236399551,
-    "wof:lastmodified":1467083886,
+    "wof:lastmodified":1510941354,
     "wof:name":"North Texas Chiropractic",
     "wof:parent_id":85857315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387539157
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"

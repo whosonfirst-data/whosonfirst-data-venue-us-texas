@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.113249,29.557529,-95.113249,29.557529",
     "geom:latitude":29.557529,
     "geom:longitude":-95.113249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1331 Gemini St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0DQWFAypuGeH8yZAzeyvhO_29.557529_-95.113249@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"8018f23c0b53a5c20f303f6e9b0f93a4",
+    "wof:geomhash":"513deccbd3c58394f15d47e10cd62c82",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":203131927,
-    "wof:lastmodified":1467084395,
+    "wof:lastmodified":1510944183,
     "wof:name":"Tietronix Software Inc",
     "wof:parent_id":85869175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270441265
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

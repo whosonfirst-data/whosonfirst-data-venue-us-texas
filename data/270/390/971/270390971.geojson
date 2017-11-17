@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.463319,29.760728,-95.463319,29.760728",
     "geom:latitude":29.760728,
     "geom:longitude":-95.463319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"770 S Post Oak Ln Suite 620",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_5BfXpcTqqvg1VtfRbD9elO_29.760728_-95.463319@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"046607f55cba64d51f45cadc314f5e91",
+    "wof:geomhash":"cfbe982ef84bb8f64ba99bed52802c5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":270390971,
-    "wof:lastmodified":1467084232,
+    "wof:lastmodified":1510942127,
     "wof:name":"Azzo & Azzo",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605156065
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.786201,32.9212,-96.786201,32.9212",
     "geom:latitude":32.9212,
     "geom:longitude":-96.786201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12700 Hillcrest Rd Ste 172",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_7R4isL91RXzeS7v11CxH1s_32.921200_-96.786201@1303262985"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaf6d24c2b66ae366769faf79bc5842d",
+    "wof:geomhash":"5866ffc3bd7d4499aa64702bd97a67ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":252974891,
-    "wof:lastmodified":1467084101,
+    "wof:lastmodified":1510943255,
     "wof:name":"Showhomes of America",
     "wof:parent_id":85897339,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605121821
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

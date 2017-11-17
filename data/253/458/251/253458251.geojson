@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.720279,32.527972,-94.720279,32.527972",
     "geom:latitude":32.527972,
     "geom:longitude":-94.720279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2502 N Eastman Rd",
     "sg:city":"Longview",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0N8QK58LASJNfh6ENiHCOR_32.527972_-94.720279@1303262993"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f88d9b1e11d11a894c4111e2e25ff02",
+    "wof:geomhash":"65a1fb40c63c79c1f0927745778fc33d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253458251,
-    "wof:lastmodified":1467085018,
+    "wof:lastmodified":1510943533,
     "wof:name":"Cubby Hole Texas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621983201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

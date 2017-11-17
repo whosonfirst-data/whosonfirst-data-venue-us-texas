@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.960063,32.865101,-96.960063,32.865101",
     "geom:latitude":32.865101,
     "geom:longitude":-96.960063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1110 Cottonwood Ln Ste 100",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5iMnPhreOM2ZBOSVxcOMxW_32.865101_-96.960063@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f4762d60166a227c2dcc9a682bdd31e",
+    "wof:geomhash":"40b8ffa1924a32d4985d3e8a7db6e271",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236197577,
-    "wof:lastmodified":1467084015,
+    "wof:lastmodified":1510942383,
     "wof:name":"Biard Maria MD",
     "wof:parent_id":85878299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236203539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.344955,30.65653,-96.344955,30.65653",
     "geom:latitude":30.65653,
     "geom:longitude":-96.344955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2700 E 29th St",
     "sg:city":"Bryan",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6pmfVToWd8fnSNU2qzAprv_30.656530_-96.344955@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"42e31c6c97837223f41f5565ac379a9c",
+    "wof:geomhash":"f35c73670654840f2415aeaf660a0ba2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":353902539,
-    "wof:lastmodified":1467084362,
+    "wof:lastmodified":1510943473,
     "wof:name":"Alford Richard D MD Facs",
     "wof:parent_id":85893603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287008049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

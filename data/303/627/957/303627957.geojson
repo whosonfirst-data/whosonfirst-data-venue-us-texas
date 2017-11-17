@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.800499,30.2745,-97.800499,30.2745",
     "geom:latitude":30.2745,
     "geom:longitude":-97.800499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Bee Caves Rd Ste 765",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0J2yh5NDnHbGDnlZrT6IEl_30.274500_-97.800499@1303263066"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cd38ffa8c0cbea431d61fccde880f57",
+    "wof:geomhash":"ad8d0d7e173af584e13f26d57c25bb84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303627957,
-    "wof:lastmodified":1467083815,
+    "wof:lastmodified":1510943782,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85845797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236684521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

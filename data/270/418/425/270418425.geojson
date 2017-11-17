@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.491621,29.732407,-95.491621,29.732407",
     "geom:latitude":29.732407,
     "geom:longitude":-95.491621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6222 Richmond Ave Ste 735",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_60jcKN4OYntHSvjBRNgvi6_29.732407_-95.491621@1303263024"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd6fe6ba484105d627246afc7e1cd902",
+    "wof:geomhash":"bc38f977f95ef2a160b47af48a1b8f44",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270418425,
-    "wof:lastmodified":1467084212,
+    "wof:lastmodified":1510942173,
     "wof:name":"Joseph Secan Company",
     "wof:parent_id":85869143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236855273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

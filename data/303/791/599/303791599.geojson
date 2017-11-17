@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.726628,30.396079,-97.726628,30.396079",
     "geom:latitude":30.396079,
     "geom:longitude":-97.726628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11011 Domain Dr Suite 8100",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0K71AUP6vUjNhOcHWvLC0K_30.396079_-97.726628@1303263071"
     },
     "wof:country":"US",
-    "wof:geomhash":"afde7ffa062bbed1b5dcf6a6aee3cbc4",
+    "wof:geomhash":"32b50330c0b233a586474dddf780f757",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303791599,
-    "wof:lastmodified":1467083785,
+    "wof:lastmodified":1510942208,
     "wof:name":"Villages at The Domain",
     "wof:parent_id":85869879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303812659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.828252,32.689713,-96.828252,32.689713",
     "geom:latitude":32.689713,
     "geom:longitude":-96.828252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4515 Village Fair Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1wE9r9KQL9P8WrNp5GkUSM_32.689713_-96.828252@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c4865539008cf1efcaba4c8ceb98f6d",
+    "wof:geomhash":"23f69fb897c0081295eb12a46c855e60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":605058827,
-    "wof:lastmodified":1467085632,
+    "wof:lastmodified":1510941328,
     "wof:name":"Boom Town Shoes",
     "wof:parent_id":85870471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252858127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

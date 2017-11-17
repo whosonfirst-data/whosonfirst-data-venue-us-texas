@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.365196,29.7614,-95.365196,29.7614",
     "geom:latitude":29.7614,
     "geom:longitude":-95.365196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"615 Louisiana St Ste 102",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_70vj10nGVJLWh0haKl8Qjm_29.761400_-95.365196@1303263006"
     },
     "wof:country":"US",
-    "wof:geomhash":"881a7c8d70e61f5f1a849b51fb617e68",
+    "wof:geomhash":"e655a5dca3f381ab24278983aab1a732",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":269801381,
-    "wof:lastmodified":1467084627,
+    "wof:lastmodified":1510941618,
     "wof:name":"Houston Symphony",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354148999
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing",

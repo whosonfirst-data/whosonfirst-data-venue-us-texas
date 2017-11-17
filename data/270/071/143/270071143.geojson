@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.511211,29.783026,-95.511211,29.783026",
     "geom:latitude":29.783026,
     "geom:longitude":-95.511211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9039 Katy Fwy Ste 236",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6xDeJVIemioMpmBOKGKarG_29.783026_-95.511211@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddf4708e1cefbbb6da28dca75dd8acd6",
+    "wof:geomhash":"e4f1d4ee0c7270e70294da0da179b166",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270071143,
-    "wof:lastmodified":1467084201,
+    "wof:lastmodified":1510942072,
     "wof:name":"Corbel Custom Homes Inc",
     "wof:parent_id":85850655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220174595
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

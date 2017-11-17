@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.824943,32.957792,-96.824943,32.957792",
     "geom:latitude":32.957792,
     "geom:longitude":-96.824943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15301 Spectrum Dr Ste 370",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6HfwxrtgxgrbkOOdtLMMQn_32.957792_-96.824943@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c24305e62c1c2697d2e080d4732fbca",
+    "wof:geomhash":"6ba6c968710cb8d1759760678c66c1fc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236020321,
-    "wof:lastmodified":1467083939,
+    "wof:lastmodified":1510941658,
     "wof:name":"Finance America Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622068683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

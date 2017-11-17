@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.445783,29.791559,-95.445783,29.791559",
     "geom:latitude":29.791559,
     "geom:longitude":-95.445783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3602 W 12th St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7MAyViVHI4RMSUe42i11Ld_29.791559_-95.445783@1303263010"
     },
     "wof:country":"US",
-    "wof:geomhash":"a55f3998cda3276ed4605ffa87e1d447",
+    "wof:geomhash":"df54a9db7b4d3e15771738f2fefe456c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":269933649,
-    "wof:lastmodified":1467084585,
+    "wof:lastmodified":1510942835,
     "wof:name":"Traditional Designs",
     "wof:parent_id":85869411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269936801
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

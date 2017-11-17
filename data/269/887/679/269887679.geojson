@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.414101,29.717501,-95.414101,29.717501",
     "geom:latitude":29.717501,
     "geom:longitude":-95.414101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2370 Rice Blvd Ste 112",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6qy1MKymwMpNSVpct4UEzP_29.717501_-95.414101@1303263009"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fd13bd68dcac268ab5a1da32a8f359b",
+    "wof:geomhash":"41d451a447cb63756e65e842e660d413",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269887679,
-    "wof:lastmodified":1467084626,
+    "wof:lastmodified":1510942911,
     "wof:name":"Taft Architects",
     "wof:parent_id":85893799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622623235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

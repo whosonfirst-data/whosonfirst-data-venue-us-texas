@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.394177,29.755488,-95.394177,29.755488",
     "geom:latitude":29.755488,
     "geom:longitude":-95.394177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1210 W Clay St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5Kw6gSqxzHUKT7Dz4SqdEP_29.755488_-95.394177@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4add6231b909af891efdd29f218029c6",
+    "wof:geomhash":"1c26c956fda287fc869981bbd4995090",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":185704691,
-    "wof:lastmodified":1467084118,
+    "wof:lastmodified":1510942267,
     "wof:name":"F D 2 S Inc",
     "wof:parent_id":85869521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621984579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial",

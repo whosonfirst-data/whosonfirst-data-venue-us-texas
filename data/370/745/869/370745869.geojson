@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.008166,28.828731,-97.008166,28.828731",
     "geom:latitude":28.828731,
     "geom:longitude":-97.008166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3614 N Main St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6ek5Pyh4ywnv9bBg89PAkP_28.828731_-97.008166@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b3334c725d5232852620ec29ce91d7e",
+    "wof:geomhash":"dbe95b70303fb3cf9c85fb0401b9183a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":370745869,
-    "wof:lastmodified":1467084550,
+    "wof:lastmodified":1510942506,
     "wof:name":"KATS Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287043913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

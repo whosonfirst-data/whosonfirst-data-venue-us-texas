@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727539,31.430916,-97.727539,31.430916",
     "geom:latitude":31.430916,
     "geom:longitude":-97.727539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2509 S State Highway 36",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
         "sg:id":"SG_32CkHQur5wnmLF5UfQnwiz_31.430916_-97.727539@1303263003"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d6f2340fd782a474e9c2892f510633d",
+    "wof:geomhash":"653f929bc19c6a9ad3ca702a222f19b2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":269678149,
-    "wof:lastmodified":1467084604,
+    "wof:lastmodified":1510941997,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605947431
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

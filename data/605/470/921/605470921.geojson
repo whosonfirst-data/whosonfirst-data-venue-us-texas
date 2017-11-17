@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.303939,29.588402,-98.303939,29.588402",
     "geom:latitude":29.588402,
     "geom:longitude":-98.303939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9330 Corporate Dr",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3zQInLGtlsbJYlt1SbZG9e_29.588402_-98.303939@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"445479a403fa175ac12015a60eec357a",
+    "wof:geomhash":"b6b07a7c6db0e132328048d6a9276a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":605470921,
-    "wof:lastmodified":1467085932,
+    "wof:lastmodified":1510944090,
     "wof:name":"Olympia I Business Center Inc",
     "wof:parent_id":85831723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605998653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

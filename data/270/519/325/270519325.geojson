@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.528297,29.690399,-95.528297,29.690399",
     "geom:latitude":29.690399,
     "geom:longitude":-95.528297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8323 Southwest Fwy",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3psmvjuQofzY069NXwDH5G_29.690399_-95.528297@1303263027"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a09695676b0e0c1b4b6217621bcabec",
+    "wof:geomhash":"5715c4f740bb2550056296e52f41c5a7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270519325,
-    "wof:lastmodified":1467084226,
+    "wof:lastmodified":1510943587,
     "wof:name":"West Mortgage",
     "wof:parent_id":85867243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589201087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

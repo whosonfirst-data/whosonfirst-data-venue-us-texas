@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.499252,31.771495,-106.499252,31.771495",
     "geom:latitude":31.771495,
     "geom:longitude":-106.499252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1900 N Oregon St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1Wlj3e3kniww3YDwzFmidy_31.771495_-106.499252@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"38afc90f727cad32b5ccc1e23f29c219",
+    "wof:geomhash":"a76501902574277b7b839729385f3862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":638603799,
-    "wof:lastmodified":1467087347,
+    "wof:lastmodified":1510941700,
     "wof:name":"Burger King",
     "wof:parent_id":85893667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605716817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

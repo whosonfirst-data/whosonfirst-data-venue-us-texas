@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741096,30.2686,-97.741096,30.2686",
     "geom:latitude":30.2686,
     "geom:longitude":-97.741096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 Brazos St Ste 1010",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_42Q2cz0OW8ZbtrYesUuj2x_30.268600_-97.741096@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c9ff4475e220d0a2fc98f3f6f454702",
+    "wof:geomhash":"74f4a5934a0328f354c15e7cff6a07c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":337392543,
-    "wof:lastmodified":1467084451,
+    "wof:lastmodified":1510941768,
     "wof:name":"Payne Law Firm Pllc",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622688217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

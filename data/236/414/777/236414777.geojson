@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.639621,33.216881,-96.639621,33.216881",
     "geom:latitude":33.216881,
     "geom:longitude":-96.639621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2030 W University Dr",
     "sg:city":"Mckinney",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5VuAfAgXGUZzNxuyQGfXjr_33.216881_-96.639621@1303262969"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0f8a9f2179985b5db1422684dfeb986",
+    "wof:geomhash":"054d160d248855ea421e017c482f9601",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236414777,
-    "wof:lastmodified":1467083940,
+    "wof:lastmodified":1510941185,
     "wof:name":"McKinney Healthcare Center",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622715609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "convalescent",

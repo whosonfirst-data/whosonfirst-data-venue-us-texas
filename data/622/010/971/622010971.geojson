@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.808641,32.864843,-96.808641,32.864843",
     "geom:latitude":32.864843,
     "geom:longitude":-96.808641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8300 Douglas Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_1bc87yiwkFr4iJAMQhktwl_32.864843_-96.808641@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"d954eac6c095950f21b143fa9760da34",
+    "wof:geomhash":"0d6e3e8406c4111197f3f4c95ba45c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":622010971,
-    "wof:lastmodified":1467086520,
+    "wof:lastmodified":1510941267,
     "wof:name":"Luma Corp Inc",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252879049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.678659,30.476528,-97.678659,30.476528",
     "geom:latitude":30.476528,
     "geom:longitude":-97.678659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 Parker Dr Ste B",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_5W0Wkk5TB7WtAk8YufP682_30.476528_-97.678659@1303263060"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fecb9d4647506bf7644f479e9092a17",
+    "wof:geomhash":"6b58aff3d93d6b22152fbaeb1792a068",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":303430845,
-    "wof:lastmodified":1467083770,
+    "wof:lastmodified":1510943556,
     "wof:name":"Eagle Global Logistics",
     "wof:parent_id":85893905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622644659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics",

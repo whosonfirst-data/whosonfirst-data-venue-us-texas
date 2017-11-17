@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.841698,32.93,-96.841698,32.93",
     "geom:latitude":32.93,
     "geom:longitude":-96.841698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4100 McEwen Rd Ste 174",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_78E1whNOlDHFWUF9Qv0oFY_32.930000_-96.841698@1303262989"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fef349d8617ccad4185792f5892f582",
+    "wof:geomhash":"4633f274ff1f2fac2694e369f3cfad60",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253179367,
-    "wof:lastmodified":1467085037,
+    "wof:lastmodified":1510943779,
     "wof:name":"Equicredit Corporation of Tx",
     "wof:parent_id":85827001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605776719
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

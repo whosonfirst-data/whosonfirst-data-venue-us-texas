@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.456497,29.7792,-95.456497,29.7792",
     "geom:latitude":29.7792,
     "geom:longitude":-95.456497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 N Post Oak Rd Ste 400",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2FCaKG6p7OCtYEuLweQBrm_29.779200_-95.456497@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bf926e463f75ff8035e43fd30f258d3",
+    "wof:geomhash":"264fb32f6e437873fd77a9fb9f7eadda",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270060837,
-    "wof:lastmodified":1467084224,
+    "wof:lastmodified":1510943581,
     "wof:name":"Tex Sun Commercial Realty",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622024667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

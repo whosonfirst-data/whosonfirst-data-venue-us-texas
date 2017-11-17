@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.948303,32.867599,-96.948303,32.867599",
     "geom:latitude":32.867599,
     "geom:longitude":-96.948303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4545 Fuller Dr Ste 222",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2GNgTgybXfgzE38fgeFY0M_32.867599_-96.948303@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"45a8b08a1b0160017b79ac72699d29b8",
+    "wof:geomhash":"b17a28d7d82c4675db917bf4b30650ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236202991,
-    "wof:lastmodified":1467084014,
+    "wof:lastmodified":1510942257,
     "wof:name":"Mir Mitchell & Co",
     "wof:parent_id":85878305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622822237
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.963203,32.880402,-96.963203,32.880402",
     "geom:latitude":32.880402,
     "geom:longitude":-96.963203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5330 N MacArthur Blvd",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3x5LJ0uE2T9yRChmmIbIlP_32.880402_-96.963203@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"16c8db5d84d154df24e85b50728b0391",
+    "wof:geomhash":"af05454ed22676b29a511d14472ce461",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236201927,
-    "wof:lastmodified":1467084014,
+    "wof:lastmodified":1510943296,
     "wof:name":"Dickey's Barbecue Pits",
     "wof:parent_id":85878321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588788989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque",

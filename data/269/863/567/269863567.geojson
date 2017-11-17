@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.369904,29.7554,-95.369904,29.7554",
     "geom:latitude":29.7554,
     "geom:longitude":-95.369904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1415 Louisiana St Ste 3200",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6qQLK2swSvtE2QrlkugPZn_29.755400_-95.369904@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d86b417587f4b614be207f969d5bf54",
+    "wof:geomhash":"7a545df28dfda84b03875026c5c864c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":269863567,
-    "wof:lastmodified":1467084617,
+    "wof:lastmodified":1510943194,
     "wof:name":"McEvily & Flowers",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605088431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

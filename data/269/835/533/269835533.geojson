@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.359962,29.761796,-95.359962,29.761796",
     "geom:latitude":29.761796,
     "geom:longitude":-95.359962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Fannin St Ste 300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_77MV2fLXjfq5kxiBRW4lWP_29.761796_-95.359962@1303263007"
     },
     "wof:country":"US",
-    "wof:geomhash":"206dd3044755938227bac5e8d50f912d",
+    "wof:geomhash":"0fb291543a07031ca58dece4d4134bc0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269835533,
-    "wof:lastmodified":1467084581,
+    "wof:lastmodified":1510942565,
     "wof:name":"Brent Coon and Associates",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269838211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

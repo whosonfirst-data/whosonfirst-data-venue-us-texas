@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-101.817411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2010 ROSS-OSAGE St",
     "sg:city":"Amarillo",
     "sg:classifiers":[
@@ -39,12 +40,14 @@
     "wof:geomhash":"72da4d73cbe860a4e4d840e16b8dbdb8",
     "wof:hierarchy":[],
     "wof:id":638602685,
-    "wof:lastmodified":1510603177,
+    "wof:lastmodified":1510941308,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605794529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.555992,29.737048,-95.555992,29.737048",
     "geom:latitude":29.737048,
     "geom:longitude":-95.555992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10260 Westheimer Rd Ste 580",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1Mbr0mXV4Yn8q0sQxMDJW5_29.737048_-95.555992@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"192cb072955ea28459bc504429ca4ac6",
+    "wof:geomhash":"b3abeb34c677d70a47f33e8419ae21ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":270289365,
-    "wof:lastmodified":1467084216,
+    "wof:lastmodified":1510944093,
     "wof:name":"Westheimer Vision Associates",
     "wof:parent_id":85869789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622680887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

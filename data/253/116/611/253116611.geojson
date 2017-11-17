@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.76802,32.926889,-96.76802,32.926889",
     "geom:latitude":32.926889,
     "geom:longitude":-96.76802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13140 Coit Rd Ste 500",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5uUMZw7U62gzOy2LoU9SKb_32.926889_-96.768020@1303262988"
     },
     "wof:country":"US",
-    "wof:geomhash":"094c0832e6244ccdf2701b8fa50f22f1",
+    "wof:geomhash":"c6c59c04a923eaa22717d4bd6cf6c625",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253116611,
-    "wof:lastmodified":1467084960,
+    "wof:lastmodified":1510943053,
     "wof:name":"Prima Add Center",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219615701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",

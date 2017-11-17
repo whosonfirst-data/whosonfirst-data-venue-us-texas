@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.829427,32.211302,-95.829427,32.211302",
     "geom:latitude":32.211302,
     "geom:longitude":-95.829427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1405 E Tyler St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -57,7 +60,7 @@
         "sg:id":"SG_41W1QOL4OrLEYTGhSpn2Rh_32.211302_-95.829427@1303262995"
     },
     "wof:country":"US",
-    "wof:geomhash":"7468599c2ffe12cc419b155ead8645d0",
+    "wof:geomhash":"9a1ae1fc452e59519c8c406ddd61be9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -70,12 +73,14 @@
         }
     ],
     "wof:id":253517217,
-    "wof:lastmodified":1467085003,
+    "wof:lastmodified":1510941217,
     "wof:name":"Walmart",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605452085
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.957901,32.952599,-96.957901,32.952599",
     "geom:latitude":32.952599,
     "geom:longitude":-96.957901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"813 S MacArthur Blvd",
     "sg:city":"Coppell",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6LzRAjWv3r5ej8cpDKhUA4_32.952599_-96.957901@1303262963"
     },
     "wof:country":"US",
-    "wof:geomhash":"9251e83be465719e2c74f3f566ae435f",
+    "wof:geomhash":"fcccbced8d241f7e1e0c4852dd87491d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":236143343,
-    "wof:lastmodified":1467084007,
+    "wof:lastmodified":1510943036,
     "wof:name":"McDonalds",
     "wof:parent_id":85878343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622854133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

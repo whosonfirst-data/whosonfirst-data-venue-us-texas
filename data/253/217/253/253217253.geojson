@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.602877,33.65738,-96.602877,33.65738",
     "geom:latitude":33.65738,
     "geom:longitude":-96.602877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1831 Texoma Pkwy",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1dFPbaTwpaLArTjGFprlZf_33.657380_-96.602877@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7aeef95f6d9fbb5e47be43bb60c10bb1",
+    "wof:geomhash":"0f159ac2782adc26416ce4ed33e675b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253217253,
-    "wof:lastmodified":1467085041,
+    "wof:lastmodified":1510943907,
     "wof:name":"Days Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236532787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"

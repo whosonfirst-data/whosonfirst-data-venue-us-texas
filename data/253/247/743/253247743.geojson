@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.768862,32.921862,-96.768862,32.921862",
     "geom:latitude":32.921862,
     "geom:longitude":-96.768862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12770 Coit Rd Ste 1100",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3iaN9HP2tAbe6AgxWRVOFa_32.921862_-96.768862@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6b1ab02ff190ebcff1fee29dbcb468c",
+    "wof:geomhash":"b3ea2bec9d881bd0ac4b334b38f0c0db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253247743,
-    "wof:lastmodified":1467085004,
+    "wof:lastmodified":1510942023,
     "wof:name":"Cowboys Mortgage",
     "wof:parent_id":85870423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605997573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

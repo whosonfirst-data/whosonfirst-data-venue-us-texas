@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.817694,32.851168,-96.817694,32.851168",
     "geom:latitude":32.851168,
     "geom:longitude":-96.817694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5600 West Lovers Lane Ste 136",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_55pBnOjM6R2cA4OZLEHJyF_32.851168_-96.817694@1303262980"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2c2da5cc8b87103ae24970b48dc0ae7",
+    "wof:geomhash":"be59789e642ea745f5fa108b4b1460ad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":252707869,
-    "wof:lastmodified":1467084100,
+    "wof:lastmodified":1510941296,
     "wof:name":"Dallas City Market",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236696071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"

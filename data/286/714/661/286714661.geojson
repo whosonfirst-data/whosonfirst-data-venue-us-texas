@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.808327,29.542774,-95.808327,29.542774",
     "geom:latitude":29.542774,
     "geom:longitude":-95.808327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1817 Brooks Ave",
     "sg:city":"Rosenberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6tGxA837H286mUcO2DrMsC_29.542774_-95.808327@1303263037"
     },
     "wof:country":"US",
-    "wof:geomhash":"81603867ffc4ed44ccd0b98f3d1e1d69",
+    "wof:geomhash":"5fcc00bda5ea15fd999c51a983176cf0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286714661,
-    "wof:lastmodified":1467084276,
+    "wof:lastmodified":1510943217,
     "wof:name":"A & M Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622012675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.860476,32.863191,-96.860476,32.863191",
     "geom:latitude":32.863191,
     "geom:longitude":-96.860476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9528 Webb Chapel Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5Y42U0O8ILanKvh5mQc9Du_32.863191_-96.860476@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"846a6ab044d6787f38c93cc7813c26aa",
+    "wof:geomhash":"23364eb1fdf35eba80e0be147ee1b52a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":353883643,
-    "wof:lastmodified":1467084364,
+    "wof:lastmodified":1510942620,
     "wof:name":"Launey Clinic",
     "wof:parent_id":85870415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252839067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

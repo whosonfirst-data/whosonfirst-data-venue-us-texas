@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.900658,32.934063,-96.900658,32.934063",
     "geom:latitude":32.934063,
     "geom:longitude":-96.900658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13915 Denton Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_37peUM03xkKE7WI2nz0jQ7_32.934063_-96.900658@1303262986"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf368ae5c45820d19b4f45188530a5ea",
+    "wof:geomhash":"6d4969b2a6ec75fe6719368700acfdf5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253028891,
-    "wof:lastmodified":1467085000,
+    "wof:lastmodified":1510944167,
     "wof:name":"Aaron's Touch Up & Restoration",
     "wof:parent_id":85897327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253035877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.757111,30.21903,-97.757111,30.21903",
     "geom:latitude":30.21903,
     "geom:longitude":-97.757111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 E Ben White Blvd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_1cdUtDBeLb3G1c6svDMnoM_30.219030_-97.757111@1303263057"
     },
     "wof:country":"US",
-    "wof:geomhash":"f394f2993b7a5aebf4db1b74962e1377",
+    "wof:geomhash":"a2b0944402b594b5b4d65dc883d5a1c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303347731,
-    "wof:lastmodified":1467083751,
+    "wof:lastmodified":1510941564,
     "wof:name":"Texas Discount Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370675551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

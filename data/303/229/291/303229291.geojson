@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744118,30.281282,-97.744118,30.281282",
     "geom:latitude":30.281282,
     "geom:longitude":-97.744118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1806 Nueces St",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_545dSB4Zk2rkMO5LvKYqbn_30.281282_-97.744118@1303263052"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae6c271db6803f97f5514bda9390edb3",
+    "wof:geomhash":"2fbc2d8fea5cd1a5db923c7fef6cc130",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303229291,
-    "wof:lastmodified":1467083789,
+    "wof:lastmodified":1510942731,
     "wof:name":"Tiff's Treats",
     "wof:parent_id":85893491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638608555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

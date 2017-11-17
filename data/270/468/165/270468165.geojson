@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.526512,29.729851,-95.526512,29.729851",
     "geom:latitude":29.729851,
     "geom:longitude":-95.526512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9208 Rasmus Dr",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3BXIVDdo74IlyrdZBWVjqy_29.729851_-95.526512@1303263025"
     },
     "wof:country":"US",
-    "wof:geomhash":"2edd3dbf9a070a9c889e98a249689288",
+    "wof:geomhash":"cfb31d22eaf86acb82cc816e8b1c878c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270468165,
-    "wof:lastmodified":1467084208,
+    "wof:lastmodified":1510941614,
     "wof:name":"Deep Bright Carpet Care",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270474879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.472603,29.75,-95.472603,29.75",
     "geom:latitude":29.75,
     "geom:longitude":-95.472603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5555 San Felipe St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_41ZzACvnVzyEkH5YtdIj4t_29.750000_-95.472603@1303263022"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d0f9847fc8bfde1065a204bdb288195",
+    "wof:geomhash":"bc3a3e6916a60fd8979583cac371b868",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":270377575,
-    "wof:lastmodified":1467084180,
+    "wof:lastmodified":1510943017,
     "wof:name":"Energy Security Counsel",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605324371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.552696,29.6752,-95.552696,29.6752",
     "geom:latitude":29.6752,
     "geom:longitude":-95.552696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9898 Bissonnet St Ste 220",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0mBCC0JjUtIqLGAE9g7GfE_29.675200_-95.552696@1303263018"
     },
     "wof:country":"US",
-    "wof:geomhash":"1048db124039de5dd0486e90f8a8da0f",
+    "wof:geomhash":"fb3a90f9bc38ac30bc67ede031edc164",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":270230891,
-    "wof:lastmodified":1467084210,
+    "wof:lastmodified":1510943494,
     "wof:name":"Vornsand Daniel W",
     "wof:parent_id":85869795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589106119
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

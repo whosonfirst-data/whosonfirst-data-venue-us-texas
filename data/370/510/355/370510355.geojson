@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.617247,32.769552,-96.617247,32.769552",
     "geom:latitude":32.769552,
     "geom:longitude":-96.617247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1228 W Scyene Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_5WgmoHFFlKgiUDwRmHDcSe_32.769552_-96.617247@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ae62363b3eca390734b646e6ec6f4e7",
+    "wof:geomhash":"2323796a1cd5b7b4c9b4201b7d3e9a84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":370510355,
-    "wof:lastmodified":1467084520,
+    "wof:lastmodified":1510942249,
     "wof:name":"Winfreds Benz Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236679547
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

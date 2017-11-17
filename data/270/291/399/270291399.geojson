@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.539253,29.7278,-95.539253,29.7278",
     "geom:latitude":29.7278,
     "geom:longitude":-95.539253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9700 Richmond Ave",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_1z2j2XxycJxqJ5rA9Pz30o_29.727800_-95.539253@1303263020"
     },
     "wof:country":"US",
-    "wof:geomhash":"00dbd41375955027fde35d5e5b5c5e1e",
+    "wof:geomhash":"5c5dda7e1dd15ce376672ec57d023ca2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":270291399,
-    "wof:lastmodified":1467084173,
+    "wof:lastmodified":1510942554,
     "wof:name":"Jiva International Inc",
     "wof:parent_id":85869823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622760855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

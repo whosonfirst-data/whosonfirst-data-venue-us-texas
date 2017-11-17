@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.810122,32.862461,-96.810122,32.862461",
     "geom:latitude":32.862461,
     "geom:longitude":-96.810122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5949 Sherry Ln Ste 625",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3jJIaPzpN9XPbyyYhMb3Le_32.862461_-96.810122@1303262983"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecd96dd75e6310c151c9a8af756ae020",
+    "wof:geomhash":"e559161385e368347930b8999cca97e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":252870719,
-    "wof:lastmodified":1467084064,
+    "wof:lastmodified":1510942178,
     "wof:name":"Atkins & O'Toole",
     "wof:parent_id":85882155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605710409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

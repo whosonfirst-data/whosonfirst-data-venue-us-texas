@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.798132,32.997249,-96.798132,32.997249",
     "geom:latitude":32.997249,
     "geom:longitude":-96.798132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17950 Preston Rd Ste 1070",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1J2C8BxgucacZbwuMf30CB_32.997249_-96.798132@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"c476dea6644879bc2a204443c54095af",
+    "wof:geomhash":"315d46a0de8c90766fcd802995ede5da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":253254545,
-    "wof:lastmodified":1467085016,
+    "wof:lastmodified":1510944033,
     "wof:name":"Texas Career Management Corp",
     "wof:parent_id":85897349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605967189
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "career",

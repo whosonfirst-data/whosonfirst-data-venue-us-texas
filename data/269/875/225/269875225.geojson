@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.367933,29.743513,-95.367933,29.743513",
     "geom:latitude":29.743513,
     "geom:longitude":-95.367933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 Crawford St",
     "sg:city":"Houston",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5zCNdBjbqNm5CKuu7AoGjC_29.743513_-95.367933@1303263008"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bd23a11ec20d5eaed78b2d95258296e",
+    "wof:geomhash":"30ca2db6a054eb01eb4ee192d15d8757",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269875225,
-    "wof:lastmodified":1467084621,
+    "wof:lastmodified":1510941931,
     "wof:name":"Downtown Transmission",
     "wof:parent_id":85869485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622725647
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

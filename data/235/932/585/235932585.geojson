@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.752784,32.812014,-96.752784,32.812014",
     "geom:latitude":32.812014,
     "geom:longitude":-96.752784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1920 Abrams Pkwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1b1ypN3nyhCUE9a798Ttk9_32.812014_-96.752784@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b64a2ce5c59a408e49525e8cc3ac7b93",
+    "wof:geomhash":"af44239579969e1c9a20f15a7f0562b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":235932585,
-    "wof:lastmodified":1467084143,
+    "wof:lastmodified":1510942966,
     "wof:name":"Central Realty",
     "wof:parent_id":85870367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252739003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

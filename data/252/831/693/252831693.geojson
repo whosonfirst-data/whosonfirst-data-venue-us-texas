@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.818199,32.801899,-96.818199,32.801899",
     "geom:latitude":32.801899,
     "geom:longitude":-96.818199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3630 Harry Hines Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7VAGfZ58NaxVOmbLZ3SPld_32.801899_-96.818199@1303262982"
     },
     "wof:country":"US",
-    "wof:geomhash":"d86c352ed19cb9575d17e40367968ddb",
+    "wof:geomhash":"55feb8672f212ee4187d1fdc10da7556",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":252831693,
-    "wof:lastmodified":1467084083,
+    "wof:lastmodified":1510943870,
     "wof:name":"Shakespeare Festival of Dallas",
     "wof:parent_id":85867229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622217667
+    ],
+    "wof:supersedes":[
+        252813005
+    ],
     "wof:tags":[
         "performing"
     ]

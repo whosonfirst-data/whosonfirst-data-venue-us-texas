@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.665596,32.877495,-96.665596,32.877495",
     "geom:latitude":32.877495,
     "geom:longitude":-96.665596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3209 S Shiloh Rd Suite K",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2z9LzI8vzxgYV8bcfpBzAQ_32.877495_-96.665596@1303262966"
     },
     "wof:country":"US",
-    "wof:geomhash":"a04e816f22f92bce27e8f37ca40fd350",
+    "wof:geomhash":"d82d691fef6d09019eca367802b3e694",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236248725,
-    "wof:lastmodified":1467083955,
+    "wof:lastmodified":1510941967,
     "wof:name":"EDM of Garland Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605162469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

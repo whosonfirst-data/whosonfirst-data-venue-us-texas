@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.171781,32.867497,-97.171781,32.867497",
     "geom:latitude":32.867497,
     "geom:longitude":-97.171781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4003 Colleyville Blvd",
     "sg:city":"Colleyville",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7WlD3svmWdtDA4D2FKY9XL_32.867497_-97.171781@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"33a8c558363f5168bfe35703ab4f95c3",
+    "wof:geomhash":"bb8b566c6e4ba4477c9ed8f290f143d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":589047319,
-    "wof:lastmodified":1467085427,
+    "wof:lastmodified":1510942712,
     "wof:name":"Michael's Keys",
     "wof:parent_id":85807119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253691581
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lock",

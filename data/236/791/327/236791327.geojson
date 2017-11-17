@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805099,32.793701,-96.805099,32.793701",
     "geom:latitude":32.793701,
     "geom:longitude":-96.805099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Crescent Ct Ste 700",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2NhAg2ADj91lj9clro0kJo_32.793701_-96.805099@1303262975"
     },
     "wof:country":"US",
-    "wof:geomhash":"084742025ae2b0e74b17a99d9342ad24",
+    "wof:geomhash":"3fbb00fade73ac7841d57a0edb0b4c31",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236791327,
-    "wof:lastmodified":1467083995,
+    "wof:lastmodified":1510941973,
     "wof:name":"The Pittman Law Firm",
     "wof:parent_id":85870429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236811569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

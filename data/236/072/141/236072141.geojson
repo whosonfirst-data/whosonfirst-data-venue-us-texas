@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.84503,32.986619,-96.84503,32.986619",
     "geom:latitude":32.986619,
     "geom:longitude":-96.84503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3128 E Trinity Mills Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6DN7x2kPs9l3Sdezh5notS_32.986619_-96.845030@1303262962"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc300e3aef6517e78175bd0863721c74",
+    "wof:geomhash":"5185a709148a3747b0587dd50a98b69c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236072141,
-    "wof:lastmodified":1467083951,
+    "wof:lastmodified":1510943010,
     "wof:name":"Ruchi Palace Indian Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236097137
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"

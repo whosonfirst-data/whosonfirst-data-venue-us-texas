@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.43639,29.733512,-95.43639,29.733512",
     "geom:latitude":29.733512,
     "geom:longitude":-95.43639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3555 Timmons Ln",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_244xS8XoobyrMVCKQ72UxM_29.733512_-95.436390@1303263015"
     },
     "wof:country":"US",
-    "wof:geomhash":"49cfa4ade9f190ce67a10fa97aece78a",
+    "wof:geomhash":"fa269ff3b91eed5aa3b6d264c4e0c013",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":270109631,
-    "wof:lastmodified":1467084178,
+    "wof:lastmodified":1510944153,
     "wof:name":"Theresa M Frierson",
     "wof:parent_id":85869753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186397649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

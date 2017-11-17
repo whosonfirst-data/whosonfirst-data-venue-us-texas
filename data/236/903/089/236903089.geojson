@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.806602,32.836399,-96.806602,32.836399",
     "geom:latitude":32.836399,
     "geom:longitude":-96.806602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"64 Highland Park Vlg",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4byXTPVRMrIDzZzTB7D1hr_32.836399_-96.806602@1303262978"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc8826159426e551fd79f76157f73d29",
+    "wof:geomhash":"af9ec7c24b8932c5ab9b6638f93feacb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":236903089,
-    "wof:lastmodified":1467083865,
+    "wof:lastmodified":1510943690,
     "wof:name":"Peeper's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622605613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

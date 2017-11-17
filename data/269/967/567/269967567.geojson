@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.360752,29.754987,-95.360752,29.754987",
     "geom:latitude":29.754987,
     "geom:longitude":-95.360752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 McKinney St Ste 1700",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6nbGz09RgHJ8yLjijJvZGQ_29.754987_-95.360752@1303263011"
     },
     "wof:country":"US",
-    "wof:geomhash":"815de57c6c3a588a2e7fd04cc2ecddb4",
+    "wof:geomhash":"9c627c301e54f27a6ab7e6ae4ed5fe7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":269967567,
-    "wof:lastmodified":1467084633,
+    "wof:lastmodified":1510942506,
     "wof:name":"Crain Caton & James",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236885629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

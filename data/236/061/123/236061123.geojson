@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.880066,32.661946,-96.880066,32.661946",
     "geom:latitude":32.661946,
     "geom:longitude":-96.880066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3662 W Camp Wisdom Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1cEgwtuRc02QK1VfMFT5vy_32.661946_-96.880066@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c9289849a626bcf53c79d28b9b91e33",
+    "wof:geomhash":"a5d72dcd30e10c5fb021edc74595ce1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":236061123,
-    "wof:lastmodified":1467083987,
+    "wof:lastmodified":1510943442,
     "wof:name":"Wireless Four U Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253062875
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telephone",

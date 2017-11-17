@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.400144,29.711024,-95.400144,29.711024",
     "geom:latitude":29.711024,
     "geom:longitude":-95.400144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6560 Fannin St Ste 1424",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7TGcssLdLhiiRtotPjHGEk_29.711024_-95.400144@1303263017"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf1ae6cbb7f216ea256a43588721c34",
+    "wof:geomhash":"34478cd8cb23ca7fcb41b5b1d41a07ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +52,17 @@
         }
     ],
     "wof:id":270168605,
-    "wof:lastmodified":1467084192,
+    "wof:lastmodified":1510944161,
     "wof:name":"Medical Center Dental Group",
     "wof:parent_id":85869749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588894473
+    ],
+    "wof:supersedes":[
+        270167573
+    ],
     "wof:tags":[]
 },
   "bbox": [

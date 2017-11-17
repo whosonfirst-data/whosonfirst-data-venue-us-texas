@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.805051,30.20188,-97.805051,30.20188",
     "geom:latitude":30.20188,
     "geom:longitude":-97.805051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1901 W. William Cannon Dr.",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_2fnlCSUSGOLLx2XojfrWzP_30.201880_-97.805051@1303263064"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3d5e56e0bb43ec2a54d0bc3854347be",
+    "wof:geomhash":"43c8ccb6edec3937036c9b92641d03cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,15 @@
         }
     ],
     "wof:id":303592875,
-    "wof:lastmodified":1467083762,
+    "wof:lastmodified":1510942525,
     "wof:name":"CiCi's Pizza",
     "wof:parent_id":85867205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303594667,
+        589151039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

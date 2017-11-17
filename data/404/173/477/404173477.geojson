@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770214,32.84619,-96.770214,32.84619",
     "geom:latitude":32.84619,
     "geom:longitude":-96.770214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4849 Greenville Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2oO5AR9imDTFWBSt1xFpYG_32.846190_-96.770214@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"104a8e40437b24c4eff650bcfdae6961",
+    "wof:geomhash":"cf18018386a783d484e647b3c3f3837b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":404173477,
-    "wof:lastmodified":1467084644,
+    "wof:lastmodified":1510943684,
     "wof:name":"Fanning Harper & Martinson",
     "wof:parent_id":85870383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236931607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

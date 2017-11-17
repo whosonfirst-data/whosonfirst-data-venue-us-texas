@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-96.842272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2661 Midway Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -36,13 +37,18 @@
     "wof:geomhash":"d1b14b4243b246c10f3d1de2dc23c138",
     "wof:hierarchy":[],
     "wof:id":588848039,
-    "wof:lastmodified":1510613542,
+    "wof:lastmodified":1510944079,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236077733,
+        622853953
+    ],
+    "wof:supersedes":[
+        236077733
+    ],
     "wof:tags":[]
 },
   "bbox": [

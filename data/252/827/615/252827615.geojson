@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.811798,32.801998,-96.811798,32.801998",
     "geom:latitude":32.801998,
     "geom:longitude":-96.811798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Maple Ave Ste 120",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2LyxALpfeFSyJFTskgBZ11_32.801998_-96.811798@1303262982"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd48f894c3f803f015e7b3fbb88c3f7f",
+    "wof:geomhash":"a63e4ab611a366efe59b2717f26a0f3c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252827615,
-    "wof:lastmodified":1467084069,
+    "wof:lastmodified":1510944062,
     "wof:name":"Katz Hispanic Radio",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252876767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

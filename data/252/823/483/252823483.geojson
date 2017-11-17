@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.805496,32.811901,-96.805496,32.811901",
     "geom:latitude":32.811901,
     "geom:longitude":-96.805496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Oak Lawn Ave Ste 160",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1miy6ylSmknhgxDYjojMHT_32.811901_-96.805496@1303262981"
     },
     "wof:country":"US",
-    "wof:geomhash":"63ad205e335d0674af22d0c99ceeb77f",
+    "wof:geomhash":"50c4f78498ac409eeb266cec6929312a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252823483,
-    "wof:lastmodified":1467084107,
+    "wof:lastmodified":1510943889,
     "wof:name":"Ishmael Fox & Rasansky Law Office",
     "wof:parent_id":85870439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622409833
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

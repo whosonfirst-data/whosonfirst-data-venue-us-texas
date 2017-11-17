@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.259623,29.995456,-95.259623,29.995456",
     "geom:latitude":29.995456,
     "geom:longitude":-95.259623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"217 S Avenue G",
     "sg:city":"Humble",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_60KwzKUFKXrK68oYScAYT5_29.995456_-95.259623@1303263033"
     },
     "wof:country":"US",
-    "wof:geomhash":"a51a28d1932f56b808b3bf0ed7ebd3c8",
+    "wof:geomhash":"e4436612b429441bc7460953004ae2e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286480397,
-    "wof:lastmodified":1467084262,
+    "wof:lastmodified":1510943494,
     "wof:name":"Chez Nous French Restaurant",
     "wof:parent_id":85835129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589210891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

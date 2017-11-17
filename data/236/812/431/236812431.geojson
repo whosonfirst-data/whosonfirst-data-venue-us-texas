@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.795898,32.786701,-96.795898,32.786701",
     "geom:latitude":32.786701,
     "geom:longitude":-96.795898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 N Pearl St Ste 2000",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3EikR1sIwZgdDpbCmMy1Jd_32.786701_-96.795898@1303262976"
     },
     "wof:country":"US",
-    "wof:geomhash":"cee4bd79dd408acb878e09565d398ee8",
+    "wof:geomhash":"7bbbc8bf866e1a5c94f0c8f8a473bb23",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236812431,
-    "wof:lastmodified":1467083859,
+    "wof:lastmodified":1510941778,
     "wof:name":"Bdo Seidman Llp",
     "wof:parent_id":85870327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605327881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

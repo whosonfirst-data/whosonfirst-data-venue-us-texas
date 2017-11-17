@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.36752,29.75864,-95.36752,29.75864",
     "geom:latitude":29.75864,
     "geom:longitude":-95.36752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"910 Louisiana St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1e5xIisXntqJLMvM0Il8Br_29.758640_-95.367520@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"e301e1a1ad49393cfda8fc9401bb7735",
+    "wof:geomhash":"87b10d11a77215f1f6f65b2abd313fa2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":235991561,
-    "wof:lastmodified":1467084142,
+    "wof:lastmodified":1510943564,
     "wof:name":"Baker Bought Law Firm",
     "wof:parent_id":85867247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269864687
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

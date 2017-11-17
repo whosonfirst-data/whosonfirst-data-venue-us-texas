@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.396393,27.79711,-97.396393,27.79711",
     "geom:latitude":27.79711,
     "geom:longitude":-97.396393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"615 N Upper Broadway St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0cWRq9BcFmazoUv2nF1BtN_27.797110_-97.396393@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dab8ef57d01b41f7bdf7af2ae74ad72",
+    "wof:geomhash":"74be4a53fa4b1444b0dddda596ae214f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":606002275,
-    "wof:lastmodified":1467086317,
+    "wof:lastmodified":1510941273,
     "wof:name":"Borean Oil Company",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622774913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"

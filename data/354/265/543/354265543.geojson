@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.129219,32.032873,-102.129219,32.032873",
     "geom:latitude":32.032873,
     "geom:longitude":-102.129219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4511 N Midkiff Rd",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_41wuZMFTNSXt7TWPojsfKt_32.032873_-102.129219@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a72baa15a1725206d9f7f0184a6b4985",
+    "wof:geomhash":"5dd2911596b084e67b747e6048a3ea4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":354265543,
-    "wof:lastmodified":1467085065,
+    "wof:lastmodified":1510943737,
     "wof:name":"Trendy TS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370385147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family"

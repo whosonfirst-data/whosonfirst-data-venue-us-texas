@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.801141,30.242843,-97.801141,30.242843",
     "geom:latitude":30.242843,
     "geom:longitude":-97.801141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3755 S Capital of Texas Hwy",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1f1EPwKBUfNKfi8ylKm87G_30.242843_-97.801141@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9630724aa971019fbc2f1880e2786342",
+    "wof:geomhash":"48344fa337d6b1410716ee21a8c8ac3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":185967777,
-    "wof:lastmodified":1467084138,
+    "wof:lastmodified":1510942251,
     "wof:name":"A S A T Inc",
     "wof:parent_id":85869921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605294787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"

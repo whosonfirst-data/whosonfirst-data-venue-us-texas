@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.097292,32.751227,-97.097292,32.751227",
     "geom:latitude":32.751227,
     "geom:longitude":-97.097292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1077 N Collins St",
     "sg:city":"Arlington",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0QvsaVRclipRCCRk87Qnq7_32.751227_-97.097292@1303262997"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf1363fd0d29e7bc0f748f23547cc018",
+    "wof:geomhash":"a11b3ec39849f25196e94b02721d84e6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253625077,
-    "wof:lastmodified":1467085049,
+    "wof:lastmodified":1510941342,
     "wof:name":"Condom Sense",
     "wof:parent_id":85897295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605737853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

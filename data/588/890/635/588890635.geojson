@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.080495,32.000441,-102.080495,32.000441",
     "geom:latitude":32.000441,
     "geom:longitude":-102.080495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"511 W Ohio Ave",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6sCqQnCfoIVNKKV7yRD5hH_32.000441_-102.080495@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"541349a96f9f884b48af3d659c5552aa",
+    "wof:geomhash":"8e536a72a22f3df098345317c0f658c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":588890635,
-    "wof:lastmodified":1467085314,
+    "wof:lastmodified":1510942764,
     "wof:name":"Tacor Resources Inc",
     "wof:parent_id":85893837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622130133
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil",

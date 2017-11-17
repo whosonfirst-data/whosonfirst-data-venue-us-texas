@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731375,31.120942,-97.731375,31.120942",
     "geom:latitude":31.120942,
     "geom:longitude":-97.731375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"204 W Avenue D",
     "sg:city":"Killeen",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
         "sg:id":"SG_0p6RTOgPli8zpTbmE29Kwz_31.120942_-97.731375@1303263004"
     },
     "wof:country":"US",
-    "wof:geomhash":"1195c1d6db830e3dc9372777b1617d80",
+    "wof:geomhash":"fd0bc0d362a3e2c3a1c437187d8bd328",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":269684693,
-    "wof:lastmodified":1467084588,
+    "wof:lastmodified":1510943326,
     "wof:name":"Ham & McCreight Supply Inc",
     "wof:parent_id":85831283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588788457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "heater",

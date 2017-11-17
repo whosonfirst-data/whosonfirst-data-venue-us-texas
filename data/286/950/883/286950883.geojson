@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.980376,29.963152,-93.980376,29.963152",
     "geom:latitude":29.963152,
     "geom:longitude":-93.980376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1503 S 16th St",
     "sg:city":"Nederland",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1DblNRTzMPSAqCn4wLxNtW_29.963152_-93.980376@1303263041"
     },
     "wof:country":"US",
-    "wof:geomhash":"14507fa60fcbdd8f57903e340c784635",
+    "wof:geomhash":"eac15a40ab1e0945bbd148339abae445",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286950883,
-    "wof:lastmodified":1467084268,
+    "wof:lastmodified":1510942309,
     "wof:name":"School Of Montessori Inc",
     "wof:parent_id":85803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622690449
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.617001,32.956297,-96.617001,32.956297",
     "geom:latitude":32.956297,
     "geom:longitude":-96.617001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4170 Lavon Dr",
     "sg:city":"Garland",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7PuUJshwUtSZM87lS0YGIv_32.956297_-96.617001@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8824d3dea20308c4eea12ebe78994f2",
+    "wof:geomhash":"b5c10fcb5a03e9cc65606cfd83ff0ca6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236229287,
-    "wof:lastmodified":1467084001,
+    "wof:lastmodified":1510944185,
     "wof:name":"Cristina's",
     "wof:parent_id":85836217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638583447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

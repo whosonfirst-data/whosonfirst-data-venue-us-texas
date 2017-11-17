@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.418782,29.741681,-95.418782,29.741681",
     "geom:latitude":29.741681,
     "geom:longitude":-95.418782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2727 Kirby Dr",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_02APMVTMwHC1XQsZPNtvE6_29.741681_-95.418782@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"522f7542bd48d3b7736a03fa4e04a622",
+    "wof:geomhash":"300fed3da4a5eb9d9a6678ea13774c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":589062415,
-    "wof:lastmodified":1467085438,
+    "wof:lastmodified":1510942090,
     "wof:name":"Meca Publishing Inc",
     "wof:parent_id":85867253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622182881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"

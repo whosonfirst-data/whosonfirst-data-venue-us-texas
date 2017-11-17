@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.460772,29.739929,-95.460772,29.739929",
     "geom:latitude":29.739929,
     "geom:longitude":-95.460772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2700 Post Oak Blvd # 2300",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_36dbPZ87xgBZ51kZJLj8kB_29.739929_-95.460772@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"00d93e9812187ce4ae230dad73a79120",
+    "wof:geomhash":"e5adc8c1fe93d656b0914a5f0dcafe57",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270394177,
-    "wof:lastmodified":1467084165,
+    "wof:lastmodified":1510941641,
     "wof:name":"Cumulus Media Inc.",
     "wof:parent_id":85867249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605269627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"

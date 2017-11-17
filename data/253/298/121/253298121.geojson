@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827812,32.950761,-96.827812,32.950761",
     "geom:latitude":32.950761,
     "geom:longitude":-96.827812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14900 Landmark Blvd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0Z38wu3CzKFAO9lG5muMFl_32.950761_-96.827812@1303262991"
     },
     "wof:country":"US",
-    "wof:geomhash":"73e8c5cb2b88d93b6094081fc27d973d",
+    "wof:geomhash":"6768eafe2c3615e0cf1e31fbcb431e40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253298121,
-    "wof:lastmodified":1467084972,
+    "wof:lastmodified":1510942066,
     "wof:name":"B G Personnel Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622250501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "temporary",

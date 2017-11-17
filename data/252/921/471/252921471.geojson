@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.682404,32.805401,-96.682404,32.805401",
     "geom:latitude":32.805401,
     "geom:longitude":-96.682404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3312 N Buckner Blvd Ste 207",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5wBtBCAd5IsLa2D7zrMhN0_32.805401_-96.682404@1303262984"
     },
     "wof:country":"US",
-    "wof:geomhash":"69f29c103cb9059a35b5126f972b08e0",
+    "wof:geomhash":"1484ac5daae5115adc21f146e5d02a73",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":252921471,
-    "wof:lastmodified":1467084086,
+    "wof:lastmodified":1510944014,
     "wof:name":"Dominos Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638586047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

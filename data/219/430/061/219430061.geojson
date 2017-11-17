@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724494,30.38122,-97.724494,30.38122",
     "geom:latitude":30.38122,
     "geom:longitude":-97.724494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9705 Burnet Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1UKE02aI3GE1xPlYxT0ERu_30.381220_-97.724494@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"891db68acd8d04fdd59d98c22a0cd57d",
+    "wof:geomhash":"58c705e8957ea82ccee839245a715533",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219430061,
-    "wof:lastmodified":1467085147,
+    "wof:lastmodified":1510942239,
     "wof:name":"Austin Canoe & Kayak",
     "wof:parent_id":85893527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303799747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "charter",

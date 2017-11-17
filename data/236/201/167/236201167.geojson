@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.991656,32.863877,-96.991656,32.863877",
     "geom:latitude":32.863877,
     "geom:longitude":-96.991656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4070 N Belt Line Rd Ste 114",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -70,7 +73,7 @@
         "sg:id":"SG_5d829ZAgJdJYPvYf17KMr6_32.863877_-96.991656@1303262965"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f1b0a57525abe984b80672881b1125d",
+    "wof:geomhash":"d834b16b418d6892b60017a6ed50d9d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -83,12 +86,14 @@
         }
     ],
     "wof:id":236201167,
-    "wof:lastmodified":1467084013,
+    "wof:lastmodified":1510941414,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622477831
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lettering",

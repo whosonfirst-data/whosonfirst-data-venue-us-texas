@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.392715,27.796796,-97.392715,27.796796",
     "geom:latitude":27.796796,
     "geom:longitude":-97.392715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 N Water St",
     "sg:city":"Corpus Christi",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_295covx4Tf0Prli2qvBXAV_27.796796_-97.392715@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a3e40ee9e2260a0ec054d49834f72b3",
+    "wof:geomhash":"538bcfbc15923fe55d1e0363417d1390",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":622069117,
-    "wof:lastmodified":1467086563,
+    "wof:lastmodified":1510943960,
     "wof:name":"Alameda Corporation",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622595933
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gas",

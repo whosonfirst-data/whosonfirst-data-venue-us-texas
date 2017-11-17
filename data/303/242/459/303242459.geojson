@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744487,30.263483,-97.744487,30.263483",
     "geom:latitude":30.263483,
     "geom:longitude":-97.744487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 Congress Avenue",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3gDiJyHpk5MCYseFUroXkE_30.263483_-97.744487@1303263053"
     },
     "wof:country":"US",
-    "wof:geomhash":"2922af05083fd154276d974e269f0095",
+    "wof:geomhash":"f963184b822ae3c73208b47aa28fb4f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":303242459,
-    "wof:lastmodified":1467083798,
+    "wof:lastmodified":1510944087,
     "wof:name":"Brorby Crozier & Dobie PC",
     "wof:parent_id":85893567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622689227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

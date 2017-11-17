@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547699,29.7782,-95.547699,29.7782",
     "geom:latitude":29.7782,
     "geom:longitude":-95.547699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"902 Frostwood Dr Ste 250",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5XF3ONU8rTwywg4Eqxfb0V_29.778200_-95.547699@1303263014"
     },
     "wof:country":"US",
-    "wof:geomhash":"36310f279d5fbaa2677434b3c39a7292",
+    "wof:geomhash":"bdbdac148febd90987eb298696068717",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270067089,
-    "wof:lastmodified":1467084155,
+    "wof:lastmodified":1510943579,
     "wof:name":"Dennis Kenrick J",
     "wof:parent_id":85824607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605284187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"

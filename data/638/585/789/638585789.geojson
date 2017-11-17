@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.75168,32.836287,-96.75168,32.836287",
     "geom:latitude":32.836287,
     "geom:longitude":-96.75168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6434 E Mockingbird Ln",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7fX1A90pHoBmzOMpOLNuDl_32.836287_-96.751680@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"79523c8a46e04dc67a83959aa8af27cf",
+    "wof:geomhash":"e1035477d5a3a8fecf41bf0a4fe6baf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":638585789,
-    "wof:lastmodified":1467087322,
+    "wof:lastmodified":1510941801,
     "wof:name":"Sols Nieto",
     "wof:parent_id":420542683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252742769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

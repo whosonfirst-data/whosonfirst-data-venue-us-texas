@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.772301,32.913799,-96.772301,32.913799",
     "geom:latitude":32.913799,
     "geom:longitude":-96.772301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12222 Merit Dr Ste 950",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_19bfegimqRE9acvioFmCId_32.913799_-96.772301@1303262990"
     },
     "wof:country":"US",
-    "wof:geomhash":"42f2c1d860c0ee3bd6e6013679a80d10",
+    "wof:geomhash":"350989d1d2ef9569ee4646dd8174a54a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253248781,
-    "wof:lastmodified":1467085001,
+    "wof:lastmodified":1510942663,
     "wof:name":"Deltan Group Inc",
     "wof:parent_id":85806769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253250683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.482628,29.74992,-95.482628,29.74992",
     "geom:latitude":29.74992,
     "geom:longitude":-95.482628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5851 San Felipe St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3EdXWV4cmDk1SG4xVjjmHc_29.749920_-95.482628@1303263023"
     },
     "wof:country":"US",
-    "wof:geomhash":"5da3ffbba29bcf25d76f6650133abbf5",
+    "wof:geomhash":"b6a3b25aaf13ee7784071b7145b5346f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270410599,
-    "wof:lastmodified":1467084151,
+    "wof:lastmodified":1510943966,
     "wof:name":"McFaddin Partners",
     "wof:parent_id":85869303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622748481
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

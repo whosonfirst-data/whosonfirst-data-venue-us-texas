@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.050195,27.760965,-98.050195,27.760965",
     "geom:latitude":27.760965,
     "geom:longitude":-98.050195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1908 E Main St",
     "sg:city":"Alice",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1GQJeXfgIDCRnuuDssiqkw_27.760965_-98.050195@1303263046"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8b0061e02e1ea1e723672132048d8ab",
+    "wof:geomhash":"d175554621fc19c8d2702f89d5037734",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287201909,
-    "wof:lastmodified":1467083844,
+    "wof:lastmodified":1510943067,
     "wof:name":"Dairy Burger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622545567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

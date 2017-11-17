@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.845131,30.309932,-97.845131,30.309932",
     "geom:latitude":30.309932,
     "geom:longitude":-97.845131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7701 Bee Caves Rd",
     "sg:city":"Austin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_6R8rDUIcd8jS93n5Qt2qW0_30.309932_-97.845131@1303263065"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c5fad7a4c917a87943d6948bcf3851f",
+    "wof:geomhash":"f9434aa1f53cf401e20a6224fd79dec4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":303602159,
-    "wof:lastmodified":1467083749,
+    "wof:lastmodified":1510942802,
     "wof:name":"One World Theatre",
     "wof:parent_id":85867219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303633391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

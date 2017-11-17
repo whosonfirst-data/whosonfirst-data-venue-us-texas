@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.527,31.8277,-106.527,31.8277",
     "geom:latitude":31.8277,
     "geom:longitude":-106.527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5857 N Mesa St Ste 11",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3h8vk1TegcMGho44f1Bspr_31.827700_-106.527000@1303263078"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdc2093f0c084cf5921c31a7a579792a",
+    "wof:geomhash":"951997eb8a22a0c71b82be7c3b7054a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":319855487,
-    "wof:lastmodified":1467084383,
+    "wof:lastmodified":1510944039,
     "wof:name":"Saritas Custom Sewing Inc",
     "wof:parent_id":85808379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622631645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing",

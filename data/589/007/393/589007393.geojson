@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.892994,31.119831,-97.892994,31.119831",
     "geom:latitude":31.119831,
     "geom:longitude":-97.892994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1110 E Hwy 190",
     "sg:city":"Copperas Cove",
     "sg:classifiers":[
@@ -33,15 +36,17 @@
         "sg:id":"SG_4YDTRTWPbN89hD3CGBMCIs_31.119831_-97.892994@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"96a8c69b72906c1139ffadd61299060c",
+    "wof:geomhash":"6429ab84ba977672a4e868214550f2a4",
     "wof:hierarchy":[],
     "wof:id":589007393,
-    "wof:lastmodified":1467085398,
+    "wof:lastmodified":1510942045,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638590861
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

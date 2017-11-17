@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.831019,32.972712,-96.831019,32.972712",
     "geom:latitude":32.972712,
     "geom:longitude":-96.831019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16415 Addison Rd Ste 110",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4jbPrZVHD9H72hg4jpeq9z_32.972712_-96.831019@1303262961"
     },
     "wof:country":"US",
-    "wof:geomhash":"981cb311d869f35e9f286441ca91b450",
+    "wof:geomhash":"f00bd7705891b331b0842fd247b00724",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":235980151,
-    "wof:lastmodified":1467084141,
+    "wof:lastmodified":1510941891,
     "wof:name":"Tower Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588772613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

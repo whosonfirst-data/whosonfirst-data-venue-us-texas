@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.125351,32.832905,-97.125351,32.832905",
     "geom:latitude":32.832905,
     "geom:longitude":-97.125351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1615 Hospital Pkwy # 300",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_6xpOYiwvWk677tEwkdt64g_32.832905_-97.125351@1303262997"
     },
     "wof:country":"US",
-    "wof:geomhash":"c763c17a85d0f9efc27c0493cbaed500",
+    "wof:geomhash":"f952dd19a857044e558369da8d303551",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":253661237,
-    "wof:lastmodified":1467085036,
+    "wof:lastmodified":1510941285,
     "wof:name":"Mid Cities Oncology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605165675
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

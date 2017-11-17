@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.970934,32.873908,-96.970934,32.873908",
     "geom:latitude":32.873908,
     "geom:longitude":-96.970934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1825 W Walnut Hill Ln",
     "sg:city":"Irving",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2xbtpflK5FrU8zX9uKgPby_32.873908_-96.970934@1303262964"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3bc23523f125f277bda11e29b2c03bd",
+    "wof:geomhash":"e7636ecfafc528b0c136a1cead4aaab2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236196445,
-    "wof:lastmodified":1467083895,
+    "wof:lastmodified":1510942346,
     "wof:name":"Hollman Inc.",
     "wof:parent_id":85878323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236203507
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
